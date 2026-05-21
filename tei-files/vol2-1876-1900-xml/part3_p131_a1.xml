@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p131_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1880, Algernon Charles Swinburne. Short Notes on English Poets,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/41846937">Algernon Charles Swinburne</author>
+            <date cert="high" when="1880">1880</date>
+            <title level="a">Short Notes on English Poets,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page">131-132</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#happinessCheerfulness"/>
+        <catRef scheme="#criticism" target="#pathos"/>
+        <catRef scheme="#criticism" target="#humourWit"/>
+        <catRef scheme="#criticism" target="#dante"/>
+        <catRef scheme="#criticism" target="#villon"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-05-21" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="131"/>
+        <ab type="imprint">1880. Swinburne, Algernon Charles. Short Notes on English Poets, Chaucer, Spenser, the Sonnets of Shakespeare, Milton, [in] The Fortnightly Review, 1880, pp. 708-10. [Reprinted in Miscellanies, 1886, pp. 2-6, 88, 150, 152, 175.]</ab>
+        <ab type="quotation">
+          <seg>[Mr. W. Rossetti, in his Lives of Famous Poets, has selected
+four of our poets "as composing the supreme quadrilateral of
+English song."]
+[p.2] It is through no lack of love and reverence for the name of
+Chaucer that I must question his right, though the first
+narrative poet of England, to stand on that account beside
+her first dramatic, her first epic, or her first lyric poet. But,
+being certainly unprepared to admit his equality with Shake¬
+speare, with Milton, and with Shelley, I would reduce Mr.
+Rossetti's mystic four to the old sacred number of three.
+Pure or mere narrative is a form essentially and avowedly
+inferior to the Iyrical or the dramatic form of poetry; and
+the finer line of distinction which marks it off from the epic
+marks it also thereby as inferior.
+Of all whose names may claim anything like equality of
+rank on the roll of national poets—not even excepting Virgil—
+we may say that Chaucer borrowed most from abroad, and did
+most to improve whatever he borrowed. I believe it would
+be but accurate to admit that in all his poems of serious or
+tragic narrative we hear a French or Italian tongue speaking
+with a Teutonic accent through English lips. It has utterly
+unlearnt the native tone and cadence of its natural inflections;
+it has perfectly put on the native tone and cadence of a
+stranger's; yet it is always what it was at first—lingua
+romana in bocca tedesca. It speaks not only with more
+vigour but actually with more swectness than the tongues of
+its teachers; but it speaks after its own fashion no other
+[p. 3] than the lesson they have taught. Chaucer was in the main
+a French or Italian poet, lined thoroughly and warmly
+throughout with the substance of an English humourist. And
+with this great gift of specially English humour he combined,
+naturally as it were and inevitably, the inseparable twin-born
+gift of peculiarly English pathos. ... Dante represents,
+at its best and highest, the upper class of the dark ages
+not less than he represents their Italy; Chaucer repre¬
+sents their middle class at its best and wisest, not less
+than he represents their England; Villon represents their
+lower class at its worst and its best alike even more
+than he represents their France. And of these three the
+English middle class, being incomparably the happiest and
+wisest, is indisputably, considering the common circumstances
+of their successive times, the least likely to have left us the
+highest example of all poetry then possible to men. And of
+their three legacies, precious and wonderful as it is, the
+Englishman’s is accordingly the least wonderful and the least
+precious. The poet of the sensible and prosperous middle
+class in England had less to suffer and to sing than the
+theosophic aristocrat of Italy, or the hunted and hungry
+vagabond. ...
+[p. 5] But in happy perfection of manhood the great and
+fortunate Englishman almost more exceeds his great and
+unfortunate fellow-singers than he is exceeded by them in
+depth of passion and height of rapture, in ardour and intensity
+of vision or of sense. With the single and sublimer
+exception of Sophocles, he seems to me the happiest of all
+great poets on record; their standing type and sovereign
+example of noble and manly happiness.
+[p. 152] [Comparison between Chaucer and Wordsworth. Chaucer
+superior in breadth of human interest, in simplicity of varied
+sympathies, in straightforward and superb command of his
+materials as an artist, in warmth and wealth of humour, in
+consummate power of narrative and in childlike manfulness of
+compassionate or joyous emotion; but Wordsworth’s sublimity
+is worth all the rest put together.]</seg>
+        </ab>
+        <ab type="headnote">[This last paragraph was added in 1886.]</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,889 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Index categories</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="pb-taxonomy">
+               <!-- I-Biography -->
+               <category xml:id="biography">
+                  <catDesc>Biography</catDesc>
+                  <category xml:id="evolutions">
+                     <catDesc>Evolutions</catDesc>
+                  </category>
+                  <category xml:id="life-records">
+                     <catDesc>Life-records</catDesc>
+                  </category>
+                  <category xml:id="general-accounts">
+                     <catDesc>General Accounts of Chaucer</catDesc>
+                     <category xml:id="english">
+                        <catDesc>English</catDesc>
+                     </category>
+                     <category xml:id="french">
+                        <catDesc>French</catDesc>
+                     </category>
+                     <category xml:id="german">
+                        <catDesc>German</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="family">
+                     <catDesc>Family</catDesc>
+                     <category xml:id="genealogy">
+                        <catDesc>Genealogy</catDesc>
+                     </category>
+                     <category xml:id="arms-seal">
+                        <catDesc>Arms and Seal</catDesc>
+                     </category>
+                     <category xml:id="other-holders">
+                        <catDesc>Other holders of the name</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="episodes">
+                     <catDesc>Phases and Episodes</catDesc>
+                     <category xml:id="birth">
+                        <catDesc>Birth</catDesc>
+                     </category>
+                     <category xml:id="education">
+                        <catDesc>Education</catDesc>
+                     </category>
+                     <category xml:id="diplomatic">
+                        <catDesc>His diplomatic and otger journeys abroad</catDesc>
+                     </category>
+                     <category xml:id="appointments">
+                        <catDesc>Appointments, annuities, grants</catDesc>
+                     </category>
+                     <category xml:id="other-episodes">
+                        <catDesc>Other episodes</catDesc>
+                     </category>
+                     <category xml:id="death">
+                        <catDesc>Death</catDesc>
+                     </category>
+                     <category xml:id="tomb-epitath">
+                        <catDesc>Tomb and epitath</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="portraits">
+                     <catDesc>Portraits</catDesc>
+                     <category xml:id="original">
+                        <catDesc>Original or supposed</catDesc>
+                     </category>
+                     <category xml:id="engraved">
+                        <catDesc>Engraved</catDesc>
+                     </category>
+                     <category xml:id="modern">
+                        <catDesc>Modern</catDesc>
+                     </category>
+                  </category>
+                  
+               </category>              
+               
+               <!-- II-Criticism -->
+               <category xml:id="criticism">
+                  <catDesc>Criticism</catDesc>
+                  <category xml:id="evolution">
+                     <catDesc>Evolution</catDesc>
+                  </category>
+                  <category xml:id="general">
+                     <catDesc>General, selected</catDesc>
+                  </category>
+                  <category xml:id="language">
+                     <catDesc>Language</catDesc>
+                     <category xml:id="general-language">
+                        <catDesc>General</catDesc>
+                     </category>
+                     <category xml:id="monosyllables">
+                        <catDesc>Monosyllables</catDesc>
+                     </category>
+                     <category xml:id="dialects">
+                        <catDesc>Dialects</catDesc>
+                     </category>
+                     <category xml:id="pronunciation">
+                        <catDesc>Pronunciation</catDesc>
+                     </category>
+                     <category xml:id="obsoleteRude">
+                        <catDesc>Held obsolete or rude</catDesc>
+                     </category>
+                     <category xml:id="notObsoleteRude">
+                        <catDesc>Held not obsolete or rude</catDesc>
+                     </category>
+                     <category xml:id="refiningEnglish">
+                        <catDesc>Chaucer praised for refining English</catDesc>
+                     </category>
+                     <category xml:id="corruptedEnglish">
+                        <catDesc>Chaucer corrupted English</catDesc>
+                     </category>
+                     <category xml:id="importationMinimised">
+                        <catDesc>Importation minimised or ignored</catDesc>
+                     </category>
+                     <category xml:id="importationDenied">
+                        <catDesc>Importation denied</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="verse">
+                     <catDesc>Verse</catDesc>
+                     <category xml:id="thoughtIrregular">
+                        <catDesc>Thought irregular</catDesc>
+                     </category>
+                     <category xml:id="thoughtRhythmical">
+                        <catDesc>Thought rhythmical</catDesc>
+                     </category>
+                     <category xml:id="praised">
+                        <catDesc>Thought only apparently irregular, praised in general</catDesc>
+                     </category>
+                     <category xml:id="finalE">
+                        <catDesc>Final e discovered</catDesc>
+                     </category>
+                     <category xml:id="decried">
+                        <catDesc>Decried</catDesc>
+                     </category>
+                     <category xml:id="ridingRhyme">
+                        <catDesc>Riding rhyme</catDesc>
+                     </category>
+                     <category xml:id="couplet">
+                        <catDesc>Couplet</catDesc>
+                     </category>
+                     <category xml:id="stanza">
+                        <catDesc>Stanza</catDesc>
+                     </category>
+                     <category xml:id="alliteration">
+                        <catDesc>Alliteration</catDesc>
+                     </category>
+                     <category xml:id="miscellaneous">
+                        <catDesc>Miscellaneous</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="prose">
+                     <catDesc>Prose</catDesc>
+                  </category>
+                  <category xml:id="qualities">
+                     <catDesc>Particular qualities found in C.</catDesc>
+                     <category xml:id="realism">
+                        <catDesc>Realism: description of manners</catDesc>
+                     </category>
+                     <category xml:id="observationCharacter">
+                        <catDesc>Observation of Character</catDesc>
+                     </category>
+                     <category xml:id="humourWit">
+                        <catDesc>Humour: 'wit'</catDesc>
+                     </category>
+                     <category xml:id="indecencyFrivolity">
+                        <catDesc>Indecency: frivolity</catDesc>
+                     </category>
+                     <category xml:id="moralPurposeSatire">
+                        <catDesc>Moral purpose: satire</catDesc>
+                     </category>
+                     <category xml:id="anticlericalism">
+                        <catDesc>Anticlericalism</catDesc>
+                     </category>
+                     <category xml:id="piety">
+                        <catDesc>Piety</catDesc>
+                     </category>
+                     <category xml:id="impiety">
+                        <catDesc>Impiety</catDesc>
+                     </category>
+                     <category xml:id="pathos">
+                        <catDesc>Pathos</catDesc>
+                     </category>
+                     <category xml:id="sublimity">
+                        <catDesc>Sublimity</catDesc>
+                     </category>
+                     <category xml:id="wantSublimitySeriousness">
+                        <catDesc>Want of sublimity or of seriousness</catDesc>
+                     </category>
+                     <category xml:id="loveNature">
+                        <catDesc>Love of nature</catDesc>
+                     </category>
+                     <category xml:id="happinessCheerfulness">
+                        <catDesc>Happiness: cheerfulness</catDesc>
+                     </category>
+                     <category xml:id="learning">
+                        <catDesc>Learning</catDesc>
+                     </category>
+                     <category xml:id="universality">
+                        <catDesc>Universality</catDesc>
+                     </category>
+                     <category xml:id="prolixity">
+                        <catDesc>Prolixity</catDesc>
+                     </category>
+                     <category xml:id="brevity">
+                        <catDesc>Brevity</catDesc>
+                     </category>
+                     <category xml:id="eloquence">
+                        <catDesc>Eloquence</catDesc>
+                     </category>
+                     <category xml:id="facility">
+                        <catDesc>Facility</catDesc>
+                     </category>
+                     <category xml:id="artificiality">
+                        <catDesc>Artificiality</catDesc>
+                     </category>
+                     <category xml:id="heaviness">
+                        <catDesc>Heaviness</catDesc>
+                     </category>
+                     <category xml:id="originality">
+                        <catDesc>Originality</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="comparisons">
+                     <catDesc>Comparisons of</catDesc>
+                     <category xml:id="beaumont">
+                        <catDesc>Beaumont</catDesc>
+                     </category>
+                     <category xml:id="boccaccio">
+                        <catDesc>Boccaccio</catDesc>
+                     </category>
+                     <category xml:id="browning">
+                        <catDesc>Browning</catDesc>
+                     </category>
+                     <category xml:id="burns">
+                        <catDesc>Burns</catDesc>
+                     </category>
+                     <category xml:id="cavendish">
+                        <catDesc>Cavendish, Margared</catDesc>
+                     </category>
+                     <category xml:id="chatterton">
+                        <catDesc>Chatterton</catDesc>
+                     </category>
+                     <category xml:id="cicero">
+                        <catDesc>Cicero</catDesc>
+                     </category>
+                     <category xml:id="crabbe">
+                        <catDesc>Crabbe</catDesc>
+                     </category>
+                     <category xml:id="dante">
+                        <catDesc>Dante</catDesc>
+                     </category>
+                     <category xml:id="dryden">
+                        <catDesc>Dryden</catDesc>
+                     </category>
+                     <category xml:id="dunbar">
+                        <catDesc>Dunbar</catDesc>
+                     </category>
+                     <category xml:id="ennius">
+                        <catDesc>Ennius</catDesc>
+                     </category>
+                     <category xml:id="gower">
+                        <catDesc>Gower</catDesc>
+                     </category>
+                     <category xml:id="henryMinstrel">
+                        <catDesc>Henry, the Minstrel</catDesc>
+                     </category>
+                     <category xml:id="hogarth">
+                        <catDesc>Hogarth</catDesc>
+                     </category>
+                     <category xml:id="homer">
+                        <catDesc>Homer</catDesc>
+                     </category>
+                     <category xml:id="howell">
+                        <catDesc>T. Howell</catDesc>
+                     </category>
+                     <category xml:id="keats">
+                        <catDesc>Keats</catDesc>
+                     </category>
+                     <category xml:id="laFontaine">
+                        <catDesc>La Fontaine</catDesc>
+                     </category>
+                     <category xml:id="lydgate">
+                        <catDesc>Lydgate</catDesc>
+                     </category>
+                     <category xml:id="marot">
+                        <catDesc>Marot</catDesc>
+                     </category>
+                     <category xml:id="meistersinger">
+                        <catDesc>The Meistersinger</catDesc>
+                     </category>
+                     <category xml:id="morris">
+                        <catDesc>Morris</catDesc>
+                     </category>
+                     <category xml:id="ossian">
+                        <catDesc>Ossian</catDesc>
+                     </category>
+                     <category xml:id="ovid">
+                        <catDesc>Ovid</catDesc>
+                     </category>
+                     <category xml:id="pope">
+                        <catDesc>Pope</catDesc>
+                     </category>
+                     <category xml:id="ramsay">
+                        <catDesc>Allan Ramsay</catDesc>
+                     </category>
+                     <category xml:id="ruizHita">
+                        <catDesc>Ruiz de Hita</catDesc>
+                     </category>
+                     <category xml:id="shakespeare">
+                        <catDesc>Shakespeare</catDesc>
+                     </category>
+                     <category xml:id="skelton">
+                        <catDesc>Skelton</catDesc>
+                     </category>
+                     <category xml:id="spenser">
+                        <catDesc>Spenser</catDesc>
+                     </category>
+                     <category xml:id="varro">
+                        <catDesc>Varro</catDesc>
+                     </category>
+                     <category xml:id="villon">
+                        <catDesc>Villon</catDesc>
+                     </category>
+                     <category xml:id="wyatt">
+                        <catDesc>Wyatt</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="influence">
+                     <catDesc>Influence of, on other poets</catDesc>
+                  </category>                  
+               </category>
+               
+               <!-- III-Modernizations -->
+               <category xml:id="modernizations">
+                  <catDesc>Modernizations</catDesc>
+                  <category xml:id="general-modernizations">
+                     <catDesc>General</catDesc>
+                     <category xml:id="praisedDefended">
+                        <catDesc>Praised or defended</catDesc>
+                     </category>
+                     <category xml:id="condemned">
+                        <catDesc>Condemned</catDesc>
+                     </category>
+                     <category xml:id="criticized">
+                        <catDesc>Criticized</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="particular">
+                     <catDesc>Particular</catDesc>
+                     <category xml:id="anonymous-modern">
+                        <catDesc>Anonymous</catDesc>
+                     </category>
+                     <category xml:id="bell">
+                        <catDesc>Bell R.</catDesc>
+                     </category>
+                     <category xml:id="betterton">
+                        <catDesc>Betterton T.</catDesc>
+                     </category>
+                     <category xml:id="browning-modern">
+                        <catDesc>Browning E. B.</catDesc>
+                     </category>
+                     <category xml:id="catcott">
+                        <catDesc>Catcott A. E.</catDesc>
+                     </category>
+                     <category xml:id="clarke">
+                        <catDesc>Clarke C. Cowden</catDesc>
+                     </category>
+                     <category xml:id="cobb">
+                        <catDesc>Cobb S.</catDesc>
+                     </category>
+                     <category xml:id="cooke">
+                        <catDesc>Cooke, W.</catDesc>
+                     </category>
+                     <category xml:id="dart">
+                        <catDesc>Dart J.</catDesc>
+                     </category>
+                     <category xml:id="dryden-modern">
+                        <catDesc>Dryden J.</catDesc>
+                     </category>
+                     <category xml:id="dunkin">
+                        <catDesc>Dunkin W.</catDesc>
+                     </category>
+                     <category xml:id="grovesnor">
+                        <catDesc>Grovesnor</catDesc>
+                     </category>
+                     <category xml:id="harte">
+                        <catDesc>Harte W.</catDesc>
+                     </category>
+                     <category xml:id="haweis-modern">
+                        <catDesc>Haweis M. E.</catDesc>
+                     </category>
+                     <category xml:id="horne">
+                        <catDesc>Horne R. H.</catDesc>
+                     </category>
+                     <category xml:id="hunt-modern">
+                        <catDesc>Hunt Leigh</catDesc>
+                     </category>
+                     <category xml:id="jackson">
+                        <catDesc>Jackson A.</catDesc>
+                     </category>
+                     <category xml:id="johnstone">
+                        <catDesc>Johnstone J.</catDesc>
+                     </category>
+                     <category xml:id="lipscombe">
+                        <catDesc>Lipscombe W.</catDesc>
+                     </category>
+                     <category xml:id="markland">
+                        <catDesc>Markland J.</catDesc>
+                     </category>
+                     <category xml:id="maynwaring">
+                         <catDesc>Maynwaring A.</catDesc>
+                     </category>
+                     <category xml:id="milnes">
+                        <catDesc>Milnes M.</catDesc>
+                     </category>
+                     <category xml:id="ogle">
+                        <catDesc>Ogle</catDesc>
+                     </category>
+                     <category xml:id="penn">
+                        <catDesc>Penn J.</catDesc>
+                     </category>
+                     <category xml:id="pittTaylor">
+                        <catDesc>Pitt-Taylor F.</catDesc>
+                     </category>
+                     <category xml:id="pope-modern">
+                        <catDesc>Pope A.</catDesc>
+                     </category>
+                     <category xml:id="powell">
+                        <catDesc>Powell T.</catDesc>
+                     </category>
+                     <category xml:id="saunders">
+                        <catDesc>Saunders J.</catDesc>
+                     </category>
+                     <category xml:id="sewell">
+                        <catDesc>Sewell G.</catDesc>
+                     </category>
+                     <category xml:id="storr">
+                        <catDesc>Storr F.</catDesc>
+                     </category>
+                     <category xml:id="thurlow">
+                        <catDesc>Thurlow E.</catDesc>
+                     </category>
+                     <category xml:id="trinitarius">
+                        <catDesc>Trinitarius</catDesc>
+                     </category>
+                     <category xml:id="tytler">
+                        <catDesc>Tytler</catDesc>
+                     </category>
+                     <category xml:id="wordsworth">
+                        <catDesc>Wordsworth</catDesc>
+                     </category>
+                     <category xml:id="z">
+                        <catDesc>Z.</catDesc>
+                     </category>
+                  </category>
+               </category>
+               
+               <!-- IV-Imitations -->
+               <category xml:id="imitations">
+                  <catDesc>Imitations</catDesc>
+                  <category xml:id="imitationGeneral">
+                     <catDesc>Imitation in general</catDesc>
+                  </category>
+                  <category xml:id="particulorImitators">
+                     <catDesc>Particular imitators</catDesc>
+                     <category xml:id="anonymous-imitations">
+                        <catDesc>Anonymous</catDesc>
+                     </category>
+                     <category xml:id="arbuthnot">
+                        <catDesc>Arbuthnot J.</catDesc>
+                     </category>
+                     <category xml:id="baynes">
+                        <catDesc>Baynes J.</catDesc>
+                     </category>
+                     <category xml:id="brome">
+                        <catDesc>Brome A.</catDesc>
+                     </category>
+                     <category xml:id="brooke">
+                        <catDesc>Brooke A.</catDesc>
+                     </category>
+                     <category xml:id="bullein">
+                        <catDesc>Bullein W.</catDesc>
+                     </category>
+                     <category xml:id="chatterton-imitations">
+                        <catDesc>Chatterton T.</catDesc>
+                     </category>
+                     <category xml:id="drayton">
+                        <catDesc>Drayton M.</catDesc>
+                     </category>
+                     <category xml:id="fagan">
+                        <catDesc>Fagan C. G.</catDesc>
+                     </category>
+                     <category xml:id="fenton">
+                        <catDesc>Fenton E.</catDesc>
+                     </category>
+                     <category xml:id="fielding">
+                        <catDesc>Fielding H.</catDesc>
+                     </category>
+                     <category xml:id="frere">
+                        <catDesc>Frere J. H.</catDesc>
+                     </category>
+                     <category xml:id="gay">
+                        <catDesc>Gay J.</catDesc>
+                     </category>
+                     <category xml:id="gough">
+                        <catDesc>Gough R.</catDesc>
+                     </category>
+                     <category xml:id="greene">
+                        <catDesc>Greene E. B.</catDesc>
+                     </category>
+                     <category xml:id="harris">
+                        <catDesc>Harris J.</catDesc>
+                     </category>
+                     <category xml:id="hunt-imitations">
+                        <catDesc>Hunt Leigh</catDesc>
+                     </category>
+                     <category xml:id="james">
+                        <catDesc>James F.</catDesc>
+                     </category>
+                     <category xml:id="keats-imitations">
+                        <catDesc>Keats J.</catDesc>
+                     </category>
+                     <category xml:id="ker">
+                        <catDesc>Ker W.</catDesc>
+                     </category>
+                     <category xml:id="mason">
+                        <catDesc>Mason W.</catDesc>
+                     </category>
+                     <category xml:id="mathias">
+                        <catDesc>Mathias T. J.</catDesc>
+                     </category>
+                     <category xml:id="mennis">
+                        <catDesc>Mennis Sir J.</catDesc>
+                     </category>
+                     <category xml:id="N">
+                        <catDesc>N. B.</catDesc>
+                     </category>
+                     <category xml:id="pope-imitations">
+                        <catDesc>Pope A.</catDesc>
+                     </category>
+                     <category xml:id="prior">
+                        <catDesc>Prior M.</catDesc>
+                     </category>
+                     <category xml:id="skeat-imitations">
+                        <catDesc>Skeat W. W.</catDesc>
+                     </category>
+                     <category xml:id="spenser-imitations">
+                        <catDesc>Spenser E.</catDesc>
+                     </category>
+                     <category xml:id="starkey">
+                        <catDesc>Starkey A.</catDesc>
+                     </category>
+                     <category xml:id="swift">
+                        <catDesc>Swift J.</catDesc>
+                     </category>
+                     <category xml:id="thompson">
+                        <catDesc>Thompson W.</catDesc>
+                     </category>
+                     <category xml:id="taylor">
+                        <catDesc>Taylor J.</catDesc>
+                     </category>
+                     <category xml:id="thurlow-imitations">
+                        <catDesc>Thurlow E.</catDesc>
+                     </category>
+                     <category xml:id="warton">
+                        <catDesc>Warton T.</catDesc>
+                     </category>
+                     <category xml:id="wharton">
+                        <catDesc>Wharton R.</catDesc>
+                     </category>
+                  </category>
+               </category>
+            
+               <!-- V-Illustrations -->
+               <category xml:id="illustrations">
+                  <catDesc>Illustrations</catDesc>
+                  <category xml:id="blake">
+                     <catDesc>Blake W.</catDesc>
+                  </category>
+                  <category xml:id="burneJones">
+                     <catDesc>Burne-Jones Sir E. C.</catDesc>
+                  </category>
+                  <category xml:id="corbould">
+                     <catDesc>Corbould E.</catDesc>
+                  </category>
+                  <category xml:id="dixon">
+                     <catDesc>Dixon R. W.</catDesc>
+                  </category>
+                  <category xml:id="hamilton">
+                     <catDesc>Hamilton W.</catDesc>
+                  </category>
+                  <category xml:id="hooper">
+                     <catDesc>Hooper W. H.</catDesc>
+                  </category>
+                  <category xml:id="jeffereys">
+                     <catDesc>Jeffereys J.</catDesc>
+                  </category>
+                  <category xml:id="mortimer">
+                     <catDesc>Mortimer J. H.</catDesc>
+                  </category>
+                  <category xml:id="sothard">
+                     <catDesc>Sothard T.</catDesc>
+                  </category>
+                  <category xml:id="waller">
+                     <catDesc>Waller J. G.</catDesc>
+                  </category>
+                  <category xml:id="anonymous-illustrations">
+                     <catDesc>Anonymous</catDesc>
+                  </category>
+               </category>
+            
+               <!-- VI-Manuscripts -->
+               <category xml:id="manuscripts">
+                  <catDesc>Manuscripts</catDesc>
+               </category>
+               
+               <!-- VII-Bibliography -->
+               <category xml:id="bibliography">
+                  <catDesc>Bibliography</catDesc>
+               </category>
+               
+               <!-- VIII-Works -->
+               <category xml:id="works">
+                  <catDesc>Works</catDesc>
+                  <category xml:id="chronology">
+                     <catDesc>Chronology of</catDesc>
+                  </category>
+                  <category xml:id="canon">
+                     <catDesc>Canon of</catDesc>
+                  </category>
+                  <category xml:id="editionCompleteWorks">
+                     <catDesc>Editions of Complete Works</catDesc>
+                  </category>
+                  <category xml:id="canterburyTales">
+                     <catDesc>Canterbury Tales</catDesc>
+                     <category xml:id="manuscripts-tales">
+                        <catDesc>Manuscripts</catDesc>
+                     </category>
+                     <category xml:id="earlyRecordsCopies">
+                        <catDesc>Early Records of copies</catDesc>
+                     </category>
+                     <category xml:id="editionsEnglish">
+                        <catDesc>Editions (English)</catDesc>
+                     </category>
+                     <category xml:id="editionsFrench">
+                        <catDesc>Editions (French)</catDesc>
+                     </category>
+                     <category xml:id="editionsGerman">
+                        <catDesc>Editions (German)</catDesc>
+                     </category>
+                     <category xml:id="abridgmentsChildren">
+                        <catDesc>Abridgments for Children</catDesc>
+                     </category>
+                     <category xml:id="modernizations-tales">
+                        <catDesc>Modernizations</catDesc>
+                     </category>
+                     <category xml:id="sequels">
+                        <catDesc>Sequels</catDesc>
+                     </category>
+                     <category xml:id="rhymeIndex">
+                        <catDesc>Rhyme-Index</catDesc>
+                     </category>
+                     <category xml:id="summaries">
+                        <catDesc>Summaries</catDesc>
+                     </category>
+                     <category xml:id="frameOrder">
+                        <catDesc>Frame and Order of the Tales</catDesc>
+                     </category>
+                     <category xml:id="criticisms">
+                        <catDesc>Criticisms</catDesc>
+                     </category>
+                     <category xml:id="prologue">
+                        <catDesc>Prologue</catDesc>
+                     </category>
+                     <category xml:id="canonYeomanTale">
+                        <catDesc>Canon's Yeoman's Tale</catDesc>
+                     </category>
+                     <category xml:id="clerkTale">
+                        <catDesc>Clerk's Tale</catDesc>
+                     </category>
+                     <category xml:id="cookTale">
+                        <catDesc>Cook's Tale</catDesc>
+                     </category>
+                     <category xml:id="franklinTale">
+                        <catDesc>Franklin's Tale</catDesc>
+                     </category>
+                     <category xml:id="friarTale">
+                        <catDesc>Friar's Tale</catDesc>
+                     </category>
+                     <category xml:id="knightTale">
+                        <catDesc>Knight's Tale</catDesc>
+                     </category>
+                     <category xml:id="manLawTale">
+                        <catDesc>Man of Law's Tale</catDesc>
+                     </category>
+                     <category xml:id="mancipleTale">
+                        <catDesc>Manciple's Tale</catDesc>
+                     </category>
+                     <category xml:id="melibeus">
+                        <catDesc>Melibeus</catDesc>
+                     </category>
+                     <category xml:id="merchantTale">
+                        <catDesc>Merchant's Tale</catDesc>
+                     </category>
+                     <category xml:id="millerTale">
+                        <catDesc>Miller's Tale</catDesc>
+                     </category>
+                     <category xml:id="monkTale">
+                        <catDesc>Monk's Tale</catDesc>
+                     </category>
+                     <category xml:id="nunsPriestTale">
+                        <catDesc>Nuns' Priest Tale</catDesc>
+                     </category>
+                     <category xml:id="pardonerTale">
+                        <catDesc>Pardoner's Tale</catDesc>
+                     </category>
+                     <category xml:id="parsonTale">
+                        <catDesc>Parson's Tale</catDesc>
+                     </category>
+                     <category xml:id="prioressTale">
+                        <catDesc>Prioress's Tale</catDesc>
+                     </category>
+                     <category xml:id="reeveTale">
+                        <catDesc>Reeve's Tale</catDesc>
+                     </category>
+                     <category xml:id="sirThopas">
+                        <catDesc>Sir Thopas</catDesc>
+                     </category>
+                     <category xml:id="sompnourTale">
+                        <catDesc>Sompnour's Tale</catDesc>
+                     </category>
+                     <category xml:id="squireTale">
+                        <catDesc>Squire's Tale</catDesc>
+                     </category>
+                     <category xml:id="wifeBathPrologue">
+                        <catDesc>Wife of Bath's Prologue</catDesc>
+                     </category>
+                     <category xml:id="wifeBathTale">
+                        <catDesc>Wife of Bath's Tale</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="otherSeparateWorks">
+                     <catDesc>Other Separate Works</catDesc>
+                     <category xml:id="abc">
+                        <catDesc>A.B.C.</catDesc>
+                     </category>
+                     <category xml:id="adamScrivener">
+                        <catDesc>Adam Scrivener</catDesc>
+                     </category>
+                     <category xml:id="anelidaArcite">
+                        <catDesc>Anelida and Arcite</catDesc>
+                     </category>
+                     <category xml:id="astrolabe">
+                        <catDesc>Astrolabe</catDesc>
+                     </category>
+                     <category xml:id="boethius">
+                        <catDesc>Boethius</catDesc>
+                     </category>
+                     <category xml:id="bookDuchess">
+                        <catDesc>Book of the Duchess</catDesc>
+                     </category>
+                     <category xml:id="buktonEnvoy">
+                        <catDesc>Bukton, Envoy to</catDesc>
+                     </category>
+                     <category xml:id="complaintMars">
+                        <catDesc>Complaint of Mars</catDesc>
+                     </category>
+                     <category xml:id="complaintVenus">
+                        <catDesc>Complaint of Venus</catDesc>
+                     </category>
+                     <category xml:id="complaintPurse">
+                        <catDesc>Complaint of his Purse</catDesc>
+                     </category>
+                     <category xml:id="complaintPity">
+                        <catDesc>Complaint to Pity</catDesc>
+                     </category>
+                     <category xml:id="formerAge">
+                        <catDesc>Former Age</catDesc>
+                     </category>
+                     <category xml:id="fortune">
+                        <catDesc>Fortune</catDesc>
+                     </category>
+                     <category xml:id="gentilesse">
+                        <catDesc>Gentilesse</catDesc>
+                     </category>
+                     <category xml:id="houseFame">
+                        <catDesc>House of Fame</catDesc>
+                     </category>
+                     <category xml:id="lackSteadfastness">
+                        <catDesc>Lack of Steadfastness</catDesc>
+                     </category>
+                     <category xml:id="legendGoodWomen">
+                        <catDesc>Legend of Good Women</catDesc>
+                     </category>
+                     <category xml:id="mercilessBeauty">
+                        <catDesc>Merciless Beauty</catDesc>
+                     </category>
+                     <category xml:id="minorPoems">
+                        <catDesc>MinorPoems</catDesc>
+                     </category>
+                     <category xml:id="parliamentFowls">
+                        <catDesc>Parliament of Fowls</catDesc>
+                     </category>
+                     <category xml:id="proverbs">
+                        <catDesc>Proverbs</catDesc>
+                     </category>
+                     <category xml:id="romauntRose">
+                        <catDesc>Romaunt of the Rose</catDesc>
+                     </category>
+                     <category xml:id="rosamounde">
+                        <catDesc>Rosamounde</catDesc>
+                     </category>
+                     <category xml:id="scoganEnvoy">
+                        <catDesc>Scogan, Envoy to</catDesc>
+                     </category>
+                     <category xml:id="troilus">
+                        <catDesc>Troilus</catDesc>
+                     </category>
+                     <category xml:id="truth">
+                        <catDesc>Truth</catDesc>
+                     </category>
+                  </category>
+                  <category xml:id="selections">
+                     <catDesc>Selections</catDesc>
+                  </category>
+                  <category xml:id="lostWorks">
+                     <catDesc>Lost Works</catDesc>
+                  </category>
+                  <category xml:id="anthologies">
+                     <catDesc>Appearance in Anthologies</catDesc>
+                  </category>
+                  <category xml:id="spuriousWorks">
+                     <catDesc>Spurious Works</catDesc>
+                     <category xml:id="collective">
+                        <catDesc>Collective</catDesc>
+                     </category>
+                     <category xml:id="taleBeryn">
+                        <catDesc>Beryn, the Tale of</catDesc>
+                     </category>
+                     <category xml:id="chronicle">
+                        <catDesc>Chronicle</catDesc>
+                     </category>
+                     <category xml:id="cuckooNightingale">
+                        <catDesc>Cuckoo and Nightingale</catDesc>
+                     </category>
+                     <category xml:id="gamelynTale">
+                        <catDesc>Gamelyn, The Tale of</catDesc>
+                     </category>
+                     <category xml:id="isleLadies">
+                        <catDesc>Isle of Ladies (Chaucer's Dream)</catDesc>
+                     </category>
+                     <category xml:id="epitathEdward3">
+                        <catDesc>Epitath on Edward III</catDesc>
+                     </category>
+                  </category>
+               </category>
+               
+               <!-- IX-Chaucer a Character in Fiction and Drama -->
+               <category xml:id="characterFictionDrama">
+                  <catDesc>Chaucer a Character in Fiction and Drama</catDesc>
+               </category>
+               
+               <!-- X-Book Titles taken from C. -->
+               <category xml:id="bookTitles">
+                  <catDesc>Book Titles taken from C.</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
