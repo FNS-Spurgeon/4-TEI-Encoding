@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1879-80, Geoffrey Chaucer. The Poetical Works of Chaucer,</title>
+        <title>1879-80, Geoffrey Chaucer. The Poetical Works of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +31,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
-            <date cert="high" when="1879-80">1879-80</date>
-            <title level="a">The Poetical Works of Chaucer,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
+            <date cert="high" from="1879" to="1880">1879-80</date>
+            <title level="a">The Poetical Works of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -70,7 +70,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="editionCompleteWorks"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -81,35 +81,40 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="123"/>
+        
         <ab type="imprint">1879-80. Chaucer, Geoffrey. The Poetical Works of Chaucer, to which are appended poems attributed to Chaucer, edited by Arthur Gilman, 3 vols., Boston, 1880.</ab>
+        
         <ab type="quotation">
-          <seg>[Gilman's edition of Chaucer is the first considerable use
-made, by way of an edition, of the work of Furnivall and
-the Chaucer Society. In the case of the Canterbury Tales,
-the text was based on the Ellesmere MS., which was collated
-with others. It was considered advisable "not to burden
-the volume with the various readings." The line-numbers
-of Tyrwhitt’s edition are given in parentheses every fiftieth
-line, and in the prose tales every tenth break in the six-text
-edition is indicated. The greatest praise and thanks are
-given to the Chaucer Society. The edition is also indebted
-to the labours of Child, Skeat, Morris, Bradshaw and ten
-Brink.
-The Biography entitled The Times and the Poet is by the
-editor, and is divided into sections: i. The Outer Life;
-ii. The Social Life; iii. The Poet’s Life; iv. The Poet’s
-Works; v. The Poet's Genius. A Section On Reading
-Chaucer follows with information on pronunciation, stress
-and scansion. Sections on Astrological Terms and Biblical
-References follow. The Tales are divided into four days'
-recital.
-The apocryphal pieces include: Proverbe of Chaucer,
-Balade de Visage, etc., Court of Love, Flower and Leaf, Cuckow
-and Nightingale, Praise of Women, Chaucer’s Dream, Virelai
-(Alone walkyng," etc.), Chaucer’s Prophesy and Go Forth
-King.
-The biography is dated 1879; the volumes were published
-in 1880.]</seg>
+          <seg type="editorial">[Gilman's edition of Chaucer is the first considerable use
+            made, by way of an edition, of the work of Furnivall and
+            the Chaucer Society. In the case of the <hi rend="italic">Canterbury Tales</hi>,
+            
+            <milestone unit="page" n="124"/>
+            
+            the text was based on the Ellesmere MS., which was collated
+            with others. It was considered advisable "not to burden
+            the volume with the various readings." The line-numbers
+            of Tyrwhitt’s edition are given in parentheses every fiftieth
+            line, and in the prose tales every tenth break in the six-text
+            edition is indicated. The greatest praise and thanks are
+            given to the Chaucer Society. The edition is also indebted
+            to the labours of Child, Skeat, Morris, Bradshaw and ten
+            Brink.
+            <lb/>The Biography entitled <hi rend="italic">The Times and the Poet</hi> is by the
+            editor, and is divided into sections: i. The Outer Life;
+            ii. The Social Life; iii. The Poet’s Life; iv. The Poet’s
+            Works; v. The Poet's Genius. A Section <hi rend="italic">On Reading
+            Chaucer</hi> follows with information on pronunciation, stress
+            and scansion. Sections on <hi rend="italic">Astrological Terms</hi> and <hi rend="italic">Biblical
+            References</hi> follow. The Tales are divided into four days'
+            recital.
+            <lb/>The apocryphal pieces include: <hi rend="italic">Proverbe of Chaucer</hi>,
+            <hi rend="italic">Balade de Visage</hi>, etc., <hi rend="italic">Court of Love</hi>, <hi rend="italic">Flower and Leaf</hi>, <hi rend="italic">Cuckow
+            and Nightingale</hi>, <hi rend="italic">Praise of Women</hi>, <hi rend="italic">Chaucer’s Dream</hi>, <hi rend="italic">Virelai</hi>
+            (Alone walkyng," etc.), <hi rend="italic">Chaucer’s Prophesy</hi> and <hi rend="italic">Go Forth
+            King</hi>.
+            <lb/>The biography is dated 1879; the volumes were published
+            in 1880.]</seg>
         </ab>
       </div>
     </body>

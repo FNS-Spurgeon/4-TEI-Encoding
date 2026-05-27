@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ODD for encoding allusions to Chaucer</title>
+        <author xml:id="EL">Elina Leblanc</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="RomaJS" version="1.3.2" when="2026-05-27T10:07:51.088Z">
+          <desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-05-27" who="#EL">ODD creation</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>A TEI Customization for Allusions to Chaucer</head>
+
+      <p>This ODD selects required elements to encode allusions to Chaucer. We have chosen a minimal encoding that covers the widest possible range of cases.
+        This document sets out the technical requirements. Details of the options, together with examples, are provided in a separate document.</p>
+      
+      <schemaSpec ident="tei_chaucerAllusions" start="TEI" prefix="tei_" targetLang="en"
+        docLang="en">
+
+        <!-- required minimal header elements -->
+        <moduleRef key="header"
+          include="teiHeader fileDesc titleStmt publicationStmt sourceDesc appInfo authority availability encodingDesc editorialDecl idno language langUsage licence profileDesc projectDesc revisionDesc samplingDecl textClass catRef application change"/>
+
+        <!-- required core elements (p and title for use in titleStmt) -->
+        <moduleRef key="core"
+          include="p title add address addrLine analytic author biblScope biblStruct date graphic head hi imprint item l lb lg list monogr note milestone ptr publisher pubPlace resp respStmt label name"/>
+
+        <!-- required textstructure elements (TEI, text, and body) -->
+        <moduleRef key="textstructure" include="TEI text body div"/>
+
+        <!-- required module tei instantiates lots of classes used for further expansion of this odd -->
+        <moduleRef key="tei"/>
+
+        <moduleRef key="figures" include="figure figDesc table row"/>
+        
+        <moduleRef key="linking" include="seg ab"/>
+        
+        <elementSpec ident="hi" mode="change">
+          <attList>
+            <attDef ident="rend" mode="change">
+              <valList type="semi" mode="change">
+                <valItem mode="add" ident="italic"/>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="seg" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList mode="change">
+                <valItem mode="add" ident="editorial"/>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="ab" mode="change">
+          <attList>
+            <attDef ident="type" mode="change">
+              <valList type="closed" mode="change">
+                <valItem mode="add" ident="quotation"/>
+                <valItem mode="add" ident="imprint"/>
+              </valList>
+            </attDef>
+          </attList>
+        </elementSpec>
+        <classSpec ident="att.global.rendition" type="atts" mode="change">
+          <attList>
+            <attDef ident="rend" mode="change">
+              <valList type="semi" mode="change"/>
+            </attDef>
+          </attList>
+        </classSpec>
+        <classRef key="att.datable.custom"/>
+        <classRef key="att.global.linking"/>
+        <classRef key="att.milestoneUnit"/>
+        <classRef key="att.calendarSystem"/>
+        <classSpec ident="att.anchoring" type="atts" mode="delete"/>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>

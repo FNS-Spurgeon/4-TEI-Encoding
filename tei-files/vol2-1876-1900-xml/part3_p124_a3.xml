@@ -31,7 +31,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/51813385">Adolphus William Ward</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/51813385">Ward, Adolphus William</author>
             <date cert="high" when="1879">1879</date>
             <title level="a">Chaucer.</title>
           </analytic>
@@ -71,7 +71,7 @@
       </langUsage>
       <textClass>
         <catRef scheme="#biography" target="#english"/>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#indecencyFrivolity"/>
         <catRef scheme="#criticism" target="#moralPurposeSatire"/>
         <catRef scheme="#criticism" target="#realism"/>
@@ -85,64 +85,72 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="124"/>
-        <ab type="imprint">1879. Ward, Sir Adolphus William. Chaucer. (English Men of Letters.)</ab>
+        
+        <ab type="imprint">1879. Ward, Sir Adolphus William. <hi rend="italic">Chaucer</hi>. (English Men of Letters.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 146] One very pleasing quality in Chaucer must have been his
-modesty. In the course of his life this may have helped to
-recommend him to patrons so many and so various, and to
-make him the useful and trustworthy agent that he evidently
-became for confidential missions abroad. ... To us, of course,
-this quality of modesty in Chaucer makes itself principally
-manifest in the opinion which he incidentally shows himself
-to entertain concerning his own rank and claims as an author.
-Herein, as in many other points, a contrast is noticeable
-between him and the great Italian masters, who were so
-sensitive as to the esteem in which they and their poetry
-were held. Chaucer again and again disclaims all boasts of
-[p. 147] perfection, or pretensions to pre-eminence, as a poet. . . .
-He acknowledges as incontestable the superiority of the
-poets of classical antiquity.
-[p. 179] Closely allied to Chaucer’s liveliness and gaiety of dis¬
-position, and in part springing from them, are his keen sense
-of the ridiculous and the power of satire which he has at his
-command. His humour has many varieties, ranging from
-the refined and half-melancholy irony of the House of Fame
-[p. 180] to the ready wit of the sagacious uncle of Cressid, the burl¬
-esque fun of the inimitable Nun's Priest's Tale, and the very
-gross salt of the Reeve, the Miller, and one or two others. . . .
-Concerning, however, Chaucer’s use of the power which he in
-so large a measure possessed, viz. that of covering with ridi¬
-cule the palpable vices or weaknesses of the classes or
-kinds of men represented by some of his character-types,
-one assertion may be made with tolerable safety. Whatever
-may have been the first stimulus and the ultimate scope of
-the wit and humour which he here expended, they are not
-to be explained as moral indignation in disguise. And in
-truth Chaucer's merriment flows spontaneously from a
-source very near the surface; he is so extremely diverting,
-because he is so extremely diverted himself.
-Herein, too, lies the harmlessness of Chaucer's fun. Its
-harmlessness, to wit, for those who are able to read him in
-something like the spirit in which he wrote. ...
-[p. 181] But the realism of Chaucer is something more than exuber¬
-ant love of fun and light-hearted gaiety. He is the first
-great painter of character, because he is the first great
-observer of it among European writers. . . . More especially
-with regard to the manners and ways of women, which
-often, while seeming so natural to women themselves, appear
-so odd to male observers, Chaucer's eye was ever on the
-alert.
-[p. 187] His descriptions of nature are as true as his sketches of
-human character; and incidental touches in him reveal his
-love of the one as unmistakably as his unflagging interest
-in the study of the other. Even those May-morning exordia,
-in which he was but following a fashion—faithfully observed
-both by the French trouvères and by the English romances
-translated from their productions and not forgotten by the
-author of the earlier part of the Roman de la Rose—always
-came from his hands with the freshness of natural truth.
-[Chap. IV, Epilogue, giving a sketch of the influence of
-Chaucer.]</seg>
+          <seg><note place="margin">[p. 146]</note> One very pleasing quality in Chaucer must have been his
+            modesty. In the course of his life this may have helped to
+            
+            <milestone unit="page" n="125"/>
+            
+            recommend him to patrons so many and so various, and to
+            make him the useful and trustworthy agent that he evidently
+            became for confidential missions abroad. . . . To us, of course,
+            this quality of modesty in Chaucer makes itself principally
+            manifest in the opinion which he incidentally shows himself
+            to entertain concerning his own rank and claims as an author.
+            Herein, as in many other points, a contrast is noticeable
+            between him and the great Italian masters, who were so
+            sensitive as to the esteem in which they and their poetry
+            were held. Chaucer again and again disclaims all boasts of
+            <note place="margin">[p. 147]</note> perfection, or pretensions to pre-eminence, as a poet. . . .
+            He acknowledges as incontestable the superiority of the
+            poets of classical antiquity.</seg>
+            <seg><note place="margin">[p. 179]</note> Closely allied to Chaucer’s liveliness and gaiety of 
+            disposition, and in part springing from them, are his keen sense
+            of the ridiculous and the power of satire which he has at his
+            command. His humour has many varieties, ranging from
+            the refined and half-melancholy irony of the House of Fame
+            <note place="margin">[p. 180]</note> to the ready wit of the sagacious uncle of Cressid, the 
+            burlesque fun of the inimitable <hi rend="italic">Nun's Priest's Tale</hi>, and the very
+            gross salt of the <hi rend="italic">Reeve</hi>, the <hi rend="italic">Miller</hi>, and one or two others. . . .
+            Concerning, however, Chaucer’s use of the power which he in
+            so large a measure possessed, viz. that of covering with 
+            ridicule the palpable vices or weaknesses of the classes or
+            kinds of men represented by some of his character-types,
+            one assertion may be made with tolerable safety. Whatever
+            may have been the first stimulus and the ultimate scope of
+            the wit and humour which he here expended, they are not
+            to be explained as moral indignation in disguise. And in
+            truth Chaucer's merriment flows spontaneously from a
+            source very near the surface; he is so extremely diverting,
+            because he is so extremely diverted himself.</seg>
+            <seg>Herein, too, lies the harmlessness of Chaucer's fun. Its
+            harmlessness, to wit, for those who are able to read him in
+            something like the spirit in which he wrote. . . .</seg>
+            <seg><note place="margin">[p. 181]</note> But the realism of Chaucer is something more than exuberant 
+            love of fun and light-hearted gaiety. He is the first
+            great painter of character, because he is the first great
+            observer of it among European writers. . . . More especially
+            with regard to the manners and ways of women, which
+            
+            <milestone unit="page" n="126"/>            
+            
+            often, while seeming so natural to women themselves, appear
+            so odd to male observers, Chaucer's eye was ever on the
+            alert.</seg>
+            <seg><note place="margin">[p. 187]</note> His descriptions of nature are as true as his sketches of
+            human character; and incidental touches in him reveal his
+            love of the one as unmistakably as his unflagging interest
+            in the study of the other. Even those May-morning exordia,
+            in which he was but following a fashion—faithfully observed
+            both by the French trouvères and by the English romances
+            translated from their productions and not forgotten by the
+            author of the earlier part of the <hi rend="italic">Roman de la Rose</hi>—always
+            came from his hands with the freshness of natural truth.</seg>
+            <seg type="editorial">[Chap. IV, Epilogue, giving a sketch of the influence of
+            Chaucer.]</seg>
         </ab>
       </div>
     </body>

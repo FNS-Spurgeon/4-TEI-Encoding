@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1881, Poole, Henry.. Westminster Abbey: A Study on Poets' Corner,</title>
+        <title>1881, Henry Poole. Westminster Abbey: A Study on Poets' Corner.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +31,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Poole, Henry.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Poole, Henry</author>
             <date cert="high" when="1881">1881</date>
-            <title level="a">Westminster Abbey: A Study on Poets' Corner,</title>
+            <title level="a">Westminster Abbey: A Study on Poets' Corner.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -81,41 +81,43 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="133"/>
-        <ab type="imprint">1881. Poole, Henry. Westminster Abbey: A Study on Poets' Corner, [in] The Antiquary, October 1881, vol. iv, pp. 137, 139.</ab>
+        
+        <ab type="imprint">1881. Poole, Henry. <hi rend="italic">Westminster Abbey: A Study on Poets' Corner</hi>, [in] The Antiquary, October 1881, vol. iv, pp. 137, 139.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 139] Having alluded to the probability that the table-tomb of
-Chaucer was once against the screen of St. Benedict’s Chapel,
-it may not be inopportune here to follow out the probable
-story of it.
-The tomb proper is evidently due to the period of the death
-of Chaucer. Its quatre-foils bear his shield of arms, and
-around at least three of the sides with [sic] the verge moulding,
-wvhich probably bore a painted inscription. In 1556, there
-was perhaps some necessity for totally removing the tomb, of
-which advantage was taken by Chaucer's admirer, Nicholas
-Brigham, to place it where it now is, and add to it a handsome,
-though debased, canopy of Purbeck marble, and also a similar
-marble slab, with a new inscription in Latin, that of the
-marble table having become decayed and illegible. This slab
-has undergone great decay and disintegration, so much so as
-to almost totally obscure the inscription, as reported by Neale
-in 1823 [or rather by E. W. Brayley in his History and
-Antiquities of the Abbey Church of St. Peter, Westminster,
-illustrated by J. P. Neale, 1818-23, vol. ii, 1823, q.v. above].
-Fifty years' more disintegration followed with still further
-obscuration, when the writer closely scrutinized and cleansed
-the slab, discovering traces of all the letters but four.
-Without any attempt to strengthen the engraving, the lettering
-was developed by painting all the remaining traces with gold¬
-coloured paint, and with the same pigment reproducing the
-four absent letters; and now the inscription of 1558 is quite
-distinct and perfectly durable.
-The table of the tomb has lately been fully cleansed of dirt
-and adhesions, beneath which the moulding, as well as much
-of the surface, was found still to retain its original polish,
-which the adhesion had preserved. Now the table displays
-a fine specimen of the best Purbeck marble, which need never
-become dull again.</seg>
+          <seg><note place="margin">[p. 139]</note> Having alluded to the probability that the table-tomb of
+              Chaucer was once against the screen of St. Benedict’s Chapel,
+              it may not be inopportune here to follow out the probable
+              story of it.</seg>
+              <seg>The tomb proper is evidently due to the period of the death
+              of Chaucer. Its quatre-foils bear his shield of arms, and
+              around at least three of the sides with <add>[sic]</add> the verge moulding,
+              wvhich probably bore a painted inscription. In 1556, there
+              was perhaps some necessity for totally removing the tomb, of
+              which advantage was taken by Chaucer's admirer, Nicholas
+              Brigham, to place it where it now is, and add to it a handsome,
+              though debased, canopy of Purbeck marble, and also a similar
+              marble slab, with a new inscription in Latin, that of the
+              marble table having become decayed and illegible. This slab
+              has undergone great decay and disintegration, so much so as
+              to almost totally obscure the inscription, as reported by Neale
+              in 1823 <add>[or rather by E. W. Brayley in his <hi rend="italic">History and
+              Antiquities of the Abbey Church of St. Peter</hi>, Westminster,
+              illustrated by J. P. Neale, 1818-23, vol. ii, 1823, q.v. above]</add>.
+              Fifty years' more disintegration followed with still further
+              obscuration, when the writer closely scrutinized and cleansed
+              the slab, discovering traces of all the letters but four.
+              Without any attempt to strengthen the engraving, the lettering
+              was developed by painting all the remaining traces with gold¬
+              coloured paint, and with the same pigment reproducing the
+              four absent letters; and now the inscription of 1558 is quite
+              distinct and perfectly durable.</seg>
+              <seg>The table of the tomb has lately been fully cleansed of dirt
+              and adhesions, beneath which the moulding, as well as much
+              of the surface, was found still to retain its original polish,
+              which the adhesion had preserved. Now the table displays
+              a fine specimen of the best Purbeck marble, which need never
+              become dull again.</seg>
         </ab>
       </div>
     </body>

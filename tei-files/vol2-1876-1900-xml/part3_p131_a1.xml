@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1880, Algernon Charles Swinburne. Short Notes on English Poets,</title>
+        <title>1880, Algernon Charles Swinburne. Short Notes on English Poets.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +31,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/41846937">Algernon Charles Swinburne</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/41846937">Swinburne, Algernon Charles</author>
             <date cert="high" when="1880">1880</date>
-            <title level="a">Short Notes on English Poets,</title>
+            <title level="a">Short Notes on English Poets.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -70,7 +70,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#happinessCheerfulness"/>
         <catRef scheme="#criticism" target="#pathos"/>
         <catRef scheme="#criticism" target="#humourWit"/>
@@ -86,74 +86,79 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="131"/>
-        <ab type="imprint">1880. Swinburne, Algernon Charles. Short Notes on English Poets, Chaucer, Spenser, the Sonnets of Shakespeare, Milton, [in] The Fortnightly Review, 1880, pp. 708-10. [Reprinted in Miscellanies, 1886, pp. 2-6, 88, 150, 152, 175.]</ab>
+        
+        <ab type="imprint">1880. Swinburne, Algernon Charles. <hi rend="italic">Short Notes on English Poets</hi>, Chaucer, Spenser, the Sonnets of Shakespeare, Milton, [in] The Fortnightly Review, 1880, pp. 708-10. [Reprinted in <hi rend="italic">Miscellanies</hi>, 1886, pp. 2-6, 88, 150, 152, 175.]</ab>
+        
         <ab type="quotation">
-          <seg>[Mr. W. Rossetti, in his Lives of Famous Poets, has selected
-four of our poets "as composing the supreme quadrilateral of
-English song."]
-[p.2] It is through no lack of love and reverence for the name of
-Chaucer that I must question his right, though the first
-narrative poet of England, to stand on that account beside
-her first dramatic, her first epic, or her first lyric poet. But,
-being certainly unprepared to admit his equality with Shake¬
-speare, with Milton, and with Shelley, I would reduce Mr.
-Rossetti's mystic four to the old sacred number of three.
-Pure or mere narrative is a form essentially and avowedly
-inferior to the Iyrical or the dramatic form of poetry; and
-the finer line of distinction which marks it off from the epic
-marks it also thereby as inferior.
-Of all whose names may claim anything like equality of
-rank on the roll of national poets—not even excepting Virgil—
-we may say that Chaucer borrowed most from abroad, and did
-most to improve whatever he borrowed. I believe it would
-be but accurate to admit that in all his poems of serious or
-tragic narrative we hear a French or Italian tongue speaking
-with a Teutonic accent through English lips. It has utterly
-unlearnt the native tone and cadence of its natural inflections;
-it has perfectly put on the native tone and cadence of a
-stranger's; yet it is always what it was at first—lingua
-romana in bocca tedesca. It speaks not only with more
-vigour but actually with more swectness than the tongues of
-its teachers; but it speaks after its own fashion no other
-[p. 3] than the lesson they have taught. Chaucer was in the main
-a French or Italian poet, lined thoroughly and warmly
-throughout with the substance of an English humourist. And
-with this great gift of specially English humour he combined,
-naturally as it were and inevitably, the inseparable twin-born
-gift of peculiarly English pathos. ... Dante represents,
-at its best and highest, the upper class of the dark ages
-not less than he represents their Italy; Chaucer repre¬
-sents their middle class at its best and wisest, not less
-than he represents their England; Villon represents their
-lower class at its worst and its best alike even more
-than he represents their France. And of these three the
-English middle class, being incomparably the happiest and
-wisest, is indisputably, considering the common circumstances
-of their successive times, the least likely to have left us the
-highest example of all poetry then possible to men. And of
-their three legacies, precious and wonderful as it is, the
-Englishman’s is accordingly the least wonderful and the least
-precious. The poet of the sensible and prosperous middle
-class in England had less to suffer and to sing than the
-theosophic aristocrat of Italy, or the hunted and hungry
-vagabond. ...
-[p. 5] But in happy perfection of manhood the great and
-fortunate Englishman almost more exceeds his great and
-unfortunate fellow-singers than he is exceeded by them in
-depth of passion and height of rapture, in ardour and intensity
-of vision or of sense. With the single and sublimer
-exception of Sophocles, he seems to me the happiest of all
-great poets on record; their standing type and sovereign
-example of noble and manly happiness.
-[p. 152] [Comparison between Chaucer and Wordsworth. Chaucer
-superior in breadth of human interest, in simplicity of varied
-sympathies, in straightforward and superb command of his
-materials as an artist, in warmth and wealth of humour, in
-consummate power of narrative and in childlike manfulness of
-compassionate or joyous emotion; but Wordsworth’s sublimity
-is worth all the rest put together.]</seg>
+          <seg type="editorial">[Mr. W. Rossetti, in his Lives of Famous Poets, has selected
+              four of our poets "as composing the supreme quadrilateral of
+              English song."]</seg>
+              <seg><note place="margin">[p.2]</note> It is through no lack of love and reverence for the name of
+              Chaucer that I must question his right, though the first
+              narrative poet of England, to stand on that account beside
+              her first dramatic, her first epic, or her first lyric poet. But,
+              being certainly unprepared to admit his equality with Shakespeare, 
+              with Milton, and with Shelley, I would reduce Mr.
+              Rossetti's mystic four to the old sacred number of three.
+              Pure or mere narrative is a form essentially and avowedly
+              inferior to the Iyrical or the dramatic form of poetry; and
+              the finer line of distinction which marks it off from the epic
+              marks it also thereby as inferior.</seg>
+              <seg>Of all whose names may claim anything like equality of
+              rank on the roll of national poets—not even excepting Virgil—
+              we may say that Chaucer borrowed most from abroad, and did
+              most to improve whatever he borrowed. I believe it would
+              be but accurate to admit that in all his poems of serious or
+              tragic narrative we hear a French or Italian tongue speaking
+              with a Teutonic accent through English lips. It has utterly
+              unlearnt the native tone and cadence of its natural inflections;
+              it has perfectly put on the native tone and cadence of a
+              stranger's; yet it is always what it was at first—lingua
+              romana in bocca tedesca. It speaks not only with more
+              vigour but actually with more swectness than the tongues of
+              its teachers; but it speaks after its own fashion no other
+              <note place="margin">[p. 3]</note> than the lesson they have taught. Chaucer was in the main
+              a French or Italian poet, lined thoroughly and warmly
+              throughout with the substance of an English humourist. And
+              with this great gift of specially English humour he combined,
+              naturally as it were and inevitably, the inseparable twin-born
+              gift of peculiarly English pathos. . . . Dante represents,
+              at its best and highest, the upper class of the dark ages
+              not less than he represents their Italy; Chaucer represents 
+              their middle class at its best and wisest, not less
+              than he represents their England; Villon represents their
+              
+              <milestone unit="page" n="132"/>
+              
+              lower class at its worst and its best alike even more
+              than he represents their France. And of these three the
+              English middle class, being incomparably the happiest and
+              wisest, is indisputably, considering the common circumstances
+              of their successive times, the least likely to have left us the
+              highest example of all poetry then possible to men. And of
+              their three legacies, precious and wonderful as it is, the
+              Englishman’s is accordingly the least wonderful and the least
+              precious. The poet of the sensible and prosperous middle
+              class in England had less to suffer and to sing than the
+              theosophic aristocrat of Italy, or the hunted and hungry
+              vagabond. . . .</seg>
+              <seg><note place="margin">[p. 5]</note> But in happy perfection of manhood the great and
+              fortunate Englishman almost more exceeds his great and
+              unfortunate fellow-singers than he is exceeded by them in
+              depth of passion and height of rapture, in ardour and intensity
+              of vision or of sense. With the single and sublimer
+              exception of Sophocles, he seems to me the happiest of all
+              great poets on record; their standing type and sovereign
+              example of noble and manly happiness.</seg>
+              <seg type="editorial"><note place="margin">[p. 152]</note> [Comparison between Chaucer and Wordsworth. Chaucer
+              superior in breadth of human interest, in simplicity of varied
+              sympathies, in straightforward and superb command of his
+              materials as an artist, in warmth and wealth of humour, in
+              consummate power of narrative and in childlike manfulness of
+              compassionate or joyous emotion; but Wordsworth’s sublimity
+              is worth all the rest put together.]
+              <note type="footnote">Spurgeon's note: [This last paragraph was added in 1886.]</note></seg>
         </ab>
-        <ab type="headnote">[This last paragraph was added in 1886.]</ab>
       </div>
     </body>
   </text>

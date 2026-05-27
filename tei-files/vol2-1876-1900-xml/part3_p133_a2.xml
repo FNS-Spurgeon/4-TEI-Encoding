@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1883, Coote, Henry Charles.. Chaucer's Ten-Syllable Verse,</title>
+        <title>1883, Henry Charles Coote. Chaucer's Ten-Syllable Verse.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +31,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Coote, Henry Charles.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/66849802">Coote, Henry Charles</author>
             <date cert="high" when="1883">1883</date>
-            <title level="a">Chaucer's Ten-Syllable Verse,</title>
+            <title level="a">Chaucer's Ten-Syllable Verse.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,45 +82,50 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="133"/>
-        <ab type="imprint">1883. Coote, Henry Charles. Chaucer's Ten-Syllable Verse, [in] The Antiquary, July 1883, vol. viii, pp. 5-8.</ab>
+        
+        <ab type="imprint">1883. Coote, Henry Charles. <hi rend="italic">Chaucer's Ten-Syllable Verse</hi>, [in] The Antiquary, July 1883, vol. viii, pp. 5-8.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 5] Chaucer's Troilus was not only the first heroic poem and
-the first real display of poetic genius in the language of
-mediæval England, but was the starting-point and departure
-from which English metre took its best and still prevailing
-form. ...
-[p. 7] At the very threshold of his task [that of rendering the
-Filostrato into English] he had a problem to solve. ...
-There was no English verse at all fit for the transfer of the
-Italian. He must accordingly invent a new one. ...
-He knew of two metres only, always excepting those used for
-ballads and such like, which were of course out of the question
-here. Of these two metres, one was too short as the other was
-too long for his taste. I mean, of course, the eight-syllabled
-distichs of himself and Gower, and the popular twelve syllable
-[p. 8] verse such as is exhibited in the rough tale of Gamelin. ...
-He therefore elected to invent for the nonce an entirely new
-metre of his own, and to apply it to his new task. There was
-a mean between eight and twelve, viz. ten. He accordingly
-invented a verse of ten syllables with varying and appropriate
-cæsuræ; and utilized his new invention by translating the
-Filostrato into it; and posterity ratified his choice by adopting
-it as the only verse to be employed upon themes either great
-or graceful. ...
-The consequences of this invention of the ten-syllable metre
-it is impossible to exaggerate or over-estimate. The obvious
-outcome of it is simply this and no other: without it we
-should have had no Shakespeare, Milton, Dryden, or Pope, in
-the sense in which we now have these great masters. To
-convince us of this, we have only to imagine Othello and
-Hamlet, not as we now have them through the remote leader¬
-ship of Chaucer in a verse framed upon his model, but told
-either in the lilting measure of Calderon, or the drawling
-Alexandrines of France. ... Of course Milton must have
-been better than Cædmon, and Pope would have done his best
-to surpass Butler even in his own light measure, but that is all.
-From all this Chaucer saved English literature and the
-English race. ...</seg>
+          <seg><note place="margin">[p. 5]</note> Chaucer's <hi rend="italic">Troilus</hi> was not only the first heroic poem and
+              the first real display of poetic genius in the language of
+              mediæval England, but was the starting-point and departure
+              
+              <milestone unit="page" n="134"/>
+              
+              from which English metre took its best and still prevailing
+              form. . . .</seg>
+              <seg><note place="margin">[p. 7]</note> At the very threshold of his task <add>[that of rendering the
+              <hi rend="italic">Filostrato</hi> into English]</add> he had a problem to solve. . . .
+              There was no English verse at all fit for the transfer of the
+              Italian. He must accordingly invent a new one. . . .</seg>
+              <seg>He knew of two metres only, always excepting those used for
+              ballads and such like, which were of course out of the question
+              here. Of these two metres, one was too short as the other was
+              too long for his taste. I mean, of course, the eight-syllabled
+              distichs of himself and Gower, and the popular twelve syllable
+              <note place="margin">[p. 8]</note> verse such as is exhibited in the rough tale of Gamelin. . . .</seg>
+              <seg>He therefore elected to invent for the nonce an entirely new
+              metre of his own, and to apply it to his new task. There was
+              a mean between eight and twelve, viz. ten. He accordingly
+              invented a verse of ten syllables with varying and appropriate
+              cæsuræ; and utilized his new invention by translating the
+              Filostrato into it; and posterity ratified his choice by adopting
+              it as the only verse to be employed upon themes either great
+              or graceful. . . .</seg>
+              <seg>The consequences of this invention of the ten-syllable metre
+              it is impossible to exaggerate or over-estimate. The obvious
+              outcome of it is simply this and no other: without it we
+              should have had no Shakespeare, Milton, Dryden, or Pope, in
+              the sense in which we now have these great masters. To
+              convince us of this, we have only to imagine <hi rend="italic">Othello</hi> and
+              <hi rend="italic">Hamlet</hi>, not as we now have them through the remote leadership 
+              of Chaucer in a verse framed upon his model, but told
+              either in the lilting measure of Calderon, or the drawling
+              Alexandrines of France. . . . Of course Milton must have
+              been better than Cædmon, and Pope would have done his best
+              to surpass Butler even in his own light measure, but that is all.</seg>
+              <seg>From all this Chaucer saved English literature and the
+              English race. . . .</seg>
         </ab>
       </div>
     </body>

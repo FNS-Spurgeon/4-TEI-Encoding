@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1878, Geoffrey Chaucer. Poetical Works of Chaucer,</title>
+        <title>1878, Geoffrey Chaucer. Poetical Works of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +31,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
             <date cert="high" when="1878">1878</date>
-            <title level="a">Poetical Works of Chaucer,</title>
+            <title level="a">Poetical Works of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -70,7 +70,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#editionCompleteWorks"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -81,14 +81,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="123"/>
+        
         <ab type="imprint">1878. Chaucer, Geoffrey. Poetical Works of Chaucer, with poems formerly printed with his, or attributed to him. Edited, with a Memoir, by R. Bell. Revised edition. ... With a preliminary essay by W. W. Skeat. 4 vols. [A revised edition of that of 1854-6, q.v. above.]</ab>
+        
         <ab type="quotation">
-          <seg>[The introductory essay (vol. i, pp. 1-12) is concerned with
-the Chaucer canon. The Testament of Love, Rom. Rose,
-Complaint of the Black Knight, Cuckoo and Nightingale,
-Flower and the Leaf, Chaucer's Dream (Isle of Ladies), Court
-of Love, Virelai, etc., are declared to be spurious. They are
-printed in this edition at the end of the genuine works.]</seg>
+          <seg type="editorial">[The introductory essay (vol. i, pp. 1-12) is concerned with
+            the Chaucer canon. <hi rend="italic">The Testament of Love</hi>, <hi rend="italic">Rom. Rose</hi>,
+            <hi rend="italic">Complaint of the Black Knight</hi>, <hi rend="italic">Cuckoo and Nightingale</hi>,
+            <hi rend="italic">Flower and the Leaf</hi>, <hi rend="italic">Chaucer's Dream</hi> (<hi rend="italic">Isle of Ladies</hi>), <hi rend="italic">Court
+            of Love</hi>, <hi rend="italic">Virelai</hi>, etc., are declared to be spurious. They are
+            printed in this edition at the end of the genuine works.]</seg>
         </ab>
       </div>
     </body>

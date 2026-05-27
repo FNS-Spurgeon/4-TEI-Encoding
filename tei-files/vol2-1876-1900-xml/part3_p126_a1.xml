@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1880, Matthew Arnold. The Study of Poetry,</title>
+        <title>1880, Matthew Arnold. The Study of Poetry.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +31,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73868557">Matthew Arnold</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73868557">Arnold, Matthew</author>
             <date cert="high" when="1880">1880</date>
-            <title level="a">The Study of Poetry,</title>
+            <title level="a">The Study of Poetry.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -70,7 +70,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#burns"/>
         <catRef scheme="#criticism" target="#praised"/>
         <catRef scheme="#works" target="#prioressTale"/>
@@ -84,196 +84,199 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="126"/>
-        <ab type="imprint">1880. Arnold, Matthew. The Study of Poetry, [the General Introduction to The English Poets, 1880, edited by T. H. Ward], pp. xxxi-xxxvi, xliv, xlv. [Reprinted in Essays in Criticism, 2nd ser., 1888, pp. 26-34, 49-51.]</ab>
+        
+        <ab type="imprint">1880. Arnold, Matthew. <hi rend="italic">The Study of Poetry</hi>, [the General Introduction to The English Poets, 1880, edited by T. H. Ward], pp. xxxi-xxxvi, xliv, xlv. [Reprinted in <hi rend="italic">Essays in Criticism</hi>, 2nd ser., 1888, pp. 26-34, 49-51.]</ab>
+        
         <ab type="quotation">
-          <seg>[p. xxxi] But in the fourteenth century there comes an Englishman
-nourished on this poetry [French romance-poetry], taught his
-trade by this poetry, getting words, rhyme, metre from this
-poetry; for even of that stanza which the Italians used, and
-which Chaucer derived immediately from the Italians, the basis
-and suggestion was probably given in France. Chaucer (I
-have already named him) fascinated his contemporaries, but so
-too did Christian of Troyes and Wolfram of Eschenbach.
-Chaucer's power of fascination, however, is enduring; his
-poetical importance does not need the assistance of the
-historic estimate; it is real. He is a genuine source of joy
-and strength, which is flowing still for us and will flow
-always. He will be read, as time goes on, far more generally
-than he is read now. His language is a cause of difficulty to
-us, but so also, and I think in quite as great a degree, is the
-language of Burns. In Chaucer's case, as in that of Burns, it
-is a difficulty to be unhesitatingly accepted and overcome.
-If we ask ourselves wherein consists the immense supe¬
-riority of Chaucer's poetry over the romance poetry—why
-it is that in passing from this to Chaucer we suddenly feel
-ourselves to be in another world, we shall find that his
-superiority is both in the substance of his poetry and in the
-[p.
-style of his poetry. His superiority in substance is given by
-xxxii]
-his large, free, simple, clear yet kindly view of human life,—
-so unlike the total want, in the romance-poets, of all intelli¬
-gent command of it. Chaucer has not their helplessness; he
-has gained the power to survey the world from a central, a
-truly human point of view. We have only to call to mind
-the Prologue of The Canterbury Tales. The right comment
-upon it is Dryden's 'It is sufficient to say, according to the
-proverb, that here is God’s plenty.' And again: 'He is a
-perpetual fountain of good sense.' It is by a large, free,
-sound representation of things, that poetry, this high criticism
-of life, has truth of substance.
-Of his style and manner, if we think first of the romance-
-poetry and then of Chaucer's divine liquidness of diction, his
-divine fluidity of movement, it is difficult to speak temperately.
-They are irresistible, and justify all the rapture with which
-his successors speak of his "gold dewdrops of speech."
-Johnson misses the point entirely when he finds fault with
-Dryden for ascribing to Chaucer the first refinement of our
-numbers, and says that Gower can also show smooth numbers
-and easy rhymes. The refinement of our numbers means
-something far more than this. A nation may have versifiers
-with smooth numbers and easy rhymes, and yet may have
-no real poetry at all. Chaucer is the father of our splendid
-English poetry; he is our 'well of English undefiled,' because
-by the lovely charm of his diction, the lovely charm of his
-movement, he makes an epoch and founds a tradition. In
-Spenser, Shakespeare, Milton, Keats, we can follow the
-tradition of the liquid diction, the fluid movement, of
-Chaucer; at one time it is his liquid diction of which in these
-poets we feel the virtue, and at another time it is his fluid
-movement. And the virtue is irresistible.
-[p.
-... I must yet find room for an example of Chaucer's
-xxxiii]
-virtue. ... I feel disposed to say that a single line is enough
-to show the charm of Chaucer's verse; that merely one line
-like this—
-'O martyr souded1 in virginitee!'
-has a virtue of manner and movement such as we shall not
-1[Arnold's note:] The French soudé; soldered, fixed fast.
-find in all the verse of romance-poetry;—but this is saying
-nothing. The virtue is such as we shall not find, perhaps, in
-all English poetry, outside the poets whom I have named as
-the special inheritors of Chaucer's tradition. A single line,
-however, is too little if we have not the strain of Chaucer's
-verse well in our memory; let us take a stanza. It is from
-The Prioress’s Tale, the story of the Christian child murdered
-in a Jewry—
-'My throte is cut unto my nekké-bone
-Saidè this child, and as by way of kinde
-I should have deyd, yea, longè time agone [etc.].
-Wordsworth has modernised this Tale, and to feel how delicate
-and evanescent is the charm of verse, we have only to read
-Wordsworth's first three lines of this stanza after Chaucer's—
-'My throat is cut unto the bone, I trow,
-Said this young child, and by the law of kind
-I should have died, yea, many hours ago.'
-The charm is departed. It is often said that the power of
-liquidness and fluidity in Chaucer's verse was dependent
-upon a free, a licentious dealing with language such as is now
-impossible; upon a liberty, such as Burns too enjoyed, of
-making words like neck bird, into a dissyllable by adding to
-[p.
-xxxiv]
-them, and words like cause, rhyme, into a dissyllable by sound
-sounding the e mute. It is true that Chaucer's fluidity is
-conjoined with this liberty, and is admirably served by it;
-but we ought not to say that it was dependent upon it. It
-was dependent upon his talent. Other poets with a like
-liberty do not attain to the fluidity of Chaucer; Burns him¬
-self does not attain to it. Poets, again, who have a talent
-akin to Chaucer's, such as Shakespeare or Keats, have known
-how to attain to his fluidity without the like liberty.
-And yet Chaucer is not one of the great classics. His
-poetry transcends and effaces, easily and without effort, all
-the romance-poetry of Catholic Christendom; it transcends
-and effaces all the English poetry contemporary with it, it
-transcends and effaces all the English poetry subsequent to it
-down to the age of Elizabeth. Of such avail is poetic truth
-of substance, in its natural and necessary union with poetic
-truth of style. And yet, I say, Chaucer is not one of the
-great classics. He has not their accent. What is wanting to
-him is suggested by the mere mention of the name of the first
-great classic of Christendom, the immortal poet who died
-eighty years before Chaucer,—Dante. The accent of such
-verse as
-"In la sua volontade è nostra pace ..."1
-is altogether beyond Chaucer's reach; we praise him, but we
-feel that this accent is out of the question for him. It may be
-said that it was necessarily out of the reach of any poet in
-the England of that stage of growth. Possibly; but we are to
-adopt a real, not a historic, estimate of poetry. However, we
-may account for its absence, something is wanting, then, to
-the poetry of Chaucer, which poetry must have before it can
-be placed in the glorious class of the best. And there is no
-doubt what that something is. It is the σπουδαιότης, the
-high and excellent seriousness which Aristotle assigns as one
-[p.
-xxxv]
-of the grand virtues of poetry. The substance of Chaucer's
-poetry, his view of things and his criticism of life, has
-largeness, freedom, shrewdness, benignity; but it has not
-this high seriousness. Homer's criticism of life has it,
-Dante's has it, Shakespeare's has it. It is this chiefly
-which gives to our spirits what they can rest upon; and with
-the increasing demands of our modern ages upon poetry, this
-virtue of giving us what we can rest upon will be more and
-more highly esteemed. A voice from the slums of Paris, fifty
-or sixty years after Chaucer, the voice of poor Villon out of
-his life of riot and crime, has at its happy moments (as, for
-instance, in the last stanza of La Belle Heaulmière) more of
-this important poetic virtue of seriousness than all the pro¬
-ductions of Chaucer. But its apparition in Villon, and in
-men like Villon, is fitful; the greatness of the great poets,
-the power of their criticism of life, is that their virtue is
-sustained.
-To our praise, therefore, of Chaucer as a poet there must be
-this limitation; he lacks the high seriousness of the great
-classics, and therefore an important part of their virtue.
-Still, the main fact for us to bear in mind about Chaucer is
-his sterling value according to that real estimate which we
-1 So quoted by Arnold; the original (Paradiso, iii, 86) reads: E la sua volontate ...
-firmly adopt for all poets. He has poetic truth of substance
-though he has not high poetic seriousness, and corresponding
-to his truth of substance he has an exquisite virtue of style
-and manner. With him is born our real poetry. ...
-The age of Dryden, together with our whole eighteenth
-century which followed it, sincerely believed itself to have
-produced poetical classics of its own, and even to have made
-advance, in poetry, beyond all its predecessors. Dryden
-regards as not seriously disputable the opinion 'that the
-sweetness of English verse was never understood or practised
-by our fathers.'1 Cowley could see nothing at all in Chaucer's
-poetry. Dryden heartily admired it, and, as we have seen,
-praised its matter admirably; but of its exquisite manner and
-movement all he can find to say is that 'there is the rude
-sweetness of a Scotch tune in it, which is natural and pleasing,
-though not perfect.' Addison, wishing to praise Chaucer's
-numbers, compares them with Dryden's own. And all through
-the eighteenth century, and down even to our own times, the
-stereotyped phrase of approbation for good verse found in our
-early poetry has been, that it even approached the verse of
-Dryden, Addison, Pope and Johnson. ...
-[p. xliv] Burns, like Chaucer, comes short of the high seriousness of
-the great classics. ... Yet we may say of him [Burns], as of
-Chaucer, that of life and the world, as they come before
-[p. xlv] him, his view is large, free, shrewd, benignant,—truly poetic,
-therefore; and his manner of rendering what he sees is to
-match. But we must note, at the same time, his great differ¬
-ence from Chaucer. The freedom of Chaucer is heightened in
-Burns, by a fiery, reckless energy; the benignity of Chaucer
-deepens, in Burns, into an overwhelming sense of the pathos
-of things;—of the pathos of human nature, the pathos, also,
-of non-human nature. Instead of the fluidity of Chaucer's
-manner, the manner of Burns has spring, bounding swiftness.
-Burns is by far the greater force, though he has perhaps
-less charm. The world of Chaucer is fairer, richer, more
-significant than that of Burns.
-1 [Note (unpublished) added by Dr. Furnivall :] We must recollect that, till
-Tyrwhitt, no decent edition of the Canterbury Tales was accessible, and till Richard
-Morris, none of the Minor Poems. So long as printers and editors disregarded
-Chaucer's final e and printed as his, pieces that he never wrote, it was impossible
-for any readers to appreciate his poetic powers.—F. J. F.</seg>
+          <seg><note place="margin">[p. xxxi]</note> But in the fourteenth century there comes an Englishman
+              nourished on this poetry <add>[French romance-poetry]</add>, taught his
+              trade by this poetry, getting words, rhyme, metre from this
+              poetry; for even of that stanza which the Italians used, and
+              which Chaucer derived immediately from the Italians, the basis
+              and suggestion was probably given in France. Chaucer (I
+              have already named him) fascinated his contemporaries, but so
+              too did Christian of Troyes and Wolfram of Eschenbach.
+              Chaucer's power of fascination, however, is enduring; his
+              poetical importance does not need the assistance of the
+              historic estimate; it is real. He is a genuine source of joy
+              and strength, which is flowing still for us and will flow
+              always. He will be read, as time goes on, far more generally
+              than he is read now. His language is a cause of difficulty to
+              us, but so also, and I think in quite as great a degree, is the
+              language of Burns. In Chaucer's case, as in that of Burns, it
+              is a difficulty to be unhesitatingly accepted and overcome.</seg>
+              <seg>If we ask ourselves wherein consists the immense 
+              superiority of Chaucer's poetry over the romance poetry—why
+              it is that in passing from this to Chaucer we suddenly feel
+              ourselves to be in another world, we shall find that his
+              
+              <milestone unit="page" n="127"/>
+              
+              superiority is both in the substance of his poetry and in the
+              <note place="margin">[p. xxxii]</note> style of his poetry. His superiority in substance is given by
+              his large, free, simple, clear yet kindly view of human life,—
+              so unlike the total want, in the romance-poets, of all intelligent 
+              command of it. Chaucer has not their helplessness; he
+              has gained the power to survey the world from a central, a
+              truly human point of view. We have only to call to mind
+              the Prologue of <hi rend="italic">The Canterbury Tales</hi>. The right comment
+              upon it is Dryden's 'It is sufficient to say, according to the
+              proverb, that here is God’s plenty.' And again: 'He is a
+              perpetual fountain of good sense.' It is by a large, free,
+              sound representation of things, that poetry, this high criticism
+              of life, has truth of substance.</seg>
+              <seg>Of his style and manner, if we think first of the romance-
+              poetry and then of Chaucer's divine liquidness of diction, his
+              divine fluidity of movement, it is difficult to speak temperately.
+              They are irresistible, and justify all the rapture with which
+              his successors speak of his "gold dewdrops of speech."
+              Johnson misses the point entirely when he finds fault with
+              Dryden for ascribing to Chaucer the first refinement of our
+              numbers, and says that Gower can also show smooth numbers
+              and easy rhymes. The refinement of our numbers means
+              something far more than this. A nation may have versifiers
+              with smooth numbers and easy rhymes, and yet may have
+              no real poetry at all. Chaucer is the father of our splendid
+              English poetry; he is our 'well of English undefiled,' because
+              by the lovely charm of his diction, the lovely charm of his
+              movement, he makes an epoch and founds a tradition. In
+              Spenser, Shakespeare, Milton, Keats, we can follow the
+              tradition of the liquid diction, the fluid movement, of
+              Chaucer; at one time it is his liquid diction of which in these
+              poets we feel the virtue, and at another time it is his fluid
+              movement. And the virtue is irresistible.</seg>
+              <seg>[p. xxxiii] . . . I must yet find room for an example of Chaucer's
+              virtue. . . . I feel disposed to say that a single line is enough
+              to show the charm of Chaucer's verse; that merely one line
+              like this—
+              <l>'O martyr souded<note><add>[Arnold's note:]</add> The French soudé; soldered, fixed fast.</note> in virginitee!'</l>
+              has a virtue of manner and movement such as we shall not
+              
+              <milestone unit="page" n="128"/>
+              
+              find in all the verse of romance-poetry;—but this is saying
+              nothing. The virtue is such as we shall not find, perhaps, in
+              all English poetry, outside the poets whom I have named as
+              the special inheritors of Chaucer's tradition. A single line,
+              however, is too little if we have not the strain of Chaucer's
+              verse well in our memory; let us take a stanza. It is from
+              <hi rend="italic">The Prioress’s Tale</hi>, the story of the Christian child murdered
+              in a Jewry—
+              <l>'My throte is cut unto my nekké-bone</l>
+              <l>Saidè this child, and as by way of kinde</l>
+              <l>I should have deyd, yea, longè time agone <add>[etc.]</add>.</l>
+              Wordsworth has modernised this Tale, and to feel how delicate
+              and evanescent is the charm of verse, we have only to read
+              Wordsworth's first three lines of this stanza after Chaucer's—
+              <l>'My throat is cut unto the bone, I trow,</l>
+              <l>Said this young child, and by the law of kind</l>
+              <l>I should have died, yea, many hours ago.'</l>
+              The charm is departed. It is often said that the power of
+              liquidness and fluidity in Chaucer's verse was dependent
+              upon a free, a licentious dealing with language such as is now
+              impossible; upon a liberty, such as Burns too enjoyed, of
+              making words like neck bird, into a dissyllable by adding to
+              <note place="margin">[p. xxxiv]</note> them, and words like cause, rhyme, into a dissyllable by sound
+              sounding the e mute. It is true that Chaucer's fluidity is
+              conjoined with this liberty, and is admirably served by it;
+              but we ought not to say that it was dependent upon it. It
+              was dependent upon his talent. Other poets with a like
+              liberty do not attain to the fluidity of Chaucer; Burns 
+              himself does not attain to it. Poets, again, who have a talent
+              akin to Chaucer's, such as Shakespeare or Keats, have known
+              how to attain to his fluidity without the like liberty.</seg>
+              <seg>And yet Chaucer is not one of the great classics. His
+              poetry transcends and effaces, easily and without effort, all
+              the romance-poetry of Catholic Christendom; it transcends
+              and effaces all the English poetry contemporary with it, it
+              transcends and effaces all the English poetry subsequent to it
+              down to the age of Elizabeth. Of such avail is poetic truth
+              of substance, in its natural and necessary union with poetic
+              truth of style. And yet, I say, Chaucer is not one of the
+              
+              <milestone unit="page" n="129"/>
+              
+              great classics. He has not their accent. What is wanting to
+              him is suggested by the mere mention of the name of the first
+              great classic of Christendom, the immortal poet who died
+              eighty years before Chaucer,—Dante. The accent of such
+              verse as
+              <l>"In la sua volontade è nostra pace . . ."<note>So quoted by Arnold; the original (<hi rend="italic">Paradiso</hi>, iii, 86) reads: E la sua volontate . . .</note></l>
+              is altogether beyond Chaucer's reach; we praise him, but we
+              feel that this accent is out of the question for him. It may be
+              said that it was necessarily out of the reach of any poet in
+              the England of that stage of growth. Possibly; but we are to
+              adopt a real, not a historic, estimate of poetry. However, we
+              may account for its absence, something is wanting, then, to
+              the poetry of Chaucer, which poetry must have before it can
+              be placed in the glorious class of the best. And there is no
+              doubt what that something is. It is the σπουδαιότης, the
+              high and excellent seriousness which Aristotle assigns as one
+              <note place="margin">[p. xxxv]</note> of the grand virtues of poetry. The substance of Chaucer's
+              poetry, his view of things and his criticism of life, has
+              largeness, freedom, shrewdness, benignity; but it has not
+              this high seriousness. Homer's criticism of life has it,
+              Dante's has it, Shakespeare's has it. It is this chiefly
+              which gives to our spirits what they can rest upon; and with
+              the increasing demands of our modern ages upon poetry, this
+              virtue of giving us what we can rest upon will be more and
+              more highly esteemed. A voice from the slums of Paris, fifty
+              or sixty years after Chaucer, the voice of poor Villon out of
+              his life of riot and crime, has at its happy moments (as, for
+              instance, in the last stanza of <hi rend="italic">La Belle Heaulmière</hi>) more of
+              this important poetic virtue of seriousness than all the 
+              productions of Chaucer. But its apparition in Villon, and in
+              men like Villon, is fitful; the greatness of the great poets,
+              the power of their criticism of life, is that their virtue is
+              sustained.</seg>
+              <seg>To our praise, therefore, of Chaucer as a poet there must be
+              this limitation; he lacks the high seriousness of the great
+              classics, and therefore an important part of their virtue.
+              Still, the main fact for us to bear in mind about Chaucer is
+              his sterling value according to that real estimate which we
+              
+              <milestone unit="page" n="130"/>
+              
+              firmly adopt for all poets. He has poetic truth of substance
+              though he has not high poetic seriousness, and corresponding
+              to his truth of substance he has an exquisite virtue of style
+              and manner. With him is born our real poetry. . . .</seg>
+              <seg>The age of Dryden, together with our whole eighteenth
+              century which followed it, sincerely believed itself to have
+              produced poetical classics of its own, and even to have made
+              advance, in poetry, beyond all its predecessors. Dryden
+              regards as not seriously disputable the opinion 'that the
+              sweetness of English verse was never understood or practised
+              by our fathers.'<note><add>[Note (unpublished) added by Dr. Furnivall :]</add> We must recollect that, till
+              Tyrwhitt, no decent edition of the Canterbury Tales was accessible, and till Richard
+              Morris, none of the Minor Poems. So long as printers and editors disregarded
+              Chaucer's final e and printed as his, pieces that he never wrote, it was impossible
+              for any readers to appreciate his poetic powers.—F. J. F.</note> Cowley could see nothing at all in Chaucer's
+              poetry. Dryden heartily admired it, and, as we have seen,
+              praised its matter admirably; but of its exquisite manner and
+              movement all he can find to say is that 'there is the rude
+              sweetness of a Scotch tune in it, which is natural and pleasing,
+              though not perfect.' Addison, wishing to praise Chaucer's
+              numbers, compares them with Dryden's own. And all through
+              the eighteenth century, and down even to our own times, the
+              stereotyped phrase of approbation for good verse found in our
+              early poetry has been, that it even approached the verse of
+              Dryden, Addison, Pope and Johnson. . . .</seg>
+              <seg><note place="margin">[p. xliv]</note> Burns, like Chaucer, comes short of the high seriousness of
+              the great classics. . . . Yet we may say of him <add>[Burns]</add>, as of
+              Chaucer, that of life and the world, as they come before
+              <note place="margin">[p. xlv]</note> him, his view is large, free, shrewd, benignant,—truly poetic,
+              therefore; and his manner of rendering what he sees is to
+              match. But we must note, at the same time, his great difference 
+              from Chaucer. The freedom of Chaucer is heightened in
+              Burns, by a fiery, reckless energy; the benignity of Chaucer
+              deepens, in Burns, into an overwhelming sense of the pathos
+              of things;—of the pathos of human nature, the pathos, also,
+              of non-human nature. Instead of the fluidity of Chaucer's
+              manner, the manner of Burns has spring, bounding swiftness.
+              Burns is by far the greater force, though he has perhaps
+              less charm. The world of Chaucer is fairer, richer, more
+              significant than that of Burns.</seg>
         </ab>
       </div>
     </body>

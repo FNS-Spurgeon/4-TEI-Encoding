@@ -84,9 +84,7 @@
         <milestone unit="page" n="121"/>
         
         <ab type="imprint">1876. Haweis, Mary Eliza. <hi rend="italic">Chaucer for Children</hi> . . . illustrated with eight coloured pictures, and numerous woodcuts by the Author, 1877.</ab>
-        
-        <ab type="headnote">[Published late in 1876.]</ab>
-        
+                
         <ab type="quotation">
           <seg type="editorial">[With a preface "To the Mother" on the reading and
             pronunciation of Chaucer, followed by a biographical sketch,
@@ -94,7 +92,9 @@
             <hi rend="italic">Knightes</hi>, <hi rend="italic">Friers</hi>, <hi rend="italic">Clerkes</hi>, <hi rend="italic">Frankeleyns</hi> and <hi rend="italic">Pardoneres Tales</hi>,
             <hi rend="italic">Complaint to his Purse</hi>, <hi rend="italic">Two Rondeaux</hi> (<hi rend="italic">Your yën two</hi> and
             <hi rend="italic">Sin I fro Love</hi>), <hi rend="italic">Virelai</hi> and <hi rend="italic">Good Counsel</hi>, follow in original
-            and modernised form with connecting summary.]</seg>
+            and modernised form with connecting summary.]
+            <note type="footnote">Spurgeon's note: [Published late in 1876.]</note>
+          </seg>
         </ab>
       </div>
     </body>
