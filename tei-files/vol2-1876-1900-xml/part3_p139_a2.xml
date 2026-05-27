@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng?token=GHSAT0AAAAAAD6JFEDD7ZTYLUQNLFLI3IJI2QWZJSA" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p139_a2">
   <teiHeader>
     <fileDesc>
@@ -31,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/159027951">John Koch</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/159027951">Koch, John</author>
             <date cert="high" when="1890">1890</date>
             <title level="a">The Chronology of Chaucer's Writings, &amp;c.</title>
           </analytic>
@@ -70,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#chronology"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -81,11 +82,13 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="139"/>
-        <ab type="imprint">1890. Koch, John. The Chronology of Chaucer's Writings, &amp;c. (Chaucer Soc., 2nd series, 27.)</ab>
+        
+        <ab type="imprint">1890. Koch, John. <hi rend="italic">The Chronology of Chaucer's Writings, &amp;c.</hi> (Chaucer Soc., 2nd series, 27.)</ab>
+        
         <ab type="quotation">
-          <seg>[A carefully reasoned argument, carrying forward the
-researches of ten Brink, Morley and Skeat. At the end are
-notes by Skeat on some doubtful points.]</seg>
+          <seg type="editorial">[A carefully reasoned argument, carrying forward the
+              researches of ten Brink, Morley and Skeat. At the end are
+              notes by Skeat on some doubtful points.]</seg>
         </ab>
       </div>
     </body>

@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng?token=GHSAT0AAAAAAD6JFEDD7ZTYLUQNLFLI3IJI2QWZJSA" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p136_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1885, John Churton Collins. The Predecessors of Shakespeare,</title>
+        <title>1885, John Churton Collins. The Predecessors of Shakespeare.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/41917637">John Churton Collins</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/41917637">Collins, John Churton</author>
             <date cert="high" when="1885">1885</date>
-            <title level="a">The Predecessors of Shakespeare,</title>
+            <title level="a">The Predecessors of Shakespeare.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -79,26 +80,30 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="136"/>
-        <ab type="imprint">1885. Collins, John Churton. The Predecessors of Shakespeare, [in] The Quarterly Review, Oct. 1885, vol. clxi, p. 338. [Revised and enlarged in Essays and Studies, 1895, pp. 106-7.]</ab>
+        
+        <ab type="imprint">1885. Collins, John Churton. <hi rend="italic">The Predecessors of Shakespeare</hi>, [in] The Quarterly Review, Oct. 1885, vol. clxi, p. 338. [Revised and enlarged in <hi rend="italic">Essays and Studies</hi>, 1895, pp. 106-7.]</ab>
+        
         <ab type="quotation">
           <seg>The verdict of the age which immediately succeeds them
-1887] Chaucer Criticism and Allusion. 137
-[prose writers] is, as a rule, final. ... How different has
-[p. 107] been the fate of poets! Take Chaucer. In 1500 his
-popularity was at its height. During the latter part of the
-sixteenth century it began to decline. From that date till the
-end of William III's reign—in spite of the influence which
-he undoubtedly exercised over Spenser, and in spite of the
-respectful allusions to him in Sidney, Puttenham, Drayton,
-and Milton—his fame had become rather a tradition than a
-reality. In the following age the good-natured tolerance of
-Dryden was succeeded by the contempt of Addison and the
-supercilious patronage of Pope. Between 1700 and 1782
-nothing seemed more probable than that the writings of the
-first of England’s narrative poets would live chiefly in the
-memory of antiquarians. In little more than half a century
-afterwards we find him placed, with Shakespeare and Milton,
-on the highest pinnacle of poetic renown.</seg>
+              
+              <milestone unit="page" n="137"/>
+            
+              <add>[prose writers]</add> is, as a rule, final. . . . How different has
+              <note place="margin">[p. 107]</note> been the fate of poets! Take Chaucer. In 1500 his
+              popularity was at its height. During the latter part of the
+              sixteenth century it began to decline. From that date till the
+              end of William III's reign—in spite of the influence which
+              he undoubtedly exercised over Spenser, and in spite of the
+              respectful allusions to him in Sidney, Puttenham, Drayton,
+              and Milton—his fame had become rather a tradition than a
+              reality. In the following age the good-natured tolerance of
+              Dryden was succeeded by the contempt of Addison and the
+              supercilious patronage of Pope. Between 1700 and 1782
+              nothing seemed more probable than that the writings of the
+              first of England’s narrative poets would live chiefly in the
+              memory of antiquarians. In little more than half a century
+              afterwards we find him placed, with Shakespeare and Milton,
+              on the highest pinnacle of poetic renown.</seg>
         </ab>
       </div>
     </body>

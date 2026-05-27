@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng?token=GHSAT0AAAAAAD6JFEDD7ZTYLUQNLFLI3IJI2QWZJSA" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p148_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1895, William Paton Ker. The Poetry of Chaucer, [review of] The Complete Works of Geoffrey Chaucer,</title>
+        <title>1895, William Paton Ker. The Poetry of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/51774688">William Paton Ker</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/51774688">Ker, William Paton</author>
             <date cert="high" when="1895">1895</date>
-            <title level="a">The Poetry of Chaucer, [review of] The Complete Works of Geoffrey Chaucer,</title>
+            <title level="a">The Poetry of Chaucer, [review of] The Complete Works of Geoffrey Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -70,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#works" target="#troilus"/>
       </textClass>
     </profileDesc>
@@ -82,66 +83,74 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="148"/>
-        <ab type="imprint">1895. Ker, William Paton. The Poetry of Chaucer, [review of] The Complete Works of Geoffrey Chaucer, edited by the Rev. Walter W. Skeat, [in] The Quarterly Review, April, 1895, vol. clxxx, pp. 521-48. [The greater part of this article, that which is more directly concerned with Chaucer's poetry, i. e. pp. 534-47, is reprinted, with slight verbal changes and omissions, in Essays on Medieval Literature, by W. P. Ker, 1905, pp. 76-100.]</ab>
+        
+        <ab type="imprint">1895. Ker, William Paton. <hi rend="italic">The Poetry of Chaucer</hi>, [<hi rend="italic">review of</hi>] <hi rend="italic">The Complete Works of Geoffrey Chaucer</hi>, edited by the Rev. Walter W. Skeat, [in] The Quarterly Review, April, 1895, vol. clxxx, pp. 521-48. [The greater part of this article, that which is more directly concerned with Chaucer's poetry, i. e. pp. 534-47, is reprinted, with slight verbal changes and omissions, in <hi rend="italic">Essays on Medieval Literature</hi>, by W. P. Ker, 1905, pp. 76-100.]</ab>
+        
         <ab type="quotation">
-          <seg>[The importance of Skeat's edition. Its supreme merit is
-that it has cleared the poems of Chaucer from blunders of
-language and rhythm, which in former editions interrupted
-the flow of the verse, pp. 521-2. Chaucer's art and versi¬
-fication, with especial reference to Dryden’s criticism, pp.
-522-3.]
-[p. 522] With regard to some of the strongest parts of Chaucer's
-poetry, no later writer has been able to add anything essenti¬
-ally new to the estimate given by Dryden. 'Here is God’s
-plenty' is still the best criticism ever uttered on the“Canter¬
-bury Tales.'
-[There is some justification for Dryden’s censure of Chaucer's
-verse, p. 523. Decay of metrical ability after Chaucer, and
-Skeat's method in adopting readings, pp. 524-5. Examples
-of Skeat’s emendations and readings, pp. 525-6. Account of
-the contents of the volumes, with the comment that "the
-Clarendon Press has done little to relieve the general aspect of
-sobriety, much at variance with the demeanour of the contents,
-and very unlike the appearance of the illuminated books from
-which the poems are copied," pp. 526-7. Complaint of the over¬
-insistence on Dr. Furnivall’s classification of the groups of the
-Canterbury Tales, pp. 527-8. On Skeat’s introductions, his
-metrical symbols, his remarks on Chaucer’s vowels and Kentish
-forms and knowledge of Old French verse—any possible flaws
-in which do not prejudice his handling of the texts, pp. 528-
-31. The texts of the Romaunt, Troylus and the Legende
-acknowledged and praised, p. 532. Skeat’s abstention from
-literary criticism, and reference of the reader to Lowell’s essay,
-deprecated, p. 533. Comparison of Chaucer and Dante in their
-use of mediæval habit and fashion, pp. 534-5. Historical
-commentary on Chaucer inevitable and useful, pp. 535-6.
-On Skeat's statement of the debt in the Hous of Fame
-to Dante, and the general independence of Chaucer's poem,
-p. 537. How much of Chaucer's genius can be seen outside
-the Canterbury Tales, pp. 537-8.]
-[p. 538] It is difficult to speak moderately of Chaucer's "Troilus."
-It is the first great modern book in that kind where the most
-characteristic modern triumphs of the literary art have been
-won; in the kind to which belong the great books of Cer¬
-vantes, of Fielding, and of their later pupils—that form of
-story which is not restricted in its matter in any way, but is
-capable of taking in comprehensively all or any part of the
-aspects and humours of life. No other mediæval poem is rich
-and full in the same way as "Troilus" is full of varieties of
-character and mood. It is a tragic novel, and it is also strong
-enough to pass the scrutiny of that Comic Muse who detects
-the impostures of inflated heroic and romantic poetry. More
-than this, it has the effective aid of the Comic Muse in that
-alliance of tragedy and comedy which makes an end of all
-the old distinctions and limitations of narrative and drama.
-and proportion of Troilus, pp. 539-40. The Knightes Tale
-[Troilus and the Filostrato, pp. 538-9. The dignity, beauty
-and the Teseide, pp. 540-1. Chaucer's different handling of
-the Troilus and Knightes Tale themes, pp. 541-3. Chaucer's
-changes of handling throughout his works, p. 543. The
-House of Fame an indulgence in mediæval vanities, pp. 544-5.
-Contradictions and problems of the Canterbury Tales, pp.
-544-7.]</seg>
+            <seg type="editorial">[The importance of Skeat's edition. Its supreme merit is
+              that it has cleared the poems of Chaucer from blunders of
+              language and rhythm, which in former editions interrupted
+              the flow of the verse, pp. 521-2. Chaucer's art and
+              
+              <milestone unit="page" n="149"/>
+              
+              versification, with especial reference to Dryden’s criticism, pp.
+              522-3.]</seg>
+            <seg><note place="margin">[p. 522]</note> With regard to some of the strongest parts of Chaucer's
+                poetry, no later writer has been able to add anything essentially
+              new to the estimate given by Dryden. 'Here is God’s
+              plenty' is still the best criticism ever uttered on the 'Canterbury
+              Tales.'</seg>
+            <seg type="editorial">[There is some justification for Dryden’s censure of Chaucer's
+              verse, p. 523. Decay of metrical ability after Chaucer, and
+              Skeat's method in adopting readings, pp. 524-5. Examples
+              of Skeat’s emendations and readings, pp. 525-6. Account of
+              the contents of the volumes, with the comment that "the
+              Clarendon Press has done little to relieve the general aspect of
+              sobriety, much at variance with the demeanour of the contents,
+              and very unlike the appearance of the illuminated books from
+              which the poems are copied," pp. 526-7. Complaint of the
+              overinsistence on Dr. Furnivall’s classification of the groups of the
+              Canterbury Tales, pp. 527-8. On Skeat’s introductions, his
+              metrical symbols, his remarks on Chaucer’s vowels and Kentish
+              forms and knowledge of Old French verse—any possible flaws
+              in which do not prejudice his handling of the texts, pp. 528-
+              31. The texts of the <hi rend="italic">Romaunt</hi>, <hi rend="italic">Troylus</hi> and the <hi rend="italic">Legende</hi>
+              acknowledged and praised, p. 532. Skeat’s abstention from
+              literary criticism, and reference of the reader to Lowell’s essay,
+              deprecated, p. 533. Comparison of Chaucer and Dante in their
+              use of mediæval habit and fashion, pp. 534-5. Historical
+              commentary on Chaucer inevitable and useful, pp. 535-6.
+              On Skeat's statement of the debt in the <hi rend="italic">Hous of Fame</hi>
+              to Dante, and the general independence of Chaucer's poem,
+              p. 537. How much of Chaucer's genius can be seen outside
+              the <hi rend="italic">Canterbury Tales</hi>, pp. 537-8.]</seg>
+          <seg><note place="margin">[p. 538]</note> It is difficult to speak moderately of Chaucer's "Troilus."
+              It is the first great modern book in that kind where the most
+              characteristic modern triumphs of the literary art have been
+              won; in the kind to which belong the great books of
+              Cervantes, of Fielding, and of their later pupils—that form of
+              story which is not restricted in its matter in any way, but is
+              capable of taking in comprehensively all or any part of the
+              aspects and humours of life. No other mediæval poem is rich
+              and full in the same way as "Troilus" is full of varieties of
+              character and mood. It is a tragic novel, and it is also strong
+              enough to pass the scrutiny of that Comic Muse who detects
+              the impostures of inflated heroic and romantic poetry. More
+              than this, it has the effective aid of the Comic Muse in that
+              
+              <milestone unit="page" n="150"/>
+              
+              alliance of tragedy and comedy which makes an end of all
+              the old distinctions and limitations of narrative and drama.</seg>
+              <seg type="editorial">[<hi rend="italic">Troilus</hi> and the <hi rend="italic">Filostrato</hi>, pp. 538-9. The dignity, beauty
+              and proportion of <hi rend="italic">Troilus</hi>, pp. 539-40. The <hi rend="italic">Knightes Tale</hi>
+              and the <hi rend="italic">Teseide</hi>, pp. 540-1. Chaucer's different handling of
+              the <hi rend="italic">Troilus</hi> and <hi rend="italic">Knightes Tale</hi> themes, pp. 541-3. Chaucer's
+              changes of handling throughout his works, p. 543. The
+              <hi rend="italic">House of Fame</hi> an indulgence in mediæval vanities, pp. 544-5.
+              Contradictions and problems of the <hi rend="italic">Canterbury Tales</hi>, pp.
+              544-7.]</seg>
         </ab>
       </div>
     </body>

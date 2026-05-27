@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng?token=GHSAT0AAAAAAD6JFEDD7ZTYLUQNLFLI3IJI2QWZJSA" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p140_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1891, William Paton Ker. Of Chaucer's Rosemounde, Balade to yᵉ Makeres,</title>
+        <title>1891, William Paton Ker. Of Chaucer's Rosemounde, Balade to yᵉ Makeres.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/51774688">William Paton Ker</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/51774688">Ker, William Paton</author>
             <date cert="high" when="1891">1891</date>
-            <title level="a">Of Chaucer's Rosemounde, Balade to yᵉ Makeres,</title>
+            <title level="a">Of Chaucer's Rosemounde, Balade to yᵉ Makeres.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,24 +83,32 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="140"/>
-        <ab type="imprint">1891. K[er], W[illiam] P[aton]. Of Chaucer's Rosemounde, Balade to yᵉ Makeres, [in] The Oxford Magazine, April 29, 1891, vol ix, p. 305.</ab>
+        
+        <ab type="imprint">1891. K[er], W[illiam] P[aton]. <hi rend="italic">Of Chaucer's Rosemounde, Balade to yᵉ Makeres</hi>, [in] The Oxford Magazine, April 29, 1891, vol ix, p. 305.<note type="footnote">[Occasioned by Professor Skeat's discovery of To Rosemounde.]</note></ab>
+        
         <ab type="quotation">
-          <seg>Maisters that in the goodly sees divyne
-the brighte Apolo with the laurer grounde,
-we thanken yow that of youre hye ingyne
-on erthe yit the crommes ben yfounde:
-loo Aristotle in Egipte under grounde
-that of Athenes wroot the governaunce,
-and Chaucer thy balade of Rosemounde
-of joye encresing oure inheritaunce.
-. . . . . . .
-L’Enuoy.
-Go litel lewede rimes cercling rounde,
-loketh ye be nat blamed of bobaunce
-ther sortil [sic] lore is and the craft profounde
-of joye encresing our inheritaunce.</seg>
+          <seg>
+              <lg>
+                <l>Maisters that in the goodly sees divyne</l>
+                <l>the brighte Apolo with the laurer grounde,</l>
+                <l>we thanken yow that of youre hye ingyne</l>
+                <l>on erthe yit the crommes ben yfounde:</l>
+                <l>loo Aristotle in Egipte under grounde</l>
+                <l>that of Athenes wroot the governaunce,</l>
+                <l>and Chaucer thy balade of Rosemounde</l>
+                <l>of joye encresing oure inheritaunce.</l>
+              </lg>
+              . . . . . . .
+              <lg>
+                <head>L’Enuoy.</head>
+                <l>Go litel lewede rimes cercling rounde,</l>
+                <l>loketh ye be nat blamed of bobaunce</l>
+                <l>ther sortil <add>[sic]</add> lore is and the craft profounde</l>
+                <l>of joye encresing our inheritaunce.</l>
+              </lg>
+          </seg>
         </ab>
-        <ab type="headnote">[Occasioned by Professor Skeat's discovery of To Rosemounde.]</ab>
+        
       </div>
     </body>
   </text>

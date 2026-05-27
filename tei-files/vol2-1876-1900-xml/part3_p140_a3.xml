@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng?token=GHSAT0AAAAAAD6JFEDD7ZTYLUQNLFLI3IJI2QWZJSA" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p140_a3">
   <teiHeader>
     <fileDesc>
@@ -31,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19804263">Thomas Lounsbury</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19804263">Lounsbury, Thomas</author>
             <date cert="high" when="1891">1891</date>
             <title level="a">Studies in Chaucer: His Life and Writings.</title>
           </analytic>
@@ -70,8 +71,8 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#biography" target="#"/>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#biography" target="#evolutions"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#facility"/>
         <catRef scheme="#criticism" target="#realism"/>
       </textClass>
@@ -84,147 +85,165 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="140"/>
+        
         <ab type="imprint">1891. Lounsbury, Thomas Raynsford. Studies in Chaucer: His Life and Writings. In three volumes, New York, 1891. [The London issue, 1892, is in B. M.].</ab>
+        
         <ab type="quotation">
-          <seg>[The eight chapters or "monographs" which make up the
-book are as follows:]
-Vol. I. Chapter I.— The Life of Chaucer.
-" Chapter II.—The Chaucer Legend.
-" Chapter III.—The Text of Chaucer.
-Vol. I. Chapter IV.—The Writings of Chaucer.
-Vol. II. Chapter IV. (continued).—The Romance of the Rose.
-" Chapter V.—The Learning of Chaucer.
-" Chapter VI.—The Relations of Chaucer to the English
-Language and to the Religion of his
-Time.
-Vol. III. Chapter VII.—Chaucer in Literary History.
-" Chapter VIII.—Chaucer as a Literary Artist.
-" Appendix.
-[Vol. iii, I have sought to show that Chaucer was not only a great
-p. 439]
-artist, but that he became so at the cost of time and labour;
-that in him, standing at the fountain-head of English litera¬
-ture, the critical spirit was as highly developed as the creative.
-... If we need further confirmation, we can find it in one
-marked change that took place in his literary methods. In
-his earlier work he introduces constantly characters that are
-merely personifications of qualities or acts or sentiments.
-In so doing he followed the practice of his immediate pre¬
-decessors. As he advanced in knowledge and taste he shook
-himself free from the trammels of this temporary fashion. He
-abandoned almost entirely the field of abstractions in which
-the men of his time delighted, and in which his contemporary
-Langland was contented to remain. For the shadowy beings
-who dwell in the land of types he substituted living men and
-women; for the allegorical representations of feelings and
-beliefs, the direct outpourings of passion. Changes of method
-such as these are not the result of freak or accident. Chaucer,
-accordingly, must stand or fall not merely by our opinion of
-what he did, but by our knowledge that what he did was done
-consciously. ...
-It is impossible to take final leave of the poet without some
-notice of what is on the whole the most pronounced character¬
-[p. 441] istic of his style. This is the uniformly low level upon which
-he moves. There is no other author in our tongue who has
-clung so closely and so persistently to the language of common
-life. Such a characteristic appealed strongly to the men who
-led the revolt against the artificial diction that prevailed in
-the poetry of the last century. It attracted in particular the
-attention of Wordsworth. The course of his predecessor he
-cited as an authority for the one which he himself adopted. ...
-There have been many men of genius who have been able to
-say grand things grandly. To the fewest of the few is re¬
-served the achievement of the far harder task of discoursing
-of mean things without discoursing meanly; of recounting the
-prosaic events of life without becoming prosaic one's self; of nar¬
-rating them in the plainest terms, and yet investing them with a
-poetic charm. It is in the power of genius only to accomplish
-this at all; but it is by no means in the power of all genius.
-[p. 442] It is because he stayed so persistently on these low levels
-that Chaucer was enabled to combine with apparent ease
-characteristics and methods that are often deemed incompatible.
-His words are the more effective because their very simplicity
-makes upon the mind the impression of understatement. The
-imagination of the reader fills in and exaggerates the details
-which have been left half-told. It is owing to this restraint
-of expression that whatever he says is not only at all times
-and in all places free from literary vulgarity, it never loses the
-dignity that belongs, as well in letters as in life, to consum¬
-mate high-breeding. There is an exquisite urbanity in his
-manner which gives it attractiveness as pervasive and yet as
-indefinable as that which the subtle evanescent flavour of arch
-allusion imparts to his matter. I do not mean by this to
-convey the idea that Chaucer abounds in ornate and brilliant
-passages, or that he is constantly saying remarkable things in
-a remarkable way. It is simply that in dealing with the
-common he is never common-place. ... As a further result
-of this absolute naturalness, he is enabled to pass from the
-gravest to the lightest topics without giving the reader the
-[p. 443] slightest sensation of shock. ... His freedom, indeed, verges
-at times upon audacity. In the Knight's tale, for illustration,
-following close upon the high-wrought description of the great
-tournament comes the recital of the methods taken by the
-physicians to save the life of the victor in the struggle. The
-failure they meet with is told in the simplest terms. Their
-efforts were fruitless because they received no help from nature.
-Suddenly the poet interposes his own comment on the useless¬
-ness, under such conditions, of the medical art in words like
-these :—
-"And certainly there nature will not wirche
-Farewell, physic! Go! bear the man to church!"
-With this quaint expression of personal opinion, he passes at
-once to the pathetic parting-scene between the dying lover
-and the woman for whom he is about to die. Yet these rapid
-transitions do not produce upon the mind any effect of inap¬
-propriateness or incongruity. Tears and laughter stand side
-by side in Chaucer's verse as they do in life ...
-[p. 444] I am not claiming for Chaucer that he is one of the few
-supremest poets of the race. His station is near them, but he
-is not of them. Yet, whatever may be the rank we accord
-him among the writers of the world’s chief literatures, the
-position he holds in his own literature is one that can no
-longer be shaken by criticism or disturbed by denial. ...To
-one alone among the writers of our own literature is he
-inferior. Nor even by him has he been surpassed in every
-way. There are characteristics in which he has no superior,
-and, it may be right to add, in which he has no equal. ...
-There is one particular in wwhich his merits in reference to the
-literature are transcendent. He overcame its natural tendencies
-to a dull seriousness which could sometimes be wrought into
-vigorous invective, but had little power to fuse the spiritual
-element of poetry with the purely intellectual. Into the stolid
-English nature, which may be earnest, but evinces an almost
-irresistible inclination towards heaviness, he brought a light¬
-ness, a grace, a delicacy of fancy, a refined sportiveness even
-upon the most unrefined themes which had never been known
-[p. 445] before save on the most infinitesimal scale, and has not been
-known too much since.
-Nor is this the only distinctive characteristic in which
-Chaucer excels. There is no other English author so absolutely
-free, not merely from effort, but from the remotest suggestion
-of effort. Shakspeare mounts far higher; yet with him
-there are times when we seem to hear the flapping of the
-wings, to be vaguely conscious that he is lashing his imagina¬
-tion to put forth increased exertions. But in Chaucer no
-slightest trace of strain is to be detected. As on the lower levels
-the line never labours, so on the higher he never makes the
-impression that he is trying to make an impression. It is the
-absolute ease with which he rises that often prevents our per¬
-ceiving how rapidly he has risen. ... Nor is it alone for the
-naturalness and ease which result from this union of strength
-and simplicity that the greatest of his successors have delighted
-to honour the poet. Full as willingly have they paid homage
-to the qualities of character displayed in his works as to those
-of intellect; in perfect serenity of spirit as well as in perfect
-sanity of view; in the large-hearted toleration which could
-[p. 446] not speak bitterly even of the vicious; in the gracious worldli¬
-ness which never hardened into the callousness of insensibility;
-in the manly tenderness which never degenerated into senti¬
-mentality; in the repose of conscious strength which never
-wearied itself or worried itself in striving for effect;—in all
-these characteristics the royal line of English poets has never
-refused to acknowledge the supremacy of him whom it
-recognizes as its founder.</seg>
+              <seg type="editorial">[The eight chapters or "monographs" which make up the
+                book are as follows:]</seg>
+              <seg>
+                <list>
+                  <item>Vol. I. Chapter I.— The Life of Chaucer.</item>
+                  <item>" Chapter II.—The Chaucer Legend.</item>
+                  <item>" Chapter III.—The Text of Chaucer.</item>
+                  
+                  <milestone unit="page" n="141"/>
+                  
+                  <item>Vol. I. Chapter IV.—The Writings of Chaucer.</item>
+                  <item>Vol. II. Chapter IV. (continued).—The Romance of the Rose.</item>
+                  <item>" Chapter V.—The Learning of Chaucer.</item>
+                  <item>" Chapter VI.—The Relations of Chaucer to the English Language and to the Religion of his Time.</item>
+                  <item>Vol. III. Chapter VII.—Chaucer in Literary History.</item>
+                  <item>" Chapter VIII.—Chaucer as a Literary Artist.</item>
+                  <item>" Appendix.</item>
+                </list>
+              </seg>
+              <seg><note place="margin">[Vol. iii,p. 439]</note> I have sought to show that Chaucer was not only a great
+              artist, but that he became so at the cost of time and labour;
+              that in him, standing at the fountain-head of English literature, 
+              the critical spirit was as highly developed as the creative.
+              . . . If we need further confirmation, we can find it in one
+              marked change that took place in his literary methods. In
+              his earlier work he introduces constantly characters that are
+              merely personifications of qualities or acts or sentiments.
+              In so doing he followed the practice of his immediate 
+              predecessors. As he advanced in knowledge and taste he shook
+              himself free from the trammels of this temporary fashion. He
+              abandoned almost entirely the field of abstractions in which
+              the men of his time delighted, and in which his contemporary
+              Langland was contented to remain. For the shadowy beings
+              who dwell in the land of types he substituted living men and
+              women; for the allegorical representations of feelings and
+              beliefs, the direct outpourings of passion. Changes of method
+              such as these are not the result of freak or accident. Chaucer,
+              accordingly, must stand or fall not merely by our opinion of
+              what he did, but by our knowledge that what he did was done
+              consciously. . . .</seg>
+              <seg>It is impossible to take final leave of the poet without some
+              notice of what is on the whole the most pronounced characteristic
+              <note place="margin">[p. 441]</note> of his style. This is the uniformly low level upon which
+              he moves. There is no other author in our tongue who has
+              clung so closely and so persistently to the language of common
+              life. Such a characteristic appealed strongly to the men who
+              led the revolt against the artificial diction that prevailed in
+              the poetry of the last century. It attracted in particular the
+              attention of Wordsworth. The course of his predecessor he
+              cited as an authority for the one which he himself adopted. . . .
+              
+              <milestone unit="page" n="142"/>
+              
+              There have been many men of genius who have been able to
+              say grand things grandly. To the fewest of the few is 
+              reserved the achievement of the far harder task of discoursing
+              of mean things without discoursing meanly; of recounting the
+              prosaic events of life without becoming prosaic one's self; of
+              narrating them in the plainest terms, and yet investing them with a
+              poetic charm. It is in the power of genius only to accomplish
+              this at all; but it is by no means in the power of all genius.</seg>
+              <seg><note place="margin">[p. 442]</note> It is because he stayed so persistently on these low levels
+              that Chaucer was enabled to combine with apparent ease
+              characteristics and methods that are often deemed incompatible.
+              His words are the more effective because their very simplicity
+              makes upon the mind the impression of understatement. The
+              imagination of the reader fills in and exaggerates the details
+              which have been left half-told. It is owing to this restraint
+              of expression that whatever he says is not only at all times
+              and in all places free from literary vulgarity, it never loses the
+              dignity that belongs, as well in letters as in life, to consummate
+              high-breeding. There is an exquisite urbanity in his
+              manner which gives it attractiveness as pervasive and yet as
+              indefinable as that which the subtle evanescent flavour of arch
+              allusion imparts to his matter. I do not mean by this to
+              convey the idea that Chaucer abounds in ornate and brilliant
+              passages, or that he is constantly saying remarkable things in
+              a remarkable way. It is simply that in dealing with the
+              common he is never common-place. . . . As a further result
+              of this absolute naturalness, he is enabled to pass from the
+              gravest to the lightest topics without giving the reader the
+              <note place="margin">[p. 443]</note> slightest sensation of shock. . . . His freedom, indeed, verges
+              at times upon audacity. In the Knight's tale, for illustration,
+              following close upon the high-wrought description of the great
+              tournament comes the recital of the methods taken by the
+              physicians to save the life of the victor in the struggle. The
+              failure they meet with is told in the simplest terms. Their
+              efforts were fruitless because they received no help from nature.
+              Suddenly the poet interposes his own comment on the uselessness,
+              under such conditions, of the medical art in words like
+              these :—
+              
+              <lg>
+                <l>"And certainly there nature will not wirche</l>
+                <l>Farewell, physic! Go! bear the man to church!"</l>
+              </lg>
+              
+              <milestone unit="page" n="143"/>              
+              
+              With this quaint expression of personal opinion, he passes at
+              once to the pathetic parting-scene between the dying lover
+              and the woman for whom he is about to die. Yet these rapid
+              transitions do not produce upon the mind any effect of
+              inappropriateness or incongruity. Tears and laughter stand side
+              by side in Chaucer's verse as they do in life . . .</seg>
+              <seg><note place="margin">[p. 444]</note> I am not claiming for Chaucer that he is one of the few
+              supremest poets of the race. His station is near them, but he
+              is not of them. Yet, whatever may be the rank we accord
+              him among the writers of the world’s chief literatures, the
+              position he holds in his own literature is one that can no
+              longer be shaken by criticism or disturbed by denial. . . .To
+              one alone among the writers of our own literature is he
+              inferior. Nor even by him has he been surpassed in every
+              way. There are characteristics in which he has no superior,
+              and, it may be right to add, in which he has no equal. . . .
+              There is one particular in wwhich his merits in reference to the
+              literature are transcendent. He overcame its natural tendencies
+              to a dull seriousness which could sometimes be wrought into
+              vigorous invective, but had little power to fuse the spiritual
+              element of poetry with the purely intellectual. Into the stolid
+              English nature, which may be earnest, but evinces an almost
+              irresistible inclination towards heaviness, he brought a lightness,
+              a grace, a delicacy of fancy, a refined sportiveness even
+              upon the most unrefined themes which had never been known
+              <note place="margin">[p. 445]</note> before save on the most infinitesimal scale, and has not been
+              known too much since.</seg>
+              <seg>Nor is this the only distinctive characteristic in which
+              Chaucer excels. There is no other English author so absolutely
+              free, not merely from effort, but from the remotest suggestion
+              of effort. Shakspeare mounts far higher; yet with him
+              there are times when we seem to hear the flapping of the
+              wings, to be vaguely conscious that he is lashing his
+              imagination to put forth increased exertions. But in Chaucer no
+              slightest trace of strain is to be detected. As on the lower levels
+              the line never labours, so on the higher he never makes the
+              impression that he is trying to make an impression. It is the
+              absolute ease with which he rises that often prevents our 
+              perceiving how rapidly he has risen. . . . Nor is it alone for the
+              naturalness and ease which result from this union of strength
+              
+              <milestone unit="page" n="144"/>
+              
+              and simplicity that the greatest of his successors have delighted
+              to honour the poet. Full as willingly have they paid homage
+              to the qualities of character displayed in his works as to those
+              of intellect; in perfect serenity of spirit as well as in perfect
+              sanity of view; in the large-hearted toleration which could
+              <note place="margin">[p. 446]</note> not speak bitterly even of the vicious; in the gracious 
+              worldliness which never hardened into the callousness of insensibility;
+              in the manly tenderness which never degenerated into 
+              sentimentality; in the repose of conscious strength which never
+              wearied itself or worried itself in striving for effect;—in all
+              these characteristics the royal line of English poets has never
+              refused to acknowledge the supremacy of him whom it
+              recognizes as its founder.</seg>
         </ab>
       </div>
     </body>

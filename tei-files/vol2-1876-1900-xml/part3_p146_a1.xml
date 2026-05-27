@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng?token=GHSAT0AAAAAAD6JFEDD7ZTYLUQNLFLI3IJI2QWZJSA" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p146_a1">
   <teiHeader>
     <fileDesc>
@@ -31,8 +32,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
-            <date cert="high" when="1894-97">1894-97</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
+            <date cert="high" from="1894" to="1897">1894-97</date>
             <title level="a">The Complete Works of Geoffrey Chaucer.</title>
           </analytic>
           <monogr>
@@ -69,7 +70,9 @@
       <langUsage>
         <language ident="en">English</language>
       </langUsage>
-      <textClass/>
+      <textClass>
+        <catRef scheme="#works" target="#editionsCompleteWorks"/>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2026-05-21" who="#EL">Creation of the TEI file and enrichment of data</change>
@@ -79,101 +82,108 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="146"/>
-        <ab type="imprint">1894-97 Chaucer, Geoffrey. The Complete Works of Geoffrey Chaucer. Edited ... by ... W. W. Skeat, 7 vols.</ab>
+        
+        <ab type="imprint">1894-97. The Complete Works of Geoffrey Chaucer. Edited . . . by . . . W. W. Skeat, 7 vols.</ab>
+        
         <ab type="quotation">
-          <seg>[The chief contents are: Vol. I, Life of Chaucer, etc.;
-Romaunt of the Rose and Minor Poems, with introductions
-and notes. (See also vol. iv below, for additions to Minor
-Poems.)
-Vol. II: Boethius and Troilus, with introductions and
-notes.
-Vol. III: House of Fame; Legend of Good Women;
-Astrolabe, with introductions and notes. An Account of the
-Sources of the Canterbury Tales.
-Vol. IV: The Canterbury Tales, in groups A to I, with
-the Tale of Gamelyn as an appendix; Introduction on the
-MSS. and the plan of the Tales adopted. The Introduction
-contains also three Minor Poems additional to those in vol. i.
-Vol. V: Notes to the Canterbury Tales, with an Intro¬
-duction on the Chaucer Canon; the earlier editions; the
-Text of the Canterbury Tales; Chaucer's scansion, accentu¬
-ation and pronunciation; with rules for reading and a note on
-modernised spelling.
-Vol. VI: General Introduction, discussing the texts of the
-various pieces; the editor’s obligations to others; the dialect
-of Chaucer; his Kenticisms; pronunciation; scansion and
-accents; open and close o and e, etc.; rime; assonances; final
-y and ye; metres and forms of verse; analysis of Chaucer's
-language and grammar; versification; his authorities. Glos¬
-saries, indices, etc.
-Vol. VII (Supplementary Volume), Chaucerian and other
-Pieces, contains:
-Introduction on the (selected) apocryphal pieces, generally
-and individually, and the texts as follows, concluding with
-indices, etc.:
-I. Testament of Love (Usk).
-II. Plowman’s Tale.
-III. Jack Upland.
-IV. Gower's Praise of Peace.
-V. Hoccleve’s Letter of Cupid.
-VI. To the Kinge's most noble Grace
-To the Lordes and Knightes of the Hoccleve.
-Garter
-VII. Scogan’s Moral Ballade.
-VIII. Lydgate's Complaint of the Black Knight.
-IX. Lydgate’s Flour of Curtesye.
-X. Lydgate’s Balade in Commendation of our Lady.
-XI. To my Soverain Lady (Lydgate).
-XII. Ballad of Good Counsel (Lydgate).
-XIII. Beware of Doubleness (Lydgate).
-XIV. Balade Warning Men to Beware of Deceitful
-Women (Lydgate).
-XV. Three Sayings (Lydgate).
-XVI. Ros's La Belle Dame sans Mercy.
-XVII. Henryson’s Testament of Cressid.
-XVIII. Clanvowe’s Cuckoo and Nightingale.
-XIX. Envoy to Alison.
-XX. Flower and Leaf.
-XXI. Assembly of Ladies.
-XXII. Goodly Balade (Lydgate).
-XXIII. Go Forth, King (Lydgate).
-XXIV. Court of Love.
-XXV. A Virelai.
-XXVI. Prosperity (John Walton).
-XXVII. Leaulte vault Richesse.
-XXVIII. Sayings printed by Caxton.
-XXIX. Balade in Praise of Chaucer.
-[vol. vi. In the first place, my endeavour has been to produce a
-p. ix]
-thoroughly sound text, founded solely on the best MSS. and
-the earliest prints, which shall satisfy at once the requirements
-of the student of language and the reader who delights in
-poetry. In the interest of both, it is highly desirable that
-Chaucer’s genuine works should be kept apart from those
-which were recklessly associated with them in the early
-editions, and even in modern editions have been but imper¬
-fectly suppressed. It was also desirable, or rather absolutely
-necessary, that the recent advances in our knowledge of middle-
-English grammar and phonetics should be rightly utilized,
-and that no verbal form should be allowed to appear which
-would have been unacceptable to a good scribe of the
-fourteenth century.
-I have also provided a large body of illustrative notes, many
-of them gathered from the works of my predecessors, but
-enlarged by illustrations due to my own reading during a long
-course of years, and by many others due to the labours of the
-[p. x] most recent critics. The number of allusions that have been
-traced to their origin during the past fifteen years is consider¬
-able; and much additional light has thus been thrown upon
-Chaucer's method of treating his originals. ...
-[p. xviii] As regards the texts, my chief debt is to the Chaucer
-Society, which means, practically, Dr. Furnivall, through
-whose zeal and energy so many splendid and accurate prints of
-the MSS. have been produced, thus rendering the actual read¬
-ings and spellings of the scribes accessible to students in all
-countries. It is obvious that, but for such work, no edition of
-Chaucer could have been attempted without an enormous
-increase of labour and a prodigal expenditure of time.</seg>
+          <seg type="editorial">[The chief contents are: Vol. I, Life of Chaucer, etc.;
+            Romaunt of the Rose and Minor Poems, with introductions
+            and notes. (See also vol. iv below, for additions to Minor
+            Poems.)
+            <lb/>Vol. II: Boethius and Troilus, with introductions and
+            notes.
+            <lb/>Vol. III: House of Fame; Legend of Good Women;
+            Astrolabe, with introductions and notes. An Account of the
+            Sources of the Canterbury Tales.
+            <lb/>Vol. IV: The Canterbury Tales, in groups A to I, with
+            the Tale of Gamelyn as an appendix; Introduction on the
+            MSS. and the plan of the Tales adopted. The Introduction
+            contains also three Minor Poems additional to those in vol. i.
+            <lb/>Vol. V: Notes to the Canterbury Tales, with an
+            Introduction on the Chaucer Canon; the earlier editions; the
+            Text of the Canterbury Tales; Chaucer's scansion, accentuation
+            and pronunciation; with rules for reading and a note on
+            modernised spelling.
+            <lb/>Vol. VI: General Introduction, discussing the texts of the
+            various pieces; the editor’s obligations to others; the dialect
+            of Chaucer; his Kenticisms; pronunciation; scansion and
+            accents; open and close o and e, etc.; rime; assonances; final
+            y and ye; metres and forms of verse; analysis of Chaucer's
+            language and grammar; versification; his authorities.
+            Glossaries, indices, etc.
+            <lb/>Vol. VII (Supplementary Volume), <hi rend="italic">Chaucerian and other
+            Pieces</hi>, contains:
+            <lb/>Introduction on the (selected) apocryphal pieces, generally
+            and individually, and the texts as follows, concluding with
+            indices, etc.:
+            <list>
+              <item>I. Testament of Love (Usk).</item>
+              <item>II. Plowman’s Tale.</item>
+              <item>III. Jack Upland.</item>
+              <item>IV. Gower's Praise of Peace.</item>
+              <item>V. Hoccleve’s Letter of Cupid.</item>
+              
+              <milestone unit="page" n="147"/>
+              
+              <item>VI. To the Kinge's most noble Grace / To the Lordes and Knightes of the Garter (Hoccleve).</item>
+              <item>VII. Scogan’s Moral Ballade.</item>
+              <item>VIII. Lydgate's Complaint of the Black Knight.</item>
+              <item>IX. Lydgate’s Flour of Curtesye.</item>
+              <item>X. Lydgate’s Balade in Commendation of our Lady.</item>
+              <item>XI. To my Soverain Lady (Lydgate).</item>
+              <item>XII. Ballad of Good Counsel (Lydgate).</item>
+              <item>XIII. Beware of Doubleness (Lydgate).</item>
+              <item>XIV. Balade Warning Men to Beware of Deceitful Women (Lydgate).</item>
+              <item>XV. Three Sayings (Lydgate).</item>
+              <item>XVI. Ros's La Belle Dame sans Mercy.</item>
+              <item>XVII. Henryson’s Testament of Cressid.</item>
+              <item>XVIII. Clanvowe’s Cuckoo and Nightingale.</item>
+              <item>XIX. Envoy to Alison.</item>
+              <item>XX. Flower and Leaf.</item>
+              <item>XXI. Assembly of Ladies.</item>
+              <item>XXII. Goodly Balade (Lydgate).</item>
+              <item>XXIII. Go Forth, King (Lydgate).</item>
+              <item>XXIV. Court of Love.</item>
+              <item>XXV. A Virelai.</item>
+              <item>XXVI. Prosperity (John Walton).</item>
+              <item>XXVII. Leaulte vault Richesse.</item>
+              <item>XXVIII. Sayings printed by Caxton.</item>
+              <item>XXIX. Balade in Praise of Chaucer.</item>
+            </list>
+            </seg>
+            <seg><note place="margin">[vol. vi. p. ix]</note> In the first place, my endeavour has been to produce a
+            thoroughly sound text, founded solely on the best MSS. and
+            the earliest prints, which shall satisfy at once the requirements
+            of the student of language and the reader who delights in
+            poetry. In the interest of both, it is highly desirable that
+            Chaucer’s genuine works should be kept apart from those
+            which were recklessly associated with them in the early
+            editions, and even in modern editions have been but imperfectly
+            suppressed. It was also desirable, or rather absolutely
+            necessary, that the recent advances in our knowledge of middle-
+            English grammar and phonetics should be rightly utilized,
+            and that no verbal form should be allowed to appear which
+            would have been unacceptable to a good scribe of the
+            fourteenth century.</seg>
+            <seg>I have also provided a large body of illustrative notes, many
+            of them gathered from the works of my predecessors, but
+            
+            <milestone unit="page" n="148"/>
+            
+            enlarged by illustrations due to my own reading during a long
+            course of years, and by many others due to the labours of the
+            <note place="margin">[p. x]</note> most recent critics. The number of allusions that have been
+            traced to their origin during the past fifteen years is considerable;
+            and much additional light has thus been thrown upon
+            Chaucer's method of treating his originals. . . .</seg>
+            <seg><note place="margin">[p. xviii]</note> As regards the texts, my chief debt is to the Chaucer
+            Society, which means, practically, Dr. Furnivall, through
+            whose zeal and energy so many splendid and accurate prints of
+            the MSS. have been produced, thus rendering the actual readings
+            and spellings of the scribes accessible to students in all
+            countries. It is obvious that, but for such work, no edition of
+            Chaucer could have been attempted without an enormous
+            increase of labour and a prodigal expenditure of time.</seg>
         </ab>
       </div>
     </body>

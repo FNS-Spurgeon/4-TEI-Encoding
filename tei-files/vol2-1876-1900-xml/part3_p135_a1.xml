@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng?token=GHSAT0AAAAAAD6JFEDD7ZTYLUQNLFLI3IJI2QWZJSA" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p135_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1883, John Koch. A Critical Edition of some of Chaucer's 'Minor Poems,'</title>
+        <title>1883, John Koch. A Critical Edition of some of Chaucer's 'Minor Poems'.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/159027951">John Koch</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/159027951">Koch, John</author>
             <date cert="high" when="1883">1883</date>
-            <title level="a">A Critical Edition of some of Chaucer's 'Minor Poems,'</title>
+            <title level="a">A Critical Edition of some of Chaucer's 'Minor Poems'.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -81,16 +82,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="135"/>
-        <ab type="imprint">1883. Koch, John. A Critical Edition of some of Chaucer's 'Minor Poems,' Berlin.</ab>
+        
+        <ab type="imprint">1883. Koch, John. <hi rend="italic">A Critical Edition of some of Chaucer's</hi> '<hi rend="italic">Minor Poems</hi>,' Berlin.</ab>
+        
         <ab type="quotation">
           <seg>[An introduction treating of the orthography, etc., of the
-early MSS. of Chaucer's Works is followed by a collated text
-of I. An ABC. II. Chaucers Wordes vnto Adam, his owen
-Scriveyn. III. The Former Age. IV. Fortune. V. Truth.
-VI. Gentilesse. VII. Lack of Stedfastnesse. VIII. Lenvoy
-de Chaucer a Bukton. IX. Lenvoy de Chaucer a Scogan.
-X. La Compleinte de Chaucer a sa Bourse Voide; followed
-by notes on each.]</seg>
+            early MSS. of Chaucer's Works is followed by a collated text
+            of I. An ABC. II. <hi rend="italic">Chaucers Wordes vnto Adam</hi>, <hi rend="italic">his owen
+            Scriveyn</hi>. III. <hi rend="italic">The Former Age</hi>. IV. <hi rend="italic">Fortune</hi>. V. <hi rend="italic">Truth</hi>.
+            VI. <hi rend="italic">Gentilesse</hi>. VII. <hi rend="italic">Lack of Stedfastnesse</hi>. VIII. <hi rend="italic">Lenvoy
+            de Chaucer a Bukton</hi>. IX. <hi rend="italic">Lenvoy de Chaucer a Scogan</hi>.
+            X. <hi rend="italic">La Compleinte de Chaucer a sa Bourse Voide</hi>; followed
+            by notes on each.]</seg>
         </ab>
       </div>
     </body>
