@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng?token=GHSAT0AAAAAAD6JFEDD7ZTYLUQNLFLI3IJI2QWZJSA" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p140_a1">
   <teiHeader>
     <fileDesc>
@@ -89,12 +89,12 @@
               South-Eastern Railway and come back the same day for five
               shillings. And, what is more, they are just the same sort of
               people. If they do not go to Canterbury they go by the
-              Clacton Belle to Clacton-on-Sea. There is not a Sunday the
+              <hi rend="italic">Clacton Belle</hi> to Clacton-on-Sea. There is not a Sunday the
               whole summer through but you may find all Chaucer's
               pilgrims, man and woman for man and woman, on board the
-              Lord of the Isles or the Clacton Belle. Why, I have seen the
-              Wife of Bath on the Lord of the Isles myself. She was
-              eating her luncheon off an Ally Sloper's Half Holiday, which
+              <hi rend="italic">Lord of the Isles</hi> or the <hi rend="italic">Clacton Belle</hi>. Why, I have seen the
+              Wife of Bath on the <hi rend="italic">Lord of the Isles</hi> myself. She was
+              eating her luncheon off an <hi rend="italic">Ally Sloper's Half Holiday</hi>, which
               was spread out upon her knees.</seg>
         </ab>
       </div>
