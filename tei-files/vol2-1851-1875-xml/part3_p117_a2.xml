@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p117_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1874, John Richard Green. A Short History of the English People,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/44315155">John Richard Green</author>
+            <date cert="high" when="1874">1874</date>
+            <title level="a">A Short History of the English People,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">III</biblScope>
+            <biblScope unit="page">117-119</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#works" target="#criticism"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="117"/>
+        <ab type="imprint">1874. Green, John Richard. A Short History of the English People, pp. 163-4, 212-6, 229, 231, 248-9, 287-90.</ab>
+        <ab type="quotation">
+          <seg>[p. 214] If with the best modern critics we reject from the list
+of his genuine works the bulk of the poems which preceded
+"Troilus and Cressida," we see at once that, familiar as he
+was with the literature of the Trouvères, his real sympathies
+drew him not to the dying verse of France, but to the new
+and mighty upgrowth of poetry in Italy. ... But even
+while changing, as it were, the front of English poetry,
+Chaucer preserves his own distinct personality. If he quizzes
+in the rime of Sir Thopaz the wearisome idleness of the
+French romance, he retains all that was worth retaining of
+the French temper, its rapidity and agility of movement, its
+lightness and brilliancy of touch, its airy mockery, its gaiety
+[p. 215] and good humour, its critical coolness and self-control. The
+French wit quickens in him more than in any English
+writer the sturdy sense and shrewdness of our national dis¬
+position, corrects its extravagance, and relieves its somewhat
+ponderous morality. If, on the other hand, he echoes the
+joyous carelessness of the Italian tale, he tempers it with
+the English seriousness. As he follows Boccaccio, all his
+changes are on the side of purity; and when the Troilus of
+the Florentine ends with the old sneer at the changeableness
+of woman, Chaucer bids us "look Godward," and dwells on
+the unchangeableness of Heaven.
+But the genius of Chaucer was neither French nor Italian,
+whatever element it might borrow from either literature, but
+English to the core.
+[p. 216] It is the first time in English poetry that we are
+brought face to face not with characters or allegories or
+reminiscences of the past, but with living and breathing
+men, men distinct in temper and sentiment as in face or
+costume or mode of speech; and with this distinctness of
+each maintained throughout the story by a thousand shades
+of expression and action. It is the first time, too, that we
+meet with the dramatic power which not only creates each
+character, but combines it with its fellows, which not only
+adjusts each tale or jest to the temper of the person who
+utters it, but fuses all into a poetic unity. ... He has
+received his training from war, courts, business, travel—a
+training not of books, but of life. And it is life that he
+loves—the delicacy of its sentiment, the breadth of its farce,
+its laughter and its tears, the tenderness of its Grisildis or
+the Smollett-like adventures of the miller and the schoolboy.
+It is this largeness of heart, this wide tolerance, which enables
+him to reflect man for us as none but Shakspeare has ever
+reflected it [sic], but to reflect it with a pathos, a shrewd
+sense and kindly humour, a freshness and joyousness of
+[pp. 229
+feeling, that even Shakspeare has not surpassed.
+-31]
+[Chaucer’s satire on the clerics.]
+[p. 248]
+Nothing brings more vividly home to us the social chasm
+which in the fourteenth century severed the rich from the
+poor than the contrast between the "Complaint of Piers the
+Ploughman" and the "Canterbury Tales." The world of
+wealth and ease and laughter through which the courtly
+Chaucer moves with eyes downcast as in a pleasant dream
+is a far-off world of wrong and of ungodliness to the gaunt
+poet of the poor.</seg>
+          <note type="footnote">Spurgeon's note: [The passages on Chaucer were re-bandled in Green's History of the English People, 1877-80.]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -3,7 +3,7 @@ from datetime import date
 import csv
 import os
 
-file = "../../3-DataEnrichment/2-DataEnriched/vol2-1876-1900-allusions-enriched.csv"
+file = "../../3-DataEnrichment/2-DataEnriched/vol2-1851-1875-allusions-enriched.csv"
 
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
@@ -180,7 +180,7 @@ with open(file, 'r', encoding='utf-8') as f:
 
         tree = etree.ElementTree(root)
 
-        path_tei = '../tei-files/vol2-1876-1900-xml'  # New folder to save the files
+        path_tei = '../tei-files/vol2-1851-1875-xml'  # New folder to save the files
         if not os.path.isdir(path_tei):
             os.mkdir(path_tei)
 

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p37_a3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1857, Frederick James Furnivall. MS. Notes, Illustrations of the Prologue to Chaucer's Canterbury Tales,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Frederick James Furnivall</author>
+            <date cert="high" when="1857">1857</date>
+            <title level="a">MS. Notes, Illustrations of the Prologue to Chaucer's Canterbury Tales,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">III</biblScope>
+            <biblScope unit="page">37-38</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#works" target="#prologue"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="37"/>
+        <ab type="imprint">1857. Furnivall, Frederick James. MS. Notes, Illustrations of the Prologue to Chaucer's Canterbury Tales, dated "Working Men’s College, 1857." [The Notes consist of passages copied from different books in illustration of the various characters in the Prologue, and were used for lectures at the Working Men’s College in 1857-8. See Biography of Furnivall by John Munro in Frederick James Furnivall, 1911, p. xxxvi. The original note-book is in the possession of the present Editor. The contents are as follows.]</ab>
+        <ab type="quotation">
+          <seg>[p. 2]
+"The Fat Friar." Extract from Piers Plowman's Creed,
+l. 435 (ed. Wright, 1856), beginning—
+"Than turned I ayen
+Whan I hadde all y-toted,
+And fond in a freitoure
+A frere on a benche," etc.
+[p. 3]
+"The Ploughman." Paraphrase of long passage from the
+Creed, l. 475 [or rather 831], etc.
+[p. 6]
+"The Ploughman's Diet and Work—recommended for the
+Friars." Extract from Creed, l. 1553, etc., and a note.
+"See Vis. [vol.] i, [p.] 134."
+[p. 9]
+"The Friars' Laziness, Greediness and Selfishness, and
+want of kindness to one another." Extract from Creed,
+ll. 1437-82.
+[p. 13]
+"Priests—their residing in London." Extract from Piers
+Plowman, Prol. Il. 163-72.
+[p. 17] "Knight." Extract from Leland, Itinerary (Somersetshire),
+vol. II, fol. 53-4, vol. iii, 91 (of original).
+[pp. 26, 27, 28 and inserted leaves]
+"The Assault of Massoura (Excerpta Historica, Bentley,
+1831, p. 64)." The valour of Longespee fighting the
+Saracens.
+[p. 30] "Franklins." Extract from Fortescue, de Laudibus Legum
+Angliae, cap. 29, temp. Hen. VI, 1422-61.
+[p. 31] Extract from W. Lambarde, Perambulation of Kent, 1570,
+published 1576, copied from edn. 1826, p. 8. Note on the
+"Franklyns and Yeomen of England."
+[p. 32]. "Doctor of Phisic." "For a first-rate skit on 'thes fisisiens
+that helpeth men to dye' see 'A Poem on the Times of
+Edward II,' ed. Hardwick (Percy Society), stanzas 39-44,
+pp. 18-21."
+Extract from Piers Plouman, [vol.] I, [p.] 133 :—
+"For murtheris are many leches," etc.
+[p. 39] "The Merchant, as to his selling scheeldes."
+Extract from Piers Plowman, C, vii, l. 278:—
+"And if I sente over see
+My servauntȝ to Brugges," etc.
+[B. v, 392; C. vii, 278.]
+[p. 41] "Sergeantȝ (at law)."
+Extract from Piers Plowman, i, 418:—
+"Yet hoved there an hundred
+In howves of selk," etc.
+[pp. 42-3] "Sergeant.""Pervise." Selden's note in Fortescue de
+laudibus Legum Anglide, cap. 51.
+[p. 43] Extract from Songs and Carols, 15th Century, ed. Wright,
+for Percy Society, p. 36:
+"If thou have out to do with the law to plete," etc.,
+and from notes, p. 100: "The Parvis or portico of St. Paul’s, in
+London, was the common place of consultation among the
+Lawyers." "See Victor Hugo’s Notre Dame as to the Parvise
+there, in Paris."
+[End pages of book, an index of personages (such as Ancres,
+Bachelers, Bishop, Clerks, etc.) mentioned in Piers Plowman,
+under heads of "Church," "State and Household," and
+"Trades and Professions."]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

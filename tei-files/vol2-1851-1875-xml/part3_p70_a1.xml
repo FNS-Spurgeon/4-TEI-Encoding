@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p70_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[n. a. 1863], Alexander Smith. William Dunbar,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/14786280">Alexander Smith</author>
+            <date cert="low" when="[n. a. 1863]">[n. a. 1863]</date>
+            <title level="a">William Dunbar,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">III</biblScope>
+            <biblScope unit="page">70-71</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#realism"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="70"/>
+        <ab type="imprint">[n. a. 1863.] Smith, Alexander. William Dunbar, [in] Dreamthorp, 1863, pp. 67-72, 81.</ab>
+        <ab type="quotation">
+          <seg>[p. 68] Chaucer... appeared at a time when the Saxon and
+Norman races had become fused.... He was the first great
+poet the island produced; and he wrote for the most part in
+the language of the people.... In his earlier poems he was
+under the influence of the Provençal Troubadours, and in his
+"Flower and the Leaf" and other works of a similar class, he
+riots in allegory.... He lived in a brilliant and stirring
+time; he was connected with the court; he served in armies;
+he visited the Continent; and, although a silent man, he
+carried with him, wherever he went, and into whatever
+[p. 69] company he was thrown, the most observant eyes perhaps that
+ever looked curiously out upon the world. ... And so it was
+that, after mixing in kings' courts, and sitting with friars in
+taverns, and talking with people on country roads, and travel¬
+ling in France and Italy, and making himself master of the
+literature, science, and theology of his time, and when perhaps
+touched with misfortune and sorrow, he came to see the depth
+of interest that resides in actual life. ... It is difficult to
+define Chaucer's charm. He does not indulge in fine senti¬
+ments; he has no bravura passages; he is ever master of him¬
+self and of his subject. The light upon his page is the light
+[p. 70] of common day.... It is his shrewdness, his conciseness, his
+ever-present humour, his frequent irony, and his short homely
+line—effective as the play of the short Roman sword—which
+strikes the reader most. [Chaucer and Fielding compared in
+their common-sense and English relish for fact.] Chaucer was
+a Conservative in all his feelings; he liked to poke his fun at
+the clergy, but he was not of the stuff of which martyrs are
+made...
+[p. 71]
+Chaucer was born about 1328, and died about 1380.</seg>
+          <note type="footnote">Spurgeon's note: [Probably reprinted from a review. Irving's History a Scottish Poetry (1860) is spoken of (p. 75) as "published the other day."]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

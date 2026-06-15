@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p113_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1873, Frederick James Furnivall. Recent Work at Chaucer,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Frederick James Furnivall</author>
+            <date cert="high" when="1873">1873</date>
+            <title level="a">Recent Work at Chaucer,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">III</biblScope>
+            <biblScope unit="page">113-114</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#happinessCheerfulness"/>
+        <catRef scheme="#criticism" target="#pathos"/>
+        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#complaintPity"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="113"/>
+        <ab type="imprint">1873. Furnivall, Frederick James. Recent Work at Chaucer, [in] Macmillan’s Magazine, March, 1873, vol. xxvii, pp. 383-93.</ab>
+        <ab type="quotation">
+          <seg>[p. 383] Taking it ... for granted that the study of Early English
+has revived and is spreading, though miserably slowly, in
+England and elsewhere, let us ask what that study has done for
+Chaucer, that tenderest, brightest, most humourful sweet soul,
+of all the great poets of the world, whom a thousand Englishmen
+out of every thousand and one are content to pass by with a
+shrug and a sneer.
+[pp.383- [The gradual settling of the Chaucer canon which had been
+7]
+confused by Stowe and other early editors. Tyrwhitt’s con¬
+tribution to this. Nicolas and the biographical facts.
+Bradshaw's and ten Brink's work on the text; the rhyme¬
+tests. The French and Italian periods first distinguished by
+ten Brink.]
+[p. 387] [The Compleynte to Pite the key to Chaucer's early sad
+poetry, telling of his own unhappy love.]
+[pp.388- [A suggested chronological list of the works in four periods,
+9]
+and an order of dates for the Canterbury Tales "not yet quite
+fully worked out. Thus far had one got when Mr. Hales
+supplied the generalization wanted— 'Power of characterization
+is the true test. ... The Tales too that take half-views of
+life, like the Clerk’s ... the Man of Law's ... must be
+before the best time too.'"
+[p. 389] With this guide every reader can work out the succession
+of the Tales for himself, and mix them with the Minor Poems
+as ranged above. He will then see Chaucer, not only out¬
+wardly as he was in the flesh—page, soldier, squire,
+diplomatist, Custom-house officer, Member of Parliament, then
+a suppliant for protection and favour, a beggar for money;
+but inwardly as he was in the spirit—clear of all nonsense of
+Courts of Love, etc.—gentle and loving, early timid and in
+despair, sharing others' sorrow, and, by comforting them,
+losing part of his own; yet long dwelling on the sadness of
+forsaken love, seeking the "consolation of philosophy,"
+watching the stars, praying to the “Mother of God"; studying
+books, and, more still, woman's nature; his eye open to all
+the beauties of the world around him, his ear to the "heavenly
+harmony" of birds' song; at length becoming the most
+gracious and tender spirit, the sweetest singer, the best
+pourtrayer, the most pathetic, and withal the most genial
+and humourful healthy-souled man that England had ever
+seen. Still, after 500 years, he is bright and fresh as the
+glad light green of the May he so much loved; he is still
+second only to Shakespeare in England, and fourth only to
+him and Dante and Homer in the world. When will our
+Victorian time love and honour him as it should? Surely, of
+all our poets he is the one to come home to us most.
+[p. 389]
+[pp. 389
+[Contrast between Chaucer and Tennyson.]
+-90]
+[The change in Chaucer marked by the development of
+[pp. 390
+humour.]
+-3]
+[The work of the Chaucer Society; the Six-text Edition; a
+comparison of the MSS. made the Tales fall into their proper
+places in the pilgrimage, and prepared the way for a real
+edition. The Society’s other texts and studies. An appeal
+for support.]
+[Dr. Furnivall’s copy of his article with important additions
+and alterations, is in the possession of the editor. One of
+Dr. Furnivall’s additions reads thus:]
+One may fairly claim then, for the Chaucer Society the
+credit of having, with Mr. Bradshaw’s and Prof. ten Brink's
+help, done the best work at and for Chaucer that has been
+done since his death. It has explained the secret of his early
+life, cleared his memory from the reproach of having written
+many unworthinesses, and of having muddled his greatest
+work; it has laid the sure founda tions for a fitting edition of
+one of the greatest poets of mankind, and has made plainer to
+modern English ears the music, to modern English eyes the
+sunny soul, that cheered our ancestors in Wicliffe's day.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

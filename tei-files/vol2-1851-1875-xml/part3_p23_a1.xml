@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p23_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1855, Henry Hart Milman. History of Latin Christianity,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/5712298">Henry Hart Milman</author>
+            <date cert="high" when="1855">1855</date>
+            <title level="a">History of Latin Christianity,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">III</biblScope>
+            <biblScope unit="page">23-25</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#observationCharacter"/>
+        <catRef scheme="#criticism" target="#piety"/>
+        <catRef scheme="#criticism" target="#anticlericalism"/>
+        <catRef scheme="#works" target="#criticism"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="23"/>
+        <ab type="imprint">1855. Milman, Henry Hart. History of Latin Christianity, vol. vi, pp. 432, 536, 545-550; 3rd edition, 1864, vol. ix, pp. 97, 232-3, 244-50.</ab>
+        <ab type="quotation">
+          <seg>[p. 224] [Outlines of Chaucer's biography, with mention of the
+tradition that he was present at the wedding of Lionel and
+Violante Visconti at Milan, and there met Petrarch. Sir Harris
+Nicolas cited.]
+[p. 245] Chaucer was master of the whole range of vernacular poetry,
+which was bursting forth in such young and prodigal vigour,
+in the languages born from the Romance Latin. He had read
+Dante, he had read Petrarch; to Boccaccio he owed the ground¬
+work of two of his best poems—The Knight's Tale ... and
+Griselidis. I cannot but think that he was familiar with the
+Troubadour poetry of the Langue d’Oc; of the Langue d’Oil,
+he knew well the knightly tales of the Trouvères and the
+Fabliaux, as well as the later allegorical school, which was
+then in the height of its fashion in Paris.
+[References to Man of Law’s Tale, Troilus, Squieres Tale,
+Knightes Tale, Frankeleyns Tale, Clerkes Tale, Merchantes
+Tale, Milleres Tale, Reves Tale, Sir Thopas, Nonnes Prestes
+Tale, Rom. Rose, Hous of Fame.]
+[p. 246] Yet all the while Chaucer in thought, in character, in
+language is English—resolutely, determinately, almost boastfully
+English [footnote: quotation from Testament of Love in sup¬
+[p. 247] port of this]. The creation of native poetry was his deliberate
+aim; and already, that broad, practical, humorous yet serious
+view of life, of life in its infinite variety, that which reaches its
+height in Shakespeare, has begun to reveal itself in Chaucer.
+The Canterbury Tales, even in the Preface, represent, as in a
+moving comedy, the whole social state of the times; they
+display human character in action as in speech; and that
+character is the man himself. . . . There is an example of every
+order and class of society, high, low, secular, religious. As yet
+each is distinct in his class, as his class from others. Contrast
+Chaucer's pilgrims with the youths and damsels of Boccaccio.
+Exquisitely as these are drawn, and in some respects finely
+touched, they are all of one gay light class; almost any one
+might tell any tale with equal propriety; they differ in name,
+in nothing else.
+In his religious characters, if not in his religious tales ...
+Chaucer is by no means the least happy. In that which is
+purely religious the poet himself is profoundly religious; in
+his Prayer to the Virgin, written for the Duchess Blanche
+of Lancaster, for whom also he poured forth his sad elegy; in
+his Gentle Martyrs, S. Constantia and S. Cecilia: he is not
+without his touch of bigotry, as has been said in Hugh of
+Lincoln. But the strong Teutonic good sense of Chaucer had
+[p. 248] looked more deeply into the whole monastic and sacerdotal
+system. His wisdom betrays itself in his most mirthful, as in
+his coarsest humour. He who drew the Monk, the Pardoner,
+the Friar Limitour, the Summoner, had seen far more than the
+outer form, the worldliness of the Churchmen, the abuse of
+indulgences, the extortions of the friars, the licentiousness of
+the Ecclesiastical Courts, of the Ecclesiastics themselves; he
+had penetrated into the inner depths of the religion. Yet his
+wisdom, even in his most biting passages, is tempered with
+charity. Though every order, the Abbot, the Prioress, the
+Friar, the Pardoner, the Summoner, are impersonated to the
+life, with all their weaknesses, follies, affectations, even vices
+and falsehoods, in unsparing freedom, in fearless truth, yet none
+or hardly one, is absolutely odious. ... The Summoner, whose
+[p. 249] office and the Archdeacon's Court in which he officiated seem to
+have been most unpopular, is drawn in the darkest colours, with
+his fire-red cherubim’s face, lecherous, venal, licentious. Above
+all, the Parish Priest of Chaucer has thrown off Roman mediæval
+sacerdotalism; he feels his proper place; he arrays himself
+only in the virtues which are the essence of his holy function.
+This unrivalled picture is the most powerful because the most
+quiet, uninsulting, unexasperating satire. Chaucer's Parish
+Priest might have been drawn from Wycliffe ... not at
+Oxford ... but the affectionate and beloved teacher of his
+humble flock. ... [The rest of the Chaucerian passage refers
+to incidents and subjects connected with Chaucer only by the
+acceptance of the Testament of Love as his.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

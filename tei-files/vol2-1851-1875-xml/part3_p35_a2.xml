@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p35_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1856, Unknown. Review of Poetical Works of Geoffrey Chaucer,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author>Unknown</author>
+            <date cert="high" when="1856">1856</date>
+            <title level="a">Review of Poetical Works of Geoffrey Chaucer,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">III</biblScope>
+            <biblScope unit="page">35-36</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass/>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="35"/>
+        <ab type="imprint">1856. Unknown. Review of Poetical Works of Geoffrey Chaucer, ed. Robert Bell, [in] Fraser's Magazine, April, vol. liii, pp. 461-72.</ab>
+        <ab type="quotation">
+          <seg>[p. 462] As regards Chaucer, indeed, there is some excuse for
+the comparative neglect of his writings by his countrymen.
+In spite of all that has been written about the harmony of
+his verse, and his portraiture of life, manners and nature, his
+language is beset with no ordinary difficulties. As a language,
+indeed, it is almost anomalous. It is not a foreign tongue,
+neither is it our own. ...
+[pp. 463-
+4]
+[The area of, and public for, written English very limited
+in Chaucer's time; that for his new art still more so.]
+[p. 465]
+[The biographies; inadequacy of all before Nicolas's.]
+[pp. 466-
+70]
+[An account of Chaucer's life.]
+[p. 470]
+From the circumstances of his position, Chaucer therefore
+enjoyed the most abundant means of studying and representing
+the character of his fellow-countrymen. And he had not
+only the fairest opportunity for studying, but also a genius
+and disposition peculiarly suited to the task. His powers of
+observation were most keen and catholic; his sympathy with
+every form of humanity intense; his curiosity was indefatig¬
+able. . . .
+[p. 471] Our age moves onward with such rapidity that we cannot
+hope for any looking back to our elder literature as to a
+general source of amusement or instruction. ... It would
+[p. 472] accordingly be rash to predict, or even to hope, that Chaucer
+will ever resume his station as a popular favourite. All that
+we can claim for him is, therefore, the recognition of his
+surpassing worth as an adjunct to the historian.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p51_a4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1859, Unknown. Review [of] The Poetical Works of Geoffrey Chaucer,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author>Unknown</author>
+            <date cert="high" when="1859">1859</date>
+            <title level="a">Review [of] The Poetical Works of Geoffrey Chaucer,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">III</biblScope>
+            <biblScope unit="page">51-52</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="51"/>
+        <ab type="imprint">1859. Unknown. Review [of] The Poetical Works of Geoffrey Chaucer, edited by Robert Bell. . . 1855, [in] The London Review, July 1859, vol. xii, pp. 285-303.</ab>
+        <ab type="quotation">
+          <seg>[pp. 285- [A short sketch of Chaucer's life, noting the rejection by
+291]
+Nicolas of the episodes dependent on the Testament of Love,
+and laying stress on the substantial nature of the patronage
+Chaucer received.]
+[p. 292] All that is peculiar, all that seems now so distant and
+unattainable, in the poetry of Chaucer, arises from the one
+great typical fact, that it is always nothing more nor less than
+the telling of a story ...
+We must conceive of the people of the Middle Ages as
+children in their love of stories, and in their adoration of
+those who could tell them. . . Hence originated a poetical
+complexion or turn, which everything seems to have assumed,
+and the passionate cultivation of poetry by all classes. It
+seems incredible to us, but it was undoubtedly the case, that
+in the Middle Ages poetry formed the chief delight of the
+people. [Evidence of this in Chaucer: Troilus and Book of
+the Duchesse quoted.]
+[p. 293] He [Chaucer] cares not at all for the praise of originality or
+invention ... he cares for nothing but his story. Hence he
+is quite content to become a translator, if he has seen a good
+story in a foreign tongue. [Contrast in this between the age
+of Chaucer, like all great periods, and the unpoetical and
+would-be original nineteenth century. Explanation of the
+cause: loss of enjoyment. "To our forefathers every old
+thing was really a new thing: every new thing is an old thing
+to us." The cure, a study of such as Chaucer.]
+[p. 298] We come then to discuss the great distinguishing marks of
+the mind and power of Chaucer. They seem to be four in
+number: dramatic fearlessness and breadth, workmanlike
+directness, comparatively non-intellectual character, and sense
+[p. 299] of beauty. [Expansion of these four points.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
