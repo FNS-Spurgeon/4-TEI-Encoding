@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Walter Savage Landor</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Landor, Walter Savage</author>
             <date cert="high" when="1856">1856</date>
             <title level="a">On Orthography.</title>
           </analytic>
@@ -82,20 +82,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="30"/>
-        <ab type="imprint">1856. Landor, Walter Savage. On Orthography. [Letter] To the Rev. Augustus Jessopp, [in] Fraser's Magazine, Feb. 1856, vol. liii, p. 244.</ab>
+        
+        <ab type="imprint">1856. Landor, Walter Savage. <hi rend="italic">On Orthography</hi>. [Letter] <hi rend="italic">To the Rev. Augustus Jessopp</hi>, [in] Fraser's Magazine, Feb. 1856, vol. liii, p. 244.</ab>
+        
         <ab type="quotation">
           <seg>I much commend the late publisher of Milton's works for
-observing his authography [sic]. The same had been done by
-the judicious Tyrwhitt in his edition of Chaucer ...
-I do not join you in your reprehension of Wordsworth for
-modernizing Chaucer; because there are many who cannot
-comprehend that admirable poet's versification, in which the
-mute e, as in the French, is prolonged and sounded. Words¬
-vorth is a poet of high merit, but neither of the same kind
-nor of the same degree as Chaucer. He could no more have
-written the Canterbury Tales, nor any poetry so diversified,
-than he could have written the Paradise Lost ...</seg>
-          <note type="footnote">Spurgeon's note: [Cf. Landor's letter, declining to take part in Horne’s modernization, above, 1841.]</note>
+            observing his authography <add>[sic]</add>. The same had been done by
+            the judicious Tyrwhitt in his edition of Chaucer . . .</seg>
+          
+          <seg>I do not join you in your reprehension of Wordsworth for
+            modernizing Chaucer; because there are many who cannot
+            comprehend that admirable poet's versification, in which the
+            mute e, as in the French, is prolonged and sounded. Wordsworth
+            is a poet of high merit, but neither of the same kind
+            nor of the same degree as Chaucer. He could no more have
+            written the <hi rend="italic">Canterbury Tales</hi>, nor any poetry so diversified,
+            than he could have written the <hi rend="italic">Paradise Lost</hi> . . .<note type="footnote">Spurgeon's note: [Cf. Landor's letter, declining to take part in Horne’s modernization, above, 1841.]</note></seg>
         </ab>
       </div>
     </body>

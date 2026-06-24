@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
             <date cert="high" when="1864">1864</date>
             <title level="a">The Prologue to the Legend of Good Women.</title>
           </analytic>
@@ -80,7 +80,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="72"/>
-        <ab type="imprint">1864. Chaucer, Geoffrey. The Prologue to the Legend of Good Women. [The text of the earlier version, privately printed from the Cambridge MS. for Henry Bradshaw. See Hammond, Chaucer, p. 381. No copy in B.M. or University Library, Cambridge.]</ab>
+        
+        <ab type="imprint">1864. The Prologue to the Legend of Good Women. [The text of the earlier version, privately printed from the Cambridge MS. for Henry Bradshaw. See Hammond, <hi rend="italic">Chaucer</hi>, p. 381. No copy in B.M. or University Library, Cambridge.]</ab>
       </div>
     </body>
   </text>

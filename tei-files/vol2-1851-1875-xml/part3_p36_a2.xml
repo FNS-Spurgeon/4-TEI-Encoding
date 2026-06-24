@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1856, Unknown. Chaucer, Geoffrey,</title>
+        <title>1856, Unknown. Chaucer, Geoffrey.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -34,7 +34,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1856">1856</date>
-            <title level="a">Chaucer, Geoffrey,</title>
+            <title level="a">Chaucer, Geoffrey.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,14 +82,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="36"/>
-        <ab type="imprint">1856. Unknown. Chaucer, Geoffrey, [in] The English Cyclopædia . . . conducted by Charles Knight, Biog. vol. i, coll. 209-10.</ab>
+        
+        <ab type="imprint">1856. Unknown. <hi rend="italic">Chaucer, Geoffrey</hi>, [in] <hi rend="italic">The English Cyclopædia</hi> . . . conducted by Charles Knight, Biog. vol. i, coll. 209-10.</ab>
+        
         <ab type="quotation">
-          <seg>[A life of Chaucer containing all the old legends, and
-attributing to him the supposititious works, except the Testa¬
-ment of Love, Nicolas’s rejection of which is quoted. Few can
-read him with ease, and none without a dictionary; yet his
-language can be mastered with a little pains, which would
-be amply rewarded.]</seg>
+          <seg type="editorial">[A life of Chaucer containing all the old legends, and
+            attributing to him the supposititious works, except the 
+            
+            <milestone unit="page" n="37"/>
+            
+            <hi rend="italic">Testament of Love</hi>, Nicolas’s rejection of which is quoted. Few can
+            read him with ease, and none without a dictionary; yet his
+            language can be mastered with a little pains, which would
+            be amply rewarded.]</seg>
         </ab>
       </div>
     </body>

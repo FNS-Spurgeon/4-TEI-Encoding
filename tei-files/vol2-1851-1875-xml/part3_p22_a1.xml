@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1855], Leigh Hunt. An Essay on the Sonnet,</title>
+        <title>[c. 1855], Leigh Hunt. An Essay on the Sonnet.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
-            <date cert="low" when="[c. 1855]">[c. 1855]</date>
-            <title level="a">An Essay on the Sonnet,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
+            <date cert="low" when="1855">[c. 1855]</date>
+            <title level="a">An Essay on the Sonnet.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,31 +80,37 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="22"/>
-        <ab type="imprint">[c. 1855.] Hunt, James Henry Leigh. An Essay on the Sonnet, [in] The Book of the Sonnet, ed. Leigh Hunt and S. Adams Lee, Boston, 1867, vol. i, pp. 65-6.</ab>
-        <ab type="quotation">
-          <seg>[p. 65] How are we to account for the non-appearance of a Sonnet
-in the poems of Chaucer?—of Chaucer, who was so fond of
-Italian poetry, such a servant of love, such a haunter of the
-green corners of revery, particularly if they were "small,"—
-of Chaucer, moreover, who was so especially acquainted with
-the writings of Petrarca’s predecessor, Dante, with those of
-his friend Boccaccio, and who, besides eulogizing the genius
-of Petrarca himself, is supposed to have made his personal
-acquaintance at Padua? Out of the four great English poets,
-Chaucer is the only one who has left us a sonnet of no kind
-[p. 66] whatsoever, though he was qualified for every kind, and
-though of none of the four poets it would seem more naturally
-to have fallen in the way.
-[Three reasons for this are suggested: (1) Chaucer's close
-connection with France led him to French miscellaneous
-poetry rather than Italian, (2) the sonnets of Dante and
-Petrarch were not yet known in England, (3) Chaucer's own
-propensity to narrative in poetry.] The second of these
-reasons, however, I take to have been the chief. Had Chaucer
-been familiar with the Sonnets of men whom he so admired,
-the very lovingness of his nature would hardly have failed to
-make him echo their tones!</seg>
+        
+        <ab type="imprint">
+          [c. 1855.] Hunt, James Henry Leigh. <hi rend="italic">An Essay on the Sonnet</hi>, [in] <hi rend="italic">The Book of the Sonnet</hi>, ed. Leigh Hunt and S. Adams Lee, Boston, 1867, vol. i, pp. 65-6. 
           <note type="footnote">Spurgeon's note: [For the date, which should be two years later, see below, App. A, [c. 1857].</note>
+        </ab>
+        
+        <ab type="quotation">
+          <seg><note place="margin">[p. 65]</note> How are we to account for the non-appearance of a Sonnet
+            in the poems of Chaucer?—of Chaucer, who was so fond of
+            Italian poetry, such a servant of love, such a haunter of the
+            green corners of revery, particularly if they were "small,"—
+            of Chaucer, moreover, who was so especially acquainted with
+            the writings of Petrarca’s predecessor, Dante, with those of
+            his friend Boccaccio, and who, besides eulogizing the genius
+            of Petrarca himself, is supposed to have made his personal
+            acquaintance at Padua? Out of the four great English poets,
+            Chaucer is the only one who has left us a sonnet of no kind
+            <note place="margin">[p. 66]</note> whatsoever, though he was qualified for every kind, and
+            though of none of the four poets it would seem more naturally
+            to have fallen in the way.</seg>
+            
+            <seg type="editorial">[Three reasons for this are suggested: (1) Chaucer's close
+            connection with France led him to French miscellaneous
+            poetry rather than Italian, (2) the sonnets of Dante and
+            Petrarch were not yet known in England, (3) Chaucer's own
+            propensity to narrative in poetry.]</seg>
+            
+            <seg>The second of these reasons, however, I take to have been the chief. Had Chaucer
+            been familiar with the Sonnets of men whom he so admired,
+            the very lovingness of his nature would hardly have failed to
+            make him echo their tones!</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1874, William Minto. Characteristics of English Poets from Chaucer to Shirley,</title>
+        <title>1874, William Minto. Characteristics of English Poets from Chaucer to Shirley.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/3252170">William Minto</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/3252170">Minto, William</author>
             <date cert="high" when="1874">1874</date>
-            <title level="a">Characteristics of English Poets from Chaucer to Shirley,</title>
+            <title level="a">Characteristics of English Poets from Chaucer to Shirley.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#chronology"/>
         <catRef scheme="#works" target="#complaintPity"/>
       </textClass>
     </profileDesc>
@@ -83,50 +83,57 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="119"/>
-        <ab type="imprint">1874. Minto, William. Characteristics of English Poets from Chaucer to Shirley, Edinburgh, pp. vii, 1-58 [Chapter I: Geoffrey Chaucer], 59-66, 70-7, 81-2, 90, 91, 96, 99, 101-2, 105, 111-2, 122-6, 129-30, 133-4, 143, 146, 149, 151, 153, 170-1, 177, 213, 219-20, 300-1, 316, 392, 416, 453.</ab>
+        
+        <ab type="imprint">1874. Minto, William. <hi rend="italic">Characteristics of English Poets from Chaucer to Shirley</hi>, Edinburgh, pp. vii, 1-58 [Chapter I: Geoffrey Chaucer], 59-66, 70-7, 81-2, 90, 91, 96, 99, 101-2, 105, 111-2, 122-6, 129-30, 133-4, 143, 146, 149, 151, 153, 170-1, 177, 213, 219-20, 300-1, 316, 392, 416, 453.</ab>
+        
         <ab type="quotation">
-          <seg>[The biography of Chaucer is based on the latest dis¬
-coveries of Furnivall and other scholars, as well as on the
-older material. Minto thinks the idea of Chaucer's "hope¬
-less passion" in early life (based on the Complaint of Pity,
-etc.) has been made too much of. A comparison between
-Chaucer and Shakespeare in their knowledge of men is
-made, p. 17. Ten Brink’s division of Chaucer’s work into
-three periods is rejected, as it seems to Minto that from
-first to last Chaucer had more affinity with the French than
-with the Italians; and he adds: "I can distinguish no
-change either in his methods or in his spirit that is fairly
-attributable to Italian influence," p. 19. The work of ten
-Brink, Bradshaw and Furnivall in proving the non-
-Chaucerian character of the Testament of Love, Assembly
-of Ladies, Lamentation of Mary Magdalene, Court of Love,
-Flower and Leaf, and Chaucer’s Dream, is described. As the
-chief argument is the y-ye rhyme, and as this is found in the
-Romaunt, the whole question, according to Minto, depends
-largely on this poem. Minto argues for the genuineness
-of the Court of Love. He remarks:]
-[p. 21] It is simply incredible that these poems could have been
-written by a poet whose name has perished. If he had
-written before Chaucer, which could hardly be seriously
-maintained, he could not but have become famous; and the
-probability is that Chaucer would have mentioned him as
-[p. 22] the model of his seven-line stanza. If he had written after
-Chaucer, he would certainly have mentioned Chaucer in his
-list of masters, according to the universal habit of the time.
-The idea of deliberate forgery is out of the question; and if
-the "Court of Love" had been the work of a forger or an
-imitator, the artificial restriction of rhyme was precisely the
-sort of thing he would labour to observe. Finally, the
-"Court of Love" is unmistakably imitated in the 'King’s
-Quhair' of James I, whose captivity in England began
-only five years after Chaucer's death, and yet he mentions
-no master except Chaucer, Gower and Lydgate. That
-makes it quite clear that James attributed the "Court of
-Love" to Chaucer; and what need is there for further
-evidence?
-[Subsequent sections of the Chaucer portion are, II.
-His Language, Metres and Imagery. III. The Chief
-Qualities of his Poetry. IV. His Delineation of Character.]</seg>
+          <seg type="editorial">[The biography of Chaucer is based on the latest
+            discoveries of Furnivall and other scholars, as well as on the
+            older material. Minto thinks the idea of Chaucer's "hopeless
+            passion" in early life (based on the Complaint of Pity,
+            etc.) has been made too much of. A comparison between
+            Chaucer and Shakespeare in their knowledge of men is
+            made, p. 17. Ten Brink’s division of Chaucer’s work into
+            three periods is rejected, as it seems to Minto that from
+            first to last Chaucer had more affinity with the French than
+            with the Italians; and he adds: "I can distinguish no
+            change either in his methods or in his spirit that is fairly
+            attributable to Italian influence," p. 19. The work of ten
+            Brink, Bradshaw and Furnivall in proving the non-
+            Chaucerian character of the <hi rend="italic">Testament of Love</hi>, <hi rend="italic">Assembly
+            of Ladies</hi>, <hi rend="italic">Lamentation of Mary Magdalene</hi>, <hi rend="italic">Court of Love</hi>,
+            <hi rend="italic">Flower and Leaf</hi>, and <hi rend="italic">Chaucer’s Dream</hi>, is described. As the
+            chief argument is the y-ye rhyme, and as this is found in the
+            <hi rend="italic">Romaunt</hi>, the whole question, according to Minto, depends
+            largely on this poem. Minto argues for the genuineness
+            of the <hi rend="italic">Court of Love</hi>. He remarks:]</seg>
+            
+          <seg><note place="margin">[p. 21]</note> It is simply incredible that these poems could have been
+            
+            <milestone unit="page" n="120"/>
+            
+            written by a poet whose name has perished. If he had
+            written before Chaucer, which could hardly be seriously
+            maintained, he could not but have become famous; and the
+            probability is that Chaucer would have mentioned him as
+            <note place="margin">[p. 22]</note> the model of his seven-line stanza. If he had written after
+            Chaucer, he would certainly have mentioned Chaucer in his
+            list of masters, according to the universal habit of the time.
+            The idea of deliberate forgery is out of the question; and if
+            the "Court of Love" had been the work of a forger or an
+            imitator, the artificial restriction of rhyme was precisely the
+            sort of thing he would labour to observe. Finally, the
+            "Court of Love" is unmistakably imitated in the 'King’s
+            Quhair' of James I, whose captivity in England began
+            only five years after Chaucer's death, and yet he mentions
+            no master except Chaucer, Gower and Lydgate. That
+            makes it quite clear that James attributed the "Court of
+            Love" to Chaucer; and what need is there for further
+            evidence?</seg>
+            
+          <seg>[Subsequent sections of the Chaucer portion are, II.
+            His Language, Metres and Imagery. III. The Chief
+            Qualities of his Poetry. IV. His Delineation of Character.]</seg>
         </ab>
       </div>
     </body>

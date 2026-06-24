@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1867, Henry Wadsworth Longfellow. Notes [to] The Divine Comedy of Dante Alighieri,</title>
+        <title>1867, Henry Wadsworth Longfellow. Notes [to] The Divine Comedy of Dante Alighieri.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54150826">Henry Wadsworth Longfellow</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54150826">Longfellow, Henry Wadsworth</author>
             <date cert="high" when="1867">1867</date>
-            <title level="a">Notes [to] The Divine Comedy of Dante Alighieri,</title>
+            <title level="a">Notes [to] The Divine Comedy of Dante Alighieri.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,7 +80,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="90"/>
-        <ab type="imprint">1867. Longfellow, Henry Wadsworth. Notes [to] The Divine Comedy of Dante Alighieri, translated by H. W. Longfellow, 1867, [reprinted in] Writings, Riverside edn., 11 vols, [1886], vol. ix, pp. 187, 203 ['perse,' Prol., l. 441], 208 [gluttony, Persones Tale], 218 [avarice, ib.], 222 [wrath, ib.], 223, 242 [Theseus, Knightes Tale, Il. 1-16], 244 [Deianire, Monkes Tale], 248 [description of a wood, Inferno xiii, compared with Knightes Tale], 252, 274 [Jason, L.G.W.], 276 [simony, Persones Tale], 287 [reference to Henryson’s Testament of Creseida as Chaucer’s], 293, 332-3, 342-3, 347; vol.x, pp. 171, 214 [Chaucer's quotation from Purg. vii, 121, etc. in Wife of Bath’s Tale, ll.269-76], 230 [the sculptures on the wall of Purgatory (Purg. x, 29, etc.) compared with the temples of Venus, Mars and Diana in Knightes Tale], 275 [Fortuna Major, Troilus, iii, 1415-20], 306 ['vernage,' Merchantes Tale, l. 563), 308 [reference to the Complaint of the Black Knight as Chaucer's]; vol. xi, pp. 168-9 [quotations from Hous of Fame, Anelida, and (Lydgate’s) Ballade in commendation of Our Lady], 212 [Demophoön, L.G.W., Il. 2441-51], 250 [Testament of Love quoted as Chaucer's], 252, 254, 258 [imitation in Troilus, v, 1863-5, of Paradiso, xiv 28-30], 264, 277, 289-90 [Troilus, iv, 995-1043, with the original passage on foreknowledge from Boethius, quoted], 341, 382 [the invocation to the Virgin, Second Nonnes Tale, Il. 36-56, quoted to illustrate the opening of Paradiso, xxxiii].</ab>
+        
+        <ab type="imprint">1867. Longfellow, Henry Wadsworth. <hi rend="italic">Notes</hi> [to] <hi rend="italic">The Divine Comedy of Dante Alighieri</hi>, translated by H. W. Longfellow, 1867, [reprinted in] Writings, Riverside edn., 11 vols, [1886], vol. ix, pp. 187, 203 ['perse,' <hi rend="italic">Prol.</hi>, l. 441], 208 [gluttony, <hi rend="italic">Persones Tale</hi>], 218 [avarice, ib.], 222 [wrath, ib.], 223, 242 [Theseus, <hi rend="italic">Knightes Tale</hi>, ll. 1-16], 244 [Deianire, <hi rend="italic">Monkes Tale</hi>], 248 [description of a wood, <hi rend="italic">Inferno</hi> xiii, compared with <hi rend="italic">Knightes Tale</hi>], 252, 274 [Jason, <hi rend="italic">L.G.W.</hi>], 276 [simony, <hi rend="italic">Persones Tale</hi>], 287 [reference to Henryson’s <hi rend="italic">Testament of Creseida</hi> as Chaucer’s], 293, 332-3, 342-3, 347; vol.x, pp. 171, 214 [Chaucer's quotation from <hi rend="italic">Purg.</hi> vii, 121, etc. in <hi rend="italic">Wife of Bath’s Tale</hi>, ll.269-76], 230 [the sculptures on the wall of Purgatory (<hi rend="italic">Purg.</hi> x, 29, etc.) compared with the temples of Venus, Mars and Diana in <hi rend="italic">Knightes Tale</hi>], 275 [Fortuna Major, <hi rend="italic">Troilus</hi>, iii, 1415-20], 306 ['vernage,' <hi rend="italic">Merchantes Tale</hi>, l. 563), 308 [reference to the <hi rend="italic">Complaint of the Black Knight</hi> as Chaucer's]; vol. xi, pp. 168-9 [quotations from <hi rend="italic">Hous of Fame</hi>, <hi rend="italic">Anelida</hi>, and (Lydgate’s) <hi rend="italic">Ballade in commendation of Our Lady</hi>], 212 [Demophoön, <hi rend="italic">L.G.W.</hi>, ll. 2441-51], 250 [<hi rend="italic">Testament of Love</hi> quoted as Chaucer's], 252, 254, 258 [imitation in <hi rend="italic">Troilus</hi>, v, 1863-5, of <hi rend="italic">Paradiso</hi>, xiv 28-30], 264, 277, 289-90 [<hi rend="italic">Troilus</hi>, iv, 995-1043, with the original passage on foreknowledge from Boethius, quoted], 341, 382 [the invocation to the Virgin, <hi rend="italic">Second Nonnes Tale</hi>, ll. 36-56, quoted to illustrate the opening of <hi rend="italic">Paradiso</hi>, xxxiii].</ab>
       </div>
     </body>
   </text>

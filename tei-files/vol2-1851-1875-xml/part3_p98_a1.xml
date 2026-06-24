@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1870, Thomas Spencer Baynes. The Text of Chaucer,</title>
+        <title>1870, [Thomas Spencer Baynes]. The Text of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/12465694">Thomas Spencer Baynes</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/12465694">[Baynes, Thomas Spencer]</author>
             <date cert="high" when="1870">1870</date>
-            <title level="a">The Text of Chaucer,</title>
+            <title level="a">The Text of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,11 +71,10 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
-        <catRef scheme="#criticism" target="#"/>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#evolution"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#importationMinimised"/>
-        <catRef scheme="#manuscripts" target="#"/>
+        <catRef scheme="#manuscripts" target="#manuscripts"/>
         <catRef scheme="#works" target="#editionsEnglish"/>
       </textClass>
     </profileDesc>
@@ -87,367 +86,414 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="98"/>
-        <ab type="imprint">1870. [Baynes, Thomas Spencer.] The Text of Chaucer, [in] the Edinburgh Review, July, 1870, vol. cxxxii, pp. 1-45.</ab>
+        
+        <ab type="imprint">1870. [Baynes, Thomas Spencer.] <hi rend="italic">The Text of Chaucer</hi>, [in] the Edinburgh Review, July, 1870, vol. cxxxii, pp. 1-45.<note type="footnote">Spurgeon's note: [Information as to the authorship of this article was kindly supplied by the Editor of the <hi rend="italic">Edinburgh Review</hi>.]</note></ab>
+        
         <ab type="quotation">
-          <seg>[p. 1] It is a national reproach that after the lapse of nearly five
-hundred years we are still without a critical and illus¬
-trative edition of Chaucer’s poetical works. Excepting
-Shakspeare, no English poet so thoroughly requires and
-[p. 2] deserves careful editing as Chaucer; and, in the essential
-characteristics of his genius, no English poet comes nearer
-to Shakspeare.
-[pp. 2, 3] [Chaucer’s dramatic insight, love of nature, wide human
-interest, and felicity of expression.]
-[p. 3] These excellences have justly made Chaucer not only the
-father of English poetry, the greatest of our dramatists before
-the rise of the regular drama, but one of the most delightful
-and habitually read of all English poets. The many eulo¬
-gistic references to him by later writers both in prose and
-verse, down to the close of the Elizabethan period, show how
-constantly he was studied during the two centuries after his
-death.
-[Lydgate, Occleve, Douglas, Wilson, Puttenham, Ascham,
-Fox, Camden, Sidney, Spenser, Milton, among his admirers.]
-Dryden, again, did his utmost to popularise the more
-striking of the 'Canterbury Tales,' and has left, perhaps,
-the best critical estimate of their author we possess. During
-the eighteenth century there were several elaborate attempts
-to make English readers better acquainted with Chaucer,
-whose language had by that time become too archaic for
-the effortless enjoyment of ordinary readers. And in our
-own day, notwithstanding the obstacles interposed by a
-grammar and vocabulary partially obsolete, Chaucer has
-reappeared in a greater number of forms, and is, perhaps,
-more generally read and studied, than any of the great
-Elizabethan poets except Shakspeare.
-These circumstances render it the more surprising, and,
-we may add, the more discreditable to our national scholar¬
-ship, that no complete critical edition of Chaucer's poetical
-works should yet have been produced. The reproach is one
-of old standing, and many suggestions have from time to
-time been made with the view of wiping it away.
-[Quotation of Dr. Johnson’s note on his projected edition.
-A correct edition called for by Godwin and Todd.]
-[p. 5] The truth is, that until the last few years the greater part
-of Chaucer’s poetical works have never, strictly speaking,
-been edited at all. 'Troilus and Cressid,' a story nearly as
-long as the 'Æneid,' the 'Romaunt of the Rose,' the 'House
-of Fame,' the 'Legend of Good Women,' and the minor
-poems, collected and published together for the first time
-by Thynne in 1532, were printed from defective and im¬
-perfect manuscripts without any critical oversight or correc¬
-tion; and from that time to our own day they have been
-reprinted from the black-letter folios without any attempt
-at systematic critical revision. The 'Canterbury Tales'
-have, indeed, fared somewhat better, having been more than
-once carefully edited by critics in many respects well qualified
-for the task. But much still remains to be done for the text
-of Chaucer’s greatest work; and still more, perhaps, for the
-adequate explanation of its language and allusions. We
-have as yet no satisfactory and authoritative text even of
-the 'Canterbury Tales'; and the best published text, that
-recently revised by Mr. Morris, to which we shall presently
-refer in detail, is without note or comment of any kind.
-The work which Johnson projected, and which a succession
-of eminent scholars and critics have so earnestly desiderated,
-still remains, therefore, to be done.
-In these circumstances the formation of a Chaucer Society,
-mainly for the purpose of printing the best existing manu¬
-scripts of the poet’s works, ought to be matter of hearty con¬
-gratulation to all lovers of English literature. Our public
-and private libraries are rich in Chaucer manuscripts, and
-the best of these must be available for critical use before an
-authoritative, complete and satisfactory text of Chaucer can
-be produced. But the only way of placing these manu¬
-scripts within the reach of English scholars is by printing
-them; and, if done at all, this must obviously be the work
-of a special Society. With this end in view, the Chaucer
-Society was accordingly founded two years ago.
-[Account of the Chaucer Society’s aims and publications.
-[p.7] Value of the latter to students. Only seventy subscribers
-in England, and thirty in the United States. Readers
-recommended to subscribe.]
-[p. 8] From what we have said it will be seen that the publi¬
-cations of the Chaucer Society are preparing the way for a
-complete edition of Chaucer’s works in the twofold direction
-of text and commentary. The requirements of such an
-edition are an authoritative text based on a comparison of
-the best manuscripts, and an adequate explanation in the
-shape of notes and commentary of Chaucer’s learning and
-literary studies, his allusions, language and versification.
-The first point is the text; and, in order to estimate fairly
-the work the Chaucer Society is doing in this respect, it is
-necessary to glance at the history of the printed texts down
-to the present time. Caxton printed the 'Canterbury
-Tales' twice, the first time from a very corrupt manuscript,
-and the second time from a much better one. 'Troilus and
-Cressid,' 'The House of Fame,' 'The Assembly of Fowls,'
-and some minor pieces, were printed by Caxton’s coadjutors
-and successors, Wynken de Worde and Pynson. The first
-edition of Chaucer’s poetical works was that published in
-1532, and edited by W. Thynne. In his curious dedication
-to Henry VIII, Thynne claims to have corrected, by com¬
-parison with the manuscripts, those parts of the poet’s works
-already printed, and to have published the rest for the first
-time. [Thynne quoted; see above, 1532, vol. i, p. 79].
-As may be surmised from this extract, Chaucer did not
-benefit much from Thynne’s supervision, his text of the
-'Canterbury Tales' being in some respects inferior to that
-of Caxton’s second reprint, while the minor poems are
-crowded with verbal corruptions. Stowe, the next editor,
-added little to Thynne’s work, except some miscellaneous
-poems, 'now imprinted for the first time,' which fill twenty
-pages of his massive folio. These poems are of doubtful
-authority, being more in Lidgate’s manner than Chaucer's;
-but the longest of them, 'The Court of Love,' has kept its
-place in the subsequent editions of the poet’s works. The
-third chief edition published during the sixteenth century is
-[p. 9] that edited by Speight, and in many respects he may fairly
-be regarded as the first editor, strictly so called, of Chaucer.
-Thynne and Stowe paid but little attention to the text;
-and neither of them attempted anything in the way of
-illustration or commentary. Speight attended in a manner
-to both these departments of an editor’s duty; and, though
-his alterations in the text are comparatively few and unim¬
-portant, they are still in the main improvements. But his
-claims as an editor rest mainly on his explanations of
-Chaucer’s language. He is the first that attempted any
-detailed explanation of archaic words and phrases; and his
-glossary, with all its imperfections, entitles him to the grateful
-remembrance of Chaucer students. ... Speight’s compact
-folio, first published in 1598, again in 1602, with some im¬
-provements, and a third time in 1687, with a few trifling
-additions, continued to be the standard edition of Chaucer
-throughout the whole of the seventeenth century. Down to
-the beginning of the eighteenth century, indeed, the collected
-works of our more celebrated poets generally appeared in
-the folio form, and the folio belongs to the pre-critical period
-of our literary history. Urry’s ambitious work, which ap¬
-peared in 1721 and has the distinction of being the tallest of
-all the Chaucer folios, is certainly no exception. The licen¬
-tious alterations of the text, in which Urry habitually in¬
-dulged, have simply made it perversely corrupt in every
-part. . . .
-[p. 10] The first editor of any part of Chaucer's works who dis¬
-played anything like the spirit and power of genuine criticism
-was undoubtedly Dr. Thomas Morell, best remembered per¬
-haps by his learned 'Thesaurus' ... Dr. Morell was, how¬
-ever, an English as well as a classical scholar, having edited
-Spenser, and commenced the publication of the 'Canterbury
-Tales' on a thoroughly complete and satisfactory plan. The
-only matter of regret is that he did not carry out his admirable
-scheme and finish the work he had so well begun. The first
-volume of the projected work, and we believe the only one
-ever issued, appeared in 1737, and was entitled 'The Can¬
-terbury Tales of Chaucer in the original, from the most
-authentic manuscripts, with references to authors ancient
-and modern, various readings, and explanatory notes.'
-This volume contains the 'Prologue' and the 'Knight’s
-Tale,' a modern version of each being appended to the
-original text. Tyrwhitt refers to it in terms of high but just
-praise; and it appears from his reference to have been the
-only part of the work that had been published. ... This
-part is, however, quite sufficient to show that in undertaking
-to edit Chaucer Dr. Morell took a just and comprehensive
-view of the work to be done, and that he possessed many
-of the higher qualities essential to its successful execution.
-His plan includes minute attention both to text and com¬
-mentary; and in dealing with the text 'he set out,' says
-Tyrwhitt,  'upon the only rational plan, that of collating the
-best manuscripts and selecting from them the genuine read¬
-ings.' [Then follow comments and quotations on Morell and
-Urry’s views of Chaucer’s versification.]
-[p. 12] Tyrwhitt comes next as an editor of Chaucer, and his
-edition of the 'Canterbury Tales' is so well known that it
-is needless to specify its merits and defects in detail. In
-our judgment, the merits of the work far outweigh its defects,
-although in the present state of our knowledge the text
-must no doubt be regarded as seriously defective. Still on
-the whole Tyrwhitt has done more for Chaucer than any
-other single editor. It is no doubt true that he was un¬
-acquainted with the niceties of Chaucer’s grammar, and their
-intimate connexion with the mechanism of his verse; and
-[p. 13] Mr. Wright, in the introduction to his edition of the 'Canter¬
-bury Tales,' has emphasized these deficiencies in somewhat
-sweeping terms. But Tyrwhitt was a sagacious critic, pos¬
-sessing great literary knowledge, taste, and industry; and
-he brought all his powers and acquirements to the illustration
-of his favourite author, often with the happiest results. ...
-The next step in the history of Chaucer texts is the publi¬
-cation of this manuscript—the Harleian—by Mr. Wright in
-1847. This publication represents something like a revolution
-in the plan of editing Chaucer, and at once raises the whole
-question as to the best method of dealing with the text. At
-first sight Mr. Wright seems to make out a strong case for his
-own plan. After noticing that the grammatical forms of the
-fourteenth century underwent a considerable change about the
-middle of the fifteenth, and that copyists of this date usually
-employed the language of the time rather than of the author
-they are copying, he contends that the only satisfactory plan
-of editing Chaucer is to select the oldest and best manuscript,
-and to adhere to it faithfully throughout. The opposite plan,
-which had hitherto been usually followed, he condemns
-indeed in no very measured terms :—
-'It is evident, therefore,' he says, 'that the plan of forming
-the text of any work of the periods of which we are speaking
-from a number of different manuscripts, written at different
-times and different places, is the most absurd plan which it
-is possible to conceive. Yet this was the method professedly
-followed by Tyrwhitt in forming a text of the "Canterbury
-Tales" of Chaucer.'
-And after pointing out Tyrwhitt’s special disqualifications
-as a student of manuscripts, he adds :—
-'Under these circumstances it is clear that to form a satis¬
-factory text of Chaucer, we must give up the printed editions,
-and fall back upon the manuscripts; and that instead of
-bundling them altogether, we must pick out one best manu¬
-script which also is one of those nearest to Chaucer's time.
-The latter circumstance is absolutely necessary, if we would
-reproduce the language and versification of the author. At
-the same time it cannot but be acknowledged that the earliest
-manuscript might possibly be very incorrect and incomplete,
-from the ignorance or negligence of the scribe who copied
-it. This, however, is not the case with regard to Chaucer's
-[p. 14] "Canterbury Tales." The Harleian manuscript, No. 7334,
-is by far the best manuscript of Chaucer's "Canterbury
-Tales" that I have yet examined, in regard both to antiquity
-and correctness. The handwriting is one which would at
-first sight be taken by an experienced scholar for that of the
-latter part of the fourteenth century, and it must have been
-written within a few years after 1400, and therefore soon
-after Chaucer’s death and the publication of the "Canterbury
-Tales." Its language has very little, if any, appearance of
-local dialect; and the text is in general extremely good, the
-variations from Tyrwhitt being usually for the better.'
-This reasoning seems, as we have said, sufficiently conclu¬
-sive, and it has very naturally determined the course of sub¬
-sequent editors, both Mr. Bell and Mr. Morris having followed
-Mr. Wright’s plan, and adopted the text he had selected.
-But the publication of the Chaucer Society six-text edition
-of the 'Prologue' and 'Knight’s Tale' has very much
-destroyed the force of Mr. Wright’s plea in favour of adhering
-strictly to a single text. A comparison of the Harleian
-text with the six now publishing by the Society, will show
-that there are numberless points of grammar, metre, or sense
-in which it may be improved by careful collation, and that
-the old plan must still be followed before we can hope to
-secure a satisfactory and authoritative text. ...
-[p 15] The latest text of Chaucer’s poetical works, that edited by
-Mr. Morris, and substituted for Tyrwhitt’s in the new issue of
-the Aldine Series, is undoubtedly also the best. Mr. Morris
-is one of our most accurate and accomplished early English
-scholars, and no better editor of a mediæval text could possibly
-be found. After examining several manuscripts of the
-'Canterbury Tales,' he agreed with Mr. Wright in thinking
-the Harleian text the best, and it has accordingly been
-selected and faithfully adhered to throughout. Clerical
-errors and corrupt readings were corrected by collation with
-other manuscripts, especially the Lansdowne, and a careful
-examination of Mr. Morris’s text will show how painstaking
-he has been in this part of his work. The rest of the poems
-have been edited from the manuscripts where they existed,
-and the result is the best text of Chaucer that has yet
-appeared. ...
-A comparison of Mr. Morris’s text of the 'Prologue' and
-the 'Knight’s Tale' with the texts of the Society, has,
-however, convinced us that the question as to possible
-improvement must be answered decisively in the affirmative.
-Knowing beforehand the excellence of the Harleian text, and
-the general agreement of the six other manuscripts, we have
-[p. 16] been surprised indeed at the number of emendations of
-greater or less importance they afford. In the 'Prologue'
-alone there are, in our judgment, upwards of fifty lines that
-may be improved by collation either in sense or metre, while
-in the 'Knight’s Tale' the better readings are in proportion
-to its length even more numerous and important. These
-better readings affect mainly the metre, the meaning, or the
-poetical expressiveness of the existing text. Some, again,
-effect marked improvements in minutiæ of grammar, em¬
-phasis, and spelling.
-[pp. 16-33] [Examples are given and various readings discussed.]
-[p.33] Quite as much still remains to be done for the illustration as
-for the text of Chaucer’s poetical works. There are in his
-writings almost innumerable points of philological, literary,
-or historical interest that require to be elucidated. Chaucer
-was not only familiar with every phase of contemporary life,
-but profoundly read in all existing literature. He knew by
-intimate personal experience the tastes and habits, the
-pursuits and recreations, the superstitions and beliefs, of all
-ranks and classes amongst his own countrymen; and his
-public employments had enlarged the field of his observation
-so as to include almost every country in Europe. He had
-seen active military service abroad, and had taken part in
-splendid public ceremonials at home; had lived habitually
-in courts, camps and great cities, as well as in the congenial
-[p. 34] retirement of country life. The whole world of nature and
-human experience was in this way mirrored in his sunny
-intellect, while the higher influences of both had melted
-serenely into the quiet depths of his curiously meditative
-and observant mind. As a natural result there is a mellowed
-fulness in his maturer delineations; a joyous animation, a
-living truth, a variety and completeness of detail in his pictures
-of life that obscure at first the purely literary or academical
-accomplishments of his mind; or rather, perhaps, it would be
-more correct to say that in his later works the learning and
-knowledge of life are so fused by imaginative sympathy into
-a new poetical whole, that there is at first no distinct con¬
-sciousness of the separate elements. ... On closer ex¬
-amination, however, the range and minuteness of Chaucer's
-learning becomes clearly apparent. He employed materials
-derived from all existing literatures home and foreign; not
-only the early English chronicles and stories, the Norman-
-French romances and fables, the new epic and Iyrical poetry
-of Italy, and the whole range of Latin literature, including
-not only the classics proper, as well as the science and art,
-the history and philosophy ot the time, but also Byzantine
-legends and brilliant fragments of Eastern romance, that
-had passed into Europe in the wake of the returning
-Crusaders. The adequate illustration of Chaucer thus re¬
-quires, in addition to a minute acquaintance with the state
-of the language in his day, a full knowledge of con¬
-temporary literature and history. No single editor has as
-yet united these requirements. Tyrwhitt, who studied with
-some care the literature and history of the fourteenth
-century, was comparatively ignorant of Chaucer’s language;
-while recent editors, such as Mr. Wright and Mr. Morris,
-who are well acquainted with Chaucer’s language, have
-attempted hardly anything in the way of literary or historical
-illustration.
-But the primary requirement of all expository criticism
-of Chaucer is undoubtedly the full interpretation of his
-language. ... There is still, however, a great deal to be
-done for the elucidation of Chaucer's language; and, un¬
-fortunately, Mr. Morris, who of living scholars is in many
-respects best qualified for the work, has confined his labours
-in this direction to a revision of previous glossaries. ...
-[p. 40] This [comparison with Piers Plowman] points to an import¬
-[An examination of Morris’s Glossary follows.]
-ant means of interpreting Chaucer’s language which has not
-as yet been turned to anything like adequate account. We
-refer to the critical examination of the writings of his con¬
-temporaries and immediate successors. The more carefully
-the early literature of the fourteenth century is studied, the
-more clearly will it appear that Chaucer’s additions to the
-vocabulary of the language are far less numerous than is
-commonly supposed. He has been charged with adulterating
-the English speech of his time by the wholesale importation
-of foreign, and especially of Norman-French, words. In his
-early translations and paraphrases from Norman-French he
-occasionally, it is true, transfers words mainly for the con¬
-venience of their rhymes. But with these exceptions his
-importations are comparatively few. His real superiority
-lies in the admirable taste and judgment displayed in the
-[p. 41] selection of his vocabulary, the natural reflex of his keen and
-exquisite sensibility to the latent significance of language.
-The perfection of his art lies in his subtle insight into the
-deeper meaning of words, and his power of combining them
-in the most felicitous manner. He is not fond of verbal
-novelties for their own sake, and his obscurities of phrase
-and diction may generally therefore be explained by a
-reference to the literature of the fourteenth and fifteenth
-centuries. The works of Gower and Lidgate, especially the
-latter, are of essential service in this respect.</seg>
-          <note type="footnote">Spurgeon's note: [Information as to the authorship of this article was kindly supplied by the Editor of the Edinburgh Review.]</note>
+          <seg><note place="margin">[p. 1]</note> It is a national reproach that after the lapse of nearly five
+            hundred years we are still without a critical and illustrative
+            edition of Chaucer’s poetical works. Excepting
+            Shakspeare, no English poet so thoroughly requires and
+            <note place="margin">[p. 2]</note> deserves careful editing as Chaucer; and, in the essential
+            characteristics of his genius, no English poet comes nearer
+            to Shakspeare.</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 2, 3]</note> [Chaucer’s dramatic insight, love of nature, wide human
+            interest, and felicity of expression.]</seg>
+            
+          <milestone unit="page" n="99"/>
+            
+          <seg><note place="margin">[p. 3]</note> These excellences have justly made Chaucer not only the
+            father of English poetry, the greatest of our dramatists before
+            the rise of the regular drama, but one of the most delightful
+            and habitually read of all English poets. The many eulo¬
+            gistic references to him by later writers both in prose and
+            verse, down to the close of the Elizabethan period, show how
+            constantly he was studied during the two centuries after his
+            death.</seg>
+            
+          <seg type="editorial">[Lydgate, Occleve, Douglas, Wilson, Puttenham, Ascham,
+            Fox, Camden, Sidney, Spenser, Milton, among his admirers.]</seg>
+            
+          <seg>Dryden, again, did his utmost to popularise the more
+            striking of the 'Canterbury Tales,' and has left, perhaps,
+            the best critical estimate of their author we possess. During
+            the eighteenth century there were several elaborate attempts
+            to make English readers better acquainted with Chaucer,
+            whose language had by that time become too archaic for
+            the effortless enjoyment of ordinary readers. And in our
+            own day, notwithstanding the obstacles interposed by a
+            grammar and vocabulary partially obsolete, Chaucer has
+            reappeared in a greater number of forms, and is, perhaps,
+            more generally read and studied, than any of the great
+            Elizabethan poets except Shakspeare.</seg>
+            
+          <seg>These circumstances render it the more surprising, and,
+            we may add, the more discreditable to our national scholarship,
+            that no complete critical edition of Chaucer's poetical
+            works should yet have been produced. The reproach is one
+            of old standing, and many suggestions have from time to
+            time been made with the view of wiping it away.</seg>
+            
+          <seg type="editorial">[Quotation of Dr. Johnson’s note on his projected edition.
+            A correct edition called for by Godwin and Todd.]</seg>
+            
+          <seg><note place="margin">[p. 5]</note> The truth is, that until the last few years the greater part
+            of Chaucer’s poetical works have never, strictly speaking,
+            been edited at all. 'Troilus and Cressid,' a story nearly as
+            long as the 'Æneid,' the 'Romaunt of the Rose,' the 'House
+            of Fame,' the 'Legend of Good Women,' and the minor
+            poems, collected and published together for the first time
+            by Thynne in 1532, were printed from defective and
+            imperfect manuscripts without any critical oversight or
+            correction; and from that time to our own day they have been
+            reprinted from the black-letter folios without any attempt
+            
+            <milestone unit="page" n="100"/>
+            
+            at systematic critical revision. The 'Canterbury Tales'
+            have, indeed, fared somewhat better, having been more than
+            once carefully edited by critics in many respects well qualified
+            for the task. But much still remains to be done for the text
+            of Chaucer’s greatest work; and still more, perhaps, for the
+            adequate explanation of its language and allusions. We
+            have as yet no satisfactory and authoritative text even of
+            the 'Canterbury Tales'; and the best published text, that
+            recently revised by Mr. Morris, to which we shall presently
+            refer in detail, is without note or comment of any kind.
+            The work which Johnson projected, and which a succession
+            of eminent scholars and critics have so earnestly desiderated,
+            still remains, therefore, to be done.</seg>
+            
+          <seg>In these circumstances the formation of a Chaucer Society,
+            mainly for the purpose of printing the best existing
+            manuscripts of the poet’s works, ought to be matter of hearty
+            congratulation to all lovers of English literature. Our public
+            and private libraries are rich in Chaucer manuscripts, and
+            the best of these must be available for critical use before an
+            authoritative, complete and satisfactory text of Chaucer can
+            be produced. But the only way of placing these manuscripts
+            within the reach of English scholars is by printing
+            them; and, if done at all, this must obviously be the work
+            of a special Society. With this end in view, the Chaucer
+            Society was accordingly founded two years ago.</seg>
+            
+          <seg type="editorial">[Account of the Chaucer Society’s aims and publications.
+            <note place="margin">[p.7]</note> Value of the latter to students. Only seventy subscribers
+            in England, and thirty in the United States. Readers recommended to subscribe.]</seg>
+            
+          <seg><note place="margin">[p. 8]</note> From what we have said it will be seen that the
+            publications of the Chaucer Society are preparing the way for a
+            complete edition of Chaucer’s works in the twofold direction
+            of text and commentary. The requirements of such an
+            edition are an authoritative text based on a comparison of
+            the best manuscripts, and an adequate explanation in the
+            shape of notes and commentary of Chaucer’s learning and
+            literary studies, his allusions, language and versification.
+            The first point is the text; and, in order to estimate fairly
+            the work the Chaucer Society is doing in this respect, it is
+            necessary to glance at the history of the printed texts down
+            
+            <milestone unit="page" n="101"/>
+            
+            to the present time. Caxton printed the 'Canterbury
+            Tales' twice, the first time from a very corrupt manuscript,
+            and the second time from a much better one. 'Troilus and
+            Cressid,' 'The House of Fame,' 'The Assembly of Fowls,'
+            and some minor pieces, were printed by Caxton’s coadjutors
+            and successors, Wynken de Worde and Pynson. The first
+            edition of Chaucer’s poetical works was that published in
+            1532, and edited by W. Thynne. In his curious dedication
+            to Henry VIII, Thynne claims to have corrected, by comparison
+            with the manuscripts, those parts of the poet’s works
+            already printed, and to have published the rest for the first
+            time. <add>[Thynne quoted; see above, 1532, vol. i, p. 79]</add>.</seg>
+            
+          <seg>As may be surmised from this extract, Chaucer did not
+            benefit much from Thynne’s supervision, his text of the
+            'Canterbury Tales' being in some respects inferior to that
+            of Caxton’s second reprint, while the minor poems are
+            crowded with verbal corruptions. Stowe, the next editor,
+            added little to Thynne’s work, except some miscellaneous
+            poems, 'now imprinted for the first time,' which fill twenty
+            pages of his massive folio. These poems are of doubtful
+            authority, being more in Lidgate’s manner than Chaucer's;
+            but the longest of them, 'The Court of Love,' has kept its
+            place in the subsequent editions of the poet’s works. The
+            third chief edition published during the sixteenth century is
+            <note place="margin">[p. 9]</note> that edited by Speight, and in many respects he may fairly
+            be regarded as the first editor, strictly so called, of Chaucer.
+            Thynne and Stowe paid but little attention to the text;
+            and neither of them attempted anything in the way of
+            illustration or commentary. Speight attended in a manner
+            to both these departments of an editor’s duty; and, though
+            his alterations in the text are comparatively few and
+            unimportant, they are still in the main improvements. But his
+            claims as an editor rest mainly on his explanations of
+            Chaucer’s language. He is the first that attempted any
+            detailed explanation of archaic words and phrases; and his
+            glossary, with all its imperfections, entitles him to the grateful
+            remembrance of Chaucer students. . . . Speight’s compact
+            folio, first published in 1598, again in 1602, with some
+            improvements, and a third time in 1687, with a few trifling
+            additions, continued to be the standard edition of Chaucer
+            
+            <milestone unit="page" n="102"/>
+            
+            throughout the whole of the seventeenth century. Down to
+            the beginning of the eighteenth century, indeed, the collected
+            works of our more celebrated poets generally appeared in
+            the folio form, and the folio belongs to the pre-critical period
+            of our literary history. Urry’s ambitious work, which appeared
+            in 1721 and has the distinction of being the tallest of
+            all the Chaucer folios, is certainly no exception. The licentious
+            alterations of the text, in which Urry habitually
+            indulged, have simply made it perversely corrupt in every part. . . .</seg>
+            
+          <seg><note place="margin">[p. 10]</note> The first editor of any part of Chaucer's works who
+            displayed anything like the spirit and power of genuine criticism
+            was undoubtedly Dr. Thomas Morell, best remembered per¬
+            haps by his learned 'Thesaurus' . . . Dr. Morell was, how¬
+            ever, an English as well as a classical scholar, having edited
+            Spenser, and commenced the publication of the 'Canterbury
+            Tales' on a thoroughly complete and satisfactory plan. The
+            only matter of regret is that he did not carry out his admirable
+            scheme and finish the work he had so well begun. The first
+            volume of the projected work, and we believe the only one
+            ever issued, appeared in 1737, and was entitled 'The Can¬
+            terbury Tales of Chaucer in the original, from the most
+            authentic manuscripts, with references to authors ancient
+            and modern, various readings, and explanatory notes.'
+            This volume contains the 'Prologue' and the 'Knight’s
+            Tale,' a modern version of each being appended to the
+            original text. Tyrwhitt refers to it in terms of high but just
+            praise; and it appears from his reference to have been the
+            only part of the work that had been published. . . . This
+            part is, however, quite sufficient to show that in undertaking
+            to edit Chaucer Dr. Morell took a just and comprehensive
+            view of the work to be done, and that he possessed many
+            of the higher qualities essential to its successful execution.
+            His plan includes minute attention both to text and com¬
+            mentary; and in dealing with the text 'he set out,' says
+            Tyrwhitt, 'upon the only rational plan, that of collating the
+            best manuscripts and selecting from them the genuine read¬
+            ings.' <add>[Then follow comments and quotations on Morell and
+            Urry’s views of Chaucer’s versification.]</add></seg>
+            
+          <seg>[p. 12] Tyrwhitt comes next as an editor of Chaucer, and his
+            
+            <milestone unit="page" n="103"/>
+            
+            edition of the 'Canterbury Tales' is so well known that it
+            is needless to specify its merits and defects in detail. In
+            our judgment, the merits of the work far outweigh its defects,
+            although in the present state of our knowledge the text
+            must no doubt be regarded as seriously defective. Still on
+            the whole Tyrwhitt has done more for Chaucer than any
+            other single editor. It is no doubt true that he was
+            unacquainted with the niceties of Chaucer’s grammar, and their
+            intimate connexion with the mechanism of his verse; and
+            <note place="margin">[p. 13]</note> Mr. Wright, in the introduction to his edition of the
+            'Canterbury Tales,' has emphasized these deficiencies in somewhat
+            sweeping terms. But Tyrwhitt was a sagacious critic,
+            possessing great literary knowledge, taste, and industry; and
+            he brought all his powers and acquirements to the illustration
+            of his favourite author, often with the happiest results. . . .</seg>
+           
+          <seg>The next step in the history of Chaucer texts is the
+            publication of this manuscript—the Harleian—by Mr. Wright in
+            1847. This publication represents something like a revolution
+            in the plan of editing Chaucer, and at once raises the whole
+            question as to the best method of dealing with the text. At
+            first sight Mr. Wright seems to make out a strong case for his
+            own plan. After noticing that the grammatical forms of the
+            fourteenth century underwent a considerable change about the
+            middle of the fifteenth, and that copyists of this date usually
+            employed the language of the time rather than of the author
+            they are copying, he contends that the only satisfactory plan
+            of editing Chaucer is to select the oldest and best manuscript,
+            and to adhere to it faithfully throughout. The opposite plan,
+            which had hitherto been usually followed, he condemns
+            indeed in no very measured terms :—
+            <lb/>'It is evident, therefore,' he says, 'that the plan of forming
+            the text of any work of the periods of which we are speaking
+            from a number of different manuscripts, written at different
+            times and different places, is the most absurd plan which it
+            is possible to conceive. Yet this was the method professedly
+            followed by Tyrwhitt in forming a text of the "Canterbury
+            Tales" of Chaucer.'</seg>
+            
+          <seg>And after pointing out Tyrwhitt’s special disqualifications
+            as a student of manuscripts, he adds :—
+            <lb/>'Under these circumstances it is clear that to form a
+            
+            <milestone unit="page" n="104"/>
+            
+            satisfactory text of Chaucer, we must give up the printed editions,
+            and fall back upon the manuscripts; and that instead of
+            bundling them altogether, we must pick out one best manu¬
+            script which also is one of those nearest to Chaucer's time.
+            The latter circumstance is absolutely necessary, if we would
+            reproduce the language and versification of the author. At
+            the same time it cannot but be acknowledged that the earliest
+            manuscript might possibly be very incorrect and incomplete,
+            from the ignorance or negligence of the scribe who copied
+            it. This, however, is not the case with regard to Chaucer's
+            <note place="margin">[p. 14]</note> "Canterbury Tales." The Harleian manuscript, No. 7334,
+            is by far the best manuscript of Chaucer's "Canterbury
+            Tales" that I have yet examined, in regard both to antiquity
+            and correctness. The handwriting is one which would at
+            first sight be taken by an experienced scholar for that of the
+            latter part of the fourteenth century, and it must have been
+            written within a few years after 1400, and therefore soon
+            after Chaucer’s death and the publication of the "Canterbury
+            Tales." Its language has very little, if any, appearance of
+            local dialect; and the text is in general extremely good, the
+            variations from Tyrwhitt being usually for the better.'</seg>
+            
+          <seg>This reasoning seems, as we have said, sufficiently
+            conclusive, and it has very naturally determined the course of
+            subsequent editors, both Mr. Bell and Mr. Morris having followed
+            Mr. Wright’s plan, and adopted the text he had selected.
+            But the publication of the Chaucer Society six-text edition
+            of the 'Prologue' and 'Knight’s Tale' has very much
+            destroyed the force of Mr. Wright’s plea in favour of adhering
+            strictly to a single text. A comparison of the Harleian
+            text with the six now publishing by the Society, will show
+            that there are numberless points of grammar, metre, or sense
+            in which it may be improved by careful collation, and that
+            the old plan must still be followed before we can hope to
+            secure a satisfactory and authoritative text. . . .</seg>
+            
+          <seg><note place="margin">[p 15]</note> The latest text of Chaucer’s poetical works, that edited by
+            Mr. Morris, and substituted for Tyrwhitt’s in the new issue of
+            the Aldine Series, is undoubtedly also the best. Mr. Morris
+            is one of our most accurate and accomplished early English
+            scholars, and no better editor of a mediæval text could possibly
+            be found. After examining several manuscripts of the
+            
+            <milestone unit="page" n="105"/>
+            
+            'Canterbury Tales,' he agreed with Mr. Wright in thinking
+            the Harleian text the best, and it has accordingly been
+            selected and faithfully adhered to throughout. Clerical
+            errors and corrupt readings were corrected by collation with
+            other manuscripts, especially the Lansdowne, and a careful
+            examination of Mr. Morris’s text will show how painstaking
+            he has been in this part of his work. The rest of the poems
+            have been edited from the manuscripts where they existed,
+            and the result is the best text of Chaucer that has yet
+            appeared. . . .</seg>
+            
+          <seg>A comparison of Mr. Morris’s text of the 'Prologue' and
+            the 'Knight’s Tale' with the texts of the Society, has,
+            however, convinced us that the question as to possible
+            improvement must be answered decisively in the affirmative.
+            Knowing beforehand the excellence of the Harleian text, and
+            the general agreement of the six other manuscripts, we have
+            <note place="margin">[p. 16]</note> been surprised indeed at the number of emendations of
+            greater or less importance they afford. In the 'Prologue'
+            alone there are, in our judgment, upwards of fifty lines that
+            may be improved by collation either in sense or metre, while
+            in the 'Knight’s Tale' the better readings are in proportion
+            to its length even more numerous and important. These
+            better readings affect mainly the metre, the meaning, or the
+            poetical expressiveness of the existing text. Some, again,
+            effect marked improvements in minutiæ of grammar, emphasis, and spelling.</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 16-33]</note> [Examples are given and various readings discussed.]</seg>
+            
+          <seg><note place="margin">[p.33]</note> Quite as much still remains to be done for the illustration as
+            for the text of Chaucer’s poetical works. There are in his
+            writings almost innumerable points of philological, literary,
+            or historical interest that require to be elucidated. Chaucer
+            was not only familiar with every phase of contemporary life,
+            but profoundly read in all existing literature. He knew by
+            intimate personal experience the tastes and habits, the
+            pursuits and recreations, the superstitions and beliefs, of all
+            ranks and classes amongst his own countrymen; and his
+            public employments had enlarged the field of his observation
+            so as to include almost every country in Europe. He had
+            seen active military service abroad, and had taken part in
+            splendid public ceremonials at home; had lived habitually
+            
+            <milestone unit="page" n="106"/>
+            
+            in courts, camps and great cities, as well as in the congenial
+            <note place="margin">[p. 34]</note> retirement of country life. The whole world of nature and
+            human experience was in this way mirrored in his sunny
+            intellect, while the higher influences of both had melted
+            serenely into the quiet depths of his curiously meditative
+            and observant mind. As a natural result there is a mellowed
+            fulness in his maturer delineations; a joyous animation, a
+            living truth, a variety and completeness of detail in his pictures
+            of life that obscure at first the purely literary or academical
+            accomplishments of his mind; or rather, perhaps, it would be
+            more correct to say that in his later works the learning and
+            knowledge of life are so fused by imaginative sympathy into
+            a new poetical whole, that there is at first no distinct
+            consciousness of the separate elements. . . . On closer
+            examination, however, the range and minuteness of Chaucer's
+            learning becomes clearly apparent. He employed materials
+            derived from all existing literatures home and foreign; not
+            only the early English chronicles and stories, the Norman-
+            French romances and fables, the new epic and Iyrical poetry
+            of Italy, and the whole range of Latin literature, including
+            not only the classics proper, as well as the science and art,
+            the history and philosophy ot the time, but also Byzantine
+            legends and brilliant fragments of Eastern romance, that
+            had passed into Europe in the wake of the returning
+            Crusaders. The adequate illustration of Chaucer thus
+            requires, in addition to a minute acquaintance with the state
+            of the language in his day, a full knowledge of
+            contemporary literature and history. No single editor has as
+            yet united these requirements. Tyrwhitt, who studied with
+            some care the literature and history of the fourteenth
+            century, was comparatively ignorant of Chaucer’s language;
+            while recent editors, such as Mr. Wright and Mr. Morris,
+            who are well acquainted with Chaucer’s language, have
+            attempted hardly anything in the way of literary or historical
+            illustration.</seg>
+            
+          <seg>But the primary requirement of all expository criticism
+            of Chaucer is undoubtedly the full interpretation of his
+            language. . . . There is still, however, a great deal to be
+            done for the elucidation of Chaucer's language; and,
+            unfortunately, Mr. Morris, who of living scholars is in many
+            
+            <milestone unit="page" n="107"/>
+            
+            respects best qualified for the work, has confined his labours
+            in this direction to a revision of previous glossaries. . . .</seg>
+            
+          <seg type="editorial">[An examination of Morris’s Glossary follows.]</seg>
+            
+          <seg><note place="margin">[p. 40]</note> This <add>[comparison with Piers Plowman]</add> points to an
+            important means of interpreting Chaucer’s language which has not
+            as yet been turned to anything like adequate account. We
+            refer to the critical examination of the writings of his
+            contemporaries and immediate successors. The more carefully
+            the early literature of the fourteenth century is studied, the
+            more clearly will it appear that Chaucer’s additions to the
+            vocabulary of the language are far less numerous than is
+            commonly supposed. He has been charged with adulterating
+            the English speech of his time by the wholesale importation
+            of foreign, and especially of Norman-French, words. In his
+            early translations and paraphrases from Norman-French he
+            occasionally, it is true, transfers words mainly for the
+            convenience of their rhymes. But with these exceptions his
+            importations are comparatively few. His real superiority
+            lies in the admirable taste and judgment displayed in the
+            <note place="margin">[p. 41]</note> selection of his vocabulary, the natural reflex of his keen and
+            exquisite sensibility to the latent significance of language.
+            The perfection of his art lies in his subtle insight into the
+            deeper meaning of words, and his power of combining them
+            in the most felicitous manner. He is not fond of verbal
+            novelties for their own sake, and his obscurities of phrase
+            and diction may generally therefore be explained by a
+            reference to the literature of the fourteenth and fifteenth
+            centuries. The works of Gower and Lidgate, especially the
+            latter, are of essential service in this respect.</seg>
         </ab>
       </div>
     </body>

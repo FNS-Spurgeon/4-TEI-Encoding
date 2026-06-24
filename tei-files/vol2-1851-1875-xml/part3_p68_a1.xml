@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1863, Walter Savage Landor. Heroic Idylla, with additional Poems,</title>
+        <title>1863, Walter Savage Landor. Heroic Idylla, with additional Poems.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Walter Savage Landor</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Landor, Walter Savage</author>
             <date cert="high" when="1863">1863</date>
-            <title level="a">Heroic Idylla, with additional Poems,</title>
+            <title level="a">Heroic Idylla, with additional Poems.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,65 +80,86 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="68"/>
-        <ab type="imprint">1863. Landor, Walter Savage. Heroic Idylla, with additional Poems, pp. 142-3, 181, 224, 270.</ab>
+        
+        <ab type="imprint">1863. Landor, Walter Savage. <hi rend="italic">Heroic Idylla, with additional Poems</hi>, pp. 142-3, 181, 224, 270.</ab>
+        
         <ab type="quotation">
-          <seg>TO CHAUCER.
-[p. 142]
-Chaucer, O how I wish thou wert
-Alive and, as of yore, alert!
-Then, after bandied tales, what fun
-Would we two have with monk and nun.
-Ah, surely verse was never meant
-To render mortals somnolent.
-In Spenser’s labyrinthine rhymes
-I throw my arms o’erhead at times,
-Opening sonorous mouth as wide
-As oyster shells at ebb of tide...
-No bodyless and soulless elves
-I seek, but creatures like ourselves...
-Thou wast content to act the squire
-Becomingly, and mount no higher,
-Nay, at fit season to descend
-Into the poet with a friend,
-Then ride with him about the land
-In lithesome nut-brown boots well tann'd...
-The lesser Angels now have smiled
-To see thee frolic like a child,
-And hear thee, innocent as they,
-Provoke them to come down and play.
-[SQUIBS, CRACKERS, SERPENTS, etc...]
-I leaving good old Homer, not o’erlong,
-Enjoy the merriment of Chaucer's tales.
-[WRONGS HAVE I SUFFERED...]
-Wrongs have I suffered, great and many,
-Insufferable never any
-Like that prepensely murderous one
-An Oxford hang-dog rogue has done,
-Who shoved me on a bench with men
-Biting the point of Chaucer's pen.
-Chaucer I always loved, for he
-Led me to woo fair Poesie.
-He of our craft the worthy foreman
-Stood gallantly against the Norman,
-[p. 181]
-[p. 224]
-And in good humour tried to teach
-Reluctant churls our native speech.
-Now I must mount my cob and hurry
-To join his friends at Canterbury,
-A truly English merry party,
-Tho' none so jocular and hearty.
-[James Pycroft's Ways and Works of Men of Letters, 1861, pp. 79, 379, in here
-referred to. See above, 1861, Landor.]
-[p. 270] ON THE WIDOW'S ORDEAL, BY WASHINGTON IRVING.
-Chaucer I fancied had been dead
-Some centuries, some four or five;
-By fancy I have been misled
-Like many; he is yet alive.
-The Widow's Ordeal who beside
-Could thus relate? Yes, there is one,
-He bears beyond the Atlantic wide
-The glorious name of Washington.</seg>
+          <seg>
+            <lg>
+              <head>TO CHAUCER.</head>
+              <note place="margin">[p. 142]</note><l>Chaucer, O how I wish thou wert</l>
+              <l>Alive and, as of yore, alert!</l>
+              <l>Then, after bandied tales, what fun</l>
+              <l>Would we two have with monk and nun.</l>
+              <l>Ah, surely verse was never meant</l>
+              <l>To render mortals somnolent.</l>
+              <l>In Spenser’s labyrinthine rhymes</l>
+              <l>I throw my arms o’erhead at times,</l>
+              <l>Opening sonorous mouth as wide</l>
+              <l>As oyster shells at ebb of tide. . .</l>
+              <l>No bodyless and soulless elves</l>
+              <l>I seek, but creatures like ourselves. . .</l>
+              <l>Thou wast content to act the squire</l>
+              <l>Becomingly, and mount no higher,</l>
+              <l>Nay, at fit season to descend</l>
+              <l>Into the poet with a friend,</l>
+              <l>Then ride with him about the land</l>
+              <l>In lithesome nut-brown boots well tann'd . . .</l>
+              <l>The lesser Angels now have smiled</l>
+              <l>To see thee frolic like a child,</l>
+              <l>And hear thee, innocent as they,</l>
+              <l>Provoke them to come down and play.</l>
+            </lg>
+          </seg>
+            
+          <seg>
+            <lg>
+              <head>[SQUIBS, CRACKERS, SERPENTS, etc. . .]</head>
+              <note place="margin">[p. 181]</note><l>I leaving good old Homer, not o’erlong,</l>
+              <l>Enjoy the merriment of Chaucer's tales.</l>
+            </lg>
+          </seg>
+            
+          <seg>
+            <lg>
+              <head>[WRONGS HAVE I SUFFERED. . .]</head>
+              <note place="margin">[p. 224]</note><l>Wrongs have I suffered, great and many,</l>
+              <l>Insufferable never any</l>
+              <l>Like that prepensely murderous one</l>
+              <l>An Oxford hang-dog rogue has done,</l>
+              <l>Who shoved me on a bench with men</l>
+              <l>Biting the point of Chaucer's pen.</l>
+              <l>Chaucer I always loved, for he</l>
+              <l>Led me to woo fair Poesie.</l>
+              <l>He of our craft the worthy foreman</l>
+              <l>Stood gallantly against the Norman,</l>
+              
+              <milestone unit="page" n="69"/>
+              
+              <l>And in good humour tried to teach</l>
+              <l>Reluctant churls our native speech.</l>
+              <l>Now I must mount my cob and hurry</l>
+              <l>To join his friends at Canterbury,</l>
+              <l>A truly English merry party,</l>
+              <l>Tho' none so jocular and hearty.
+                <note>[James Pycroft's Ways and Works of Men of Letters, 1861, pp. 79, 379, in here referred to. See above, 1861, Landor.]</note>
+              </l>
+            </lg>
+          </seg>
+            
+          <seg>
+            <lg>
+              <note place="margin">[p. 270]</note><head>ON THE WIDOW'S ORDEAL, BY WASHINGTON IRVING.</head>
+              <l>Chaucer I fancied had been dead</l>
+              <l>Some centuries, some four or five;</l>
+              <l>By fancy I have been misled</l>
+              <l>Like many; he is yet alive.</l>
+              <l>The Widow's Ordeal who beside</l>
+              <l>Could thus relate? Yes, there is one,</l>
+              <l>He bears beyond the Atlantic wide</l>
+              <l>The glorious name of Washington.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

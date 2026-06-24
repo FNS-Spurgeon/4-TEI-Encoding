@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1868-77, Geoffrey Chaucer. A Six-Text Print of Chaucer's Canterbury Tales</title>
+        <title>1868-77, Geoffrey Chaucer. A Six-Text Print of Chaucer's Canterbury Tales.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
-            <date cert="high" when="1868-77">1868-77</date>
-            <title level="a">A Six-Text Print of Chaucer's Canterbury Tales</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
+            <date cert="high" from="1868" to="1877">1868-77</date>
+            <title level="a">A Six-Text Print of Chaucer's Canterbury Tales.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,9 +71,8 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#illustrations" target="#"/>
-        <catRef scheme="#manuscripts" target="#"/>
-        <catRef scheme="#works" target="#manuscripts"/>
+        <catRef scheme="#illustrations" target="#hooper"/>
+        <catRef scheme="#manuscripts" target="#manuscripts"/>
         <catRef scheme="#works" target="#manuscripts"/>
         <catRef scheme="#works" target="#editionsEnglish"/>
         <catRef scheme="#works" target="#rhymeIndex"/>
@@ -87,57 +86,66 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="95"/>
-        <ab type="imprint">1868-77. Chaucer, Geoffrey. A Six-Text Print of Chaucer's Canterbury Tales in Parallel Columns from the following MSS.: 1. The Ellesmere; 2. The Hengwrt 154; 3. The Cambridge Univ. Libr. Gg. 4. 27; 4. The Corpus Christi Coll., Oxford; 5. The Petworth; 6. The Lansdowne 851. Edited by F. J. Furnivall. Chaucer Society, 8 parts, 1868-77, oblong 8vo.</ab>
+        
+        <ab type="imprint">1868-77. A Six-Text Print of Chaucer's Canterbury Tales in Parallel Columns from the following MSS.: 1. The Ellesmere; 2. The Hengwrt 154; 3. The Cambridge Univ. Libr. Gg. 4. 27; 4. The Corpus Christi Coll., Oxford; 5. The Petworth; 6. The Lansdowne 851. Edited by F. J. Furnivall. Chaucer Society, 8 parts, 1868-77, oblong 8vo.</ab>
+        
         <ab type="quotation">
-          <seg>[The six-text edition contains when complete :—
-(1) The Dedication: To Prof. Francis James Child, etc.
-(2) Specimens of the two chief moveable Prologues in the
-Canterbury Tales when they are moved from their right
-places, and of some of the substitutes for them (pp. i*-xx*):
-I. Specimens of the Man of Law's End-Link, the real
-Shipman's Prologue, when moved from its right
-place.
-II. Specimens of the Spurious Prologue to the Shipman's
-Tale.
-III. Specimens of the Squire's End-Link (which should
-head the Franklin's Tale), when the Franklin's
-Tale is moved from its right place, and the
-Squire's End-Link is used as the Merchants'
-Prologue.
-IV. Specimens of the False Prologues to the Franklin's
-Tale when it is moved from its right place after
-the Squire's Tale.
-(3) Trial-Tables (now superseded) of the Groups of Tales,
-and their order in Chaucer's "Canterbury Tales," according to
-the Edited Manuscripts and Tyrwhitt. (pp. xxi*-xxiii*.)
-(4) Drawings of the 23 tellers of the 24 Canterbury Tales,
-copied from the Ellesmere MS., and cut on wood, by Mr. W.
-H. Hooper, and coloured after the originals, under his direction,
-(9 leaves, bound at the end of vols. i and ii—pts. iii and iv—
-in the B.M. copy.)
-(5) The Texts of the Tales from the six MSS. (pp. 1-685),
-and including, (5) Appendix to Group A. The Spurious
-Tale of Gamelyn (with its spurious Head-Links) from the
-following 6 MSS.:—Royal MS. 18. C. ii.; Harleian 1758;
-Sloane, 1685; Corpus MS. (Oxford); Petworth MS.;
-Lansdowne MS. 851 (pp. xxv-Ixxvii.)
-(6) Ryme-Index to the Ellesmere Manuscript of Chaucer's
-Canterbury Tales. By Henry Cromie, M.A., 1875. [pp.
-1*-255*,— or in oblong triple pages, i†-Ixxxv†: and including
-the Notes and Corrections for the Ryme-Index, i†-lxxxviii†;
-1st ser. 45 and 46.]
-A Temporary Preface to the Six-Text Edition of Chaucer's
-[In 1868 Dr. Furnivall published separately (2nd ser. 3):
-Canterbury Tales, attempting to shew the true order of the
-Tales, and the days and stages of the pilgrimage, etc., etc.]
-of the sequence of the Tales as set forth in the Six-Text
-[See Skeat's Evolution of the Canterbury Tales for a study
-edition. Each of the texts constituting the Six-Text edition
-was printed separately, for editorial use, 1868-77: Child
-himself had conceived the idea of printing a six or eight-
-text Chaucer. See the notice of a note on the subject in the
-Reader, under 1865, Furnivall (?)]</seg>
-          <note type="footnote">Spurgeon's note: [Later publications of the Chaucer Society have for the most part been omitted, as being generally accessible and known to members of the Society.]</note>
+          <seg type="editorial">
+            [The six-text edition contains when complete :—
+            <list>
+              <item>(1) The Dedication: To Prof. Francis James Child, etc.</item>
+              <item>
+                (2) Specimens of the two chief moveable Prologues in the
+                Canterbury Tales when they are moved from their right
+                places, and of some of the substitutes for them (pp. i*-xx*):
+                <list>
+                  <item>I. Specimens of the <hi rend="italic">Man of Law's End-Link</hi>, the real
+                  <hi rend="italic">Shipman's Prologue</hi>, when moved from its right place.</item>
+                  <item>II. Specimens of the <hi rend="italic">Spurious Prologue</hi> to the <hi rend="italic">Shipman's Tale</hi>.</item>
+                  <item>III. Specimens of the <hi rend="italic">Squire's End-Link</hi> (which should
+                  head the <hi rend="italic">Franklin's Tale</hi>), when the <hi rend="italic">Franklin's
+                  Tale</hi> is moved from its right place, and the
+                  Squire's End-Link is used as the <hi rend="italic">Merchants' Prologue</hi>.</item>
+                  <item>IV. Specimens of the <hi rend="italic">False Prologues</hi> to the <hi rend="italic">Franklin's
+                  Tale</hi> when it is moved from its right place after the <hi rend="italic">Squire's Tale</hi>.</item>
+                </list>
+              </item>
+              <item>(3) Trial-Tables (now superseded) of the Groups of Tales,
+              and their order in Chaucer's "Canterbury Tales," according to
+              the <hi rend="italic">Edited Manuscripts</hi> and Tyrwhitt. (pp. xxi*-xxiii*.)</item>
+              <item>(4) Drawings of the 23 tellers of the 24 Canterbury Tales,
+              copied from the Ellesmere MS., and cut on wood, by Mr. W.
+              H. Hooper, and coloured after the originals, under his direction,
+              (9 leaves, bound at the end of vols. i and ii—pts. iii and iv—
+              in the B.M. copy.)</item>
+              <item>(5) The Texts of the Tales from the six MSS. (pp. 1-685),
+              and including, (5) Appendix to Group A. The Spurious
+              Tale of Gamelyn (with its spurious Head-Links) from the
+              following 6 MSS.:—Royal MS. 18. C. ii.; Harleian 1758;
+              Sloane, 1685; Corpus MS. (Oxford); Petworth MS.;
+              Lansdowne MS. 851 (pp. xxv-lxxvii.)</item>
+              <item>(6) Ryme-Index to the Ellesmere Manuscript of Chaucer's
+              Canterbury Tales. By Henry Cromie, M.A., 1875. [pp.
+              1*-255*,— or in oblong triple pages, i†-lxxxv†: and including
+              the Notes and Corrections for the Ryme-Index, i†-lxxxviii†;
+              1st ser. 45 and 46.]</item>
+            </list>
+          </seg>
+          
+          <milestone unit="page" n="96"/>
+            
+          <seg type="editorial">[In 1868 Dr. Furnivall published separately (2nd ser. 3):
+            <hi rend="italic">A Temporary Preface to the Six-Text Edition of Chaucer's
+            Canterbury Tales, attempting to shew the true order of the
+            Tales, and the days and stages of the pilgrimage, etc., etc.</hi>]</seg>
+            
+          <seg type="editorial">[See Skeat's <hi rend="italic">Evolution of the Canterbury Tales</hi> for a study
+            of the sequence of the Tales as set forth in the Six-Text
+            edition. Each of the texts constituting the Six-Text edition
+            was printed separately, for editorial use, 1868-77: Child
+            himself had conceived the idea of printing a six or eight-
+            text <hi rend="italic">Chaucer</hi>. See the notice of a note on the subject in the
+            <hi rend="italic">Reader</hi>, under 1865, Furnivall (?)]<note type="footnote">Spurgeon's note: [Later publications of the Chaucer Society have for the most part been omitted, as being generally accessible and known to members of the Society.]</note></seg>
         </ab>
       </div>
     </body>

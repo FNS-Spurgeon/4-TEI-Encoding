@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1866, Matthew Arnold. The Study of Celtic Literature,</title>
+        <title>1866, Matthew Arnold. The Study of Celtic Literature.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73868557">Matthew Arnold</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73868557">Arnold, Matthew</author>
             <date cert="high" when="1866">1866</date>
-            <title level="a">The Study of Celtic Literature,</title>
+            <title level="a">The Study of Celtic Literature.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,12 +80,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="82"/>
-        <ab type="imprint">1866. Arnold, Matthew. The Study of Celtic Literature, part iv, [in] The Cornhill Magazine, May 1866, p. 541, and July 1866, p. 113. (Works, 1903-4, 15 vols., vol. v, p. 79.)</ab>
+        
+        <ab type="imprint">1866. Arnold, Matthew. <hi rend="italic">The Study of Celtic Literature</hi>, part iv, [in] The Cornhill Magazine, May 1866, p. 541, and July 1866, p. 113. (Works, 1903-4, 15 vols., vol. v, p. 79.)</ab>
+        
         <ab type="quotation">
-          <seg>German schools have the good habit of reading and com¬
-menting on German poetry, as we read and comment on
-Homer and Virgil, but do not read and comment on Chaucer
-and Shakespeare.</seg>
+          <seg>German schools have the good habit of reading and
+            commenting on German poetry, as we read and comment on
+            Homer and Virgil, but do not read and comment on Chaucer
+            and Shakespeare.</seg>
         </ab>
       </div>
     </body>

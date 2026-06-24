@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1864, Alfred Tennyson. Letter to the Duke of Argyll,</title>
+        <title>1864, Alfred Tennyson. Letter to the Duke of Argyll.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/61540536">Alfred Tennyson</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/61540536">Tennyson, Alfred</author>
             <date cert="high" when="1864">1864</date>
-            <title level="a">Letter to the Duke of Argyll,</title>
+            <title level="a">Letter to the Duke of Argyll.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,12 +80,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="75"/>
-        <ab type="imprint">1864. Tennyson, Alfred, Lord. Letter to the Duke of Argyll, [printed in] Tennyson; a Memoir by his Son, 1897, 2 vols, vol. ii, p. 3.</ab>
+        
+        <ab type="imprint">1864. Tennyson, Alfred, Lord. <hi rend="italic">Letter to the Duke of Argyll</hi>, [printed in] Tennyson; a Memoir by his Son, 1897, 2 vols, vol. ii, p. 3.</ab>
+        
         <ab type="quotation">
-          <seg>One cannot exactly say of him [Garibaldi] what Chaucer
-says of the ideal knight, "As meke he was of port as is a
-maid." He is more majestic than meek.</seg>
-          <note type="footnote">Spurgeon's note: [Tennyson enjoyed reading Chaucer aloud more than any poet except Shakespeare and Milton. See Tennyson: a Memoir, vol. ii, pp. 83, 284.]</note>
+          <seg>One cannot exactly say of him <add>[Garibaldi]</add> what Chaucer
+            says of the ideal knight, "As meke he was of port as is a
+            maid." He is more majestic than meek.
+            <note type="footnote">Spurgeon's note: [Tennyson enjoyed reading Chaucer aloud more than any poet except Shakespeare and Milton. See <hi rend="italic">Tennyson: a Memoir</hi>, vol. ii, pp. 83, 284.]</note>
+          </seg>
         </ab>
       </div>
     </body>

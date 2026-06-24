@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1854, Case, M. P.. Chaucer and his Times,</title>
+        <title>1854, M. P. Case. Chaucer and his Times.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/ ">Case, M. P.</author>
+            <author cert="high" role="M">Case, M. P.</author>
             <date cert="high" when="1854">1854</date>
-            <title level="a">Chaucer and his Times,</title>
+            <title level="a">Chaucer and his Times.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,10 +71,10 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#loveNature"/>
         <catRef scheme="#criticism" target="#refiningEnglish"/>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#language"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -85,67 +85,79 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="15"/>
-        <ab type="imprint">1854. Case, M. P. Chaucer and his Times, [in] Bibliotheca Sacra, Andover, Mass., April, 1854, art. viii, 2nd series, vol. xi, pp. 394-416.</ab>
+        
+        <ab type="imprint">1854. Case, M. P. <hi rend="italic">Chaucer and his Times</hi>, [in] Bibliotheca Sacra, Andover, Mass., April, 1854, art. viii, 2nd series, vol. xi, pp. 394-416.</ab>
+        
         <ab type="quotation">
-          <seg>[Chaucer "a dim and shadowy figure." An account of the
-age of Chaucer, Wiclif's religious reform, Edward III and his
-Queen Philippa, &amp;c.]
-[p. 404] [Remarks on the 'foreign air' of Chaucer's language at a
-cursory glance.]
-The English tongue ... was a rude mass, rudis indi¬
-gestaque moles, a material the most unpromising possible for
-genius to find an utterance in. The French had been used
-by the higher classes, Latin by the learned, and the Saxon
-by the common people; and during the period of Norman
-ascendency, for more than two centuries, the Anglo-Saxon
-had ceased to be a written language. It was only a dialect
-of slaves, the patois of a crushed and despised race ...
-[p. 405] Rarely, if ever, has the history of letters recorded such
-a phenomenon as we here behold. A great genius, one of
-the world’s elect bards, arises in a country and in an age
-where the language is an unfit and an insufficient medium for
-his utterances, and where he must not only create his forms
-and conceptions, but, in some sense, the language also, with
-which to clothe them ...
-[pp. 406- [Remarks on the uncertainty of the chronology of Chaucer's
-7]
-life and writings, followed by a criticism of 'the two capital
-allegories of Chaucer, the Hous of Fame, and the Flour and
-the Lefe.]
-[p. 409] In the Canterbury Tales, our poet leaves this fanciful
-region where he had so fondly lingered, and places before
-us persons and scenes of the most matter-of-fact kind possible.
-This was his last and greatest work; the labor of his old age.
-[pp. 409- [Here follows a detailed criticism of the characters in the
-14]
-Prologue.]
-[p. 414] In seeking for Chaucer's prominent characteristics, we
-recognize at once his great descriptive power. Every scene
-and every character lives before us. His naturalness, also,
-is most observable. Nothing is artificial; nature reigns
-supreme everywhere. He is, in fact, preëminently a poet of
-nature. He is the poet of spring, of the singing of the birds,
-of the zephyrs, and the flowers. He is no weak nor lazy
-copyist; he takes nothing at second hand.
-[pp. 414- [Chaucer contrasted with Byron.]
-15]
-[p. 415] The popularity of Chaucer has experienced various vicissi¬
-tudes. In the age of Queen Elisabeth [sic], he was truly
-regarded as the first of English poets; and Spenser, his fond
-admirer and copyist, when dying, requested, as an especial
-honor, to be buried near his tomb. At other periods he has
-not been so generally read. ...
-[Hindrances to his popularity, the grossness of the times,
-and the obsoleteness of the language; the latter easily
-surmountable.]
-[p. 416] Whatever the general and popular estimation of his writings
-may be, he will be read so long as a love for nature and truth
-shall remain among those who speak the English language.
-He was worthy to lead off that noble band of British bards,
-who will long reflect glory on the English name. It is a
-conspicuous place which he holds among his compeers in
-that 'House of Fame', which he has so graphically described
-to us.</seg>
+          <seg type="editorial">[Chaucer "a dim and shadowy figure." An account of the
+            age of Chaucer, Wiclif's religious reform, Edward III and his
+            Queen Philippa, &amp;c.]</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 404]</note> [Remarks on the 'foreign air' of Chaucer's language at a cursory glance.]</seg>
+            
+          <seg>The English tongue . . . was a rude mass, rudis indigestaque
+            moles, a material the most unpromising possible for
+            
+            <milestone unit="page" n="16"/>
+            
+            genius to find an utterance in. The French had been used
+            by the higher classes, Latin by the learned, and the Saxon
+            by the common people; and during the period of Norman
+            ascendency, for more than two centuries, the Anglo-Saxon
+            had ceased to be a written language. It was only a dialect
+            of slaves, the patois of a crushed and despised race . . .</seg>
+          
+          <seg><note place="margin">[p. 405]</note> Rarely, if ever, has the history of letters recorded such
+            a phenomenon as we here behold. A great genius, one of
+            the world’s elect bards, arises in a country and in an age
+            where the language is an unfit and an insufficient medium for
+            his utterances, and where he must not only create his forms
+            and conceptions, but, in some sense, the language also, with
+            which to clothe them . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 406-7]</note> [Remarks on the uncertainty of the chronology of Chaucer's
+            life and writings, followed by a criticism of 'the two capital
+            allegories of Chaucer, the <hi rend="italic">Hous of Fame</hi>, and the <hi rend="italic">Flour and
+            the Lefe</hi>.]</seg>
+            
+          <seg><note place="margin">[p. 409]</note> In the Canterbury Tales, our poet leaves this fanciful
+            region where he had so fondly lingered, and places before
+            us persons and scenes of the most matter-of-fact kind possible.
+            This was his last and greatest work; the labor of his old age.</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 409-14]</note> [Here follows a detailed criticism of the characters in the <hi rend="italic">Prologue</hi>.]</seg>
+            
+          <seg><note place="margin">[p. 414]</note> In seeking for Chaucer's prominent characteristics, we
+            recognize at once his great descriptive power. Every scene
+            and every character lives before us. His naturalness, also,
+            is most observable. Nothing is artificial; nature reigns
+            supreme everywhere. He is, in fact, preëminently a poet of
+            nature. He is the poet of spring, of the singing of the birds,
+            of the zephyrs, and the flowers. He is no weak nor lazy
+            copyist; he takes nothing at second hand.</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 414-15]</note> [Chaucer contrasted with Byron.]</seg>
+            
+          <seg><note place="margin">[p. 415]</note> The popularity of Chaucer has experienced various vicissitudes.
+            In the age of Queen Elisabeth <add>[sic]</add>, he was truly
+            regarded as the first of English poets; and Spenser, his fond
+            admirer and copyist, when dying, requested, as an especial
+            honor, to be buried near his tomb. At other periods he has
+            not been so generally read. . . .</seg>
+            
+          <seg type="editorial">[Hindrances to his popularity, the grossness of the times,
+            and the obsoleteness of the language; the latter easily surmountable.]</seg>
+          
+          <milestone unit="page" n="17"/>
+            
+          <seg><note place="margin">[p. 416]</note> Whatever the general and popular estimation of his writings
+            may be, he will be read so long as a love for nature and truth
+            shall remain among those who speak the English language.
+            He was worthy to lead off that noble band of British bards,
+            who will long reflect glory on the English name. It is a
+            conspicuous place which he holds among his compeers in
+            that 'House of Fame', which he has so graphically described
+            to us.</seg>
         </ab>
       </div>
     </body>

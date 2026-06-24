@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1860], David Irving. The History of Scottish Poetry,</title>
+        <title>[a. 1860], David Irving. The History of Scottish Poetry.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/50010933">David Irving</author>
-            <date cert="low" when="[a. 1860]">[a. 1860]</date>
-            <title level="a">The History of Scottish Poetry,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/50010933">Irving, David</author>
+            <date cert="low" when="1860">[a. 1860]</date>
+            <title level="a">The History of Scottish Poetry.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,14 +80,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="53"/>
-        <ab type="imprint">[a. 1860.] Irving, David. The History of Scottish Poetry, by David Irving . . . edited by John Aitken Carlyle [from the MS. which Irving left unpublished at his death in 1860], Edinburgh, 1861, pp. 37n., 52, 68n., 70n., 73, 85, 95, 102n., 107-9, 134n., 136n., 141-2, 170, 173, 175n., 187, 193, 212-14, 218, 219n., 221, 231-2, 239, 242n., 244, 267-8, 272, 283n., 298, 310n., 326, 341. [Some of the references are almost identical with those in the Lives of the Scottish Poets, 1804. Some chapters, including that on Barbour, had appeared as articles in the Encyclopædia Britannica.]</ab>
+        
+        <ab type="imprint">[a. 1860.] Irving, David. <hi rend="italic">The History of Scottish Poetry</hi>, by David Irving . . . edited by John Aitken Carlyle [from the MS. which Irving left unpublished at his death in 1860], Edinburgh, 1861, pp. 37n., 52, 68n., 70n., 73, 85, 95, 102n., 107-9, 134n., 136n., 141-2, 170, 173, 175n., 187, 193, 212-14, 218, 219n., 221, 231-2, 239, 242n., 244, 267-8, 272, 283n., 298, 310n., 326, 341. [Some of the references are almost identical with those in the Lives of the Scottish Poets, 1804. Some chapters, including that on Barbour, had appeared as articles in the <hi rend="italic">Encyclopædia Britannica</hi>.]</ab>
+        
         <ab type="quotation">
-          <seg>[p. 95] [Reference to Barbour as the contemporary and in some
-respects the rival of Chaucer.]
-[p. 107] [Comparison, by quotation of passages in Barbour’s Bruce
-and Chaucer’s Romaunt.]
-[Many other brief references, with quotations from Tyrwhitt
-and Nott on versification, language, &amp;c.]</seg>
+          <seg type="editorial"><note place="margin">[p. 95]</note> [Reference to Barbour as the contemporary and in some
+            respects the rival of Chaucer.]</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 107]</note> [Comparison, by quotation of passages in Barbour’s <hi rend="italic">Bruce</hi>
+            and Chaucer’s <hi rend="italic">Romaunt</hi>.]</seg>
+          
+          <seg type="editorial">[Many other brief references, with quotations from Tyrwhitt
+            and Nott on versification, language, &amp;c.]</seg>
         </ab>
       </div>
     </body>

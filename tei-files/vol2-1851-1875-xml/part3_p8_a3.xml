@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1852, Arthur Hugh Clough. Lecture on the Development of English Literature from Chaucer to Wordsworth,</title>
+        <title>1852, Arthur Hugh Clough. Lecture on the Development of English Literature from Chaucer to Wordsworth.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/68944993">Arthur Hugh Clough</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/68944993">Clough, Arthur Hugh</author>
             <date cert="high" when="1852">1852</date>
-            <title level="a">Lecture on the Development of English Literature from Chaucer to Wordsworth,</title>
+            <title level="a">Lecture on the Development of English Literature from Chaucer to Wordsworth.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,31 +80,35 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="8"/>
-        <ab type="imprint">1852. Clough, Arthur Hugh. Lecture on the Development of English Literature from Chaucer to Wordsworth, [printed in] Prose Remains of A. H. Clough, 1888, pp. 333-42.</ab>
+        
+        <ab type="imprint">1852. Clough, Arthur Hugh. <hi rend="italic">Lecture on the Development of English Literature from Chaucer to Wordsworth</hi>, [printed in] Prose Remains of A. H. Clough, 1888, pp. 333-42.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 334] In commencing such a conspectus [of the mutual reaction of
-literature and national character in England], I can have no
-hesitation in selecting the first name: English Literature
-begins with Chaucer. ... The picture of all that pertains to
-those first exhibitions (for good or for evil, or for both) of our
-English genius and temper you may see surviving unfaded in
-the lively colouring of the "Canterbury Tales." ... What,
-[p. 335] for example, can be truer to permanent English likings
-and dislikings ... than these lines in description of the
-Monk? [Quotation, Prol., Il. 173-8, 183-8.] Certainly we
-may still find in old England ladies—I quote Chaucer—
-paining themselves to counterfeit cheer of court, and be
-estately of manere, and to be held worthy of reverence; busy
-or busy-seeming lawyers [quotation, Prol., Il. 321-2]; country
-gentlemen, great at the sessions, and greater at the dinner
-table; the tried soldier, silent and unpretending; the young
-[p. 336] soldier, much the reverse; the merchant, so discreet and
-steadfast [quotation, Prol., l. 282]; religious and laborious
-parish-clergymen, and church dignitaries, not very religious,
-and not at all laborious.
-[p. 342] [Chaucer, by the copious admission of Norman-French
-elements, completed and transformed 'our homely meagre
-Semi-Saxon into a civilised and living speech.']</seg>
+          <seg><note place="margin">[p. 334]</note> In commencing such a conspectus <add>[of the mutual reaction of
+            literature and national character in England]</add>, I can have no
+            hesitation in selecting the first name: English Literature
+            begins with Chaucer. . . . The picture of all that pertains to
+            those first exhibitions (for good or for evil, or for both) of our
+            English genius and temper you may see surviving unfaded in
+            the lively colouring of the "Canterbury Tales." . . . What,
+            <note place="margin">[p. 335]</note> for example, can be truer to permanent English likings
+            and dislikings . . . than these lines in description of the
+            Monk? <add>[Quotation, <hi rend="italic">Prol.</hi>, ll. 173-8, 183-8.]</add> Certainly we
+            may still find in old England ladies—I quote Chaucer—
+            paining themselves to counterfeit cheer of court, and be
+            estately of manere, and to be held worthy of reverence; busy
+            or busy-seeming lawyers <add>[quotation, <hi rend="italic">Prol.</hi>, ll. 321-2]</add>; country
+            gentlemen, great at the sessions, and greater at the dinner
+            table; the tried soldier, silent and unpretending; the young
+            <note place="margin">[p. 336]</note> soldier, much the reverse; the merchant, so discreet and
+            steadfast <add>[quotation, <hi rend="italic">Prol.</hi>, l. 282]</add>; religious and laborious
+            parish-clergymen, and church dignitaries, not very religious,
+            and not at all laborious.</seg>
+            
+          <milestone unit="page" n="9"/>
+            
+          <seg type="editorial"><note place="margin">[p. 342]</note> [Chaucer, by the copious admission of Norman-French
+            elements, completed and transformed 'our homely meagre Semi-Saxon into a civilised and living speech.']</seg>
         </ab>
       </div>
     </body>

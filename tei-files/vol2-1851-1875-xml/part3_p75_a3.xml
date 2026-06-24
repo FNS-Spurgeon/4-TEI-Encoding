@@ -80,14 +80,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="75"/>
-        <ab type="imprint">1865. Bradshaw, Henry. [Advertisement of] An Attempt to Ascertain the State of Chaucer's Works, as they were left at his death, with some notices of their subsequent history. </ab>
+        
+        <ab type="imprint">1865. Bradshaw, Henry. [<hi rend="italic">Advertisement</hi> of] <hi rend="italic">An Attempt to Ascertain the State of Chaucer's Works, as they were left at his death, with some notices of their subsequent history</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>[The advertisement, inserted by Macmillan on the front page
-of Notes and Queries, Aug. 12, 1865, begins with the words
-"Shortly will be published," but Bradshaw did not advance
-far into the work, of which only the introductory pages were
-found after his death. The Skeleton of Chaucer's Canterbury
-Tales summed up his results; see below, 1867.]</seg>
+          <seg type="editorial">[The advertisement, inserted by Macmillan on the front page
+            of Notes and Queries, Aug. 12, 1865, begins with the words
+            "Shortly will be published," but Bradshaw did not advance
+            far into the work, of which only the introductory pages were
+            found after his death. The <hi rend="italic">Skeleton of Chaucer's Canterbury
+            Tales</hi> summed up his results; see below, 1867.]</seg>
         </ab>
       </div>
     </body>

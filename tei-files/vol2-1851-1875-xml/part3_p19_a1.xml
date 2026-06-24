@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1854], Dante Gabriel Rossetti. Beauty and the Bird,</title>
+        <title>[c. 1854], Dante Gabriel Rossetti. Beauty and the Bird.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/41848725">Dante Gabriel Rossetti</author>
-            <date cert="low" when="[c. 1854]">[c. 1854]</date>
-            <title level="a">Beauty and the Bird,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/41848725">Rossetti, Dante Gabriel</author>
+            <date cert="low" when="1854">[c. 1854]</date>
+            <title level="a">Beauty and the Bird.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,20 +82,26 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="19"/>
-        <ab type="imprint">[c. 1854.] Rossetti, Dante Gabriel. Beauty and the Bird, [a sonnet, in] Poems, 1870 (edn. 2, 1870, 1st in B.M.) p. 278. (Collected Works, ed. W. M. Rossetti, 1897, 2 vols., vol. i, p. 286.)</ab>
+        
+        <ab type="imprint">[c. 1854.] Rossetti, Dante Gabriel. <hi rend="italic">Beauty and the Bird</hi>, [a sonnet, in] Poems, 1870 (edn. 2, 1870, 1st in B.M.) p. 278. (Collected Works, ed. W. M. Rossetti, 1897, 2 vols., vol. i, p. 286.)</ab>
+        
         <ab type="quotation">
-          <seg>She fluted with her mouth as when one sips ...
-Till her fond bird, with little turns and dips,
-Piped low to her of sweet companionships.
-And when he made an end, some seed took she
-And fed him from her tongue ...
-And like the child in Chaucer, on whose tongue
-The Blessed Mary laid, when he was dead,
-A grain,—who straightway praised her name in song:
-Even so, when she, a little lightly red,
-Now turned on me and laughed, I heard the throng
-Of inner voices praise her golden head.</seg>
-          <note type="footnote">Spurgeon's note: [Placed chronologically in the Collected Works after a poem attributed to about 1854 (see note, vol. i, p. 521). Mr. W. M. Rossetti (ib. vol. i, p. xxvii), after giving a list of poets who influenced D. G. Rossetti, says: "The reader may perhaps be surprised to find some names unmentioned in this list ... Chaucer, Spenser, the Elizabethan dramatists (other than Shakespeare). Milton, Dryden, Pope, Wordsworth, are unnamed. It should not be supposed that he read them not at all or cared not for any of them; but if we except Chaucer in a rather loose way ... they were comparatively neglected."]</note>
+          <seg>
+            <lg>
+              <l>She fluted with her mouth as when one sips . . .</l>
+              <l>Till her fond bird, with little turns and dips,</l>
+              <l>Piped low to her of sweet companionships.</l>
+              <l>And when he made an end, some seed took she</l>
+              <l>And fed him from her tongue . . .</l>
+              <l>And like the child in Chaucer, on whose tongue</l>
+              <l>The Blessed Mary laid, when he was dead,</l>
+              <l>A grain,—who straightway praised her name in song:</l>
+              <l>Even so, when she, a little lightly red,</l>
+              <l>Now turned on me and laughed, I heard the throng</l>
+              <l>Of inner voices praise her golden head.</l>
+              <note type="footnote">Spurgeon's note: [Placed chronologically in the Collected Works after a poem attributed to about 1854 (see note, vol. i, p. 521). Mr. W. M. Rossetti (ib. vol. i, p. xxvii), after giving a list of poets who influenced D. G. Rossetti, says: "The reader may perhaps be surprised to find some names unmentioned in this list . . . Chaucer, Spenser, the Elizabethan dramatists (other than Shakespeare). Milton, Dryden, Pope, Wordsworth, are unnamed. It should not be supposed that he read them not at all or cared not for any of them; but if we except Chaucer in a rather loose way . . . they were comparatively neglected."]</note>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

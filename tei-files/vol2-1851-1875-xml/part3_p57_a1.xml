@@ -32,8 +32,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Walter Savage Landor</author>
-            <date cert="low" when="[c. 1861]">[c. 1861]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Landor, Walter Savage</author>
+            <date cert="low" when="1861">[c. 1861]</date>
             <title level="a">Chaucer.</title>
           </analytic>
           <monogr>
@@ -82,25 +82,30 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="57"/>
-        <ab type="imprint">[c. 1861.] Landor, Walter Savage. Chaucer. </ab>
+        
+        <ab type="imprint">[c. 1861.] Landor, Walter Savage. <hi rend="italic">Chaucer</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>MS. of which was sold by Messrs. Maggs, Catalogue no. 340, 1915,
-[An unpublished prose fragment of some 50 lines, the autograph
-no. 1789].
-There is no poet excepting Homer whom I have studied so
-attentively as Chaucer. They are the ablest of their respective
-countries. It may be doubted, and must be whether the
-language in the Iliad and Odyssee was exactly as we find it
-now . . .
-The learned Pisistratus and his sons collected all they
-found ... Chaucer by the care of studious and learned men
-remains as we find him, even in spelling. This is worthy of
-notice and thankfulness. We find many words in his Canter¬
-bury Tales spelt better than we spell them now. Several
-of these I have noted in my Imaginary Conversations and
-elsewhere ...
-Chaucer was the builder of our language ...</seg>
-          <note type="footnote">Spurgeon's note: [Messrs. Maggs have very kindly given us the following note: "The little MS. was not dated, but judging from our remembrance of the handwriting, we should think it would be of a rather late date in his carcer." Internal evidence confirms this. See iminediately above.]</note>
+          <seg type="editorial">[An unpublished prose fragment of some 50 lines, the autograph
+            MS. of which was sold by Messrs. Maggs, Catalogue no. 340, 1915, no. 1789].
+            <note type="footnote">Spurgeon's note: [Messrs. Maggs have very kindly given us the following note: "The little MS. was not dated, but judging from our remembrance of the handwriting, we should think it would be of a rather late date in his carcer." Internal evidence confirms this. See iminediately above.]</note>
+          </seg>
+          
+          <seg>There is no poet excepting Homer whom I have studied so
+            attentively as Chaucer. They are the ablest of their respective
+            countries. It may be doubted, and must be whether the
+            language in the Iliad and Odyssee was exactly as we find it
+            now . . .</seg>
+          
+          <seg>The learned Pisistratus and his sons collected all they
+            found . . . Chaucer by the care of studious and learned men
+            remains as we find him, even in spelling. This is worthy of
+            notice and thankfulness. We find many words in his Canter¬
+            bury Tales spelt better than we spell them now. Several
+            of these I have noted in my Imaginary Conversations and
+            elsewhere . . .</seg>
+            
+          <seg>Chaucer was the builder of our language . . .</seg>
         </ab>
       </div>
     </body>

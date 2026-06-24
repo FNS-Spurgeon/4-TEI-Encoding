@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1857, Frederick James Furnivall. MS. Notes, Illustrations of the Prologue to Chaucer's Canterbury Tales,</title>
+        <title>1857, Frederick James Furnivall. MS. Notes, Illustrations of the Prologue to Chaucer's Canterbury Tales.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Frederick James Furnivall</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Furnivall, Frederick James</author>
             <date cert="high" when="1857">1857</date>
-            <title level="a">MS. Notes, Illustrations of the Prologue to Chaucer's Canterbury Tales,</title>
+            <title level="a">MS. Notes, Illustrations of the Prologue to Chaucer's Canterbury Tales.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,68 +82,87 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="37"/>
-        <ab type="imprint">1857. Furnivall, Frederick James. MS. Notes, Illustrations of the Prologue to Chaucer's Canterbury Tales, dated "Working Men’s College, 1857." [The Notes consist of passages copied from different books in illustration of the various characters in the Prologue, and were used for lectures at the Working Men’s College in 1857-8. See Biography of Furnivall by John Munro in Frederick James Furnivall, 1911, p. xxxvi. The original note-book is in the possession of the present Editor. The contents are as follows.]</ab>
+        
+        <ab type="imprint">1857. Furnivall, Frederick James. <hi rend="italic">MS. Notes</hi>, <hi rend="italic">Illustrations of the Prologue to Chaucer's Canterbury Tales</hi>, dated "Working Men’s College, 1857." [The Notes consist of passages copied from different books in illustration of the various characters in the Prologue, and were used for lectures at the Working Men’s College in 1857-8. See Biography of Furnivall by John Munro in <hi rend="italic">Frederick James Furnivall</hi>, 1911, p. xxxvi. The original note-book is in the possession of the present Editor. The contents are as follows.]</ab>
+        
         <ab type="quotation">
-          <seg>[p. 2]
-"The Fat Friar." Extract from Piers Plowman's Creed,
-l. 435 (ed. Wright, 1856), beginning—
-"Than turned I ayen
-Whan I hadde all y-toted,
-And fond in a freitoure
-A frere on a benche," etc.
-[p. 3]
-"The Ploughman." Paraphrase of long passage from the
-Creed, l. 475 [or rather 831], etc.
-[p. 6]
-"The Ploughman's Diet and Work—recommended for the
-Friars." Extract from Creed, l. 1553, etc., and a note.
-"See Vis. [vol.] i, [p.] 134."
-[p. 9]
-"The Friars' Laziness, Greediness and Selfishness, and
-want of kindness to one another." Extract from Creed,
-ll. 1437-82.
-[p. 13]
-"Priests—their residing in London." Extract from Piers
-Plowman, Prol. Il. 163-72.
-[p. 17] "Knight." Extract from Leland, Itinerary (Somersetshire),
-vol. II, fol. 53-4, vol. iii, 91 (of original).
-[pp. 26, 27, 28 and inserted leaves]
-"The Assault of Massoura (Excerpta Historica, Bentley,
-1831, p. 64)." The valour of Longespee fighting the
-Saracens.
-[p. 30] "Franklins." Extract from Fortescue, de Laudibus Legum
-Angliae, cap. 29, temp. Hen. VI, 1422-61.
-[p. 31] Extract from W. Lambarde, Perambulation of Kent, 1570,
-published 1576, copied from edn. 1826, p. 8. Note on the
-"Franklyns and Yeomen of England."
-[p. 32]. "Doctor of Phisic." "For a first-rate skit on 'thes fisisiens
-that helpeth men to dye' see 'A Poem on the Times of
-Edward II,' ed. Hardwick (Percy Society), stanzas 39-44,
-pp. 18-21."
-Extract from Piers Plouman, [vol.] I, [p.] 133 :—
-"For murtheris are many leches," etc.
-[p. 39] "The Merchant, as to his selling scheeldes."
-Extract from Piers Plowman, C, vii, l. 278:—
-"And if I sente over see
-My servauntȝ to Brugges," etc.
-[B. v, 392; C. vii, 278.]
-[p. 41] "Sergeantȝ (at law)."
-Extract from Piers Plowman, i, 418:—
-"Yet hoved there an hundred
-In howves of selk," etc.
-[pp. 42-3] "Sergeant.""Pervise." Selden's note in Fortescue de
-laudibus Legum Anglide, cap. 51.
-[p. 43] Extract from Songs and Carols, 15th Century, ed. Wright,
-for Percy Society, p. 36:
-"If thou have out to do with the law to plete," etc.,
-and from notes, p. 100: "The Parvis or portico of St. Paul’s, in
-London, was the common place of consultation among the
-Lawyers." "See Victor Hugo’s Notre Dame as to the Parvise
-there, in Paris."
-[End pages of book, an index of personages (such as Ancres,
-Bachelers, Bishop, Clerks, etc.) mentioned in Piers Plowman,
-under heads of "Church," "State and Household," and
-"Trades and Professions."]</seg>
+          <seg><note place="margin">[p. 2]</note> "The Fat Friar." Extract from Piers Plowman's Creed,
+            l. 435 (ed. Wright, 1856), beginning—
+            <lg>
+              <l>"Than turned I ayen</l>
+              <l>Whan I hadde all y-toted,</l>
+              <l>And fond in a freitoure</l>
+              <l>A frere on a benche," etc.</l>
+            </lg>
+          </seg>
+          
+          <seg><note place="margin">[p. 3]</note> "The Ploughman." Paraphrase of long passage from the
+            Creed, l. 475 <add>[or rather 831]</add>, etc.</seg>
+            
+          <seg><note place="margin">[p. 6]</note> "The Ploughman's Diet and Work—recommended for the
+            Friars." Extract from <hi rend="italic">Creed</hi>, l. 1553, etc., and a note.
+            "See Vis. <add>[vol.]</add> i, <add>[p.]</add> 134."</seg>
+            
+          <seg><note place="margin">[p. 9]</note> "The Friars' Laziness, Greediness and Selfishness, and
+            want of kindness to one another." Extract from <hi rend="italic">Creed</hi>, ll. 1437-82.</seg>
+            
+          <seg><note place="margin">[p. 13]</note> "Priests—their residing in London." Extract from <hi rend="italic">Piers
+            Plowman</hi>, Prol. ll. 163-72.</seg>
+          
+          <milestone unit="page" n="38"/>
+            
+          <seg><note place="margin">[p. 17]</note> "Knight." Extract from Leland, <hi rend="italic">Itinerary</hi> (Somersetshire),
+            vol. II, fol. 53-4, vol. iii, 91 (of original).</seg>
+            
+          <seg><note place="margin">[pp. 26, 27, 28 and inserted leaves]</note>
+            "The Assault of Massoura (<hi rend="italic">Excerpta Historica</hi>, Bentley,
+            1831, p. 64)." The valour of Longespee fighting the Saracens.</seg>
+            
+          <seg><note place="margin">[p. 30]</note> "Franklins." Extract from Fortescue, <hi rend="italic">de Laudibus Legum
+            Angliae</hi>, cap. 29, temp. Hen. VI, 1422-61.</seg>
+            
+          <seg><note place="margin">[p. 31]</note> Extract from W. Lambarde, <hi rend="italic">Perambulation of Kent</hi>, 1570,
+            published 1576, copied from edn. 1826, p. 8. Note on the "Franklyns and Yeomen of England."</seg>
+            
+          <seg><note place="margin">[p. 32]</note> "Doctor of Phisic." "For a first-rate skit on 'thes fisisiens
+            that helpeth men to dye' see 'A Poem on the Times of
+            Edward II,' ed. Hardwick (Percy Society), stanzas 39-44,
+            pp. 18-21."
+            Extract from <hi rend="italic">Piers Plouman</hi>, <add>[vol.]</add> I, <add>[p.]</add> 133 :—
+            <l>"For murtheris are many leches," etc.</l></seg>
+            
+          <seg><note place="margin">[p. 39]</note> <l>"The Merchant, as to his selling scheeldes."</l>
+            Extract from <hi rend="italic">Piers Plowman</hi>, C, vii, l. 278:—
+            <lg>
+              <l>"And if I sente over see</l>
+              <l>My servauntȝ to Brugges," etc.</l>
+              <note place="right">[B. v, 392; C. vii, 278.]</note>
+            </lg>
+          </seg>
+            
+          <seg><note place="margin">[p. 41]</note> <l>"Sergeantȝ (at law)."</l>
+            Extract from <hi rend="italic">Piers Plowman</hi>, i, 418:—
+            <lg>
+              <l>"Yet hoved there an hundred</l>
+              <l>In howves of selk," etc.</l>
+            </lg>
+          </seg>
+            
+          <seg><note place="margin">[pp. 42-3]</note> "Sergeant.""Pervise." Selden's note in <hi rend="italic">Fortescue de
+            laudibus Legum Anglide</hi>, cap. 51.</seg>
+            
+          <seg><note place="margin">[p. 43]</note> Extract from <hi rend="italic">Songs and Carols, 15th Century</hi>, ed. Wright,
+            for Percy Society, p. 36:
+            "If thou have out to do with the law to plete," etc.,
+            and from notes, p. 100: "The Parvis or portico of St. Paul’s, in
+            London, was the common place of consultation among the
+            Lawyers." "See Victor Hugo’s <hi rend="italic">Notre Dame</hi> as to the Parvise
+            there, in Paris."</seg>
+            
+          <seg type="editorial">[End pages of book, an index of personages (such as Ancres,
+            Bachelers, Bishop, Clerks, etc.) mentioned in <hi rend="italic">Piers Plowman</hi>,
+            under heads of "Church," "State and Household," and
+            "Trades and Professions."]</seg>
         </ab>
       </div>
     </body>

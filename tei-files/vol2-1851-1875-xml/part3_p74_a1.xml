@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n. a. 1864?], Walter Pater. Conversation with Mr. Richard C. Jackson,</title>
+        <title>[n. a. 1864?], Walter Pater. Conversation with Mr. Richard C. Jackson.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19689601">Walter Pater</author>
-            <date cert="low" when="[n. a. 1864?]">[n. a. 1864?]</date>
-            <title level="a">Conversation with Mr. Richard C. Jackson,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19689601">Pater, Walter</author>
+            <date cert="low" when="1864">[n. a. 1864?]</date>
+            <title level="a">Conversation with Mr. Richard C. Jackson.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#illustrations" target="#blake"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -82,35 +82,42 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="74"/>
-        <ab type="imprint">[n. a. 1864?] Pater, Walter Horatio. Conversation with Mr. Richard C. Jackson, [in] The Life of Walter Pater, by Thomas Wright, 1907, 2 vols., vol. ii, pp. 267-8.</ab>
+        
+        <ab type="imprint">[n. a. 1864?] Pater, Walter Horatio. <hi rend="italic">Conversation with Mr. Richard C. Jackson</hi>, [in] The Life of Walter Pater, by Thomas Wright, 1907, 2 vols., vol. ii, pp. 267-8.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 268] One day, when Pater and Mr. Jackson were visiting an
-acquaintance, Pater chanced to take up a rather rare little book
-called Chaucer Modernised. He remarked that he had never
-seen it before, and frankly admitted that he was entirely
-ignorant of the literature connected with Chaucer; that, more¬
-over, of Chaucer himself and his work he knew very little.
-"Of course," he added, “I have heard of the Canterbury Tales,
-but I did not know that they were considered of sufficient
-importance to be modernised."
-[Mr. Jackson exclaims upon Pater's ignorance of English
-literature, which however he finds natural in "a Tutor of
-Oxford," and offers to shew him a work in his library which
-cannot fail to open his eyes.]
-Pater duly presented himself early one morning, and Mr.
-Jackson placed before him the magnificent Black Letter
-Chaucer above described [ed. Speght, 1598]. Opening the
-book, Pater gave an exclamation of wonder and delight, and
-all that day he sat poring over its pages, scarcely saying a
-word.
-[In the evening he made severe observations on the neglect
-of English in education, concluding:]
-"Books like this or facsimiles of them ought to be in all
-schools and colleges." ... Then pointing to the portrait of
-Chaucer he said : "This portrait, dight with heraldry, has as
-much within it as a vast number of the so-called commentaries
-of the Bible."</seg>
-          <note type="footnote">Spurgeon's note: [It is obvious from the phrasing alone that this story is untrue as it stands. The whole book is full of equal and even greater absurdities. But it may be based on some real expression of regret on Pater's part at his ignorance of Chaucer, and is perhaps worth quoting on that account. If Pater was "a Tutor of Oxford" at the time, it must have been in or after 1864, when he took his Fellowship at Brasenose. Mr. Jackson had inherited Charles Lamb's library, and this may have been the copy mentioned above, 1823. He also (Wright, vol. ii, p. 180) owned, and shewed to Pater, Blake's original oil-sketch for the Canterbury Pilgrims.]</note>
+          <seg><note place="margin">[p. 268]</note> One day, when Pater and Mr. Jackson were visiting an
+            acquaintance, Pater chanced to take up a rather rare little book
+            called <hi rend="italic">Chaucer Modernised</hi>. He remarked that he had never
+            seen it before, and frankly admitted that he was entirely
+            ignorant of the literature connected with Chaucer; that,
+            moreover, of Chaucer himself and his work he knew very little.
+            "Of course," he added, “I have heard of the <hi rend="italic">Canterbury Tales</hi>,
+            but I did not know that they were considered of sufficient
+            importance to be modernised."</seg>
+          
+          <seg type="editorial">[Mr. Jackson exclaims upon Pater's ignorance of English
+            literature, which however he finds natural in "a Tutor of
+            Oxford," and offers to shew him a work in his library which
+            cannot fail to open his eyes.]</seg>
+            
+          <seg>Pater duly presented himself early one morning, and Mr.
+            Jackson placed before him the magnificent Black Letter
+            Chaucer above described <add>[ed. Speght, 1598]</add>. Opening the
+            book, Pater gave an exclamation of wonder and delight, and
+            all that day he sat poring over its pages, scarcely saying a
+            word.</seg>
+            
+          <seg type="editorial">[In the evening he made severe observations on the neglect
+            of English in education, concluding:]</seg>
+            
+          <seg>"Books like this or facsimiles of them ought to be in all
+            schools and colleges." . . . Then pointing to the portrait of
+            Chaucer he said : "This portrait, dight with heraldry, has as
+            much within it as a vast number of the so-called commentaries
+            of the Bible."
+              <note type="footnote"><lb/>Spurgeon's note: [It is obvious from the phrasing alone that this story is untrue as it stands. The whole book is full of equal and even greater absurdities. But it may be based on some real expression of regret on Pater's part at his ignorance of Chaucer, and is perhaps worth quoting on that account. <lb/>If Pater was "a Tutor of Oxford" at the time, it must have been in or after 1864, when he took his Fellowship at Brasenose. <lb/>Mr. Jackson had inherited Charles Lamb's library, and this may have been the copy mentioned above, 1823. He also (Wright, vol. ii, p. 180) owned, and shewed to Pater, Blake's original oil-sketch for the Canterbury Pilgrims.]</note>
+          </seg>
         </ab>
       </div>
     </body>

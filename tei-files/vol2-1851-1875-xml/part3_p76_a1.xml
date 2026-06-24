@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1865, Frederick James Furnivall. The Wright's Chaste Wife,</title>
+        <title>1865, Frederick James Furnivall. The Wright's Chaste Wife.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Frederick James Furnivall</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Furnivall, Frederick James</author>
             <date cert="high" when="1865">1865</date>
-            <title level="a">The Wright's Chaste Wife,</title>
+            <title level="a">The Wright's Chaste Wife.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,13 +80,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="76"/>
-        <ab type="imprint">1865. Furnivall, Frederick James. The Wright's Chaste Wife, by Adam of Cobsam, ed. F. J. Furnivall, E.E.T.S., Preface, p. vii.</ab>
+        
+        <ab type="imprint">1865. Furnivall, Frederick James. <hi rend="italic">The Wright's Chaste Wife</hi>, by Adam of Cobsam, ed. F. J. Furnivall, E.E.T.S., Preface, p. vii.</ab>
+        
         <ab type="quotation">
           <seg>Would that we knew as much of Adam of Cobsam as of
-our White-Rose king. He must have been one of the Chaucer
-breed. ...
-[To this a footnote was added in ed. 2, 1869, on Chaucer's
-Carpenter and the Milleres T.]</seg>
+            our White-Rose king. He must have been one of the Chaucer breed. . . .</seg>
+            
+          <seg>[To this a footnote was added in ed. 2, 1869, on Chaucer's Carpenter and the <hi rend="italic">Milleres T.</hi>]</seg>
         </ab>
       </div>
     </body>

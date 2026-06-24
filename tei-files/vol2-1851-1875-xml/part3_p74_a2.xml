@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1864, John Ruskin. Sesame and Lilies,</title>
+        <title>1864, John Ruskin. Sesame and Lilies.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
             <date cert="high" when="1864">1864</date>
-            <title level="a">Sesame and Lilies,</title>
+            <title level="a">Sesame and Lilies.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,12 +80,17 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="74"/>
-        <ab type="imprint">1864. Ruskin, John. Sesame and Lilies, Lecture ii, Of Queen's Gardens. [Delivered 14 Dec., 1864,] 1st vol. ed., 1865, p. 138. (Works, ed. E. T. Cook and A. Wedderburn, 1903-12, 39 vols., vol. xviii, pp. 118-19.)</ab>
+        
+        <ab type="imprint">1864. Ruskin, John. <hi rend="italic">Sesame and Lilies</hi>, Lecture ii, <hi rend="italic">Of Queen's Gardens</hi>. [Delivered 14 Dec., 1864,] 1st vol. ed., 1865, p. 138. (Works, ed. E. T. Cook and A. Wedderburn, 1903-12, 39 vols., vol. xviii, pp. 118-19.)</ab>
+        
         <ab type="quotation">
           <seg>Now I could multiply witness upon witness of this kind
-[of the queenly power of women] upon you if I had time.
-I would take Chaucer and show you why he wrote a Legend
-of Good Women; but no Legend of Good Men.</seg>
+            
+            <milestone unit="page" n="75"/>
+            
+            <add>[of the queenly power of women]</add> upon you if I had time.
+            I would take Chaucer and show you why he wrote a Legend
+            of Good Women; but no Legend of Good Men.</seg>
         </ab>
       </div>
     </body>

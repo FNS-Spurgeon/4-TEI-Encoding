@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1852, Edgar, Andrew.. Popular Literature,</title>
+        <title>1852, Andrew Edgar. Popular Literature.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/ ">Edgar, Andrew.</author>
+            <author cert="high" role="M">Edgar, Andrew</author>
             <date cert="high" when="1852">1852</date>
-            <title level="a">Popular Literature,</title>
+            <title level="a">Popular Literature.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,31 +83,34 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="9"/>
-        <ab type="imprint">1852. Edgar, Andrew. Popular Literature, [in] Tusculana, pp. 116, 118-19, 127-8.</ab>
+        
+        <ab type="imprint">1852. Edgar, Andrew. <hi rend="italic">Popular Literature</hi>, [in] <hi rend="italic">Tusculana</hi>, pp. 116, 118-19, 127-8.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 118] We never rise from their perusal [i. e. of the Canterbury
-[p. 119] phraseology, their popularity at the present day would be un¬
-Tales] without a conviction that, but for their antique
-bounded. . . They present to us men as they were, and in
-truth, as they always will be. . . The masterly narrative of
-Hume conveys but an imperfect notion of those times, in
-comparison with what may be derived from the "Canterbury
-Tales." We are presented with the very form and pressure of
-the age. . . We are admitted behind the scenes; we inspect
-the interior of society. We see causes beginning to operate of
-which we now enjoy the effects. We see the clergy meeting
-with the contempt and sneers of wise observers. . . We see
-the rising influence of the people. . . Then in addition to
-all this we have fancy and imagination shedding their radiance
-over all, romance so like truth, poetry so full of nature.
-Would not a writer of such powers, and such a character, but
-for the unfortunate drawback to which we have alluded, and
-which the failure of every attempt has rendered us almost
-hopeless of ever seeing removed, be likely to find favour in the
-eyes of a generation who pay such homage to the mirrored life
-of Shakespeare, and who take such delight in "the pictured
-page" of Scott?</seg>
-          <note type="footnote">Spurgeon's note: [This passage was quoted in extenso by a reviewer in the Gentleman's Magazine, March, 1858, new ser., vol. xxxix, pp. 286-7, and commended as "a little over wrought, but in the main just."]</note>
+          <seg><note place="margin">[p. 118]</note> We never rise from their perusal <add>[i. e. of the Canterbury
+            Tales]</add> without a conviction that, but for their antique
+            <note place="margin">[p. 119]</note> phraseology, their popularity at the present day would be
+            unbounded. . . They present to us men as they were, and in
+            truth, as they always will be. . . The masterly narrative of
+            Hume conveys but an imperfect notion of those times, in
+            comparison with what may be derived from the "Canterbury
+            Tales." We are presented with the very form and pressure of
+            the age. . . We are admitted behind the scenes; we inspect
+            the interior of society. We see causes beginning to operate of
+            which we now enjoy the effects. We see the clergy meeting
+            with the contempt and sneers of wise observers. . . We see
+            the rising influence of the people. . . Then in addition to
+            all this we have fancy and imagination shedding their radiance
+            over all, romance so like truth, poetry so full of nature.
+            Would not a writer of such powers, and such a character, but
+            for the unfortunate drawback to which we have alluded, and
+            which the failure of every attempt has rendered us almost
+            hopeless of ever seeing removed, be likely to find favour in the
+            eyes of a generation who pay such homage to the mirrored life
+            of Shakespeare, and who take such delight in "the pictured
+            page" of Scott?
+            <note type="footnote">Spurgeon's note: [This passage was quoted in extenso by a reviewer in the Gentleman's Magazine, March, 1858, new ser., vol. xxxix, pp. 286-7, and commended as "a little over wrought, but in the main just."]</note>
+          </seg>
         </ab>
       </div>
     </body>

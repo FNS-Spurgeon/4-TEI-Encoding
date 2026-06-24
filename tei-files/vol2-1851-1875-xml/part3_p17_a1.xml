@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1854, Arthur Hugh Clough. Letter to F. J. Child,</title>
+        <title>1854, Arthur Hugh Clough. Letter to F. J. Child.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/68944993">Arthur Hugh Clough</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/68944993">Clough, Arthur Hugh</author>
             <date cert="high" when="1854">1854</date>
-            <title level="a">Letter to F. J. Child,</title>
+            <title level="a">Letter to F. J. Child.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,33 +82,36 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="17"/>
-        <ab type="imprint">1854. Clough, Arthur Hugh. Letter to F. J. Child, [dated] Sept. 2, 1854. [printed in] Prose Remains of A. H. Clough, 1888, p. 228-9.</ab>
+        
+        <ab type="imprint">1854. Clough, Arthur Hugh. <hi rend="italic">Letter to F. J. Child</hi>, [dated] Sept. 2, 1854. [printed in] Prose Remains of A. H. Clough, 1888, p. 228-9.</ab>
+        
         <ab type="quotation">
           <seg>I hope the Chaucer is going on prosperously. I think you
-should adopt means to make the metre quite obvious, at any
-sacrifice of typographical prettiness. Yet I don't like the
-grave accent, 'When Zephyrus eke with his sotè breth,' and
-should almost prefer the ĕ, sotĕ, but that it seems unmeaning
-to use a mark of quantity. Yet it is not a case of accent,
-either. I think I should in one way or another mark every
-syllable that would not now be pronounced, grevĕs and levès
-and Emperourè’s daughter—the most correct mark would be
-ë: Emperourë’s; sotë. And I should prefix to the whole a
-very plain and short statement of the usage in these points.
-I suppose there is not much doubt about a few general rules,
-though Chaucer did not regularly observe them, as, for ex¬
-ample, the use of the ĕ in adjectives after definite articles,
-which it seems to me he omits occasionally, with French
-adjectives, as if it was a matter of ear rather than rule. So
-also with such Saxon dissyllables, as tymĕ, which is not in¬
-variably a dissyllable, I think. And yet it would be worth
-while giving a list of such words as are liable to be dissyllables.
-However, ere this, I daresay you have settled all these pre¬
-liminaries. I don’t quite see what you should do about the
-Miller's and the Reve's Tales. I think explanation might be
-[p. 229] a little retrenched there, so as to leave them in the "decent
-obscurity of a learned language.</seg>
-          <note type="footnote">Spurgeon's note: [For another letter by Clough on the same subject see above, 1853.]</note>
+            should adopt means to make the metre quite obvious, at any
+            sacrifice of typographical prettiness. Yet I don't like the
+            grave accent, 'When Zephyrus eke with his sotè breth,' and
+            should almost prefer the ĕ, sotĕ, but that it seems unmeaning
+            to use a mark of quantity. Yet it is not a case of accent,
+            either. I think I should in one way or another mark every
+            syllable that would not now be pronounced, grevĕs and levès
+            and Emperourè’s daughter—the most correct mark would be
+            ë: Emperourë’s; sotë. And I should prefix to the whole a
+            very plain and short statement of the usage in these points.
+            I suppose there is not much doubt about a few general rules,
+            though Chaucer did not regularly observe them, as, for ex¬
+            ample, the use of the ĕ in adjectives after definite articles,
+            which it seems to me he omits occasionally, with French
+            adjectives, as if it was a matter of ear rather than rule. So
+            also with such Saxon dissyllables, as tymĕ, which is not in¬
+            variably a dissyllable, I think. And yet it would be worth
+            while giving a list of such words as are liable to be dissyllables.
+            However, ere this, I daresay you have settled all these pre¬
+            liminaries. I don’t quite see what you should do about the
+            Miller's and the Reve's Tales. I think explanation might be
+            <note place="margin">[p. 229]</note> a little retrenched there, so as to leave them in the "decent
+            obscurity of a learned language.
+            <note type="footnote">Spurgeon's note: [For another letter by Clough on the same subject see above, 1853.]</note>
+          </seg>
         </ab>
       </div>
     </body>

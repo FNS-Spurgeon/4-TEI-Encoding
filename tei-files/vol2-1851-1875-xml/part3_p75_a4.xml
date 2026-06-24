@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/59120251">Edward Burne-Jones</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/59120251">Burne-Jones, Edward</author>
             <date cert="high" when="1865">1865</date>
             <title level="a">Chaucer's Dream.</title>
           </analytic>
@@ -71,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#illustrations" target="#burneJones"/>
         <catRef scheme="#works" target="#isleLadies"/>
       </textClass>
     </profileDesc>
@@ -83,15 +83,17 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="75"/>
-        <ab type="imprint">1865. Burne-Jones, Sir Edward Coley. Chaucer's Dream. </ab>
+        
+        <ab type="imprint">1865. Burne-Jones, Sir Edward Coley. <hi rend="italic">Chaucer's Dream</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>[A water-colour, illustrating the non-Chaucerian Isle of
-Ladies. Burne-Jones painted a larger and much altered
-version in 1871. For other Chaucerian subjects painted by
-him see above, 1858, 1861, 1862, 1864. He also painted, in
-1874 and succeeding years, a series of scenes from the
-Romaunt of the Rose. See M. Bell, Sir E. Burne-Jones, 1899,
-and O. G. Destrée, Les Préraphaélites [1895].]</seg>
+          <seg type="editorial">[A water-colour, illustrating the non-Chaucerian Isle of
+            Ladies. Burne-Jones painted a larger and much altered
+            version in 1871. For other Chaucerian subjects painted by
+            him see above, 1858, 1861, 1862, 1864. He also painted, in
+            1874 and succeeding years, a series of scenes from the
+            <hi rend="italic">Romaunt of the Rose</hi>. See M. Bell, <hi rend="italic">Sir E. Burne-Jones</hi>, 1899,
+            and O. G. Destrée, <hi rend="italic">Les Préraphaélites</hi> [1895].]</seg>
         </ab>
       </div>
     </body>

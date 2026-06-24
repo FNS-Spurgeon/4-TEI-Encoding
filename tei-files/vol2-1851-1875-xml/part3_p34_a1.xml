@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n.b. 1856], Alexander Smith. Sydney Dobell,</title>
+        <title>[n.b. 1856], Alexander Smith. Sydney Dobell.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/14786280">Alexander Smith</author>
-            <date cert="low" when="[n.b. 1856]">[n.b. 1856]</date>
-            <title level="a">Sydney Dobell,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/14786280">Smith, Alexander</author>
+            <date cert="low" when="1856">[n.b. 1856]</date>
+            <title level="a">Sydney Dobell.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,17 +80,20 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="34"/>
-        <ab type="imprint">[n.b. 1856.] Smith, Alexander. Sydney Dobell, [in] Last Leaves, 1868, p. 179.</ab>
+        
+        <ab type="imprint">[n.b. 1856.] Smith, Alexander. <hi rend="italic">Sydney Dobell</hi>, [in] Last Leaves, 1868, p. 179.<note type="footnote">Spurgeon's note: [Written after the publication (in 1856) of Dobell's <hi rend="italic">England in Time of War</hi>. Smith died in 1867.]</note></ab>
+        
         <ab type="quotation">
-          <seg>Chaucer and Spenser are the fountain-heads of all succeed¬
-ing English poetry. Chaucer is the father of the humorous,
-kindly, dramatic, genially-lyrical men; Spenser of the intense,
-allegorical, didactic, remote, and, by comparison, unsocial men.
-Shakespeare, Dryden, Burns, Byron, Browning, draw descent
-from Chaucer. Milton, Young, Wordsworth, Shelley, and
-Tennyson from Spenser.</seg>
-          <note type="footnote">Spurgeon's note: [Written after the publication (in 1856) of Dobell's England in Time ol War. Smith
-died in 1867.]</note>
+          <seg>Chaucer and Spenser are the fountain-heads of all succeeding
+            English poetry. Chaucer is the father of the humorous,
+            kindly, dramatic, genially-lyrical men; Spenser of the intense,
+            allegorical, didactic, remote, and, by comparison, unsocial men.
+            
+            <milestone unit="page" n="35"/>
+            
+            Shakespeare, Dryden, Burns, Byron, Browning, draw descent
+            from Chaucer. Milton, Young, Wordsworth, Shelley, and
+            Tennyson from Spenser.</seg>
         </ab>
       </div>
     </body>

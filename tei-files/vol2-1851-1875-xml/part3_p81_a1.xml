@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
             <date cert="high" when="1866">1866</date>
             <title level="a">The Poetical Works of Geoffrey Chaucer.</title>
           </analytic>
@@ -71,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#editionsCompleteWorks"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -82,27 +82,31 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="81"/>
-        <ab type="imprint">1866. Chaucer, Geoffrey The Poetical Works of Geoffrey Chaucer. Aldine edition, ed. R. Morris, 6 vols.</ab>
+        
+        <ab type="imprint">1866. The Poetical Works of Geoffrey Chaucer. Aldine edition, ed. R. Morris, 6 vols.</ab>
+        
         <ab type="quotation">
-          <seg>[With Sir N. H. Nicolas' Life, and Tyrwhitt's Essay and
-Discourse, and a glossary. To the Essay are appended some
-sections on Chaucer's metres by W. W. Skeat. The Court of
-Love and the Cuckow and the Nightingale, Chaucer's Dream
-(The Isle of Ladies) and the Flour and the Lefe are included
-in the text.]
-[Preface, In this edition of Chaucer's poetical works Tyrwhitt's text
-p. v]
-has been replaced by one based upon manuscripts ...
-No better manuscript of the Canterbury Tales could be
-found than the Harleian manuscript, 7334, which is far more
-uniform and accurate than any other I have examined; it has,
-therefore, been selected and faithfully adhered to throughout
-[pp. vi- as the text of the present edition. [MS. Lansdowne 851 and
-viii]
-the MSS. employed by Tyrwhitt also used to check MS.
-Harl. Examples of successful emendations introduced, and of
-the final e. A list of the poems included and of the MSS.
-used.]</seg>
+          <seg type="editorial">[With Sir N. H. Nicolas' Life, and Tyrwhitt's Essay and
+            Discourse, and a glossary. To the Essay are appended some
+            sections on Chaucer's metres by W. W. Skeat. The <hi rend="italic">Court of
+            Love</hi> and the <hi rend="italic">Cuckow and the Nightingale</hi>, <hi rend="italic">Chaucer's Dream</hi>
+            (<hi rend="italic">The Isle of Ladies</hi>) and the <hi rend="italic">Flour and the Lefe</hi> are included
+            in the text.]</seg>
+            
+          <seg><note place="margin">[Preface, p. v]</note> In this edition of Chaucer's poetical works Tyrwhitt's text
+            has been replaced by one based upon manuscripts . . .</seg>
+            
+          <seg>No better manuscript of the Canterbury Tales could be
+            found than the Harleian manuscript, 7334, which is far more
+            uniform and accurate than any other I have examined; it has,
+            therefore, been selected and faithfully adhered to throughout
+            as the text of the present edition.</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. vi-viii]</note> [MS. Lansdowne 851 and
+            the MSS. employed by Tyrwhitt also used to check MS.
+            Harl. Examples of successful emendations introduced, and of
+            the final e. A list of the poems included and of the MSS.
+            used.]</seg>
         </ab>
       </div>
     </body>

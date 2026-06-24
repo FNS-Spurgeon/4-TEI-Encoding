@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
             <date cert="high" when="1864">1864</date>
             <title level="a">Works.</title>
           </analytic>
@@ -71,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#editionsCompleteWorks"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -82,22 +82,27 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="71"/>
-        <ab type="imprint">1864. Chaucer, Geoffrey. Works. [Projected editions.]</ab>
+        
+        <ab type="imprint">1864. Works. [Projected editions.]</ab>
+        
         <ab type="quotation">
-          <seg>[In 1864 Professor Earle, W. Aldis Wright and Henry
-Bradshaw undertook to edit for the Clarendon Press a standard
-library edition of Chaucer. Work on it was in progress in
-1866 and 1867. In 1870 Professor Earle gave up the editor¬
-ship-in-chief, and, after refusals by Aldis Wright and Skeat,
-Bradshaw accepted it, but soon found that he had not the
-time.
-Also in 1864 Alexander Macmillan proposed to Bradshaw a
-small edition in the Globe series. So late as 1879, in con¬
-junction with Furnivall, Bradshaw had some specimen pages
-printed, but no more came of it. See for these schemes,
-G. W. Prothero, A Memoir of Henry Bradshaw, 1888, pp.
-108-9, 223-5, and, for Bradshaw’s Chaucer studies in general,
-ib., pp. 14, 122, 143, 212-23.]</seg>
+          <seg type="editorial">[In 1864 Professor Earle, W. Aldis Wright and Henry
+            Bradshaw undertook to edit for the Clarendon Press a standard
+            library edition of Chaucer. Work on it was in progress in
+            1866 and 1867. In 1870 Professor Earle gave up the editorship-
+            in-chief, and, after refusals by Aldis Wright and Skeat,
+            Bradshaw accepted it, but soon found that he had not the
+            time.
+            <lb/>Also in 1864 Alexander Macmillan proposed to Bradshaw a
+            small edition in the Globe series. So late as 1879, in
+            conjunction with Furnivall, Bradshaw had some specimen pages
+            
+            <milestone unit="page" n="72"/>
+            
+            printed, but no more came of it. See for these schemes,
+            G. W. Prothero, <hi rend="italic">A Memoir of Henry Bradshaw</hi>, 1888, pp.
+            108-9, 223-5, and, for Bradshaw’s Chaucer studies in general,
+            ib., pp. 14, 122, 143, 212-23.]</seg>
         </ab>
       </div>
     </body>

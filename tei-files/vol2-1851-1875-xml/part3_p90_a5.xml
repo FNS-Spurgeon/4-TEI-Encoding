@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1867, Richard Morris. Specimens of Early English ...</title>
+        <title>1867, Richard Morris. Specimens of Early English.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/14792182">Richard Morris</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/14792182">Morris, Richard</author>
             <date cert="high" when="1867">1867</date>
-            <title level="a">Specimens of Early English ...</title>
+            <title level="a">Specimens of Early English.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,16 +80,20 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="90"/>
-        <ab type="imprint">1867. Morris, Richard. Specimens of Early English ... A.D. 1250-A.D. 1400, with grammatical introduction, notes and glossary, Oxford. (Clarendon Press Series.)</ab>
+        
+        <ab type="imprint">1867. Morris, Richard. <hi rend="italic">Specimens of Early English</hi> . . . A.D. 1250-A.D. 1400, with grammatical introduction, notes and glossary, Oxford. (Clarendon Press Series.)</ab>
+        
         <ab type="quotation">
-          <seg>[Various references to Chaucer in the Grammatical
-Introduction.
-The specimens from Chaucer (pp. 345-366) are the
-Pardoneres Tale, and the Prioresse Tale. In the preface
-(p. vii) the editor says : "the extracts from Chaucer's Canter¬
-bury Tales are limited to two short narratives, because a more
-extended selection, by the present editor, is in the press" (i. e.
-the Prologue, etc., q.v. above).]</seg>
+          <seg type="editorial">[Various references to Chaucer in the Grammatical Introduction.
+            The specimens from Chaucer (pp. 345-366) are the
+            
+            <milestone unit="page" n="91"/>
+            
+            <hi rend="italic">Pardoneres Tale</hi>, and the <hi rend="italic">Prioresse Tale</hi>. In the preface
+            (p. vii) the editor says : "the extracts from Chaucer's Canterbury 
+            Tales are limited to two short narratives, because a more
+            extended selection, by the present editor, is in the press" (i. e.
+            the Prologue, etc., q.v. above).]</seg>
         </ab>
       </div>
     </body>

@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/59120251">Edward Burne-Jones</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/59120251">Burne-Jones, Edward</author>
             <date cert="high" when="1862">1862</date>
             <title level="a">Designs to illustrate "The Legend of Good Women."</title>
           </analytic>
@@ -72,7 +72,7 @@
       </langUsage>
       <textClass>
         <catRef scheme="#biography" target="#modern"/>
-        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#illustrations" target="#burneJones"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -83,12 +83,13 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="61"/>
-        <ab type="imprint">1862. Burne-Jones, Sir Edward Coley. Designs to illustrate "The Legend of Good Women." </ab>
+        
+        <ab type="imprint">1862. Burne-Jones, Sir Edward Coley. <hi rend="italic">Designs to illustrate "The Legend of Good Women."</hi></ab>
+        
         <ab type="quotation">
-          <seg>[Some of these were executed in glass in 1864 by Morris, and
-are at Peterhouse, Cambridge, as also is a portrait of Chaucer,
-designed by Burne-Jones in 1874. See M. Bell, Sir E. Burne-
-Jones, 1899, p. 32.]</seg>
+          <seg type="editorial">[Some of these were executed in glass in 1864 by Morris, and
+            are at Peterhouse, Cambridge, as also is a portrait of Chaucer,
+            designed by Burne-Jones in 1874. See M. Bell, <hi rend="italic">Sir E. Burne-Jones</hi>, 1899, p. 32.]</seg>
         </ab>
       </div>
     </body>

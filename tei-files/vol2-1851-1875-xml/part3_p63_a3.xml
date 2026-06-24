@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p63_a3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p63_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1862, Edward Bulwer-Lytton. Essay on the Influence of Love upon Literature and Real Life,</title>
+        <title>1862, George Perkins Marsh. Origin and History of the English Language.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/99871326">Edward Bulwer-Lytton</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/17288270">Marsh, George Perkins</author>
             <date cert="high" when="1862">1862</date>
-            <title level="a">Essay on the Influence of Love upon Literature and Real Life,</title>
+            <title level="a">Origin and History of the English Language</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -47,7 +47,7 @@
             </imprint>
             <biblScope unit="volume">2</biblScope>
             <biblScope unit="part">III</biblScope>
-            <biblScope unit="page">63</biblScope>
+            <biblScope unit="page">63-64</biblScope>
           </monogr>
         </biblStruct>
       </sourceDesc>
@@ -70,7 +70,10 @@
       <langUsage>
         <language ident="en">English</language>
       </langUsage>
-      <textClass/>
+      <textClass>
+        <catRef scheme="#criticism" target="#importationDenied"/>
+        <catRef scheme="#criticism" target="#language"/>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2026-06-15" who="#EL">Creation of the TEI file and enrichment of data</change>
@@ -80,15 +83,46 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="63"/>
-        <ab type="imprint">1862. Lytton, Edward Bulwer, Lord. Essay on the Influence of Love upon Literature and Real Life, [first printed in Miscellaneous Prose Works, 1868, 3 vols., vol. ii, p. 371-2; and reprinted in Works, Knebworth edn., Quarterly Essays, 1875, pp. 351-2.]</ab>
+        
+        <ab type="imprint">1862. Marsh, George Perkins. <hi rend="italic">Origin and History of the English Language</hi> [based on lectures delivered at Boston, U.S.A., in 1860-61], London, 1862, pp. 10, 17, 19, 134-6, 138, 147, 196-8, 215-6, 284, 286-7, 297, 303, 315-7, 335, 365, 372; Lecture IX, Chaucer and Gower, pp. 379-453, 454, 455, 456, 458, 463, 465, 482-5, 506, 511, 566, 569-70.<note type="footnote">Spurgeon's note: [For Marsh's earlier series of lectures see above, 1858-9.]</note></ab>
+        
         <ab type="quotation">
-          <seg>[p. 351] Chaucer receives him [Love] from the Provençal and the
-Italian, as they had received him from the Saracen and the
-Arab. Where Chaucer, however, appears to write most from
-his own Anglo-Norman inspiration, love is not very serious. ...
-[p.352] We may doubt whether Chaucer experienced in his own
-life more of actual love than a chivalrous fantasy, or a light
-intrigue.</seg>
+          <seg type="editorial">[Lecture ix begins with a general account of the English
+            language at Chaucer's birth, pp. 379-81.]</seg>
+            
+          <seg><note place="margin">[p. 381]</note> Chaucer did not introduce into the English language words
+            <note place="margin">[p. 382]</note> which it had rejected as aliens before, but out of those which
+            had been already received he invested the better portion with
+            the rights of citizenship, and stamped them with the mint
+            mark of English coinage. . . .</seg>
+            
+          <seg>Of the Romance words found in his writings, not much
+            above one hundred have been suffered to become obsolete,
+            while a much larger number of Anglo-Saxon words employed
+            by him have passed altogether out of use.</seg>
+            
+          <seg type="editorial">[Linguistic conditions ready for Chaucer, p. 385. Chaucer's
+            introduction of Romance words less than is supposed; the
+            translation of the Romaunt is used in evidence, pp. 390-1.
+            
+            <milestone unit="page" n="64"/>
+            
+            Chaucer not an historical poet, pp. 393-5. Chaucer's sources
+            and his acknowledgments: contents of books common property
+            in the middle ages, pp. 395-99. His Italian sources, pp. 400-1.
+            Discussion of the <hi rend="italic">Romaunt</hi>, pp. 401-7.]</seg>
+            
+          <seg><note place="margin">[p. 418]</note> It cannot be said that the poem <add>[<hi rend="italic">Troilus</hi>]</add> is essentially
+            improved by the changes of the translator, though, in some
+            passages, great skill in the use of words is exhibited, and the
+            native humour of Chaucer pervades many portions of the
+            story. . . .</seg>
+            
+          <seg>[<hi rend="italic">The Flour and the Lefe</hi> discussed, pp. 414-6. General
+            account of the <hi rend="italic">Canterbury Tales</hi>, pp. 417-31.]</seg>
+            
+          <seg><note place="margin">[p. 419]</note> He is essentially a dramatist, and if his great work
+            does not appear in the conventional dramatic form, it is an accident of the time.</seg>
         </ab>
       </div>
     </body>

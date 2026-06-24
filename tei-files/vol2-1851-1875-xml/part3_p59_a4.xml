@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1861, John Ruskin. Tree Twigs,</title>
+        <title>1861, John Ruskin. Tree Twigs.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
             <date cert="high" when="1861">1861</date>
-            <title level="a">Tree Twigs,</title>
+            <title level="a">Tree Twigs.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,18 +80,21 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="59"/>
-        <ab type="imprint">1861. Ruskin, John. Tree Twigs, [a lecture delivered at the Royal Institution, April 19, 1861, printed in] The London Review, April 27, 1861, pp. 476-7. (Works, ed. E. T. Cook and A. Wedderburn, 1903-12, 39 vols., vol. vii, p. 474.)</ab>
+        
+        <ab type="imprint">1861. Ruskin, John. <hi rend="italic">Tree Twigs</hi>, [a lecture delivered at the Royal Institution, April 19, 1861, printed in] The London Review, April 27, 1861, pp. 476-7. (Works, ed. E. T. Cook and A. Wedderburn, 1903-12, 39 vols., vol. vii, p. 474.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 474] The main function of the flower, therefore, is accomplished
-only in its death; that of the leaf depends on prolonged work
-during its life.
-This difference in the operation of the flower and leaf has
-attracted the attention of all great nations, as a type of the
-various conditions of the life of man. Chaucer's poem of
-the Flower and the Leaf, in which the strongest knights and
-noblest ladies worship the goddess of the leaf in preference to
-the goddess of the flower, is perhaps the clearest expression of
-the feeling of the middle ages in this respect.</seg>
+          <seg><note place="margin">[p. 474]</note> The main function of the flower, therefore, is accomplished
+            only in its death; that of the leaf depends on prolonged work
+            during its life.</seg>
+          
+          <seg>This difference in the operation of the flower and leaf has
+            attracted the attention of all great nations, as a type of the
+            various conditions of the life of man. Chaucer's poem of
+            the Flower and the Leaf, in which the strongest knights and
+            noblest ladies worship the goddess of the leaf in preference to
+            the goddess of the flower, is perhaps the clearest expression of
+            the feeling of the middle ages in this respect.</seg>
         </ab>
       </div>
     </body>

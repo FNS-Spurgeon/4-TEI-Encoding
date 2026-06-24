@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/22279835">Charles Knight</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/22279835">Knight, Charles</author>
             <date cert="high" when="1856">1856</date>
             <title level="a">The Popular History of England.</title>
           </analytic>
@@ -80,18 +80,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="30"/>
-        <ab type="imprint">1856. Knight, Charles. The Popular History of England. 8 vols. 1856-62; vol. i, 479-83, 489; vol. ii, pp. 11-13.</ab>
+        
+        <ab type="imprint">1856. Knight, Charles. <hi rend="italic">The Popular History of England</hi>. 8 vols. 1856-62; vol. i, 479-83, 489; vol. ii, pp. 11-13.</ab>
+        
         <ab type="quotation">
-          <seg>[vol. i.
-pp. 479-
-[Social classes in the fourteenth century illustrated by the
-83]
-Statute of Apparel, 1363, and Chaucer's pilgrims; quotations
-from Prol.]
-[vol. ii, [Chaucer a contributor to and a symptom of the spread of
-pp. 11-
-18]
-knowledge in his day.]</seg>
+          <seg type="editorial"><note place="margin">[vol. i, pp. 479-83]</note>
+            [Social classes in the fourteenth century illustrated by the
+            Statute of Apparel, 1363, and Chaucer's pilgrims; quotations from <hi rend="italic">Prol</hi>.]</seg>
+            
+          <seg type="editorial"><note place="margin">[vol. ii, pp. 11-18]</note>
+            [Chaucer a contributor to and a symptom of the spread of knowledge in his day.]</seg>
         </ab>
       </div>
     </body>

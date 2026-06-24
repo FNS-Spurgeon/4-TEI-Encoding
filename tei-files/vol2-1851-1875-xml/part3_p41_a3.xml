@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/59120251">Edward Burne-Jones</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/59120251">Burne-Jones, Edward</author>
             <date cert="high" when="1858">1858</date>
             <title level="a">The Prioresses Tale.</title>
           </analytic>
@@ -71,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#illustrations" target="#burneJones"/>
         <catRef scheme="#works" target="#prioressTale"/>
       </textClass>
     </profileDesc>
@@ -83,15 +83,17 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="41"/>
-        <ab type="imprint">1858. Burne-Jones, Sir Edward Coley. The Prioresses Tale. </ab>
+        
+        <ab type="imprint">1858. Burne-Jones, Sir Edward Coley. <hi rend="italic">The Prioresses Tale</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>[A painting in oils on a cabinet belonging to William
-Morris, representing the Virgin placing the grain on the "little
-clergeon’s" tongue. Burne-Jones began a replica of this picture
-in 1869, which was only completed and exhibited in 1898.
-See Sir Edward Burne-Jones, by Malcolm Bell, 1899, pp. 40, 70.
-See also the list of Burne-Jones's works by J. P. Anderson in
-O. G. Destrée, Les Préraphaélites, Bruxelles, [1895].]</seg>
+          <seg type="editorial">[A painting in oils on a cabinet belonging to William
+            Morris, representing the Virgin placing the grain on the "little
+            clergeon’s" tongue. Burne-Jones began a replica of this picture
+            in 1869, which was only completed and exhibited in 1898.
+            See <hi rend="italic">Sir Edward Burne-Jones</hi>, by Malcolm Bell, 1899, pp. 40, 70.
+            See also the list of Burne-Jones's works by J. P. Anderson in
+            O. G. Destrée, <hi rend="italic">Les Préraphaélites</hi>, Bruxelles, [1895].]</seg>
         </ab>
       </div>
     </body>

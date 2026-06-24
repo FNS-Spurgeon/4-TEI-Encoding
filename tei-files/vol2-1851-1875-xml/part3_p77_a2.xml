@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1865, Walter Farquhar Hook. Lives of the Archbishops of Canterbury,</title>
+        <title>1865, Walter Farquhar Hook. Lives of the Archbishops of Canterbury.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/5300299">Walter Farquhar Hook</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/5300299">Hook, Walter Farquhar</author>
             <date cert="high" when="1865">1865</date>
-            <title level="a">Lives of the Archbishops of Canterbury,</title>
+            <title level="a">Lives of the Archbishops of Canterbury.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,15 +80,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="77"/>
-        <ab type="imprint">1865. Hook, Walter Farquhar. Lives of the Archbishops of Canterbury, 1860-76, 12 vols., vol. iii, 1865, pp. 37n., 40-1, 47, 67, 69n.</ab>
+        
+        <ab type="imprint">1865. Hook, Walter Farquhar. <hi rend="italic">Lives of the Archbishops of Canterbury</hi>, 1860-76, 12 vols., vol. iii, 1865, pp. 37n., 40-1, 47, 67, 69n.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 67] [Against Chaucer's evidence of the demoralisation of the
-clergy of his time must be set his picture of a parish priest.]
-[p. 69] [Identification of Chaucer's good priest with Wyclif im¬
-possible; if intended by Chaucer, it must have been as a
-masked sarcasm. Robert Bell quoted. Further improbability
-"that the gay and licentious poet should have been intimate
-with the reformer."]</seg>
+          <seg><note place="margin">[p. 67]</note> [Against Chaucer's evidence of the demoralisation of the
+            clergy of his time must be set his picture of a parish priest.]</seg>
+            
+          <seg><note place="margin">[p. 69]</note> [Identification of Chaucer's good priest with Wyclif im¬
+            possible; if intended by Chaucer, it must have been as a
+            masked sarcasm. Robert Bell quoted. Further improbability
+            "that the gay and licentious poet should have been intimate
+            with the reformer."]</seg>
         </ab>
       </div>
     </body>

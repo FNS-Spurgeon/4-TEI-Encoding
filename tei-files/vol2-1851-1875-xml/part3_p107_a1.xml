@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1870, Brae, Andrew Edmund.. The Treatise of the Astrolabe of Geoffrey Chaucer,</title>
+        <title>1870, Andrew Edmund Brae. The Treatise of the Astrolabe of Geoffrey Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/53967789">Brae, Andrew Edmund.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/53967789">Brae, Andrew Edmund</author>
             <date cert="high" when="1870">1870</date>
-            <title level="a">The Treatise of the Astrolabe of Geoffrey Chaucer,</title>
+            <title level="a">The Treatise of the Astrolabe of Geoffrey Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,12 +82,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="107"/>
-        <ab type="imprint">1870. Brae, Andrew Edmund. The Treatise of the Astrolabe of Geoffrey Chaucer, edited by A. E. Brae, with notes and illustrations.</ab>
+        
+        <ab type="imprint">1870. Brae, Andrew Edmund. <hi rend="italic">The Treatise of the Astrolabe of Geoffrey Chaucer</hi>, edited by A. E. Brae, with notes and illustrations.</ab>
+        
         <ab type="quotation">
-          <seg>[The volume contains seven illustrations of Chaucer's Astro¬
-labe, with a text of his treatise, an Appendix reprinting
-essays on the astronomy of the Canterbury Tales; and a
-series of notes on Chaucer’s astronomy.]</seg>
+          <seg type="editorial">[The volume contains seven illustrations of Chaucer's Astrolabe,
+            with a text of his treatise, an Appendix reprinting
+            essays on the astronomy of the <hi rend="italic">Canterbury Tales</hi>; and a
+            series of notes on Chaucer’s astronomy.]</seg>
         </ab>
       </div>
     </body>

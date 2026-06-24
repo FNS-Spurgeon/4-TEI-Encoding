@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/59120251">Edward Burne-Jones</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/59120251">Burne-Jones, Edward</author>
             <date cert="high" when="1864">1864</date>
             <title level="a">The Dream of Good Women.</title>
           </analytic>
@@ -71,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#illustrations" target="#burneJones"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -82,10 +82,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="72"/>
-        <ab type="imprint">1864. Burne-Jones, Sir Edward Coley. The Dream of Good Women. </ab>
-        <ab type="quotation">
-          <seg>[A stained glass window, at Peterhouse, Cambridge.]</seg>
-        </ab>
+        
+        <ab type="imprint">1864. Burne-Jones, Sir Edward Coley. <hi rend="italic">The Dream of Good Women</hi>. [A stained glass window, at Peterhouse, Cambridge.]</ab>
       </div>
     </body>
   </text>

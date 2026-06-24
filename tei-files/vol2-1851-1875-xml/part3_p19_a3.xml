@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1854, Unknown. The Crystal Palace,</title>
+        <title>1854, Unknown. The Crystal Palace.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -34,7 +34,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1854">1854</date>
-            <title level="a">The Crystal Palace,</title>
+            <title level="a">The Crystal Palace.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,17 +82,26 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="19"/>
-        <ab type="imprint">1854. Unknown. The Crystal Palace, [in] Blackwood's Edinburgh Magazine, Sept. 1854, vol. Ixxvi, p. 335.</ab>
+        
+        <ab type="imprint">1854. Unknown. <hi rend="italic">The Crystal Palace</hi>, [in] Blackwood's Edinburgh Magazine, Sept. 1854, vol. lxxvi, p. 335.</ab>
+        
         <ab type="quotation">
           <seg>We summon then, our oldest poet, to celebrate as afar off,
-for coming time, our newest Crystal Palace and its wonders, in
-OF THE CRYSTAL PALACE.
-CHAUCER'S DREAM
-'As I slept I dreamt I was
-Within a temple made of glass ...
-Of metal that shone out full clear. ...
-[Hous of Fame, ll. 119-27, and other passages strung together.]</seg>
-          <note type="footnote">Spurgeon's note: [For a parallel see above, 1851, Notes and Queries, May 10.]</note>
+            for coming time, our newest Crystal Palace and its wonders, in
+            
+            <milestone unit="page" n="20"/>
+            
+            <lg>
+              <head><lb/>OF THE CRYSTAL PALACE.
+              <lb/>CHAUCER'S DREAM</head>
+              
+              <l>'As I slept I dreamt I was</l>
+              <l>Within a temple made of glass . . .</l>
+              <l>Of metal that shone out full clear. . . .</l>
+              <note type="footnote">Spurgeon's note: [For a parallel see above, 1851, Notes and Queries, May 10.]</note>
+              <note place="right">[<hi rend="italic">Hous of Fame</hi>, ll. 119-27, and other passages strung together.]</note>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

@@ -32,8 +32,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/66591">Richard Watson Dixon</author>
-            <date cert="low" when="[c. 1855?]">[c. 1855?]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/66591">Dixon, Richard Watson</author>
+            <date cert="low" when="1855">[c. 1855?]</date>
             <title level="a">A Wedding Scene from Chaucer.</title>
           </analytic>
           <monogr>
@@ -71,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#illustrations" target="#dixon"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -82,20 +82,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="21"/>
-        <ab type="imprint">[c. 1855?] Dixon, Richard Watson. A Wedding Scene from Chaucer. </ab>
+        
+        <ab type="imprint">[c. 1855?] Dixon, Richard Watson. A Wedding Scene from Chaucer.</ab>
+        
         <ab type="quotation">
-          <seg>to H. C. Beeching, Dict. Nat. Biog., 1st Suppl., vol. ii, 1901,
-[A painting, the only one of Dixon's that survives, according
-p. 139. Dixon was a college friend of William Morris and
-Burne-Jones, and no doubt shared their readings in Chaucer
-(see below, 1855, Morris). Dean Beeching further notes (ib.
-p. 140) that 'Dixon had a great look of Chaucer as he appears
-in Hoccleve's portrait, and the resemblance was more than
-external, reaching to a characteristic and humorous interest in
-all sorts and conditions of people.' That the same resemblance
-was also noticed in Morris and in D. G. Rossetti (q.v. above,
-1845, F. M. Brown) is perhaps only a sign of the enthusiasm
-of the Pre-raphaelites for Chaucer.]</seg>
+          <seg type="editorial">[A painting, the only one of Dixon's that survives, according
+            to H. C. Beeching, <hi rend="italic">Dict. Nat. Biog.</hi>, 1st Suppl., vol. ii, 1901,
+            p. 139. Dixon was a college friend of William Morris and
+            Burne-Jones, and no doubt shared their readings in Chaucer
+            (see below, 1855, Morris). Dean Beeching further notes (ib.
+            p. 140) that 'Dixon had a great look of Chaucer as he appears
+            in Hoccleve's portrait, and the resemblance was more than
+            external, reaching to a characteristic and humorous interest in
+            all sorts and conditions of people.' That the same resemblance
+            was also noticed in Morris and in D. G. Rossetti (q.v. above,
+            1845, F. M. Brown) is perhaps only a sign of the enthusiasm
+            of the Pre-raphaelites for Chaucer.]</seg>
         </ab>
       </div>
     </body>

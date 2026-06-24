@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1865, Frederick Denison Maurice. On Books,</title>
+        <title>1865, Frederick Denison Maurice. On Books.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/37075904">Frederick Denison Maurice</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/37075904">Maurice, Frederick Denison</author>
             <date cert="high" when="1865">1865</date>
-            <title level="a">On Books,</title>
+            <title level="a">On Books.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,7 +71,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#works" target="#criticism"/>
       </textClass>
     </profileDesc>
@@ -83,48 +83,52 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="78"/>
-        <ab type="imprint">1865. Maurice, Frederick Denison. On Books, printed in] The Friendship of Books and other Lectures, 1874, pp. 76-7.</ab>
+        
+        <ab type="imprint">1865. Maurice, Frederick Denison. <hi rend="italic">On Books</hi>, [a lecture delivered Nov. 1865, printed in] The Friendship of Books and other Lectures, 1874, pp. 76-7.</ab>
+        
         <ab type="quotation">
-          <seg>[pp. 76- Chaucer was possibly the friend of Wycliffe—certainly
-7]
-shared many of his sympathies and antipathies. He loved
-the priest, or, as he was called, the secular priest, who went
-among the people, and cared for them as his fellow-country-
-men; he intensely disliked the friars, who flattered them and
-cursed them, and in both ways governed them and degraded
-them. His education had been different from Wycliffe's, his
-early poetical powers had been called forth by the ladies and
-gentlemen of the court. He mingled much French with his
-speech, as they did; he acquired from them a kind of
-acquaintance with life which Wycliffe could not obtain in
-the Oxford schools. Had he remained under their influence
-he might have been merely a very musical court singer; but
-he entered into fellowship with common citizens. He became
-a keen observer of all the different forms of life and society
-in his time—a keen observer, and, as all such are, genial,
-friendly, humorous, able to understand men about him by
-sympathising with them, able to understand the stories of the
-past by his experience of the present. Without being a
-reformer like Wycliffe, he helped forward the Reformation
-by making men acquainted with themselves and their fellows,
-by stripping off disguises, and by teaching them to open
-their eyes to the beautiful world which lay about them.
-Chaucer is the genuine specimen of an English poet—a type
-of the best who were to come after him; with cordial affection
-for men and for nature; often tempted to coarseness, often
-yielding to his baser nature in his desire to enter into all the
-different experiences of men; apt through this desire, and
-through his hatred of what was insincere, to say many things
-of which he had need to repent, and of which he did repent;
-but never losing his loyalty to what was pure, his reverence
-for what was divine. ... The English books which live
-through ages are those which connect themselves with human
-life and action. His other poems, though graceful and
-harmonious, are only remembered, because in his "Canter-
-bury Tales" he has come directly into contact with the
-hearts and thoughts, the sufferings and sins, of men and
-women, and has given the clearest pictures we possess of all
-the distinctions and occupations in his own day.</seg>
+          <seg><note place="margin">[pp. 76-7]</note> Chaucer was possibly the friend of Wycliffe—certainly
+            shared many of his sympathies and antipathies. He loved
+            the priest, or, as he was called, the secular priest, who went
+            among the people, and cared for them as his fellow-country-
+            men; he intensely disliked the friars, who flattered them and
+            cursed them, and in both ways governed them and degraded
+            them. His education had been different from Wycliffe's, his
+            early poetical powers had been called forth by the ladies and
+            gentlemen of the court. He mingled much French with his
+            speech, as they did; he acquired from them a kind of
+            acquaintance with life which Wycliffe could not obtain in
+            the Oxford schools. Had he remained under their influence
+            he might have been merely a very musical court singer; but
+            he entered into fellowship with common citizens. He became
+            a keen observer of all the different forms of life and society
+            in his time—a keen observer, and, as all such are, genial,
+            friendly, humorous, able to understand men about him by
+            sympathising with them, able to understand the stories of the
+            past by his experience of the present. Without being a
+            reformer like Wycliffe, he helped forward the Reformation
+            by making men acquainted with themselves and their fellows,
+            by stripping off disguises, and by teaching them to open
+            their eyes to the beautiful world which lay about them.
+            Chaucer is the genuine specimen of an English poet—a type
+            of the best who were to come after him; with cordial affection
+            for men and for nature; often tempted to coarseness, often
+            yielding to his baser nature in his desire to enter into all the
+            
+            <milestone unit="page" n="79"/>
+            
+            different experiences of men; apt through this desire, and
+            through his hatred of what was insincere, to say many things
+            of which he had need to repent, and of which he did repent;
+            but never losing his loyalty to what was pure, his reverence
+            for what was divine. . . . The English books which live
+            through ages are those which connect themselves with human
+            life and action. His other poems, though graceful and
+            harmonious, are only remembered, because in his "Canterbury
+            Tales" he has come directly into contact with the
+            hearts and thoughts, the sufferings and sins, of men and
+            women, and has given the clearest pictures we possess of all
+            the distinctions and occupations in his own day.</seg>
         </ab>
       </div>
     </body>

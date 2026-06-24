@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1864, John O'Hagan. Chaucer,</title>
+        <title>1864, John O'Hagan. Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/103384846">John O'Hagan</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/103384846">O'Hagan, John</author>
             <date cert="high" when="1864">1864</date>
-            <title level="a">Chaucer,</title>
+            <title level="a">Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,24 +80,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="73"/>
-        <ab type="imprint">1864. O'Hagan, John. Chaucer, [in] The Afternoon Lectures on Literature and Art, delivered in the Theatre of the Museum of Industry, St. Stephen’s Green, Dublin, 1863-9, 5 series, ser. ii, 1864, pp. 247-77.</ab>
+        
+        <ab type="imprint">1864. O'Hagan, John. <hi rend="italic">Chaucer</hi>, [in] The Afternoon Lectures on Literature and Art, delivered in the Theatre of the Museum of Industry, St. Stephen’s Green, Dublin, 1863-9, 5 series, ser. ii, 1864, pp. 247-77.</ab>
+        
         <ab type="quotation">
-          <seg>[pp. 247- [Chaucer's language having very soon become obsolete, he
-50]
-never could nor can be a popular favourite; even Dryden's
-[pp.250- excellent imitations are as much Dryden as Chaucer. Chaucer's
-53]
-life, with no mention of the Testament of Love or the episodes
-[pp. 253- founded on it. His versification; the final vowel and the
-4]
-[pp.254- French element in the pronunciation. The Court of Love
-7]
-'Chaucer's earliest work.' The Canterbury Tales; the
-[pp. 257-
-77]
-characters and their stories. Chaucer's coarseness inexcusable
-and also dramatically inartistic. His vivid pictures of society
-in the fourteenth century.]</seg>
+          <seg type="editorial"><note place="margin">[pp. 247-50]</note> [Chaucer's language having very soon become obsolete, he
+            never could nor can be a popular favourite; even Dryden's
+            <note place="margin">[pp. 250-53]</note> excellent imitations are as much Dryden as Chaucer. Chaucer's
+            life, with no mention of the <hi rend="italic">Testament of Love</hi> or the episodes
+            <note place="margin">[pp. 253-4]</note> founded on it. His versification; the final vowel and the
+            <note place="margin">[pp. 254-7]</note> French element in the pronunciation. <hi rend="italic">The Court of Love</hi>
+            'Chaucer's earliest work.' <hi rend="italic">The Canterbury Tales</hi>; the
+            <note place="margin">[pp. 257-77]</note> characters and their stories. Chaucer's coarseness inexcusable
+            and also dramatically inartistic. His vivid pictures of society in the fourteenth century.]</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1855, Richard Chenevix Trench. English Past and Present,</title>
+        <title>1855, Richard Chenevix Trench. English Past and Present.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/51773108">Richard Chenevix Trench</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/51773108">Trench, Richard Chenevix</author>
             <date cert="high" when="1855">1855</date>
-            <title level="a">English Past and Present,</title>
+            <title level="a">English Past and Present.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,15 +82,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="28"/>
-        <ab type="imprint">1855. Trench, Richard Chenevix. English Past and Present, pp. 33-6, 46, 56, 79, 84, 86-7, 97-8, 101, 103, 110-13, 118, 121, 138-9, 143, 152, 159.</ab>
+        
+        <ab type="imprint">1855. Trench, Richard Chenevix. <hi rend="italic">English Past and Present</hi>, pp. 33-6, 46, 56, 79, 84, 86-7, 97-8, 101, 103, 110-13, 118, 121, 138-9, 143, 152, 159.</ab>
+        
         <ab type="quotation">
-          <seg>[pp. 33- [Trench believes, with Tyrwhitt, that Chaucer's influence in
-6]
-introducing French words into the language has been much
-exaggerated; he only furthered a tendency already existing.
-Yet his diction is much more French than Wycliffe's; some
-of his French-derived words failed to retain their place in
-English.]</seg>
+          <seg type="editorial"><note place="margin">[pp. 33-6]</note> [Trench believes, with Tyrwhitt, that Chaucer's influence in
+            introducing French words into the language has been much
+            exaggerated; he only furthered a tendency already existing.
+            Yet his diction is much more French than Wycliffe's; some
+            of his French-derived words failed to retain their place in
+            English.]</seg>
         </ab>
       </div>
     </body>

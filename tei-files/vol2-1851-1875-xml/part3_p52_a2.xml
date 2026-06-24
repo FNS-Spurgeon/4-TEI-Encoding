@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1860, Geoffrey Chaucer. Canterbury Tales of Chaucer,</title>
+        <title>1860, Geoffrey Chaucer. Canterbury Tales of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
             <date cert="high" when="1860">1860</date>
-            <title level="a">Canterbury Tales of Chaucer,</title>
+            <title level="a">Canterbury Tales of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,19 +82,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="52"/>
-        <ab type="imprint">1860. Chaucer, Geoffrey. Canterbury Tales of Chaucer, to which are added, An Essay on his language and versification, and an Introductory Discourse, together with notes and a glossary, by T. Tyrwhitt, F.R.S., with memoir and critical dissertation by the Rev. G. Gilfillan, Edinburgh, 3 vols.</ab>
+        
+        <ab type="imprint">1860. Canterbury Tales of Chaucer, to which are added, An Essay on his language and versification, and an Introductory Discourse, together with notes and a glossary, by T. Tyrwhitt, F.R.S., with memoir and critical dissertation by the Rev. G. Gilfillan, Edinburgh, 3 vols.</ab>
+        
         <ab type="quotation">
-          <seg>[The glossary is arranged in the margin. Gilfillan's memoir
-and dissertation, "The Genius and Poetry of Chaucer," pre¬
-cede the second and third vols. respectively.
-The memoir contains all the old mistakes, based on the
-Court of Love and Testament of Love, and is very flamboyantly
-written; e. g. Chaucer's position was at best that "of a pen¬
-sionary dependent, nourished on the rinsings of the royal
-cellar." Doubtful whether he died "a Papist or a Protestant."
-The Dissertation is written in the same style and contains
-many allusions to Chaucer's "ruggedness," and to his Wycliffite
-views.]</seg>
+          <seg type="editorial">[The glossary is arranged in the margin. Gilfillan's memoir
+            and dissertation, "The Genius and Poetry of Chaucer,"
+            precede the second and third vols. respectively.
+            <lb/>The memoir contains all the old mistakes, based on the
+            <hi rend="italic">Court of Love and Testament of Love</hi>, and is very flamboyantly
+            written; e. g. Chaucer's position was at best that "of a
+            pensionary dependent, nourished on the rinsings of the royal
+            cellar." Doubtful whether he died "a Papist or a Protestant."
+            
+            <milestone unit="page" n="53"/>
+            
+            The Dissertation is written in the same style and contains
+            many allusions to Chaucer's "ruggedness," and to his Wycliffite
+            views.]</seg>
         </ab>
       </div>
     </body>

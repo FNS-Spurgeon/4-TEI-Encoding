@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1861, Aubrey Thomas de Vere. Chaucer, and Spenser,</title>
+        <title>1861, Aubrey Thomas de Vere. Chaucer, and Spenser.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/18590130">Aubrey Thomas de Vere</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/18590130">De Vere, Aubrey Thomas</author>
             <date cert="high" when="1861">1861</date>
-            <title level="a">Chaucer, and Spenser,</title>
+            <title level="a">Chaucer, and Spenser.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,15 +80,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="56"/>
-        <ab type="imprint">1861. De Vere, Aubrey Thomas. Chaucer, and Spenser, [in] The Sisters, Inisfail, and other Poems, pp. 64-5, 100.</ab>
+        
+        <ab type="imprint">1861. De Vere, Aubrey Thomas. <hi rend="italic">Chaucer</hi>, and <hi rend="italic">Spenser</hi>, [in] <hi rend="italic">The Sisters, Inisfail, and other Poems</hi>, pp. 64-5, 100.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 65] In Spring, when the breast of the lime-grove gathers
-Its roseate cloud, when the flush’d streams sing,
-And the mavis tricks her in gayer feathers;
-Read Chaucer then; for Chaucer is spring!
-On lonely evenings in dull Novembers ...
-Read Chaucer still!
-[p. 100] ["Spenser": brief reference to "the well-head of Chaucer."]</seg>
+          <seg><note place="margin">[p. 65]</note> 
+            <lg>
+              <l>In Spring, when the breast of the lime-grove gathers</l>
+              <l>Its roseate cloud, when the flush’d streams sing,</l>
+              <l>And the mavis tricks her in gayer feathers;</l>
+              <l>Read Chaucer then; for Chaucer is spring!</l>
+              <l>On lonely evenings in dull Novembers . . .</l>
+              <l>Read Chaucer still!</l>
+            </lg>
+          </seg>
+          
+          <seg type="editorial"><note place="margin">[p. 100]</note> ["Spenser": brief reference to "the well-head of Chaucer."]</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1861, Thomas Wright. Essays on Archæological Subjects,</title>
+        <title>1861, Thomas Wright. Essays on Archæological Subjects.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/76345452">Thomas Wright</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/76345452">Wright, Thomas</author>
             <date cert="high" when="1861">1861</date>
-            <title level="a">Essays on Archæological Subjects,</title>
+            <title level="a">Essays on Archæological Subjects.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,17 +80,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="60"/>
-        <ab type="imprint">1861. Wright, Thomas. Essays on Archæological Subjects, 2 vols., vol. ii, pp. 45, 57-60, 75-6, 259.</ab>
+        
+        <ab type="imprint">1861. Wright, Thomas. <hi rend="italic">Essays on Archæological Subjects</hi>, 2 vols., vol. ii, pp. 45, 57-60, 75-6, 259.</ab>
+        
         <ab type="quotation">
-          <seg>[vol. ii, [While nearly all the obsolete words in the other writers are p. 57]
-Anglo-Saxon, the great proportion in Chaucer are French:
-[pp. 75-6] [Chaucer (Boke of the Duchesse, Il. 434-42, quoted) shews
-hence he is easier to read.]
-[vol. ii, [The fabliaux of the thirteenth century, with all their
-that Arabic numerals were not yet in general use.]
-p. 259]
-spirit and satire, and much of their objectionable characteristics,
-took an English form in the hands of Chaucer.]</seg>
+          <seg type="editorial"><note place="margin">[vol. ii, p. 57]</note> [While nearly all the obsolete words in the other writers are
+            Anglo-Saxon, the great proportion in Chaucer are French: hence he is easier to read.]</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 75-6]</note> [Chaucer (<hi rend="italic">Boke of the Duchesse</hi>, ll. 434-42, quoted) shews
+            that Arabic numerals were not yet in general use.]</seg>
+            
+          <seg type="editorial"><note place="margin">[vol. ii, p. 259]</note> [The fabliaux of the thirteenth century, with all their
+            spirit and satire, and much of their objectionable characteristics,
+            took an English form in the hands of Chaucer.]</seg>
         </ab>
       </div>
     </body>

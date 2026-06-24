@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1852, Unknown. Review of The Life of Thomas Stothard, R.A., by Anne Eliza Bray,</title>
+        <title>1852, Unknown. Review of The Life of Thomas Stothard, R.A., by Anne Eliza Bray.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -34,7 +34,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1852">1852</date>
-            <title level="a">Review of The Life of Thomas Stothard, R.A., by Anne Eliza Bray,</title>
+            <title level="a">Review of The Life of Thomas Stothard, R.A., by Anne Eliza Bray.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,17 +80,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="11"/>
-        <ab type="imprint">1852. Unknown. Review of The Life of Thomas Stothard, R.A., by Anne Eliza Bray, [in] The Gentleman’s Magazine, Feb. 1852, new ser., vol. xxxvii, pp. 148-50.</ab>
+        
+        <ab type="imprint">1852. Unknown. <hi rend="italic">Review of The Life of Thomas Stothard, R.A., by Anne Eliza Bray</hi>, [in] The Gentleman’s Magazine, Feb. 1852, new ser., vol. xxxvii, pp. 148-50.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 150] Should Mrs. Bray . . . reprint her life of her famous
-father-in-law ... she should certainly refer to the rival
-Pilgrimage which Blake painted and engraved–a rival only
-in the co-incidence of its appearance—for it is not only
-Blake's poorest production, but a most sorry performance itself,
-while Stothard’s fine composition has been happily described
-by Scott, in his Life of Dryden, as "executed with the genius
-and spirit of a master, and all the rigid attention to costume
-that could be expected by the most severe antiquary."</seg>
+          <seg><note place="margin">[p. 150]</note> Should Mrs. Bray . . . reprint her life of her famous
+            father-in-law . . . she should certainly refer to the rival
+            Pilgrimage which Blake painted and engraved–a rival only
+            in the co-incidence of its appearance—for it is not only
+            Blake's poorest production, but a most sorry performance itself,
+            while Stothard’s fine composition has been happily described
+            by Scott, in his Life of Dryden, as "executed with the genius
+            and spirit of a master, and all the rigid attention to costume
+            that could be expected by the most severe antiquary."</seg>
         </ab>
       </div>
     </body>

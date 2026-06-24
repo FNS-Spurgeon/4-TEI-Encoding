@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1866, Unknown. Chaucer—His Position, Life, and Influence,</title>
+        <title>1866, Unknown. Chaucer—His Position, Life, and Influence.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -34,7 +34,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1866">1866</date>
-            <title level="a">Chaucer—His Position, Life, and Influence,</title>
+            <title level="a">Chaucer—His Position, Life, and Influence.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,34 +82,40 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="85"/>
-        <ab type="imprint">1866. Unknown. Chaucer—His Position, Life, and Influence, [in] The Westminster Review, July, 1866, vol. xxx, pp. 184-200.</ab>
+        
+        <ab type="imprint">1866. Unknown. <hi rend="italic">Chaucer—His Position, Life, and Influence</hi>, [in] The Westminster Review, July, 1866, vol. xxx, pp. 184-200.</ab>
+        
         <ab type="quotation">
-          <seg>[A long and appreciative article of a general nature, with
-a good deal about Chaucer’s life and times, and something
-on his language, and on the text of the Canterbury Tales in
-recent editions.]
-[p.184] Chaucer ... may be read with comparative ease. There
-are a few of his phrases obscure; a few of his endings silent;
-a few of his words obsolete. But we require neither grammar
-nor glossary to understand and enjoy him.
-[p. 199] Not much has yet been done to make Chaucer's works
-more popular or more intelligible. [There are great difficulties,
-his text is uncertain, often obscure. Tyrwhitt has done a
-great deal to remove obscurities, though he] often unnecessarily
-and pretentiously displays his abstruse and curious learning.
-[But in spite of his pedantry, Tyrwhitt’s text of the C. Tales
-in 1755 [sic], seems as good as that of Wright, in 1847.
-The worst features of Tyrwhitt’s edn. reappear in that of
-Routledge [1863], where "none of Tyrwhitt’s mistakes are
-corrected nor his defects supplied." Robert Bell’s edn.
-1854, is the best, by this editor nearly everything which
-can explain or illustrate his author has been skilfully con¬
-densed.] But it is not likely that all Chaucer's writings—
-consisting, as they mostly do, of translations,—can ever
-become popular. We still require an edition ot the "Canter¬
-bury Tales" in which the obsolete words, opinions and
-customs will be explained, and the obsolete pronunciation
-indicated.</seg>
+          <seg type="editorial">[A long and appreciative article of a general nature, with
+            a good deal about Chaucer’s life and times, and something
+            on his language, and on the text of the <hi rend="italic">Canterbury Tales</hi> in
+            recent editions.]</seg>
+            
+          <seg><note place="margin">[p.184]</note> Chaucer . . . may be read with comparative ease. There
+            are a few of his phrases obscure; a few of his endings silent;
+            a few of his words obsolete. But we require neither grammar
+            nor glossary to understand and enjoy him.</seg>
+            
+          <seg><note place="margin">[p. 199]</note> Not much has yet been done to make Chaucer's works
+            more popular or more intelligible. <add>[There are great difficulties,
+            his text is uncertain, often obscure. Tyrwhitt has done a
+            great deal to remove obscurities, though he]</add> often unnecessarily
+            and pretentiously displays his abstruse and curious learning.</seg>
+            
+          <seg type="editorial">[But in spite of his pedantry, Tyrwhitt’s text of the C. Tales
+            in 1755 [sic], seems as good as that of Wright, in 1847.
+            The worst features of Tyrwhitt’s edn. reappear in that of
+            Routledge [1863], where "none of Tyrwhitt’s mistakes are
+            corrected nor his defects supplied." Robert Bell’s edn.
+            1854, is the best, by this editor nearly everything which
+            can explain or illustrate his author has been skilfully condensed.]</seg>
+            
+          <seg>But it is not likely that all Chaucer's writings—
+            consisting, as they mostly do, of translations,—can ever
+            become popular. We still require an edition ot the
+            "Canterbury Tales" in which the obsolete words, opinions and
+            customs will be explained, and the obsolete pronunciation
+            indicated.</seg>
         </ab>
       </div>
     </body>

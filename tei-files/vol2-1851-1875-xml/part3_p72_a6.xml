@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1864-7, Henry Morley. English Writers,</title>
+        <title>1864-7, Henry Morley. English Writers.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/24699215">Henry Morley</author>
-            <date cert="high" when="1864-7">1864-7</date>
-            <title level="a">English Writers,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/24699215">Morley, Henry</author>
+            <date cert="high" from="1864" to="1867">1864-7</date>
+            <title level="a">English Writers.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,12 +80,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="72"/>
-        <ab type="imprint">1864-7. Morley, Henry. English Writers, vol. i, pp. 21-2 [Chaucer's debt to Italy], 771-5 [his debt to France; his life, without the apocryphal episodes, the Testament of Love being treated as a genuine but purely imaginative work]; vol. ii, pp. 1-5 [Chaucer the first fully English writer]; 39-43 [Petrarch and Boccaccio]; 66-9, 107-8, 135-6, 138-9 [Gower]; 140-338 [chapters iv-vii, devoted to Chaucer; p. 140, his character sociable and free from bitterness; pp. 141-65, his life; The Court of Love treated as genuine; pp. 165-335, his works described and analysed in a chronological order (Troilus being compared at some length with the Filostrato, and Chaucer's refinements on Boccaccio pointed out, pp. 237-43); pp. 335-6, cause of his greatness; pp. 336-7, his verse regular; pp. 337-8, his English]; 425, 429-32 [Lydgate]; 434 [Occleve].</ab>
+        
+        <ab type="imprint">1864-7. Morley, Henry. <hi rend="italic">English Writers</hi>, vol. i, pp. 21-2 [Chaucer's debt to Italy], 771-5 [his debt to France; his life, without the apocryphal episodes, the <hi rend="italic">Testament of Love</hi> being treated as a genuine but purely imaginative work]; vol. ii, pp. 1-5 [Chaucer the first fully English writer]; 39-43 [Petrarch and Boccaccio]; 66-9, 107-8, 135-6, 138-9 [Gower]; 140-338 [chapters iv-vii, devoted to Chaucer; p. 140, his character sociable and free from bitterness; pp. 141-65, his life; <hi rend="italic">The Court of Love</hi> treated as genuine; pp. 165-335, his works described and analysed in a chronological order (<hi rend="italic">Troilus</hi> being compared at some length with the <hi rend="italic">Filostrato</hi>, and Chaucer's refinements on Boccaccio pointed out, pp. 237-43); pp. 335-6, cause of his greatness; pp. 336-7, his verse regular; pp. 337-8, his English]; 425, 429-32 [Lydgate]; 434 [Occleve].</ab>
+        
         <ab type="quotation">
-          <seg>[In the revised and enlarged edn., 11 vols., 1887-95, chapters
-vi-xiii, pp. 83-347, of vol. v (1890) are devoted to Chaucer; many
-brief passages relating to him are scattered up and down the whole
-work.]</seg>
+          <seg type="editorial">[In the revised and enlarged edn., 11 vols., 1887-95, chapters
+            vi-xiii, pp. 83-347, of vol. v (1890) are devoted to Chaucer; many
+            brief passages relating to him are scattered up and down the whole
+            work.]</seg>
         </ab>
       </div>
     </body>

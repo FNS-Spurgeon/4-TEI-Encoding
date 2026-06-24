@@ -32,8 +32,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/22146194">William Morris</author>
-            <date cert="high" when="1868-70">1868-70</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/22146194">Morris, William</author>
+            <date cert="high" from="1868" to="1870">1868-70</date>
             <title level="a">The Earthly Paradise.</title>
           </analytic>
           <monogr>
@@ -80,57 +80,85 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="96"/>
-        <ab type="imprint">1868-70. Morris, William. The Earthly Paradise. Prologue: The Wanderers, Part i, 1868, p. 3; L’Envoi, Part iv, 1870, pp. 439-442.</ab>
+        
+        <ab type="imprint">1868-70. Morris, William. <hi rend="italic">The Earthly Paradise</hi>. Prologue: The Wanderers, Part i, 1868, p. 3; L’Envoi, Part iv, 1870, pp. 439-442.</ab>
+        
         <ab type="quotation">
-          <seg>Forget six counties overhung with smoke,
-Forget the snorting steam and piston stroke,
-Forget the spreading of the hideous town;
-Think rather of the pack-horse on the down,
-And dream of London, small, and white and clean,
-The clear Thames bordered by its gardens green;
-Think, that below bridge the green lapping waves
-Smite some few keels that bear Levantine staves,
-Cut from the yew wood on the burnt-up hill,
-And pointed jars that Greek hands toiled to fill,
-And treasured scanty spice from some far sea,
-Florence gold cloth, and Ypres napery,
-And cloth of Bruges, and hogsheads of Guienne;
-While nigh the thronged wharf Geoffrey Chaucer's pen
-Moves over bills of lading—mid such times
-Shall dwell the hollow puppets of my rhymes.
-[p. 439] [L’Envoi. The poet addresses his book :]
-Nay, let it pass, and hearken! Hast thou heard
-That therein * I believe I have a friend,
-Of whom for love I may not be afeard?
-It is to him indeed I bid thee wend ...
-Well, think of him, I bid thee, on the road,
-And if it hap that midst of thy defeat,
-Fainting beneath thy follies' heavy load,
-*i.e. in "The Land of Matters Unforgot."
-My Master, GEOFFREY CHAUCER, thou do meet,
-Then shalt thou win a space of rest full sweet;
-[p. 440] Then be thou bold, and speak the words I say,
-The idle singer of an empty day!
-"O Master, O thou great of heart and tongue,
-Thou well mayst ask me why I wander here
-In raiment rent of stories oft besung!
-But of thy gentleness draw thou anear,
-And then the heart of one that held thee dear
-Mayst thou behold!" ...
-[p. 441] O Master, if thine heart could love us yet,
-Spite of things left undone, and wrongly done,
-Some place in loving hearts then should we get,
-For thou, sweet-souled, didst never stand alone,
-But knew’st the joy and woe of many an one—
-—By lovers dead, who live through thee, we pray,
-Help thou us singers of an empty day!
-Fearest thou, Book, what answer thou mayst gain
-Lest he should scorn thee, and thereof thou die?
-Nay, it shall not be.—Thou mayst toil in vain
-And never draw the House of Fame anigh;
-Yet he and his shall know whereof we cry,
-Shall call it not ill-done to strive to lay
-The ghosts that crowd about life’s empty day.</seg>
+          <seg>
+            <lg>
+              <l>Forget six counties overhung with smoke,</l>
+              <l>Forget the snorting steam and piston stroke,</l>
+              <l>Forget the spreading of the hideous town;</l>
+              <l>Think rather of the pack-horse on the down,</l>
+              <l>And dream of London, small, and white and clean,</l>
+              <l>The clear Thames bordered by its gardens green;</l>
+              <l>Think, that below bridge the green lapping waves</l>
+              <l>Smite some few keels that bear Levantine staves,</l>
+              <l>Cut from the yew wood on the burnt-up hill,</l>
+              <l>And pointed jars that Greek hands toiled to fill,</l>
+              <l>And treasured scanty spice from some far sea,</l>
+              <l>Florence gold cloth, and Ypres napery,</l>
+              <l>And cloth of Bruges, and hogsheads of Guienne;</l>
+              <l>While nigh the thronged wharf Geoffrey Chaucer's pen</l>
+              <l>Moves over bills of lading—mid such times</l>
+              <l>Shall dwell the hollow puppets of my rhymes.</l>
+            </lg>
+          </seg>
+          
+          <seg><note place="margin">[p. 439]</note> <add>[L’Envoi. The poet addresses his book :]</add>
+            <lg>
+              <l>Nay, let it pass, and hearken! Hast thou heard</l>
+              <l>That therein*<note type="footnote">*i.e. in "The Land of Matters Unforgot."</note> I believe I have a friend,</l>
+              <l>Of whom for love I may not be afeard?</l>
+              <l>It is to him indeed I bid thee wend . . .</l>
+            </lg>
+            
+            <lg>
+              <l>Well, think of him, I bid thee, on the road,</l>
+              <l>And if it hap that midst of thy defeat,</l>
+              <l>Fainting beneath thy follies' heavy load,</l>
+            </lg>
+            
+            <milestone unit="page" n="97"/>
+            
+            <lg>
+              <l>My Master, GEOFFREY CHAUCER, thou do meet,</l>
+              <l>Then shalt thou win a space of rest full sweet;</l>
+              <note place="margin">[p. 440]</note><l>Then be thou bold, and speak the words I say,</l>
+              <l>The idle singer of an empty day!</l>
+            </lg>
+            
+            <lg>
+              <l>"O Master, O thou great of heart and tongue,</l>
+              <l>Thou well mayst ask me why I wander here</l>
+              <l>In raiment rent of stories oft besung!</l>
+              <l>But of thy gentleness draw thou anear,</l>
+              <l>And then the heart of one that held thee dear</l>
+              <l>Mayst thou behold!" . . .</l>
+            </lg>
+          </seg>
+            
+          <seg>
+            <lg>
+              <note place="margin">[p. 441]</note><l>O Master, if thine heart could love us yet,</l>
+              <l>Spite of things left undone, and wrongly done,</l>
+              <l>Some place in loving hearts then should we get,</l>
+              <l>For thou, sweet-souled, didst never stand alone,</l>
+              <l>But knew’st the joy and woe of many an one—</l>
+              <l>—By lovers dead, who live through thee, we pray,</l>
+              <l>Help thou us singers of an empty day!"</l>
+            </lg>
+            
+            <lg>
+              <l>Fearest thou, Book, what answer thou mayst gain</l>
+              <l>Lest he should scorn thee, and thereof thou die?</l>
+              <l>Nay, it shall not be.—Thou mayst toil in vain</l>
+              <l>And never draw the House of Fame anigh;</l>
+              <l>Yet he and his shall know whereof we cry,</l>
+              <l>Shall call it not ill-done to strive to lay</l>
+              <l>The ghosts that crowd about life’s empty day.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>
