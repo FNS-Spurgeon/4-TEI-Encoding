@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p40_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1813, Jean-Baptiste-Antoine Suard. [Article on Chaucer in the] Biographie Universelle, ancienne et moderne.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/89808442">Jean-Baptiste-Antoine Suard</author>
+            <date cert="high" when="1813">1813</date>
+            <title level="a">[Article on Chaucer in the] Biographie Universelle, ancienne et moderne.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">40-41</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#thoughtIrregular"/>
+        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#biography" target="#french"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="40"/>
+        <ab type="imprint">1813. Suard, Jean-Baptiste-Antoine. [Article on Chaucer in the] Biographie Universelle, ancienne et moderne. ... ouvrage entière¬ ment neuf, redigé par une société de gens de lettres. Paris, 1813, tome viii, pp. 286-89.</ab>
+        <ab type="quotation">
+          <seg>[A long biography, with the usual errors due to the
+acceptance of the Testament of Love, but written with care,
+and indicating some knowledge of the poems of Chaucer.]
+[p. 287] . . . La Cour d’amour avait été suivie, peu de temps après,
+du poème de Troïlus et Créséide, d’Arcile [sic] et Palémon, de
+la Maison de la Renommée, etc., ouvrages dont il ne paraît pas
+que l’invention appartienne à Chaucer; mais dont il donne
+quelques-uns pour imités, et dont les autres le sont visible¬
+ment, soit du Roman de la Rose, de Boccace, soit de quelques
+auteurs moins célèbres. Il paraît avoir puisé surtout dans
+les ouvrages des troubadours provençaux, qu’il affectionnait
+particulièrement, et auxquels la fierté anglaise lui reproche
+d’avoir emprunté un grand nombre de mots pour les trans¬
+porter dans sa langue, comme il est aisé de le voir par l’abon¬
+dance de mots français qui se trouvent dans ses écrits. Ces
+poésies, dont l’invention, quand elle appartiendrait à Chaucer,
+ne vaudrait pas la peine d’être revendiquée, portent l’em¬
+preinte du mauvais goût qui régnait alors dans tout l’Europe,
+[p. 288] [Description of the Court of Love] . . . Dans Troïlus et
+Créséide, poëme dont l’action se passe durant le siège de Troie,
+Troïlus est désigné comme un jeune chevalier (knight), et de
+même précisément que l’A est maintenant la première lettre
+de l’alphabet, Créséide était, parmi les dames troyennes, la
+première en beauté.
+Ses autres ouvrages, tels que la Maison de la Renommée,
+que Pope a imitée dans son Temple de la Renommée, et les
+poésies faites en l’honneur du duc et de la duchesse de Lan¬
+castre, sont, pour la plupart, des rêves, des visions allégo¬
+riques, mèlés de dissertations morales ou théologiques dans le
+goût du temps; ce qui, outre la difficulté de la langue, rend la
+lecture des ouvrages de Chaucer pénible et ennuyeuse. On y
+trouve cependant de la vérité dans la peinture des caractères
+et une délicatesse de sentiments, qui, dans ce temps là,
+s’alliait assez souvent à la grossièreté des expressions. Les
+Anglais assurent de plus que, malgré l’irrégularité de la
+versification, la poésie de Chaucer ne manque pas d’harmonie;
+et cette irrégularité n’a pas empêché de le regarder comme
+[p. 289] l’inventeur du vers héroïque anglais. . . . [Chaucer] jouissait
+tranquillement de sa fortune dans le château de Dunnington
+. . . Ce fut là que, dans ses dernières années, il composa celui
+de ses ouvrages qui a conservé le plus de réputation, ses
+Contes de Cantorbéry, écrits en vers, dans la forme du Dé¬
+caméron de Boccace, mais dont les sujets, entièrement anglais,
+offrent une grande variété de caractères peints avec la vérité
+propre à ce poète, et une vivacité qu’on ne lui trouve pas
+toujours. Chaucer a eu le sort de tous les écrivains qui ont
+montré du génie dans les premiers temps de la renaissance
+des lettres, lorsque la langue et le goût n’étaient pas encore
+formés. On l’admire et on le loue beaucoup, mais on le
+lit peu.
+Il est le premier des modernes qui ait fait usage dans la
+poésie de l’esprit et des fictions chevaleresques. Son conte
+de Sir Topaz est dans le goût de Don Quichotte.</seg>
+          <note type="footnote">Spurgeon's note: [Suard’s article, much abridged, and containing hardly anything of the passages quoted above, was reprinted in the Biographie universelle of 1833 (6 vols.), of 1838 (6 vols.) and of 1843-7 (Brussels, 21 vols.); and also in the Biographie universelle classique, 1829.]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

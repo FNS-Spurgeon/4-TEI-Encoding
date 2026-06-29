@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p41_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1813, Pierre-Louis Dubuc. Les deux Grisélidis, Histoires traduites de l’anglois l’une de Chaucer, et l’autre de Mlle Edgeworth.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/64920128">Pierre-Louis Dubuc</author>
+            <date cert="high" when="1813">1813</date>
+            <title level="a">Les deux Grisélidis, Histoires traduites de l’anglois l’une de Chaucer, et l’autre de Mlle Edgeworth.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">41-43</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+      <textClass/>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="41"/>
+        <ab type="imprint">1813. Dubuc — (translator). Les deux Grisélidis, Histoires traduites de l’anglois l’une de Chaucer, et l’autre de Mlle Edgeworth. 2 tom. Tome i, pp. 5-8, 11-92, 95, 151-2, 162-173; tome ii, pp. 171-3.</ab>
+        <ab type="quotation">
+          <seg>[For The Modern Griselda, by Maria Edgeworth, see above, Part ii, sect. i, p. 24,
+1805.]
+[p. 5] [Avertissement.] Nous offrons aujourd’hui au public l’his¬
+[p. 6] toire de deux Grisélidis, bien différentes entre elles. L’une
+vivoit . . . vers le onzième siècle, dans le marquisat de Saluces;
+l’autre vivoit, et vit peut-être encore en Angleterre. Le
+caractère de cette dernière a été observé et peint par une
+artiste célèbre dans ce genre, par Mademoiselle Edgeworth.
+Nous avons pensé que le rapprochement de la Crisélidis
+moderne et de celle des temps antérieurs pourroit devenir
+piquant, et nous avons emprunté l’histoire de la plus ancienne
+[p. 7] à Chaucer, patriarche de la poésie angloise. Nous ne croyons
+pas qu’on ait jamais rien traduit en français des œuvres de cet
+auteur dont le style vieilli n’est pas toujours intelligible pour
+les Anglois eux-mêmes. Une autre considération nous a fait
+préférer le récit de Chaucer à celui de Bocace; c’est que
+Mademoiselle Edgeworth, dans sa nouvelle, fait allusion à
+l'histoire de la Grisélidis ancienne; elle en cite même un
+[p. 8] morceau, et ce morceau est tiré de la narration de son com¬
+patriote Chaucer, rajeunie, à la vérité, par un poète anglois
+aussi, nommé Monsieur Ogle, dont le style assez élégant est
+pourtant diffus, si on le compare à celui de son modèle.
+. . . . . . . .
+[p. 11] Gauthier et Grisélidis. Histoire traduite de l’anglois de
+Chaucer [pp. 11-92].
+. . . . . . . .
+[p. 95] La nouvelle Grisélidis, traduite de l’anglois de Mademoiselle
+Edgeworth.
+[The passages in which Miss Edgeworth refers to Chaucer
+are as follows:]
+[p. 151] Mon cher ami, à propos de femmes parfaites, vous avez
+[p. 152] sûrement lu les contes de Chaucer. Dites-moi un peu ce que
+vous pensez de la véritable, de l’ancienne Grisélidis?
+—Il y a si longtemps que j’ai lu cette histoire, que je ne
+puis vous donner de réponse précise.—Alors lisez-la de
+nouveau, et dites m’en votre avis sans détour . . . il faut que
+nous ayons ici une soirée de lecture. . . .
+. . . . . . . .
+[p. 152] [Chaucer's tale of Griselda is being read.] Le lecteur en
+vint à ce moment où Gauthier fait prononcer un serment à sa
+femme.
+Jurez que nuit et jour, à mes ordres soumise,
+Avec empressement, avec zèle et franchise,
+Sans murmurer jamais, seule ou devant témoins
+A m’obéir toujours, vous mettrez tous vos soins.
+[etc. and the 10 lines following, from Ogle’s edition.]
+. . . . . . . . .
+[p. 172] Certes, je ne puis admirer ni Grisélidis, ni aucune de celles
+qui l’imitent. . . .
+— On ne risque pas de rencontrer de nos jours, beaucoup
+[p. 173] de femmes qui marchent sur ces traces. Si Chaucer eût vécu
+dans ce temps de lumières, il eût dessiné ce caractère tout
+autrement. . . .
+Nous pardonnerons à ce pauvre Chaucer, si nous con¬
+ . . . . . . .
+sidérons le siècle où il vivoit. La situation et l’intelligence
+des femmes ont été bien améliorées depuis cette époque.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

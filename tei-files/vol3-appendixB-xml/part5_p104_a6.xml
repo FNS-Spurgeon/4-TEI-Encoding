@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p104_a6">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1896, Jean Jules Jusserand. Histoire abrégée de la littérature anglaise,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jean Jules Jusserand</author>
+            <date cert="high" when="1896">1896</date>
+            <title level="a">Histoire abrégée de la littérature anglaise,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">104-106</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="104"/>
+        <ab type="imprint">1896. Jusserand, J. J. Histoire abrégée de la littérature anglaise, Paris, 1896, pp. 44, 46-55 [on CHAUCER], 56, 57, 59, 62, 63, 65, 66, 67, 68, 71, 87, 97, 102, 104, 105, 106, 108, 112, 126, 148, 157, 195, 223, 262.</ab>
+        <ab type="quotation">
+          <seg>[p. 49] En outre, la personnalité propre de Chaucer commence à
+paraître dans ces œuvres ['Lyf of Saint Cecile' 1373 : 'Com¬
+plainte of Mars' 1380, prose translation of the 'De Consola¬
+tione' of Boethius, 'Parliament of Foules,' 'Troilus,' 1382,
+'Hous of Fame' 1383-4, 'The Legend of Good Women,']
+sa bienveillance, son humour, sa sympathie indulgente pour
+[p. 50] tout ce qui est humain, ses dons d’observation, l’art du
+dialogue familier, la vivacité de repartie, le soin de la forme :
+qualités que nous avions discernées à l’état embryonnaire
+dans la race celtique et qui ont passé maintenant, grâce à la
+fusion intervenue, dans la race anglaise.
+Ces dons brillent surtout dans 'Troïlus et Cressida'
+admirable poème, roman et drame à la fois, plein de tendresse
+et en même temps d’ironie douce, où quelque reste des
+mélancolies saxonnes s’allie à la gaieté française, où Boccace
+(Filostrato) est imité et surpassé. . . .
+. . . . . . . . . .
+[p. 53] [Dans les contes de Canterbury] c’est toute l’Angleterre
+qui nous est montrée, jeune, printanière, épanouie. Les
+génies des deux races d’autrefois se sont fondus ; le génie
+celtique et latin domine toutefois dans Chaucer. Nous le
+trouvons optimiste et indulgent, n’inclinant nullement vers
+le fatalisme et le désespoir. Il voit les vices d’un regard
+clair et ne se fait pas d’illusion ; il tâche de les guérir ; s’il
+ne peut, il s’en console, et s’il ne peut s’en consoler, il s’en
+venge du moins par une épigramme. Ses épigrammes, il est
+vrai, font plus que piquer, elles pénètrent : ce ne sont pas
+de simples amusements ; à son esprit pétillant, à la française,
+se mêle une forte dose d’humour anglais.
+Il s’intéresse aux humbles et les aime ; si ce sont des
+coquins, le pittoresque de leurs mœurs impures l’amuse ; s’ils
+[p. 54] sont vertueux, ils lui inspirent une admiration attendrie
+(portrait du bon curé). Les 'gens de rien' occupent déjà
+dans son œuvre la place qu’ils devaient tenir dans tout la
+littérature anglaise et dans l’histoire politique du pays. Il
+voit d’une vue claire, il sent d’un cœur sensible. Il traduit
+sa vision et son impression par le mot qui fait voir ou le
+mot qui touche, avec une justesse inconnue jusque là dans
+son pays. Il a un sens de la forme et de la mesure rare
+avant la Renaissance ; il blâme les longueurs sans toujours
+les éviter ; mais c’est déjà beaucoup de savoir que les
+longueurs sont un défaut, et le mérite n’était pas banal
+de son temps. Il versifie avec soin ; la place des mots ne
+lui est pas indifférente, leurs sonorités le préoccupent. Il
+a sur tous ces points des idées arrêtées, il n’écrit pas au
+hasard ; il veut, il choisit ; bref, et pour la première fois
+dans l’histoire des lettres anglaises, nous nous trouvons en
+présence d’un artiste.
+Avec cela, des moyens simples : nulle prétention ; il veut
+et choisit, et cependant garde un air de facilité : son vocabu¬
+laire est le vocabulaire de tout le monde, sa prosodie de
+même ; ce sont cette prosodie et ce vocabulaire, ces vers
+rimés où les accents marquent la cadence, cette langue où
+surabondent les mots français, dont nous avons exposé plus
+haut la formation. Il les prit tels qu’il les trouva, et il les
+consacra par l’usage qu’il en fit. . . .</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

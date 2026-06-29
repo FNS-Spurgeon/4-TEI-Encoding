@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p55_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1847, Henri-Augustin Gomont. Geoffrey Chaucer poète anglais du XIV siècle. Analyes et fragments,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/200935043">Henri-Augustin Gomont</author>
+            <date cert="high" when="1847">1847</date>
+            <title level="a">Geoffrey Chaucer poète anglais du XIV siècle. Analyes et fragments,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">55-60</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#anticlericalism"/>
+        <catRef scheme="#criticism" target="#boccaccio"/>
+        <catRef scheme="#works" target="#houseFame"/>
+        <catRef scheme="#works" target="#knightTale"/>
+        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#biography" target="#french"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="55"/>
+        <ab type="imprint">1847. Gomont, H. Geoffrey Chaucer poète anglais du XIV siècle. Analyes et fragments, Paris, 1847.</ab>
+        <ab type="quotation">
+          <seg>[Introduction.]
+[p. 10] Chaucer . . . est devenu l’un des sujets d’orgueil de ses
+compatriotes. Il a éte mis par eux au rang de leurs grands
+poètes; il a été imité et commenté. Les chefs mêmes de
+l’école classique anglaise, Pope et Dryden, se sont empressés
+de lui prodiguer leurs hommages. L'un l’a proclamé le
+créateur du pur anglais; l’autre, non content de lui
+attribuer le mérite impossible à son époque d’une prosodie
+achevée, a été jusqu’à vouloir en faire l’égal d’Homère et de
+Virgile.
+L'exagération d'un tel éloge n’a pas besoin d’être démon¬
+trée. Mais on ne saurait nier les droits de Chaucer à une
+place éminente dans le panthéon britannique. Possédant
+[p. 11] une connaissance directe et approfondie des auteurs latins,
+une science de l’antiquité bien rare au moyen âge, et sans
+doute alors unique en Angleterre, il marche l’égal de Boccace
+et de Pétrarque, ses contemporains. Parfois même il sut les
+dépasser, grâce à l’énergie du saxon, que son goût pour les
+langues classiques ne l’empêcha pas d’apprécier. . . .
+Nous voudrions ajouter quelques détails sur la vie de notre
+poète: malheureusement il nous faudra être à ce sujet d’une
+grande sobriété; car les renseignements tout à fait certains
+sont assez rares, bien que les histoires de Chaucer ne man¬
+quent pas.
+[p. 12] En France, Feller et l'abbé Suard [sic, should be
+l’abbé Feller et Suard], ont publié des biographies de
+cet auteur. La notice du premier est évidemment
+aussi inexacte que tronquée; pour en faire apprécier
+l’esprit, nous dirons seulement qu’elle appelle Chaucer le
+Clément Marot anglais. L’œuvre du second atteste du soin
+et des recherches; mais elle se compose encore de faits
+trop légèrement admis pour avoir un caractère authentique.
+Des travaux plus sérieux ont nécessairement été faits en
+Angleterre; et, parmi les auteurs qui se sont occupés de
+Chaucer, trois surtout à notre connaissance, ont écrit avec
+science et réflexion; ce sont, Speght, Godwin, et John
+Urry. . . .
+[Here follows a short life of the poet, written with care.
+The Testament of Love is given as the foundation for the
+story of Chaucer's flight. Next comes a collection of
+'Témoignages d’auteurs contemporains en faveur de Geoffrey
+Chaucer,' [pp. 27-31], quotations from Lydgate (Prologue
+of the Siege of Thebes), and from Gower (Epilogue Conf.
+Amantis), translated into French, and the ballade of
+Deschamps. Then follows a description of]
+[p. 38] . . . Le Palais de la Renommée.
+(1) Poèmes allégoriques et songes.
+Dans cette œuvre, dont Pope a donné une imitation, le
+génie de l’auteur revêt un caractère qui ne lui est pas habi¬
+tuel. Ici, Chaucer laisse de côté ses sujets de prédilection,
+c’est à dire les tableaux gracieux, les sentiments mélanco¬
+liques ou tendres, les scènes naïvement comiques, pour
+prendre un essor plus élevé. Il recherche avant tout les
+éléments poétiques d’une nature gigantesque. Des foules
+innombrables, des espaces infinis, des bruits étranges: voilà
+ce qu’il se plaît à décrire. Dans cette œuvre singulière, les
+jeux de son imagination nous semblent rappeler parfois les
+conceptions d’un peintre moderne, son compatriote, le fan¬
+tastique Martins [sic]. Mais, chez le poète anglais, la
+grandeur des idées et la richesse de la création sont rarement
+exemptes de confusion. Le palais de la Renommée pèche par
+[p. 39] un défaut de plan bien sensible, et par des répétitions, des
+redondances qui en rendent la lecture difficile et fatigante.
+[A detailed account of the poem follows, pp. 39-48.]
+[p. 49] Le livre de la duchesse. [An account of the poem with
+. . . . . . . . . .
+long quotations in French, pp. 49-54.]
+[p. 54] On y trouve [in the last part ot the Boke of the Duchesse]
+. . . plusieurs de ces traits de nature qui placent Chaucer si
+haut dans l’opinion de Walter Scott. Mais ce sont des
+traits fugitifs qu’absorbe . . . le fatras de mauvais goût au
+milieu duquel ils se rencontrent.
+. . . . . . . . . .
+[p. 73] (2) Contes et Récits non-allégoriques.
+Troïle et Cresside, poème en cinq chants, d'un style géné¬
+ralement obscur. Le mauvais goût et la bizarrerie y
+dominent.
+[p. 74] Les Contes de Cantorbéry. Bien que laissée incomplète par
+. . . . . . . .
+l’auteur, cette composition est la plus vaste de Chaucer. . . .
+[The author gives an abridgement of the Prologue in
+French, up to the end of the description of the Prioress.]
+[p. 81] . . . Cette galerie de personnages se continue de la
+sorte pendant cinq ou six cents vers, et nous montre,
+ainsi que l’annonce l’auteur, des voyageurs de rangs fort
+divers. . . .
+[p. 82] . . . On peut reprocher à ces portraits quelque chose
+d’uniforme dans l’exposition, souvent aussi des redondances
+de mots et d’idées; mais les défauts de l’ensemble dis¬
+paraissent devant la piquante richesse des détails; et l’intro¬
+duction aux Contes de Cantorbéry est, sans contredit, une des
+œuvres les plus remarquables de Chaucer. En effet, tracé
+avec une verve et une originalité soutenues, chaque caractère
+de cette nombreuse réunion présente l’étude d’une classe
+sociale au quatorzième siècle. Le poète, d’ailleurs, comme on
+a déjà pu en juger, ne se renferme pas dans la description
+des choses extérieures et matérielles, des figures ou des
+costumes; il est philosophe aussi bien que peintre; il pénètre
+l’esprit, les mœurs, les ridicules de ses contemporains.
+Ajoutez à cela que ses critiques, comme toutes les observa¬
+tions faites sur le fond même de l’esprit humain, se trouvent
+souvent applicables à tous les temps. Ainsi le lord des
+sessions, 'bon vivant à complexion sanguine, inaugurant sa
+journée par une soupe au vin et tenant table ouverte en
+permanence,' devait être le modèle parfait des magistrats
+provinciaux de son époque; et aujourd’hui encore, il pour¬
+rait représenter certains juges de paix de la joyeuse Angle¬
+terre. Nos comédies n’offrent pas de meilleurs types que la
+[p. 83] bourgeoise de Bath, veuve de cinq époux, 'toujours la
+première de sa paroisse à aller à l’offrande, et se mettant
+en fureur si quelqu’un l’y devançait; du reste, excellente
+pour rire, causer, amuser en voyage et indiquer des recettes
+contre l’amour.' On en peut dire autant du médecin,
+'homme des plus savants, qui faisait gagner les apothicaires
+et que les apothicaires faisaient gagner.' A côté de ce digne
+pendant des docteurs de Lesage et de Molière, figure fort
+bien aussi le sergent de la loi. . . .Derrière ces figures d’un
+comique un peu grotesque, vient le personnage modeste du
+clerc d’Oxford, comme pour montrer que Chaucer s’entendait.
+aussi en comique délicat et de bon goût. Dans le portrait
+de ce pauvre savant, 'maigre de corps, maigrement vêtu,
+maigrement monté, fort logicien, du reste pas assez mondain
+pour avoir un office,' se rencontre le sarcasme fin, le pinceau
+à la fois juste et retenu de La Bruyère.
+Nous pourrions puiser dans les caractères du matelot de
+[p. 84] l’économe, de l’intendant, du meunier, nombre de passages
+aussi heureux, nombre de traits dignes d’être étudiés par
+quiconque a la prétention de peindre le cœur humain, et qui
+certainement ont été exploités plus d’une fois par les
+écrivains anglais; mais il est une autre face de l’intro¬
+duction aux Contes de Cantorbéry, qui mérite aussi sa part
+d’examen.
+Chaucer ne s’est pas renfermé dans la peinture des défauts
+ou des vices domestiques. Outre la satire privée, il a fait de
+la satire sociale; et, dans cette partie de son œuvre, il a des
+droits non-seulement à l’attention du littérateur, mais encore
+á celle de l’historien. Soit que l’on considère ses tableaux
+comme un miroir fidèle du temps, soit qu’on y voie simple¬
+ment l’opinion passionnée d’un homme, ils sont une source
+précieuse de documents sur l’état des esprits et des choses en
+Angleterre, au quatorzième siècle. D’abord, le lecteur y
+trouve la preuve que cette hardiesse de pensée, si commune
+jadis parmi nos poètes et nos romanciers, se rencontrait
+aussi de l’autre côté de la Manche. Ensuite, tout en
+exagérant peut-être les désordres produits, à cette époque,
+par un clergé souvent sans vocation, ces satires attestent du
+moins de déplorables abus; elles en indiquent la nature et,
+jusqu’à un certain point, la gravité. Les diatribes du poète
+auront encore un autre intérêt, si l’on se rappelle l’adhésion
+[p. 85] de Chaucer à certaines doctrines hétérodoxes de Wiclef; car
+elles seront alors l’expression vivante de l’animosité des
+réformateurs anglais du quatorzième siècle, envers la
+hiérarchie ecclésiastique.
+Les personnages que Chaucer, dans sa galerie de portraits, a
+sacrifiés en partie à la vérité historique, en partie à ses autipa¬
+thies de réformateur, sont le moine, le frère mendiant, l’huissier
+épiscopal et le porteur d’indulgences. Le premier de ces
+quatre personnages a servi de modèle à Walter Scott pour son
+prieur de Jorvaulx; seulement, le romancier écossais, avec
+ce tact si remarquable en lui, n’a emprunté à l’original que des
+traits et des couleurs adoucis, présumant que c’était le plus
+sûr moyen de rester dans le vrai. Voici le caractère tracé
+par Chaucer: on pourra le comparer avec celui du moine
+d’Ivanhoe.
+[The description of the monk follows. ]
+[p. 88] . . . L’indignité du frère prêcheur a pour pendant l’avarice
+et la fourberie de l’huissier épiscopal et du porteur d’indul¬
+gences. Le premier est un effronté voleur, qui, fermant les
+yeux pour de l’argent sur les plus grands scandales, ne se fait
+aucun scrupule de tourner en dérision l’autorité dont il exé¬
+[p. 89] cute les ordres. Le second est aussi repoussant au moral qu’au
+physique, une sorte de castrat tout bardé de reliques menson¬
+gères, avec lesquelles il soutire de l’argent à tout le monde.
+On dira peut-être que jusqu’ici cet acharnement contre les
+mœurs du clergé n’est remarquable que par la forme; que
+c’est, du reste, le fond des diatribes si fréquentes chez Boccace
+et Pétrarque en Italie, chez les troubadours et les trouvères en
+France: soit; mais voici qui ajoute un trait tout particulier
+à la censure de Chaucer. Après avoir flétri les abus ecclési¬
+astiques et battu en brèche le clergé régulier, l’auteur songe à
+élever un monument conforme à ses propres doctrines. Cette
+prétention n’est pas plus avouée que les vues subversives
+cachées sous les portraits dont nous venons de rendre compte;
+mais elle se sent, elle se révèle. On va en juger. Aux indignes
+personnages dont il vient de peindre les défauts et les vices,
+Chaucer oppose le caractère du curé, homme instruit, de
+mœurs et d’habitudes toutes primitives, et qui prêche la vraie
+morale de Jésus Christ. Ce prêtre, bon et résigné dans le
+[p. 90] malheur, qui, malgré l’étendue de sa paroisse, va, malade ou
+bien portant, par la pluie ou par le tonnerre, visiter à pied ses
+paroissiens les plus éloignés, qui réside et n’emploie pas son
+temps à briguer un bénéfice lucratif à Londres, ce prêtre tout
+apostolique est le rêve du poète. Il en fait un idéal accompli,
+au sujet duquel il expose ses théories, ou plutôt celle des
+Wicléfistes, qui, non-seulement voulaient élever le clergé
+séculier sur la ruine des ordres monastiques, mais imposaient
+[p. 91] aussi aux hommes de Dieu la pauvreté et l’innocence des
+premiers temps du christianisme.
+[Comparison with the Decamerone of Boccaccio]. . .
+[p. 93] Exception faite du récit du chevalier qui tient un rang
+tout à fait hors ligne, les contes enchâssés dans le pèlerinage
+de Cantorbéry, nous semblent l’emporter rarement sur les
+[p. 94] nouvelles du Décaméron. . .. C’est le mérite littéraire qui
+seul est en question. Or, sous ce rapport, l’œuvre de Chaucer
+prête beaucoup plus à la critique que ne le reconnaissent
+généralement ses compatriotes. Aux yeux d’un juge non
+prévenu, la plupart de ses contes paraîtront certainement, ou
+mal choisis, ou d’une narration défectueuse. . . .
+[p. 96] . . . Il a été dit plus haut, que, parmi les contes de Cantor¬
+. . . . . . . . . . .
+béry, on en trouve un dont la supériorité est incontestable.
+Ce morceau [the Knightes Tale] important par son étendue,
+est une sorte de poème héroïque où le bon goût des idées,
+l’art du style et l’intérêt des situations, sont portés à une
+hauteur rare chez les écrivains du moyen âge. Une telle
+œuvre montre combien Chaucer aurait pu exceller dans les
+sujets nobles et graves. Inspirée en grande partie par un
+poème de Boccace oublié maintenant, elle ne doit pour cela
+rien perdre de notre estime; car nulle composition ne mérite
+davantage la qualité d’originale accordée si souvent, et à juste
+[pp. 101- [Prose translation of the Knightes Tale.]
+titre, aux autres imitations de notre poète. . . .
+204]
+[pp. 207- [Analysis of the Prologues and Tales and extracts from
+247]
+them.]
+[pp. 251- [Brief examination of the shorter poems and prose trans¬
+271]
+lations of some ot them.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

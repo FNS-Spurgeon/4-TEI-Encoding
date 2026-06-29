@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p16_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[1386?], Eustache Deschamps. Ballad addressed to Geoffrey Chaucer by Deschamps, when sending him his own works.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46854829">Deschamps, Eustache</author>
+            <date cert="low" when="1386">[1386?]</date>
+            <title level="a">Ballad addressed to Geoffrey Chaucer by Deschamps, when sending him his own works.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">16-17</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="frm">Moyen français</language>
+      </langUsage>
+      <textClass/>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="16"/>
+        
+        <ab type="imprint">[1386?]. Deschamps, Eustache. <hi rend="italic">Ballad addressed to Geoffrey Chaucer by Deschamps, when sending him his own works.</hi> Unique MS. Bibliothèque nationale, No. 840, fonds français, fol. lxii, lxii verso. <hi rend="italic">Œuvres complètes d’Eustache Deschamps</hi>, publiées par le marquis de Queux de Saint Hilaire, Société des Anciens Textes Français, vol. ii, 1880, pp. 138-40.</ab>
+        
+        <ab type="quotation">
+          <seg>
+            <lg>
+              <head>AUTRE BALADE
+                <note type="footnote">The exact text of the manuscript is here printed. This may be useful, as
+                  it has often been reprinted with different corrections. Thus slight changes
+                  have been made in its text, even in the edition of the Anciens Textes Français,
+                  without due comment. For example :— 
+                  <table cols="3" rows="3">
+                    <row role="label">
+                      <cell/>
+                      <cell>PRINTED TEXT.</cell>
+                      <cell>MANUSCRIPT.</cell>
+                    </row>
+                    <row role="data">
+                      <cell>line 25</cell>
+                      <cell>Qui en Gaule</cell>
+                      <cell>Qui men gaule</cell>
+                    </row>
+                    <row>
+                      <cell>line 20, 30</cell>
+                      <cell>Grand</cell>
+                      <cell>Grant</cell>
+                    </row>
+                    <row>
+                      <cell>line 32</cell>
+                      <cell>seroye</cell>
+                      <cell>seroie.</cell>
+                    </row>
+                  </table>
+                </note>
+              </head>
+              
+              <lg>
+                <l>O Socrates plains de philosophie</l>
+                <l>Seneque en meurs et anglux en pratique</l>
+                <l>Ouides grans en ta poeterie</l>
+                <l>Bries en parler saiges en rethorique</l>
+                <l n="5">Aigles treshaulz qui par ta theorique</l>
+                <l>Enlumines le regne deneas</l>
+                <l>Lisle aux geans ceuls de bruth
+                  <note type="footnote">Deschamps obtains the name by which he designates England from the
+                    Brut of Wace; cf. the ballade of Deschamps, <hi rend="italic">Sur les divers noms de l’Angleterre</hi>, 
+                    with the refrain "C’est de ce mot l’interpretacion," <hi rend="italic">Œuvres</hi> vi, pp. 87-8;
+                    and <hi rend="italic">De la prophecie de Merlin sur la destruction d’Angleterre qui doit brief
+                    advenir</hi>, refrain "Ou temps jadis estoit ci Angleterre," <hi rend="italic">Œuvres</hi> ii, pp. 33-4.</note>
+                  et qui as</l>
+                <l>Seme les fleurs et plante le rosier</l>
+                <l>Aux ignorans de la langue pandras
+                  <note type="footnote">La langue pandras–the French language. The idea of this expression
+                  comes also from Wace. Pandras was a mythical king of Greece, who had been
+                  vanquished by Brutus–the first king of Britain (England) according to the
+                  legend–at the head of a certain number of Trojan exiles who had been kept
+                  as slaves by Pandras. When Brutus, with the Trojan victors, landed in
+                  "Albion," he founded the realm of Britain. The language of the inhabitants
+                  of Britain (that of Chaucer) is first of all called Trojan, then "British," i.e. the
+                  language of Brutus. The language of Brutus being English, the language of
+                  Pandras, the enemy of Brutus, must have been French, the language of the
+                  hereditary enemies of England. See an article in the <hi rend="italic">Academy</hi>, Nov. 14, 1891,
+                  p. 432, by Dr. Paget Toynbee, on this ballade.</note>
+                </l>
+                <l n="10">Grant translateur noble geffroy chaucier</l>
+              </lg>
+              
+              <milestone unit="page" n="17"/>
+              
+              <lg>
+                <l>Tu es damours mondains dieux en albie</l>
+                <l>Et de la rose en laterre angelique</l>
+                <l>Qui dangela saxonne et<note type="footnote">est?</note> puis flourie</l>
+                <l>Angleterre delle ce nom sapplique</l>
+                <l n="15">Le derrenier en lethimologique</l>
+                <l>En bon angles le livre translatas</l>
+                <l>Et un vergier ou du plant demandas</l>
+                <l>De ceuls qui font
+                  <note type="footnote">Ceuls qui font, i.e. the poets, "the makers." Cf. Chaucer in the <hi rend="italic">Compleynt
+                    of Venus</hi>, where he speaks of Oton de Graunson as "flour of hem that make in Fraunce."</note>
+                  pour eulx auctorisier</l>
+                <l>A ja long temps que tu edifias</l>
+                <l n="20">Grant translateur noble geffroy chaucier</l>
+              </lg>
+              
+              <lg>
+                <l>A toy pour ce de la fontaine helye</l>
+                <l>Requier avoir un buuraige autentique</l>
+                <l>Dont la doys est du tout en ta baillie</l>
+                <l>Pour rafrener delle ma soif ethique</l>
+                <l n="25">Qui men<note type="footnote">en?</note> gaule seray paralitique</l>
+                <l>Jusques a ce que tu mabuueras</l>
+                <l>Eustaces sui qui de mon plant aras</l>
+                <l>Mais pran en gre les euures descolier</l>
+                <l>Que par clifford de moy auoir pourras</l>
+                <l n="30">Grant translateur noble gieffroy chaucier</l>
+              </lg>
+            </lg>
+              
+            <lg>
+              <head>LENUOY</head>
+              <l>Poete hault loenge destmye
+                <note type="footnote">Destmye. It appears to us that this is without doubt, the reading ot the
+                  manuscript, although, at first sight, “destruye" might seem to be correct. But
+                  on close inspection it will be seen that the down-stroke of the m is without
+                  the small hook that the scribe attaches throughout to the r. "destinye"
+                  is possible, but no dot is visible over the i. It seems impossible to discover
+                  the sense of the passage. Toynbee and Ker suggest “deservye" (<hi rend="italic">Academy</hi>,
+                  Nov. 14, 1891), Nicholas, Wright and Sandras suggest “destinye"; "destruye"
+                  is printed in the edn. of the Anciens Textes Français, and Tarbé (<hi rend="italic">Œuvres
+                  inédites de Deschamps</hi>, 1819, tome i, pp. 123-4) is the sole editor who has
+                  previously printed the word as it is found in the manuscript.
+                </note>
+              </l>
+              <l>En ton jardin ne seroie quortie</l>
+              <l>Considere<note type="footnote">Should it be read considéré?</note> ce que jay dit premier</l>
+              <l>Ton noble plant ta douce melodie</l>
+              <l n="35">Mais pour scauoir de rescripre te prie</l>
+              <l>Grant translateur noble geffroy chaucier.</l>
+            </lg>
+          </seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

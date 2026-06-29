@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p113_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1908, Émile Legouis. Introduction [to the] Contes de Canterbury de Geoffroy Chaucer,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73916839">Émile Legouis</author>
+            <date cert="high" when="1908">1908</date>
+            <title level="a">Introduction [to the] Contes de Canterbury de Geoffroy Chaucer,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">113-119</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#wantSublimitySeriousness"/>
+        <catRef scheme="#works" target="#frameOrder"/>
+        <catRef scheme="#works" target="#criticism"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="113"/>
+        <ab type="imprint">1908. Legouis, Emile. Introduction [to the] Contes de Canterbury de Geoffroy Chaucer, traduction française ... Paris, 1908, pp. ix.- xxxii.</ab>
+        <ab type="quotation">
+          <seg>[p. ix] L’œuvre dont la traduction est donnée dans ce volume a
+déjà été à plus d’une reprise célébrée chez nous par la critique.
+En des pages nombreuses et brillantes, tour à tour Taine et
+M. Jusserand, pour ne parler que d’eux, ont proclamé que
+les Contes de Canterbury étaient non seulement le premier
+chef-d’œuvre en langue anglaise, mais encore l’un des poèmes
+capitaux de l’Europe avant la Renaissance, qu’ils pourraient
+bien même en être de tous le plus vivant, le plus varié et le
+plus réjouissant. Nul des lecteurs de leurs belles études qui
+n’ait senti l’attrait du vieux livre dans leurs citations et à
+travers leurs analyses. Or c’est un indice curieux (et inquié¬
+tant aussi) de notre tournure d’esprit que le manque persistant
+d’une version accessible de ces Contes si bien loués.
+. . . . . . . . . .
+[p. x] Les Contes de Canterbury sont donc restés pour la France
+un de ces chefs d’œuvre qu’on salue de très loin et qu’on
+ignore. C'est ainsi qu'il manque au lecteur désintéressé un
+des livres de jadis qui peuvent le plus pour son amusement ; à
+l’historien un tableau unique de la vie populaire du XIVe
+siècle ; au littérateur un des plus remarquables prolongements
+à l’étranger de notre poésie nationale, et avec cela une œuvre
+qui, fondée sur le passé, fait mieux qu’aucune prévoir le
+progrès de la littérature européenne.
+Il est un autre regret auquel le manque de cette traduction
+peut justement donner lieu. Faute de lire les Contes de
+Canterbury les Français se sont refusé la seule entrée de plain-
+pied qui leur fût possible dans la littérature anglaise . . .
+Ce pas est à peine franchi que la communion devient parfaite :
+[p. xi] pensées, sentiments, histoires, plaisanteries, tours d’esprit et
+de style, on y retrouve ce qu’on a laissé derrière. On y est
+chez soi, avec l’agrément d’être en même temps hors de chez
+soi ; on y apprend selon des modes familiers des choses
+curieuses sur un pays différent. . . . Nul écrivain anglais
+ne nous communique au même degré que Chaucer le sens de
+cette entente cordiale primitive. Ce n’est certes pas que nous
+songions à le revendiquer comme nôtre ; il nous est préférable
+que ses vers et ses contes aient essaimé de chez nous pour
+former au dehors une ruche nouvelle, riche et prolifique.
+Ainsi pouvons-nous dans la suite, après avoir séjourné quelque
+temps auprès de lui, passer mieux préparés aux autres grands
+poètes anglais, vrais indigènes ceux-là et parfois très étrangers
+à notre esprit, mais qui ont tous été à quelque degré ses
+élèves, et tous ont salué en lui le maître et le père.
+. . . . . . . . .
+[p. xviii] La galerie des portraits qui mène aux contes est la seule
+partie de l’édifice qui ait été achevée définitivement, ou
+presque définitivement. Les vingt-neuf compagnons de
+route de Chaucer y figurent fixés en des traits et des couleurs
+que les années n’ont fait, semble-t-il, qu’aviver. . . .
+Ils sont là une trentaine appartenant aux professions les
+plus dissemblables.
+. . . . . . . . . .
+[p. xix] Nul doute que Chaucer, en quête de conteurs distincts, ne
+se soit d’abord avisé de cette différenciation la plus facile et la
+plus nette qui consiste dans le contraste des professions.
+Cela fait—et faisait surtout alors—une bigarrure de couleurs
+et de costumes dont l’œil est saisi d’emblée, une suite d’habi¬
+tudes et de tendances que l’esprit entend à demi-mot. Il
+suffisait de noter les traits génériques, les caractères moyens
+de chaque métier, pour obtenir déjà des portraits fortement
+accusés et qui ne risquaient pas d’être confondus. Plus d’une
+fois le poète s’en tient à un simple relevé des indices pro¬
+fessionnels. . . . Néanmoins il va souvent au delà ; ces
+signes de métier qu’il n’omet jamais, et qui donnent à tous
+les pèlerins une généralité par quoi ils sont vraiment repré¬
+sentatifs, il lui arrive de les resserrer et de les diriger en
+inclinant soit à l’idéalisation, soit à la satire. Aussi vrai que
+son Chevalier est le parangon des preux, que son Curé de
+village est le modèle des bons pasteurs, que son Clerc
+d’Oxford est le type de l’amour désintéressé de l’étude,—
+inversement son Moine, son Frère, son Semoneur, son Par¬
+donneur, rassemblent les traits les moins estimables de leurs
+congénères. Parfois aussi une généralisation d’une autre
+espèce vient croiser et enrichir celle du simple métier :
+l’Écuyer est en même temps la Jeunesse : le Laboureur est
+encore la Charité parfaite chez les humbles ; la Drapière de
+Bath est du même coup l’essence de la satire contre la
+femme.
+[p. xx] Enfin il ne s’en tient pas là ; il vivifie et rajeunit les de¬
+scriptions convenues ou les généralisations antérieures en
+ajoutant des détails que lui fournit l’observation directe.
+Il superpose les traits individuels aux génériques ; il donne,
+même quand il peint le type, l’impression de peindre une
+personne unique, rencontrée par hasard. . . . Cette com¬
+binaison des divers éléments est chez lui d’un dosage variable,
+extrêmement adroit sans qu’il y paraisse. Un peu plus de
+généralité, et ce serait le symbole figé, l’abstraction froide ;
+un peu plus de traits purement individuels, et ce serait la
+confusion où l’esprit s’égare faute de points de repère.
+La vraisemblance est d’autant mieux obtenue que nulle
+trace d’effort ou de composition ne se révèle :
+Ses nonchalances sont ses plus grands artifices.
+Les détails semblent se succéder au petit bonheur : les
+traite de costume ou d’équipement alternent avec les notations
+de caractère ou de moralité. Cela paraît à peine trié et
+ordonné. Ajoutez que la naïveté des procédés rappelle sans
+cesse celle des peintres primitifs, par je ne sais quel air de
+gaucherie, par la raideur inexperte de certains contours, par
+une insistance sur des minuties qui fait d’abord sourire, par
+la recherche des couleurs vives et en même temps par l’unique
+emploi des teintes plates à l’exclusion des tons dégradés. La
+présentation des pèlerins est faite avec une simplicité mono¬
+tone dont le plus rude artiste ne se contenterait pas aujour¬
+d’hui. Un à un, en des cadres rangés à égale distance l’un
+de l’autre, placés sur le même plan, et tous à la même hauteur,
+ils nous regardent tous de face. . . .
+. . . . . . . . . .
+[p. xxii] Chaucer a donc pu rivaliser avec le peintre. . . . Mais le
+poète a des ressources refusées au peintre ; il dispose des sons
+comme des couleurs. Chaucer use de cet avantage avec un
+égal bonheur. Il nous fait entendre les grelots qui, à la
+bride du beau cheval brun monté par le Moine, tintent au
+vent siffleur 'aussi clair et aussi fort que la cloche d’une
+chapelle.'
+. . . . . . . . . .
+Mieux encore, ces portraits achevés, Chaucer s’est avisé
+de les faire descendre de leur cadre. Il ne passe pas du
+[p. xxiii] portrait au conte sans intermédiaire. . . . Les prologues et
+les épilogues particuliers ramènent sans cesse l’attention des
+contes aux pèlerins qui les disent ou les écoutent, et soulignent
+le dessein du poète : faire de chacun de ces récits l’expression
+naturelle et vraisemblable de tel ou tel individu.
+. . . . . . . . . .
+A pèlerins divers de costume et de caractère il prêta des
+contes différents de fond et de forme. Son poème est une
+sorte d’Arche de Noé où des spécimens de tous les genres
+littéraires alors existants ont trouvé place, chacun y gardant
+la singularité de sa physionomie. La prose, les distiques, les
+stances, se succèdent et se croisent.
+[p. xxiv] Il fallait encore—et ce n’était pas le moins difficile de la
+. . . . . . . . . .
+tâche—attribuer à chaque pèlerin celui de ces contes qui
+convenait à sa caste et à sa nature. Cela encore Chaucer
+l’a fait admirablement où il a eu le temps de le faire, et la
+réussite est telle dans les parties achevées de son poème
+qu’on peut, qu’on doit admettre qu’il y eût triomphé d’un
+bout à l’autre s’il avait mené l’œuvre à sa conclusion. . . .
+[p. xxv] Certes le conte n’est plus toujours, dans l’abstrait, si bon,
+. . . . . . . . . .
+si rapide, si lestement et habilement tourné qu’il pourrait
+l'être, ni si souvent relevé de spirituels mots d’auteur. . . .
+Ainsi, pris à part, le conte de la Bourgeoise de Bath est in¬
+férieur en aisance, en dextérité et en brillant à Ce qui plaît
+aux Dames de Voltaire. Mais le conte tel qu’il est dans
+Chaucer ne sort pas de la bouche du poète ; il émane d’une
+commère qui y met sa philosophie de la vie et s’en fait un
+argument ; il lui sert à proclamer son idée des rapports entre
+mari et femme. Vu de cette manière, il prend une richesse
+et un comique qui font paraître minces et sans portée les
+vers agiles du poète français. D’ailleurs ce conte n’est ici
+que parcelle—la moins importante et savoureuse—de cette
+immense confession que nous fait la Bourgeoise. Du rôle
+principal il a passé à celui d’accessoire.
+. . . . . . . . . .
+[p. xxviii] Enfin, dernier pas, Chaucer va jusqu’à nous offrir des
+histoires dont il nous permet de nous moquer, si même il ne
+nous invite pas à les juger en soi fastidieuses ou ridicules.
+Le Moine essaie de compenser sa mine trop fleurie de joyeux
+veneur, sa carrure de grand 'engendreur', en psalmodiant la
+plus lugubre des complaintes sur la fin tragique des illustres
+de ce monde ; il est assez cuirassé d’embonpoint et d’indiffé¬
+rence, lui, pour soutenir avec calme le choc de ces infortunes
+anciennes ; mais le bon cœur du Chevalier souffre et proteste ;
+l’Aubergiste bâille et déclare que 'ce conte ennuie toute la
+compagnie.' Le chapelet funèbre ne sera pas égrené jusqu’au
+bout, et le Moine rentrera dans le silence, après avoir par la
+force soporifique de sa parole rétabli l’opinion de sa gravité
+dans l’esprit des pèlerins. Chaucer non plus ne pourra pas
+mener au terme le conte qu’il s’est attribué. L’Aubergiste
+sensé le rabrouera pour ce qu’il chante une ballade de cheva¬
+lerie qui rime beaucoup mais ne rime à rien. Sommé de dire
+une histoire où il y ait moins d’assonances et plus de doctrine,
+[p. xxix] il se vengera de son critique sournoisement en lui obéissant
+à la lettre. Il renoncera aux vers et répétera en prose la
+redoutable et interminable allégorie où Dame Prudence
+prouve à son époux, par tous les Pères de l’Eglise et tous les
+docteurs du stoïcisme, qu’il doit prendre en douceur les maux
+peu communs dont il est affligé. Dans ces trois cas, il serait
+malavisé, le lecteur qui chercherait son plaisir dans l’excellence
+des contes, au lieu de l’extraire, comme le poète, de leur
+absurdité ou de leur ennui.
+*
+**
+Ainsi se transforment les contes, simplement par la justesse
+de l’attribution, alors que, pour le reste, ils conservent visible
+leur marque d’origine. Mais il faut se garder de croire qu’à
+l’intérieur même des contes nul progrès ne se révèle. . . .
+La même faculté vivifiante qui donna corps et âme aux
+pèlerins court et circule dans beaucoup des récits qu’ils
+font. Ici sans doute l’apport de Chaucer est très inégal
+selon les cas. . . . Il faut convenir que Chaucer est très
+faiblement original dans la partie sérieuse, proprement
+poétique, des Contes de Canterbury. L'histoire de ce
+genre qu’il ait le plus remaniée est sûrement la Théséide de
+Boccace. . . .
+Mais ailleurs Chaucer est ou traducteur littéral, comme
+pour le conte de Mellibée, ou adaptateur très voisin du
+modèle comme pour le sermon du curé, pour la vie de sainte
+Cécile [etc.]. . . .
+[p. xxx] Tout autre est le cas pour les histoires comiques et réalistes
+analogues à nos fabliaux. Ici l’enrichissement est tel qu’on
+pourrait parler de création. Et cela reste en partie vrai,
+même si nous comparons Chaucer avec l’auteur du Décaméron,
+qui sut infuser à un genre originairement si sec tant de chaleur
+et de rougeur de sang. Mais tandis que Boccace, gardant la
+concision du genre, ne dépasse guère le tableau de mœurs,
+Chaucer, moins dense et moins passionné, s’avance progressive¬
+ment vers l’étude des caractères; il reproduit à l’intérieur de
+plus d’un de ces contes cet effort pour saisir l’individu qui
+fait la gloire de son Prologue. Boccace mène au roman
+picaresque ; Chaucer montre déjà la voie à Molière et à
+Fielding. C’est à ce point que chez lui l’intrigue, l’anecdote
+initiale, qui fut le tout du fabliau et qui reste le principal
+dans Boccace, passe à l’arrière-plan, s’efface, n’est plus guère
+qu’un prétexte. Dès le Conte du Meunier on s’en aperçoit à
+l’importance que prennent les portraits : celui de l’étudiant
+celui du clerc Nicolas, celui d’Alison. Mais le plus caractéris¬
+tique à cet égard est le Conte du Semoneur. Tout ce qui
+importe, ce sur quoi Chaucer s’étend, c’est la mise en scène
+[p. xxxi] du Frère mendiant, ses façons à la fois patelines et familières,
+ses extraordinaires efforts d’éloquence pour arriver à escroquer
+l'argent de son malade. Quand on atteint la grosse farce
+primitive, le meilleur du conte est achevé, et plus des deux
+tiers en est dit. Ce qui fut l’unique raison d’être du fabliau
+de Jacques de Basiu n’est plus ici que la simple conclusion
+d’une étude de caractère ensemble très approfondie et
+merveilleusement comique.
+[p. xxxii] Sans cesse nous éprouvons en lisant les Contes de Canterbury,
+. . . . . . . . . .
+surtout les contes plaisants, l’impression que quelque chose
+est en train de naître. Un levain d’observation et de vérité
+fermente à l’intérieur de genres fixes, qui eurent leur per¬
+fection spéciale, mais étroits et condamnés. Ce travail qui
+s’opère, c’est le théâtre moderne, voire le roman moderne,
+qui donnent leurs premiers signes manifestes d’existence.
+Cet Anglais du XIV° siècle, parfois empêtré dans une
+syntaxe enfantine, encore imbu de scolastique, la mémoire
+surchargée de citations et d’autorités bibliques ou profanes,
+ayant sur sa tête un ciel astrologique plus étrange aux regards
+européens d’aujourd’hui que celui de l’hémisphère sud,—ce
+'translateur' docile d’œuvres disparates et souvent elles-
+mêmes surannées,—se trouve en vérité avoir ouvert une ère
+nouvelle. C’est qu’en lui le désir de voir et de comprendre la
+vie a passé avant l’ambition de la transformer. Poète exilé
+pour péché d’humour des régions les plus hautes de la poésie,
+la curiosité l’a décidément emporté chez lui sur la foi, et la
+joie des yeux ou de l’intelligence sur celle de l’enthousiasme.
+Les paroles qu’il a entendues lui ont paru toujours réjouis¬
+santes, et même véridiques, du moins comme indices de la
+nature et de la pâture de qui les disait. Il mène le groupe,
+sans cesse accru, des contemplateurs qui accepteront comme
+un fait, avec une indulgence amusée, sans prétendre à reteindre
+l’étoffe d’une couleur unique, l’entrecroisement des fils de
+diverses nuances dont se compose le tissu bigarré d’une
+société. Il a sans doute jugé certaines couleurs plus belles
+que d’autres, mais c’est sur le contraste de toutes qu’il a
+fondé à la fois sa philosophie de la vie et les lois de son art.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

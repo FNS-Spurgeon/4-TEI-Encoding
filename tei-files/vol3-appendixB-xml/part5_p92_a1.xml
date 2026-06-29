@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p92_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1887, Bernard-Henri Gausseron. [Article 'Chaucer' in] La Grande Encyclopédie, inventaire raisonné des sciences, des lettres et des arts,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/61576820">Bernard-Henri Gausseron</author>
+            <date cert="high" when="1887">1887</date>
+            <title level="a">[Article 'Chaucer' in] La Grande Encyclopédie, inventaire raisonné des sciences, des lettres et des arts,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">92-94</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#biography" target="#french"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="92"/>
+        <ab type="imprint">1887. Gausseron, B.-H. [Article 'Chaucer' in] La Grande Encyclopédie, inventaire raisonné des sciences, des lettres et des arts, tome x, p. 930.</ab>
+        <ab type="quotation">
+          <seg>Chaucer (Geoffrey), poète anglais, né probablement vers
+1340, et non en 1328, suivant la date ordinairement adoptée ;
+mort le 25 oct. 1400. Les travaux de la critique moderne
+et tout particulièrement de ceux de sir Harris Nicolas, du
+Dr. Furnivall et des érudits qui composent la 'Chaucer
+Society' fondée en 1868, ont jeté quelque clarté sur les
+points obscurs de la vie de Chaucer. Son père, négociant
+en vins (vintner) à Londres, faisait partie de la suite
+emmenée par la famille royale lors du voyage en Flandre
+et à Cologne, en 1338. Cette circonstance aide à com¬
+prendre que Geoffrey Chaucer nous apparaisse, la première
+fois qu’il est fait mention de son nom dans un document
+(1357), en qualité de page attaché à la maison de Lionel,
+duc de Clarence, second fils d’Edward III. En 1359, il est
+dans les rangs de l’armée anglaise qui envahit la France,
+et dont Froissart a raconté l’expédition. Il y fut fait
+prisonnier, et recouvra sa liberté moyennant rançon, quelque
+temps avant le traité de Brétigny. Nous le retrouvons en
+1367 avec le titre de valet (valettus) du roi, qui lui accorde
+une pension et l’emploie à des missions diverses hors
+d’Angleterre en 1369 et en 1370. Il était marié dès cette
+époque à la fille de sir Payne Roët, du Hainault, et sa
+femme, Philippa, avait une charge de dame de la chambre
+auprès de la reine. Après une mission diplomatique en
+Italie (1372-1373), il fut nommé contrôleur des coutumes
+et subsides pour les laines et les peaux dans le port de
+Londres et, en même temps que cette charge lucrative,
+remplit celle, plus honorifique, d’écuyer du roi. Sa carrière
+de diplomate ne fut pas interrompue pour cela, et il eut
+encore à soutenir les intérêts de la cour d’Angleterre en
+Flandre, en France et en Italie. La mort d’Édouard III et
+l’avénement de Richard II (1377) n’ébranlèrent point d’abord
+la fortune de Chaucer. Il fut même envoyé à la Chambre
+des communes par le comté de Kent. Mais bientôt sa
+charge de contrôleur lui fut retirée, sa femme mourut, et il
+se débattit dès lors dans des embarras financiers dont il ne
+fut délivré que vers la fin de sa vie, par la faveur du roi
+Henri IV (1399), fils de son meilleur protecteur, le duc de
+Lancastre, lequel était devenu son beau-frère en épousant
+Catherine, veuve de sir Hugh Swynford et sœur de Philippa,
+sa femme. Nommé en 1389 secrétaire des travaux du roi
+au palais de Westminster, à la Tour de Londres et aux
+autres châteaux de la couronne, il perdit cette place en 1391
+et dut accepter, avec un certain Richard Brittle, les fonc¬
+tions de garde-forestier que Roger Mortimer, comte de
+March, leur offrait à North Petherton Park, dans le comté
+de Somerset. Il n’était pourtant pas complètement oublié
+à la cour, car on le trouve en 1398, remplissant pour le
+compte du roi des missions secrètes dans différentes parties
+du royaume. Il mourut le 25 oct. 1400, et fut inhumé dans
+la chapelle de l’abbaye de Westminster, où il inaugura ce
+qu’on a appelé le 'Coin des poètes.' C’est, en effet, comme
+poète que Geoffrey Chaucer s’est assuré un renom immortel.
+Il est, avec Gower, et bien au-dessus de lui, le véritable
+père de la poésie anglaise. Le premier, il a su plier la
+langue vulgaire, sortie du fond saxon et très fortement
+mélangée d’éléments français-normands, aux nécessités et
+aux fantaisies d’une pensée raffinée ; il lui a donné la soup¬
+lesse et la sonorité du rythme ; tout en lui conservant son
+caractère populaire de familiarité et d’énergie, il en a fait le
+merveilleux instrument littéraire dont tant de génies divers
+se sont servis jusqu’à nos jours pour créer des chefs-d’œuvre.
+La manière littéraire de Chaucer peut se diviser en trois
+périodes assez distinctes. Dans la première, il se montre
+disciple direct de nos trouvères. S’il n’est pas l’auteur de
+la version anglaise du Roman de la Rose, que beaucoup lui
+attribuent, c’est du moins à cette période que se rapportent
+A.B.C. ou la prière de Nostre Dame et la Complainte à
+la Pitié. Puis l’influence italienne, que ses séjours répétés
+en Italie devaient le disposer à subir facilement, se fait
+de plus en plus sentir dans des œuvres comme the Parlement
+of Foules, the Complaint of Mars, Anelida and Arcite, sa
+traduction en prose et en vers du De Consolatione de Boëce,
+Troïlus and Criseyde, the House of Fame, the Legend of
+Good Women, the Complaint of Venus, etc. Enfin, il se
+montre lui-même inventeur, créateur et grand poète, lorsque,
+dans un cadre dont le Décaméron a sans doute fourni l’idée
+première, il nous présente le pittoresque, saisissant et amusant
+défilé de tous les types caractéristiques de la société anglaise
+de son temps, réunis à la taverne du Tabard, près de London-
+Bridge, en route pour un pèlerinage au tombeau de Thomas
+Becket, et profitant de leur rencontre pour se raconter les
+inoubliables histoires, qui, sous le titre de Canterbury Tales,
+font à jamais partie du trésor littéraire du genre humain.
+La première édition en fut publiée par Caxton, vers 1478,
+la meilleure est celle de Furnivall (1868). Un littérateur
+de plus d’excentricité que de talent, le chevalier de Chate¬
+lain, a donné, dans ce siècle, un essai de traduction des
+Contes de Cantorbéry, qui ne permet pas de dire que nous
+en possédions une version française.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

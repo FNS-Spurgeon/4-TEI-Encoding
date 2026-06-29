@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p51_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1838, Lécluze, Etienne. Chaucer. Le Pèlerinage de Canterbury, 1328-1400, [article in the] Revue française,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Lécluze, Etienne</author>
+            <date cert="high" when="1838">1838</date>
+            <title level="a">Chaucer. Le Pèlerinage de Canterbury, 1328-1400, [article in the] Revue française,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">51-53</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#works" target="#prologue"/>
+        <catRef scheme="#biography" target="#french"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="51"/>
+        <ab type="imprint">1838. Lécluze, Etienne Chaucer. Le Pèlerinage de Canterbury, 1328-1400, [article in the] Revue française, tome vi, April 1838, pp. 33-62.</ab>
+        <ab type="quotation">
+          <seg>J'aime les gravures. Au nombre de celles qui ornent ma
+[p. 33] modeste demeure, il en est une dont la composition originale
+pique vivement la curiosité de ceux qui y ont une fois porté
+leurs regards. C’est le Pèlerinage de Canterbury, ouvrage
+du peintre anglais Stothard, gravé fort habilement par J.
+Heath. Dans un cadre très large et peu élevé, se dé¬
+veloppe une longue cavalcade où l’on distingue des person¬
+nages de conditions, d’états et de sexes différens . . . [descrip¬
+tion of the pilgrims].
+Quoique l’éditeur de la gravure ait pris soin d’y faire
+inscrire, à la marge inférieure, la qualité et un numéro qui
+se rapportent à chaque personnage, cette indication est loin
+de faire connaître, surtout aux Français, la cause et le but
+de cette étrange réunion. Souvent je me suis trouvé dans
+la nécessité d’en faire, tant à mes amis qu’à des curieux, une
+explication qui, bien qu’assez étendue, était loin cependant
+de les satisfaire. J’omettais toujours quelque circonstance
+importante; j’intervertissais l’ordre du récit en n’observant
+[p. 34] pas celui dans lequel sont rangées les figures, et, lorsque j’en
+venais à nommer Chaucer, le poète dont l’ouvrage a donné
+lieu à la composition de Stothard, on redoublait de questions
+à son sujet. . . . Je pris donc le parti, pour satisfaire plus
+complètement la curiosité des autres et me soulager, il faut
+bien le dire, de la répétition assez fréquente des mêmes
+paroles, de traduire le Prologue des Contes de Canterbury, du
+poète anglais Chaucer . . . prologue qui fait le sujet de la
+gravure. . . .
+Mais cette explication, mise à la portée de mes curieux,
+ne fut pas encore suffisante pour plusieurs d’entre eux.
+Ceux de ces derniers surtout qui aiment ou cultivent les
+lettres n’avaient pas plutôt lu la traduction du Prologue
+. . . devant la gravure, qu’ils recommençaient leurs ques¬
+tions sur le poète Chaucer, sur ses ouvrages et sur son siècle,
+tant qu’enfin je cédai à leurs demandes en ajoutant à la
+traduction qu’ils avaient entre les mains quelques réflexions
+sur le caractère du talent de Chaucer, sur son temps, sans
+omettre de faire sentir la distinction des qualités propres à
+cet ingénieux écrivain anglais du quatorzième siècle avec
+celles qu’il a empruntées aux auteurs français et surtout aux
+Italiens de son temps. . . . [A translation in French prose
+follows of the Prologue to the Canterbury Tales.]
+[p. 49] Il est difficile de trouver un cadre plus ingénieux en lui-
+même et plus favorable pour préparer le lecteur à la narration
+d’une suite de contes ou de nouvelles que ce charmant
+prologue de Chaucer. Toutefois, ce qui démontre la supér¬
+iorité de l’imagination et du talent de cet écrivain, c’est que
+la plupart des contes qu’il prête à ses personnages sont
+disposés avec autant d’art et écrits avec autant de verve et
+d’esprit que le prologue. Aussi les Contes de Canterbury
+forment-ils le principal titre de la gloire de Chaucer, et
+marquent-ils une époque très intéressante dans l’histoire de la
+littérature et de la poésie anglaises, dont Geoffroy Chaucer
+est regardé comme le père.
+Ce poète, car il mérite réellement ce nom par la double
+faculté qu’il avait de bien composer et de bien exprimer ses
+idées, Geoffroy Chaucer . . . est né en 1328. . . . [A two-
+page description is then given of England in the fourteenth
+century, and reference is made to Chaucer's satire against
+the Church, and to his sympathy for the doctrines ot Wyclif.]
+[p. 52] On sait peu de choses positives sur la vie de . . . Chaucer.
+[The usual statement of his life follows, first as student then
+courtier, lawyer, traveller and ambassador. A short account
+of his prose works, Boece, the apocryphal Testament of Love
+and the Astrolabe, is then given, with a list of his poems
+ending with the Canterbury Tales.]
+[p. 54]
+Ce recueil de contes, dont on a lu l’ingénieux prologue, passe
+pour être le dernier ouvrage du père de la poésie anglaise.
+. . . On ne peut douter que le Décaméron de Boccace ne lui
+ait fourni l’idée et la donnée première de son recueil ; mais il
+faut avouer aussi qu’il est difficile, en suivant la route d’un
+autre, de s’y montrer avec plus d’originalité et de nouveauté
+que Geoffroy Chaucer. Je ne craindrai même pas d’avouer
+que, sous le rapport de l’invention, le poète anglais est
+souvent supérieur au prosateur italien; et j’en prends pour
+preuve le prologue des Contes de Canterbury, comparé à
+l’avant-propos du Décaméron.
+Il me semble que ce serait un service à rendre aux per¬
+sonnes qui aiment les lettres, comme à celles qui cherchent à
+s’instruire dans la connaissance des mœurs et de l’esprit du
+quatorzième siècle . . . que de donner une traduction en
+français des Contes de Canterbury. En faisant un premier
+essai moi-même sur le prologue, j’ai eu l’idée d’engager
+quelques jeunes et studieux littérateurs à se livrer à ce
+[p. 55] doute dans ma traduction, je crois cependant que la verve
+grand travail. Malgré les imperfections qui fourmillent sans
+pétulante avec laquelle le poète Chaucer a tracé les portraits
+de ses conteurs, éclate avec vivacité, et que cette spirituelle
+préface fera naître un vif désir de connaître le reste de
+l’ouvrage. [The author then proceeds to give a short
+account of each tale, 6 pp.]. . . . . .
+[p. 61] Je ne sais si le lecteur me saura gré des details minutieux
+que je viens de donner sur l’ensemble et sur les parties des
+ouvrages de G. Chaucer. Mais ses poèmes sont de nature à
+ne pouvoir être analysés qu’isolément, car la variété des
+sujets et du style est un trait caractéristique dans les pro¬
+ductions de cet écrivain, et je n’ai pas cru pouvoir faire
+mieux connaître le génie varié de cet homme qu’en repro¬
+duisant successivement toutes les faces sous lesquelles il se
+présente.
+Geoffroy Chaucer est sans doute une des gloires littéraires
+de l’Angleterre; mais, en sa qualité de savant, d’écrivain,
+de poète de la renaissance, il appartient à la grande famille
+européenne, et doit être placé au nombre des hommes qui
+ont le plus activement contribué à rallumer le flambeau des
+sciences, des lettres et de l’érudition. Le nom de Chaucer
+le cède, il est vrai, à ceux de Dante et de Pétrarque, mais on
+peut l’inscrire sur la même ligne que celui de Boccace.
+. . . . . . . . . .</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

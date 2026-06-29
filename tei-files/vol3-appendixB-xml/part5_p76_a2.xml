@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p76_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1863, Hippolyte Taine. Histoire de la littérature anglaise,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/2477374">Hippolyte Taine</author>
+            <date cert="high" when="1863">1863</date>
+            <title level="a">Histoire de la littérature anglaise,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">76-79</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#works" target="#criticism"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-06-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="76"/>
+        <ab type="imprint">1863. Taine, Hippolyte. Histoire de la littérature anglaise, tom. i, chapitre 3, La nouvelle Langue, pp. 135-7, 166, 171-242 [con¬ taining]:</ab>
+        <ab type="quotation">
+          <seg>I. Chaucer. Son éducation.—Sa vie politique et mondaine
+—En quoi elle a servi son talent.—Il est peintre de la
+seconde société féodale.
+II. Comment le moyen âge a dégénéré.— Diminution de
+sérieux dans les mœurs, dans les écrits et dans les œuvres
+d’art.—Besoin d’excitation.—Situations analogues de l’archi¬
+tecture et de la littérature.
+III. En quoi Chaucer est du moyen âge.—Poëmes roman¬
+tiques et décoratifs.—Le Roman de la Rose.— Troïlus et
+Cressida.—Contes de Cantorbéry.—Défilé de descriptions et
+d’événements.—La Maison de la Renommée.— Visions et
+rêves fantastiques.—Poëmes d’amour.— Troïlus et Cressida.—
+Développement exagéré de l’amour au moyen âge.—Pour¬
+quoi l’esprit avait pris cette voie.—L’amour mystique.—La
+Fleur et la Feuille.— L’amour sensuel.— Troïlus et Cressida.
+IV. En quoi Chaucer est Français.—Poëmes satiriques et
+gaillards.—Contes de Cantorbéry.—La bourgeoise de Bath et
+le mariage.— Le frère quêteur et la religion.— La bouffonnerie,
+la polissonnerie et la grossièreté du moyen âge.
+V. En quoi Chaucer est Anglais et original.— Conception
+du caractère et de l’individu.— Van Eyck et Chaucer sont
+contemporains.—Prologue des Contes de Cantorbéry.—
+Portraits du franklin, du moine, du meunier, de la bourgeoise,
+du chevalier, de l’écuyer, de l’abbesse, du bon curé.—Liaison
+des événements et des caractères.—Conception de l’ensem¬
+ble.—Importance de cette conception.— Chaucer précurseur
+de la Renaissance.— Il s’arrête en chemin.— Ses longueurs et
+ses enfances.— Causes de cette impuissance.—Sa prose et ses
+idées scolastiques.—Comment dans son siècle il est isolé. . . .
+[p. 172] [Vers le quatorzième siècle, en Angleterre] . . . il y
+avait place pour un grand écrivain. Un homme supérieur
+parut, Jeffrey Chaucer, inventeur quoique disciple, original
+quoique traducteur, et qui, par son génie, son éducation et
+sa vie, se trouva capable de connaître et de peindre tout un
+monde, mais surtout de contenter le monde chevaleresque
+et les cours somptueuses qui brillent sur les sommets. . . .
+[p. 173] Comme Froissart, et mieux que Froissart, il a pu peindre
+les châteaux des nobles, leurs entretiens, leurs amours, même
+quelque chose d’autre, et leur plaire par leur portrait. . . .
+. . . . . . . . .
+[p. 182] Chaucer décrit une troupe de pèlerins, gens de toute con¬
+dition qui vont à Cantorbéry . . . qui conviennent de dire
+[p. 183] chacun une histoire. . . . Sur ce fil léger et flexible, tous les
+joyaux, faux ou vrais, de l’imagination féodale viennent
+poser bout à bout leurs bigarrures et faire un collier . . .
+Chaucer est comme un joaillier, les mains pleines; perles et
+verroteries, diamants étincelants, agates vulgaires, jais
+sombres, roses de rubis, tout ce que l’histoire et l’imagination
+ont pu ramasser et tailler depuis trois siècles en Orient, en
+France, dans le pays de Galles, en Provence, en Italie, tout
+ce qui a roulé jusqu’à lui entrechoqué, rompu, ou poli par le
+courant des siècles, et par le grand pêle-mêle de la mémoire
+humaine, il l’a sous la main, il le dispose, il en compose une
+longue parure nuancée, à vingt pendens, à mille facettes, et
+qui, par son éclat, ses variétés, ses contrastes, peut attirer et
+contenter les yeux les plus avides d’amusement et de
+nouveauté. . . .
+[p. 200] [Love poems. In writing of Troylus, Taine gives a quota¬
+tion from The Cuckoo and the Nightingale, ll. 241-250,
+wherein the nightingale weeps for sadness on hearing the
+cuckoo speak evil of love.]
+Eh bien, dit-il, use de ce remède, . . .
+Puis il commença bien haut la chanson
+'Je blâme tous ceux qui sont en amour infidèles.'
+C’est jusqu’à ces délicatesses exquises que l’amour, ici
+comme chez Pétrarque, avait porté la poésie : même par
+raffinement, comme chez Pétrarque, il s’égare ici parfois dans
+le bel esprit, les concetti et les pointes. Mais un trait
+[p. 201] marqué le sépare à l’instant de Pétrarque. S’il est exalté, il
+est outre cela gracieux, poli, plein de mièvreries, de demi-
+moqueries, de fines gaietés sensuelles, et un peu bavard, tel
+que les Français l’ont toujours fait. C’est que Chaucer ici
+suit ses véritables maîtres, et qu’il est lui-même beau diseur,
+abondant, prompt au sourire, amateur de plaisir choisi, disciple
+du Roman de la Rose, et bien moins Italien que Français.
+La pente du caractère français fait de l’amour, non une pas¬
+sion, mais un joli festin, arrangé avec goût, où le service est
+élégant, la chair [sic] fine, l’argenterie brillante, les deux
+convives parés, dispos, ingénieux à se prévenir, à se plaire,
+à s’égayer et s’en aller. Certainement dans Chaucer, à côté
+des tirades sentimentales, cette autre veine coule, toute
+[p. 202] mondaine. . . . Non seulement il est gai, mais il est moqueur
+d’un bout à l’autre du récit [de Troïlus et Criseyde], il voit
+clair à travers les subterfuges de la pudeur féminine; il en
+rit malicieusement et sait bien ce qu’il y a derrière; il a l’air
+de nous dire, un doigt sur les lèvres : 'Chut! laissez couler
+les grands mots, vous serez édifié tout à l’heure.' . . .
+[p. 203] D’autres traits sont encore plus gais : voici venir la vraie
+littérature gauloise, les fabliaux salés, les mauvais tours joués
+au voisin, non pas enveloppés dans la phrase cicéronienne de
+Boccace, mais contés lestement et par un homme en belle
+humeur. Surtout voici venir la malice alerte, l’art de rire
+aux dépens du prochain. Chaucer l’a, mieux que Rutebeuf,
+[p. 204] et quelquefois aussi bien que la Fontaine. Il n’assomme
+pas, il pique, en passant, non par haine ou indignation pro¬
+fonde, mais par agilité d’esprit et prompt sentiment des
+ridicules; il les jette à pleines poignées sur les personnages.
+[Taine then deals with the Wife of Bath &amp; the Monk.]
+. . . . . . . . . . .
+[p. 217] Pour la première fois, chez Chaucer, comme chez Van
+Eyck, le personnage prend un relief, ses membres se tien¬
+nent, il n’est plus un fantôme sans substance, on devine son
+passé, on voit venir son action . . . encore aujourd’hui,
+après quatre siècles, il est un individu et un type; il reste
+debout dans la mémoire humaine comme les créatures de
+Shakespeare et de Rubens. Cette éclosion, on la surprend
+ici sur le fait. Non-seulement Chaucer, comme Boccace, relie
+ses contes en une seule histoire, mais encore, ce qui manque
+chez Boccace, il débute par les portraits de tous ses conteurs,
+[p. 218] chevalier, huissier [etc.] . . . environ trente figures dis¬
+tinctes . . . chacune peinte avec son tempérament . . .
+ses habitudes et son passé . . . si bien qu’on trouverait ici,
+avant tout autre peuple, le germe du roman de mœurs tel
+que nous le faisons aujourd’hui. . . .
+[p. 222] [Portrait of the Prioress.] Voici donc la réflexion qui
+commence à poindre, et aussi le grand art. Chaucer ne
+s’amuse plus, il étudie. . . . Chaque conte est approprié au
+conteur. . . . Tous ces récits sont liés, et beaucoup mieux
+que chez Boccace, par de petits incidents vrais, qui naissent
+du caractère des personnages, et tels qu’on en rencontre en
+voyage. . . .
+[p. 225] On est sur le bord de la pensée indépendante et de la
+découverte féconde. Chaucer y est. A cent cinquante ans
+de distance, il touche aux poëtes d’Élisabeth par sa galerie
+de peintures, et aux réformateurs du seizième siècle par son
+portrait du bon curé.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
