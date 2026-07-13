@@ -3,7 +3,7 @@ from datetime import date
 import csv
 import os
 
-file = "../../3-DataEnrichment/2-DataEnriched/vol3-appendixB-allusions-enriched.csv"
+file = "../../3-DataEnrichment/2-DataEnriched/vol3-appendixC-allusions-enriched.csv"
 
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
@@ -134,6 +134,12 @@ with open(file, 'r', encoding='utf-8') as f:
         elif row[17] == "en":
             language = etree.SubElement(langUsage, "language", ident=row[17])
             language.text = "English"
+        elif row[17] == "de":
+            language = etree.SubElement(langUsage, "language", ident=row[17])
+            language.text = "German"
+        elif row[17] == "la":
+            language = etree.SubElement(langUsage, "language", ident=row[17])
+            language.text = "Latin"
         else:
             language = etree.SubElement(langUsage, "language", ident="#")
 
@@ -180,7 +186,7 @@ with open(file, 'r', encoding='utf-8') as f:
 
         tree = etree.ElementTree(root)
 
-        path_tei = '../tei-files/vol3-appendixB-xml'  # New folder to save the files
+        path_tei = '../tei-files/vol3-appendixC-xml'  # New folder to save the files
         if not os.path.isdir(path_tei):
             os.mkdir(path_tei)
 

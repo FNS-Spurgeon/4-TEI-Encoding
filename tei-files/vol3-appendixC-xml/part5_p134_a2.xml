@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p134_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1793, [Johann Joachim Eschenburg?]. Gottfried Chaucer.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="low" role="M" ref="http://viaf.org/viaf/59108800">Eschenburg, Johann Joachim</author>
+            <date cert="high" when="1793">1793</date>
+            <title level="a">Gottfried Chaucer, [in] Charaktere der vornehmsten Dichter aller Nationen; nebst kritischen und historischen Abhandlungen über Gegenstände der schönen Künste und Wissenschaften, von einer Gesellschaft von Gelehrten.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">134-136</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#general"/>
+        <catRef scheme="#works" target="#knightTale"/>
+        <catRef scheme="#works" target="#frameOrder"/>
+        <catRef scheme="#works" target="#criticism"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-07-13" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="134"/>
+        
+        <ab type="imprint">1793. [Eschenburg, J. J.?] <hi rend="italic">Gottfried Chaucer</hi>, [in] <hi rend="italic">Charaktere der vornehmsten Dichter aller Nationen; nebst kritischen und historischen Abhandlungen über Gegenstände der schönen Künste und Wissenschaften, von einer Gesellschaft von Gelehrten</hi>, Leipzig, 1793, vol. ii, pp. 113-139.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorial">[This long and careful essay (27 pp.) is, so far as I know,
+            by far the best eighteenth-century account of Chaucer
+            written by any foreign writer. It is written with evident
+            knowledge of Chaucer's work at first hand, and is no mere
+            repetition of what others have said. The poems, and
+            
+            <milestone unit="page" n="135"/>
+            
+            Chaucer's sources, are discussed in detail, with accuracy
+            and insight.]</seg>
+          
+          <seg><note place="margin">[p. 118]</note>Mit dem klassischen Alterthum war Chaucer nicht unbe¬
+            kannt; das beweisen seine häufigen Anspielungen auf Stellen
+            der Alten. Aber ihre Dichtkunst war wenigstens nicht
+            das Vorbild seiner Nachahmung. Dazu war seine Weltkenntniss
+            und seine Belesenheit zu mannigfaltig. Aus den
+            französischen und italienischen Dichtern entlehnte er das
+            meiste. Aus ihnen schöpfte er nicht nur den Stoff, sondern
+            die ganze Behandlungsart seiner beyden und vornehmsten
+            Gedichte, <hi rend="italic">The Knight's Tale</hi>, und <hi rend="italic">The Romaunt of the Rose</hi>.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 119]</note>Unter Chaucer's Hand erhielt diese Dichtung (<hi rend="italic">The
+            Knight's Tale</hi>) viele neue Schönheiten. Einige vorzügliche
+            Gemälde und Beschreibungen, z. B. die von den Tempeln
+            des Mars, der Venus, und der Diana, und manche darein
+            verwebte Allegorien, haben durch die freye und edle Manier
+            des brittischen Dichters nicht wenig gewonnen. Nicht genug
+            indess, dass er manch Neues und Eignes hinzuthat; er liess
+            auch viel Mattes und Weitschweifiges hinweg, welches die
+            Lesung des italienischen Originals so oft ermüdend macht.
+            Auch entledigte er sich der Einförmigkeit und des Zwanges der
+            Stanzen, und wählte das freyere Metrum des zehnsylbigen
+            Iamben, von dessen glücklicher Bearbeitung er in diesem
+            Gedichte das erste Muster gab. Bekanntlich hat Dryden
+            diess Gedicht in seiner Erzählung, Palämon und Arcite,
+            modernisirt; aber Chaucer's kraftvoller und dabey sehr
+            fliessender Vers hat nicht wenig Antheil an dem Verdienste,
+            welches sich der Vortrag des neuern Dichters nun um so
+            leichter erwerben konnte. . . . [Romaunt of the Rose,
+            sources and characteristics.]</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 122]</note>Eine andre vorzüglich merkwürdige Arbeit Chaucer’s ist
+            sein erzählendes Gedicht, Troilus und Kressida . . . <add>[His
+            sources, 'Lollius' and Guido de Colonna.]</add> Aber auch hier
+            ist das Eigenthümliche des englischen Dichters unverkennbar;
+            und er zeigte hier vornämlich seine Stärke in lebhafter
+            Erregung des Mitgefühls. . . .</seg>
+            
+          <seg type="editorial">[<hi rend="italic">The Hous of Fame</hi>. Pope's rendering is inferior.]</seg>
+            
+          <seg>[p. 123] Am berühmtesten indess von allen Werken unsers
+            
+            <milestone unit="page" n="136"/>
+            
+            Dichters sind seine <hi rend="italic">Canterbury-Tales</hi>. Die Veranlassung zu
+            diesen Erzahlüngen ist ganz sinnreich ausgesonnen. <add>[Description 
+            of the setting, and the improvement on Boccaccio's
+            Decameron, in that Chaucer’s personages are drawn from
+            many different parts of the country, and from different
+            classes and trades.]</add></seg>
+            
+          <seg><note place="margin">[p. 124]</note>Freylich aber sind diese Erzählungen, von Seiten ihres
+            innern Gehalts, ziemlich ungleich, und nicht alle von
+            gleichem poetischen Verdienst. Von ihrer Erfindung gehört
+            dem englischen Dichter wohl nur wenig eigen. Die schönste
+            darunter, nächst der schon angeführten <hi rend="italic">Knight's-Tale</hi>, ist
+            ohne Zweifel, <hi rend="italic">The Squirr's-Tale</hi> <add>[sic]</add>. <add place="margin">[Description of this
+            and of the <hi rend="italic">Clerkes Tale</hi>.]</add> . . .</seg>
+            
+          <seg><note place="margin">[p. 126]</note>In der komischen Gattung sind <hi rend="italic">The Tale of the Nonnes
+            Priest</hi> und <hi rend="italic">January and May</hi>, durch Dryden’s und Pope's
+            Modernisirungen, die bekanntesten geworden; obgleich <hi rend="italic">The
+            Miller's Tale</hi> mehr ächte komische Laune hat . . . In den
+            meisten übrigen Erzählungen Chaucer's ist mehr komische,
+            als ernsthafte Wendung; und die Naivetät des Tons ist
+            darin nicht weniger anziehend, als die Wahrheit und
+            Lebhaftigkeit der ganzen Darstellung.
+            <lb/>Mehr aber noch, als in den Erzählungen selbst, strömt
+            die ergiebige launigte Ader unsers Dichters in den Prologen,
+            womit er jedes Mährchen einleitet.</seg>
+            
+          <seg><note place="margin">[p. 127]</note>Hier fand er zu treffenden Sittengemälden überall
+            Gelegenheit; und diese sind wirklich meisterhaft entworfen, und
+            mit treffender Satyre untermischt. Man bewundert den
+            eindringenden Scharfsinn in diesen charakteristischen
+            Schilderungen eben so sehr, als ihre glückliche Auswahl und
+            Mannigfaltigkeit.
+            <lb/>Dabey sind sie durchaus original und einheimisch, nicht
+            flach, sondern äusserst individuell, und mit immer reger
+            Lebhaftigkeit ausgeführt. Unter andern sticht der Charakter
+            des Wirths von der Herberge der erzählenden Pilger sehr
+            vorthielhaft hervor. Seine Zwischenreden und Bemerkungen,
+            womit er die Erzählungen zuweilen unterbricht,
+            sind überaus treffend; und er ist beinahe eben das, was der
+            Chor auf der griechischen Bühne war. . . .</seg>
+            
+          <seg type="editorial">[Chaucer's language and verse is then discussed.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

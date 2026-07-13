@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p152_a7">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1893, Frederick Klaeber. Das Bild bei Chaucer,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/109640920">Frederick Klaeber</author>
+            <date cert="high" when="1893">1893</date>
+            <title level="a">Das Bild bei Chaucer,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">3</biblScope>
+            <biblScope unit="part">V</biblScope>
+            <biblScope unit="page">152</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+      <textClass/>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-07-13" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="152"/>
+        <ab type="imprint">1893. Klaeber, F. Das Bild bei Chaucer, Diss., Berlin.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>
