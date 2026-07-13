@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1753-6, Antoine Yart. Idée de la poësie angloise,</title>
+        <title>1753-6, Antoine Yart. Idée de la poësie angloise.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/12657165">Antoine Yart</author>
-            <date cert="high" when="1753-6">1753-6</date>
-            <title level="a">Idée de la poësie angloise,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/12657165">Yart, Antoine</author>
+            <date cert="high" from="1753" to="1756">1753-6</date>
+            <title level="a">Idée de la poësie angloise.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -88,84 +88,95 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="29"/>
-        <ab type="imprint">1753-6. Yart, Antoine. Idée de la poësie angloise, [2nd edition in 8 vols. The two first volumes are an exact reprint of those of the edition of 1749, and the quotations are thus identical], tome iv, p. 261, tome vii (1756), pp. 4, 5, 6, 7, 8, 24-32 [Life of Chaucer].</ab>
+        
+        <ab type="imprint">1753-6. Yart, Antoine. <hi rend="italic">Idée de la poësie angloise</hi>, [2nd edition in 8 vols. The two first volumes are an exact reprint of those of the edition of 1749, and the quotations are thus identical], tome iv, p. 261, tome vii (1756), pp. 4, 5, 6, 7, 8, 24-32 [Life of Chaucer].</ab>
+        
         <ab type="quotation">
-          <seg>Discours sur les Contes. [pp. 4, 5.]
-[Chaucer imitated the Italians and also the 'Conteurs' of
-Provence.] Ainsi ne cherchez pas plus d’inventions dans
-les Poëmes de Chaucer que dans ceux de la Fontaine, mais
-si l’invention du fond leur manque, elle est suppléée dans l’un
-&amp; dans l’autre par le génie des détails ; mérite plus admirable
-peut-être que celui de l’invention.
-[Epitome of the life of Chaucer. Yart begins by referring
-us to the New Historical and Critical Dictionary made by
-the English in imitation of that of Bayle. We are there
-informed that the poet lived at the end of the fourteenth
-century and the commencement of the fifteenth, in the
-reigns of Edward III, Richard II, and of Henry IV, whose
-poet and friend he was . . . and that he] contribua beaucoup
-par ses intrigues et plus encore par les éloges qu’il fit de
-[p. 26] Henri IV, à le faire monter et à l’affirmir sur le trône. . . .
-[p. 27] Il s’occupa de sciences et de poésie, tandis qu’il mesuroit
-les cieux et qu’il faisoit un savant traité sur l’Astrolabe, il
-étudioit les Langues Provençale et Italienne, et il faisoit
-passer dans sa Langue, qui était encore informe, les expres¬
-sions, les tours et l’harmonie de ces deux langues. . . .
-Ce qu’il y a de plus original dans Chaucer, ce sont les
-divers caractères des auteurs de ses Contes, intitulés Contes
-de Cantorbéry . . . il peignit d’après nature leurs caractères,
-leurs habillements, leurs vertus et leurs vices, mais ses
-portraits sont si bizarres et si étranges, ses personnages si
-désagréables et si indécens, ses satyres si cruelles et si
-impies, que, malgré l’art que j'ai tâché de mettre dans ma
-traduction, je n’ai pu me flatter de les rendre supportables.
-Ses autres contes sont encore plus licencieux que ceux de
-nos Poëtes les plus obscènes, je les laisserai par la même
-raison dans l’obscurité de leur vieux langage. . . .
-[Yart admits, nevertheless, that the poetry of Chaucer]
-[p. 29] est, dit-on, aussi facile et aussi naturelle que la prose de
-Boccace.
-[And he quotes these verses written originally by Voltaire
-on Homer; Yart substitutes the name of Chaucer]:
-Plein de beautés et de défauts
-Le vieux Chaucer a mon estime
-Il est, comme tous ses héros
-Babillard, outré, mais sublime.
-Il est sublime quelquefois, mais il ne l’est pas aussi souvent
-qu’Homère.
-[Chaucer imitated the Teseide of Boccaccio in 1400. Yart
-then quotes the description of this poem by Dryden: 'Ce
-[pp. 29- Poème est du genre épique &amp;c. . . .]
-30]
-[p. 30
-note]
-[Yart cites] 'la savante Bibliothèque Française de M.
-l’Abbé Goujet, tome vii,' [q. v. below, .1755; but, he adds,]
-'ce qu’on ne trouve point dans cette Bibliothèque, c’est que
-la célèbre Demoiselle de Scudéry a traduit en François selon
-Dryden les contes de Chaucer,' &amp;c., &amp;c. [and he quotes all
-that Dryden had to say on this subject in his Preface to
-the Fables; see above, pt. i, pp. 282-3].
-[pp. 33-81] [Translation of the Palamon and Arcite of Dryden.]
-[note.
-p. 78]
-Etait-ce faute de goût ou par amour-propre, que Dryden
-[p. 79] mettoit ce Poëme vis-à-vis de l’Iliade &amp; de l’Enéide. J’ai
-conservé les principaux faits de ce conte. Il renferme des
-impiétés &amp; des obscurités que je n’ai eu garde de traduire,
-des longueurs à chaque page que j’ai retranchées, quelques
-folies &amp; beaucoup de beaux traits que j’ai tâché de rendre.
-Thésée est injuste de condamner ces deux jeunes héros à une
-prison horrible, sans qu’ils l’ayent mérité, &amp; cependant ce
-Thésée est un assez bon Prince. Arcite a eu tort au com¬
-mencement : mais il est si aimable, si généreux, si tendre
-dans la suite qu’on lui pardonne ses torts: on le préfère à
-Palemon, qui mérite moins que lui d’être heureux. Emilie
-n’a presque aucun caractère: elle est dans une inaction
-continuelle. Ce Poëme est au moins de 2500 Vers: il y en
-a 2000 de superflus: le reste est rempli de beautés; il falloit
-rendre plus intéressans Emilie &amp; Palémon, qui sont les
-principaux Héros.</seg>
+          <seg>Discours sur les Contes. <add>[pp. 4, 5.]</add></seg>
+            
+          <seg type="editorial"><add>[Chaucer imitated the Italians and also the 'Conteurs' of Provence.]</add>
+            Ainsi ne cherchez pas plus d’inventions dans
+            les Poëmes de Chaucer que dans ceux de la Fontaine, mais
+            si l’invention du fond leur manque, elle est suppléée dans l’un
+            &amp; dans l’autre par le génie des détails ; mérite plus admirable
+            peut-être que celui de l’invention.</seg>
+            
+          <seg><add>[Epitome of the life of Chaucer. Yart begins by referring
+            us to the New Historical and Critical Dictionary made by
+            the English in imitation of that of Bayle. We are there
+            informed that the poet lived at the end of the fourteenth
+            century and the commencement of the fifteenth, in the
+            reigns of Edward III, Richard II, and of Henry IV, whose
+            poet and friend he was . . . and that he]</add> contribua beaucoup
+            par ses intrigues et plus encore par les éloges qu’il fit de
+            <note place="margin">[p. 26]</note> Henri IV, à le faire monter et à l’affirmir sur le trône. . . .</seg>
+            
+          <seg><note place="margin">[p. 27]</note> Il s’occupa de sciences et de poésie, tandis qu’il mesuroit
+            les cieux et qu’il faisoit un savant traité sur l’Astrolabe, il
+            étudioit les Langues Provençale et Italienne, et il faisoit
+            passer dans sa Langue, qui était encore informe, les expressions,
+            les tours et l’harmonie de ces deux langues. . . .</seg>
+            
+          <seg>Ce qu’il y a de plus original dans Chaucer, ce sont les
+            divers caractères des auteurs de ses Contes, intitulés Contes
+            de Cantorbéry . . . il peignit d’après nature leurs caractères,
+            leurs habillements, leurs vertus et leurs vices, mais ses
+            portraits sont si bizarres et si étranges, ses personnages si
+            désagréables et si indécens, ses satyres si cruelles et si
+            impies, que, malgré l’art que j'ai tâché de mettre dans ma
+            traduction, je n’ai pu me flatter de les rendre supportables.
+            Ses autres contes sont encore plus licencieux que ceux de
+            nos Poëtes les plus obscènes, je les laisserai par la même
+            raison dans l’obscurité de leur vieux langage. . . .</seg>
+            
+          <seg><add>[Yart admits, nevertheless, that the poetry of Chaucer]</add>
+            <note place="margin">[p. 29]</note> est, dit-on, aussi facile et aussi naturelle que la prose de
+            Boccace.</seg>
+          
+          <milestone unit="page" n="30"/>
+          
+          <seg><add>[And he quotes these verses written originally by Voltaire
+            on Homer; Yart substitutes the name of Chaucer]:</add>
+            <lg>
+              <l>Plein de beautés et de défauts</l>
+              <l>Le vieux Chaucer a mon estime</l>
+              <l>Il est, comme tous ses héros</l>
+              <l>Babillard, outré, mais sublime.</l>
+            </lg>
+            Il est sublime quelquefois, mais il ne l’est pas aussi souvent
+            qu’Homère.</seg>
+            
+          <seg type="editorial">[Chaucer imitated the <hi rend="italic">Teseide</hi> of Boccaccio in 1400. Yart
+            then quotes the description of this poem by Dryden: 'Ce
+            <note place="margin">[pp. 29-30]</note> Poème est du genre épique &amp;c. . . .]</seg>
+            
+          <seg><note place="margin">[p. 30 note]</note> <add>[Yart cites]</add> 'la savante Bibliothèque Française de M.
+            l’Abbé Goujet, tome vii,' <add>[q. v. below, .1755; but, he adds,]</add>
+            'ce qu’on ne trouve point dans cette Bibliothèque, c’est que
+            la célèbre Demoiselle de Scudéry a traduit en François selon
+            Dryden les contes de Chaucer,' &amp;c., &amp;c. <add>[and he quotes all
+            that Dryden had to say on this subject in his Preface to
+            the <hi rend="italic">Fables</hi>; see above, pt. i, pp. 282-3]</add>.</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 33-81]</note>[Translation of the <hi rend="italic">Palamon and Arcite</hi> of Dryden.]</seg>
+            
+          <seg><note place="margin">[note. p. 78]</note>Etait-ce faute de goût ou par amour-propre, que Dryden
+            <note place="margin">[p. 79]</note>mettoit ce Poëme vis-à-vis de l’Iliade &amp; de l’Enéide. J’ai
+            conservé les principaux faits de ce conte. Il renferme des
+            impiétés &amp; des obscurités que je n’ai eu garde de traduire,
+            des longueurs à chaque page que j’ai retranchées, quelques
+            folies &amp; beaucoup de beaux traits que j’ai tâché de rendre.
+            Thésée est injuste de condamner ces deux jeunes héros à une
+            prison horrible, sans qu’ils l’ayent mérité, &amp; cependant ce
+            Thésée est un assez bon Prince. Arcite a eu tort au
+            commencement : mais il est si aimable, si généreux, si tendre
+            dans la suite qu’on lui pardonne ses torts: on le préfère à
+            Palemon, qui mérite moins que lui d’être heureux. Emilie
+            n’a presque aucun caractère: elle est dans une inaction
+            continuelle. Ce Poëme est au moins de 2500 Vers: il y en
+            a 2000 de superflus: le reste est rempli de beautés; il falloit
+            rendre plus intéressans Emilie &amp; Palémon, qui sont les
+            principaux Héros.</seg>
         </ab>
       </div>
     </body>

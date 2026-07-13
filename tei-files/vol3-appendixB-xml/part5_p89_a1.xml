@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/103210965">Augustin Filon</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/103210965">Filon, Augustin</author>
             <date cert="high" when="1883">1883</date>
             <title level="a">Histoire de la Littérature anglaise depuis ses origines jusqu’à nos jours.</title>
           </analytic>
@@ -82,73 +82,89 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="89"/>
-        <ab type="imprint">1883. Filon, Augustin. Histoire de la Littérature anglaise depuis ses origines jusqu’à nos jours. Chapitre IV., l’Age de Chaucer. Vie de Chaucer, pp. 52-64.—Œuvres diverses de Chaucer, pp. 54-55.— Les contes de Canterbury, pp. 55-59. Chapitre V, De Chaucer à Spenser. Les héritiers de Chaucer, p. 61.</ab>
+        
+        <ab type="imprint">1883. Filon, Augustin. <hi rend="italic">Histoire de la Littérature anglaise depuis ses origines jusqu’à nos jours</hi>. Chapitre IV., <hi rend="italic">l’Age de Chaucer</hi>. Vie de Chaucer, pp. 52-64.—Œuvres diverses de Chaucer, pp. 54-55.— Les contes de Canterbury, pp. 55-59. Chapitre V, <hi rend="italic">De Chaucer à Spenser</hi>. Les héritiers de Chaucer, p. 61.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 43] On parle encore français en Angleterre ; mais quel
-français ? Celui de Stratford Atte Bowe, que Chaucer met
-sur les lèvres de sa Prieure, et qui est resté proverbial.
-Enfin, en 1404, deux envoyés anglais en France, dont l’un
-est Sir Thomas Swynford, le neveu de la femme de Chaucer,
-déclarent 'ne pas plus savoir le français que l’hébreu.'
-. . . . . . . . . . .
-[p. 52] Vie de Chaucer. . . . Voici Chaucer, synthèse vivante des
-deux races, greffée sur une puissante originalité poétique. Il
-est à la fois Anglais et Normand, et, en outre, il est lui-même.
-. . . On s’accorde généralement à croire que Geoffrey
-Chaucer naquit en 1328 [reprinted in the edn. of 1896]. . . .
-. . . . . . . . . . .
-[p. 53] Les lettrés et les poètes de l’époque le considéraient
-comme leur chef et leur maître. Sa renommée avait passé
-le détroit, comme le prouve cette dédicace d’un poète français
-[E. Deschamps], qui lui offrit ses vers :
-'Grant translateur, noble Geoffroy Chaucer.'
-. . . . . . . . . .
-Chaucer mourut en 1400, dans une petite maison qui
-dépendait de Westminster, et, tout naturellement, on l’en¬
-terra dans l’abbaye. Cette sépulture fit précédent, et créa
-une tradition. Chaucer est le plus ancien habitant du Poet’s
-corner. . . .
-. . . . . . . . . . .
-[p. 54] Œuvres diverses de Chaucer. On ne peut déterminer la
-date d’aucune des compositions de Chaucer ; néanmoins, s’il
-était permis d’établir des conjectures sur un fait qui manque
-lui-même de certitude, on ferait deux parts de la vie litté¬
-raire et de l’œuvre de Chaucer. On rangerait dans la
-première catégorie les poèmes qui portent la trace de
-l’influence romane et gothique, dans la seconde ceux qui
-offrent déjà le reflet de la Renaissance italienne.
-[The Court of Love, Flower and Leaf, and Cuckoo and
-Nightingale are mentioned among his works.]
-[p. 55] Pope n’a pas dédaigné d’imiter The House of Fame, et n’a
-pas réussi à l’égaler. Chaucer entendait le mot fame dans le
-double sens du latin fama, car il nous montre à la fois le
-temple de la Gloire et la demeure de la Renommée. Dans la
-Légende des Bonnes Femmes, nous découvrons une méthode
-différent, un art nouveau. Plus de rêve, plus de vision, plus
-d’allégorie, mais une série de tableaux ou de récits, des types
-plus ou moins historiques, en tout cas dramatiques et humains
-autant que ceux de Shakespeare. . . . En traduisant, à son
-tour, ce sujet grec [Troilus and Cressida], déjà retouché par
-l’art florentin, Chaucer lui enlève les derniers traits de sa
-physionomie originelle. Il déguise un héros d’Homère en
-amoureux transi ; il transforme en une coquette du Décaméron
-la contemporaine d’Andromaque et de Nausicaa. . . .
-[p. 58] Les Contes de Canterbury. . . . Puis, les récits se succèdent
-comme dans le Décaméron de Boccace, auquel cette forme de
-poème est empruntée. Mais combien est évidente la supério¬
-rité de Chaucer ! Combien l’art est, chez lui, plus sensible
-et plus délicat ! Les jeunes gens et les jeunes femmes du
-Décaméron vivent dans le même milieu, ont mêmes idées,
-même âge, à peu de chose près même caractère. Ici, chaque
-conte est approprié au conteur, et l’on vient de voir combien
-les conteurs diffèrent. . . . Tous ces récits sont liés, et beau¬
-coup mieux que chez Boccace, par de petits incidents vrais,
-qui naissent du caractère des personnages et tels qu’on en
-[p. 59] rencontre en voyage. . . . L’ensemble du tableau est si bien
-calculé, l’aspect est si vivant et si gai, que le lecteur 'se prend
-d’envie de monter à cheval par une belle matinée riante, le
-long des prairies vertes, pour galoper avec les pèlerins jusqu’à
-la châsse du bon saint de Canterbury.' [Taine.]</seg>
+          <seg><note place="margin">[p. 43]</note>On parle encore français en Angleterre ; mais quel
+            français ? Celui de Stratford Atte Bowe, que Chaucer met
+            sur les lèvres de sa Prieure, et qui est resté proverbial.
+            Enfin, en 1404, deux envoyés anglais en France, dont l’un
+            est Sir Thomas Swynford, le neveu de la femme de Chaucer,
+            déclarent 'ne pas plus savoir le français que l’hébreu.'</seg>
+            
+          <lb/>. . . . . . . . . . .
+            
+          <seg><note place="margin">[p. 52]</note>Vie de Chaucer. . . . Voici Chaucer, synthèse vivante des
+            deux races, greffée sur une puissante originalité poétique. Il
+            est à la fois Anglais et Normand, et, en outre, il est lui-même.
+            . . . On s’accorde généralement à croire que Geoffrey
+            Chaucer naquit en 1328 <add>[reprinted in the edn. of 1896]</add>. . . .</seg>
+            
+          <lb/>. . . . . . . . . . .
+            
+          <seg><note place="margin">[p. 53]</note>Les lettrés et les poètes de l’époque le considéraient
+            comme leur chef et leur maître. Sa renommée avait passé
+            le détroit, comme le prouve cette dédicace d’un poète français
+            <add>[E. Deschamps]</add>, qui lui offrit ses vers :
+            <l>'Grant translateur, noble Geoffroy Chaucer.'</l></seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg>Chaucer mourut en 1400, dans une petite maison qui
+            dépendait de Westminster, et, tout naturellement, on
+            l’enterra dans l’abbaye. Cette sépulture fit précédent, et créa
+            une tradition. Chaucer est le plus ancien habitant du Poet’s
+            corner. . . .</seg>
+            
+          <lb/>. . . . . . . . . . .
+            
+          <seg>[p. 54] Œuvres diverses de Chaucer. On ne peut déterminer la
+            
+            <milestone unit="page" n="90"/>
+            
+            date d’aucune des compositions de Chaucer ; néanmoins, s’il
+            était permis d’établir des conjectures sur un fait qui manque
+            lui-même de certitude, on ferait deux parts de la vie
+            littéraire et de l’œuvre de Chaucer. On rangerait dans la
+            première catégorie les poèmes qui portent la trace de
+            l’influence romane et gothique, dans la seconde ceux qui
+            offrent déjà le reflet de la Renaissance italienne. .</seg>
+            
+          <seg type="editorial">[The Court of Love, Flower and Leaf, and Cuckoo and
+            Nightingale are mentioned among his works.]</seg>
+            
+          <seg><note place="margin">[p. 55]</note>Pope n’a pas dédaigné d’imiter <hi rend="italic">The House of Fame</hi>, et n’a
+            pas réussi à l’égaler. Chaucer entendait le mot fame dans le
+            double sens du latin fama, car il nous montre à la fois le
+            temple de la Gloire et la demeure de la Renommée. Dans la
+            <hi rend="italic">Légende des Bonnes Femmes</hi>, nous découvrons une méthode
+            différent, un art nouveau. Plus de rêve, plus de vision, plus
+            d’allégorie, mais une série de tableaux ou de récits, des types
+            plus ou moins historiques, en tout cas dramatiques et humains
+            autant que ceux de Shakespeare. . . . En traduisant, à son
+            tour, ce sujet grec <add>[<hi rend="italic">Troilus and Cressida</hi>]</add>, déjà retouché par
+            l’art florentin, Chaucer lui enlève les derniers traits de sa
+            physionomie originelle. Il déguise un héros d’Homère en
+            amoureux transi ; il transforme en une coquette du <hi rend="italic">Décaméron</hi>
+            la contemporaine d’Andromaque et de Nausicaa. . . .</seg>
+            
+          <seg><note place="margin">[p. 58]</note><hi rend="italic">Les Contes de Canterbury</hi>. . . . Puis, les récits se succèdent
+            comme dans le <hi rend="italic">Décaméron</hi> de Boccace, auquel cette forme de
+            poème est empruntée. Mais combien est évidente la supériorité
+            de Chaucer ! Combien l’art est, chez lui, plus sensible
+            et plus délicat ! Les jeunes gens et les jeunes femmes du
+            <hi rend="italic">Décaméron</hi> vivent dans le même milieu, ont mêmes idées,
+            même âge, à peu de chose près même caractère. Ici, chaque
+            conte est approprié au conteur, et l’on vient de voir combien
+            les conteurs diffèrent. . . . Tous ces récits sont liés, et
+            beaucoup mieux que chez Boccace, par de petits incidents vrais,
+            qui naissent du caractère des personnages et tels qu’on en
+            <note place="margin">[p. 59]</note> rencontre en voyage. . . . L’ensemble du tableau est si bien
+            calculé, l’aspect est si vivant et si gai, que le lecteur 'se prend
+            d’envie de monter à cheval par une belle matinée riante, le
+            long des prairies vertes, pour galoper avec les pèlerins jusqu’à
+            la châsse du bon saint de Canterbury.' <add>[Taine.]</add></seg>
         </ab>
       </div>
     </body>

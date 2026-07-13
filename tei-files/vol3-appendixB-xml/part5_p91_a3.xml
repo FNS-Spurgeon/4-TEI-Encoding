@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1883, Jean-Baptiste Joseph Émile Montégut. Caractères généraux de la littérature anglaise [in] Essais sur la littérature anglaise,</title>
+        <title>1883, Émile Montégut. Caractères généraux de la littérature anglaise [in] Essais sur la littérature anglaise.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73970033">Jean-Baptiste Joseph Émile Montégut</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73970033">Montégut, Émile</author>
             <date cert="high" when="1883">1883</date>
-            <title level="a">Caractères généraux de la littérature anglaise [in] Essais sur la littérature anglaise,</title>
+            <title level="a">Caractères généraux de la littérature anglaise [in] Essais sur la littérature anglaise.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,18 +80,21 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="91"/>
-        <ab type="imprint">1883. Montégut, Émile. Caractères généraux de la littérature anglaise [in] Essais sur la littérature anglaise, Paris, 1883, pp. 103, 104, 105.</ab>
+        
+        <ab type="imprint">1883. Montégut, Émile. <hi rend="italic">Caractères généraux de la littérature anglaise</hi> [in] <hi rend="italic">Essais sur la littérature anglaise</hi>, Paris, 1883, pp. 103, 104, 105.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 104] Il existe bien une période anglo-normande ; mais, pendant
-toute cette période, le génie saxon se cache ou se tait. . . .
-Cette période se réduit, à proprement parler, à un seul nom,
-Chaucer. Celui-là est bien un Français si l’on veut, et on
-reconnaît en lui un contemporain de Froissard. . . .
-[p. 105] Ainsi, pendant toute la période anglo-normande, il ne
-saurait être question de la combinaison du génie normand
-et du génie saxon, puisque ce dernier reste muet, et que le
-seul écrivain qu’on puisse citer, Chaucer, n’est qu’un Français
-qui s’exprime en langue anglaise.</seg>
+          <seg><note place="margin">[p. 104]</note>Il existe bien une période anglo-normande ; mais, pendant
+            toute cette période, le génie saxon se cache ou se tait. . . .
+            Cette période se réduit, à proprement parler, à un seul nom,
+            Chaucer. Celui-là est bien un Français si l’on veut, et on
+            reconnaît en lui un contemporain de Froissard. . . .</seg>
+            
+          <seg><note place="margin">[p. 105]</note>Ainsi, pendant toute la période anglo-normande, il ne
+            saurait être question de la combinaison du génie normand
+            et du génie saxon, puisque ce dernier reste muet, et que le
+            seul écrivain qu’on puisse citer, Chaucer, n’est qu’un Français
+            qui s’exprime en langue anglaise.</seg>
         </ab>
       </div>
     </body>

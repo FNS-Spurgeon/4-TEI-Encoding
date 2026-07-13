@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54944694">André Thévet</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54944694">Thévet, André</author>
             <date cert="high" when="1584">1584</date>
             <title level="a">Pourtraits et Vies des Hommes Illustres.</title>
           </analytic>
@@ -68,7 +68,7 @@
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="#"/>
+        <language ident="fr">French</language>
       </langUsage>
       <textClass/>
     </profileDesc>
@@ -80,7 +80,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="123"/>
-        <ab type="imprint">1584. Thévet, André. Pourtraits et Vies des Hommes Illustres. </ab>
+        
+        <ab type="imprint">1584. Thévet, André. <hi rend="italic">Pourtraits et Vies des Hommes Illustres</hi>. See above, 1735.</ab>
       </div>
     </body>
   </text>

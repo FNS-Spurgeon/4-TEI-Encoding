@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1848, Léonce Lavergne. [Article 'Chaucer' in the] Dictionnaire encyclopédique usuel,</title>
+        <title>1848, Léonce Lavergne. [Article 'Chaucer' in the] Dictionnaire encyclopédique usuel.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/22254918">Léonce Lavergne</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/22254918">Lavergne, Léonce</author>
             <date cert="high" when="1848">1848</date>
-            <title level="a">[Article 'Chaucer' in the] Dictionnaire encyclopédique usuel,</title>
+            <title level="a">[Article 'Chaucer' in the] Dictionnaire encyclopédique usuel.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,16 +80,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="54"/>
-        <ab type="imprint">1848. Saint-Laurent, Charles [ps., i. e.., L. G. L. G. de Lavergne] [Article 'Chaucer' in the] Dictionnaire encyclopédique usuel, 2e édition, 1843. [The 1st ed., 1841, is not in B.M.]</ab>
+        
+        <ab type="imprint">1848. Saint-Laurent, Charles [ps., i. e., L. G. L. G. de Lavergne]. [Article '<hi rend="italic">Chaucer</hi>' in the] <hi rend="italic">Dictionnaire encyclopédique usuel</hi>, 2e édition, 1843. [The 1st ed., 1841, is not in B.M.]</ab>
+        
         <ab type="quotation">
           <seg>(Chaucer, Geoffroy) poëte anglais, né à Londres en 1328.
-Il fut élève des universités de Cambridge et d’Oxford. En
-1370, il était porte-bouclier d’Edouard III. Sous le règne de
-Richard II, il fut obligé de s’expatrier pour avoir embrassé
-la doctrine de Wiclef. Il mourut en 1400, à Londres, et fut
-enterré à Westminster. On l’a surnommé le Père de la
-poésie anglaise. Parmi ses poésies on remarque les Contes
-de Canterbury.</seg>
+            Il fut élève des universités de Cambridge et d’Oxford. En
+            1370, il était porte-bouclier d’Edouard III. Sous le règne de
+            Richard II, il fut obligé de s’expatrier pour avoir embrassé
+            la doctrine de Wiclef. Il mourut en 1400, à Londres, et fut
+            enterré à Westminster. On l’a surnommé le Père de la
+            poésie anglaise. Parmi ses poésies on remarque les <hi rend="italic">Contes
+            de Canterbury</hi>.</seg>
         </ab>
       </div>
     </body>

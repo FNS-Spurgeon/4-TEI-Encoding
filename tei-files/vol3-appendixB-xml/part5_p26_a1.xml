@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1749, Jean Arnold Trochereau De La Berlière. Choix de Différens morceaux de Poësie traduits de l’Anglois,</title>
+        <title>1749, Jean Arnold Trochereau de La Berlière. Choix de Différens morceaux de Poësie traduits de l’Anglois.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/71177003">Jean Arnold Trochereau De La Berlière</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71177003">Trochereau de La Berlière, Jean Arnold</author>
             <date cert="high" when="1749">1749</date>
-            <title level="a">Choix de Différens morceaux de Poësie traduits de l’Anglois,</title>
+            <title level="a">Choix de Différens morceaux de Poësie traduits de l’Anglois.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,71 +80,86 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="26"/>
-        <ab type="imprint">1749. Trochereau de la Berlière, Jean Arnold. Choix de Différens morceaux de Poësie traduits de l’Anglois, par M. Trochereau... à Paris, 1749 [e.g. Essay on Poetry, by Buckingham, Essay on Translated Verse, by Roscommon, and the Temple of Fame, by Pope].</ab>
+        
+        <ab type="imprint">1749. Trochereau de la Berlière, Jean Arnold. <hi rend="italic">Choix de Différens morceaux de Poësie traduits de l’Anglois, par M. Trochereau</hi> . . . à Paris, 1749 [e.g. <hi rend="italic">Essay on Poetry</hi>, by Buckingham, <hi rend="italic">Essay on Translated Verse</hi>, by Roscommon, and the <hi rend="italic">Temple of Fame</hi>, by Pope].</ab>
+        
         <ab type="quotation">
-          <seg>[p. 20]
-[Note on Denham.] [Il] fut enterré à Westmunster [sic]
-[p. 21]
-près de Chaucer, Spenser &amp; Cowley. . ..
-[Note on Couoley.] Il fut enterré . . . près des cendres
-de Spencer &amp; Chaucer.
-. . . . . . . . . . .
-[p. 117] [Forewords by Trochereau on the Temple of Fame by
-Pope; based on the note printed by Pope himself at the
-head of his Temple of Fame.] M. Pope dit qu’il en a puisé
-l'idée dans le Poëme de Chaucer, intitulé le Palais de la
-Renommée. Mais le dessein, dit-il, n’en est pas le même;
-les descriptions de presque toutes les pensées m’appartiennent.
-. . . Si quelqu’un vouloit comparer ce Poëme à celui de
-Chaucer, il peut commencer au troisième Livre de la
-Renommée, car il n’y a rien dans les deux premiers qui
-réponde à leur titre.
-[Note by Trochereau.] Il est si souvent parlé de Chaucer,
-dans les Livres Anglois, que j’ai cru qu’on verroit avec
-quelque plaisir les circonstances de sa vie.
-Geoffroi Chaucer, Poëte distingué du xiv siècle, nâquit
-dans la 3e année du règne d’Edouard III, l’an 1328. Il fut
-d’abord Page de ce Roi; qui le combla de biens &amp; de faveurs.
-Il le fit Gentilhomme de sa Chambre, &amp; lui donna une pension
-considérable. Ses talens le firent employer en qualité de
-Négociateur dans différentes Cours: il fut envoyé à Gènes
-pour traiter avec le Doge de cette République, &amp; peu de
-tems après il fut député à la Cour de France.
-Les règnes malheureux de Richard iii [sic] &amp; de Henry IV.
-succédèrent aux beaux jours du règne d’Edouard III. Chaucer
-éprouva alors différentes révolutions dans sa fortune. Il
-mourut à 72 ans le 25 Octobre 1400, &amp; il fut enterré dans
-l’Abbaye de Westmunster.
-En 1555 ou 1556. M. Nicolas Bryham [sic], Gentilhomme
-d’Oxford, lui fit élever à ses propres dépens un beau
-monument dans la même Abbaye, &amp; y fit graver cette
-Inscription :
-M. S.
-Qui fuit Anglorum vates ter maximas [sic] olim,
-Gofrigidus [sic] Chaucer conditur hoc tumulo
-Annum si quaras Domini, si tempora vitæ,
-Ecce notæ subsunt, quæ tibi cuncta notant.
-25 Octob. 1400.
-Milton le mettoit au rang des plus grands Poëtes. M.
-Dryden dit dans la Préface qu’il a mise à la tête de ses
-Fables, qu’on doit le regarder comme le père de la Poësie
-Angloise. Qu’il doit être aussi estimé en Angleterre
-qu’Homère l’étoit chez les Grecs, &amp; Virgile chez les Latins ;
-qu’il suit la nature par-tout ; mais que jamais il ne la passe,
-&amp; que sçachant ce qu’il falloit dire, il sçavoit aussi où il
-falloit s’arrêter, que ses vers ne sont pas harmonieux, mais
-qu’ils étoient à l’unisson des oreilles de son siècle.
-Il a décrit les Contes de ses Pèlerins de Cantorberi, les
-caractères, les mœurs &amp; les vices des son tems. Il a composé
-beaucoup d’autres ouvrages pleins d’enjouement &amp; de naïveté ;
-il égaïe souvent ses lecteurs aux dépens des moines &amp; de la
-pudeur. Son langage a tellement vieilli que les Anglois
-même ne l’entendent presque plus : Voici ce que dit M. Pope
-à ce sujet dans son Essai sur la Critique.
-'La réputation passe promptement, et douze lustres sont le
-plus long terme dont on puisse se flater. Nos fils voyent
-décheoir le langage de leurs pères, et ce que Chaucer est pour
-nous, Dryden le sera pour eux.' (Traduction de M. Sillouet.)</seg>
+          <seg><note place="margin">[p. 20]</note><add>[Note on Denham.]</add> <add>[Il]</add> fut enterré à Westmunster <add>[sic]</add> près de Chaucer, Spenser &amp; Cowley. . . .</seg>
+            
+          <seg><note place="margin">[p. 21]</note><add>[Note on Couoley.]</add> Il fut enterré . . . près des cendres de Spencer &amp; Chaucer.</seg>
+            
+          <lb/>. . . . . . . . . . .
+            
+          <seg type="editorial"><note place="margin">[p. 117]</note> [Forewords by Trochereau on the <hi rend="italic">Temple of Fame</hi> by
+            Pope; based on the note printed by Pope himself at the head of his <hi rend="italic">Temple of Fame</hi>.]</seg>
+            
+          <seg>M. Pope dit qu’il en a puisé
+            l'idée dans le Poëme de Chaucer, intitulé le <hi rend="italic">Palais de la
+            Renommée</hi>. Mais le dessein, dit-il, n’en est pas le même;
+            les descriptions de presque toutes les pensées m’appartiennent.
+            . . . Si quelqu’un vouloit comparer ce Poëme à celui de
+            Chaucer, il peut commencer au troisième Livre <hi rend="italic">de la
+            Renommée</hi>, car il n’y a rien dans les deux premiers qui
+            réponde à leur titre.</seg>
+            
+          <seg><add>[Note by Trochereau.]</add> Il est si souvent parlé de Chaucer,
+            dans les Livres Anglois, que j’ai cru qu’on verroit avec
+            quelque plaisir les circonstances de sa vie.</seg>
+            
+          <seg>Geoffroi Chaucer, Poëte distingué du xiv siècle, nâquit
+            dans la 3e année du règne d’Edouard III, l’an 1328. Il fut
+            d’abord Page de ce Roi; qui le combla de biens &amp; de faveurs.
+            Il le fit Gentilhomme de sa Chambre, &amp; lui donna une pension
+            considérable. Ses talens le firent employer en qualité de
+            Négociateur dans différentes Cours: il fut envoyé à Gènes
+            pour traiter avec le Doge de cette République, &amp; peu de
+            tems après il fut député à la Cour de France.</seg>
+            
+          <seg>Les règnes malheureux de Richard iii <add>[sic]</add> &amp; de Henry IV.
+            succédèrent aux beaux jours du règne d’Edouard III. Chaucer
+            éprouva alors différentes révolutions dans sa fortune. Il
+            mourut à 72 ans le 25 Octobre 1400, &amp; il fut enterré dans
+            l’Abbaye de Westmunster.</seg>
+            
+          <seg>En 1555 ou 1556. M. Nicolas Bryham <add>[sic]</add>, Gentilhomme
+            d’Oxford, lui fit élever à ses propres dépens un beau
+            
+            <milestone unit="page" n="27"/>
+            
+            monument dans la même Abbaye, &amp; y fit graver cette
+            Inscription :
+            <lg>
+              <l>M. S.</l>
+              <l>Qui fuit Anglorum vates ter maximas <add>[sic]</add> olim,</l>
+              <l>Gofrigidus <add>[sic]</add> Chaucer conditur hoc tumulo</l>
+              <l>Annum si quaras Domini, si tempora vitæ,</l>
+              <l>Ecce notæ subsunt, quæ tibi cuncta notant.</l>
+              <l>25 Octob. 1400.</l>
+            </lg>
+          </seg>
+            
+          <seg>Milton le mettoit au rang des plus grands Poëtes. M.
+            Dryden dit dans la Préface qu’il a mise à la tête de ses
+            Fables, qu’on doit le regarder comme le père de la Poësie
+            Angloise. Qu’il doit être aussi estimé en Angleterre
+            qu’Homère l’étoit chez les Grecs, &amp; Virgile chez les Latins ;
+            qu’il suit la nature par-tout ; mais que jamais il ne la passe,
+            &amp; que sçachant ce qu’il falloit dire, il sçavoit aussi où il
+            falloit s’arrêter, que ses vers ne sont pas harmonieux, mais
+            qu’ils étoient à l’unisson des oreilles de son siècle.</seg>
+            
+          <seg>Il a décrit les Contes de ses Pèlerins de Cantorberi, les
+            caractères, les mœurs &amp; les vices des son tems. Il a composé
+            beaucoup d’autres ouvrages pleins d’enjouement &amp; de naïveté ;
+            il égaïe souvent ses lecteurs aux dépens des moines &amp; de la
+            pudeur. Son langage a tellement vieilli que les Anglois
+            même ne l’entendent presque plus : Voici ce que dit M. Pope
+            à ce sujet dans son <hi rend="italic">Essai sur la Critique</hi>.</seg>
+            
+          <seg>'La réputation passe promptement, et douze lustres sont le
+            plus long terme dont on puisse se flater. Nos fils voyent
+            décheoir le langage de leurs pères, et ce que Chaucer est pour
+            nous, Dryden le sera pour eux.' (Traduction de M. Sillouet.)</seg>
         </ab>
       </div>
     </body>

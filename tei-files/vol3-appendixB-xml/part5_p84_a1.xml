@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1876, Louis Gustave Vapereau. [Notices on Chaucer, Gower, Lydgate and Chatterton] Dictionnaire universel des Littératures,</title>
+        <title>1876, Gustave Vapereau. [Notices on Chaucer, Gower, Lydgate and Chatterton] Dictionnaire universel des Littératures.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/7420591">Louis Gustave Vapereau</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/7420591">Vapereau, Gustave</author>
             <date cert="high" when="1876">1876</date>
-            <title level="a">[Notices on Chaucer, Gower, Lydgate and Chatterton] Dictionnaire universel des Littératures,</title>
+            <title level="a">[Notices on Chaucer, Gower, Lydgate and Chatterton] Dictionnaire universel des Littératures.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,56 +82,68 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="84"/>
-        <ab type="imprint">1876. Vapereau, G. [Notices on Chaucer, Gower, Lydgate and Chatterton] Dictionnaire universel des Littératures, pp. 440-2, 918-9, 1287.</ab>
+        
+        <ab type="imprint">1876. Vapereau, G. [Notices on <hi rend="italic">Chaucer, Gower, Lydgate</hi> and <hi rend="italic">Chatterton</hi>] <hi rend="italic">Dictionnaire universel des Littératures</hi>, pp. 440-2, 918-9, 1287.</ab>
+        
         <ab type="quotation">
           <seg>Chaucer (Geoffrey), célèbre poëte anglais, né en 1328,
-mort en 1400. Son nom sous la forme française, chaussier,
-semble indiquer une origine normande et, par conséquent,
-une certaine noblesse ; lui-même se donna pour Londenois . . .
-Chaucer était d’un caractère aimable, porté à la méditation,
-et jouissait avec délices des beautés de la nature . . .
-On distingue dans les œuvres de Chaucer deux influences
-principales, celle de la poésie française prédominante dans
-les premières, et celle de la poésie italienne prenant le
-dessus dans les dernières et les plus belles, l’inspiration du
-poëte restant d’ailleurs originale et bien anglaise. On y
-retrouve aussi celle des nouvelles idées de la réforme en
-matière religieuse. . . .
-Parmi les ouvrages qui relèvent de l’influence française, on
-compte : le Roman de la Rose la Cour d’Amour, l'Assemblée
-des oiseaux, le Coucou et le Rossignol, la Fleur et la Feuille,
-le Songe de Chaucer, le Livre de la duchesse, la Maison de la
-Renommée ; on rattache à l’influence italienne : la Légende
-des bonnes femmes, Troïlus et Creseide, et les Contes de
-Canterbury (Canterbury’s Tales) [sic] la dernière de ses
-grandes productions et son chef-d’œuvre. . . .
-Le Roman de la Rose, qui ouvre la première [série], est
-traduit du français. La portion de Guillaume de Lorris
-(5000 vers) est entièrement traduite; celle de Jean de
-Meung est rapidement résumée. Là même où le traducteur
-est le plus fidèle, il ajoute des touches vigoureuses et
-poétiques au texte. . . .
-[A description of the other poems is given] . . .
-C’est dans ses contes de Canterbury, que Chaucer a
-montré tout son talent descriptif, et plus encore ce génie
-créateur, ce don suprême de produire des personnages vrais.
-vivants. . . .
-Quant aux contes et récits que font ces personnages,
-Chaucer ne paraît pas avoir pris la peine d’en inventer
-aucun ; il les emprunte aux fabliaux français, au recueil
-célèbre des Gesta Romanorum, à Boccace ; ils sont, les uns
-pathétiques, les autres satiriques ; tous les tons conviennent
-à Chaucer, qui sans doute n’est pas exempt de quelque
-grossièreté, mais qui va de préférence à tout ce qui est
-honnête, noble, élevé. . . .
-Chaucer a écrit en prose une traduction de la Consolation
-de Boëce, une imitation du même livre sous le titre de
-Testament d’Amour.
-Chatterton. . . . La lecture de Chaucer et de Percy com¬
-pléta son instruction d’antiquaire. . . . Ces œuvres [the
-Rowley poems] n’avaient d’antique que l’orthographe sur¬
-chargée de consonnes et une partie du vocabulaire empruntée
-à Chaucer et à d’autres poëtes des XIVe et XVe siècles.</seg>
+            mort en 1400. Son nom sous la forme française, chaussier,
+            semble indiquer une origine normande et, par conséquent,
+            une certaine noblesse ; lui-même se donna pour Londenois . . .
+            Chaucer était d’un caractère aimable, porté à la méditation,
+            et jouissait avec délices des beautés de la nature . . .</seg>
+            
+          <seg>On distingue dans les œuvres de Chaucer deux influences
+            principales, celle de la poésie française prédominante dans
+            les premières, et celle de la poésie italienne prenant le
+            dessus dans les dernières et les plus belles, l’inspiration du
+            poëte restant d’ailleurs originale et bien anglaise. On y
+            retrouve aussi celle des nouvelles idées de la réforme en
+            matière religieuse. . . .</seg>
+            
+          <seg>Parmi les ouvrages qui relèvent de l’influence française, on
+            compte : le <hi rend="italic">Roman de la Rose</hi>, <hi rend="italic">la Cour d’Amour</hi>, <hi rend="italic">l'Assemblée
+            des oiseaux</hi>, <hi rend="italic">le Coucou et le Rossignol</hi>, <hi rend="italic">la Fleur et la Feuille</hi>,
+            <hi rend="italic">le Songe de Chaucer</hi>, <hi rend="italic">le Livre de la duchesse</hi>, <hi rend="italic">la Maison de la
+            Renommée</hi> ; on rattache à l’influence italienne : <hi rend="italic">la Légende
+            des bonnes femmes</hi>, <hi rend="italic">Troïlus et Creseide</hi>, et <hi rend="italic">les Contes de
+            Canterbury</hi> (Canterbury’s Tales) <add>[sic]</add> la dernière de ses
+            grandes productions et son chef-d’œuvre. . . .</seg>
+            
+          <seg><hi rend="italic">Le Roman de la Rose</hi>, qui ouvre la première <add>[série]</add>, est
+            traduit du français. La portion de Guillaume de Lorris
+            (5000 vers) est entièrement traduite; celle de Jean de
+            Meung est rapidement résumée. Là même où le traducteur
+            est le plus fidèle, il ajoute des touches vigoureuses et
+            poétiques au texte. . . .</seg>
+            
+          <seg type="editorial">[A description of the other poems is given] . . .</seg>
+            
+          <seg>C’est dans ses contes de Canterbury, que Chaucer a
+            montré tout son talent descriptif, et plus encore ce génie
+            créateur, ce don suprême de produire des personnages vrais.
+            vivants. . . .</seg>
+            
+          <seg>Quant aux contes et récits que font ces personnages,
+            Chaucer ne paraît pas avoir pris la peine d’en inventer
+            aucun ; il les emprunte aux fabliaux français, au recueil
+            célèbre des <hi rend="italic">Gesta Romanorum</hi>, à Boccace ; ils sont, les uns
+            pathétiques, les autres satiriques ; tous les tons conviennent
+            à Chaucer, qui sans doute n’est pas exempt de quelque
+            grossièreté, mais qui va de préférence à tout ce qui est
+            honnête, noble, élevé. . . .</seg>
+            
+            <milestone unit="page" n="85"/>
+            
+          <seg>Chaucer a écrit en prose une traduction de la <hi rend="italic">Consolation
+            de Boëce</hi>, une imitation du même livre sous le titre de
+            <hi rend="italic">Testament d’Amour</hi>.</seg>
+            
+          <seg>Chatterton. . . . La lecture de Chaucer et de Percy
+            compléta son instruction d’antiquaire. . . . Ces œuvres <add>[the
+            Rowley poems]</add> n’avaient d’antique que l’orthographe
+            surchargée de consonnes et une partie du vocabulaire empruntée
+            à Chaucer et à d’autres poëtes des XIVe et XVe siècles.</seg>
         </ab>
       </div>
     </body>

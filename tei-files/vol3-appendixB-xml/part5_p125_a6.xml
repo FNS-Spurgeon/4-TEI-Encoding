@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/66515021">Alexandre Beljame</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/66515021">Beljame, Alexandre</author>
             <date cert="high" when="1881">1881</date>
             <title level="a">Le Public et les hommes de lettres en Angleterre au xviiie siècle.</title>
           </analytic>
@@ -68,7 +68,7 @@
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="#"/>
+        <language ident="fr">French</language>
       </langUsage>
       <textClass/>
     </profileDesc>
@@ -80,7 +80,7 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="125"/>
-        <ab type="imprint">1881. Beljame, Alexandre. Le Public et les hommes de lettres en Angleterre au xviiie siècle. </ab>
+        <ab type="imprint">1881. Beljame, Alexandre. <hi rend="italic">Le Public et les hommes de lettres en Angleterre au xviiie siècle</hi>.<note type="footnote">[Entered above from 2nd edn., 1883, which is identical.]</note></ab>
       </div>
     </body>
   </text>

@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/32364106">Adrien Baret</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/32364106">Baret, Adrien</author>
             <date cert="high" when="1883">1883</date>
             <title level="a">Étude sur la langue anglaise au XIVe siècle.</title>
           </analytic>
@@ -84,91 +84,65 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="88"/>
-        <ab type="imprint">1883. Baret, Adrien. Étude sur la langue anglaise au XIVe siècle. Thèse de Doctorat, Fac. des lettres de Bordeaux, Paris, 1883, chapitres iv–x.</ab>
+        
+        <ab type="imprint">1883. Baret, Adrien. <hi rend="italic">Étude sur la langue anglaise au XIVe siècle</hi>. Thèse de Doctorat, Fac. des lettres de Bordeaux, Paris, 1883, chapitres iv–x.</ab>
+        
         <ab type="quotation">
-          <seg>Chapitre vi. Vie de Chaucer, et description de son influ¬
-ence prépondérante sur la formation de l’idiome anglais.
-[M. Baret says that Chaucer was born in 1328, and he seems
-to regard the Testament of Love as authentic.]
-[p. 110] [Chaucer] était Anglais par le cœur, mais Français par
-l’esprit. Il nous appartenait, à son insu sans doute, par la
-finesse satirique de son esprit, la multiplicité de ses aptitudes
-et la forme classique de ses conceptions.
-Ch. vii. 'The King’s English.' Étude de la langue de
-Chaucer, et ses emprunts au français.
-[p. 118] Constatons d’abord par quelques exemples que le mélange
-des mots français n’y est pas fait au hasard, et qu’il dépend
-toujours des exigences du sujet choisi par le poète. Dans le
-style familier, dans la peinture des mœurs populaires, même
-lorsque le récit est une imitation des fabliaux français,
-Chaucer se garde bien de sortir du vocabulaire anglo-saxon.
-[M. Baret compares the Milleres Tale, ll. 312-26 with the
-Clerk’s Prologue, Il. 15-25, or the Hous of Fame, ii, Il.
-345-51.]
-Ch. viii. 'La Versification de Chaucer.' Manière de
-scander ses vers ;—ils sont basés sur l’accent tonique. Règles
-de l’accentuation chaucérienne. [This chapter is based on
-Skeat and Child.]
-Ch. ix. La Prononciation de la langue de Chaucer [based
-on Ellis].
-Ch. x. Le Génie de Chaucer. Il a le tempérament
-dramatique. Son style. Étude des Canterbury Tales. La
-comédie chez Chaucer.
-[p. 186] Chaucer . . . homme d’étude et d’observation, toujours
-froid, mais toujours attentif, se plaît à étudier les mœurs de
-la société qui l’environne, et il parvient à les peindre avec
-un rare bonheur. Comme Homère, et La Fontaine, il sait
-d'un seul mot animer une physionomie, éclairer tout un
-tableau. . . .
-[p. 189] . . . L’imagination n’occupe pas le premier rang dans sa
-poésie ; l’enthousiasme y est rare ; il observe bien plus qu’il
-n’admire.
-[p. 196] Chaucer possède déjà toutes les qualités distinctives du
-. . . . . . . . . . .
-génie anglais, mais le côté dramatique de son talent est
-surtout remarquable. . . .
-Quel que soit son sujet . . . les personnages qu’il met en
-scène agissent beaucoup plus qu’ils ne parlent. . . .in 1328, and he seems
-to regard the Testament of Love as authentic.]
-[p. 110] [Chaucer] était Anglais par le cœur, mais Français par
-l’esprit. Il nous appartenait, à son insu sans doute, par la
-finesse satirique de son esprit, la multiplicité de ses aptitudes
-et la forme classique de ses conceptions.
-Ch. vii. 'The King’s English.' Étude de la langue de
-Chaucer, et ses emprunts au français.
-[p. 118] Constatons d’abord par quelques exemples que le mélange
-des mots français n’y est pas fait au hasard, et qu’il dépend
-toujours des exigences du sujet choisi par le poète. Dans le
-style familier, dans la peinture des mœurs populaires, même
-lorsque le récit est une imitation des fabliaux français,
-Chaucer se garde bien de sortir du vocabulaire anglo-saxon.
-[M. Baret compares the Milleres Tale, ll. 312-26 with the
-Clerk’s Prologue, Il. 15-25, or the Hous of Fame, ii, Il.
-345-51.]
-Ch. viii. 'La Versification de Chaucer.' Manière de
-scander ses vers ;—ils sont basés sur l’accent tonique. Règles
-de l’accentuation chaucérienne. [This chapter is based on
-Skeat and Child.]
-Ch. ix. La Prononciation de la langue de Chaucer [based
-on Ellis].
-Ch. x. Le Génie de Chaucer. Il a le tempérament
-dramatique. Son style. Étude des Canterbury Tales. La
-comédie chez Chaucer.
-[p. 186] Chaucer . . . homme d’étude et d’observation, toujours
-froid, mais toujours attentif, se plaît à étudier les mœurs de
-la société qui l’environne, et il parvient à les peindre avec
-un rare bonheur. Comme Homère, et La Fontaine, il sait
-d'un seul mot animer une physionomie, éclairer tout un
-tableau. . . .
-[p. 189] . . . L’imagination n’occupe pas le premier rang dans sa
-poésie ; l’enthousiasme y est rare ; il observe bien plus qu’il
-n’admire.
-[p. 196] Chaucer possède déjà toutes les qualités distinctives du
-. . . . . . . . . . .
-génie anglais, mais le côté dramatique de son talent est
-surtout remarquable. . . .
-Quel que soit son sujet . . . les personnages qu’il met en
-scène agissent beaucoup plus qu’ils ne parlent. . . .</seg>
+          <seg>Chapitre vi. Vie de Chaucer, et description de son influence
+            prépondérante sur la formation de l’idiome anglais.
+            <add>[M. Baret says that Chaucer was born in 1328, and he seems
+            to regard the <hi rend="italic">Testament of Love</hi> as authentic.]</add></seg>
+            
+          <seg><note place="margin">[p. 110]</note><add>[Chaucer]</add> était Anglais par le cœur, mais Français par
+            l’esprit. Il nous appartenait, à son insu sans doute, par la
+            finesse satirique de son esprit, la multiplicité de ses aptitudes
+            et la forme classique de ses conceptions.</seg>
+            
+          <seg>Ch. vii. 'The King’s English.' Étude de la langue de
+            Chaucer, et ses emprunts au français.</seg>
+            
+          <seg><note place="margin">[p. 118]</note>Constatons d’abord par quelques exemples que le mélange
+            des mots français n’y est pas fait au hasard, et qu’il dépend
+            toujours des exigences du sujet choisi par le poète. Dans le
+            style familier, dans la peinture des mœurs populaires, même
+            lorsque le récit est une imitation des fabliaux français,
+            Chaucer se garde bien de sortir du vocabulaire anglo-saxon.</seg>
+            
+          <seg type="editorial">[M. Baret compares the <hi rend="italic">Milleres Tale</hi>, ll. 312-26 with the
+            <hi rend="italic">Clerk’s Prologue</hi>, ll. 15-25, or the <hi rend="italic">Hous of Fame</hi>, ii, ll. 345-51.]</seg>
+            
+          <seg>Ch. viii. 'La Versification de Chaucer.' Manière de
+            scander ses vers ;—ils sont basés sur l’accent tonique. Règles
+            de l’accentuation chaucérienne. <add>[This chapter is based on
+            Skeat and Child.]</add></seg>
+            
+          <seg>Ch. ix. La Prononciation de la langue de Chaucer <add>[based on Ellis]</add>.</seg>
+            
+          <seg>Ch. x. Le Génie de Chaucer. Il a le tempérament
+            dramatique. Son style. Étude des Canterbury Tales. La
+            comédie chez Chaucer.</seg>
+            
+          <seg><note place="margin">[p. 188]</note>Chaucer . . . homme d’étude et d’observation, toujours
+            froid, mais toujours attentif, se plaît à étudier les mœurs de
+            la société qui l’environne, et il parvient à les peindre avec
+            un rare bonheur. Comme Homère, et La Fontaine, il sait
+            
+            <milestone unit="page" n="89"/>
+            
+            d'un seul mot animer une physionomie, éclairer tout un
+            tableau. . . .</seg>
+            
+          <seg><note place="margin">[p. 189]</note>. . . L’imagination n’occupe pas le premier rang dans sa
+            poésie ; l’enthousiasme y est rare ; il observe bien plus qu’il
+            n’admire.</seg>
+            
+          <lb/>. . . . . . . . . . .
+            
+          <seg><note place="margin">[p. 196]</note>Chaucer possède déjà toutes les qualités distinctives du
+            génie anglais, mais le côté dramatique de son talent est
+            surtout remarquable. . . .</seg>
+            
+          <seg>Quel que soit son sujet . . . les personnages qu’il met en scène agissent beaucoup plus qu’ils ne parlent. . . .</seg>
         </ab>
       </div>
     </body>

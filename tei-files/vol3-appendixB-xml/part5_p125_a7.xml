@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/39382261">Gaston Paris</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/39382261">Paris, Gaston</author>
             <date cert="high" when="1888">1888</date>
             <title level="a">La Littérature française au moyen âge.</title>
           </analytic>
@@ -68,7 +68,7 @@
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="#"/>
+        <language ident="fr">French</language>
       </langUsage>
       <textClass/>
     </profileDesc>
@@ -80,7 +80,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="125"/>
-        <ab type="imprint">1888. Paris, Gaston. La Littérature française au moyen âge. </ab>
+        
+        <ab type="imprint">1888. Paris, Gaston. <hi rend="italic">La Littérature française au moyen âge</hi>.<note type="footnote">[The Chaucer references in this, the 1st, edn. are identical with those in the 2nd 1890, entered above.]</note></ab>
       </div>
     </body>
   </text>

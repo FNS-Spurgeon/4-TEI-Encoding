@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1832, Unknown. Poésie chrétienne. Chaucer. Revue Européene,</title>
+        <title>1832, Unknown. Poésie chrétienne. Chaucer. Revue Européene.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -34,7 +34,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1832">1832</date>
-            <title level="a">Poésie chrétienne. Chaucer. Revue Européene,</title>
+            <title level="a">Poésie chrétienne. Chaucer. Revue Européene.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -68,7 +68,7 @@
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="#"/>
+        <language ident="fr">French</language>
       </langUsage>
       <textClass/>
     </profileDesc>
@@ -80,7 +80,7 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="48"/>
-        <ab type="imprint">1832. Unknown. Poésie chrétienne. Chaucer. Revue Européene, 1832, tome iv, p. 193.</ab>
+        <ab type="imprint">1832. Unknown. <hi rend="italic">Poésie chrétienne. Chaucer. Revue Européene</hi>, 1832, tome iv, p. 193.</ab>
       </div>
     </body>
   </text>

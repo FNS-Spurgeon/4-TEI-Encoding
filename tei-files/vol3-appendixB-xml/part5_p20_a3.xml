@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1706, Unknown. [Article in] Le Journal des Sçavans,</title>
+        <title>1706, Unknown. [Article in] Le Journal des Sçavans.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -34,7 +34,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1706">1706</date>
-            <title level="a">[Article in] Le Journal des Sçavans,</title>
+            <title level="a">[Article in] Le Journal des Sçavans.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -68,7 +68,7 @@
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="#"/>
+        <language ident="fr">French</language>
       </langUsage>
       <textClass/>
     </profileDesc>
@@ -80,7 +80,12 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="20"/>
-        <ab type="imprint">1706. Unknown. [Article in] Le Journal des Sçavans, à Paris, pour l’année 1706, p. 249.</ab>
+        
+        <ab type="imprint">1706. Unknown. [Article in] <hi rend="italic">Le Journal des Sçavans</hi>, à Paris, pour l’année 1706, p. 249.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorial">[A review, pp. 243-51, of <hi rend="italic">l’Etat présent d’Angleterre</hi>, by Miège, 1702, quoting the list of poets; see under 1702 above.]</seg>
+        </ab>
       </div>
     </body>
   </text>

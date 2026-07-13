@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/162563">Jacques Claude Demogeot</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/162563">Demogeot, Jacques Claude</author>
             <date cert="high" when="1895">1895</date>
             <title level="a">Histoire des littératures étrangères.</title>
           </analytic>
@@ -82,34 +82,42 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="101"/>
-        <ab type="imprint">1895. Demogeot, Jacques Claude. Histoire des littératures étrangères. Littératures septentrionales, Angleterre, Allemagne, 2e édn., Paris, 1895, pp. 3-13, 24. [The first edn. appeared in 1880, and is identical.]</ab>
+        
+        <ab type="imprint">1895. Demogeot, Jacques Claude. <hi rend="italic">Histoire des littératures étrangères</hi>. Littératures septentrionales, Angleterre, Allemagne, 2e édn., Paris, 1895, pp. 3-13, 24. [The first edn. appeared in 1880, and is identical.]</ab>
+        
         <ab type="quotation">
-          <seg>[p. 3] Chaucer, que les Anglais considèrent comme le père de
-leur poésie, n’est encore qu’un des échos de la poésie
-universelle du moyen âge : c’est le frère puiné de nos
-trouvères ; c’est un poète français et italien qui écrit en
-anglais. . . .
-[p. 6] Deux choses toutefois distinguaient déjà les premiers
-poèmes de Chaucer : d’abord un sentiment vif et personnel
-du monde réel . . . Ses descriptions de la nature sont aussi
-fraîches que leur modèle. . . .
-[p. 7] Un autre trait distinctif qui perçait déjà dans les composi¬
-[p. 8] tions de la jeunesse de Chaucer, c’est un enjouement mali¬
-cieux, une douce satire ; qui assaisonne d’un sel agréable les
-longues descriptions et les solennelles allégories. Dans son
-Troïlus, par exemple, poème antique par le sujet, grave et
-touchant par les incidents et les passions des personnages,
-on entrevoit sans cesse, comme chez Pulci, comme chez
-l’Arioste, comme dans nos fabliaux, le sourire du narrateur
-qui s’amuse et prétend bien amuser les autres. . . .
-[Les Contes de Cantorbéry est] l’ouvrage qui seul assure à
-Geoffroy Chaucer une renommée durable . . . c’est là seule¬
-ment qu’il se révèle dans toute la force de son talent,
-affranchi du goût factice de ses protecteurs et de ses con¬
-temporains . . . il ose être tout à fait lui-même, donner libre
-carrière à son humour, peindre ce qu’il a vu, dire ce qu’il a
-pensé, et composer ainsi l’un des plus charmants tableaux de
-genre qui aient jamais été faits.</seg>
+          <seg><note place="margin">[p. 3]</note> Chaucer, que les Anglais considèrent comme le père de
+            leur poésie, n’est encore qu’un des échos de la poésie
+            universelle du moyen âge : c’est le frère puiné de nos
+            trouvères ; c’est un poète français et italien qui écrit en
+            anglais. . . .</seg>
+            
+          <seg><note place="margin">[p. 6]</note> Deux choses toutefois distinguaient déjà les premiers
+            poèmes de Chaucer : d’abord un sentiment vif et personnel
+            du monde réel . . . Ses descriptions de la nature sont aussi
+            fraîches que leur modèle. . . .</seg>
+            
+          <seg><note place="margin">[p. 7]</note> Un autre trait distinctif qui perçait déjà dans les compositions
+            <note place="margin">[p. 8]</note> de la jeunesse de Chaucer, c’est un enjouement malicieux,
+            une douce satire ; qui assaisonne d’un sel agréable les
+            
+            <milestone unit="page" n="102"/>
+            
+            longues descriptions et les solennelles allégories. Dans son
+            <hi rend="italic">Troïlus</hi>, par exemple, poème antique par le sujet, grave et
+            touchant par les incidents et les passions des personnages,
+            on entrevoit sans cesse, comme chez Pulci, comme chez
+            l’Arioste, comme dans nos fabliaux, le sourire du narrateur
+            qui s’amuse et prétend bien amuser les autres. . . .</seg>
+            
+          <seg><add>[<hi rend="italic">Les Contes de Cantorbéry</hi> est]</add> l’ouvrage qui seul assure à
+            Geoffroy Chaucer une renommée durable . . . c’est là seulement
+            qu’il se révèle dans toute la force de son talent,
+            affranchi du goût factice de ses protecteurs et de ses
+            contemporains . . . il ose être tout à fait lui-même, donner libre
+            carrière à son humour, peindre ce qu’il a vu, dire ce qu’il a
+            pensé, et composer ainsi l’un des plus charmants tableaux de
+            genre qui aient jamais été faits.</seg>
         </ab>
       </div>
     </body>

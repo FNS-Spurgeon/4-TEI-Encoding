@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1867, Jean-Jacques Ampère. Mélanges d’histoire littéraire,</title>
+        <title>1867, Jean-Jacques Ampère. Mélanges d’histoire littéraire.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/14765429">Jean-Jacques Ampère</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/14765429">Ampère, Jean-Jacques</author>
             <date cert="high" when="1867">1867</date>
-            <title level="a">Mélanges d’histoire littéraire,</title>
+            <title level="a">Mélanges d’histoire littéraire.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,22 +82,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="82"/>
-        <ab type="imprint">1867. Ampère, J. J. Mélanges d’histoire littéraire, Paris, 1867, pp. 94, 352, 450, 454.</ab>
+        
+        <ab type="imprint">1867. Ampère, J. J. <hi rend="italic">Mélanges d’histoire littéraire</hi>, Paris, 1867, pp. 94, 352, 450, 454.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 450] Les Renaissances.
-La littérature anglaise, au moyen âge, ne nous offrira
-point un de ces sommets élevés que nous ont montrés
-l’Italie ou l’Espagne, mais une gracieuse colline, semblable
-à celles qui forment la riante parure de l’Angleterre ; et
-autour de cette colline nous apercevons serpenter à l’horizon
-le cortège mêlé des personnages si divers, et tous si
-vivement dessinés par Chaucer, des pèlerins de Cantorbéry.
-Ils vont vers la vieille cathédrale et, chemin faisant,
-racontent des fabliaux un peu à la manière de Boccace :
-cela est gracieux, aimable, mais n’a rien de la grandeur . .
-ni de cette montagne au sommet de laquelle était Dante, ni
-même de ce rocher de la vieille Castille dont la cime portait
-le château fort du Cid.</seg>
+          <seg><note place="margin">[p. 450]</note><lb/>Les Renaissances.
+            <lb/>La littérature anglaise, au moyen âge, ne nous offrira
+            point un de ces sommets élevés que nous ont montrés
+            l’Italie ou l’Espagne, mais une gracieuse colline, semblable
+            à celles qui forment la riante parure de l’Angleterre ; et
+            autour de cette colline nous apercevons serpenter à l’horizon
+            le cortège mêlé des personnages si divers, et tous si
+            vivement dessinés par Chaucer, des pèlerins de Cantorbéry.
+            Ils vont vers la vieille cathédrale et, chemin faisant,
+            racontent des fabliaux un peu à la manière de Boccace :
+            cela est gracieux, aimable, mais n’a rien de la grandeur . .
+            ni de cette montagne au sommet de laquelle était Dante, ni
+            même de ce rocher de la vieille Castille dont la cime portait
+            le château fort du Cid.</seg>
         </ab>
       </div>
     </body>

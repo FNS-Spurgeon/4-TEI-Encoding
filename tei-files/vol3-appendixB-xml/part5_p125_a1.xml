@@ -32,8 +32,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100176623">Auguste Comte</author>
-            <date cert="low" when="[n. a. 1857?]">[n. a. 1857?]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100176623">Comte, Auguste</author>
+            <date cert="low" notAfter="1857">[n. a. 1857?]</date>
             <title level="a">Calendrier Positiviste.</title>
           </analytic>
           <monogr>
@@ -80,11 +80,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="125"/>
-        <ab type="imprint">[n. a. 1857?] Comte, Auguste. Calendrier Positiviste. </ab>
+        
+        <ab type="imprint">[n. a. 1857?] Comte, Auguste. <hi rend="italic">Calendrier Positiviste</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>8° mois (Dante, l’Épopée moderne) 2 [July 17] Boccace,
-Chaucer.</seg>
-          <note type="footnote">Spurgeon's note: [Not in 1st edn., 1849. Comte died in 1857.]</note>
+          <seg>8° mois (Dante, l’Épopée moderne) 2 [July 17] Boccace, Chaucer.<note type="footnote">Spurgeon's note: [Not in 1st edn., 1849. Comte died in 1857.]</note></seg>
         </ab>
       </div>
     </body>

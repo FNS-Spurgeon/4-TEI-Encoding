@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1890, Léon Boucher. Histoire de la littérature anglaise,</title>
+        <title>1890, Léon Boucher. Histoire de la littérature anglaise.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/94749358">Léon Boucher</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/94749358">Boucher, Léon</author>
             <date cert="high" when="1890">1890</date>
-            <title level="a">Histoire de la littérature anglaise,</title>
+            <title level="a">Histoire de la littérature anglaise.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,21 +82,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="96"/>
-        <ab type="imprint">1890. Boucher, Léon. Histoire de la littérature anglaise, Paris 1890, pp. 26, 28-39, 40, 41, 45, 46, 47, 49, 52, 53, 54, 58, 65, 124, 138, 221, 243, 499.</ab>
+        
+        <ab type="imprint">1890. Boucher, Léon. <hi rend="italic">Histoire de la littérature anglaise</hi>, Paris 1890, pp. 26, 28-39, 40, 41, 45, 46, 47, 49, 52, 53, 54, 58, 65, 124, 138, 221, 243, 499.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 37] Génie de Chaucer. Par les Canterbury Tales, Chaucer
-entre dans la phalange des rares écrivains qui ont été des
-créateurs. . . .. On sent ici l’homme maître de sa pensée,
-l’artiste maître de son instrument et de sa main. On y
-sent aussi l’observateur qui a vu de près la vie, le poète
-qui, pathétiques ou comiques, sait choisir dans les traits
-innombrables de la physionomie humaine et peut leur
-donner, en les reproduisant, un caractère plastique et une
-forme distincte.
-[p. 38] . . . Au don merveilleux entre tous de créer des êtres
-poétiques qui produisent l’illusion de la réalité Chaucer unit
-le talent de peindre par des mots, avec l’aspect extérieur de
-l’homme, la nature elle-même.</seg>
+          <seg><note place="margin">[p. 37]</note> Génie de Chaucer. Par les <hi rend="italic">Canterbury Tales</hi>, Chaucer
+            entre dans la phalange des rares écrivains qui ont été des
+            créateurs. . . . . On sent ici l’homme maître de sa pensée,
+            l’artiste maître de son instrument et de sa main. On y
+            sent aussi l’observateur qui a vu de près la vie, le poète
+            qui, pathétiques ou comiques, sait choisir dans les traits
+            innombrables de la physionomie humaine et peut leur
+            donner, en les reproduisant, un caractère plastique et une
+            forme distincte.</seg>
+            
+          <seg><note place="margin">[p. 38]</note> . . . Au don merveilleux entre tous de créer des êtres
+            poétiques qui produisent l’illusion de la réalité Chaucer unit
+            le talent de peindre par des mots, avec l’aspect extérieur de
+            l’homme, la nature elle-même.</seg>
         </ab>
       </div>
     </body>

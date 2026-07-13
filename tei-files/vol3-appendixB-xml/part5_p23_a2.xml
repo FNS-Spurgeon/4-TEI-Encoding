@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1740, Unknown. [Article 'Chaucer' in the] Grand dictionnaire historique...</title>
+        <title>1740, Unknown. [Article 'Chaucer' in the] Grand dictionnaire historique.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -34,7 +34,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1740">1740</date>
-            <title level="a">[Article 'Chaucer' in the] Grand dictionnaire historique...</title>
+            <title level="a">[Article 'Chaucer' in the] Grand dictionnaire historique.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,21 +82,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="23"/>
-        <ab type="imprint">1740. Unknown. [Article 'Chaucer' in the] Grand dictionnaire historique... commencé en 1674 par Mre Louis Moréri.. 18 édn., 1740, tome ii, p. 352.</ab>
+        
+        <ab type="imprint">1740. Unknown. [Article '<hi rend="italic">Chaucer</hi>' in the] <hi rend="italic">Grand dictionnaire historique</hi> . . . commencé en 1674 par Mre Louis Moréri . . 18 édn., 1740, tome ii, p. 352.</ab>
+        
         <ab type="quotation">
           <seg>CHAUCER (Géofroy), natif de Woodstock en Angleterre,
-dans le xiv siécle, fut surnommé l’Homére Anglois, à cause
-de ses Poësies. Il donna au public divers Ouvrages de sa
-façon, dont on pourra voir le dénombrement dans Léland,
-Pitseus, Gesner, etc. . . . Chaucer, outre la Poësie, sçavoit les
-Mathématiques et les Belles Lettres. Ses ouvrages Anglois
-ont été imprimez à Londres l’an 1561. On a de lui en Latin,
-Laudes bonarum Mulierum; Vita Cleopatræ; Vita Lucretiæ
-Romanæ; Flos Urbanitatis; Sepultura Misericordia; De
-Astrolabii ratione. Il mourut en 1400, et en 1555, on rétablit
-son tombeau, qui est à Westminster. Gesner, in biblioth.
-Leland. Balaeus et Pitseus, de script. angl. Camden, etc.</seg>
-          <note type="footnote">Spurgeon's note: [The sentence relating to Chaucer's Latin works appears for the first time in this edition. For earlier editions see above, 1674, Moréri, and 1688 and 1707, Unknown.]</note>
+            dans le xiv siécle, fut surnommé l’Homére Anglois, à cause
+            de ses Poësies. Il donna au public divers Ouvrages de sa
+            façon, dont on pourra voir le dénombrement dans Léland,
+            Pitseus, Gesner, etc. . . . Chaucer, outre la Poësie, sçavoit les
+            Mathématiques et les Belles Lettres. Ses ouvrages Anglois
+            ont été imprimez à Londres l’an 1561. On a de lui en Latin,
+            <hi rend="italic">Laudes bonarum Mulierum</hi>; <hi rend="italic">Vita Cleopatræ</hi>; <hi rend="italic">Vita Lucretiæ
+            Romanæ</hi>; <hi rend="italic">Flos Urbanitatis</hi>; <hi rend="italic">Sepultura Misericordia</hi>; <hi rend="italic">De
+            Astrolabii ratione</hi>. Il mourut en 1400, et en 1555, on rétablit
+            son tombeau, qui est à Westminster. Gesner, <hi rend="italic">in biblioth.</hi>
+            Leland. Balaeus et Pitseus, <hi rend="italic">de script. angl.</hi> Camden, etc.
+            <note type="footnote">Spurgeon's note: [The sentence relating to Chaucer's Latin works appears for the first time in this edition. For earlier editions see above, 1674, Moréri, and 1688 and 1707, Unknown.]</note></seg>
         </ab>
       </div>
     </body>

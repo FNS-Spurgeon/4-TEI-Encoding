@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1755, Unknown. Journal Étranger,</title>
+        <title>1755, Unknown. Journal Étranger.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -34,7 +34,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1755">1755</date>
-            <title level="a">Journal Étranger,</title>
+            <title level="a">Journal Étranger.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,91 +83,108 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="32"/>
-        <ab type="imprint">1755. Unknown. Journal Étranger, [Periodical founded in Paris in 1754, and directed by l’Abbé Prévost from January to August, 1755]. Vies des Poëtes Anglois, par M. Colley Cibber, in the article Philologie, May, 1755, pp. 156-172; August, p. 125.</ab>
+        
+        <ab type="imprint">1755. Unknown. <hi rend="italic">Journal Étranger</hi>, [Periodical founded in Paris in 1754, and directed by l’Abbé Prévost from January to August, 1755]. Vies des Poëtes Anglois, par M. Colley Cibber, in the article <hi rend="italic">Philologie</hi>, May, 1755, pp. 156-172; August, p. 125.</ab>
+        
         <ab type="quotation">
-          <seg>[The first ot these articles on the Lives of Cibber is printed
-in the March number, 1755, and deals with Eustace Budgell,
-the Tatler, Spectator, and Guardian.]
-[mai, p. 156] Qu’on nous permette ici une espèce d’Ana¬
-cronisme. Après avoir donné les vies de quelques Poëtes
-modernes, nous allons remonter jusqu’au Père &amp; au créateur
-de la Poësie Angloise. . . .
-[p.157] Geoffroy Chaucer. Le lieu de sa naissance est aussi incer¬
-tain que la Patrie d’Homère; &amp; plusieurs Comtés d’Angle¬
-terre comme plusieurs Villes de Grèce, se disputent l’hon¬
-neur d’avoir donné le jour au Fondateur de la Poësie
-Nationale. On sçait par conjecture qu’il étoit Gentilhomme.
-Un Chevalier de son nom vivoit à la Cour d’Edouard III au
-commencement de son règne; on présume qu’il fut le Père
-de notre Poëte. Quoiqu’il en soit, l’époque de sa naissance
-est du moins certaine, &amp; tous les Historiens la fixent à
-l’année 1328. . . . Il étudia successivement dans les deux
-Universités, où il devint, dit M. Leland, 'un Logicien subtil,
-un Orateur élégant, un Poëte agréable, un grand Philosophe,
-un Mathématicien ingénieux, et un profond Théologien.'
-Il voyagea ensuite dans les Pays étrangers.
-[p. 158] . . . Les Dames, sur tout, l’honoroient à l’envi des distinc¬
-tions les plus flatteuses. La Reine même, la Duchesse de
-[p. 159] Lancastre, la Princesse Marguerite, fille du Roi, et la
-Comtesse de Pembroke, furent ses Protectrices déclarées.
-Peu s’en fallut cependant qu’il ne perdit leurs bonnes grâces,
-pour avoir traduit du François, le fameux Roman de la Rose.
-Chacun sçait combien le beau sexe y est peu ménagé. Il
-avoit rendu littéralement les expressions de l’Original; les
-Dames, &amp; surtout la Princesse, lui en témoignerent leur
-ressentiment. On lui prescrivit la maniere d’expier cette
-faute: ce fut de composer la Légende des honnêtes femmes.
-La Princesse y fut désignée sous un nom allégorique, et
-sa vertu comblée d’éloges. Les autres Protectrices y
-trouverent aussi leur place, &amp; chacune fut célébrée comme un
-prodige de chasteté. Plus un éloge est exclusif, plus il flatte
-l’amour propre. Fieres de l’exception, elles abandonnerent
-volontiers aux traits de la Satire, le reste de leur sexe.
-1755] French Allusions 33
-Chaucer, ayant la liberté de faire main basse sur la réputa¬
-tion des femmes, en usa très amplement, et n’en fit que mieux
-[p. 160] sa Cour. C’étoient de nouveaux trophées qu’il érigeoit à ses
-Héroïnes.
-Sa faveur alla toujours en augmentant; la Duchesse de
-Lancastre lui fit épouser la Demoiselle de Rouet qui lui étoit
-attachée, et dont la sœur, Lady Swinford, étoit Gouvernante
-de ses enfans. Le Duc son mari, Prince ambitieux, &amp;
-rempli de vastes projets, étoit fait pour sentir le prix des
-talens, du sçavoir et de l’habileté. Parmi les Courtisans, il
-ne trouva que le seul Chaucer, qui réunît tous ces différens
-avantages. . . . Le Duc, persuadé de l’utilité qui accom¬
-pagne le vrai mérite, chercha l’occasion de faire employer
-notre Poète. . . .
-[p.165] La mort du Duc de Lancastre, les troubles &amp; les malheurs
-. . . . . . . . . . .
-dont elle fut suivie, ceux dont l’Angleterre étoit menacée par
-l’exil et la révolte du Comte de Derby, son supplice s’il
-échouoit, son crime s’il réussissoit, tout cela s’offrit à la vue
-de ce vieux Courtisan. Agé alors de soixante et dix ans, il
-ne pût se résoudre, ni à trahir son Roi, ni à prendre les
-armes contre le fils de son Bienfaiteur. Il quitta donc la
-Cour, &amp; se retira à la Campagne pour y passer le reste de
-ses jours dans un repos contemplatif. Notre Poëte y vêcut
-encore deux ans, &amp; mourut en 1400, comblé de gloire et de
-bienfaits. . . .
-[p. 168] Il en vouloit sur tout aux fraudes pieuses, qui dans ces
-. . . . . . . . . . .
-Siècles d’ignorance défiguroient la Religion. Dans le Pro¬
-logue de son Pardonner, ou Distributeur d’Indulgences, il
-introduit un de ces Vagabonds, qui couroient les Campagnes,
-pour sémer la superstition &amp; recueillir de l’argent. Il seroit
-difficile de traduire ce morceau littéralement. Il y a, dans
-la naïveté de son vieux langage, un agrément qu’on ne peut
-rendre que par comparaison. C’est un stile, auquel celui de
-Villon et de Marot ressemble assez dans notre Langue. . . .
-[A translation follows of part of the Prologue of the Pardoner.]
-. . . . . . . . . . .
-[p. 170] Enfin il excella dans tous les genres : le stile sérieux,
-[p. 171] l’enjoué, le tendre, le galant, lui furent également familiers,
-&amp; son génie Poëtique peut passer pour universel. C'est à ce
-titre que Dryden, le comparant avec Homere &amp; Virgile, ose
-l’élever au-dessus du second, &amp; le placer même vis-à-vis du
-premier.</seg>
+          <seg type="editorial">[The first ot these articles on the <hi rend="italic">Lives</hi> of Cibber is printed
+            in the March number, 1755, and deals with Eustace Budgell,
+            the <hi rend="italic">Tatler</hi>, <hi rend="italic">Spectator</hi>, and <hi rend="italic">Guardian</hi>.]</seg>
+          
+          <seg><add>[mai, p. 156]</add> Qu’on nous permette ici une espèce
+            d’Anacronisme. Après avoir donné les vies de quelques Poëtes
+            modernes, nous allons remonter jusqu’au Père &amp; au créateur
+            de la Poësie Angloise. . . .</seg>
+            
+          <seg><note place="margin">[p.157]</note>Geoffroy Chaucer. Le lieu de sa naissance est aussi
+            incertain que la Patrie d’Homère; &amp; plusieurs Comtés
+            d’Angleterre comme plusieurs Villes de Grèce, se disputent
+            l’honneur d’avoir donné le jour au Fondateur de la Poësie
+            Nationale. On sçait par conjecture qu’il étoit Gentilhomme.
+            Un Chevalier de son nom vivoit à la Cour d’Edouard III au
+            commencement de son règne; on présume qu’il fut le Père
+            de notre Poëte. Quoiqu’il en soit, l’époque de sa naissance
+            est du moins certaine, &amp; tous les Historiens la fixent à
+            l’année 1328. . . . Il étudia successivement dans les deux
+            Universités, où il devint, dit M. Leland, 'un Logicien subtil,
+            un Orateur élégant, un Poëte agréable, un grand Philosophe,
+            un Mathématicien ingénieux, et un profond Théologien.'
+            Il voyagea ensuite dans les Pays étrangers.</seg>
+            
+          <seg><note place="margin">[p. 158]</note>. . . Les Dames, sur tout, l’honoroient à l’envi des
+            distinctions les plus flatteuses. La Reine même, la Duchesse de
+            <note place="margin">[p. 159]</note> Lancastre, la Princesse Marguerite, fille du Roi, et la
+            Comtesse de Pembroke, furent ses Protectrices déclarées.
+            Peu s’en fallut cependant qu’il ne perdit leurs bonnes grâces,
+            pour avoir traduit du François, le fameux <hi rend="italic">Roman de la Rose</hi>.
+            Chacun sçait combien le beau sexe y est peu ménagé. Il
+            avoit rendu littéralement les expressions de l’Original; les
+            Dames, &amp; surtout la Princesse, lui en témoignerent leur
+            ressentiment. On lui prescrivit la maniere d’expier cette
+            faute: ce fut de composer la <hi rend="italic">Légende des honnêtes femmes</hi>.
+            La Princesse y fut désignée sous un nom allégorique, et
+            sa vertu comblée d’éloges. Les autres Protectrices y
+            trouverent aussi leur place, &amp; chacune fut célébrée comme un
+            prodige de chasteté. Plus un éloge est exclusif, plus il flatte
+            l’amour propre. Fieres de l’exception, elles abandonnerent
+            volontiers aux traits de la Satire, le reste de leur sexe.
+            
+            <milestone unit="page" n="33"/>
+            
+            Chaucer, ayant la liberté de faire main basse sur la réputa¬
+            tion des femmes, en usa très amplement, et n’en fit que mieux
+            <note place="margin">[p. 160]</note> sa Cour. C’étoient de nouveaux trophées qu’il érigeoit à ses
+            Héroïnes.</seg>
+            
+          <seg>Sa faveur alla toujours en augmentant; la Duchesse de
+            Lancastre lui fit épouser la Demoiselle de Rouet qui lui étoit
+            attachée, et dont la sœur, Lady Swinford, étoit Gouvernante
+            de ses enfans. Le Duc son mari, Prince ambitieux, &amp;
+            rempli de vastes projets, étoit fait pour sentir le prix des
+            talens, du sçavoir et de l’habileté. Parmi les Courtisans, il
+            ne trouva que le seul Chaucer, qui réunît tous ces différens
+            avantages. . . . Le Duc, persuadé de l’utilité qui accom¬
+            pagne le vrai mérite, chercha l’occasion de faire employer
+            notre Poète. . . .</seg>
+            
+          <lb/>. . . . . . . . . . .
+            
+          <seg><note place="margin">[p.165]</note>La mort du Duc de Lancastre, les troubles &amp; les malheurs
+            dont elle fut suivie, ceux dont l’Angleterre étoit menacée par
+            l’exil et la révolte du Comte de Derby, son supplice s’il
+            échouoit, son crime s’il réussissoit, tout cela s’offrit à la vue
+            de ce vieux Courtisan. Agé alors de soixante et dix ans, il
+            ne pût se résoudre, ni à trahir son Roi, ni à prendre les
+            armes contre le fils de son Bienfaiteur. Il quitta donc la
+            Cour, &amp; se retira à la Campagne pour y passer le reste de
+            ses jours dans un repos contemplatif. Notre Poëte y vêcut
+            encore deux ans, &amp; mourut en 1400, comblé de gloire et de
+            bienfaits. . . .</seg>
+          
+          <lb/>. . . . . . . . . . .
+            
+          <seg><note place="margin">[p. 168]</note>Il en vouloit sur tout aux fraudes pieuses, qui dans ces
+            Siècles d’ignorance défiguroient la Religion. Dans le
+            Prologue de son <hi rend="italic">Pardonner</hi>, ou <hi rend="italic">Distributeur d’Indulgences</hi>, il
+            introduit un de ces Vagabonds, qui couroient les Campagnes,
+            pour sémer la superstition &amp; recueillir de l’argent. Il seroit
+            difficile de traduire ce morceau littéralement. Il y a, dans
+            la naïveté de son vieux langage, un agrément qu’on ne peut
+            rendre que par comparaison. C’est un stile, auquel celui de
+            Villon et de Marot ressemble assez dans notre Langue. . . .
+            <add>[A translation follows of part of the Prologue of the Pardoner.]</add></seg>
+            
+          <lb/>. . . . . . . . . . .
+            
+          <seg><note place="margin">[p. 170]</note>Enfin il excella dans tous les genres : le stile sérieux,
+            <note place="margin">[p. 171]</note> l’enjoué, le tendre, le galant, lui furent également familiers,
+            &amp; son génie Poëtique peut passer pour universel. C'est à ce
+            titre que Dryden, le comparant avec Homere &amp; Virgile, ose
+            
+            <milestone unit="page" n="34"/>
+            
+            l’élever au-dessus du second, &amp; le placer même vis-à-vis du
+            premier.</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1881, Jean Jules Jusserand. [Notice of Littératures anglaise et slave ... by Eugène Hallberg, Paris, 1880] Revue Critique d’Histoire et de Littérature,</title>
+        <title>1881, Jean-Jules Jusserand. [Notice of Littératures anglaise et slave ... by Eugène Hallberg, Paris, 1880] Revue Critique d’Histoire et de Littérature.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jean Jules Jusserand</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jusserand, Jean-Jules</author>
             <date cert="high" when="1881">1881</date>
-            <title level="a">[Notice of Littératures anglaise et slave ... by Eugène Hallberg, Paris, 1880] Revue Critique d’Histoire et de Littérature,</title>
+            <title level="a">[Notice of Littératures anglaise et slave ... by Eugène Hallberg, Paris, 1880] Revue Critique d’Histoire et de Littérature.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,14 +80,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="87"/>
-        <ab type="imprint">1881. Jusserand, J. J. [Notice of Littératures anglaise et slave ... by Eugène Hallberg, Paris, 1880] Revue Critique d’Histoire et de Littérature, February 1881, pp. 102, 103.</ab>
+        
+        <ab type="imprint">1881. Jusserand, J. J. [Notice of <hi rend="italic">Littératures anglaise et slave</hi> . . . by Eugène Hallberg, Paris, 1880] <hi rend="italic">Revue Critique d’Histoire et de Littérature</hi>, February 1881, pp. 102, 103.</ab>
+        
         <ab type="quotation">
-          <seg>l’auteur [M. Hallberg] a revu 'tous les faits, tous les noms
-. . . Mieux vaut passer sous silence la déclaration que
-et les dates principales de son livre,' d’après 'l’encyclopédie
-de la littérature anglaise' d’Allibone . . . Chaucer [paraît-il]
-est né en 1328 (p. 8) ; il est l’auteur du Testament d’amour
-(p. 8). . .</seg>
+          <seg>l’auteur <add>[M. Hallberg]</add> a revu 'tous les faits, tous les noms
+            . . . Mieux vaut passer sous silence la déclaration que
+            et les dates principales de son livre,' d’après 'l’encyclopédie
+            de la littérature anglaise' d’Allibone . . . Chaucer <add>[paraît-il]</add>
+            est né en 1328 (p. 8) ; il est l’auteur du <hi rend="italic">Testament d’amour</hi> (p. 8). . .</seg>
         </ab>
       </div>
     </body>

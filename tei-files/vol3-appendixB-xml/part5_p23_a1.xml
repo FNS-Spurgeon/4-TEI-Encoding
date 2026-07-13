@@ -80,21 +80,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="23"/>
-        <ab type="imprint">1737. Unknown. Note on Chaucer [in] Le Spectateur, ou Le Socrate moderne. Traduit de l’Anglois. Suivant la 4ème Édition d’Am¬ sterdam. Basle, 1737. Tome i, p. 374.</ab>
+        
+        <ab type="imprint">1737. Unknown. <hi rend="italic">Note on Chaucer</hi> [in] <hi rend="italic">Le Spectateur, ou Le Socrate moderne</hi>. Traduit de l’Anglois. Suivant la 4ème Édition d’Am¬ sterdam. Basle, 1737. Tome i, p. 374.</ab>
+        
         <ab type="quotation">
-          <seg>[Text. ] Chaucer* décrit fort joliment, dans un de ses
-Contes, cette humeur volage d’une Idole; Il nous la repré¬
-sente assise autour d’une Table avec trois de ses Esclaves, qui
-n’oublient rien pour gagner ses bonnes graces, et lui rendre
-leurs devoirs: Là -dessus, elle sourioit à l’un, buvoit à la
-santé de l’autre, et pressoit le pié du troisième sous la
-Table. Quel donc de ces trois dit le vieux Barde, croiriez-
-vous être le véritable favori? De bonne foi, ajoute-t-il, pas
-un des trois.
-[Note.] *Il s’appelloit GEOFROI. &amp; vivoit vers le milieu
-du XV. siècle. Les Anglois le regardent comme le Pere de
-leur Poësie.</seg>
-          <note type="footnote">Spurgeon's note: [According to L. P. Betz (Bodmer-Denkschrift, Zürich, 1900, p. 238), editions of the above were published at Amsterdam in 1714, 1716-18, 1722-30, 1731-36, 1744, 1754-55; at Paris, in 1716-26, 1754 (corrigée et augmentée) and 1754-55. The only edition in the British Museum is dated Amsterdam, 1746-50, where this reference occurs in tome i, p. 379.]</note>
+          <seg><add>[Text.]</add> Chaucer*<note type="footnote"><add>[Note.]</add> *Il s’appelloit GEOFROI. &amp; vivoit vers le milieu
+              du XV. siècle. Les Anglois le regardent comme le Pere de
+              leur Poësie.</note> décrit fort joliment, dans un de ses
+              Contes, cette humeur volage d’une Idole; Il nous la repré¬
+              sente assise autour d’une Table avec trois de ses Esclaves, qui
+              n’oublient rien pour gagner ses bonnes graces, et lui rendre
+              leurs devoirs: Là -dessus, elle sourioit à l’un, buvoit à la
+              santé de l’autre, et pressoit le pié du troisième sous la
+              Table. Quel donc de ces trois dit le vieux Barde, croiriez-
+              vous être le véritable favori? De bonne foi, ajoute-t-il, pas
+              un des trois.<note type="footnote">Spurgeon's note: [According to L. P. Betz (Bodmer-Denkschrift, Zürich, 1900, p. 238), editions of the above were published at Amsterdam in 1714, 1716-18, 1722-30, 1731-36, 1744, 1754-55; at Paris, in 1716-26, 1754 (corrigée et augmentée) and 1754-55. The only edition in the British Museum is dated Amsterdam, 1746-50, where this reference occurs in tome i, p. 379.]</note>
+            </seg>
         </ab>
       </div>
     </body>

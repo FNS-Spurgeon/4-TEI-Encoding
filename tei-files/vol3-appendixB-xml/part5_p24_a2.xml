@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1749, Antoine Yart. Idée de la poësie angloise, ou Traduction des meilleurs Poëtes Anglois, qui n’ont point encore paru dans notre Langue, avec un jugement sur leurs Ouvrages, &amp; une comparaison de leurs Poësies avec celles des Auteurs anciens &amp; modernes.</title>
+        <title>1749, Antoine Yart. Idée de la poësie angloise.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/12657165">Antoine Yart</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/12657165">Yart, Antoine</author>
             <date cert="high" when="1749">1749</date>
             <title level="a">Idée de la poësie angloise, ou Traduction des meilleurs Poëtes Anglois, qui n’ont point encore paru dans notre Langue, avec un jugement sur leurs Ouvrages, &amp; une comparaison de leurs Poësies avec celles des Auteurs anciens &amp; modernes.</title>
           </analytic>
@@ -82,76 +82,96 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="24"/>
-        <ab type="imprint">1749. Yart, Antoine, Abbé [de Rouen]. Idée de la poësie angloise, ou Traduction des meilleurs Poëtes Anglois, qui n’ont point encore paru dans notre Langue, avec un jugement sur leurs Ouvrages, &amp; une comparaison de leurs Poësies avec celles des Auteurs anciens &amp; modernes. A Paris, chez Claude Briasson ... 2 tomes, 1749.</ab>
+        
+        <ab type="imprint">1749. Yart, Antoine, Abbé [de Rouen]. <hi rend="italic">Idée de la poësie angloise, ou Traduction des meilleurs Poëtes Anglois, qui n’ont point encore paru dans notre Langue, avec un jugement sur leurs Ouvrages, &amp; une comparaison de leurs Poësies avec celles des Auteurs anciens &amp; modernes.</hi> A Paris, chez Claude Briasson ... 2 tomes, 1749.</ab>
+        
         <ab type="quotation">
-          <seg>[tom. i, p. xix]
-[Abridgement of the life of John Philips], écrite en anglois,
-par M. George Sewell, éditeur de ses Ouvrages.
-. . . à l’exemple de Milton, son Auteur favori, il cherchoit
-à s’enrichir des termes propres, expressifs, harmonieux du
-vieux langage. . .. Dans ce dessein, il lut Chaucer &amp;
-Spenser.
-[Note by Yart.] Chaucer vécut au milieu du quatorzième
-siècle; il mourut en 1400, il a composé un assez grand
-nombre de Contes; ses Compatriotes admirent l’enjoue¬
-ment &amp; la naïveté de ses narrations; mais son langage
-est tellement vieilli, que les Anglois ne l’entendent presque
-plus; il faisoit des vers fort enjoués, &amp; il sçavoit les Mathé¬
-matiques; il fut surnommé l’Homère Anglois; son Tombeau
-est à Westminster: on l’a rétabli en 1550.
-[p. xxiij- [Abridgement of the life of Philips, by Sewell.] Simon
-. . . . . . . . . .
-xxiv]
-Harcourt, Lord Chancelier d’Angleterre lui a élevé à West¬
-minster un mausolée auprès de celui de Chaucer. . . .
-. . . . . . . . . .
-[p. xxvij] [Abridgement of the life of Philips, continued,—epitaph]
-Qu’il lui soit donc permis, ô Chaucer, Père de la Poësie
-Angloise, quoiqu’il n’ait pas suivi les Loix (a) que vous avez
-données à la versification, de fermer un des côtés de votre
-Tombeau, il ne deshonorera pas le Chœur des Poëtes qui
-entourent vos cendres.
-Fas fit hinc
-Auso licet à tuâ metrorum lege dicedere,
-O Poësis Anglicanæ Pater, atque conditor Chaucere,
-Aeternum tibi latus claudere:
-Vatum certè cineres, tuos undique stipantium;
-Non dedecebit chorum.
-(a) [Note by Yart.] Milton fut le premier Poëte
-d’Angleterre qui substitua aux Vers rimés, inventés par
-Chaucer, les Vers blancs ou non rimés. Philips, &amp; plusieurs
-autres Poètes, ont imité Milton dans ce nouveau genre de
-Poësie. . . .
-. . . . . . . . . .
-[tom. ii, On va voir parottre Chaucer &amp; Spencer, ensuite Cowley,
-d. 77]
-Milton, Denham, &amp; enfin Waller, Roscommon, Dryden,
-Congreve &amp; Montagu, on verra naître la Poësie Angloise
-avec les premiers, se former avec les seconds, &amp; se polir avec
-les derniers.
-. . . . . . . . . . .
-[p. 80] Histoire abrégée des plus grands poëtes anglois, par
-Joseph Addison, à monsieur Henry Sacheverell. [A trans¬
-lation follows from Addison’s Account of the greatest English
-poets, 1694. Yart translates thus the verses referring to
-Chaucer.]
-Vous voulez, cher Sacheverell, que je parcoure les siècles
-qui se sont écoulés depuis Chaucer jusqu’à Dryden. . . .
-[p. 81]
-Nos stupides ayeux étoient plongés depuis long-tems dans
-un sommeil profond; leur âme insensible, n’étoit point émue
-[p. 82] par l’enthousiasme des neuf sœurs, lorsque Chaucer parut;
-Poëte naïf, il fit divers Contes en Vers &amp; en Prose, mais le
-tems a porté sa rouille sur ses Ecrits, défiguré son langage,
-obscurci son esprit; il s’efforce d’égayer ses vers grossiers
-par des plaisanteries, il ne peut venir à bout de divertir ses
-lecteurs.
-. . . . . . . . . . .
-[p.107] [The Progress of Poetry, by Lady Mary Wortley Montagu.]
-. . . Chaucer, le premier, ouvrit sa veine comique, il en fit
-couler ses contes plaisans &amp; naïfs: des beautés sans parure,
-ornent ses vers sans art; son style est grossier, mai ses
-pensées sont fortes.</seg>
+          <seg><note place="margin">[tom. i, p. xix]</note> <add>[Abridgement of the life of John Philips]</add>, écrite en anglois,
+            par M. George Sewell, éditeur de ses Ouvrages.</seg>
+          
+          <seg>. . . à l’exemple de Milton, son Auteur favori, il cherchoit
+            à s’enrichir des termes propres, expressifs, harmonieux du
+            vieux langage. . . . Dans ce dessein, il lut Chaucer &amp;
+            Spenser.</seg>
+            
+          <seg><add>[Note by Yart.]</add> Chaucer vécut au milieu du quatorzième
+            siècle; il mourut en 1400, il a composé un assez grand
+            nombre de Contes; ses Compatriotes admirent l’enjouement 
+            &amp; la naïveté de ses narrations; mais son langage
+            est tellement vieilli, que les Anglois ne l’entendent presque
+            plus; il faisoit des vers fort enjoués, &amp; il sçavoit les
+            Mathématiques; il fut surnommé l’Homère Anglois; son Tombeau
+            est à Westminster: on l’a rétabli en 1550.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. xxiij-xxiv]</note> <add>[Abridgement of the life of Philips, by Sewell.]</add> Simon
+              Harcourt, Lord Chancelier d’Angleterre lui a élevé à Westminster un mausolée auprès de celui de Chaucer. . . .</seg>
+          
+          <lb/>. . . . . . . . . .
+            
+            
+          <seg><note place="margin">[p. xxvij]</note> <add>[Abridgement of the life of Philips, continued,—epitaph]</add>
+              Qu’il lui soit donc permis, ô Chaucer, Père de la Poësie
+              
+              <milestone unit="page" n="25"/>
+              
+              Angloise, quoiqu’il n’ait pas suivi les Loix (a)<note>(a) <add>[Note by Yart.]</add> Milton fut le premier Poëte
+                d’Angleterre qui substitua aux Vers rimés, inventés par
+                Chaucer, les Vers blancs ou non rimés. Philips, &amp; plusieurs
+                autres Poètes, ont imité Milton dans ce nouveau genre de
+                Poësie. . . .</note> que vous avez
+              données à la versification, de fermer un des côtés de votre
+              Tombeau, il ne deshonorera pas le Chœur des Poëtes qui
+              entourent vos cendres.
+              <lg>
+                <l>Fas fit hinc</l>
+                <l>Auso licet à tuâ metrorum lege dicedere,</l>
+                <l>O Poësis Anglicanæ Pater, atque conditor Chaucere,</l>
+                <l>Aeternum tibi latus claudere:</l>
+                <l>Vatum certè cineres, tuos undique stipantium;</l>
+                <l>Non dedecebit chorum.</l>
+              </lg>
+          </seg>
+           
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[tom. ii, d. 77]</note> On va voir parottre Chaucer &amp; Spencer, ensuite Cowley,
+            Milton, Denham, &amp; enfin Waller, Roscommon, Dryden,
+            Congreve &amp; Montagu, on verra naître la Poësie Angloise
+            avec les premiers, se former avec les seconds, &amp; se polir avec
+            les derniers.</seg>
+            
+          <lb/>. . . . . . . . . . .
+            
+          <seg><note place="margin">[p. 80]</note> Histoire abrégée des plus grands poëtes anglois, par
+            Joseph Addison, à monsieur Henry Sacheverell.</seg>
+          
+          <seg type="editorial">[A translation follows from Addison’s Account of the greatest English
+            poets, 1694. Yart translates thus the verses referring to Chaucer.]</seg>
+            
+          <seg>Vous voulez, cher Sacheverell, que je parcoure les siècles
+            qui se sont écoulés depuis Chaucer jusqu’à Dryden. . . .</seg>
+            
+          <seg><note place="margin">[p. 81]</note> Nos stupides ayeux étoient plongés depuis long-tems dans
+            un sommeil profond; leur âme insensible, n’étoit point émue
+            <note place="margin">[p. 82]</note> par l’enthousiasme des neuf sœurs, lorsque Chaucer parut;
+            Poëte naïf, il fit divers Contes en Vers &amp; en Prose, mais le
+            tems a porté sa rouille sur ses Ecrits, défiguré son langage,
+            obscurci son esprit; il s’efforce d’égayer ses vers grossiers
+            par des plaisanteries, il ne peut venir à bout de divertir ses
+            lecteurs.</seg>
+            
+          <lb/>. . . . . . . . . . .
+            
+          <seg><note place="margin">[p. 107]</note> <add>[<hi rend="italic">The Progress of Poetry</hi>, by Lady Mary Wortley Montagu.]</add>
+            . . . Chaucer, le premier, ouvrit sa veine comique, il en fit
+            couler ses contes plaisans &amp; naïfs: des beautés sans parure,
+            
+            <milestone unit="page" n="26"/>
+            
+            ornent ses vers sans art; son style est grossier, mai ses
+            pensées sont fortes.</seg>
         </ab>
       </div>
     </body>

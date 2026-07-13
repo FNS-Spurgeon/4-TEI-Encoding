@@ -102,12 +102,12 @@
                       <cell>Qui en Gaule</cell>
                       <cell>Qui men gaule</cell>
                     </row>
-                    <row>
+                    <row role="data">
                       <cell>line 20, 30</cell>
                       <cell>Grand</cell>
                       <cell>Grant</cell>
                     </row>
-                    <row>
+                    <row role="data">
                       <cell>line 32</cell>
                       <cell>seroye</cell>
                       <cell>seroie.</cell>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1856, Hippolyte Taine. Jeffrey Chaucer [article in the] Revue de l’instruction publique,</title>
+        <title>1856, Hippolyte Taine. Jeffrey Chaucer [article in the] Revue de l’instruction publique.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/2477374">Hippolyte Taine</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/2477374">Taine, Hippolyte</author>
             <date cert="high" when="1856">1856</date>
-            <title level="a">Jeffrey Chaucer [article in the] Revue de l’instruction publique,</title>
+            <title level="a">Jeffrey Chaucer [article in the] Revue de l’instruction publique.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -68,7 +68,7 @@
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="#"/>
+        <language ident="fr">French</language>
       </langUsage>
       <textClass/>
     </profileDesc>
@@ -80,7 +80,12 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="63"/>
-        <ab type="imprint">1856. Taine, Hippolyte. Jeffrey Chaucer [article in the] Revue de l’instruction publique, 13 March, 1856, pp. 686-690.</ab>
+        
+        <ab type="imprint">1856. Taine, Hippolyte. <hi rend="italic">Jeffrey Chaucer</hi> [article in the] <hi rend="italic">Revue de l’instruction publique</hi>, 13 March, 1856, pp. 686-690.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorial">[A long article on Chaucer, with a notice of his life and of the <hi rend="italic">Canterbury Tales</hi>, <hi rend="italic">Troylus</hi>, and the <hi rend="italic">Flower and the Leaf</hi>, vith lengthy French quotations from these poems. Recast in l’<hi rend="italic">Histoire de la littérature anglaise</hi>, tome i, 1863, q. v.]</seg>
+        </ab>
       </div>
     </body>
   </text>

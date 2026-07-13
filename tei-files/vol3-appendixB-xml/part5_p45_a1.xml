@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1830, Abel-François Villemain. Cours de littérature française. Littérature du moyen âge, en France, en Italie, en Espagne et en Angleterre,</title>
+        <title>1830, Abel-François Villemain. Cours de littérature française. Littérature du moyen âge, en France, en Italie, en Espagne et en Angleterre.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/49232712">Abel-François Villemain</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/49232712">Villemain, Abel-François</author>
             <date cert="high" when="1830">1830</date>
-            <title level="a">Cours de littérature française. Littérature du moyen âge, en France, en Italie, en Espagne et en Angleterre,</title>
+            <title level="a">Cours de littérature française. Littérature du moyen âge, en France, en Italie, en Espagne et en Angleterre.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,7 +71,7 @@
         <language ident="fr">French</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#works" target="#criticism"/>
         <catRef scheme="#biography" target="#diplomatic"/>
       </textClass>
@@ -84,109 +84,129 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="45"/>
-        <ab type="imprint">1830. Villemain, Abel François. Cours de littérature française. Littérature du moyen âge, en France, en Italie, en Espagne et en Angleterre, Paris, 1830, tome ii, pp. 206-212, 214-217, 227.</ab>
+        
+        <ab type="imprint">1830. Villemain, Abel François. <hi rend="italic">Cours de littérature française. Littérature du moyen âge, en France, en Italie, en Espagne et en Angleterre</hi>, Paris, 1830, tome ii, pp. 206-212, 214-217, 227.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 206] Ce n’est qu’au milieu du XIVe siècle qu’enfin l’Angleterre
-possède un écrivain, un poète, un homme en qui on ne peut
-méconnaître beaucoup d’esprit, l’art de conter, et ce mélange
-d’érudition et de naïveté qui rend si piquans plusieurs écri¬
-vains du moyen-âge. Je parle de Chaucer. C’est de lui que
-la plupart des critiques anglais datent le premier âge de leur
-poésie littéraire. Bien plus récent que les Troubadours
-venu après le Dante, Pétrarque et Boccace, Chaucer, qui fut
-leur élève, ne saurait leur être comparé. Il a cependant son
-mérite et son tour original. Mais il est fort difficile à traduire,
-ou pour la langue ou pour la bienséance. Il a de plus
-[p. 207] beaucoup écrit; et j’avoue qu’embarrassé souvent par son
-vieux style, ses idiotismes, ses allusions, je ne l’ai pas lu tout
-entier. [A short notice follows of the life of Chaucer and
-of his assumed meeting with Petrarch.]
-. . . . . . . . . .
-Ainsi c’est un homme du Nord qui vient puiser à la belle
-civilisation du Midi. Ce n’est plus l’esprit natif de la vieille
-[p. 208] Angleterre, plus ou moins mélangé d’esprit normand; c’est
-un lettré anglais qui connaît bien les deux Italies, et a devant
-lui plusieurs modèles. Chaucer savait à fond la langue latine,
-et l’écrivait avec goût; il traduisit la Consolation de Boèce.
-. . . Malgré cette étude et ce goût d’imitation classique,
-[p. 209] il n’est pas de meilleur peintre que lui du moyen âge; pas
-d’écrivain où les mœurs, l’esprit, le langage de ce temps
-soient mieux conservés. Voilà son originalité. C’est un
-Trouvère anglais, c’est un conteur de la cité de Londres.
-Il imite nos fabliaux et les chants amoureux des Troubadours.
-Mais il a son caractère propre de liberté politique et religieuse;
-et son imagination savante est nourrie de fables orientales,
-comme de réminiscences latines.
-. . . . . . . . . .
-C’est Chaucer qui marque le premier développement de
-la poésie anglaise. Le français n’est plus pour lui la langue
-de la conquête, mais une langue littéraire. C’est ainsi qu’il
-a traduit en vers le Roman de la Rose, comme il aurait imité
-un ouvrage classique des anciens. Dans cette version, il
-lutte habilement contre le style de ses deux modèles, et
-semble parfois l’emporter, soit que son anglais paraisse moins
-vieilli que le français de Jean de Meung, soit qu’il ait ajouté
-quelques traits de hardiesse. Car, il faut le dire, á ses titres
-d’homme de cour, de savant, d’ami de Pétrarque, d’imitateur
-de Boccace, il joignait celui d’hérétique. Il fut un des
-premiers disciples de Wiclef. . . .
-[p. 210]. . . Chaucer se fit le poète de cette réforme; c’est-à-dire
-toutes les pensées hardies qui étaient enveloppées dans la
-théologie de Wiclef, toutes les inductions . . . que les
-esprits libres pouvaient tirer de la lecture immédiate de la
-Bible, Chaucer les exprimait vivement, et les animait par des
-satires contre la cour de Rome et les abus de la vie monacale.
-[p. 211] La chevalerie même n’est pas épargnée par le bon sens
-épigrammatique de Chaucer. . . .
-. . . . . . . . . .
-Son sir Thopas est le précurseur de Don Quichotte. Cette
-parodie fait partie des Contes de Cantorbéry, recueil d’histori¬
-ettes, dans le goût du Décaméron, mais écrites en vers, avec
-moins de charme et de poésie que n’en offre la prose de
-Boccace.
-Le cadre de ce recueil est du reste ingénieux. Chaucer . . .
-rassemble à Southwark dans une auberge, divers pèlerins,
-venus pour honorer la châsse de Thomas Becket. Dans
-l’inaction de la soirée, ces pèlerins se content des histoires
-touchantes, ou gaies. Leur réunion seule est assez drama¬
-tique. Elle offre tous les états, tous les personnages du
-moyen âge, un chevalier, un écuyer. . . etc. . . .
-. . . . . . . . .
-[p. 212] Thopas. Il accumule les enchantemens et les prodiges.
-Chaucer, parlant à son tour, commence l’histoire de sir
-Mais au milieu du récit, lorsqu’il avait déjà tiré grand
-nombre de géans, un des auditeurs l’arrête et lui dit: 'Plus
-de ces contes pour l’amour de Dieu; vous ne faites que
-perdre le temps; ne rimez pas d’avantage. Dites-nous en
-prose seulement quelque chose, où il y ait un peu de gaîté
-et d’instruction.' Chaucer laisse là son histoire, et com¬
-mence une allégorie morale de Mélibée, qui a pour épouse la
-Prudence, et pour fille la Sagesse.
-Toute cette histoire est assez commune; mais elle renferme
-de sages conseils et une excellente morale pour un faiseur de
-contes, parfois licencieux, comme Chaucer. C’est un des
-premiers essais de la prose anglaise. Malheureusement
-Chaucer est peu piquant, lorsqu’il est moral.
-[p. 214] Chaucer est rempli d’allusions plaisantes à ce sujet [French
-. . . . . . . . . .
-as then spoken in England]. Parle-t-il d’une abbesse dans
-le prologue de ses Contes de Cantorbéry, il la représente
-ainsi.
-[Description of the Prioress.]
-[p. 215] Le style de Chaucer est en partie formé sur le modèle du
-. . . . . . . . . .
-Roman de la Rose et de nos meilleurs fabliaux. Non seule¬
-ment, il imite avec art plusieurs tournures de notre langue.
-Souvent, par une bigarrure moins heureuse, il introduit dans
-son style anglais des mots, des phrases toutes françaises;
-par exemple, ce refrain, qui coupe une de ses ballades
-anglaises 'J’ai tout perdu, mon temps et mon labeur.'
-Ailleurs il conserve en français les noms de nos person¬
-nages allégoriques: Faux-Semblant, Bel-Accueil, etc.
-. . . . . . . . . .
-[p. 227] Ce qu’il y a de sûr, c’est que la vraie poésie anglaise du
-xive et du xve siècle n’a produit, à l’exception de Chaucer,
-rien de puissant et d’original.</seg>
+          <seg><note place="margin">[p. 206]</note>Ce n’est qu’au milieu du XIVe siècle qu’enfin l’Angleterre
+            possède un écrivain, un poète, un homme en qui on ne peut
+            méconnaître beaucoup d’esprit, l’art de conter, et ce mélange
+            d’érudition et de naïveté qui rend si piquans plusieurs
+            écrivains du moyen-âge. Je parle de Chaucer. C’est de lui que
+            la plupart des critiques anglais datent le premier âge de leur
+            poésie littéraire. Bien plus récent que les Troubadours
+            venu après le Dante, Pétrarque et Boccace, Chaucer, qui fut
+            leur élève, ne saurait leur être comparé. Il a cependant son
+            mérite et son tour original. Mais il est fort difficile à traduire,
+            ou pour la langue ou pour la bienséance. Il a de plus
+            <note place="margin">[p. 207]</note>beaucoup écrit; et j’avoue qu’embarrassé souvent par son
+            vieux style, ses idiotismes, ses allusions, je ne l’ai pas lu tout
+            entier. <add>[A short notice follows of the life of Chaucer and
+            of his assumed meeting with Petrarch.]</add></seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg>Ainsi c’est un homme du Nord qui vient puiser à la belle
+            civilisation du Midi. Ce n’est plus l’esprit natif de la vieille
+            <note place="margin">[p. 208]</note>Angleterre, plus ou moins mélangé d’esprit normand; c’est
+            un lettré anglais qui connaît bien les deux Italies, et a devant
+            lui plusieurs modèles. Chaucer savait à fond la langue latine,
+            et l’écrivait avec goût; il traduisit la Consolation de Boèce.
+            . . . Malgré cette étude et ce goût d’imitation classique,
+            <note place="margin">[p. 209]</note>il n’est pas de meilleur peintre que lui du moyen âge; pas
+            d’écrivain où les mœurs, l’esprit, le langage de ce temps
+            
+            <milestone unit="page" n="46"/>
+            
+            soient mieux conservés. Voilà son originalité. C’est un
+            Trouvère anglais, c’est un conteur de la cité de Londres.
+            Il imite nos fabliaux et les chants amoureux des Troubadours.
+            Mais il a son caractère propre de liberté politique et religieuse;
+            et son imagination savante est nourrie de fables orientales,
+            comme de réminiscences latines.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg>C’est Chaucer qui marque le premier développement de
+            la poésie anglaise. Le français n’est plus pour lui la langue
+            de la conquête, mais une langue littéraire. C’est ainsi qu’il
+            a traduit en vers le Roman de la Rose, comme il aurait imité
+            un ouvrage classique des anciens. Dans cette version, il
+            lutte habilement contre le style de ses deux modèles, et
+            semble parfois l’emporter, soit que son anglais paraisse moins
+            vieilli que le français de Jean de Meung, soit qu’il ait ajouté
+            quelques traits de hardiesse. Car, il faut le dire, á ses titres
+            d’homme de cour, de savant, d’ami de Pétrarque, d’imitateur
+            de Boccace, il joignait celui d’hérétique. Il fut un des
+            premiers disciples de Wiclef. . . .</seg>
+            
+          <seg><note place="margin">[p. 210]</note>. . . Chaucer se fit le poète de cette réforme; c’est-à-dire
+            toutes les pensées hardies qui étaient enveloppées dans la
+            théologie de Wiclef, toutes les inductions . . . que les
+            esprits libres pouvaient tirer de la lecture immédiate de la
+            Bible, Chaucer les exprimait vivement, et les animait par des
+            satires contre la cour de Rome et les abus de la vie monacale.</seg>
+            
+          <seg><note place="margin">[p. 211]</note>La chevalerie même n’est pas épargnée par le bon sens
+            épigrammatique de Chaucer. . . .
+            <lb/>. . . . . . . . . .
+            Son <hi rend="italic">sir Thopas</hi> est le précurseur de Don Quichotte. Cette
+            parodie fait partie des <hi rend="italic">Contes de Cantorbéry</hi>, recueil d’historiettes,
+            dans le goût du Décaméron, mais écrites en vers, avec
+            moins de charme et de poésie que n’en offre la prose de
+            Boccace.</seg>
+            
+          <seg>Le cadre de ce recueil est du reste ingénieux. Chaucer . . .
+            rassemble à Southwark dans une auberge, divers pèlerins,
+            venus pour honorer la châsse de Thomas Becket. Dans
+            l’inaction de la soirée, ces pèlerins se content des histoires
+            touchantes, ou gaies. Leur réunion seule est assez dramatique.
+            Elle offre tous les états, tous les personnages du
+            moyen âge, un chevalier, un écuyer. . . etc. . . .
+            <lb/>. . . . . . . . .</seg>
+            
+            <milestone unit="page" n="47"/>
+            
+          <seg>Chaucer, parlant à son tour, commence l’histoire de
+            <note place="margin">[p. 212]</note><hi rend="italic">sir Thopas</hi>. Il accumule les enchantemens et les prodiges.
+            Mais au milieu du récit, lorsqu’il avait déjà tiré grand
+            nombre de géans, un des auditeurs l’arrête et lui dit: 'Plus
+            de ces contes pour l’amour de Dieu; vous ne faites que
+            perdre le temps; ne rimez pas d’avantage. Dites-nous en
+            prose seulement quelque chose, où il y ait un peu de gaîté
+            et d’instruction.' Chaucer laisse là son histoire, et
+            commence une allégorie morale de Mélibée, qui a pour épouse la
+            Prudence, et pour fille la Sagesse.</seg>
+            
+          <seg>Toute cette histoire est assez commune; mais elle renferme
+            de sages conseils et une excellente morale pour un faiseur de
+            contes, parfois licencieux, comme Chaucer. C’est un des
+            premiers essais de la prose anglaise. Malheureusement
+            Chaucer est peu piquant, lorsqu’il est moral.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 214]</note>Chaucer est rempli d’allusions plaisantes à ce sujet <add>[French
+            as then spoken in England]</add>. Parle-t-il d’une abbesse dans
+            le prologue de ses <hi rend="italic">Contes</hi> de Cantorbéry, il la représente
+            ainsi. <add>[Description of the Prioress.]</add></seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 215]</note>Le style de Chaucer est en partie formé sur le modèle du
+            <hi rend="italic">Roman de la Rose</hi> et de nos meilleurs fabliaux. Non seulement,
+            il imite avec art plusieurs tournures de notre langue.
+            Souvent, par une bigarrure moins heureuse, il introduit dans
+            son style anglais des mots, des phrases toutes françaises;
+            par exemple, ce refrain, qui coupe une de ses ballades
+            anglaises 'J’ai tout perdu, mon temps et mon labeur.'
+            <lb/>Ailleurs il conserve en français les noms de nos personnages
+            allégoriques: Faux-Semblant, Bel-Accueil, etc.</seg>
+           
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 227]</note>Ce qu’il y a de sûr, c’est que la vraie poésie anglaise du
+            xive et du xve siècle n’a produit, à l’exception de Chaucer, rien de puissant et d’original.</seg>
         </ab>
       </div>
     </body>

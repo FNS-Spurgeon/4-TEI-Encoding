@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1855, Edmé-Jacques-Benoît Rathery. Des Relations sociales et intellectuelles, entre la France a l’Angleterre, [in the] Revue Contemporaine,</title>
+        <title>1855, Edmé-Jacques-Benoît Rathery. Des Relations sociales et intellectuelles, entre la France a l’Angleterre, [in the] Revue Contemporaine.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/7495500">Edmé-Jacques-Benoît Rathery</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/7495500">Rathery, Edmé-Jacques-Benoît</author>
             <date cert="high" when="1855">1855</date>
-            <title level="a">Des Relations sociales et intellectuelles, entre la France a l’Angleterre, [in the] Revue Contemporaine,</title>
+            <title level="a">Des Relations sociales et intellectuelles, entre la France a l’Angleterre, [in the] Revue Contemporaine.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -68,7 +68,7 @@
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="#"/>
+        <language ident="fr">French</language>
       </langUsage>
       <textClass/>
     </profileDesc>
@@ -80,7 +80,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="62"/>
-        <ab type="imprint">1855. Rathery, E. J. B. Des Relations sociales et intellectuelles, entre la France a l’Angleterre, [in the] Revue Contemporaine, July 1855, pp. 410, 411 [the language of Chaucer and his debt to France]; August 1855, pp. 41, 42.</ab>
+        
+        <ab type="imprint">1855. Rathery, E. J. B. <hi rend="italic">Des Relations sociales et intellectuelles, entre la France a l’Angleterre</hi>, [in the] <hi rend="italic">Revue Contemporaine</hi>, July 1855, pp. 410, 411 [the language of Chaucer and his debt to France]; August 1855, pp. 41, 42.</ab>
       </div>
     </body>
   </text>

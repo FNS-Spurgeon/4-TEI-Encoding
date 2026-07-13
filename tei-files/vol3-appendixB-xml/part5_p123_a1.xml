@@ -32,8 +32,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100178580">Jean Froissart</author>
-            <date cert="low" when="[1385?]">[1385?]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100178580">Froissart, Jean</author>
+            <date cert="low" when="1385">[1385?]</date>
             <title level="a">Le Paradys d’Amour.</title>
           </analytic>
           <monogr>
@@ -82,25 +82,36 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="123"/>
-        <ab type="imprint">[1385?] Froissart, Jean. Le Paradys d’Amour. (Oeuvres.—Poésies publiées par M. Aug. Scheler, 1870-72, 3 vols., vol. i, pp. 1, 2.)</ab>
+        
+        <ab type="imprint">[1385?] Froissart, Jean. <hi rend="italic">Le Paradys d’Amour</hi>. (Oeuvres.—Poésies publiées par M. Aug. Scheler, 1870-72, 3 vols., vol. i, pp. 1, 2.)</ab>
+        
         <ab type="quotation">
-          <seg>Je sui de moi en grant merveille
-Comment je vifs quant tant je veille,
-Et on ne porvit en veillant
-Trouver de moi plus traveillant,
-Car bien saciés que par veillier
-Me viennent souvent travillier
-Pensées et merancolies
-. . . . . .
-Et nonpourquant n’a pas lonc terme
-Que de dormir oc voloir ferme,
-Car tant priai a Morpheüs
-A Juno et a Oleüs
-. . . . . .
-Et le doulc dieu fist son commant,
-Car il envoia parmi l’air
-L'un de ses fils Enclimpostair . . .</seg>
-          <note type="footnote">Spurgeon's note: [The whole of this, the opening passage of the poem, closely resembles that of The Boke of the Duchesse, and 'Enclimpostair' is Chaucer's 'Eclympasteyre.' Baron Kervyn de Lettenhove (Froissart, 1857, 2 vols., vol. ii, p. 264, q. v. below) dates the Paradys d’Amour in 1385; The Boke of the Duchesse cannot be much later than 1369.]</note>
+          <seg>
+            <lg>
+              <l>Je sui de moi en grant merveille</l>
+              <l>Comment je vifs quant tant je veille,</l>
+              <l>Et on ne porvit en veillant</l>
+              <l>Trouver de moi plus traveillant,</l>
+              <l>Car bien saciés que par veillier</l>
+              <l>Me viennent souvent travillier</l>
+              <l>Pensées et merancolies</l>
+            </lg>
+            <lb/>. . . . . .
+            <lg>
+              <l>Et nonpourquant n’a pas lonc terme</l>
+              <l>Que de dormir oc voloir ferme,</l>
+              <l>Car tant priai a Morpheüs</l>
+              <l>A Juno et a Oleüs</l>
+            </lg>
+            <lb/>. . . . . .
+            <lg>
+              <l>Et le doulc dieu fist son commant,</l>
+              <l>Car il envoia parmi l’air</l>
+              <l>L'un de ses fils Enclimpostair . . .</l>
+            </lg>
+          </seg>
+          
+          <seg type="editorial">[The whole of this, the opening passage of the poem, closely resembles that of The Boke of the Duchesse, and 'Enclimpostair' is Chaucer's 'Eclympasteyre.' Baron Kervyn de Lettenhove (Froissart, 1857, 2 vols., vol. ii, p. 264, q. v. below) dates the Paradys d’Amour in 1385; The Boke of the Duchesse cannot be much later than 1369.]</seg>
         </ab>
       </div>
     </body>

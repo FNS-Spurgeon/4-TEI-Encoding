@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1896, Jean Jules Jusserand. Histoire abrégée de la littérature anglaise,</title>
+        <title>1896, Jean Jules Jusserand. Histoire abrégée de la littérature anglaise.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jean Jules Jusserand</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jusserand, Jean Jules</author>
             <date cert="high" when="1896">1896</date>
-            <title level="a">Histoire abrégée de la littérature anglaise,</title>
+            <title level="a">Histoire abrégée de la littérature anglaise.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,7 +71,7 @@
         <language ident="fr">French</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -82,64 +82,77 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="104"/>
-        <ab type="imprint">1896. Jusserand, J. J. Histoire abrégée de la littérature anglaise, Paris, 1896, pp. 44, 46-55 [on CHAUCER], 56, 57, 59, 62, 63, 65, 66, 67, 68, 71, 87, 97, 102, 104, 105, 106, 108, 112, 126, 148, 157, 195, 223, 262.</ab>
+        
+        <ab type="imprint">1896. Jusserand, J. J. <hi rend="italic">Histoire abrégée de la littérature anglaise</hi>, Paris, 1896, pp. 44, 46-55 [on CHAUCER], 56, 57, 59, 62, 63, 65, 66, 67, 68, 71, 87, 97, 102, 104, 105, 106, 108, 112, 126, 148, 157, 195, 223, 262.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 49] En outre, la personnalité propre de Chaucer commence à
-paraître dans ces œuvres ['Lyf of Saint Cecile' 1373 : 'Com¬
-plainte of Mars' 1380, prose translation of the 'De Consola¬
-tione' of Boethius, 'Parliament of Foules,' 'Troilus,' 1382,
-'Hous of Fame' 1383-4, 'The Legend of Good Women,']
-sa bienveillance, son humour, sa sympathie indulgente pour
-[p. 50] tout ce qui est humain, ses dons d’observation, l’art du
-dialogue familier, la vivacité de repartie, le soin de la forme :
-qualités que nous avions discernées à l’état embryonnaire
-dans la race celtique et qui ont passé maintenant, grâce à la
-fusion intervenue, dans la race anglaise.
-Ces dons brillent surtout dans 'Troïlus et Cressida'
-admirable poème, roman et drame à la fois, plein de tendresse
-et en même temps d’ironie douce, où quelque reste des
-mélancolies saxonnes s’allie à la gaieté française, où Boccace
-(Filostrato) est imité et surpassé. . . .
-. . . . . . . . . .
-[p. 53] [Dans les contes de Canterbury] c’est toute l’Angleterre
-qui nous est montrée, jeune, printanière, épanouie. Les
-génies des deux races d’autrefois se sont fondus ; le génie
-celtique et latin domine toutefois dans Chaucer. Nous le
-trouvons optimiste et indulgent, n’inclinant nullement vers
-le fatalisme et le désespoir. Il voit les vices d’un regard
-clair et ne se fait pas d’illusion ; il tâche de les guérir ; s’il
-ne peut, il s’en console, et s’il ne peut s’en consoler, il s’en
-venge du moins par une épigramme. Ses épigrammes, il est
-vrai, font plus que piquer, elles pénètrent : ce ne sont pas
-de simples amusements ; à son esprit pétillant, à la française,
-se mêle une forte dose d’humour anglais.
-Il s’intéresse aux humbles et les aime ; si ce sont des
-coquins, le pittoresque de leurs mœurs impures l’amuse ; s’ils
-[p. 54] sont vertueux, ils lui inspirent une admiration attendrie
-(portrait du bon curé). Les 'gens de rien' occupent déjà
-dans son œuvre la place qu’ils devaient tenir dans tout la
-littérature anglaise et dans l’histoire politique du pays. Il
-voit d’une vue claire, il sent d’un cœur sensible. Il traduit
-sa vision et son impression par le mot qui fait voir ou le
-mot qui touche, avec une justesse inconnue jusque là dans
-son pays. Il a un sens de la forme et de la mesure rare
-avant la Renaissance ; il blâme les longueurs sans toujours
-les éviter ; mais c’est déjà beaucoup de savoir que les
-longueurs sont un défaut, et le mérite n’était pas banal
-de son temps. Il versifie avec soin ; la place des mots ne
-lui est pas indifférente, leurs sonorités le préoccupent. Il
-a sur tous ces points des idées arrêtées, il n’écrit pas au
-hasard ; il veut, il choisit ; bref, et pour la première fois
-dans l’histoire des lettres anglaises, nous nous trouvons en
-présence d’un artiste.
-Avec cela, des moyens simples : nulle prétention ; il veut
-et choisit, et cependant garde un air de facilité : son vocabu¬
-laire est le vocabulaire de tout le monde, sa prosodie de
-même ; ce sont cette prosodie et ce vocabulaire, ces vers
-rimés où les accents marquent la cadence, cette langue où
-surabondent les mots français, dont nous avons exposé plus
-haut la formation. Il les prit tels qu’il les trouva, et il les
-consacra par l’usage qu’il en fit. . . .</seg>
+          <seg><note place="margin">[p. 49]</note> En outre, la personnalité propre de Chaucer commence à
+            paraître dans ces œuvres <add>['Lyf of Saint Cecile' 1373 :
+            'Complainte of Mars' 1380, prose translation of the 'De Consolatione'
+            of Boethius, 'Parliament of Foules,' 'Troilus,' 1382,
+            'Hous of Fame' 1383-4, 'The Legend of Good Women,']</add>
+            sa bienveillance, son humour, sa sympathie indulgente pour
+            <note place="margin">[p. 50]</note> tout ce qui est humain, ses dons d’observation, l’art du
+            dialogue familier, la vivacité de repartie, le soin de la forme :
+            qualités que nous avions discernées à l’état embryonnaire
+            dans la race celtique et qui ont passé maintenant, grâce à la
+            fusion intervenue, dans la race anglaise.</seg>
+            
+          <seg>Ces dons brillent surtout dans 'Troïlus et Cressida'
+            
+            <milestone unit="page" n="105"/>
+            
+            admirable poème, roman et drame à la fois, plein de tendresse
+            et en même temps d’ironie douce, où quelque reste des
+            mélancolies saxonnes s’allie à la gaieté française, où Boccace
+            (<hi rend="italic">Filostrato</hi>) est imité et surpassé. . . .</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 53]</note> <add>[Dans les contes de Canterbury]</add> c’est toute l’Angleterre
+            qui nous est montrée, jeune, printanière, épanouie. Les
+            génies des deux races d’autrefois se sont fondus ; le génie
+            celtique et latin domine toutefois dans Chaucer. Nous le
+            trouvons optimiste et indulgent, n’inclinant nullement vers
+            le fatalisme et le désespoir. Il voit les vices d’un regard
+            clair et ne se fait pas d’illusion ; il tâche de les guérir ; s’il
+            ne peut, il s’en console, et s’il ne peut s’en consoler, il s’en
+            venge du moins par une épigramme. Ses épigrammes, il est
+            vrai, font plus que piquer, elles pénètrent : ce ne sont pas
+            de simples amusements ; à son esprit pétillant, à la française,
+            se mêle une forte dose d’humour anglais.</seg>
+            
+          <seg>Il s’intéresse aux humbles et les aime ; si ce sont des
+            coquins, le pittoresque de leurs mœurs impures l’amuse ; s’ils
+            <note place="margin">[p. 54]</note> sont vertueux, ils lui inspirent une admiration attendrie
+            (portrait du bon curé). Les 'gens de rien' occupent déjà
+            dans son œuvre la place qu’ils devaient tenir dans tout la
+            littérature anglaise et dans l’histoire politique du pays. Il
+            voit d’une vue claire, il sent d’un cœur sensible. Il traduit
+            sa vision et son impression par le mot qui fait voir ou le
+            mot qui touche, avec une justesse inconnue jusque là dans
+            son pays. Il a un sens de la forme et de la mesure rare
+            avant la Renaissance ; il blâme les longueurs sans toujours
+            les éviter ; mais c’est déjà beaucoup de savoir que les
+            longueurs sont un défaut, et le mérite n’était pas banal
+            de son temps. Il versifie avec soin ; la place des mots ne
+            lui est pas indifférente, leurs sonorités le préoccupent. Il
+            a sur tous ces points des idées arrêtées, il n’écrit pas au
+            hasard ; il veut, il choisit ; bref, et pour la première fois
+            dans l’histoire des lettres anglaises, nous nous trouvons en
+            présence d’un artiste.</seg>
+            
+          <seg>Avec cela, des moyens simples : nulle prétention ; il veut
+            et choisit, et cependant garde un air de facilité : son
+            vocabulaire est le vocabulaire de tout le monde, sa prosodie de
+            même ; ce sont cette prosodie et ce vocabulaire, ces vers
+            rimés où les accents marquent la cadence, cette langue où
+            surabondent les mots français, dont nous avons exposé plus
+            
+            <milestone unit="page" n="106"/>
+            
+            haut la formation. Il les prit tels qu’il les trouva, et il les
+            consacra par l’usage qu’il en fit. . . .</seg>
         </ab>
       </div>
     </body>

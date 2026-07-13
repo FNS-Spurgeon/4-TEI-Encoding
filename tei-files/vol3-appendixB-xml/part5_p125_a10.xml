@@ -32,8 +32,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
-            <date cert="high" when="1906-7">1906-7</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
+            <date cert="high" from="1906" to="1907">1906-7</date>
             <title level="a">Les Contes de Canterbury. Traduction.</title>
           </analytic>
           <monogr>
@@ -68,7 +68,7 @@
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language ident="#"/>
+        <language ident="fr">French</language>
       </langUsage>
       <textClass/>
     </profileDesc>
@@ -80,7 +80,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="125"/>
-        <ab type="imprint">1906-7 Chaucer, Geoffrey. Les Contes de Canterbury. Traduction. </ab>
+        
+        <ab type="imprint">1906-7. <hi rend="italic">Les Contes de Canterbury. Traduction.</hi> See above, 1908.</ab>
       </div>
     </body>
   </text>

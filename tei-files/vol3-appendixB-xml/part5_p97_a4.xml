@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jean Jules Jusserand</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jusserand, Jean Jules</author>
             <date cert="high" when="1894">1894</date>
             <title level="a">Histoire littéraire du peuple anglais.</title>
           </analytic>
@@ -71,7 +71,7 @@
         <language ident="fr">French</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#works" target="#prologue"/>
       </textClass>
     </profileDesc>
@@ -83,130 +83,156 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="97"/>
-        <ab type="imprint">1894. Jusserand, J. J. Histoire littéraire du peuple anglais. Paris, 1894, tom. 1, pp. 124, 165-6, 220, 226, 232, 240, 245, 246 [chap¬ ter ii, CHAUCER], pp. 269-349, pp. 351, 354, 355, 360, 362, 363, 367, 371, 373, 374, 379, 380, 382, 383, 384, 385, 390, 393, 399, 400, 401, 403, 404, 411, 412, 413, 414, 423, 424, 435, 464, 478, 487, 488, 496, 513, 514, 515, 516, 517, 518, 519, 521, 522, 523, 524, 525, 528, 529, 530, 542.</ab>
+        
+        <ab type="imprint">1894. Jusserand, J. J. <hi rend="italic">Histoire littéraire du peuple anglais</hi>. Paris, 1894, tom. 1, pp. 124, 165-6, 220, 226, 232, 240, 245, 246 [chap¬ ter ii, CHAUCER], pp. 269-349, pp. 351, 354, 355, 360, 362, 363, 367, 371, 373, 374, 379, 380, 382, 383, 384, 385, 390, 393, 399, 400, 401, 403, 404, 411, 412, 413, 414, 423, 424, 435, 464, 478, 487, 488, 496, 513, 514, 515, 516, 517, 518, 519, 521, 522, 523, 524, 525, 528, 529, 530, 542.</ab>
+        
         <ab type="quotation">
-          <seg>[pp. 269-349, a lengthy sketch of Chaucer's life and
-works, more especially of the House of Fame, Troilus and
-the Canterbury Tales.]
-[p. 319] [Prologue to the Tales.] Voici à présent, dans un livre
-anglais, une foule d’êtres vivants, pris sur le fait, aux
-mouvements souples, aux types variés comme dans la vie,
-[p. 320] représentés au naturel, dans leurs sentiments et dans leur
-costume, si bien qu’on croit les voir et que, lorsqu’on les
-quitte, ce n’est pas pour les oublier ; les connaissances faites
-'au Tabart près de la Cloche' ne sont pas de celles qui
-s’effacent du souvenir ; elles durent toute la vie.
-Rien de ce qui peut servir à accrocher, à ancrer dans
-notre mémoire, la vision de ces personnages n’est omis. Un
-demi-vers, qui dévoile le trait saillant de leur caractère,
-devient inoubliable ; leur posture, leurs gestes, leur costume,
-leurs verrues, le son de leur voix, leurs défauts de pro¬
-nonciation : 'somwhat he lipsede for wantonnesse,' leurs
-tics, la figure rouge de l’hôte et jaune du bailli, leurs
-élégances, leurs flèches à plumes de paon, leurs cornemuses,
-rien n’est omis ; leurs chevaux et la manière dont ils les
-montent sont décrits ; Chaucer regarde même dans les sacs
-de ses personnages et dit ce qu’il y trouve.
-La nouvelle Angleterre a donc son Froissart, qui va conter
-des apertises d’armes et des histoires d’amour aux couleurs
-éclatantes, et nous promener de çà de là, par les villes et par
-les chemins, prêtant l’oreille à tout récit, observant, notant,
-racontant ? Ce jeune pays a Froissart et mieux que Frois¬
-sart. Les peintures sont aussi vives et aussi claires, mais
-deux grandes différences distinguent les unes des autres :
-l'humour et la sympathie. Déjà, chez Chaucer, l’humour
-existe ; ses malices pénètrent plus profondément que les
-malices françaises : il ne va pas jusqu’aux blessures, mais il
-fait plus que piquer l’épiderme ; et, ce faisant, il rit d’un rire
-silencieux : 'Un homme jadis était fort riche, c’est pourquoi
-tout le monde vantait sa sagesse.' . . .
-[p. 321] De plus, Chaucer sympathise ; il a un cœur vibrant que
-les larmes émeuvent et que toutes les souffrances touchent,
-celles des pauvres et celles des princes. Le rôle du peuple,
-si marqué dans la littérature et la politique anglaises,
-s’affirme ici, dès la première heure . . . Chaucer, dès le
-quatorzième siècle, est curieux de voir ce que c’est que
-l’homme dans un 'cuisinier de Londres' et que la femme
-dans une 'bourgeoise de Bath.' Combien de misérables
-périssent dans Froissart ! Que de sang, quelles hécatombes !
-et combien peu de larmes ! . . .
-[p 322] Ils [the lesser people] figurent dans le récit de Chaucer
-parce que Chaucer les aime ; il aime son laboureur .., il
-souffre à l’idée des sentiers boueux que son pauvre curé suit
-l’hiver pour aller, par la pluie, visiter une chaumière loin¬
-taine ; la sympathie est large chez le poète ; il aime, comme
-il déteste, de tout cœur. . . .
- . . . . . . . . . .
-[p. 340] Ce bon sens, qui a fait donner aux contes de Cantorbéry
-un agencement si conforme à la raison et à la nature, est une
-des qualités les plus éminentes de Chaucer. Elle paraît dans
-les détails comme dans l’ensemble et lui inspire, au milieu de
-ses récits les plus fantaisistes, des remarques rassurantes qui
-nous montrent que la terre et la vie réelle ne sont pas loin et
-que nous ne courons pas le risque de tomber des nues. Il
-rappelle, avec à-propos, qu’il y a une certaine noblesse, la
-plus haute de toutes, qu’on ne saurait léguer par testament ;
-que les échantillons corrompus d’une classe sociale ne doivent
-pas faire condamner toute la classe : 'Of every ordre some
-schrew is, pardee' ; que, dans l’éducation des enfants, il faut
-se garder de les traiter trop tôt en hommes ; si on les mène
-avant l’âge aux fêtes, ils deviennent effrontés, 'to soone
-[p. 341] rype and bold . . . which is ful perilous' (Tale of the
-Doctor of Phisik, vers. 68). Il s’exprime fort librement sur
-les grands capitaines qu’on eût qualifiés de 'brigands' s’ils
-avaient fait moins de mal. Cette dernière idée est indiquée
-en quelques vers d’un humour si vraiment anglais qu’ils font
-songer à Swift et à Fielding ; et l’on peut d’autant mieux en
-effet songer à Fielding qu’il a consacré tout son roman de
-Jonathan Wild-le-Grand à développer exactement la même
-thèse.1
-Enfin, à ce même bon sens de Chaucer, on doit une chose
-plus remarquable encore : c’est que, avec sa connaissance du
-latin et du français, vivant dans un milieu où ces deux
-langues avaient une grande faveur, il écrivit uniquement en
-anglais : sa prose, comme ses vers, son traité sur l’Astrolabe,
-comme ses contes, sont en anglais. Il appartient à la nation
-1 But, for the tiraunt is of greter might
-By force of meyné for to sle doun right,
-And brenne hous and home, and make al playn,
-Lo, therfor is he cleped a capitayn ;
-And, for an outlawe hath no smal meyné
-And may not doon so grete an harm as he,
-Ne bringe a contre to so gret mischief,
-Men clepen him an outlawe or a theef.
-Maunciple's Tale, vers. 123, t. iii, p. 256. Cf. le roman de Fielding, The Life
-of Mr. Jonathan Wild the Great, 1748.
-anglaise et c’est pourquoi il écrit dans cette langue ; c’est
-assez pour lui d’une telle raison. . . .
-[p. 342] La même sagesse fait encore que Chaucer ne se perd pas
-en vains efforts pour tenter d’impossibles réformes et pour
-marcher à contre courant. On le lui a reproché de notre
-temps ; et certains, par amour des Anglo-Saxons, se sont
-indignés de la quantité de mots français que Chaucer
-emploie : que n’est-il remonté aux origines du langage ?
-Mais Chaucer n’était pas de ceux qui, comme dit Milton,
-ferment les grilles de leur parc pour empêcher les corneilles
-de s’en aller. Il s’est servi du langage national, tel qu’il
-existait de son temps.
-. . . . . . . . . .
-[p. 345] Le même bon sens optimiste et tranquille qui lui a fait
-adopter la langue de son pays et la versification usuelle, qui
-l’a empêché de réagir avec excès contre les idées reçues, l’a
-empêché aussi de se faire, par patriotisme, piété ou orgueil,
-des illusions sur sa patrie, sa religion ou son temps. Il en
-fut cependant autant que personne, les aima et les honora
-mieux que pas un. L’impartialité de jugement de cet ancien
-prisonnier des Français est extraordinaire, supérieure même
-à celle de Froissart. . . .
-Chaucer, d’un bout à l’autre de sa carrière, demeure le
-même, et le fait est d’autant plus remarquable que sa tournure
-d’esprit, son inspiration et son idéal littéraire deviennent de
-plus en plus anglais, à mesure qu’il prend des années. Il
-reste impartial, ou plutôt, en dehors de la grande querelle,
-à laquelle cependant il avait pris part dans la réalité ; ses
-œuvres ne contiennent pas un vers qui soit dirigé contre la
-France, ni même un seul éloge de son pays où celui-ci soit
-loué en tant que rival heureux du nôtre.</seg>
+          <seg type="editorial">[pp. 269-349, a lengthy sketch of Chaucer's life and
+            works, more especially of the <hi rend="italic">House of Fame</hi>, <hi rend="italic">Troilus</hi> and
+            the <hi rend="italic">Canterbury Tales</hi>.]</seg>
+            
+          <seg><note place="margin">[p. 319]</note><add>[Prologue to the Tales.]</add> Voici à présent, dans un livre
+            anglais, une foule d’êtres vivants, pris sur le fait, aux
+            
+            <milestone unit="page" n="98"/>
+            
+            mouvements souples, aux types variés comme dans la vie,
+            <note place="margin">[p. 320]</note> représentés au naturel, dans leurs sentiments et dans leur
+            costume, si bien qu’on croit les voir et que, lorsqu’on les
+            quitte, ce n’est pas pour les oublier ; les connaissances faites
+            'au Tabart près de la Cloche' ne sont pas de celles qui
+            s’effacent du souvenir ; elles durent toute la vie.</seg>
+            
+          <seg>Rien de ce qui peut servir à accrocher, à ancrer dans
+            notre mémoire, la vision de ces personnages n’est omis. Un
+            demi-vers, qui dévoile le trait saillant de leur caractère,
+            devient inoubliable ; leur posture, leurs gestes, leur costume,
+            leurs verrues, le son de leur voix, leurs défauts de
+            prononciation : 'somwhat he lipsede for wantonnesse,' leurs
+            tics, la figure rouge de l’hôte et jaune du bailli, leurs
+            élégances, leurs flèches à plumes de paon, leurs cornemuses,
+            rien n’est omis ; leurs chevaux et la manière dont ils les
+            montent sont décrits ; Chaucer regarde même dans les sacs
+            de ses personnages et dit ce qu’il y trouve.</seg>
+            
+          <seg>La nouvelle Angleterre a donc son Froissart, qui va conter
+            des apertises d’armes et des histoires d’amour aux couleurs
+            éclatantes, et nous promener de çà de là, par les villes et par
+            les chemins, prêtant l’oreille à tout récit, observant, notant,
+            racontant ? Ce jeune pays a Froissart et mieux que Froissart.
+            Les peintures sont aussi vives et aussi claires, mais
+            deux grandes différences distinguent les unes des autres :
+            l'humour et la sympathie. Déjà, chez Chaucer, l’humour
+            existe ; ses malices pénètrent plus profondément que les
+            malices françaises : il ne va pas jusqu’aux blessures, mais il
+            fait plus que piquer l’épiderme ; et, ce faisant, il rit d’un rire
+            silencieux : 'Un homme jadis était fort riche, c’est pourquoi
+            tout le monde vantait sa sagesse.' . . .</seg>
+            
+          <seg><note place="margin">[p. 321]</note> De plus, Chaucer sympathise ; il a un cœur vibrant que
+            les larmes émeuvent et que toutes les souffrances touchent,
+            celles des pauvres et celles des princes. Le rôle du peuple,
+            si marqué dans la littérature et la politique anglaises,
+            s’affirme ici, dès la première heure . . . Chaucer, dès le
+            quatorzième siècle, est curieux de voir ce que c’est que
+            l’homme dans un 'cuisinier de Londres' et que la femme
+            dans une 'bourgeoise de Bath.' Combien de misérables
+            périssent dans Froissart ! Que de sang, quelles hécatombes !
+            et combien peu de larmes ! . . .</seg>
+            
+          <seg><note place="margin">[p 322]</note> Ils <add>[the lesser people]</add> figurent dans le récit de Chaucer
+            parce que Chaucer les aime ; il aime son laboureur . ., il
+            
+            <milestone unit="page" n="99"/>
+            
+            souffre à l’idée des sentiers boueux que son pauvre curé suit
+            l’hiver pour aller, par la pluie, visiter une chaumière
+            lointaine ; la sympathie est large chez le poète ; il aime, comme
+            il déteste, de tout cœur. . . .</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 340]</note> Ce bon sens, qui a fait donner aux contes de Cantorbéry
+            un agencement si conforme à la raison et à la nature, est une
+            des qualités les plus éminentes de Chaucer. Elle paraît dans
+            les détails comme dans l’ensemble et lui inspire, au milieu de
+            ses récits les plus fantaisistes, des remarques rassurantes qui
+            nous montrent que la terre et la vie réelle ne sont pas loin et
+            que nous ne courons pas le risque de tomber des nues. Il
+            rappelle, avec à-propos, qu’il y a une certaine noblesse, la
+            plus haute de toutes, qu’on ne saurait léguer par testament ;
+            que les échantillons corrompus d’une classe sociale ne doivent
+            pas faire condamner toute la classe : 'Of every ordre some
+            schrew is, pardee' ; que, dans l’éducation des enfants, il faut
+            se garder de les traiter trop tôt en hommes ; si on les mène
+            avant l’âge aux fêtes, ils deviennent effrontés, 'to soone
+            <note place="margin">[p. 341]</note> rype and bold . . . which is ful perilous' (Tale of the
+            <hi rend="italic">Doctor of Phisik</hi>, vers. 68). Il s’exprime fort librement sur
+            les grands capitaines qu’on eût qualifiés de 'brigands' s’ils
+            avaient fait moins de mal. Cette dernière idée est indiquée
+            en quelques vers d’un humour si vraiment anglais qu’ils font
+            songer à Swift et à Fielding ; et l’on peut d’autant mieux en
+            effet songer à Fielding qu’il a consacré tout son roman de
+            <hi rend="italic">Jonathan Wild-le-Grand</hi> à développer exactement la même
+            thèse.<note type="footnote">
+              <lg>
+                <l>But, for the tiraunt is of greter might</l>
+                <l>By force of meyné for to sle doun right,</l>
+                <l>And brenne hous and home, and make al playn,</l>
+                <l>Lo, therfor is he cleped a capitayn ;</l>
+                <l>And, for an outlawe hath no smal meyné</l>
+                <l>And may not doon so grete an harm as he,</l>
+                <l>Ne bringe a contre to so gret mischief,</l>
+                <l>Men clepen him an outlawe or a theef.</l>
+              </lg>
+              <hi rend="italic">Maunciple's Tale</hi>, vers. 123, t. iii, p. 256. Cf. le roman de Fielding, <hi rend="italic">The Life
+              of Mr. Jonathan Wild the Great</hi>, 1748.</note>
+          </seg>
+            
+          <seg>Enfin, à ce même bon sens de Chaucer, on doit une chose
+            plus remarquable encore : c’est que, avec sa connaissance du
+            latin et du français, vivant dans un milieu où ces deux
+            langues avaient une grande faveur, il écrivit uniquement en
+            anglais : sa prose, comme ses vers, son traité sur l’Astrolabe,
+            comme ses contes, sont en anglais. Il appartient à la nation
+            
+            <milestone unit="page" n="100"/>
+            
+            anglaise et c’est pourquoi il écrit dans cette langue ; c’est
+            assez pour lui d’une telle raison. . . .</seg>
+            
+          <seg><note place="margin">[p. 342]</note> La même sagesse fait encore que Chaucer ne se perd pas
+            en vains efforts pour tenter d’impossibles réformes et pour
+            marcher à contre courant. On le lui a reproché de notre
+            temps ; et certains, par amour des Anglo-Saxons, se sont
+            indignés de la quantité de mots français que Chaucer
+            emploie : que n’est-il remonté aux origines du langage ?
+            Mais Chaucer n’était pas de ceux qui, comme dit Milton,
+            ferment les grilles de leur parc pour empêcher les corneilles
+            de s’en aller. Il s’est servi du langage national, tel qu’il
+            existait de son temps.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 345]</note> Le même bon sens optimiste et tranquille qui lui a fait
+            adopter la langue de son pays et la versification usuelle, qui
+            l’a empêché de réagir avec excès contre les idées reçues, l’a
+            empêché aussi de se faire, par patriotisme, piété ou orgueil,
+            des illusions sur sa patrie, sa religion ou son temps. Il en
+            fut cependant autant que personne, les aima et les honora
+            mieux que pas un. L’impartialité de jugement de cet ancien
+            prisonnier des Français est extraordinaire, supérieure même
+            à celle de Froissart. . . .</seg>
+            
+          <seg>Chaucer, d’un bout à l’autre de sa carrière, demeure le
+            même, et le fait est d’autant plus remarquable que sa tournure
+            d’esprit, son inspiration et son idéal littéraire deviennent de
+            plus en plus anglais, à mesure qu’il prend des années. Il
+            reste impartial, ou plutôt, en dehors de la grande querelle,
+            à laquelle cependant il avait pris part dans la réalité ; ses
+            œuvres ne contiennent pas un vers qui soit dirigé contre la
+            France, ni même un seul éloge de son pays où celui-ci soit
+            loué en tant que rival heureux du nôtre.</seg>
         </ab>
       </div>
     </body>

@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/37043079">Johann Christoph Schwab</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/37043079">Schwab, Johann Christoph</author>
             <date cert="high" when="1803">1803</date>
             <title level="a">Dissertation sur les Causes de l'Universalité de la Langue francoise et la durée vraisemblable de son empire.</title>
           </analytic>
@@ -80,23 +80,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="38"/>
-        <ab type="imprint">1803. Schwab, Johann-Christoph. Dissertation sur les Causes de l'Universalité de la Langue francoise et la durée vraisemblable de son empire. Traduit de l’allemand par D. Robelot, Paris, 1803, pp. 216, 323.</ab>
+        
+        <ab type="imprint">1803. Schwab, Johann-Christoph. <hi rend="italic">Dissertation sur les Causes de l'Universalité de la Langue francoise et la durée vraisemblable de son empire.</hi> Traduit de l’allemand par D. Robelot, Paris, 1803, pp. 216, 323.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 216]
-Voulons-nous étendre nos recherches, nous aurons dans cet
-espace de temps des observations semblables à faire sur les
-Anglois. Je me bornerai à la suivante; Chaucer, qui vivoit
-au quatorzième siècle, puisa son conte de Troïle et Créséide,
-et beaucoup d’autres sujets, dans Boccace, qu’il avoit connu
-personellement en Italie. . .
-[p. 323]
-[Note by the translator.]
-Chaucer qu’on compare à un beau matin du printemps, qui
-écrivit sous le règne d’Edouard III (il fleurissoit en 1328),
-ainsi dans un temps où l’usage du françois avoit été proscrit
-dans l’Angleterre, Chaucer avoit pris la plupart de ses contes,
-chez les Provençaux et dans Boccace.
-Jean Gower qui approche le plus de lui. . . .</seg>
+          <seg><note place="margin">[p. 216]</note> Voulons-nous étendre nos recherches, nous aurons dans cet
+            espace de temps des observations semblables à faire sur les
+            Anglois. Je me bornerai à la suivante; Chaucer, qui vivoit
+            au quatorzième siècle, puisa son conte de Troïle et Créséide,
+            et beaucoup d’autres sujets, dans Boccace, qu’il avoit connu
+            personellement en Italie . . .</seg>
+            
+          <seg><note place="margin">[p. 323]</note> <add>[Note by the translator.]</add>
+            <lb/>Chaucer qu’on compare à un beau matin du printemps, qui
+            écrivit sous le règne d’Edouard III (il fleurissoit en 1328),
+            ainsi dans un temps où l’usage du françois avoit été proscrit
+            dans l’Angleterre, Chaucer avoit pris la plupart de ses contes,
+            chez les Provençaux et dans Boccace.
+            <lb/>Jean Gower qui approche le plus de lui. . . .</seg>
         </ab>
       </div>
     </body>

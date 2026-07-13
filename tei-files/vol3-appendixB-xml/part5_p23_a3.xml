@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1740, Antoine François Prévost. Le Pour et Contre,</title>
+        <title>1740, Antoine-François Prévost. Le Pour et Contre.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/17228264">Antoine François Prévost</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/17228264">Prévost, Antoine François</author>
             <date cert="high" when="1740">1740</date>
-            <title level="a">Le Pour et Contre,</title>
+            <title level="a">Le Pour et Contre.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,18 +80,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="23"/>
-        <ab type="imprint">1740. [Prévost d’Exilles, Antoine François.] Le Pour et Contre, 1740, tome xx, pp. 78, 79.</ab>
+        
+        <ab type="imprint">1740. [Prévost d’Exilles, Antoine François.] <hi rend="italic">Le Pour et Contre</hi>, 1740, tome xx, pp. 78, 79.</ab>
+        
         <ab type="quotation">
-          <seg>Henri [iv] aspiroit avec tant d’ardeur au titre de Champion
-de l’Eglise, qu’en se préparant à la conquête de la Terre
-[p. 79] Sainte, il avoit déjà jetté les yeux sur Geoffroi Chaucer,
-Poëte fameux qui florissait sous son règne, pour célébrer les
-exploits qu’il méditoit. Remarquons en passant, que ce
-Chaucer, Auteur de plusieurs Poësies qui sont encore en
-estime, &amp; Jean Gauwer, autre Poëte du même tems, passent
-communément pour les premiers Réformateurs de la langue
-Angloise, à peu près comme Malherbe a cette gloire parmi
-nous.</seg>
+          <seg>Henri <add>[iv]</add> aspiroit avec tant d’ardeur au titre de Champion
+            de l’Eglise, qu’en se préparant à la conquête de la Terre
+            
+            <milestone unit="page" n="24"/>
+            
+            <note place="margin">[p. 79]</note> Sainte, il avoit déjà jetté les yeux sur Geoffroi Chaucer,
+            Poëte fameux qui florissait sous son règne, pour célébrer les
+            exploits qu’il méditoit. Remarquons en passant, que ce
+            Chaucer, Auteur de plusieurs Poësies qui sont encore en
+            estime, &amp; Jean Gauwer, autre Poëte du même tems, passent
+            communément pour les premiers Réformateurs de la langue
+            Angloise, à peu près comme Malherbe a cette gloire parmi
+            nous.</seg>
         </ab>
       </div>
     </body>

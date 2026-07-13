@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1857-61, Jean Baptiste François Ernest Chatelain. Contes de Cantorbery, traduits en vers français</title>
+        <title>1857-61, Jean-François Chatelain. Contes de Cantorbery, traduits en vers français.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/59351711">Jean Baptiste François Ernest Chatelain</author>
-            <date cert="high" when="1857-61">1857-61</date>
-            <title level="a">Contes de Cantorbery, traduits en vers français</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/59351711">Jean-François Chatelain</author>
+            <date cert="high" from="1857" to="1861">1857-61</date>
+            <title level="a">Contes de Cantorbery, traduits en vers français.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,146 +83,169 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="66"/>
-        <ab type="imprint">1857-61. Chatelain, Jean Baptiste de, Chevalier. Contes de Cantorbery, traduits en vers français ... par le Chevalier de Chatelain. 3 tomes, London.</ab>
+        
+        <ab type="imprint">1857-61. Chatelain, Jean Baptiste de, Chevalier. <hi rend="italic">Contes de Cantorbery, traduits en vers français</hi> . . . par le Chevalier de Chatelain. 3 tomes, London.</ab>
+        
         <ab type="quotation">
-          <seg>[t. i, p. ix]
-[Introduction.] Geoffrey Chaucer, le père de la Poësie
-Anglaise, naquit vers l’an 1328, de quelle extraction? Sa
-Postérité n’en sait mot; mais le Génie et l’Esprit étant la
-plus pure essence de la Divinité, Chaucer fut noble, le hazard
-l’eut-il fait naître de parents n’ayant un nom inscrit dans
-les fastes de la Noblesse . . . [A short life of the poet
-follows.]
-. . . . . . . . . .
-Les classiques, l’Astronomie, l’Astrologie, les Sciences du
-droit canon et du droit civil, le Commerce, l’Industrie, rien
-ne paraît lui [Chaucer] avoir été complètement étranger, et
-les Contes de Cantorbery en font foi.
-[p. xii] Sur notre traduction des Contes de Cantorbery nous avons
-. . . . . . . . . .
-peu de choses à dire, en laissant l’appréciation aux critiques
-littéraires, honnêtes, et heureusement il y en a encore un
-assez grand nombre en Angleterre. . . .
-. . . . . . . . . .
-[p. xiii] Regardant Chaucer comme le Boccace de l’Angleterre, le
-mettant sous plus d’un rapport, au moins au niveau de
-Shakespeare, qu’il a précédé, le considérant, nous le répétons
-comme le Père de la Poësie Anglaise, nous avons cru devoir
-élever à sa mémoire un monument Européen, en traduisant
-les Contes de Cantorbery en vers français; la langue de
-[p. xiv] Chaucer, d’un accès assez difficile pour ceux qui sont désireux
-d’en apprécier les beautés et d’en savourer les charmes,
-n’étant plus lue, même en Angleterre, que par le très petit
-nombre. Nous croyons donc livrer à l’admiration du continent
-non pas notre traduction, comme un certain literary lawyer
-(un de nos intimes ennemis qui se cache sous ce pseudonyme
-dans le Morning Star), sera tenté de nous en accuser, mais
-l’œuvre de Chaucer, qu’on ne se méprenne pas! Ce n’est pas
-l'habit que nous croyons digne d’admiration, c’est le moine
-en chair et en os. . . .
-Et bien qu’à notre avis il n’y ait pas plus de vilains mots
-dans Chaucer que dans Boccace, qui a été lu par tout le
-monde, encore y en a-t-il beaucoup trop pour les traduire
-sans vergogne, et les jeter à la face du public dans ce dix-
-neuvième siècle devenu d’autant plus prude que l’immoralité
-y fleurit plus vivace. C'est en cela que notre tâche a été
-fort difficile à remplir. Nous avons dû laisser autant que
-possible tout son esprit à Chaucer, en adoucissant toutefois
-quelques-unes de ses expressions, nous contentant de laisser
-subsister sa pensée, en modifiant ou en raturant le mot trop
-. . . comment dirons nous cela? . . . trop peu vêtu. . . .
-[p. xv] Quant à la partie matérielle de notre œuvre, nous avons
-traduit les Contes de Cantorbery souvent vers pour vers,
-toujours strophes pour strophes, dans les contes qui sont écrits
-ainsi par leur auteur; d’autres fois nous avons laissé courir
-notre plume sans nous inquiéter d’augmenter un conte de
-vingt, trente ou quarante vers, alors que nous pensions que
-la narration pouvait gagner du naturel. . . .
-[p. xvi] Nous avons cru devoir comprendre dans la collection des
-Contes de Cantorbery, le Conte de Gamelyn raconté par le
-Cuisinier, bien qu’il y ait incertitude s’il est ou non de
-Chaucer. . . .
-Nous avons cru devoir rendre en vers le conte de Mélibée
-raconté en prose par Chaucer, et traduit par lui d’un manu¬
-scrit français qui fait aujourd’hui partie du Ménagier de
-Paris, publié par la société des Bibliophiles Français; nous
-avons traduit également en vers le Conte du Curé, ce long
-Traité . . . nous paraissant moins lourd en vers.
-. . . . . . . . . .
-[t. ii,
-[p. vii]
-[Introduction.] Messieurs les Puritains ont crié cependant
-haro sur nous et sur notre traduction des Contes de Cantor¬
-béry et pourquoi? . . . Ils seraient, nous le croyons, très
-embarrassés de le dire: car nous avons énormément adouci
-l’expression de Chaucer dans les passages scabreux de
-quelques-uns de ses contes. Nous serions vraiment tenté de
-croire que la langue française étant de nos jours plus facile à
-lire et à comprendre que le langage à l’écorce rude de Chaucer,
-ces pudiques écrivains (Anglais) viennent de lire le Père de la
-Poësie Anglaise pour la première fois dans notre traduction.
-. . . . . . . . . .
-[p. ix] C'est donc à l’adresse de ces critiques Puritains que nous
-croyons devoir citer notre réponse à un journal de province
-qui nous fit connaître qu’il ne serait pas rendu compte dans
-ses colonnes de notre traduction de Chaucer, parce que nous
-avions traduit l’œuvre du grand poëte in extenso; et que
-suivant le conseil que nous a donné depuis le Guardian, nous
-eussions dû omettre la moitié des contes de cet infâme
-Monsieur Chaucer. . . .
-. . . . . . . . . .
-[Lettre.] Au pape Pie IX.
-[t. iii,
-Très cher Frère en Christ.
-p. vii]
-A cette anomalie agonisante que vous faites appeler en
-plein XIXe siècle, par une modestie peu digne des Apôtres,
-Votre Sainteté, il a plu :—
-Après les massacres de Pérouse, et par suite après la perte
-des Romagnes,
-D'excommunier mon pauvre Moi, avec 30 millions de
-Français, mes compatriotes, et aussi pas mal de millions
-d’Italiens:
-Il me plaît à moi, sans permission, et malgré l’excommuni¬
-cation dont Vous, l’auteur du dogme impie de l’Immaculée
-Conception, m’avez frappé, de Vous dédier ma traduction du
-Plowman, l’un des plus beaux poèmes du grand Chaucer.
-Dans cette œuvre admirable Chaucer a maudi vos prédé¬
-cesseurs, Vous et Votre Mégnie, avec une force et une logique
-radieuses de vérité.
-Or Chaucer n’étant lu que par les Anglais, un peuple de
-[p. viii] parpaillots, qui ne se prosterne pas devant les idoles créées
-par Votre Sainteté, j’ai cru devoir le mettre à la portée de
-mes compatriotes les 30 millions d’excommuniés par votre
-dextre sainte, en le traduisant en français, à cette fin que
-Vous même puissiez le lire, dans vos loisirs, lorsque vous
-aurez été chassé de Rome, ce qui, D.V., ne peut tarder
-d’arriver.
-Sans modestie, comme sans présomption, je crois que la
-malédiction formulée par Chaucer sur les Eternelles Iniquités
-de la Cour de Rome produira plus d’effet que le brandon de
-discorde que vous avez eu la prétention de jeter ce dernier
-carnaval urbi et orbi, comme vous dites là-bas.
-. . . . . . . . . .
-LE CHEVALIER DE CHATELAIN.
-[p. xiii] [Introduction.] Pour tout homme qui veut se donner la
-peine de réfléchir, il demeure évident que le Plowman n’a été
-laissé de côté dans les premières éditions des Contes de Cantor¬
-béry que parce que Chaucer y dénonçait trop vertement les
-abus scandaleux de la Cour de Rome; le Catholicisme à l’aide
-duquel on peut réduire à l’esclavage une nation, étant alors
-en Angleterre et malheureusement pour elle, la religion
-dominante.
- . . . . . . . . . .
-[p. xvi] Nos lecteurs trouveront, à la suite de l’Histoire de Béryn,
-l’A. B. C. longtemps attribué à Chaucer, et qui est l’œuvre
-de Guillaume Guileville. Nous avons été heureux d’ap¬
-prendre que l’auteur du Plowman n’a été que le traducteur
-de l’A. B. C. . . . nous eussions regretté de trouver Chaucer
-parmi ceux qui font de Marie une vierge immaculée. La
-vraisemblance doit être gardée même dans un conte de
-fées, même dans les mythologies de l’Antiquité et des temps
-modernes.</seg>
+          <seg><note place="margin">[t. i, p. ix]</note>[Introduction.] Geoffrey Chaucer, le père de la Poësie
+            Anglaise, naquit vers l’an 1328, de quelle extraction ? Sa
+            Postérité n’en sait mot; mais le Génie et l’Esprit étant la
+            plus pure essence de la Divinité, Chaucer fut noble, le hazard
+            l’eut-il fait naître de parents n’ayant un nom inscrit dans
+            les fastes de la Noblesse . . . <add>[A short life of the poet follows.]</add></seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg>Les classiques, l’Astronomie, l’Astrologie, les Sciences du
+            droit canon et du droit civil, le Commerce, l’Industrie, rien
+            ne paraît lui <add>[Chaucer]</add> avoir été complètement étranger, et
+            les Contes de Cantorbery en font foi.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. xii]</note>Sur notre traduction des Contes de Cantorbery nous avons
+            peu de choses à dire, en laissant l’appréciation aux critiques
+            littéraires, honnêtes, et heureusement il y en a encore un
+            assez grand nombre en Angleterre. . . .</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. xiii]</note>Regardant Chaucer comme le Boccace de l’Angleterre, le
+            mettant sous plus d’un rapport, au moins au niveau de
+            Shakespeare, qu’il a précédé, le considérant, nous le répétons
+            comme le Père de la Poësie Anglaise, nous avons cru devoir
+            élever à sa mémoire un monument Européen, en traduisant
+            les Contes de Cantorbery en vers français; la langue de
+            <note place="margin">[p. xiv]</note> Chaucer, d’un accès assez difficile pour ceux qui sont désireux
+            d’en apprécier les beautés et d’en savourer les charmes,
+            n’étant plus lue, même en Angleterre, que par le très petit
+            nombre. Nous croyons donc livrer à l’admiration du continent
+            non pas notre traduction, comme un certain literary lawyer
+            (un de nos intimes ennemis qui se cache sous ce pseudonyme
+            dans le <hi rend="italic">Morning Star</hi>), sera tenté de nous en accuser, mais
+            l’œuvre de Chaucer, qu’on ne se méprenne pas! Ce n’est pas
+            
+            <milestone unit="page" n="67"/>
+            
+            l'habit que nous croyons digne d’admiration, c’est le moine
+            en chair et en os. . . .</seg>
+            
+          <seg>Et bien qu’à notre avis il n’y ait pas plus de vilains mots
+            dans Chaucer que dans Boccace, qui a été lu par tout le
+            monde, encore y en a-t-il beaucoup trop pour les traduire
+            sans vergogne, et les jeter à la face du public dans ce dix-
+            neuvième siècle devenu d’autant plus prude que l’immoralité
+            y fleurit plus vivace. C'est en cela que notre tâche a été
+            fort difficile à remplir. Nous avons dû laisser autant que
+            possible tout son esprit à Chaucer, en adoucissant toutefois
+            quelques-unes de ses expressions, nous contentant de laisser
+            subsister sa pensée, en modifiant ou en raturant le mot trop
+            . . . comment dirons nous cela? . . . trop peu vêtu. . . .</seg>
+            
+          <seg><note place="margin">[p. xv]</note>Quant à la partie matérielle de notre œuvre, nous avons
+            traduit les Contes de Cantorbery souvent vers pour vers,
+            toujours strophes pour strophes, dans les contes qui sont écrits
+            ainsi par leur auteur; d’autres fois nous avons laissé courir
+            notre plume sans nous inquiéter d’augmenter un conte de
+            vingt, trente ou quarante vers, alors que nous pensions que
+            la narration pouvait gagner du naturel. . . .</seg>
+            
+          <seg><note place="margin">[p. xvi]</note>Nous avons cru devoir comprendre dans la collection des
+            Contes de Cantorbery, le Conte de Gamelyn raconté par le
+            Cuisinier, bien qu’il y ait incertitude s’il est ou non de
+            Chaucer. . . .</seg>
+            
+          <seg>Nous avons cru devoir rendre en vers le conte de Mélibée
+            raconté en prose par Chaucer, et traduit par lui d’un
+            manuscrit français qui fait aujourd’hui partie du <hi rend="italic">Ménagier de
+            Paris</hi>, publié par la société des Bibliophiles Français; nous
+            avons traduit également en vers le <hi rend="italic">Conte du Cure</hi>́, ce long
+            Traité . . . nous paraissant moins lourd en vers.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[t. ii, p. vii]</note><add>[Introduction.]</add> Messieurs les Puritains ont crié cependant
+            haro sur nous et sur notre traduction des Contes de Cantorbéry
+            et pourquoi? . . . Ils seraient, nous le croyons, très
+            embarrassés de le dire: car nous avons énormément adouci
+            l’expression de Chaucer dans les passages scabreux de
+            quelques-uns de ses contes. Nous serions vraiment tenté de
+            croire que la langue française étant de nos jours plus facile à
+            lire et à comprendre que le langage à l’écorce rude de Chaucer,
+            ces pudiques écrivains (Anglais) viennent de lire <hi rend="italic">le Père de la
+            Poësie Anglaise</hi> pour la première fois dans notre traduction.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <milestone unit="page" n="68"/>
+            
+          <seg><note place="margin">[p. ix]</note>C'est donc à l’adresse de ces critiques Puritains que nous
+            croyons devoir citer notre réponse à un journal de province
+            qui nous fit connaître qu’il ne serait pas rendu compte dans
+            ses colonnes de notre traduction de Chaucer, parce que nous
+            avions traduit l’œuvre du grand poëte in extenso; et que
+            suivant le conseil que nous a donné depuis le <hi rend="italic">Guardian</hi>, nous
+            eussions dû omettre la moitié des contes de cet infâme
+            Monsieur Chaucer. . . .</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><add>[Lettre.]</add>Au pape Pie IX.
+            <note place="margin">[t. iii, p. vii]</note><lb/>Très cher Frère en Christ.
+            <lb/>A cette anomalie agonisante que vous faites appeler en
+            plein XIXe siècle, par une modestie peu digne des Apôtres,
+            Votre Sainteté, il a plu :—
+            <lb/>Après les massacres de Pérouse, et par suite après la perte
+            des Romagnes,
+            <lb/>D'excommunier mon pauvre Moi, avec 30 millions de
+            Français, mes compatriotes, et aussi pas mal de millions
+            d’Italiens:
+            <lb/>Il me plaît à moi, sans permission, et malgré l’excommuni¬
+            cation dont Vous, l’auteur du dogme impie de l’Immaculée
+            Conception, m’avez frappé, de Vous dédier ma traduction du
+            <hi rend="italic">Plowman</hi>, l’un des plus beaux poèmes du grand Chaucer.
+            <lb/>Dans cette œuvre admirable Chaucer a maudi vos prédé¬
+            cesseurs, Vous et Votre Mégnie, avec une force et une logique
+            radieuses de vérité.
+            <lb/>Or Chaucer n’étant lu que par les Anglais, un peuple de
+            <note place="margin">[p. viii]</note>parpaillots, qui ne se prosterne pas devant les idoles créées
+            par Votre Sainteté, j’ai cru devoir le mettre à la portée de
+            mes compatriotes les 30 millions d’excommuniés par votre
+            dextre sainte, en le traduisant en français, à cette fin que
+            Vous même puissiez le lire, dans vos loisirs, lorsque vous
+            aurez été chassé de Rome, ce qui, D.V., ne peut tarder
+            d’arriver.
+            <lb/>Sans modestie, comme sans présomption, je crois que la
+            malédiction formulée par Chaucer sur les Eternelles Iniquités
+            de la Cour de Rome produira plus d’effet que le brandon de
+            discorde que vous avez eu la prétention de jeter ce dernier
+            carnaval urbi et orbi, comme vous dites là-bas.
+            <lb/>. . . . . . . . . .
+            <lb/>LE CHEVALIER DE CHATELAIN.
+          </seg>
+          
+          <milestone unit="page" n="69"/>
+            
+          <seg><note place="margin">[p. xiii]</note><add>[Introduction.]</add> Pour tout homme qui veut se donner la
+            peine de réfléchir, il demeure évident que le <hi rend="italic">Plowman</hi> n’a été
+            laissé de côté dans les premières éditions des Contes de
+            Cantorbéry que parce que Chaucer y dénonçait trop vertement les
+            abus scandaleux de la Cour de Rome; le Catholicisme à l’aide
+            duquel on peut réduire à l’esclavage une nation, étant alors
+            en Angleterre et malheureusement pour elle, la religion
+            dominante.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. xvi]</note>Nos lecteurs trouveront, à la suite de l’Histoire de Béryn,
+            l’A. B. C. longtemps attribué à Chaucer, et qui est l’œuvre
+            de Guillaume Guileville. Nous avons été heureux
+            d’apprendre que l’auteur du <hi rend="italic">Plowman</hi> n’a été que le traducteur
+            de l’A. B. C. . . . nous eussions regretté de trouver Chaucer
+            parmi ceux qui font de Marie une vierge immaculée. La
+            vraisemblance doit être gardée même dans un conte de
+            fées, même dans les mythologies de l’Antiquité et des temps
+            modernes.</seg>
         </ab>
       </div>
     </body>

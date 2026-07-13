@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1893, Jean Jules Jusserand. L’Épopée Mystique de William Langland,</title>
+        <title>1893, Jean Jules Jusserand. L’Épopée Mystique de William Langland.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jean Jules Jusserand</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jusserand, Jean Jules</author>
             <date cert="high" when="1893">1893</date>
-            <title level="a">L’Épopée Mystique de William Langland,</title>
+            <title level="a">L’Épopée Mystique de William Langland.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,30 +82,38 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="96"/>
-        <ab type="imprint">1893. Jusserand, J. J. L’Épopée Mystique de William Langland, Paris, 1893, pp. 2, 3, 4, 15, 18, 33, 39, 63, 66, 67, 93, 104, 105, 107, 108, 142, 146, 148, 149, 155, 159, 174, 176, 177, 186, 198, 202, 237, 238.</ab>
+        
+        <ab type="imprint">1893. Jusserand, J. J. <hi rend="italic">L’Épopée Mystique de William Langland</hi>, Paris, 1893, pp. 2, 3, 4, 15, 18, 33, 39, 63, 66, 67, 93, 104, 105, 107, 108, 142, 146, 148, 149, 155, 159, 174, 176, 177, 186, 198, 202, 237, 238.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 104] Chaucer, avec son génie et ses mérites de toute sorte, sa
-gaîté et sa bonne grâce, sa faculté d’observation et cette
-ouverture d’esprit qui lui permet de sympathiser avec les
-spécimens les plus divers de l’humanité, a tracé une im¬
-mortelle et incomparable peinture de l’Angleterre au moyen
-âge. Sur certains points cependant le tableau est in¬
-complet, et il faut emprunter à Langland des traits pour
-l’achever. . . .
-. . . . . . . . .
-[p. 176] On a beaucoup reproché à ce dernier [Chaucer] d’avoir
-donné, par son génie, droit de cité dans la langue anglaise à
-quantité de mots français. Le reproche est injuste ; Chaucer
-écrivit la langue de son temps, telle qu’elle existait, sans la
-modifier, la franciser ou la fausser ; et Langland, au besoin,
-en fournirait la preuve. . . .
-. . . . . . . . . .
-[p. 185] Langland est un vrai Anglais, comme Chaucer ; il l’est
-peut-être même davantage. Un trait important manque à
-[p. 186] françaises et italiennes ; au fond assurément il est anglais
-Chaucer : il n’est pas insulaire; son esprit a des ramifications
-et très anglais ; par certains points cependant il est un peu
-cosmopolite.</seg>
+          <seg><note place="margin">[p. 104]</note> Chaucer, avec son génie et ses mérites de toute sorte, sa
+            gaîté et sa bonne grâce, sa faculté d’observation et cette
+            ouverture d’esprit qui lui permet de sympathiser avec les
+            spécimens les plus divers de l’humanité, a tracé une
+            immortelle et incomparable peinture de l’Angleterre au moyen
+            âge. Sur certains points cependant le tableau est
+            incomplet, et il faut emprunter à Langland des traits pour
+            l’achever. . . .</seg>
+            
+         <lb/>. . . . . . . . .
+            
+         <milestone unit="page" n="97"/>
+            
+         <seg><note place="margin">[p. 176]</note> On a beaucoup reproché à ce dernier <add>[Chaucer]</add> d’avoir
+            donné, par son génie, droit de cité dans la langue anglaise à
+            quantité de mots français. Le reproche est injuste ; Chaucer
+            écrivit la langue de son temps, telle qu’elle existait, sans la
+            modifier, la franciser ou la fausser ; et Langland, au besoin,
+            en fournirait la preuve. . . .</seg>
+          
+         <lb/>. . . . . . . . . .
+            
+         <seg><note place="margin">[p. 185]</note> Langland est un vrai Anglais, comme Chaucer ; il l’est
+            peut-être même davantage. Un trait important manque à
+            <note place="margin">[p. 186]</note> françaises et italiennes ; au fond assurément il est anglais
+            Chaucer : il n’est pas insulaire; son esprit a des ramifications
+            et très anglais ; par certains points cependant il est un peu
+            cosmopolite.</seg>
         </ab>
       </div>
     </body>

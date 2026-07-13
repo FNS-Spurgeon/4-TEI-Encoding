@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1908, Geoffrey Chaucer. Les Contes de Canterbury de Geoffroy Chaucer. Traduction française, avec une introduction et des notes. ...</title>
+        <title>1908, Geoffrey Chaucer. Les Contes de Canterbury de Geoffroy Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
             <date cert="high" when="1908">1908</date>
-            <title level="a">Les Contes de Canterbury de Geoffroy Chaucer. Traduction française, avec une introduction et des notes. ...</title>
+            <title level="a">Les Contes de Canterbury de Geoffroy Chaucer. Traduction française, avec une introduction et des notes.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,98 +80,86 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="111"/>
-        <ab type="imprint">1908. Chaucer, Geoffrey. Les Contes de Canterbury de Geoffroy Chaucer. Traduction française, avec une introduction et des notes. ... Paris, Félix Alcan, 1908.</ab>
+        
+        <ab type="imprint">1908. <hi rend="italic">Les Contes de Canterbury de Geoffroy Chaucer. Traduction française, avec une introduction et des notes.</hi> . . . Paris, Félix Alcan, 1908.<note type="foonote">[This appeared as No. 4 bis of the <hi rend="italic">Revue Germanique</hi> for Sept. 1906, 1907 and 1908, and was re-issued in 1 vol. in 1908.]</note></ab>
+        
         <ab type="quotation">
-          <seg>[This appeared as No. 4 bis of the Revue Germanique for Sept. 1906, 1907 and 1908,
-and was re-issued in 1 vol. in 1908.]
-[p. v] La traduction a été ainsi répartie entre les professeurs
-agrégés d’anglais dont les noms suivent :
-Prologue Général.—M. Cazamian, professeur adjoint á
-l’Université de Bordeaux.
-Conte du Chevalier. Ire partie. M. Léon Morel, chargé
-de cours à la Sorbonne.
-IIe partie.— M. C.-M. Garnier, pro¬
-fesseur au lycée Henri IV.
-IIIe et IVe parties.— M. Bourgogne,
-professeur au lycée Condorcet.
-Prologue et Conte du Meunier.— M. Delcourt, professeur au
-Iycée de Montpellier.
-Prologue et Conte de l’Intendant.
-M. Derocquigny, profes¬
-Prologue et Conte du Cuisinier.
-seur à l’Université de
-Lille.
-Introduction, Prologue et Conte de l’Homme de Loi.—M. W.
-Thomas, professeur à l’Université de Lyon.
-Prologue et Conte du Marinier. M. Koszul, professeur au
-Prologue et Conte de la Prieure. lycée de Lyon.
-Prologue et Conte de Chaucer sur
-sire Thopaze.
-M. E. Legouis, profes¬
-Prologue du Mellibée.
-seur à la Sorbonne.
-Conte de Chaucer sur Mellibée.—M. Bastide, professeur au
-Iycée Charlemagne.
-Prologue et Conte du Moine.—M. Charles Petit, professeur
-au lycée d’Amiens.
-Prologue, Conte et Épilogue du Prêtre de Nonnains.—M. C.
-Cestre, maître de conférences à l’Université de Lyon.
-Conte et Épilogue du Médecin.
-M. Clermont, profes¬
-Prologue et Conte du Pardonneur.
-seur au Iycée Janson-
-de-Sailly.
-Prologue de la Femme de Bath.—M. Derocquigny, profes¬
-seur à l’Université de Lille.
-[p. vi] Conte de la Femme de Bath. M. E. Wahl, professeur au
-Prologue et Conte du Frère. Iycée Janson-de -Sailly.
-Prologue et Conte du Semoneur.—M. Bauchet, professeur
-au lycée d’Évreux.
-Prologue et Conte du Clerc.—M. R. Huchon, maître de
-conférences à l’Université de Nancy.
-Prologue, Conte et Epilogue du Marchand.—M. Lavault,
-professeur au lycée Janson-de-Sailly.
-Conte et Epilogue de l’Écuyer.—M. Bahans, professeur au
-Iycée de Pau.
-Prologue et Conte du Franklin.—M. P. Berger, professeur
-au Iycée de Bordeaux.
-Prologue et Conte de la Seconde Nonne.—M. Vallod, pro¬
-fesseur au lycée de Nancy.
-Prologue et Conte du Valet du Chanoine.—M. Castelain,
-professeur adjoint à l’Université de Poitiers.
-Prologue et Conte du Manciple. M. Bastide, professeur au
-Prologue et Conte du Curé. Iycée Charlemagne.
-[p. vii] Avertissement. Les traducteurs ont adopté les règles
-suivantes :
-1° Emploi du texte des Contes de Canterbury, publié par
-Mr. W. W. Skeat dans son Student's Chaucer . . . le meilleur
-texte existant, presque définitif. Ce texte a été suivi fidèle¬
-ment, mais non servilement, et les traducteurs ont cru devoir
-s’en séparer, en de très rares occasions, surtout en ce qui
-concerne la ponctuation adoptée par la critique. . . .
-. . . . . . . . . .
-2° Notes réduites au strict nécessaire. . . .
- . . . . . . . . . .
-3° Traduction linéaire, vers pour vers, d’où un style sans
-doute moins coulant, mais en revanche plus fidèle et peut-
-être plus savoureux. . . .
-. . . . . . . . . .
-[p. viii] L’accueil fait à la première moitié de ce livre permet de
-croire qu’il vient à son heure et comble une lacune enfin
-devenue sensible. Le premier Groupe des Contes, paru en
-fascicule dans un numéro supplémentaire de la Revue
-Germanique, a été honoré par l’Académie française d’une
-partie du prix Langlois. . . .
-Il est d’ailleurs difficile de ne pas voir un indice signalé du
-progrès des études de langues vivantes chez nous, dans le
-nombre, la compétence et le zèle des collaborateurs qui se
-sont unis spontanément en vue de mener à bien une œuvre
-longue, délicate, exigeant la connaissance de la vieille langue
-anglaise, et toute désintéressée.
-La Société pour l’Étude des Langues
-et Littératures modernes.
-[pp. ix.-xxxii.] Introduction, par M. Émile Legouis. [See
-below.]</seg>
+          <seg>
+            <note place="margin">[p. v]</note>La traduction a été ainsi répartie entre les professeurs
+            agrégés d’anglais dont les noms suivent :
+            <list>
+              <item>Prologue Général.—M. Cazamian, professeur adjoint á l’Université de Bordeaux.</item>
+              <item>Conte du Chevalier.
+                <list>
+                  <item>Ire partie. M. Léon Morel, chargé de cours à la Sorbonne.</item>
+                  <item>IIe partie.— M. C.-M. Garnier, professeur au lycée Henri IV.</item>
+                  <item>IIIe et IVe parties.— M. Bourgogne, professeur au lycée Condorcet.</item>
+                </list>
+              </item>
+              <item>Prologue et Conte du Meunier.— M. Delcourt, professeur au lycée de Montpellier.</item>
+              <item>Prologue et Conte de l’Intendant. | Prologue et Conte du Cuisinier. M. Derocquigny, professeur à l’Université de Lille.</item>
+              <item>Introduction, Prologue et Conte de l’Homme de Loi.—M. W. Thomas, professeur à l’Université de Lyon.</item>
+              <item>Prologue et Conte du Marinier. | Prologue et Conte de la Prieure. M. Koszul, professeur au lycée de Lyon.</item>
+              
+              <milestone unit="page" n="112"/>
+              
+              <item>Prologue et Conte de Chaucer sur sire Thopaze. | Prologue du Mellibée. M. E. Legouis, professeur à la Sorbonne.</item>
+              <item>Conte de Chaucer sur Mellibée.—M. Bastide, professeur au lycée Charlemagne.</item>
+              <item>Prologue et Conte du Moine.—M. Charles Petit, professeur au lycée d’Amiens.</item>
+              <item>Prologue, Conte et Épilogue du Prêtre de Nonnains.—M. C. Cestre, maître de conférences à l’Université de Lyon.</item>
+              <item>Conte et Épilogue du Médecin. | Prologue et Conte du Pardonneur. M. Clermont, professeur au Iycée Janson-de-Sailly.</item>
+              <item>Prologue de la Femme de Bath.—M. Derocquigny, professeur à l’Université de Lille.</item>
+              <note place="margin">[p. vi]</note><item>Conte de la Femme de Bath. | Prologue et Conte du Frère. M. E. Wahl, professeur au lycée Janson-de -Sailly.</item>
+              <item>Prologue et Conte du Semoneur.—M. Bauchet, professeur au lycée d’Évreux.</item>
+              <item>Prologue et Conte du Clerc.—M. R. Huchon, maître de conférences à l’Université de Nancy.</item>
+              <item>Prologue, Conte et Epilogue du Marchand.—M. Lavault, professeur au lycée Janson-de-Sailly.</item>
+              <item>Conte et Epilogue de l’Écuyer.—M. Bahans, professeur au lycée de Pau.</item>
+              <item>Prologue et Conte du Franklin.—M. P. Berger, professeur au lycée de Bordeaux.</item>
+              <item>Prologue et Conte de la Seconde Nonne.—M. Vallod, professeur au lycée de Nancy.</item>
+              <item>Prologue et Conte du Valet du Chanoine.—M. Castelain, professeur adjoint à l’Université de Poitiers.</item>
+              <item>Prologue et Conte du Manciple. | Prologue et Conte du Curé. M. Bastide, professeur au lycée Charlemagne.</item>
+            </list>
+          </seg>
+            
+          <seg><note place="margin">[p. vii]</note> Avertissement. Les traducteurs ont adopté les règles
+            suivantes :
+            <lb/>1° Emploi du texte des <hi rend="italic">Contes de Canterbury</hi>, publié par
+            Mr. W. W. Skeat dans son <hi rend="italic">Student's Chaucer</hi> . . . le meilleur
+            texte existant, presque définitif. Ce texte a été suivi fidèlement,
+            mais non servilement, et les traducteurs ont cru devoir
+            s’en séparer, en de très rares occasions, surtout en ce qui
+            concerne la ponctuation adoptée par la critique. . . .</seg>
+            
+          <lb/>. . . . . . . . . .
+          
+          <milestone unit="page" n="113"/>
+            
+          <seg>2° Notes réduites au strict nécessaire. . . .</seg>
+             
+          <lb/>. . . . . . . . . .
+            
+          <seg>3° Traduction linéaire, vers pour vers, d’où un style sans
+            doute moins coulant, mais en revanche plus fidèle et peut-
+            être plus savoureux. . . .</seg>
+          
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. viii]</note> L’accueil fait à la première moitié de ce livre permet de
+            croire qu’il vient à son heure et comble une lacune enfin
+            devenue sensible. Le premier <hi rend="italic">Groupe</hi> des Contes, paru en
+            fascicule dans un numéro supplémentaire de la <hi rend="italic">Revue
+            Germanique</hi>, a été honoré par l’Académie française d’une
+            partie du prix Langlois. . . .</seg>
+            
+          <seg>Il est d’ailleurs difficile de ne pas voir un indice signalé du
+            progrès des études de langues vivantes chez nous, dans le
+            nombre, la compétence et le zèle des collaborateurs qui se
+            sont unis spontanément en vue de mener à bien une œuvre
+            longue, délicate, exigeant la connaissance de la vieille langue
+            anglaise, et toute désintéressée.
+            <lb/>La Société pour l’Étude des Langues et Littératures modernes.</seg>
+            
+          <seg><note place="margin">[pp. ix.-xxxii.]</note>Introduction, par M. Émile Legouis. [See below.]</seg>
         </ab>
       </div>
     </body>

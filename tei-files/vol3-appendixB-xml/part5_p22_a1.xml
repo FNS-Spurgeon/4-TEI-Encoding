@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1734, Unknown. Copie d'une Lettre, écrite de Londres le 19 at 30 Décembre, 1734, à M. Dargenville, Conseiller du Roy ... sur quelques Illustres Anglois</title>
+        <title>1734, Unknown. Copie d'une Lettre, écrite de Londres le 19 at 30 Décembre, 1734, à M. Dargenville, Conseiller du Roy . . . sur quelques Illustres Anglois.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -34,7 +34,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1734">1734</date>
-            <title level="a">Copie d'une Lettre, écrite de Londres le 19 at 30 Décembre, 1734, à M. Dargenville, Conseiller du Roy ... sur quelques Illustres Anglois</title>
+            <title level="a">Copie d'une Lettre, écrite de Londres le 19 at 30 Décembre, 1734, à M. Dargenville, Conseiller du Roy . . . sur quelques Illustres Anglois.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,17 +80,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="22"/>
-        <ab type="imprint">1734. Unknown. Copie d'une Lettre, écrite de Londres le 19 at 30 Décembre, 1734, à M. Dargenville, Conseiller du Roy ... sur quelques Illustres Anglois [in the] Mercure de France, Paris, May, 1735, p. 837.</ab>
+        
+        <ab type="imprint">1734. Unknown. <hi rend="italic">Copie d'une Lettre, écrite de Londres le 19 at 30 Décembre, 1734, à M. Dargenville, Conseiller du Roy . . . sur quelques Illustres Anglois</hi> [in the] <hi rend="italic">Mercure de France</hi>, Paris, May, 1735, p. 837.</ab>
+        
         <ab type="quotation">
           <seg>Il y a un cahier de 12 Poëtes celebres Anglois, qui sont,
-si je ne me trompe, Chaucher, Spenser, Johnson, Fletcher,
-Beaumont, Shakespear, Milton, Cowley, Buttler, Otway, Waller
-et Driden. Chaucher est le plus vieux Poëte dont on fasse
-cas. Il vivoit dans le 14e siècle. Les Anglois d’aujourd’hui
-ont de la peine à l’entendre. On dit qu’il est inimitable dans
-ses Descriptions, et en general fort ingénieux. On a fait une
-très belle Edition de ses Ouvrages en un volume in-folio avec
-une Explication des expressions difficiles et surannées.</seg>
+            si je ne me trompe, Chaucher, Spenser, Johnson, Fletcher,
+            Beaumont, Shakespear, Milton, Cowley, Buttler, Otway, Waller
+            et Driden. Chaucher est le plus vieux Poëte dont on fasse
+            cas. Il vivoit dans le 14e siècle. Les Anglois d’aujourd’hui
+            ont de la peine à l’entendre. On dit qu’il est inimitable dans
+            ses Descriptions, et en general fort ingénieux. On a fait une
+            très belle Edition de ses Ouvrages en un volume in-folio avec
+            une Explication des expressions difficiles et surannées.</seg>
         </ab>
       </div>
     </body>

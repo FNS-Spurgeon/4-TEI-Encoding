@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1702, Guy Miege. Etat prévent d'Angleterre sous la Reine Anne...</title>
+        <title>1702, Guy Miège. Etat prévent d'Angleterre sous la Reine Anne.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/61673500">Guy Miege</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/61673500">Miège, Guy</author>
             <date cert="high" when="1702">1702</date>
-            <title level="a">Etat prévent d'Angleterre sous la Reine Anne...</title>
+            <title level="a">Etat prévent d'Angleterre sous la Reine Anne.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,19 +80,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="20"/>
-        <ab type="imprint">1702. [Miège, Guy] Etat prévent d'Angleterre sous la Reine Anne... Traduit de l’Anglois, à Amsterdam, 1702, tome ii, partie II, chap. i, p. 254.</ab>
+        
+        <ab type="imprint">1702. [Miège, Guy]. <hi rend="italic">Etat prévent d'Angleterre sous la Reine Anne</hi> . . . Traduit de l’Anglois, à Amsterdam, 1702, tome ii, partie II, chap. i, p. 254.</ab>
+        
         <ab type="quotation">
           <seg>leur Tempérament, Génie, Langage, avec une liste des plus
-[Title of the chapter.] Des Habitans d’Angleterre, de
-habiles Personnages de ce Païs qui ont excellé dans la Guerre,
-&amp; dans les Lettres. . . .
-Pour la Poësie, Gower &amp; Lydgate Moine de St. Edmund
-Bury, le fameux Godefroy Chaucer Beau-Frère de Jean de
-Gand Duc de Lancastre; le Chevalier Philippe Sydney, &amp;
-le fameux Spencer. Daniel, &amp; Drayton, le premier le
-Lucain, &amp; l’autre l’Ovide des Anglois. Beaumont &amp; Fletcher,
-celuy-cy le Térence, &amp; celuy-là le Plaute de la Nation.
-Enfin Ben Janson [sic.] &amp; le fameux Cowley.</seg>
+            <add>[Title of the chapter.]</add> Des Habitans d’Angleterre, de
+            habiles Personnages de ce Païs qui ont excellé dans la Guerre,
+            &amp; dans les Lettres. . . .</seg>
+          
+          <seg>Pour la Poësie, Gower &amp; Lydgate Moine de St. Edmund
+            Bury, le fameux Godefroy Chaucer Beau-Frère de Jean de
+            Gand Duc de Lancastre; le Chevalier Philippe Sydney, &amp;
+            le fameux Spencer. Daniel, &amp; Drayton, le premier le
+            Lucain, &amp; l’autre l’Ovide des Anglois. Beaumont &amp; Fletcher,
+            celuy-cy le Térence, &amp; celuy-là le Plaute de la Nation.
+            Enfin Ben Janson <add>[sic.]</add> &amp; le fameux Cowley.</seg>
         </ab>
       </div>
     </body>

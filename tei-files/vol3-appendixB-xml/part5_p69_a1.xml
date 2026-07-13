@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1859, Étienne-Gustave Sandras. Étude sur Chaucer considéré comme imitateur des Trouvères,</title>
+        <title>1859, Étienne-Gustave Sandras. Étude sur Chaucer considéré comme imitateur des Trouvères.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/71767894">Étienne-Gustave Sandras</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71767894">Sandras, Étienne-Gustave</author>
             <date cert="high" when="1859">1859</date>
-            <title level="a">Étude sur Chaucer considéré comme imitateur des Trouvères,</title>
+            <title level="a">Étude sur Chaucer considéré comme imitateur des Trouvères.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,7 +71,7 @@
         <language ident="fr">French</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#learning"/>
         <catRef scheme="#works" target="#romauntRose"/>
         <catRef scheme="#works" target="#criticism"/>
@@ -85,229 +85,265 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="69"/>
-        <ab type="imprint">1859. Sandras, E. G. Étude sur Chaucer considéré comme imitateur des Trouvères, Paris, 1859.</ab>
+        
+        <ab type="imprint">1859. Sandras, E. G. <hi rend="italic">Étude sur Chaucer considéré comme imitateur des Trouvères</hi>, Paris, 1859.</ab>
+        
         <ab type="quotation">
-          <seg>[Table of contents.]
-[Introduction, pp. 1-7. 1re Partie. BIOGRAPHIE ET
-POÈMES ALLÉGORIQUES, chap. i, Biographie, pp. 11-29;
-chap. ii, Roman de la Rose, pp. 31-40; chap. iii, Étude des
-poëmes de source italienne et française, i.e., Troïlus et Cresséide,
-Arcite et Palamon, la Cour d’Amour, le Parlement des Oiseaux,
-pp. 41-74; chap. iv, Étude des poëmes de source exclusive¬
-ment française, i. e, le rêve de Chaucer, Livre de la Duchesse,
-la Fleur et la Feuille, et petits poëmes, pp. 75-110; chap. v,
-De l’imitation de l’antiquité dans Chaucer, Annelida et Arcite,
-la légende des dix-neuf Héroïnes, le palais de la renommée,
-pp. 111-132. 2nde Partie. PÈLERINAGE DE CANTERBURY,
-pp. 133-257.
-[p. 1] [Introduction.] Je me propose de faire connaître les œuvres
-de Chaucer et les sources où il a puisé, sans vouloir toutefois
-lui contester sa part d’originalité et son génie. Ce qui m’a
-déterminé à entreprendre ce travail, c’est que la plupart des
-écrivains qui lui ont fourni des matériaux ou des modèles
-appartiennent à notre pays. . . .
-. . . . . . . . . .
-[p. 3] Ces poésies [all, except the Canterbury Tales] ne sont ni des
-œuvres originales ni de fidèles copies: véritables mosaïques,
-elles se composent de passages empruntés à divers auteurs ou
-à divers écrits du même auteur. Aucune page, prise séparé¬
-ment, n’appartient peut-être à Chaucer; l’ensemble est à lui.
-Il choisit, il traduit, il combine. Idées, sentiments, de¬
-scriptions, portraits, situations, tout est de provenance
-étrangère, presque toujours de provenance française. A ce
-[p. 4] titre, chacun de ces poëmes est digne de notre attention.
-[p. 35] Chaucer . . . dès sa jeunesse, avait fait du Roman de la
-. . . . . . . . . .
-Rose son livre de prédilection. Il en traduisit une partie, et il
-prit des inspirations continuelles. C’est au point que ce
-poëte, qui sentait les beautés de la nature, qui savait les
-peindre, se contente souvent dans ses descriptions d’être le
-copiste de G. de Lorris; que cet érudit . . . reproduit
-l’histoire romaine telle que J. de Meung la lui transmet,
-altérée par l’imagination des conteurs; que cet homme de
-génie, qui mérite d’être placé entre Aristophane et Molière,
-arrive à la vieillesse, toujours sous le joug de l’imitation, et
-n’ayant guère composé que des poëmes allégoriques. Quand
-il renonce à cette poésie de cour si fausse, si maniérée, et
-qu’il écrit le Pèlerinage de Canterbury, drame vivant et popu¬
-laire, on retrouve dans son œuvre les traits saillants qui
-caractérisent la seconde partie du Roman de la Rose, de
-longues tirades contre les femmes et le ridicule jeté à pleines
-mains sur les ordres religieux. Sans doute il remonte aux
-sources premières où ont puisé ses maîtres, sans doute il
-[p. 87] étudie les ouvrages de leurs disciples, ses contemporains;
-mais c’est à l’école de G. de Lorris que son goût s’est formé
-ou, si l’on veut, altéré; c’est à l’école de Jean du Meung que
-s’est façonné son esprit.
-[pp. 41- [Sandras shows that Troylus, although translated from
-50]
-the Filostrato of Boccaccio, owes something to Benoît de
-Sainte-Maure, and that this love-tale was first related by
-him, and subsequently re-told by Boccaccio, Chaucer and
-Shakespeare.]
-[pp. 50- [The Knightes Tale, translated from the Teseide of Boccac¬
-56]
-cio. There is no proof that Boccaccio took his subject from
-the Greek.] Telle qu’elle se présente, avec les couleurs
-que Boccace paraît lui avoir en partie conservées, je la
-rattacherais au cycle gréco-romain; je lui ferais une place
-entre le Roman de Thèbes et celui de Troie. Au lieu de nous
-laisser aller aux conjectures, il est plus sage de former des
-vœux pour la découverte d’un texte qui nous dise que cette
-charmante fiction est née de notre sol.
-. . . . . . . . . .
-[p. 66] . . . L’imagination, dans Chaucer, est toujours l’écho de
-l’érudition. Ce n’est pas dans le spectacle de la nature, dans
-le drame de la vie humaine telle qu’elle s’agite autour de lui
-et en lui, qu’il puise directement ses inspirations; il aime les
-livres, les vieux livres, d’où sort science nouvelle comme d’un
-vieux champ blé nouveau. C’est avec les souvenirs de ses
-lectures qu’il compose. Ici, dans un sujet de pure fantaisie,
-[the Parlement of Foules], il a mis à contribution Cicéron,
-Stace, Dante, Guillaume de Lorris, Boccace, Alain de l’Isle,
-G. de Machault, et peut-être quelque Volucraire qui a
-échappé à mes recherches. . . .
-[pp. 71- [Sandras prints the first lines of the rondeau which is sung
-72]
-by the birds [Parl. of Foules], 'Qui bien aime a tart oublie,'
-and which he finds at the beginning of one of the two poems
-by Machaut called Le Lay de plour.]
-[p. 74] . . . Même en imitant les Italiens, Chaucer s’est rapproché
-autant que possible de nos trouvères.
-[pp. 81- [Chaucer's debt to G. de Machaut in the Dream of Chaucer
-. . . . . . . . . .
-89]
-(Dit du Lyon) and to Marie de France (Lai d'Eliduc).]
-[pp. 89- [His debt to the Roman de la Rose, to Machaut, and to
-95]
-Froissart in the Boke of the Duchesse.]
-. . . . . . . . . .
-[p. 111] Chaucer, par certains côtés, touche à la renaissance; il
-domine les préjugés de son époque; par d’autres, il reste un
-homme du moyen-âge. Il n’a pas, comme son contemporain
-Pétrarque, le vif sentiment, la parfaite intelligence de ce que
-fut l’antiquité. Il semble ne connaître les auteurs anciens
-qu’à travers la naïve métamorphose que leur font subir nos
-trouvères. . . .
-[pp. 127- Conclusion de la 1e partie.
-132]
-[p. 130] En résumé, voici ce que Chaucer doit à l’Italie: il a imité
-le Filostrato et la Théséïde, poèmes qui sont, l’un certainement,
-l’autre vraisemblablement d’origine française. Très-circon¬
-spect à l’égard de Pétrarque, il ne lui a pris qu’un sonnet,
-et s’est peut-être souvenu du Trionfo della Fama. Les
-emprunts qui nous sont étrangers sont ceux qui proviennent
-de la Divine Comédie; encore Chaucer, en cette oocasion,
-s’est-il servi du rhythme et du style de nos trouvères, de
-même que, dans Troïlus et Cresséide, il a préféré notre vers
-élégiaque à l’hendécasyllabe italien, le stance de J. de
-Brienne et de Thibaut, à l’octave, et la naïveté de nos
-rimeurs, à l’élégance presque classique de son modèle.
-Tyrwhitt avait soupçonné, d’après le mémoire du comte de
-Caylus, qu’un Ditié de Machault n’avait pas été inconnu. . . .
-[p. 131] [à Chaucer]. Une lecture attentive . . . des poésies . . .
-de notre compatriote, m’a prouvé qu’avec le Roman de la
-Rose, elles ont servi de modèle à Geoffrey, pour plusieurs
-de ses compositions allégoriques. . . . [Chaucer imitates
-Machault], et sans doute parce qu’il voit en lui un autre
-G. de Lorris; mais il relève cette fade poésie par sa verve
-caustique et d’heureux emprunts faits à nos auteurs de l’âge
-précédent, entre autres à Marie de France . . . Froissart et
-Chaucer offrent des passages d’une ressemblance frappante,
-. . . il est . . . difficile de se prononcer sur la priorité. . . .
-[p. 132] Des poëtes français que Chaucer a mis à contribution, il n’a
-nommé que celui auquel il doit le moins, et qui avait le moins
-à lui prêter, Gransson, gentilhomme qu’il connut à la cour de
-Richard II.
-[p. 135] 2° Partie. Pèlerinage de Canterbury. L’idée d’encadrer
-. . . . . . . . . .
-plusieurs histoires dans une narration, nous est venue
-d’Orient; elle a étè popularisée en Europe longtemps avant
-Chaucer par Pierre d’Alphonse, juif converti, auteur de la
-Disciplina clericalis, et par les nombreuses versions du
-Roman des Sept Sages. Ce sont des ouvrages qui paraissent
-avoir servi de modèle au Pèlerinage de Canterbury plutôt
-que le Décaméron, inconnu peut-être à Geoffrey. Mais le
-poëte anglais est supérieur à ses devanciers, y compris
-Boccace, par la fable, qui a un dénouement, et par la diversité
-des personnages qui entraine celle des histoires.
-[p. 138] C’est sur ce sujet [the Canterbury Pilgrimage], que le
-. . . . . . . . . .
-vieux Geoffrey a composé dans une langue claire, riche, har¬
-monieuse, une ample comédie qui le place entre Aristophane
-et Molière. Peintre, moraliste, poëte, il embrasse dans son
-[p. 139] œuvre toute la société contemporaine. . . . Cette vaste com¬
-position offre à la critique deux objets d’examen nettement
-séparés; d’un côté, l’introduction et les prologues qui pré¬
-cèdent les contes; de l’autre, les contes. Une distinction
-plus vraie encore consiste à étudier les caractères, puis les
-situations. On voit alors clairement ce qui appartient au
-génie de Chaucer, dans le tissu de chaque histoire, le poëte
-anglais n’est qu’imitateur: exposition, incidents, dénoue¬
-ment, il emprunte tout à nos écrivains. Dans la peinture
-des personnages, il est inventeur . . . il a surtout pour
-[p. 140] modèle la réalité qui l’entoure.
-[pp 142- [Description ot the pilgrims.]
-194]
-[pp. 194 On serait amené à cette conviction qu’en ce siècle, où
-195]
-religieux et laïcs jouaient dans les églises des farces grossières,
-Chaucer créait la vraie comédie, qu’il en façonnait la langue,
-qu’il enseignait l’art de dessiner des caractères. . . . On
-souscrirait peut-être à cette assertion d’un critique anglais,
-que Geoffrey, dans la comédie, n’est pas inférieur à Shake¬
-speare. . . . Toutefois, en reconnaissant tout ce qu’il y a
-d’originalité et d’inspiration directe dans cette partie de
-l’œuvre de Chaucer, il est juste de ne pas oublier que souvent
-nos trouvères ont tracé les premiers linéaments des portraits
-qu’il achève si bien.
-[pp. 197- [The sources of the Tales.]
-251]
-[p. 197]
-Le résultat de ces investigations laborieuses [de plusieurs
-écrivains] a été de constater que le poëte anglais ne doit
-rien au Décaméron, et qu’il a puisé, comme Boccace, à des
-sources françaises. [This point is dealt with in detail.
-(1) Legends, The Prioresses Tale, seconde Nonnes T. (Jacques
-de Voragine), Man of Lawes T. ; (2) Breton lays, Clerkes T.
-W. of Bathes T., Franklin's T.; (3) fabliaux, Phisiciens T.
-(of Jean de Meung), Maniciples T. (influence of Machault
-and Jean de Meung) Somnores T., (fabliau of Jacques de
-Baisieux), Milleres T., Marchantes T. (Latin fabliau), Nonne
-Preestes T. (Roman du Renard).]
-[p. 253] Conclusion de la 2° partie. . . . Quelle est la part d’in¬
-vention qui revient à Chaucer, 1° dans la fable: 2° dans les
-caractères: 3° dans les contes?
-Je regarde comme sans fondement l’opinion de Tyr¬
-whitt . . . que c’est du Décaméron qu’est venue l’idée
-[p. 254] du Pèlerinage de Canterbury. La Disciplina clericalis et le
-Roman des Sept Sages avaient déjà donné l’exemple de
-rassembler dans un cadre commun plusieurs histoires. Dans
-de nombreux passages de nos fabliaux se trouvait décrite la
-coutume, qui régnait alors chez nous, d’égayer par des récits
-la table d’un hôte. . . .
-[p. 255] que Chaucer a déployé le plus d’originalité, et a montré qu’il
-2° On reconnaît que c’est dans la peinture des caractères
-savait allier l’observation la plus exacte, la réflexion la plus
-profonde, à une imagination vraiment puissante. . .
-Toutefois, même dans cette partie de son œuvre, son inspira¬
-tion n’est pas entièrement dégagée de réminiscences puisées
-chez nos trouvères.
-3° Chaucer n’est l’inventeur d’aucun des contes insérés
-dans son poëme . . . j’ai constaté que, dans les légendes, le
-poëte suit ordinairement le texte; que, dans les lais bre¬
-tons, il mêle l’érudition et la satire à l’élément chevaler¬
-esque; qu’enfin, dans les fabliaux, tout en se conformant au
-canevas primitif, il devient créateur, à la manière de
-la Fontaine. . . .
-[p. 257] Deux noms de poëtes français me semblent caractériser le
-génie du père de la poësie anglaise. Dans ses poëmes
-allégoriques et chevaleresques, Chaucer adopte le genre mis
-en vogue par G. de Lorris; dans le Pèlerinage de Canter¬
-bury, l’élément qui domine, c’est la satire, et les traits en
-sont dirigés contre les mêmes objets qu’avait attaqués la
-verve érudite et impitoyable de Jean de Meung.</seg>
-          <note type="footnote">Spurgeon's note: [For critical reviews of Sandras's book, see Adolf Ebert's, of 1861, translated in Essays on Chaucer, Chaucer Society, 1869 ; F. J. Furnivall, Trial Forewords to Chaucer's Minor Poems, 1871, pp. 45-53, and Athenæum, Aug. 3, 1872, p. 147.]</note>
+          <seg type="editorial"><add>[Table of contents.]</add></seg>
+            
+          <seg type="editorial">[Introduction, pp. 1-7. 1re Partie. BIOGRAPHIE ET
+            POÈMES ALLÉGORIQUES, chap. i, Biographie, pp. 11-29;
+            chap. ii, Roman de la Rose, pp. 31-40; chap. iii, Étude des
+            poëmes de source italienne et française, i.e., <hi rend="italic">Troïlus et Cresséide</hi>,
+            <hi rend="italic">Arcite et Palamon</hi>, la <hi rend="italic">Cour d’Amour</hi>, le <hi rend="italic">Parlement des Oiseaux</hi>,
+            pp. 41-74; chap. iv, Étude des poëmes de source exclusivement 
+            française, i. e, <hi rend="italic">le rêve de Chaucer</hi>, <hi rend="italic">Livre de la Duchesse</hi>,
+            <hi rend="italic">la Fleur et la Feuille</hi>, et petits poëmes, pp. 75-110; chap. v,
+            De l’imitation de l’antiquité dans Chaucer, <hi rend="italic">Annelida et Arcite</hi>,
+            <hi rend="italic">la légende des dix-neuf Héroïnes</hi>, <hi rend="italic">le palais de la renommée</hi>,
+            pp. 111-132. 2nde Partie. PÈLERINAGE DE CANTERBURY, pp. 133-257.]</seg>
+            
+          <seg><note place="margin">[p. 1]</note><add>[Introduction.]</add> Je me propose de faire connaître les œuvres
+            de Chaucer et les sources où il a puisé, sans vouloir toutefois
+            lui contester sa part d’originalité et son génie. Ce qui m’a
+            déterminé à entreprendre ce travail, c’est que la plupart des
+            écrivains qui lui ont fourni des matériaux ou des modèles
+            appartiennent à notre pays. . . .</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <milestone unit="page" n="70"/>
+            
+          <seg><note place="margin">[p. 3]</note>Ces poésies <add>[all, except the <hi>Canterbury Tales</hi>]</add> ne sont ni des
+            œuvres originales ni de fidèles copies: véritables mosaïques,
+            elles se composent de passages empruntés à divers auteurs ou
+            à divers écrits du même auteur. Aucune page, prise séparément,
+            n’appartient peut-être à Chaucer; l’ensemble est à lui.
+            Il choisit, il traduit, il combine. Idées, sentiments,
+            descriptions, portraits, situations, tout est de provenance
+            étrangère, presque toujours de provenance française. A ce
+            <note place="margin">[p. 4]</note>titre, chacun de ces poëmes est digne de notre attention.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 35]</note>Chaucer . . . dès sa jeunesse, avait fait du Roman de la
+            Rose son livre de prédilection. Il en traduisit une partie, et il
+            prit des inspirations continuelles. C’est au point que ce
+            poëte, qui sentait les beautés de la nature, qui savait les
+            peindre, se contente souvent dans ses descriptions d’être le
+            copiste de G. de Lorris; que cet érudit . . . reproduit
+            l’histoire romaine telle que J. de Meung la lui transmet,
+            altérée par l’imagination des conteurs; que cet homme de
+            génie, qui mérite d’être placé entre Aristophane et Molière,
+            arrive à la vieillesse, toujours sous le joug de l’imitation, et
+            n’ayant guère composé que des poëmes allégoriques. Quand
+            il renonce à cette poésie de cour si fausse, si maniérée, et
+            qu’il écrit le <hi rend="italic">Pèlerinage de Canterbury</hi>, drame vivant et
+            populaire, on retrouve dans son œuvre les traits saillants qui
+            caractérisent la seconde partie du Roman de la Rose, de
+            longues tirades contre les femmes et le ridicule jeté à pleines
+            mains sur les ordres religieux. Sans doute il remonte aux
+            sources premières où ont puisé ses maîtres, sans doute il
+            <note place="margin">[p. 37]</note>étudie les ouvrages de leurs disciples, ses contemporains;
+            mais c’est à l’école de G. de Lorris que son goût s’est formé
+            ou, si l’on veut, altéré; c’est à l’école de Jean du Meung que
+            s’est façonné son esprit.</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 41-50]</note> [Sandras shows that <hi rend="italic">Troylus</hi>, although translated from
+            the <hi rend="italic">Filostrato</hi> of Boccaccio, owes something to Benoît de
+            Sainte-Maure, and that this love-tale was first related by
+            him, and subsequently re-told by Boccaccio, Chaucer and
+            Shakespeare.]</seg>
+            
+          <seg><note place="margin">[pp. 50-56]</note> <add>[<hi rend="italic">The Knightes Tale</hi>, translated from the <hi rend="italic">Teseide</hi> of
+              Boccaccio. There is no proof that Boccaccio took his subject from
+              the Greek.]</add> Telle qu’elle se présente, avec les couleurs
+              que Boccace paraît lui avoir en partie conservées, je la
+              rattacherais au cycle gréco-romain; je lui ferais une place
+              
+              <milestone unit="page" n="71"/>
+              
+              entre le <hi rend="italic">Roman de Thèbes</hi> et celui de <hi rend="italic">Troie</hi>. Au lieu de nous
+              laisser aller aux conjectures, il est plus sage de former des
+              vœux pour la découverte d’un texte qui nous dise que cette
+              charmante fiction est née de notre sol.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 66]</note>. . . L’imagination, dans Chaucer, est toujours l’écho de
+            l’érudition. Ce n’est pas dans le spectacle de la nature, dans
+            le drame de la vie humaine telle qu’elle s’agite autour de lui
+            et en lui, qu’il puise directement ses inspirations; il aime les
+            livres, les vieux livres, d’où sort science nouvelle comme d’un
+            vieux champ blé nouveau. C’est avec les souvenirs de ses
+            lectures qu’il compose. Ici, dans un sujet de pure fantaisie,
+            <add>[the <hi rend="italic">Parlement of Foules</hi>]</add>, il a mis à contribution Cicéron,
+            Stace, Dante, Guillaume de Lorris, Boccace, Alain de l’Isle,
+            G. de Machault, et peut-être quelque Volucraire qui a
+            échappé à mes recherches. . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 71-72]</note>[Sandras prints the first lines of the rondeau which is sung
+            by the birds <add>[Parl. of Foules]</add>, 'Qui bien aime a tart oublie,'
+            and which he finds at the beginning of one of the two poems
+            by Machaut called <hi rend="italic">Le Lay de plour</hi>.]</seg>
+            
+          <seg><note place="margin">[p. 74]</note>. . . Même en imitant les Italiens, Chaucer s’est rapproché
+            autant que possible de nos trouvères.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg type="editorial"><note place="margin">[pp. 81-89]</note>[Chaucer's debt to G. de Machaut in the <hi rend="italic">Dream of Chaucer</hi> (<hi rend="italic">Dit du Lyon</hi>) and to Marie de France (<hi rend="italic">Lai d'Eliduc</hi>).]</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 89-95]</note>[His debt to the Roman de la Rose, to Machaut, and to Froissart in the <hi rend="italic">Boke of the Duchesse</hi>.]</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 111]</note>Chaucer, par certains côtés, touche à la renaissance; il
+            domine les préjugés de son époque; par d’autres, il reste un
+            homme du moyen-âge. Il n’a pas, comme son contemporain
+            Pétrarque, le vif sentiment, la parfaite intelligence de ce que
+            fut l’antiquité. Il semble ne connaître les auteurs anciens
+            qu’à travers la naïve métamorphose que leur font subir nos
+            trouvères. . . .</seg>
+            
+          <seg><note place="margin">[pp. 127-132]</note>Conclusion de la 1e partie.</seg>
+            
+          <seg><note place="margin">[p. 130]</note>En résumé, voici ce que Chaucer doit à l’Italie: il a imité
+            le <hi rend="italic">Filostrato</hi> et la <hi rend="italic">Théséïde</hi>, poèmes qui sont, l’un certainement,
+            l’autre vraisemblablement d’origine française. Très-circonspect
+            à l’égard de Pétrarque, il ne lui a pris qu’un sonnet,
+            et s’est peut-être souvenu du <hi rend="italic">Trionfo della Fama</hi>. Les
+            
+            <milestone unit="page" n="72"/>
+            
+            emprunts qui nous sont étrangers sont ceux qui proviennent
+            de la Divine Comédie; encore Chaucer, en cette oocasion,
+            s’est-il servi du rhythme et du style de nos trouvères, de
+            même que, dans <hi rend="italic">Troïlus et Cresséide</hi>, il a préféré notre vers
+            élégiaque à l’hendécasyllabe italien, le stance de J. de
+            Brienne et de Thibaut, à l’octave, et la naïveté de nos
+            rimeurs, à l’élégance presque classique de son modèle.</seg>
+            
+          <seg>Tyrwhitt avait soupçonné, d’après le mémoire du comte de
+            Caylus, qu’un <hi rend="italic">Ditié</hi> de Machault n’avait pas été inconnu. . . .
+            <note place="margin">[p. 131]</note> <add>[à Chaucer]</add>. Une lecture attentive . . . des poésies . . .
+            de notre compatriote, m’a prouvé qu’avec le Roman de la
+            Rose, elles ont servi de modèle à Geoffrey, pour plusieurs
+            de ses compositions allégoriques. . . . <add>[Chaucer imitates
+            Machault]</add>, et sans doute parce qu’il voit en lui un autre
+            G. de Lorris; mais il relève cette fade poésie par sa verve
+            caustique et d’heureux emprunts faits à nos auteurs de l’âge
+            précédent, entre autres à Marie de France . . . Froissart et
+            Chaucer offrent des passages d’une ressemblance frappante,
+            . . . il est . . . difficile de se prononcer sur la priorité. . . .
+            <note place="margin">[p. 132]</note>Des poëtes français que Chaucer a mis à contribution, il n’a
+            nommé que celui auquel il doit le moins, et qui avait le moins
+            à lui prêter, Gransson, gentilhomme qu’il connut à la cour de
+            Richard II.</seg>
+            
+           <lb/>. . . . . . . . . .
+            
+           <seg><hi rend="italic">[p. 135]</hi>2° Partie. Pèlerinage de Canterbury. L’idée d’encadrer
+            plusieurs histoires dans une narration, nous est venue
+            d’Orient; elle a étè popularisée en Europe longtemps avant
+            Chaucer par Pierre d’Alphonse, juif converti, auteur de la
+            <hi rend="italic">Disciplina clericalis</hi>, et par les nombreuses versions du
+            Roman des Sept Sages. Ce sont des ouvrages qui paraissent
+            avoir servi de modèle au Pèlerinage de Canterbury plutôt
+            que le Décaméron, inconnu peut-être à Geoffrey. Mais le
+            poëte anglais est supérieur à ses devanciers, y compris
+            Boccace, par la fable, qui a un dénouement, et par la diversité
+            des personnages qui entraine celle des histoires.</seg>
+          
+           <lb/>. . . . . . . . . .
+            
+           <seg><note place="margin">[p. 138]</note>C’est sur ce sujet <add>[the Canterbury Pilgrimage]</add>, que le
+            vieux Geoffrey a composé dans une langue claire, riche,
+            harmonieuse, une ample comédie qui le place entre Aristophane
+            et Molière. Peintre, moraliste, poëte, il embrasse dans son
+            <note place="margin">[p. 139]</note> œuvre toute la société contemporaine. . . . Cette vaste
+            composition offre à la critique deux objets d’examen nettement
+            
+            <milestone unit="page" n="73"/>
+            
+            séparés; d’un côté, l’introduction et les prologues qui
+            précèdent les contes; de l’autre, les contes. Une distinction
+            plus vraie encore consiste à étudier les caractères, puis les
+            situations. On voit alors clairement ce qui appartient au
+            génie de Chaucer, dans le tissu de chaque histoire, le poëte
+            anglais n’est qu’imitateur: exposition, incidents, dénouement,
+            il emprunte tout à nos écrivains. Dans la peinture
+            des personnages, il est inventeur . . . il a surtout pour
+            <note place="margin">[p. 140]</note> modèle la réalité qui l’entoure.</seg>
+            
+           <seg type="editorial"><note place="margin">[pp 142-194]</note>[Description ot the pilgrims.]</seg>
+            
+           <seg><note place="margin">[pp. 194-195]</note>On serait amené à cette conviction qu’en ce siècle, où
+            religieux et laïcs jouaient dans les églises des farces grossières,
+            Chaucer créait la vraie comédie, qu’il en façonnait la langue,
+            qu’il enseignait l’art de dessiner des caractères. . . . On
+            souscrirait peut-être à cette assertion d’un critique anglais,
+            que Geoffrey, dans la comédie, n’est pas inférieur à
+            Shakespeare. . . . Toutefois, en reconnaissant tout ce qu’il y a
+            d’originalité et d’inspiration directe dans cette partie de
+            l’œuvre de Chaucer, il est juste de ne pas oublier que souvent
+            nos trouvères ont tracé les premiers linéaments des portraits
+            qu’il achève si bien.</seg>
+            
+           <seg type="editorial"><note place="margin">[pp. 197-251]</note>[The sources of the Tales.]</seg>
+            
+           <seg><note place="margin">[p. 197]</note>Le résultat de ces investigations laborieuses <add>[de plusieurs
+            écrivains]</add> a été de constater que le poëte anglais ne doit
+            rien au Décaméron, et qu’il a puisé, comme Boccace, à des
+            sources françaises. <add>[This point is dealt with in detail.
+            (1) Legends, The Prioresses Tale, seconde Nonnes T. (Jacques
+            de Voragine), Man of Lawes T. ; (2) Breton lays, Clerkes T.
+            W. of Bathes T., Franklin's T.; (3) fabliaux, Phisiciens T.
+            (of Jean de Meung), Maniciples T. (influence of Machault
+            and Jean de Meung) Somnores T., (fabliau of Jacques de
+            Baisieux), Milleres T., Marchantes T. (Latin fabliau), Nonne
+            Preestes T. (Roman du Renard).]</add></seg>
+            
+           <seg><note place="margin">[p. 253]</note>Conclusion de la 2° partie. . . . Quelle est la part
+            d’invention qui revient à Chaucer, 1° dans la fable: 2° dans les
+            caractères: 3° dans les contes?</seg>
+            
+           <seg>Je regarde comme sans fondement l’opinion de
+            Tyrwhitt . . . que c’est du Décaméron qu’est venue l’idée
+            <note place="margin">[p. 254]</note>du <hi rend="italic">Pèlerinage de Canterbury</hi>. La <hi rend="italic">Disciplina clericalis</hi> et le
+            <hi rend="italic">Roman des Sept Sages</hi> avaient déjà donné l’exemple de
+            rassembler dans un cadre commun plusieurs histoires. Dans
+            de nombreux passages de nos fabliaux se trouvait décrite la
+            
+            <milestone unit="page" n="74"/>
+            
+            coutume, qui régnait alors chez nous, d’égayer par des récits
+            la table d’un hôte. . . .</seg>
+            
+           <seg>2° On reconnaît que c’est dans la peinture des caractères
+              <note place="margin">[p. 255]</note> que Chaucer a déployé le plus d’originalité, et a montré qu’il
+              savait allier l’observation la plus exacte, la réflexion la plus
+              profonde, à une imagination vraiment puissante. . .
+              Toutefois, même dans cette partie de son œuvre, son inspiration
+              n’est pas entièrement dégagée de réminiscences puisées
+              chez nos trouvères.</seg>
+            
+            <seg>3° Chaucer n’est l’inventeur d’aucun des contes insérés
+              dans son poëme . . . j’ai constaté que, dans les légendes, le
+              poëte suit ordinairement le texte; que, dans les lais
+              bretons, il mêle l’érudition et la satire à l’élément chevaleresque;
+              qu’enfin, dans les fabliaux, tout en se conformant au
+              canevas primitif, il devient créateur, à la manière de
+              la Fontaine. . . .</seg>
+            
+            <seg><note place="margin">[p. 257]</note> Deux noms de poëtes français me semblent caractériser le
+              génie du père de la poësie anglaise. Dans ses poëmes
+              allégoriques et chevaleresques, Chaucer adopte le genre mis
+              en vogue par G. de Lorris; dans le Pèlerinage de Canterbury,
+              l’élément qui domine, c’est la satire, et les traits en
+              sont dirigés contre les mêmes objets qu’avait attaqués la
+              verve érudite et impitoyable de Jean de Meung.
+              <note type="footnote">Spurgeon's note: [For critical reviews of Sandras's book, see Adolf Ebert's, of 1861, translated in <hi rend="italic">Essays on Chaucer</hi>, Chaucer Society, 1869 ; F. J. Furnivall, <hi rend="italic">Trial Forewords to Chaucer's Minor Poems</hi>, 1871, pp. 45-53, and Athenæum, Aug. 3, 1872, p. 147.]</note></seg>
         </ab>
       </div>
     </body>

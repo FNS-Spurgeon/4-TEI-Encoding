@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1770, Dorville. Les Nuits Anglaises, ou recueil de traits singuliers, d’anecdotes, d’événements remarquables de faits extraordinaires, de bizarreries, d’observations critiques &amp; de pensées philosophiques, &amp;c. propres à faire connaître le génie &amp; le caractère des Anglais;</title>
+        <title>1770, André-Guillaume Contant d'Orville. Les Nuits Anglaises.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/14779607">Dorville</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/14779607">Contant d'Orville, André-Guillaume</author>
             <date cert="high" when="1770">1770</date>
-            <title level="a">Les Nuits Anglaises, ou recueil de traits singuliers, d’anecdotes, d’événements remarquables de faits extraordinaires, de bizarreries, d’observations critiques &amp; de pensées philosophiques, &amp;c. propres à faire connaître le génie &amp; le caractère des Anglais;</title>
+            <title level="a">Les Nuits Anglaises, ou recueil de traits singuliers, d’anecdotes, d’événements remarquables de faits extraordinaires, de bizarreries, d’observations critiques &amp; de pensées philosophiques, &amp;c. propres à faire connaître le génie &amp; le caractère des Anglais.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,25 +82,25 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="34"/>
-        <ab type="imprint">1770. [Contant d'Orville, A.G.] Les Nuits Anglaises, ou recueil de traits singuliers, d’anecdotes, d’événements remarquables de faits extraordinaires, de bizarreries, d’observations critiques &amp; de pensées philosophiques, &amp;c. propres à faire connaître le génie &amp; le caractère des Anglais; à Paris, 1770, 4 tomes. Tome ii, p. 227, tome iii, p. 268.</ab>
+        
+        <ab type="imprint">1770. [Contant d'Orville, A.G.] <hi rend="italic">Les Nuits Anglaises, ou recueil de traits singuliers, d’anecdotes, d’événements remarquables de faits extraordinaires, de bizarreries, d’observations critiques &amp; de pensées philosophiques, &amp;c. propres à faire connaître le génie &amp; le caractère des Anglais</hi>; à Paris, 1770, 4 tomes. Tome ii, p. 227, tome iii, p. 268.</ab>
+        
         <ab type="quotation">
-          <seg>[tome ii. Digression sur les Poëtes Anglais.
-p. 227]
-CHAUCHER
-Chaucer est regardé comme le père de la Poésie anglaise:
-il vivait vers le milieu du quinzième siècle. On a de lui des
-contes plaisans &amp; naïfs, écrits sans art &amp; d’un style grossier
-où l’on rencontre des pensées fortes.
-[tome iii,
-La Femme de Bath, Conte de Chaucer, remanié par Dryden.
-p. 268.]
-[The 1757 translation, q.v., follows of Dryden's version of the
-Tale of the Wyf of Bathe, preceded by the following note :] On
-connaît en France le joli Conte de M. de Voltaire, intitulé
-Ce qui plaît aux Dames, &amp; dont M. Favart s’est servi, pour
-composer son Opéra-bouffon de La Fée Urgelle; &amp; l’on ne
-sera sans doute pas fâché de leur opposer la manière de
-raconter des Anglais.</seg>
+          <seg><note place="margin">[tome ii, p. 227]</note>Digression sur les Poëtes Anglais.
+            <lb/>CHAUCHER
+            <lb/>Chaucer est regardé comme le père de la Poésie anglaise:
+            il vivait vers le milieu du quinzième siècle. On a de lui des
+            contes plaisans &amp; naïfs, écrits sans art &amp; d’un style grossier
+            où l’on rencontre des pensées fortes.</seg>
+            
+          <seg><note place="margin">[tome iii, p. 268.]</note><hi rend="italic">La Femme de Bath, Conte de Chaucer, remanié par Dryden</hi>.
+            <add>[The 1757 translation, q.v., follows of Dryden's version of the
+            <hi rend="italic">Tale of the Wyf of Bathe</hi>, preceded by the following note:]</add> On
+            connaît en France le joli Conte de M. de Voltaire, intitulé
+            <hi rend="italic">Ce qui plaît aux Dames</hi>, &amp; dont M. Favart s’est servi, pour
+            composer son Opéra-bouffon de <hi rend="italic">La Fée Urgelle</hi>; &amp; l’on ne
+            sera sans doute pas fâché de leur opposer la manière de
+            raconter des Anglais.</seg>
         </ab>
       </div>
     </body>
