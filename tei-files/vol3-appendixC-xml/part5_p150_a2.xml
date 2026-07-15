@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/159027951">John Koch</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/159027951">Koch, John</author>
             <date cert="high" when="1880">1880</date>
             <title level="a">Ausgewählte kleinere Dichtungen Chaucer's, im Versmaasse des Originals in das Deutsche übertragen, und mit Erörterungen versehen.</title>
           </analytic>
@@ -82,11 +82,12 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="150"/>
-        <ab type="imprint">1880. Koch, J. Ausgewählte kleinere Dichtungen Chaucer's, im Versmaasse des Originals in das Deutsche übertragen, und mit Erörterungen versehen. Leipzig.</ab>
+        
+        <ab type="imprint">1880. Koch, J. <hi rend="italic">Ausgewählte kleinere Dichtungen Chaucer's, im Versmaasse des Originals in das Deutsche übertragen, und mit Erörterungen versehen</hi>. Leipzig.</ab>
+        
         <ab type="quotation">
-          <seg>[Containing-Pity, Words to Adam, Parlement of Foules,
-Truth, Gentilesse, Stedfastnesee, Fortune, Bukton, Scogan,
-Purse.]</seg>
+          <seg>[Containing—<hi rend="italic">Pity</hi>, <hi rend="italic">Words to Adam</hi>, <hi rend="italic">Parlement of Foules</hi>, <hi rend="italic">Truth</hi>, <hi rend="italic">Gentilesse</hi>, 
+            <hi rend="italic">Stedfastnesee</hi>, <hi rend="italic">Fortune</hi>, <hi rend="italic">Bukton</hi>, <hi rend="italic">Scogan</hi>, <hi rend="italic">Purse</hi>.]</seg>
         </ab>
       </div>
     </body>

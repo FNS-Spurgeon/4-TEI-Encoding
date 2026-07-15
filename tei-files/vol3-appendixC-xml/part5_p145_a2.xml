@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1860, Reinhold Pauli. Bilder aus Alt-England,</title>
+        <title>1860, Reinhold Pauli. Bilder aus Alt-England.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/17382986">Reinhold Pauli</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/17382986">Pauli, Reinhold</author>
             <date cert="high" when="1860">1860</date>
-            <title level="a">Bilder aus Alt-England,</title>
+            <title level="a">Bilder aus Alt-England.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,32 +83,36 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="145"/>
-        <ab type="imprint">1860. Pauli, Reinhold. Bilder aus Alt-England, Gotha, 1860, chap. vii, Zwei Dichter, Gower und Chaucer.</ab>
+        
+        <ab type="imprint">1860. Pauli, Reinhold. <hi rend="italic">Bilder aus Alt-England</hi>, Gotha, 1860, chap. vii, <hi rend="italic">Zwei Dichter, Gower und Chaucer</hi>.<note type="footnote">Spurgeon's note: [An English translation of this book was published in 1861.]</note></ab>
+        
         <ab type="quotation">
-          <seg>[An English translation of this book was published in 1861.]
-[pp. 184-188. Chaucer's Life.]
-[pp. 193-196. His early poems.]
-[pp. 196-208. The Canterbury Tales, a detailed account.]
-[p. 208. Conclusion.] Auf dem Gebiete, das er sich so
-köstlich abgesteckt und mit lebendigen Gestalten auszufüllen
-gewusst, in einer Sprache, die fortdauert und niemals ganz
-veralten kann, kommen ihm darum auch nur sehr wenige
-nahe; in echt poetischem Realismus hat ihn selbst Shakspere
-nicht übertroffen. Dabei versteht er mitten in der Mannig¬
-[p. 209] faltigkeit seiner Darstellung, wie es der Dichter soll, Mass
-und Einheit inne zu halten. Das stimmt sehr gut zu seinem
-Benehmen gegenüber den grossen politischen und religiösen
-Fragen seiner Zeit, die ihn niemals in die Enge getrieben wie
-Gower oder in das entgegengesetze Extrem fortgerissen, über
-die er vielmehr, so weit wir davon urtheilen können, im
-eigenen Herzen sich völlig klar gewesen und sie daher
-objectiv, wie seine ganze Natur angelegt war, zu behandeln
-trachtete. Edel und reich ausgestattet wie er selber ist also
-auch die Leistung, die ihn unsterblich macht. Zwar darf er
-sich den wenigen Auserwählten, die den herrlichsten Lorbeer
-tragen, nicht ebenbürtig an die Seite stellen, aber den
-Ehrennamen: Vater der englischen Poesie trägt Niemand
-würdiger.</seg>
+          <seg type="editorial">[pp. 184-188. Chaucer's Life.]</seg>
+            
+          <seg type="editorial">[pp. 193-196. His early poems.]</seg>
+            
+          <seg type="editorial">[pp. 196-208. <hi rend="italic">The Canterbury Tales</hi>, a detailed account.]</seg>
+            
+          <seg><add>[p. 208. Conclusion.]</add> Auf dem Gebiete, das er sich so
+            köstlich abgesteckt und mit lebendigen Gestalten auszufüllen
+            gewusst, in einer Sprache, die fortdauert und niemals ganz
+            veralten kann, kommen ihm darum auch nur sehr wenige
+            nahe; in echt poetischem Realismus hat ihn selbst Shakspere
+            nicht übertroffen. Dabei versteht er mitten in der Mannigfaltigkeit
+            <note place="margin">[p. 209]</note>seiner Darstellung, wie es der Dichter soll, Mass
+            und Einheit inne zu halten. Das stimmt sehr gut zu seinem
+            Benehmen gegenüber den grossen politischen und religiösen
+            Fragen seiner Zeit, die ihn niemals in die Enge getrieben wie
+            Gower oder in das entgegengesetze Extrem fortgerissen, über
+            die er vielmehr, so weit wir davon urtheilen können, im
+            eigenen Herzen sich völlig klar gewesen und sie daher
+            objectiv, wie seine ganze Natur angelegt war, zu behandeln
+            trachtete. Edel und reich ausgestattet wie er selber ist also
+            auch die Leistung, die ihn unsterblich macht. Zwar darf er
+            sich den wenigen Auserwählten, die den herrlichsten Lorbeer
+            tragen, nicht ebenbürtig an die Seite stellen, aber den
+            Ehrennamen: Vater der englischen Poesie trägt Niemand
+            würdiger.</seg>
         </ab>
       </div>
     </body>

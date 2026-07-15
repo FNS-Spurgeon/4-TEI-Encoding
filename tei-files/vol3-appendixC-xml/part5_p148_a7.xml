@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1877, ff., Unknown. Englische Studien,</title>
+        <title>1877, ff., Unknown. Englische Studien.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -33,8 +33,8 @@
         <biblStruct>
           <analytic>
             <author>Unknown</author>
-            <date cert="high" when="1877, ff.">1877, ff.</date>
-            <title level="a">Englische Studien,</title>
+            <date cert="high" when="1877">1877, ff.</date>
+            <title level="a">Englische Studien.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,35 +83,34 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="148"/>
-        <ab type="imprint">1877, ff. Unknown. Englische Studien, Heilbronn, 1877-1900; Leipzig, 1900 to present. Quarterly. [In progress.]</ab>
+        
+        <ab type="imprint">1877, ff. <hi rend="italic">Englische Studien</hi>, Heilbronn, 1877-1900; Leipzig, 1900 to present. Quarterly. [In progress.]</ab>
+        
         <ab type="quotation">
-          <seg>[This periodical contains a large number of valuable
-Chaucer papers. In the Index (General-Register zu Band
-1-25, Leipzig, 1902), three and a quarter pages are taken up
-with references to articles and notes on Chaucer.
-Among the more important are the following:—
-Kölbing, E. Zu Chaucer's Cœcilien-legende, i, 215.
-Zu Chaucer. The Knightes Tale, ii, 528.
-Zu Chaucer’s Sir Thopas, xi, 495.
-Byron und Chaucer, xxi, 331.
-Zwei Bemerkungen zu Chaucer's C. Tales,
-xxiv, 341.
-Zu Chronologie Chaucer's Schriften, xvii, 189.
-Koch, J. Ein Beitrag zur Kritik Chaucers, i, 249, and see
-vii, 238, 162, etc.
-Brandl, A. Ueber einige historische Anspielungen in den
-Chaucer-dichtungen, xii, 161.
-Rambeau, A. Chaucer's ‘House of Fame' in seinem Ver¬
-hältniss zu Dante’s ‘Divina Commedia,’
-ten Brink, B. Zur Chronologie von Chaucer's Schriften,
-iii, 209.
-xvii, 1.
-Zwei Stellen in prolog der Canterbury Tales,
-xxiv, 464.
-Bischoff, O. Ueber zweisilbige Senkung und epische Cäsur
-bei Chaucer, xxiv, 353, XXV, 339.
-See, for a fuller list, Chaucer, by E. P. Hammond, 1908,
-p. 546.]</seg>
+          <seg type="editorial">[This periodical contains a large number of valuable
+            Chaucer papers. In the Index (General-Register zu Band
+            1-25, Leipzig, 1902), three and a quarter pages are taken up
+            with references to articles and notes on Chaucer.
+            <lb/>Among the more important are the following:—
+            <list>
+              <item>Kölbing, E. Zu Chaucer's Cœcilien-legende, i, 215.
+                <lb/>Zu Chaucer. The Knightes Tale, ii, 528.
+                <lb/>Zu Chaucer’s Sir Thopas, xi, 495.
+                <lb/>Byron und Chaucer, xxi, 331.
+                <lb/>Zwei Bemerkungen zu Chaucer's C. Tales, xxiv, 341.
+                <lb/>Zu Chronologie Chaucer's Schriften, xvii, 189.
+              </item>
+              
+              <milestone unit="page" n="149"/>
+              
+              <item>Koch, J. Ein Beitrag zur Kritik Chaucers, i, 249, and see vii, 238, 162, etc.</item>
+              <item>Brandl, A. Ueber einige historische Anspielungen in den Chaucer-dichtungen, xii, 161.</item>
+              <item>Rambeau, A. Chaucer's ‘House of Fame' in seinem Verhältniss zu Dante’s ‘Divina Commedia,’ iii, 209.</item>
+              <item>ten Brink, B. Zur Chronologie von Chaucer's Schriften, xvii, 1.</item>
+              <item>Zwei Stellen in prolog der Canterbury Tales, xxiv, 464.</item>
+              <item>Bischoff, O. Ueber zweisilbige Senkung und epische Cäsur bei Chaucer, xxiv, 353, XXV, 339.</item>
+            </list>
+            See, for a fuller list, <hi rend="italic">Chaucer</hi>, by E. P. Hammond, 1908, p. 546.]</seg>
         </ab>
       </div>
     </body>

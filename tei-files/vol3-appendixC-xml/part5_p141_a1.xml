@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1844, Fielder, Eduard.. Canterburysche Ezählungen,</title>
+        <title>1844, Eduard Fielder. Canterburysche Ezählungen.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/76677866">Fielder, Eduard.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/76677866">Fielder, Eduard</author>
             <date cert="high" when="1844">1844</date>
-            <title level="a">Canterburysche Ezählungen,</title>
+            <title level="a">Canterburysche Ezählungen.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,11 +82,12 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="141"/>
-        <ab type="imprint">1844. Fielder, E. Canterburysche Ezählungen, vol. i [no more published], Dessau, 1844.</ab>
+        
+        <ab type="imprint">1844. Fielder, E. <hi rend="italic">Canterburysche Ezählungen</hi>, vol. i [no more published], Dessau, 1844.</ab>
+        
         <ab type="quotation">
-          <seg>[With an introduction and notes. The Tales of the Knight,
-Miller, Reeve, Cook and Man of Law are translated into
-German verse.]</seg>
+          <seg type="editorial">[With an introduction and notes. The Tales of the Knight,
+            Miller, Reeve, Cook and Man of Law are translated into German verse.]</seg>
         </ab>
       </div>
     </body>

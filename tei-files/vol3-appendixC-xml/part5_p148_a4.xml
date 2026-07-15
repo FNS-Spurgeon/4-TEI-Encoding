@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27830093">Fedor Mamroth</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27830093">Mamroth, Fedor</author>
             <date cert="high" when="1872">1872</date>
             <title level="a">Geoffrey Chaucer, seine Zeit und seine Abhängigkeit von Boccaccio.</title>
           </analytic>
@@ -80,9 +80,10 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="148"/>
-        <ab type="imprint">1872. Mamroth, F. Geoffrey Chaucer, seine Zeit und seine Abhängigkeit von Boccaccio. Berlin. 1872.</ab>
+        <ab type="imprint">1872. Mamroth, F. <hi rend="italic">Geoffrey Chaucer, seine Zeit und seine Abhängigkeit von Boccaccio</hi>. Berlin. 1872.</ab>
+        
         <ab type="quotation">
-          <seg>[Of little value.]</seg>
+          <seg type="editorial">[Of little value.]</seg>
         </ab>
       </div>
     </body>

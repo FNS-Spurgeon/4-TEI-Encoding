@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1888, Siegfried Kunz. Das Verhältnis der Handschriften von Chaucer's "Legend of Good Women,"</title>
+        <title>1888, Siegfried Kunz. Das Verhältnis der Handschriften von Chaucer's "Legend of Good Women."</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/291145911118627060040">Siegfried Kunz</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/291145911118627060040">Kunz, Siegfried</author>
             <date cert="high" when="1888">1888</date>
-            <title level="a">Das Verhältnis der Handschriften von Chaucer's "Legend of Good Women,"</title>
+            <title level="a">Das Verhältnis der Handschriften von Chaucer's "Legend of Good Women."</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -82,7 +82,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="151"/>
-        <ab type="imprint">1888. Kunz, Siegfried. Das Verhältnis der Handschriften von Chaucer's "Legend of Good Women," Diss., Breslau.</ab>
+        
+        <ab type="imprint">1888. Kunz, Siegfried. <hi rend="italic">Das Verhältnis der Handschriften von Chaucer's</hi> "<hi rend="italic">Legend of Good Women</hi>," Diss., Breslau.</ab>
       </div>
     </body>
   </text>

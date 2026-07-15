@@ -3,7 +3,321 @@
   <component name="ChangeListManager">
     <list default="true" id="1e408f03-e2ce-49f0-a340-5c758aec5f9f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/csv2tei.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/csv2tei.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p107_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p107_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p107_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p107_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p108_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p108_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p10_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p10_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p111_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p111_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p112_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p112_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p113_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p113_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p113_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p113_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p114_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p114_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p115_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p115_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p116_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p116_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p117_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p117_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p117_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p117_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p119_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p119_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p11_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p11_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p11_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p11_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p120_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p120_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p12_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p15_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p15_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p15_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p15_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p15_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p15_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p15_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p15_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p17_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p17_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p17_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p17_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p19_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p19_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p19_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p19_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p19_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p19_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p1_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p1_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p1_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p1_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p1_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p1_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p1_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p1_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p20_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p21_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p21_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p21_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p21_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p21_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p21_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p22_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p22_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p22_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p22_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p23_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p23_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p25_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p25_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p27_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p27_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p28_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p28_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p28_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p28_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p28_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p28_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p28_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p28_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p29_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p29_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p29_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p29_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p29_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p29_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p30_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p30_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p30_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p30_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p30_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p30_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p31_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p31_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p32_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p32_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p33_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p33_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p34_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p34_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p35_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p35_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p35_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p35_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p36_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p36_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p36_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p36_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p37_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p37_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p37_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p37_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p37_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p37_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p38_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p38_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p39_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p39_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p3_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p3_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p3_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p3_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p41_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p41_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p41_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p41_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p41_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p41_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p41_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p41_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p42_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p42_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p42_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p42_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p42_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p42_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p43_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p43_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p43_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p43_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p43_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p43_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p43_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p43_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p44_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p44_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p48_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p48_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p48_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p48_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p49_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p49_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p49_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p49_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p49_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p49_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p51_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p51_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p51_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p51_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p51_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p51_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p51_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p51_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p52_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p52_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p52_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p52_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p53_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p53_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p53_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p53_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p53_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p53_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p53_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p53_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p54_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p54_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p55_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p55_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p55_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p55_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p56_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p56_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p56_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p56_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p56_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p56_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p56_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p56_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p57_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p57_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p57_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p57_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p59_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p60_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p60_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p60_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p60_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p60_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p60_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p61_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p61_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p61_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p61_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p62_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p62_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p63_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p63_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p63_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p63_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p63_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p63_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p65_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p65_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p65_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p65_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p65_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p65_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p66_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p66_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p66_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p66_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p66_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p66_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p67_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p67_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p67_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p67_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p67_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p67_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p68_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p68_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p70_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p70_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p71_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p71_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p72_a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p73_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p73_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p74_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p74_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p74_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p74_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p75_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p76_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p76_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p76_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p76_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p77_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p77_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p77_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p77_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p77_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p77_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p78_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p78_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p78_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p78_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p7_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p7_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p7_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p7_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p80_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p80_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p81_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p81_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p82_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p83_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p83_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p83_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p83_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p83_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p83_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p83_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p83_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p84_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p84_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p85_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p85_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p85_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p85_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p86_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p86_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p86_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p86_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p86_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p86_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p87_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p87_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p87_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p87_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p87_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p87_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p88_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p88_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p88_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p88_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p88_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p88_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p88_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p88_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p8_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p8_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p8_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p8_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p8_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p8_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p90_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p91_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p91_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p93_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p93_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p93_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p93_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p94_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p95_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p95_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p96_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p96_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p97_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p97_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p97_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p97_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p97_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p97_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p97_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p97_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p98_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p98_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p9_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p9_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p9_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1851-1875-xml/part3_p9_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p121_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p121_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p121_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p121_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p121_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p121_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p121_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p121_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p122_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p122_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p122_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p122_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p123_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p123_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p123_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p123_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p123_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p123_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p124_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p124_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p124_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p124_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p126_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p126_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p131_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p131_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p132_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p132_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p133_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p133_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p133_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p133_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p134_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p134_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p135_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p135_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p135_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p135_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p135_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p135_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p136_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p136_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p136_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p136_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p137_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p137_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p137_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p137_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p138_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p138_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p138_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p138_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p139_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p139_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p139_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p139_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p139_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p139_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p139_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p139_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p140_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p140_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p140_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p140_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p140_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p140_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p144_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p144_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p144_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p144_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p145_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p145_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p146_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p146_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p148_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p148_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p148_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p148_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p150_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p150_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p150_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p150_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p151_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p151_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p152_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol2-1876-1900-xml/part3_p152_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p141_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p141_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p141_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p141_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p142_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p142_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p142_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p142_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p143_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p143_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p143_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p143_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p143_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p143_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p143_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p143_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p144_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p144_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p144_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p144_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p144_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p144_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p145_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p145_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p145_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p145_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p145_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p145_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p146_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p146_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p147_a7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p148_a7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p149_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p149_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p149_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p149_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p149_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p149_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p150_a9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p151_a9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p152_a9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p153_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/vol3-appendixC-xml/part5_p153_a1.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,20 +342,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.csv2tei.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ToolWindow.Python Packages.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.TEI_Additions.executor": "Run",
+    "Python.csv2tei.executor": "Run",
+    "Python.pageLink_additions.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ToolWindow.Python Packages.ShowToolbar": "false",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,6 +389,7 @@
       <workItem from="1782743623258" duration="543000" />
       <workItem from="1783948842900" duration="429000" />
       <workItem from="1783949743534" duration="108000" />
+      <workItem from="1784105423073" duration="3058000" />
     </task>
     <servers />
   </component>
@@ -81,5 +398,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/4_TEI_Encoding$csv2tei.coverage" NAME="csv2tei Coverage Results" MODIFIED="1783949809544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/4_TEI_Encoding$TEI_Additions.coverage" NAME="TEI_Additions Coverage Results" MODIFIED="1784107650790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/4_TEI_Encoding$pageLink_additions.coverage" NAME="pageLink_additions Coverage Results" MODIFIED="1784108072210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
   </component>
 </project>

@@ -33,7 +33,7 @@
         <biblStruct>
           <analytic>
             <author>Unknown</author>
-            <date cert="high" when="1890, ff.">1890, ff.</date>
+            <date cert="high" when="1890">1890, ff.</date>
             <title level="a">Beiblatt zur Anglia.</title>
           </analytic>
           <monogr>
@@ -80,11 +80,13 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="151"/>
-        <ab type="imprint">1890, ff. Unknown. Beiblatt zur Anglia. [Full title] Mitteilungen aus dem gesammten gebiete der englischen sprache und litteratur. Monatschrift für den englischen unterricht... herausgegeben von Ewald Flügel, Halle. [In progress.]</ab>
+        
+        <ab type="imprint">1890, ff. <hi rend="italic">Beiblatt zur Anglia</hi>. [Full title] Mitteilungen aus dem gesammten gebiete der englischen sprache und litteratur. Monatschrift für den englischen unterricht . . . herausgegeben von Ewald Flügel, Halle. [In progress.]</ab>
+        
         <ab type="quotation">
-          <seg>[This contains reviews of books, and has many Chaucer
-articles and notes, as well as valuable lists of articles in
-reviews, etc.]</seg>
+          <seg type="editorial">[This contains reviews of books, and has many Chaucer
+            articles and notes, as well as valuable lists of articles in
+            reviews, etc.]</seg>
         </ab>
       </div>
     </body>

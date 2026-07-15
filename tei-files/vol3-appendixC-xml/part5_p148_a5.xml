@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/31986877">Gotthard Victor Lechler</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/31986877">Lechler, Gotthard Victor</author>
             <date cert="high" when="1873">1873</date>
             <title level="a">Johann von Wiclif und die Vorgeschichte der Reformation.</title>
           </analytic>
@@ -80,7 +80,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="148"/>
-        <ab type="imprint">1873. Lechler, Gotthard. Johann von Wiclif und die Vorgeschichte der Reformation. vol. i, pp. 408, 409, 453, 454; vol. ii, p. 4 note 2.</ab>
+        
+        <ab type="imprint">1873. Lechler, Gotthard. <hi rend="italic">Johann von Wiclif und die Vorgeschichte der Reformation</hi>. vol. i, pp. 408, 409, 453, 454; vol. ii, p. 4 note 2.</ab>
       </div>
     </body>
   </text>

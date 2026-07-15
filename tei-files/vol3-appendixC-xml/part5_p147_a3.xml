@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1867, Eduard Maetzner. Altenglische Sprachproben . . .</title>
+        <title>1867, Eduard Maetzner. Altenglische Sprachproben.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/41930160">Eduard Maetzner</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/41930160">Maetzner, Eduard</author>
             <date cert="high" when="1867">1867</date>
-            <title level="a">Altenglische Sprachproben . . .</title>
+            <title level="a">Altenglische Sprachproben.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,12 +80,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="147"/>
-        <ab type="imprint">1867. Mätzner, Eduard. Altenglische Sprachproben . . . unter Mitwirkung von Karl Goldbeck, Berlin. 1867, vol. i, part 1, pp.g 336-347. [For part 2 see below, 1869.]</ab>
+        
+        <ab type="imprint">1867. Mätzner, Eduard. <hi rend="italic">Altenglische Sprachproben</hi> . . . unter Mitwirkung von Karl Goldbeck, Berlin. 1867, vol. i, part 1, pp.g 336-347. [For part 2 see below, 1869.]</ab>
+        
         <ab type="quotation">
-          <seg>[pp. 336-338. Notes on Chaucer's life and work.
-pp. 338-343. The Wyf of Bathes Tale. 400 lines.
-pp. 344-346. The Romaunt of the Rose. ll. 2721-2966.
-p. 347. Rondel.  ‘Your two eyn will sle me sodenly.’]</seg>
+          <seg type="editorial">[pp. 336-338. Notes on Chaucer's life and work.
+            <lb/>pp. 338-343. <hi rend="italic">The Wyf of Bathes Tale</hi>. 400 lines.
+            <lb/>pp. 344-346. <hi rend="italic">The Romaunt of the Rose</hi>. ll. 2721-2966.
+            <lb/>p. 347. Rondel. ‘Your two eyn will sle me sodenly.’]</seg>
         </ab>
       </div>
     </body>

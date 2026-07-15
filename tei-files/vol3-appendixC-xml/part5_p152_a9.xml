@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/109941400">Lorenz Morsbach</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/109941400">Morsbach, Lorenz</author>
             <date cert="high" when="1896">1896</date>
             <title level="a">Mittelenglische Grammatik.</title>
           </analytic>
@@ -71,7 +71,7 @@
         <language ident="de">German</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#language"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -82,7 +82,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="152"/>
-        <ab type="imprint">1896. Morsbach, Lorenz. Mittelenglische Grammatik. Part I. Halle Chaucer).] (Sammlung kurzer grammatiken germanischer dialekte, No. VII).</ab>
+        
+        <ab type="imprint">1896. Morsbach, Lorenz. <hi rend="italic">Mittelenglische Grammatik</hi>. Part I. Halle (Sammlung kurzer grammatiken germanischer dialekte, No. VII).</ab>
       </div>
     </body>
   </text>

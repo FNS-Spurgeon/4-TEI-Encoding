@@ -32,7 +32,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/49265065">Hermann Paul</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/49265065">Paul, Hermann</author>
             <date cert="high" when="1898">1898</date>
             <title level="a">Grundriss der Germanischen Philologie.</title>
           </analytic>
@@ -82,12 +82,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="152"/>
-        <ab type="imprint">1898. Paul, Hermann. Grundriss der Germanischen Philologie. Strassburg, 3 vols. 1891-93, vol. ii, 1893, part i (2nd ed., 1897).</ab>
+        
+        <ab type="imprint">1898. Paul, Hermann. <hi rend="italic">Grundriss der Germanischen Philologie</hi>. Strassburg, 3 vols. 1891-93, vol. ii, 1893, part i (2nd ed., 1897).</ab>
+        
         <ab type="quotation">
-          <seg>[Contains articles on:—
-(i) Mittelenglishe Litteratur by A. Brandl, Chaucer, pp.
-(ii) Englische Metrik by J. Schipper (continual reference to
-672-682 (not of much value).</seg>
+          <seg type="editorial">[Contains articles on:—
+            <list>
+              <item>(i) Mittelenglishe Litteratur by A. Brandl, Chaucer, pp. 672-682 (not of much value).</item>
+              <item>(ii) Englische Metrik by J. Schipper (continual reference to Chaucer).]</item>
+            </list>
+          </seg>
         </ab>
       </div>
     </body>

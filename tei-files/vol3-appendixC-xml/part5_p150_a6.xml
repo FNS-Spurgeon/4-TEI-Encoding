@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1883-6, Adolf von Düring. Geoffrey Chaucer's Werke,</title>
+        <title>1883-6, Adolf von Düring. Geoffrey Chaucer's Werke.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/80666654">Adolf von Düring</author>
-            <date cert="high" when="1883-6">1883-6</date>
-            <title level="a">Geoffrey Chaucer's Werke,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/80666654">Düring, Adolf von</author>
+            <date cert="high" from="1883" to="1886">1883-6</date>
+            <title level="a">Geoffrey Chaucer's Werke.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,7 +71,7 @@
         <language ident="de">German</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#editionsCompleteWorks"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -82,12 +82,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="150"/>
-        <ab type="imprint">1883-6. Düring, Adolf von. Geoffrey Chaucer's Werke, 3 vols. Strassburg, 1883-86.</ab>
+        
+        <ab type="imprint">1883-6. Düring, Adolf von. <hi rend="italic">Geoffrey Chaucer's Werke</hi>, 3 vols. Strassburg, 1883-86.</ab>
+        
         <ab type="quotation">
-          <seg>[Vol. i, Hous of Fame, Legend of Good Women, Parle¬
-ment of Foules. Vols. ii and iii, the Canterbury Tales. In
-verse, with full critical remarks and appreciations, and some
-notes. No more was published.]</seg>
+          <seg type="editorial">[Vol. i, <hi rend="italic">Hous of Fame</hi>, <hi rend="italic">Legend of Good Women</hi>, <hi rend="italic">Parlement
+            of Foules</hi>. Vols. ii and iii, the <hi rend="italic">Canterbury Tales</hi>. In
+            verse, with full critical remarks and appreciations, and some
+            notes. No more was published.]</seg>
         </ab>
       </div>
     </body>

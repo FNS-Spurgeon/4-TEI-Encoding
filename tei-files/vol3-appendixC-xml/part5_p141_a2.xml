@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1845, Meyer, J.. [Article Chaucer in] Das grosse Conversations-Lexicon</title>
+        <title>1845, J. Meyer. [Article Chaucer in] Das grosse Conversations-Lexicon.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Meyer, J.</author>
+            <author cert="high" role="M">Meyer, J.</author>
             <date cert="high" when="1845">1845</date>
-            <title level="a">[Article Chaucer in] Das grosse Conversations-Lexicon</title>
+            <title level="a">[Article Chaucer in] Das grosse Conversations-Lexicon.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,73 +83,75 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="141"/>
-        <ab type="imprint">1845. Meyer, J. [Article Chaucer in] Das grosse Conversations-Lexicon für die gebildeten Stände. Hildburghausen, 1840-55, vol. vii, pt. ii, 1845, pp. 47-49.</ab>
+        
+        <ab type="imprint">1845. Meyer, J. [Article <hi rend="italic">Chaucer</hi> in] <hi rend="italic">Das grosse Conversations-Lexicon</hi> für die gebildeten Stände. Hildburghausen, 1840-55, vol. vii, pt. ii, 1845, pp. 47-49.</ab>
+        
         <ab type="quotation">
-          <seg>[p.47,
-col. 2]
-Chaucer, Geoffroy, der Vater der englischen Dichtkunst
-genannt. Wie eifrig bes. engl. Biographen über C.'s Lebens¬
-umstände auch nachgeforscht haben, so ist doch bis jetzt
-noch Vieles dunkel geblieben. Das J. 1328 wird gewöhul.
-als das seiner Geburt bezeichnet [etc., a full life, based
-on Leland, Godwin, the Testament of Love, etc.].
-[p. 48,
-col. 2]
-C.'s Werke sind in verschiedenen Handschriften aufbe¬
-wahrt, was ihre fortwährende Popularität bezeugt, und nach¬
-her häufig gedruckt worden. Eines der ersten Produkte von
-Caxtons Presse ist eine Ausgabe der Canterbury-Erzähl¬
-ungen.  ... Als Beweis von C.'s Popularität in Schottland
-mag gelten, dass eine der frühesten Arbeiten der schottischen
-Presse seine “Klage des schwarzen Ritters" war, die 1508
-von Chapman und Myllar... gedruckt wurde. [Thynne’s
-1532 edn., noted and Tyrwhitt's edn. of the C. Tales much
-praised, “ein Muster der Akkuratesse und kritischen
-Behandlung."]
-C.'s Verdienste als Dichter sind nicht gewöhnlicher Art,
-[p. 49,
-col.1]
-aber indem wir sie zu würdigen suchen, müssen wir das
-Zeitalter betrachten, in welchem er lebte und dichtete. C.
-musste die Sprache erst schaffen, in der er schrieb; auch in
-England herrschte die Unsitte, dass man am liebsten in
-fremden Zungen sprach und darüber die eigene Mutter¬
-sprache vernachlässigte... [an account of earlier English
-14th century poetry, Piers Plowman, Gower.] C. mag schon
-als Dichter bekannt gewesen seyn, als Langland seine Vi¬
-sionen schrieb, sein grösstes Werk fällt aber zwanzig Jahre
-später.
-Sein Hauptverdienst in Bezug auf die Versifikation
-besteht darin, dass er sie natürlicher, regelmässiger und
-gedrängter machte, indem er die Alliteration abschaffte
-und den unregelmässigen Alexandriner in eine Kunst¬
-gerechtere Form brachte. Sein Versmass, die zehn-und¬
-achtsylbige Zeile, ist fast von allen englischen Dichtern, von
-Spencer bis Byron, beibehalten worden.
-In C.'s Schriften fühlt man nicht nur seinen eigenen
-persönlichen Charakter und Geist, sondern auch den
-Einfluss seines Verkehrs mit der Welt. [His followers
-imitated his style and manner, but were quite unable to
-catch his spirit and character. It is noteworthy that C.
-translated many French and Italian works into English, but
-always in such a way that they had far more the character
-of original works than of translations.] Lebhafte Phantasie,
-Eleganz und Schönheit der Beschreibungen bezeichnen alle
-seine Werke; aber all die Anmuth und Schönheit seiner
-allegor. Schriften bleibt weit hinter seinem Talent zurück,
-das Leben der Menschen zu schildern, wie er es in den
-unsterblichen Canterbury-Erzählungen that. In diesem
-Werke... bringt er einen bunten Haufen allerhand
-" sündhaften Volkes" zusammen... [description of the O.
-[p. 49,
-Tales.]
-col. 2]
-Nichts übertrifft die Kunst, mit welcher die Lebensart
-u. die Eigenthümlichkeiten der Pilger in der Haupteinleitung
-geschildert sind. Jede einzelne Erzählung ist ein wahrer
-Schatz von Humor und ein Zeugniss genauester Kenntniss
-der menschlichen Natur; dieses Werk C.’s bleibt stets eine
-der schönsten Zierden der engl. Literatur.</seg>
+          <seg><note place="margin">[p. 47, col. 2]</note>Chaucer, Geoffroy, der Vater der englischen Dichtkunst
+            genannt. Wie eifrig bes. engl. Biographen über C.'s Lebensumstände
+            auch nachgeforscht haben, so ist doch bis jetzt
+            noch Vieles dunkel geblieben. Das J. 1328 wird gewöhul.
+            als das seiner Geburt bezeichnet <add>[etc., a full life, based
+            on Leland, Godwin, the Testament of Love, etc.]</add>.</seg>
+            
+          <seg><note place="margin">[p. 48, col. 2]</note>C.'s Werke sind in verschiedenen Handschriften
+            aufbewahrt, was ihre fortwährende Popularität bezeugt, und
+            nachher häufig gedruckt worden. Eines der ersten Produkte von
+            Caxtons Presse ist eine Ausgabe der Canterbury-Erzählungen. . . .
+            Als Beweis von C.'s Popularität in Schottland
+            mag gelten, dass eine der frühesten Arbeiten der schottischen
+            Presse seine “Klage des schwarzen Ritters" war, die 1508
+            von Chapman und Myllar . . . gedruckt wurde. <add>[Thynne’s
+            1532 edn., noted and Tyrwhitt's edn. of the C. Tales much
+            praised, “ein Muster der Akkuratesse und kritischen
+            Behandlung."]</add></seg>
+            
+          <seg><note place="margin">[p. 49, col.1]</note>C.'s Verdienste als Dichter sind nicht gewöhnlicher Art,
+            aber indem wir sie zu würdigen suchen, müssen wir das
+            Zeitalter betrachten, in welchem er lebte und dichtete. C.
+            musste die Sprache erst schaffen, in der er schrieb; auch in
+            England herrschte die Unsitte, dass man am liebsten in
+            fremden Zungen sprach und darüber die eigene Muttersprache
+            vernachlässigte . . . <add>[an account of earlier English
+            14th century poetry, Piers Plowman, Gower.]</add> C. mag schon
+            als Dichter bekannt gewesen seyn, als Langland seine
+            Visionen schrieb, sein grösstes Werk fällt aber zwanzig Jahre
+            später.</seg>
+            
+          <seg>Sein Hauptverdienst in Bezug auf die Versifikation
+            besteht darin, dass er sie natürlicher, regelmässiger und
+            gedrängter machte, indem er die Alliteration abschaffte
+            und den unregelmässigen Alexandriner in eine
+            
+            <milestone unit="page" n="142"/>
+            
+            Kunstgerechtere Form brachte. Sein Versmass, die zehn-und-
+            achtsylbige Zeile, ist fast von allen englischen Dichtern, von
+            Spencer bis Byron, beibehalten worden.</seg>
+            
+          <seg>In C.'s Schriften fühlt man nicht nur seinen eigenen
+            persönlichen Charakter und Geist, sondern auch den
+            Einfluss seines Verkehrs mit der Welt. <add>[His followers
+            imitated his style and manner, but were quite unable to
+            catch his spirit and character. It is noteworthy that C.
+            translated many French and Italian works into English, but
+            always in such a way that they had far more the character
+            of original works than of translations.]</add> Lebhafte Phantasie,
+            Eleganz und Schönheit der Beschreibungen bezeichnen alle
+            seine Werke; aber all die Anmuth und Schönheit seiner
+            allegor. Schriften bleibt weit hinter seinem Talent zurück,
+            das Leben der Menschen zu schildern, wie er es in den
+            unsterblichen Canterbury-Erzählungen that. In diesem
+            Werke . . . bringt er einen bunten Haufen allerhand
+            "sündhaften Volkes" zusammen . . . <add>[description of the O.
+            Tales.]</add></seg>
+            
+          <seg><note place="margin">[p. 49, col. 2]</note>Nichts übertrifft die Kunst, mit welcher die Lebensart
+            u. die Eigenthümlichkeiten der Pilger in der Haupteinleitung
+            geschildert sind. Jede einzelne Erzählung ist ein wahrer
+            Schatz von Humor und ein Zeugniss genauester Kenntniss
+            der menschlichen Natur; dieses Werk C.’s bleibt stets eine
+            der schönsten Zierden der engl. Literatur.</seg>
         </ab>
       </div>
     </body>

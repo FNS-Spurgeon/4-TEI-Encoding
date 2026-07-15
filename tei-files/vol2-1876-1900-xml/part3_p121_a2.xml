@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng?token=GHSAT0AAAAAAD6JFEDD7ZTYLUQNLFLI3IJI2QWZJSA" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p121_a2">
   <teiHeader>
     <fileDesc>
@@ -46,8 +46,8 @@
               <date>1925</date>
             </imprint>
             <biblScope unit="volume">2</biblScope>
-            <biblScope unit="part">I</biblScope>
-            <biblScope unit="page">121</biblScope>
+            <biblScope unit="part">III</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=447">121</biblScope>
           </monogr>
         </biblStruct>
       </sourceDesc>

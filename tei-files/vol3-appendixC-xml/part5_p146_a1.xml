@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1867, ويلهلم هيرتزبيرغ. Nachlese zu Chaucer</title>
+        <title>1867, Wilhelm Adolf Bogusław Hertzberg. Nachlese zu Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,9 +32,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/72153653">ويلهلم هيرتزبيرغ</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/72153653">Hertzberg, Wilhelm Adolf Bogusław</author>
             <date cert="high" when="1867">1867</date>
-            <title level="a">Nachlese zu Chaucer</title>
+            <title level="a">Nachlese zu Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -80,17 +80,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="146"/>
-        <ab type="imprint">1867. Hertzberg, Wilhelm. Nachlese zu Chaucer [in] Jahrbuch für romanische und englische Litteratur, Leipzig, 1867, Bd. viii, Heft 2, pp. 129-169.</ab>
+        
+        <ab type="imprint">1867. Hertzberg, Wilhelm. <hi rend="italic">Nachlese zu Chaucer</hi> [in] Jahrbuch für romanische und englische Litteratur, Leipzig, 1867, Bd. viii, Heft 2, pp. 129-169.</ab>
+        
         <ab type="quotation">
-          <seg>[Various points about Chaucer's life are discussed.
-Hertzberg disagrees with Mr. Bond’s theory that in the
-dream in the Book of the Duchesse John of Gaunt’s marriage
-to Blanche of Lancaster is commemorated. He criticises
-and praises Sandras’s ‘Étude,' which has just appeared, and
-Kissner’s Dissertation on Chaucer's relation to Italian litera¬
-ture (1867). He adds some remarks arising out of his own
-translation of Chaucer sent him by two German scholars,
-Herr Dr. Duroy of Hamburg, and Herr Pastor Carow.]</seg>
+          <seg type="editorial">[Various points about Chaucer's life are discussed.
+            
+            <milestone unit="page" n="147"/>
+            
+            Hertzberg disagrees with Mr. Bond’s theory that in the
+            dream in the Book of the Duchesse John of Gaunt’s marriage
+            to Blanche of Lancaster is commemorated. He criticises
+            and praises Sandras’s ‘Étude,' which has just appeared, and
+            Kissner’s Dissertation on Chaucer's relation to Italian literature
+            (1867). He adds some remarks arising out of his own
+            translation of Chaucer sent him by two German scholars,
+            Herr Dr. Duroy of Hamburg, and Herr Pastor Carow.]</seg>
         </ab>
       </div>
     </body>
