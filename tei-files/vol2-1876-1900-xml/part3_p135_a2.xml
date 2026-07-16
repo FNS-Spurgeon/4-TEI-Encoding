@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p135_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p135_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,7 +92,7 @@
             In Act i, sc. 3, the Pilgrims enter in twos and threes slowly
             assembling, the Merchant, Clerk, Doctor of Physick, etc.,
             all with appropriate music.
-            This opera, written for the Carl Rosa Company, was first
+            <lb/>This opera, written for the Carl Rosa Company, was first
             performed at Drury Lane, on Wednesday, April 23rd, 1884.]</seg>
         </ab>
       </div>

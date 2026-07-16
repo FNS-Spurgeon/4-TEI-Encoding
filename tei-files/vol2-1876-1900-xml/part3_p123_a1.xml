@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p123_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p123_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -83,7 +82,7 @@
       <div type="allusion">
         <milestone unit="page" n="123"/>
         
-        <ab type="imprint">1878. Chaucer, Geoffrey. Poetical Works of Chaucer, with poems formerly printed with his, or attributed to him. Edited, with a Memoir, by R. Bell. Revised edition. ... With a preliminary essay by W. W. Skeat. 4 vols. [A revised edition of that of 1854-6, q.v. above.]</ab>
+        <ab type="imprint">1878. Poetical Works of Chaucer, with poems formerly printed with his, or attributed to him. Edited, with a Memoir, by R. Bell. Revised edition. . . . With a preliminary essay by W. W. Skeat. 4 vols. [A revised edition of that of 1854-6, q.v. above.]</ab>
         
         <ab type="quotation">
           <seg type="editorial">[The introductory essay (vol. i, pp. 1-12) is concerned with

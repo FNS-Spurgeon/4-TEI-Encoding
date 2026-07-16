@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p146_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p146_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -121,10 +120,7 @@
               <item>II. Plowman’s Tale.</item>
               <item>III. Jack Upland.</item>
               <item>IV. Gower's Praise of Peace.</item>
-              <item>V. Hoccleve’s Letter of Cupid.</item>
-              
-              <milestone unit="page" n="147"/>
-              
+              <item>V. Hoccleve’s Letter of Cupid.<milestone unit="page" n="147"/></item>
               <item>VI. To the Kinge's most noble Grace / To the Lordes and Knightes of the Garter (Hoccleve).</item>
               <item>VII. Scogan’s Moral Ballade.</item>
               <item>VIII. Lydgate's Complaint of the Black Knight.</item>

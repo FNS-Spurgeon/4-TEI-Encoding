@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>List of authors cited by Spurgeon</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of
+            data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, text encoding and uploading in the database.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and
+          the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University
+          of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>List of authors cited by Spurgeon to build an index on the website. Each author's name is
+          extracted from its entry and compiled in this file.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <standOff>
+    <listPerson>
+      <person n="Arnold" xml:id="Arnold">
+        <name>Arnold, Matthew</name>
+      </person>
+      <person n="Braddon" xml:id="Braddon">
+        <name>Braddon, Mary Elizabeth</name>
+      </person>
+      <person n="Bright" xml:id="Bright">
+        <name>Bright, James Wilson</name>
+      </person>
+      <person n="Butler" xml:id="Butler">
+        <name>Butler, Samuel</name>
+      </person>
+      <person n="Chaucer" xml:id="Chaucer">
+        <name>Chaucer, Geoffrey</name>
+      </person>
+      <person n="Collins" xml:id="Collins">
+        <name>Collins, John Churton</name>
+      </person>
+      <person n="Coote" xml:id="Coote">
+        <name>Coote, Henry Charles</name>
+      </person>
+      <person n="Fagan" xml:id="Fagan">
+        <name>Fagan, Charles G.</name>
+      </person>
+      <person n="Fleay" xml:id="Fleay">
+        <name>Fleay, Frederick Gard</name>
+      </person>
+      <person n="Furnivall" xml:id="Furnivall">
+        <name>Furnivall, Frederick James</name>
+      </person>
+      <person n="Green" xml:id="Green">
+        <name>Green, John Richard</name>
+      </person>
+      <person n="Haweis" xml:id="Haweis">
+        <name>Haweis, Mary Eliza Joy</name>
+      </person>
+      <person n="Ker" xml:id="Ker">
+        <name>Ker, William Paton</name>
+      </person>
+      <person n="Kittredge" xml:id="Kittredge">
+        <name>Kittredge, George Lyman</name>
+      </person>
+      <person n="Koch" xml:id="Koch">
+        <name>Koch, John</name>
+      </person>
+      <person n="Lanier" xml:id="Lanier">
+        <name>Lanier, Sidney</name>
+      </person>
+      <person n="Lounsbury" xml:id="Lounsbury">
+        <name>Lounsbury, Thomas</name>
+      </person>
+      <person n="Manly" xml:id="Manly">
+        <name>Manly, John Matthews</name>
+      </person>
+      <person n="Marshall" xml:id="Marshall">
+        <name>Marshall, Isabel</name>
+      </person>
+      <person n="Meredith" xml:id="Meredith">
+        <name>Meredith, George</name>
+      </person>
+      <person n="Minto" xml:id="Minto">
+        <name>Minto, William</name>
+      </person>
+      <person n="Morris" xml:id="Morris">
+        <name>Morris, William</name>
+      </person>
+      <person n="Pitt-Taylor" xml:id="Pitt-Taylor">
+        <name>Pitt-Taylor, Frank</name>
+      </person>
+      <person n="Pollard" xml:id="Pollard">
+        <name>Pollard, Alfred William</name>
+      </person>
+      <person n="Poole" xml:id="Poole">
+        <name>Poole, Henry</name>
+      </person>
+      <person n="Skeat" xml:id="Skeat">
+        <name>Skeat, Walter William</name>
+      </person>
+      <person n="Stevenson" xml:id="Stevenson">
+        <name>Stevenson, Robert Louis</name>
+      </person>
+      <person n="Storr" xml:id="Storr">
+        <name>Storr, Francis</name>
+      </person>
+      <person n="Swinburne" xml:id="Swinburne">
+        <name>Swinburne, Algernon Charles</name>
+      </person>
+      <person n="Unknown" xml:id="Unknown">
+        <name>Unknown</name>
+      </person>
+      <person n="Ward" xml:id="Ward">
+        <name>Ward, Adolphus William</name>
+      </person>
+      <person n="À Beckett" xml:id="À-Beckett">
+        <name>À Beckett, Gilbert Arthur</name>
+      </person>
+    </listPerson>
+  </standOff>
+</TEI>

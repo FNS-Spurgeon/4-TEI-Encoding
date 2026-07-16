@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p139_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p139_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,19 +85,19 @@
         <ab type="imprint">1889. Bright, James W. <hi rend="italic">Review of Chaucer's Minor Poems</hi>, ed. W. W. Skeat (1888), [in] Modern Language Notes, Baltimore, June 1889, vol. iv, pp. 359-63.</ab>
         
         <ab type="quotation">
-          <seg><note rend="margin">[p. 359]</note> Dr. Furnivall has made an appeal for "somebody with
+          <seg><note place="margin">[p. 359]</note> Dr. Furnivall has made an appeal for "somebody with
             access to a large library to compile 'The Praise of Chaucer'—
             —all allusions to him from his own day to (say) Dryden, and
             the chief ones since" <add>[<hi rend="italic">Academy</hi>, Dec. 22, 1888]</add>. This
             appeal, it is hoped, will soon find a fitting response; for a
             history of opinion relating to Chaucer as a poet, which would
-            be made possible by such a collection of evidence, would con¬
-            stitute a novel and important adjunct to the history of English
+            be made possible by such a collection of evidence, would
+            constitute a novel and important adjunct to the history of English
             Poetry. Just as the characteristics of the dramatists of the
             Restoration Period may be understood by their treatment of
             the plays of Shakespeare, so the repute of Chaucer at any
             given time will serve to reveal much of the culture and of the
-            poetic fashions of that time.<note type="footnote">[For Dr. Furnivall's appeal, to which the present work is a response, see immediately above, 1888.]</note></seg>
+            poetic fashions of that time.<note type="footnote">Spurgeon's note: [For Dr. Furnivall's appeal, to which the present work is a response, see entry<ptr n="#450" target="part3_p138_a2.xml"/>.]</note></seg>
         </ab>
       </div>
     </body>

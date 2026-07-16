@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p137_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p137_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,7 +33,7 @@
           <analytic>
             <author cert="high" role="F" ref="http://viaf.org/viaf/957166959200447160007">Marshall, Isabel</author>
             <author cert="high" role="F" ref="http://viaf.org/viaf/394978">Porter, Lela</author>
-            <author cert="high" role="H" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
             <date cert="high" when="1887">1887</date>
             <title level="a">Ryme Index to the Manuscript Texts of Chaucer's Minor Poems.</title>
           </analytic>
@@ -83,7 +82,7 @@
       <div type="allusion">
         <milestone unit="page" n="137"/>
         
-        <ab type="imprint">1887. Marshall, Isabel, Porter, Lela, and Skeat, Walter William. <hi rend="italic">Ryme Index to the Manuscript Texts of Chaucer's Minor Poems</hi>. By Miss I. Marshall and Miss L. Porter. With an introduction and an appendix of ryme-indexes to some spurious poems ... by W. W. Skeat.<note type="footnote">[For use with the Parallel-Text edition, Chaucer Society, and reissued in 1889 for use with the One-Text edition.]</note></ab>
+        <ab type="imprint">1887. Marshall, Isabel, Porter, Lela, and Skeat, Walter William. <hi rend="italic">Ryme Index to the Manuscript Texts of Chaucer's Minor Poems</hi>. By Miss I. Marshall and Miss L. Porter. With an introduction and an appendix of ryme-indexes to some spurious poems . . . by W. W. Skeat.<note type="footnote">Spurgeon's note: [For use with the Parallel-Text edition, Chaucer Society, and reissued in 1889 for use with the One-Text edition.]</note></ab>
       </div>
     </body>
   </text>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p138_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p138_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +86,7 @@
         
         <ab type="quotation">
           <seg>Dr. Furnivall writes:
-              "May I appeal through you for two volunteer editors for
+              <lb/>"May I appeal through you for two volunteer editors for
               the Chaucer Society? . . . I want (1) somebody with access
               to a large library, to compile 'The Praise of Chaucer'—all
               allusions to him from his own day to (say) Dryden, and the
@@ -95,7 +94,7 @@
               an 'England in Chaucer’s Time' (1300-1400)—a better
               Godwin. . . . The 'England in Chaucer’s Time' would form
               a good foundation for an after 'History of England in the
-              Fourteenth Century'—a book much wanted."<note type="headnote">[The present work attempts to fulfil, and in some respects exceeds, the first of these ideals laid down by Dr. Furnivall.]</note></seg>
+              Fourteenth Century'—a book much wanted."<note type="headnote">Spurgeon's note: [The present work attempts to fulfil, and in some respects exceeds, the first of these ideals laid down by Dr. Furnivall.]</note></seg>
         </ab>
       </div>
     </body>

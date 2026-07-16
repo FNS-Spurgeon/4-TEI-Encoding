@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p133_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p133_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -103,13 +102,13 @@
               has undergone great decay and disintegration, so much so as
               to almost totally obscure the inscription, as reported by Neale
               in 1823 <add>[or rather by E. W. Brayley in his <hi rend="italic">History and
-              Antiquities of the Abbey Church of St. Peter</hi>, Westminster,
+              Antiquities of the Abbey Church of St. Peter, Westminster</hi>,
               illustrated by J. P. Neale, 1818-23, vol. ii, 1823, q.v. above]</add>.
               Fifty years' more disintegration followed with still further
               obscuration, when the writer closely scrutinized and cleansed
               the slab, discovering traces of all the letters but four.
               Without any attempt to strengthen the engraving, the lettering
-              was developed by painting all the remaining traces with gold¬
+              was developed by painting all the remaining traces with gold-
               coloured paint, and with the same pigment reproducing the
               four absent letters; and now the inscription of 1558 is quite
               distinct and perfectly durable.</seg>

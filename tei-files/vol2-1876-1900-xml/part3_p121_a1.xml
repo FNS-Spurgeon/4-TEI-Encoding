@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p121_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p121_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="121"/>
         
-        <ab type="imprint">1876. Haweis, Mary Eliza. <hi rend="italic">Chaucer for Children</hi> . . . illustrated with eight coloured pictures, and numerous woodcuts by the Author, 1877.</ab>
+        <ab type="imprint">1876. Haweis, Mary Eliza. <hi rend="italic">Chaucer for Children</hi> . . . illustrated with eight coloured pictures, and numerous woodcuts by the Author, 1877.<note type="footnote">Spurgeon's note: [Published late in 1876.]</note></ab>
                 
         <ab type="quotation">
           <seg type="editorial">[With a preface "To the Mother" on the reading and
@@ -93,9 +92,7 @@
             <hi rend="italic">Knightes</hi>, <hi rend="italic">Friers</hi>, <hi rend="italic">Clerkes</hi>, <hi rend="italic">Frankeleyns</hi> and <hi rend="italic">Pardoneres Tales</hi>,
             <hi rend="italic">Complaint to his Purse</hi>, <hi rend="italic">Two Rondeaux</hi> (<hi rend="italic">Your yën two</hi> and
             <hi rend="italic">Sin I fro Love</hi>), <hi rend="italic">Virelai</hi> and <hi rend="italic">Good Counsel</hi>, follow in original
-            and modernised form with connecting summary.]
-            <note type="footnote">Spurgeon's note: [Published late in 1876.]</note>
-          </seg>
+            and modernised form with connecting summary.]</seg>
         </ab>
       </div>
     </body>

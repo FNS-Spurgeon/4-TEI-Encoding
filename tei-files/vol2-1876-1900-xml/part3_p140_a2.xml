@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p140_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p140_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="140"/>
         
-        <ab type="imprint">1891. K[er], W[illiam] P[aton]. <hi rend="italic">Of Chaucer's Rosemounde, Balade to yᵉ Makeres</hi>, [in] The Oxford Magazine, April 29, 1891, vol ix, p. 305.<note type="footnote">[Occasioned by Professor Skeat's discovery of To Rosemounde.]</note></ab>
+        <ab type="imprint">1891. K[er], W[illiam] P[aton]. <hi rend="italic">Of Chaucer's Rosemounde, Balade to yᵉ Makeres</hi>, [in] The Oxford Magazine, April 29, 1891, vol ix, p. 305.<note type="footnote">Spurgeon's note: [Occasioned by Professor Skeat's discovery of <hi rend="italic">To Rosemounde</hi>.]</note></ab>
         
         <ab type="quotation">
           <seg>

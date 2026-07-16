@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p140_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p140_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,7 +85,7 @@
       <div type="allusion">
         <milestone unit="page" n="140"/>
         
-        <ab type="imprint">1891. Lounsbury, Thomas Raynsford. Studies in Chaucer: His Life and Writings. In three volumes, New York, 1891. [The London issue, 1892, is in B. M.].</ab>
+        <ab type="imprint">1891. Lounsbury, Thomas Raynsford. <hi rend="italic">Studies in Chaucer: His Life and Writings</hi>. In three volumes, New York, 1891. [The London issue, 1892, is in B. M.].</ab>
         
         <ab type="quotation">
               <seg type="editorial">[The eight chapters or "monographs" which make up the
@@ -199,7 +198,7 @@
               is not of them. Yet, whatever may be the rank we accord
               him among the writers of the world’s chief literatures, the
               position he holds in his own literature is one that can no
-              longer be shaken by criticism or disturbed by denial. . . .To
+              longer be shaken by criticism or disturbed by denial. . . . To
               one alone among the writers of our own literature is he
               inferior. Nor even by him has he been surpassed in every
               way. There are characteristics in which he has no superior,

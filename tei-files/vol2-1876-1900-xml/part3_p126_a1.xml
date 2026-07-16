@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p126_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p126_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -146,11 +145,11 @@
               Chaucer; at one time it is his liquid diction of which in these
               poets we feel the virtue, and at another time it is his fluid
               movement. And the virtue is irresistible.</seg>
-              <seg>[p. xxxiii] . . . I must yet find room for an example of Chaucer's
+              <seg><note place="margin">[p. xxxiii]</note> . . . I must yet find room for an example of Chaucer's
               virtue. . . . I feel disposed to say that a single line is enough
               to show the charm of Chaucer's verse; that merely one line
               like this—
-              <l>'O martyr souded<note><add>[Arnold's note:]</add> The French soudé; soldered, fixed fast.</note> in virginitee!'</l>
+              <lg><l>'O martyr souded<note>[Arnold's note:] The French soudé; soldered, fixed fast.</note> in virginitee!'</l></lg>
               has a virtue of manner and movement such as we shall not
               
               <milestone unit="page" n="128"/>
@@ -163,15 +162,19 @@
               verse well in our memory; let us take a stanza. It is from
               <hi rend="italic">The Prioress’s Tale</hi>, the story of the Christian child murdered
               in a Jewry—
-              <l>'My throte is cut unto my nekké-bone</l>
-              <l>Saidè this child, and as by way of kinde</l>
-              <l>I should have deyd, yea, longè time agone <add>[etc.]</add>.</l>
+              <lg>
+                <l>'My throte is cut unto my nekké-bone</l>
+                <l>Saidè this child, and as by way of kinde</l>
+                <l>I should have deyd, yea, longè time agone <add>[etc.]</add>.</l>
+              </lg>
               Wordsworth has modernised this Tale, and to feel how delicate
               and evanescent is the charm of verse, we have only to read
               Wordsworth's first three lines of this stanza after Chaucer's—
-              <l>'My throat is cut unto the bone, I trow,</l>
-              <l>Said this young child, and by the law of kind</l>
-              <l>I should have died, yea, many hours ago.'</l>
+              <lg>
+                <l>'My throat is cut unto the bone, I trow,</l>
+                <l>Said this young child, and by the law of kind</l>
+                <l>I should have died, yea, many hours ago.'</l>
+              </lg>
               The charm is departed. It is often said that the power of
               liquidness and fluidity in Chaucer's verse was dependent
               upon a free, a licentious dealing with language such as is now
@@ -202,7 +205,7 @@
               great classic of Christendom, the immortal poet who died
               eighty years before Chaucer,—Dante. The accent of such
               verse as
-              <l>"In la sua volontade è nostra pace . . ."<note>So quoted by Arnold; the original (<hi rend="italic">Paradiso</hi>, iii, 86) reads: E la sua volontate . . .</note></l>
+              <lg><l>"In la sua volontade è nostra pace . . ."<note>So quoted by Arnold; the original (<hi rend="italic">Paradiso</hi>, iii, 86) reads: E la sua volontate . . .</note></l></lg>
               is altogether beyond Chaucer's reach; we praise him, but we
               feel that this accent is out of the question for him. It may be
               said that it was necessarily out of the reach of any poet in
@@ -248,7 +251,7 @@
               advance, in poetry, beyond all its predecessors. Dryden
               regards as not seriously disputable the opinion 'that the
               sweetness of English verse was never understood or practised
-              by our fathers.'<note><add>[Note (unpublished) added by Dr. Furnivall :]</add> We must recollect that, till
+              by our fathers.'<note>[Note (unpublished) added by Dr. Furnivall :] We must recollect that, till
               Tyrwhitt, no decent edition of the Canterbury Tales was accessible, and till Richard
               Morris, none of the Minor Poems. So long as printers and editors disregarded
               Chaucer's final e and printed as his, pieces that he never wrote, it was impossible

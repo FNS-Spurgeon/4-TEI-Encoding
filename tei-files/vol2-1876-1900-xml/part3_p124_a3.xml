@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p124_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p124_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -112,7 +111,7 @@
             disposition, and in part springing from them, are his keen sense
             of the ridiculous and the power of satire which he has at his
             command. His humour has many varieties, ranging from
-            the refined and half-melancholy irony of the House of Fame
+            the refined and half-melancholy irony of the <hi rend="italic">House of Fame</hi>
             <note place="margin">[p. 180]</note> to the ready wit of the sagacious uncle of Cressid, the 
             burlesque fun of the inimitable <hi rend="italic">Nun's Priest's Tale</hi>, and the very
             gross salt of the <hi rend="italic">Reeve</hi>, the <hi rend="italic">Miller</hi>, and one or two others. . . .
