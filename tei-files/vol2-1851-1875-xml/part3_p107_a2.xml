@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p107_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p107_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -125,7 +124,7 @@
               
               <lg>
                 <l>Thou did drive from my view "the lewd Cuckoo";</l>
-                <l>And I was thy singer that whole May long,*<note type="footnote">* The Cuckoo and the Nightingale, ll. 226-30.</note></l>
+                <l>And I was thy singer that whole May long,<note type="footnote" n="*">The Cuckoo and the Nightingale, ll. 226-30.</note></l>
                 <l>Time since has grown grey, but I love thee to-day,</l>
                 <l>And I solace my soul with thy song.</l>
               </lg>

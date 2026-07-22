@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p75_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p75_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,7 +33,7 @@
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/49275505">Collier, John Payne</author>
             <date cert="high" when="1865">1865</date>
-            <title level="a">A Bibliographical and Critical Account of the Rarest Books in the English Language,</title>
+            <title level="a">A Bibliographical and Critical Account of the Rarest Books in the English Language.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -71,8 +70,8 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#bibliography" target="#"/>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#others" target="#bibliography"/>
+        <catRef scheme="#criticism" target="#prose"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

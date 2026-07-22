@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p27_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p27_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -103,7 +102,7 @@
             was even a custom for the bands of pilgrims to be accompanied
             by hired minstrels and story-tellers. . .</seg>
             
-          <seg type="editorial"><lb/>[These marvellous tales gave rise to the proverbial expression
+          <seg type="editorial">[These marvellous tales gave rise to the proverbial expression
             'a Canterbury Tale,' probably now extinct in England, but
             surviving in America in the exclamation 'What a Canterbury!'
             <lb/>The tales were in other cases probably related at the halts;

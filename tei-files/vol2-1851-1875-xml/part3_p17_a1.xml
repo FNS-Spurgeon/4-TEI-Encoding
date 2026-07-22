@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p17_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p17_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -98,15 +97,15 @@
             ë: Emperourë’s; sotë. And I should prefix to the whole a
             very plain and short statement of the usage in these points.
             I suppose there is not much doubt about a few general rules,
-            though Chaucer did not regularly observe them, as, for ex¬
-            ample, the use of the ĕ in adjectives after definite articles,
+            though Chaucer did not regularly observe them, as, for
+            example, the use of the ĕ in adjectives after definite articles,
             which it seems to me he omits occasionally, with French
             adjectives, as if it was a matter of ear rather than rule. So
-            also with such Saxon dissyllables, as tymĕ, which is not in¬
-            variably a dissyllable, I think. And yet it would be worth
+            also with such Saxon dissyllables, as tymĕ, which is not
+            invariably a dissyllable, I think. And yet it would be worth
             while giving a list of such words as are liable to be dissyllables.
-            However, ere this, I daresay you have settled all these pre¬
-            liminaries. I don’t quite see what you should do about the
+            However, ere this, I daresay you have settled all these
+            preliminaries. I don’t quite see what you should do about the
             Miller's and the Reve's Tales. I think explanation might be
             <note place="margin">[p. 229]</note> a little retrenched there, so as to leave them in the "decent
             obscurity of a learned language.

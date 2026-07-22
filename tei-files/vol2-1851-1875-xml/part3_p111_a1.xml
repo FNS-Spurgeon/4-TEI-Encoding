@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p111_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p111_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -130,8 +129,11 @@
             in our literature, in Chaucer's picture of the cock in the
             "Nun’s Priests Tale." The widow keeps in her yard a famous
             stock of poultry,
-            <l>"In which she had a cock, hight Chaunticlere</l> <add>[to]</add>
-            <l>And lik the burnischt gold was his colour."</l></seg>
+            <lg>
+              <l>"In which she had a cock, hight Chaunticlere <add>[to]</add></l>
+              <l>And lik the burnischt gold was his colour."</l>
+            </lg>
+          </seg>
             
           <seg><note place="margin">[p. 274]</note> This simple childlikeness and intensity of Chaucer . . .
             are the first necessity of a poetic nature, . . . This is the first

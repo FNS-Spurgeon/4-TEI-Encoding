@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p61_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p61_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -139,7 +138,7 @@
             vhich the text is now loaded are undoubtedly of later origin,
             and there is no reason why, (if we are allowed only to take for
             granted that Chaucer had an ear, and meant to write good
-            metre,‡)<note type="footnote"><note place="margin">[p.449 n.]</note> ‡ [Child’s note.] Of course, unless Chaucer wrote good metre, there
+            metre,)<note type="footnote" n="‡"><note place="margin">[p.449 n.]</note>[Child’s note.] Of course, unless Chaucer wrote good metre, there
             is an end to all inquiry into the forms of his language. Nothing can
             be more absurd than Dr. Nott’s theory upon this point. . . or more
             <note place="margin">[p. 450 n.]</note> just than Tyrwhitt’s remarks. . . Is it not surprising. . . that a man

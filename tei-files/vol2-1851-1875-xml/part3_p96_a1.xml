@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p96_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p96_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -108,7 +107,7 @@
           <seg><note place="margin">[p. 439]</note> <add>[L’Envoi. The poet addresses his book :]</add>
             <lg>
               <l>Nay, let it pass, and hearken! Hast thou heard</l>
-              <l>That therein*<note type="footnote">*i.e. in "The Land of Matters Unforgot."</note> I believe I have a friend,</l>
+              <l>That therein<note type="footnote" n="*">i.e. in "The Land of Matters Unforgot."</note> I believe I have a friend,</l>
               <l>Of whom for love I may not be afeard?</l>
               <l>It is to him indeed I bid thee wend . . .</l>
             </lg>

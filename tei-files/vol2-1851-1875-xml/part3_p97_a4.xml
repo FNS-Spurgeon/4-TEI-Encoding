@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p97_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p97_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -100,10 +99,10 @@
             241-57; The Vowels, pp. 258-307; The Consonants, pp.
             308-17; On the pronunciation of e final in the 14th
             century [its use proved by rhymes from the Harl. MS.;
-            table of rules, p. 342], pp. 318-42; F. J. Child’s Obser¬
-            vations on the language of Chaucer and Gower [q.v. above,
-            1862], pp. 342-97; Chaucer’s pronunciation and ortho¬
-            graphy [with a table of probable sounds of the letters],
+            table of rules, p. 342], pp. 318-42; F. J. Child’s
+            Observations on the language of Chaucer and Gower [q.v. above,
+            1862], pp. 342-97; Chaucer’s pronunciation and
+            orthography [with a table of probable sounds of the letters],
             pp. 397-404. Part iii, 1871, chap. vii, 'Illustrations of
             the Pronunciation of English during the 14th century,'
             pp. 633-742: Chaucer, pp. 633-725: Critical text of
@@ -115,8 +114,8 @@
             Canterbury Tales [the Society’s six texts and MS. Harl.
             7334], pp. 634-56; Treatment of final e in the critical
             text, pp. 646-8; Metrical peculiarities of Chaucer, pp. 648-9;
-            Chaucer’s treatment of French words, pp. 650-1; Penn¬
-            sylvania German the analogue of Chaucer’s English, pp.
+            Chaucer’s treatment of French words, pp. 650-1;
+            Pennsylvania German the analogue of Chaucer’s English, pp.
             652-63; F. W. Gesenius on the language of Chaucer,
             pp. 664-71; M. Rapp on the pronunciation of Chaucer,
             pp. 672-7; Instructions for reading the phonetic transcript

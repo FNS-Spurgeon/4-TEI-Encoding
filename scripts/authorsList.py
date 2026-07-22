@@ -1,7 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 
-list_folder = "../tei-files/vol2-1876-1900-xml"
+list_folder = "../tei-files/vol2-1851-1875-xml"
 authors_xml = "../tei-files/authors.xml"
 list_author = []
 

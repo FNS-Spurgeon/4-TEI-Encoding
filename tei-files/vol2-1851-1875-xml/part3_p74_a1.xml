@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p74_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p74_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -116,7 +115,7 @@
             Chaucer he said : "This portrait, dight with heraldry, has as
             much within it as a vast number of the so-called commentaries
             of the Bible."
-              <note type="footnote"><lb/>Note in Spurgeon: [It is obvious from the phrasing alone that this story is untrue as it stands. The whole book is full of equal and even greater absurdities. But it may be based on some real expression of regret on Pater's part at his ignorance of Chaucer, and is perhaps worth quoting on that account. <lb/>If Pater was "a Tutor of Oxford" at the time, it must have been in or after 1864, when he took his Fellowship at Brasenose. <lb/>Mr. Jackson had inherited Charles Lamb's library, and this may have been the copy mentioned above, 1823. He also (Wright, vol. ii, p. 180) owned, and shewed to Pater, Blake's original oil-sketch for the Canterbury Pilgrims.]</note>
+              <note type="footnote">Note in Spurgeon: [It is obvious from the phrasing alone that this story is untrue as it stands. The whole book is full of equal and even greater absurdities. But it may be based on some real expression of regret on Pater's part at his ignorance of Chaucer, and is perhaps worth quoting on that account. <lb/>If Pater was "a Tutor of Oxford" at the time, it must have been in or after 1864, when he took his Fellowship at Brasenose. <lb/>Mr. Jackson had inherited Charles Lamb's library, and this may have been the copy mentioned above, 1823. He also (Wright, vol. ii, p. 180) owned, and shewed to Pater, Blake's original oil-sketch for the Canterbury Pilgrims.]</note>
           </seg>
         </ab>
       </div>

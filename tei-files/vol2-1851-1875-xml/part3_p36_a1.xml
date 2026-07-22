@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p36_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p36_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -103,9 +102,9 @@
             and language and a reprint of an accented passage from Bell.]</seg>
             
           <seg type="editorial"><note place="margin">[pp. 256-9]</note> [Further quotations from De Quincey, Alexander Smith,
-            Camden, Elizabeth B. Browning, Coleridge, Dryden, Fitz¬
-            Gerald, Knight, Hippisley, and Bell, with a running com¬
-            mentary on the <hi rend="italic">Canterbury Tales</hi>, <hi rend="italic">Troilus</hi> and certain of
+            Camden, Elizabeth B. Browning, Coleridge, Dryden,
+            FitzGerald, Knight, Hippisley, and Bell, with a running
+            commentary on the <hi rend="italic">Canterbury Tales</hi>, <hi rend="italic">Troilus</hi> and certain of
             the minor poems. <hi rend="italic">Chaucer's Dream</hi> (<hi rend="italic">The Isle of Ladies</hi>) is
             considered genuine.]</seg>
         </ab>

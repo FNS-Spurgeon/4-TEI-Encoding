@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p21_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p21_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -83,7 +82,7 @@
       <div type="allusion">
         <milestone unit="page" n="21"/>
         
-        <ab type="imprint">[c. 1855?] Dixon, Richard Watson. A Wedding Scene from Chaucer.</ab>
+        <ab type="imprint">[c. 1855?] Dixon, Richard Watson. <hi rend="italic">A Wedding Scene from Chaucer</hi>.</ab>
         
         <ab type="quotation">
           <seg type="editorial">[A painting, the only one of Dixon's that survives, according

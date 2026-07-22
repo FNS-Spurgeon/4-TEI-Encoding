@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p108_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p108_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -104,8 +103,8 @@
             
             <milestone unit="page" n="109"/>
             
-            poet, without knowing it, who did not waste time in consider¬
-            ing whether his age were good or bad, but quietly taking it for
+            poet, without knowing it, who did not waste time in considering
+            whether his age were good or bad, but quietly taking it for
             granted as the best that ever was or ever could be for him,
             has left us such a picture of contemporary life as no man ever
             painted. †A perpetual fountain of good sense,' Dryden calls
@@ -168,8 +167,10 @@
             it is with a quiet intensity of his own, that comes in as it
             were by accident. . . .
             <lb/>Pandarus, looking at Troïlus,
-            <l>'Took up a light and found his countenance</l>
-            <l>As for to look upon an old romance.'</l>
+            <lg>
+              <l>'Took up a light and found his countenance</l>
+              <l>As for to look upon an old romance.'</l>
+            </lg>
             With Chaucer it is always the thing itself and not the
             description of it that is the main object. His picturesque bits
             are incidental to the story, glimpsed in passing; they never

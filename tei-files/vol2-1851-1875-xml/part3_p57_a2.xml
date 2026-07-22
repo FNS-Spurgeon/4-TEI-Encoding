@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p57_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p57_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +86,7 @@
         
         <ab type="quotation">
           <seg>Milton. Frequently do I read the <hi rend="italic">Canterbury Tales</hi>, and
-            with pleasure undiminished.†<note type="editorial">† [Landor's note:] A Bachelor of Arts, a Mr. Pycroft, without any
+            with pleasure undiminished.<note type="editorial" n="†">[Landor's note:] A Bachelor of Arts, a Mr. Pycroft, without any
             authority, classes W. S. Landor with Byron and Wordsworth, as holding
             Chaucer cheap. Let this <hi rend="italic">Conversation</hi> indicate the contrary. There is
             one art-namely, the ars poctica—in which the Bachelor is unlikely to

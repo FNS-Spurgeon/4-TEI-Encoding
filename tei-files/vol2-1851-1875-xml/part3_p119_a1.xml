@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p119_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p119_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +89,7 @@
           <seg type="editorial">[The biography of Chaucer is based on the latest
             discoveries of Furnivall and other scholars, as well as on the
             older material. Minto thinks the idea of Chaucer's "hopeless
-            passion" in early life (based on the Complaint of Pity,
+            passion" in early life (based on the <hi rend="italic">Complaint of Pity</hi>,
             etc.) has been made too much of. A comparison between
             Chaucer and Shakespeare in their knowledge of men is
             made, p. 17. Ten Brink’s division of Chaucer’s work into

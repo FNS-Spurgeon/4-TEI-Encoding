@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p67_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p67_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,7 +83,7 @@
         <ab type="imprint">1863-64. Chambers, Robert. <hi rend="italic">The Book of Days</hi>, a Miscellany of Popular Antiquities in connection with the Calendar, edited by R. Chambers, 2 vols ; vol. i, 1863, pp. 53, 220, 339, 472; vol ii, 1864, pp. 493-4.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. i, p. 58]</note> [Chaucer's allusion to the Man in the Moon, <hi rend="italic">Troilus</hi>, i, 1024.]</seg>
+          <seg type="editorial"><note place="margin">[vol. i, p. 53]</note> [Chaucer's allusion to the Man in the Moon, <hi rend="italic">Troilus</hi>, i, 1024.]</seg>
             
           <seg><note place="margin">[p. 220]</note> In the middle ages, solemn betrothal by means of the
             ring often preceded matrimony, and was sometimes adopted
@@ -94,7 +93,7 @@
             was engraved, and receiving one from him in return.</seg>
             
           <seg type="editorial"><note place="margin">[p. 472]</note> [Reference made to Chaucer being often called
-            poetlaureate, to the offices held by him, and to several curious grants of which he was the recipient.]</seg>
+            poet-laureate, to the offices held by him, and to several curious grants of which he was the recipient.]</seg>
             
           <seg type="editorial"><note place="margin">[vol. ii, p. 493-4]</note> [Biographical notice.]</seg>
         </ab>

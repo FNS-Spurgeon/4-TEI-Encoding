@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p98_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p98_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -74,8 +73,8 @@
         <catRef scheme="#criticism" target="#evolution"/>
         <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#importationMinimised"/>
-        <catRef scheme="#manuscripts" target="#manuscripts"/>
         <catRef scheme="#works" target="#editionsEnglish"/>
+        <catRef scheme="#others" target="#manuscripts"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -252,9 +251,9 @@
             
           <seg><note place="margin">[p. 10]</note> The first editor of any part of Chaucer's works who
             displayed anything like the spirit and power of genuine criticism
-            was undoubtedly Dr. Thomas Morell, best remembered per¬
-            haps by his learned 'Thesaurus' . . . Dr. Morell was, how¬
-            ever, an English as well as a classical scholar, having edited
+            was undoubtedly Dr. Thomas Morell, best remembered
+            perhaps by his learned 'Thesaurus' . . . Dr. Morell was,
+            however, an English as well as a classical scholar, having edited
             Spenser, and commenced the publication of the 'Canterbury
             Tales' on a thoroughly complete and satisfactory plan. The
             only matter of regret is that he did not carry out his admirable
@@ -273,11 +272,11 @@
             to edit Chaucer Dr. Morell took a just and comprehensive
             view of the work to be done, and that he possessed many
             of the higher qualities essential to its successful execution.
-            His plan includes minute attention both to text and com¬
-            mentary; and in dealing with the text 'he set out,' says
+            His plan includes minute attention both to text and
+            commentary; and in dealing with the text 'he set out,' says
             Tyrwhitt, 'upon the only rational plan, that of collating the
-            best manuscripts and selecting from them the genuine read¬
-            ings.' <add>[Then follow comments and quotations on Morell and
+            best manuscripts and selecting from them the genuine
+            readings.' <add>[Then follow comments and quotations on Morell and
             Urry’s views of Chaucer’s versification.]</add></seg>
             
           <seg>[p. 12] Tyrwhitt comes next as an editor of Chaucer, and his
@@ -331,8 +330,8 @@
             
             satisfactory text of Chaucer, we must give up the printed editions,
             and fall back upon the manuscripts; and that instead of
-            bundling them altogether, we must pick out one best manu¬
-            script which also is one of those nearest to Chaucer's time.
+            bundling them altogether, we must pick out one best
+            manuscript which also is one of those nearest to Chaucer's time.
             The latter circumstance is absolutely necessary, if we would
             reproduce the language and versification of the author. At
             the same time it cannot but be acknowledged that the earliest
@@ -468,7 +467,7 @@
             
           <seg type="editorial">[An examination of Morris’s Glossary follows.]</seg>
             
-          <seg><note place="margin">[p. 40]</note> This <add>[comparison with Piers Plowman]</add> points to an
+          <seg><note place="margin">[p. 40]</note> This <add>[comparison with <hi rend="italic">Piers Plowman</hi>]</add> points to an
             important means of interpreting Chaucer’s language which has not
             as yet been turned to anything like adequate account. We
             refer to the critical examination of the writings of his

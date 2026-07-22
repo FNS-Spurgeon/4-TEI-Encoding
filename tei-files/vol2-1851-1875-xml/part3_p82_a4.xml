@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p82_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p82_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,9 +86,8 @@
           <seg>Chaucer certainly meant the Pardonere to be a humbug,
             living on the credulity of the people. After describing the
             sham reliques <add>[sic]</add> he carried, he says:
-            <l>But with these relikes whawne <add>[sic]</add> that he found</l>
-            <add>[and five following lines.]</add>
-            And the worthy Watts (founder of the charity <add>[the Refuge for
+            <l>But with these relikes whawne <add>[sic]</add> that he found <add>[and five following lines.]</add></l>
+            <lb/>And the worthy Watts (founder of the charity <add>[the Refuge for
             Poor Travellers]</add>) may have had these very lines in his mind
             when he excluded such a man.</seg>
         </ab>

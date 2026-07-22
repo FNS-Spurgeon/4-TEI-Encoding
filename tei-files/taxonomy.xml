@@ -21,7 +21,7 @@
                      <catDesc>Evolutions</catDesc>
                   </category>
                   <category xml:id="life-records">
-                     <catDesc>Life-records</catDesc>
+                     <catDesc>Life records</catDesc>
                   </category>
                   <category xml:id="general-accounts">
                      <catDesc>General Accounts of Chaucer</catDesc>
@@ -56,7 +56,7 @@
                         <catDesc>Education</catDesc>
                      </category>
                      <category xml:id="diplomatic">
-                        <catDesc>His diplomatic and otger journeys abroad</catDesc>
+                        <catDesc>His diplomatic and other journeys abroad</catDesc>
                      </category>
                      <category xml:id="appointments">
                         <catDesc>Appointments, annuities, grants</catDesc>
@@ -622,16 +622,6 @@
                   </category>
                </category>
             
-               <!-- VI-Manuscripts -->
-               <category xml:id="manuscripts">
-                  <catDesc>Manuscripts</catDesc>
-               </category>
-               
-               <!-- VII-Bibliography -->
-               <category xml:id="bibliography">
-                  <catDesc>Bibliography</catDesc>
-               </category>
-               
                <!-- VIII-Works -->
                <category xml:id="works">
                   <catDesc>Works</catDesc>
@@ -868,14 +858,25 @@
                   </category>
                </category>
                
-               <!-- IX-Chaucer a Character in Fiction and Drama -->
-               <category xml:id="characterFictionDrama">
-                  <catDesc>Chaucer a Character in Fiction and Drama</catDesc>
-               </category>
-               
-               <!-- X-Book Titles taken from C. -->
-               <category xml:id="bookTitles">
-                  <catDesc>Book Titles taken from C.</catDesc>
+               <!-- Other themes -->
+               <category xml:id="others">
+                  <catDesc>Other themes</catDesc>
+                  <!-- VI-Manuscripts -->
+                  <category xml:id="manuscripts">
+                     <catDesc>Manuscripts</catDesc>
+                  </category>
+                  <!-- VII-Bibliography -->
+                  <category xml:id="bibliography">
+                     <catDesc>Bibliography</catDesc>
+                  </category>
+                  <!-- IX-Chaucer a Character in Fiction and Drama -->
+                  <category xml:id="characterFictionDrama">
+                     <catDesc>Chaucer a Character in Fiction and Drama</catDesc>
+                  </category>
+                  <!-- X-Book Titles taken from C. -->
+                  <category xml:id="bookTitles">
+                     <catDesc>Book Titles taken from Chaucer</catDesc>
+                  </category>
                </category>
             </taxonomy>
          </classDecl>

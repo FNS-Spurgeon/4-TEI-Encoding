@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p87_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p87_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -83,7 +82,7 @@
       <div type="allusion">
         <milestone unit="page" n="87"/>
         
-        <ab type="imprint">1867-71. Bradshaw, Henry. <hi rend="italic">The Skeleton of Chaucer's Canterbury Tales: an attempt to distinguich the several fragments of the work as left by the author</hi> (Memoranda, no. iv), preface dated 1867, title page 1868, and postscript 1871. (Collected Papers, 1889, pp. 102-48.)</ab>
+        <ab type="imprint">1867-71. Bradshaw, Henry. <hi rend="italic">The Skeleton of Chaucer's Canterbury Tales: an attempt to distinguish the several fragments of the work as left by the author</hi> (Memoranda, no. iv), preface dated 1867, title page 1868, and postscript 1871. (Collected Papers, 1889, pp. 102-48.)</ab>
         
         <ab type="quotation">
           <seg type="editorial">[This is the only printed result of Bradshaw's Chaucer
@@ -95,8 +94,8 @@
             advertised as shortly to be published (q. v. above, 1865); of
             this the introductory pages alone were found among his papers
             (see G. W. Prothero, <hi rend="italic">A Memoir of Henry Bradshaw</hi>, 1888,
-            p. 347). This memorandum was, it seems, printed as a tenta¬
-            tive preparation for the larger work. But in the postscript of
+            p. 347). This memorandum was, it seems, printed as a
+            tentative preparation for the larger work. But in the postscript of
             1871 Bradshaw bids farewell to Chaucer work, the Library
             claiming his time.
             <lb/>He divides the <hi rend="italic">Canterbury Tales</hi> into twelve fragments, and

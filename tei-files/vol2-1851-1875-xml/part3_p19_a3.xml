@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p19_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p19_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,13 +91,12 @@
             <milestone unit="page" n="20"/>
             
             <lg>
-              <head><lb/>OF THE CRYSTAL PALACE.
-              <lb/>CHAUCER'S DREAM</head>
+              <head>CHAUCER'S DREAM<lb/>OF THE CRYSTAL PALACE.
+              </head>
               
               <l>'As I slept I dreamt I was</l>
               <l>Within a temple made of glass . . .</l>
-              <l>Of metal that shone out full clear. . . .</l>
-              <note type="footnote">Note in Spurgeon: [For a parallel see above, 1851, Notes and Queries, May 10.]</note>
+              <l>Of metal that shone out full clear. . . .<note type="footnote">Note in Spurgeon: [For a parallel see above, 1851, Notes and Queries, May 10.]</note></l>
               <note place="right">[<hi rend="italic">Hous of Fame</hi>, ll. 119-27, and other passages strung together.]</note>
             </lg>
           </seg>

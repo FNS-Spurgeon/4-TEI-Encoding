@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p29_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p29_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,7 +92,7 @@
           
           <milestone unit="page" n="30"/>
           
-          <seg type="editorial"><note place="margin">[p. 210]</note> [In later editions of Salámán and Absal, on the lines
+          <seg type="editorial"><note place="margin">[p. 210]</note> [In later editions of <hi rend="italic">Salámán and Absal</hi>, on the lines
             <lg>
               <l>Yearn, as is likely, to my Mother Earth,</l>
               <l>Upon whose bosom I shall cease to weep,</l>

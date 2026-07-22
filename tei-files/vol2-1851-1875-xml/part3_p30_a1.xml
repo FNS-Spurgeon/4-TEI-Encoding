@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p30_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p30_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +87,7 @@
             [Social classes in the fourteenth century illustrated by the
             Statute of Apparel, 1363, and Chaucer's pilgrims; quotations from <hi rend="italic">Prol</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[vol. ii, pp. 11-18]</note>
+          <seg type="editorial"><note place="margin">[vol. ii, pp. 11-13]</note>
             [Chaucer a contributor to and a symptom of the spread of knowledge in his day.]</seg>
         </ab>
       </div>

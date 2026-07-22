@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p52_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p52_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +89,7 @@
             and dissertation, "The Genius and Poetry of Chaucer,"
             precede the second and third vols. respectively.
             <lb/>The memoir contains all the old mistakes, based on the
-            <hi rend="italic">Court of Love and Testament of Love</hi>, and is very flamboyantly
+            <hi rend="italic">Court of Love</hi> and <hi rend="italic">Testament of Love</hi>, and is very flamboyantly
             written; e. g. Chaucer's position was at best that "of a
             pensionary dependent, nourished on the rinsings of the royal
             cellar." Doubtful whether he died "a Papist or a Protestant."

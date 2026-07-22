@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p59_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p59_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +86,7 @@
           <seg><note place="margin">[p. 34]</note> It would hardly be untrue to say that there is more of
             Dante's influence traceable in Chaucer's poems—more genuine
             evidence that Dante had been read and loved—than in the
-            vhole body of English literature (Milton's writings alone
+            whole body of English literature (Milton's writings alone
             excepted) from Chaucer's time to our own.</seg>
         </ab>
       </div>

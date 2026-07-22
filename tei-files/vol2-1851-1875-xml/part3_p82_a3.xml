@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p82_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p82_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -82,7 +81,7 @@
         <milestone unit="page" n="82"/>
         
         <ab type="imprint">1866. Chatelain, Jean Baptiste François Ernest de. <hi rend="italic">L’Hostellerie du Tabard</hi>, 1866, [in] <hi rend="italic">A travers Champs</hi>, London, 1867.
-          <note type="footnote">[The Chevaller de Chatelain lived and wrote in England; this poem is noticed in <hi rend="italic">Notes and Queries</hi>, March 16, 1867, 3rd ser., vol. xi, p. 227.]</note>
+          <note type="footnote">[The Chevalier de Chatelain lived and wrote in England; this poem is noticed in <hi rend="italic">Notes and Queries</hi>, March 16, 1867, 3rd ser., vol. xi, p. 227.]</note>
         </ab>
       </div>
     </body>

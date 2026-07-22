@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p95_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p95_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -72,8 +71,8 @@
       </langUsage>
       <textClass>
         <catRef scheme="#illustrations" target="#hooper"/>
-        <catRef scheme="#manuscripts" target="#manuscripts"/>
-        <catRef scheme="#works" target="#manuscripts"/>
+        <catRef scheme="#others" target="#manuscripts"/>
+        <catRef scheme="#works" target="#manuscripts-tales"/>
         <catRef scheme="#works" target="#editionsEnglish"/>
         <catRef scheme="#works" target="#rhymeIndex"/>
       </textClass>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p42_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p42_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -81,7 +80,7 @@
       <div type="allusion">
         <milestone unit="page" n="42"/>
         
-        <ab type="imprint">1858. De Vere, Aubrey Thomas. <hi rend="italic">Select Specimens of the English Poets with Biographical Notices</hi>, &amp;c., ed. Aubrey de Vere, pp. 1-3 [biographical and critical notice of Chaucer]; pp. 3-8 [extracts from <hi rend="italic">Canterbury Tales</hi>, ll. 43-164, 2765-808, 5240-96), 20-1, 131. [Reprinted in <hi rend="italic">The Household Poetry Book</hi>, <hi rend="italic">an Anthology of English-speaking Poets from Chaucer to Faber</hi>, 1893 (same pagination).]</ab>
+        <ab type="imprint">1858. De Vere, Aubrey Thomas. <hi rend="italic">Select Specimens of the English Poets with Biographical Notices</hi>, &amp;c., ed. Aubrey de Vere, pp. 1-3 [biographical and critical notice of Chaucer]; pp. 3-8 [extracts from <hi rend="italic">Canterbury Tales</hi>, ll. 43-164, 2765-808, 5240-96], 20-1, 131. [Reprinted in <hi rend="italic">The Household Poetry Book</hi>, <hi rend="italic">an Anthology of English-speaking Poets from Chaucer to Faber</hi>, 1893 (same pagination).]</ab>
       </div>
     </body>
   </text>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p1_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p1_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +86,7 @@
         
         <ab type="quotation">
             <seg type="editorial"><note place="margin">[p. 63]</note>
-              [Quotation of Prol., ll. 79-100:
+              [Quotation of <hi rend="italic">Prol.</hi>, ll. 79-100:
               <l>'With him there was his Sonn, a yongé Squire. . .</l>
               to
               <l>'And karft before his Fadir at the table.']</l></seg>
@@ -120,7 +119,7 @@
             <seg type="editorial"><note place="margin">[p. 70]</note> [Tenderness of Chaucer and Shakespeare.]</seg>
             
             <seg type="editorial">[In May, 1882, FitzGerald caused to be printed 50 copies
-              of a revised edn. of Euphranor. In this the passage on p. 65
+              of a revised edn. of <hi rend="italic">Euphranor</hi>. In this the passage on p. 65
               of the 1851 edn., quoted above, disappears; while another
               is inserted, which concludes (p. 50) with the following
               paragraph:]</seg>
@@ -155,7 +154,7 @@
               <milestone unit="page" n="3"/>
               
               <lb/>"Ask Lexilogus— Ah! I forgot that he never read
-              Chaucer..."</seg>
+              Chaucer . . ."</seg>
             
             <seg type="editorial">[On p. 56 is added a comparison of Sir Kenelm Digby,
               author of <hi rend="italic">The Broad Stone of Honour</hi>, to Chaucer’s Squire in

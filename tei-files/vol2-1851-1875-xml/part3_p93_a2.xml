@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p93_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p93_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,7 +70,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#illustrations" target="#burneJones"/>
         <catRef scheme="#works" target="#legendGoodWomen"/>
       </textClass>
     </profileDesc>
@@ -99,7 +98,7 @@
               <l>Instead of gold;</l>
               <l>And in his hand methought I saw him hold</l>
               <l>Two fiery darts, as the coals red;</l>
-              <l>And angel-like his wings I saw him spread.</l> <note type="footnote">[Editor's note]: "From the Prologue to the Legende of Goode Women. Chaucer
+              <l>And angel-like his wings I saw him spread.<note type="footnote">[Editor's note]: "From the Prologue to <hi rend="italic">the Legende of Goode Women</hi>. Chaucer
               wrote, after the first line—
               <lg>
                 <l>'In silke embrouded, ful of grene greves</l>
@@ -107,7 +106,7 @@
               </lg>
               The fith line continues, 'for hevynesse and wyghte'; and then Ruskin omits two
               lines. The last line but one is, in the original, 'Two firy dartes, as the gledes
-              rede.' The sketches (by Burne-Jones) are Plates VI, VII, in vol. xix.]</note>
+              rede.' The sketches (by Burne-Jones) are Plates VI, VII, in vol. xix.]</note></l>
             </lg>
           </seg>
             

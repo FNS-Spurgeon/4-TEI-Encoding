@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p19_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p19_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,8 +86,7 @@
           <seg>Thus far I am of the opinion of Chaucer’s nun, who
             <lg>
               <l>Yave not of the text a pulled hen</l>
-              <l>That saith that hunters ben not holy men.</l>
-              <note type="footnote">Note in Spurgeon: [It was, of course, not the nun, but the monk, who held this opinion.]</note>
+              <l>That saith that hunters ben not holy men.<note type="footnote">Note in Spurgeon: [It was, of course, not the nun, but the monk, who held this opinion.]</note></l>
               <note place="right"><hi rend="italic">Prol.</hi> ll. 177-8.</note>
             </lg>
           </seg>

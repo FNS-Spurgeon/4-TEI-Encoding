@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p91_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p91_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -105,8 +104,7 @@
               <l>As Troilus rode up the praising street,</l>
               <l>As clearly as they saw thy townsmen meet</l>
               <l>Those who in vineyards of Poictou withstood</l>
-              <l>The glittering horror of the steel-topped wood.</l>
-              <note type="footnote">Note in Spurgeon: [This is taken from the final edition as printed in Works, with introductions by his daughter, May Morris, 1910, vol. li, pp. 259-60. The only difference in the 1867 version is that line 14 there reads—<l>'Thames' stream scarce fettered bore the bream along.']</l></note>
+              <l>The glittering horror of the steel-topped wood.<note type="footnote">Note in Spurgeon: [This is taken from the final edition as printed in Works, with introductions by his daughter, May Morris, 1910, vol. li, pp. 259-60. The only difference in the 1867 version is that line 14 there reads—<l>'Thames' stream scarce fettered bore the bream along.']</l></note></l>
             </lg>
           </seg>
         </ab>

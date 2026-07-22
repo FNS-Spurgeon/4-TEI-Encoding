@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p37_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p37_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,7 +85,7 @@
         <ab type="imprint">1857. Furnivall, Frederick James. <hi rend="italic">MS. Notes</hi>, <hi rend="italic">Illustrations of the Prologue to Chaucer's Canterbury Tales</hi>, dated "Working Men’s College, 1857." [The Notes consist of passages copied from different books in illustration of the various characters in the Prologue, and were used for lectures at the Working Men’s College in 1857-8. See Biography of Furnivall by John Munro in <hi rend="italic">Frederick James Furnivall</hi>, 1911, p. xxxvi. The original note-book is in the possession of the present Editor. The contents are as follows.]</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[p. 2]</note> "The Fat Friar." Extract from Piers Plowman's Creed,
+          <seg><note place="margin">[p. 2]</note> "The Fat Friar." Extract from <hi rend="italic">Piers Plowman's Creed</hi>,
             l. 435 (ed. Wright, 1856), beginning—
             <lg>
               <l>"Than turned I ayen</l>
@@ -97,7 +96,7 @@
           </seg>
           
           <seg><note place="margin">[p. 3]</note> "The Ploughman." Paraphrase of long passage from the
-            Creed, l. 475 <add>[or rather 831]</add>, etc.</seg>
+            <hi rend="italic">Creed</hi>, l. 475 <add>[or rather 831]</add>, etc.</seg>
             
           <seg><note place="margin">[p. 6]</note> "The Ploughman's Diet and Work—recommended for the
             Friars." Extract from <hi rend="italic">Creed</hi>, l. 1553, etc., and a note.

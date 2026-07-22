@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p28_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part3_p28_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,8 +92,8 @@
           <seg>The Chaussure, commonly used in England when surnames
             were first adopted by the commonalty, was of leather, covered
             both the foot and the leg, and appears to have been called
-            Hose.*<note type="footnote">*Hose occurs as a surname Hosatus, etc., in the Close Rolls.</note> Hosier therefore is the same with Chaucier, which
-            comes from the Latin Calcearius.†<note type="footnote">†Adelung, Wörterbuch, under Hose and Schuster; Du Cange, v. <hi rend="italic">Ossa</hi>; and Gesenius, <hi rend="italic">Dissertatio Grammatica de Lingua Chauceri</hi>, p. 4.</note>
+            Hose.<note type="footnote" n="*">Hose occurs as a surname Hosatus, etc., in the Close Rolls.</note> Hosier therefore is the same with Chaucier, which
+            comes from the Latin Calcearius.<note type="footnote" n="†">Adelung, Wörterbuch, under Hose and Schuster; Du Cange, v. <hi rend="italic">Ossa</hi>; and Gesenius, <hi rend="italic">Dissertatio Grammatica de Lingua Chauceri</hi>, p. 4.</note>
           </seg>
         </ab>
       </div>
