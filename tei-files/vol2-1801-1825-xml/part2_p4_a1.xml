@@ -19,7 +19,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="MA">Miranda Althaus</name>
-          <resp>Proofreading of the transcriptions</resp>
+          <resp>Proofreading of the transcriptions.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/15551790">Nathan Drake</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/15551790">Drake, Nathan</author>
             <date cert="high" when="1802">1802</date>
             <title level="a">Canterbury Tales.</title>
           </analytic>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#bookTitles" target="#"/>
+        <catRef scheme="#others" target="#bookTitles"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,7 +86,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="4"/>
-        <ab type="imprint">1802. Drake, Nathan. Canterbury Tales. </ab>
+        
+        <ab type="imprint">1802. Drake, Nathan. <hi rend="italic">Canterbury Tales</hi>.<note type="footnote">Note in Spurgeon: [Four Tales of Terror, in the style of Mrs. Radcliffe, with no connexion whatever with Chaucer except in title.]</note></ab>
       </div>
     </body>
   </text>

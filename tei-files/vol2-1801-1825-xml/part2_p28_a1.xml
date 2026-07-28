@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/19709107">Mary Russell Mitford</author>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/19709107">Mitford, Mary Russell</author>
             <date cert="high" when="1806">1806</date>
             <title level="a">List of Books read January 1806.</title>
           </analytic>
@@ -84,12 +84,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="28"/>
-        <ab type="imprint">1806. Mitford, Mary Russell (Mother of Miss Mary R. Mitford). List of Books read January 1806. [This is a list of books, made by her mother, which Miss Mary R. Mitford read during the above month.] The Life of Mary Russell Mitford... ed. Rev. A. G. L’Estrange. 1870, vol. i, p. 30.</ab>
+        
+        <ab type="imprint">1806. Mitford, Mary Russell (Mother of Miss Mary R. Mitford). <hi rend="italic">List of Books read January 1806</hi>. [This is a list of books, made by her mother, which Miss Mary R. Mitford read during the above month.] The Life of Mary Russell Mitford . . . ed. Rev. A. G. L’Estrange. 1870, vol. i, p. 30.</ab>
+        
         <ab type="quotation">
-          <seg>List of Books read January 1806.
-vols.
-Fourth Volume of Canterbury Tales.. 1</seg>
-          <note type="footnote">Note in Spurgeon: [The edition must be Tyrwhitt's, 1775.]</note>
+          <seg>
+            <table rows="2" cols="2">
+              <row role="label"><cell>List of Books read January 1806.</cell><cell>vols.</cell></row>
+              <row role="data"><cell>Fourth Volume of Canterbury Tales<note type="footnote">Note in Spurgeon: [The edition must be Tyrwhitt's, 1775.]</note> . . </cell><cell>1</cell></row>
+            </table>
+          </seg>
         </ab>
       </div>
     </body>

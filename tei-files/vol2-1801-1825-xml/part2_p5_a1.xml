@@ -19,7 +19,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="MA">Miranda Althaus</name>
-          <resp>Proofreading of the transcriptions</resp>
+          <resp>Proofreading of the transcriptions.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/102427525">James Sibbald</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/102427525">Sibbald, James</author>
             <date cert="high" when="1802">1802</date>
             <title level="a">Chronicle of Scottish Poetry.</title>
           </analytic>
@@ -84,17 +84,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="5"/>
-        <ab type="imprint">1802. Sibbald, James. Chronicle of Scottish Poetry. 4 vols.</ab>
+        
+        <ab type="imprint">1802. Sibbald, James. <hi rend="italic">Chronicle of Scottish Poetry</hi>. 4 vols.</ab>
+        
         <ab type="quotation">
-          <seg>[Reprints of selected Scottish poems arranged in periods. The
-pieces with Chaucerian reference are :—
-Vol. i, pp. 157-77. Henrysoun’s “Testament of Faire Creseide."
-pp. 253-63. Dunbar's “Goldin Targe."
-Note on “Chaucer's Cuckowe and Nightingale," vol. i, p. 183;
-reference to Wife of Bath, vol. i, p. 240; Jack Upland, described
-as Chaucer’s, ii, 31 ff.; glossarial and metrical notes, i, 209, 229-
-30, 271-2, 323, 380; ii, 6, 19, 170, 371, 390; iv, xlvi-xlviii,
-lii-liv, and many in glossary.]</seg>
+          <seg type="editorial">[Reprints of selected Scottish poems arranged in periods. The
+            pieces with Chaucerian reference are :—
+            <lb/>Vol. i, pp. 157-77. Henrysoun’s “Testament of Faire Creseide."
+            <lb/>" pp. 253-63. Dunbar's “Goldin Targe."
+            <lb/>Note on “Chaucer's Cuckowe and Nightingale," vol. i, p. 183;
+            reference to Wife of Bath, vol. i, p. 240; Jack Upland, described
+            as Chaucer’s, ii, 31 ff.; glossarial and metrical notes, i, 209, 229-
+            30, 271-2, 323, 380; ii, 6, 19, 170, 371, 390; iv, xlvi-xlviii,
+            lii-liv, and many in glossary.]</seg>
         </ab>
       </div>
     </body>

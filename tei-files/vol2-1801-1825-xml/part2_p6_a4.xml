@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1803, William Godwin. Life of Geoffrey Chaucer,</title>
+        <title>1803, William Godwin. Life of Geoffrey Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -19,7 +19,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="MA">Miranda Althaus</name>
-          <resp>Proofreading of the transcriptions</resp>
+          <resp>Proofreading of the transcriptions.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/68929729">William Godwin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/68929729">Godwin, William</author>
             <date cert="high" when="1803">1803</date>
-            <title level="a">Life of Geoffrey Chaucer,</title>
+            <title level="a">Life of Geoffrey Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -88,111 +88,128 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="6"/>
-        <ab type="imprint">1803. Godwin, William. Life of Geoffrey Chaucer, 2 vols, London, 1803.</ab>
+        
+        <ab type="imprint">1803. Godwin, William. <hi rend="italic">Life of Geoffrey Chaucer</hi>, 2 vols, London, 1803.</ab>
+        
         <ab type="quotation">
-          <seg>[Vol. i. ch. xv, pp. 277-297, a long analysis of Troilus and
-[p. 298] Creseide.] From this analysis of the poem, it is not difficult to
-infer the degree of applause to which its author is entitled. It has
-already been observed by one of the critics upon English poetry
-[Warton, vol. i, sect. 14], that it is "almost as long as the
-Æneid." Considered in this point of view, the Troilus and
-Creseide will not appear to advantage. It is not an epic poem.
-[p. 299]... It is merely a love-tale. It is not the labour of a man's
-life; but a poem which, with some previous knowledge of
-human sentiments and character, and a very slight prepar¬
-ation of science, the writer might perhaps be expected to
-complete in about as many months, as the work is divided into
-books....
-It is... considerably barren of incident. There is not
-enough in it of matter generating visible images in the reader,
-and exciting his imagination with pictures of nature and life.
-There is not enough in it of vicissitudes of fortune.... Add
-to which, the catastrophe is unsatisfactory and offensive....
-[p. 300] Dryden thoroughly felt this defect in the poem of Chaucer,
-and has therefore changed the catastrophe when he fitted the
-story for the stage, and represented the two lovers as faithful,
-but unfortunate.
-But, when all these deductions have been made from the
-claims of the Troilus and Creseide upon our approbation, it
-will still remain a work interspersed with many beautiful
-passages, passages of exquisite tenderness, of great delicacy,
-and of a nice and refined observation of the workings of
-human sensibility. Nothing can be more beautiful, genuine,
-and unspoiled by the corrupt suggestions of a selfish spirit,
-than the sentiments of Chaucer's lovers. While conversing
-with them, we seem transported into ages of primeval
-innocence. Even Creseide is so good, so ingenuous and
-affectionate, that we feel ourselves as incapable as Troilus,
-of believing her false. Nor are the scenes of Chaucer's
-narrative... drawn with that vagueness of manner, and
-ignorance of the actual emotions of the heart, which, while
-we read them, we nauseate and despise. On the contrary,
-his personages always feel, and we confess the truth of their
-feelings.
-[p. 301] Pandarus himself comes elevated and refined from the pen
-of Chaucer: his occupation loses its grossness, in the dis¬
-interestedness of his motive, and the sincerity of his friendship.
-In a word, such is the Troilus and Creseide, that no competent
-judge can rise from its perusal without a strong impression of
-the integrity and excellence of the author's disposition, and of
-the natural relish he entertained for whatever is honourable,
-beautiful and just....
-The poem will appear to be little less than a miracle, when
-we combine our examination of it, with a recollection of the times
-and circumstances in which it was produced. [The “languid
-[p. 302] and perishing” state of the English tongue in Chaucer's
-time.]... [Chaucer] surprised his countrymen with a poem,
-eminently idiomatic, clear and perspicuous in its style, as well
-[p. 303] as rich and harmonious in its versification.... The loves of
-Troilus and Creseide scarcely retain any traces of the pre¬
-posterous and rude manners of the age in which they were
-delineated.
-This poem therefore, as might have been expected, long
-fixed upon itself the admiration of the English nation....
-[It] was probably, more than any of his other works, the basis
-of his fame, and the foundation of his fortune.¹
-[vol. ii,
-p. 572]
-This Canterbury Tales is [sic] the great basis of the fame of
-Chaucer, and indolent men have generally expressed themselves
-with contempt of the rest of his works as unworthy of atten¬
-tion.... He indeed who wishes to become personally ac¬
-quainted with Chaucer, must of necessity have recourse to his
-minor pieces. The Canterbury Tales are too full of business,
-variety, character and action, to permit the writer in any great
-degree to show himself.... The Troilus and Creseide in
-particular, that poem of which Sir Philip Sidney speaks
-with so much delight, though deficient in action, cannot be
-[p. 573] too much admired for the suavity and gentleness of nature
-which it displays.... All the milder and more delicate
-feelings of the soul are displayed... and displayed in a
-manner which none but a poet of the purest and sweetest
-dispositions, and at the same time of the greatest discrimina¬
-tion, could have attained.
-The Canterbury Tales is certainly one of the most extra¬
-ordinary monuments of human genius...
-What infinite variety of character is presented to us in
-the Prologue to the Canterbury Tales! It is a copious and
-extensive review of the private life of the fourteenth century
-in England.
-This has usually, and perhaps justly, been thought the most
-conspicuous excellence of Chaucer; his power of humour, of
-delineating characters, and of giving vivacity and richness to
-comic incidents.
-. . . . . . .
-[¹ For Charles Lamb's remarks upon this criticism, see below, 1803.]
-[p. 532] His best works, his Canterbury Tales in particular, have an
-absolute merit, which stands in need of no extrinsic accident
-to show it to advantage, and no apology to atone for its
-concomitant defects. They class with whatever is best in
-the poetry of any country or any age. Yet when we further
-recollect that they were written in a remote and semi-barbarous
-age, that Chaucer had to a certain degree to create a language,
-or to restore to credit a language which had been sunk in
-vulgarity and contempt by being considered as a language
-[p. 533] of slaves,... the astonishment and awe with which we
-regard the great father of English poetry must be exceedingly
-increased...</seg>
+          <seg type="editorial">[Vol. i. ch. xv, pp. 277-297, a long analysis of <hi rend="italic">Troilus and Creseide</hi>.]</seg>
+            
+          <seg><note place="margin">[p. 298]</note> From this analysis of the poem, it is not difficult to
+            infer the degree of applause to which its author is entitled. It has
+            already been observed by one of the critics upon English poetry
+            <add>[Warton, vol. i, sect. 14]</add>, that it is "almost as long as the
+            Æneid." Considered in this point of view, the Troilus and
+            Creseide will not appear to advantage. It is not an epic poem.
+            
+            <milestone unit="page" n="7"/>
+            
+            <note place="margin">[p. 299]</note> . . . It is merely a love-tale. It is not the labour of a man's
+            life; but a poem which, with some previous knowledge of
+            human sentiments and character, and a very slight
+            preparation of science, the writer might perhaps be expected to
+            complete in about as many months, as the work is divided into
+            books. . . .</seg>
+            
+          <seg>It is . . . considerably barren of incident. There is not
+            enough in it of matter generating visible images in the reader,
+            and exciting his imagination with pictures of nature and life.
+            There is not enough in it of vicissitudes of fortune. . . . Add
+            to which, the catastrophe is unsatisfactory and offensive. . . .
+            <note place="margin">[p. 300]</note> Dryden thoroughly felt this defect in the poem of Chaucer,
+            and has therefore changed the catastrophe when he fitted the
+            story for the stage, and represented the two lovers as faithful,
+            but unfortunate.</seg>
+            
+          <seg>But, when all these deductions have been made from the
+            claims of the Troilus and Creseide upon our approbation, it
+            will still remain a work interspersed with many beautiful
+            passages, passages of exquisite tenderness, of great delicacy,
+            and of a nice and refined observation of the workings of
+            human sensibility. Nothing can be more beautiful, genuine,
+            and unspoiled by the corrupt suggestions of a selfish spirit,
+            than the sentiments of Chaucer's lovers. While conversing
+            with them, we seem transported into ages of primeval
+            innocence. Even Creseide is so good, so ingenuous and
+            affectionate, that we feel ourselves as incapable as Troilus,
+            of believing her false. Nor are the scenes of Chaucer's
+            narrative... drawn with that vagueness of manner, and
+            ignorance of the actual emotions of the heart, which, while
+            we read them, we nauseate and despise. On the contrary,
+            his personages always feel, and we confess the truth of their
+            feelings.</seg>
+            
+          <seg><note place="margin">[p. 301]</note> Pandarus himself comes elevated and refined from the pen
+            of Chaucer: his occupation loses its grossness, in the
+            disinterestedness of his motive, and the sincerity of his friendship.
+            In a word, such is the Troilus and Creseide, that no competent
+            judge can rise from its perusal without a strong impression of
+            the integrity and excellence of the author's disposition, and of
+            the natural relish he entertained for whatever is honourable,
+            beautiful and just. . . .</seg>
+            
+          <seg>The poem will appear to be little less than a miracle, when
+            
+            <milestone unit="page" n="8"/>
+            
+            we combine our examination of it, with a recollection of the times
+            and circumstances in which it was produced. <note place="margin">[p. 302]</note><add>[The “languid
+            and perishing” state of the English tongue in Chaucer's
+            time.]</add> . . . <add>[Chaucer]</add> surprised his countrymen with a poem,
+            eminently idiomatic, clear and perspicuous in its style, as well
+            <note place="margin">[p. 303]</note> as rich and harmonious in its versification. . . . The loves of
+            Troilus and Creseide scarcely retain any traces of the
+            preposterous and rude manners of the age in which they were
+            delineated.</seg>
+            
+          <seg>This poem therefore, as might have been expected, long
+            fixed upon itself the admiration of the English nation. . . .
+            <add>[It]</add> was probably, more than any of his other works, the basis
+            of his fame, and the foundation of his fortune.<note>Note ine Spurgeon: [For Charles Lamb's remarks upon this criticism, see below, 1803.]</note></seg>
+            
+          <seg><note place="margin">[vol. ii, p. 572]</note> This Canterbury Tales is <add>[sic]</add> the great basis of the fame of
+            Chaucer, and indolent men have generally expressed themselves
+            with contempt of the rest of his works as unworthy of
+            attention. . . . He indeed who wishes to become personally
+            acquainted with Chaucer, must of necessity have recourse to his
+            minor pieces. The Canterbury Tales are too full of business,
+            variety, character and action, to permit the writer in any great
+            degree to show himself. . . . The Troilus and Creseide in
+            particular, that poem of which Sir Philip Sidney speaks
+            with so much delight, though deficient in action, cannot be
+            <note place="margin">[p. 573]</note> too much admired for the suavity and gentleness of nature
+            which it displays. . . . All the milder and more delicate
+            feelings of the soul are displayed . . . and displayed in a
+            manner which none but a poet of the purest and sweetest
+            dispositions, and at the same time of the greatest
+            discrimination, could have attained.</seg>
+            
+          <seg>The Canterbury Tales is certainly one of the most extraordinary monuments of human genius . . .</seg>
+            
+          <seg>What infinite variety of character is presented to us in
+            the Prologue to the Canterbury Tales! It is a copious and
+            extensive review of the private life of the fourteenth century
+            in England.</seg>
+            
+          <seg>This has usually, and perhaps justly, been thought the most
+            conspicuous excellence of Chaucer; his power of humour, of
+            delineating characters, and of giving vivacity and richness to
+            comic incidents.
+            <lb/>. . . . . . .</seg>
+          
+          <milestone unit="page" n="9"/>
+            
+          <seg><note place="margin">[p. 582]</note>His best works, his Canterbury Tales in particular, have an
+            absolute merit, which stands in need of no extrinsic accident
+            to show it to advantage, and no apology to atone for its
+            concomitant defects. They class with whatever is best in
+            the poetry of any country or any age. Yet when we further
+            recollect that they were written in a remote and semi-barbarous
+            age, that Chaucer had to a certain degree to create a language,
+            or to restore to credit a language which had been sunk in
+            vulgarity and contempt by being considered as a language
+            <note place="margin">[p. 583]</note> of slaves, . . . the astonishment and awe with which we
+            regard the great father of English poetry must be exceedingly
+            increased . . .</seg>
         </ab>
       </div>
     </body>

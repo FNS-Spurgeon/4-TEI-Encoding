@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1803], Alexander Thomson. MS. Criticism on the Howlat,</title>
+        <title>[a. 1803], Alexander Thomson. MS. Criticism on the Howlat.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -19,7 +19,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="MA">Miranda Althaus</name>
-          <resp>Proofreading of the transcriptions</resp>
+          <resp>Proofreading of the transcriptions.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/8756278">Alexander Thomson</author>
-            <date cert="low" when="[a. 1803]">[a. 1803]</date>
-            <title level="a">MS. Criticism on the Howlat,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/8756278">Thomson, Alexander</author>
+            <date cert="low" when="1803">[a. 1803]</date>
+            <title level="a">MS. Criticism on the Howlat.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,20 +86,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="5"/>
-        <ab type="imprint">[a. 1803.] Thomson, Alexander. MS. Criticism on the Howlat, p. 16, [printed in] The Buke of the Howlat, by Holland, ed. D. Laing, Bannatyne Club, 1823, p. xvi.</ab>
+        
+        <ab type="imprint">[a. 1803.] Thomson, Alexander. <hi rend="italic">MS. Criticism on the Howlat</hi>, p. 16, [printed in] The Buke of the Howlat, by Holland, ed. D. Laing, Bannatyne Club, 1823, p. xvi.</ab>
+        
         <ab type="quotation">
           <seg>To the character of an original inventor the author of the
-Houlate has but a slender claim; for besides having taken
-the story of his poem from the fable of the Jackdaw with
-borrowed feathers, he is indebted to Chaucer's Assemble of
-Foules for some of its principal decorations. The catalogue
-of birds, and the personification of Nature are, both of them,
-imitations of Chaucer; but the former is inferior, in every
-respect, to the characteristic sketches of his master; and the
-latter is so little suited to the situation in which it stands,
-as clearly shews it to have been exotic, transplanted from a
-much more poetic soil.</seg>
-          <note type="footnote">Note in Spurgeon: [The MS. vas apparently lent to Laing by Dr. Robert Anderson, Thomsou's friend, after the latter's death in 1803; see p. xi. It is not now known where it is.]</note>
+            <hi rend="italic">Houlate</hi> has but a slender claim; for besides having taken
+            the story of his poem from the fable of the Jackdaw with
+            borrowed feathers, he is indebted to <hi rend="italic">Chaucer's Assemble of
+            Foules</hi> for some of its principal decorations. The catalogue
+            of birds, and the personification of Nature are, both of them,
+            imitations of Chaucer; but the former is inferior, in every
+            
+            <milestone unit="6"/>
+            
+            respect, to the characteristic sketches of his master; and the
+            latter is so little suited to the situation in which it stands,
+            as clearly shews it to have been exotic, transplanted from a
+            much more poetic soil.<note type="footnote">Note in Spurgeon: [The MS. was apparently lent to Laing by Dr. Robert Anderson, Thomson's friend, after the latter's death in 1803; see p. xi. It is not now known where it is.]</note></seg>
         </ab>
       </div>
     </body>

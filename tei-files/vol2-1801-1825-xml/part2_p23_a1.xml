@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1804, Unknown.. Review of Godwin's Life of Chaucer,</title>
+        <title>1804, Unknown. Review of Godwin's Life of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown.</author>
             <date cert="high" when="1804">1804</date>
-            <title level="a">Review of Godwin's Life of Chaucer,</title>
+            <title level="a">Review of Godwin's Life of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,31 +86,35 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="23"/>
-        <ab type="imprint">1804. Ω. Review of Godwin's Life of Chaucer, [in] The Literary Journal, January and February, 1804, vol. iii, coll. 11-19, 64-79.</ab>
+        
+        <ab type="imprint">1804. Ω. <hi rend="italic">Review</hi> of Godwin's <hi rend="italic">Life of Chaucer</hi>, [in] The Literary Journal, January and February, 1804, vol. iii, coll. 11-19, 64-79.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 15] ... We cannot but be startled at the first sentence of the
-preface; “The two names which do greatest honour to the
-annals of English Literature, are those of Chaucer and of
-Shakspeare." That Chaucer was a wonderful poet when we
-consider the times in which he lived, no man will dispute; but
-to enthrone him above Milton and all the other splendid
-geniuses who have adorned our literature... is an hyperbole
-of rather inauspicious aspect at the commencement of a
-work.
-[p. 69] ... In Chaucer we find some happy expressions, many
-striking images and many traits of genuine humour; but to
-suppose that these can convey equal pleasure to the reader in
-the uncouth and antiquated style in which they are expressed,
-as when we find them in the finely-turned versification of the
-reign of Queen Anne, is an idea which could be entertained
-for a moment, only by the blindest enthusiasm.
-[p. 70] Mr. G. must also know that Pope and Dryden will continue
-to be read with delight by all their countrymen; while his
-" popular book in modern English" will never be able to rescue
-Chaucer from the cabinets of the antiquaries. That poet was
-indeed admirable in his day; and had he been destined to write
-in a later age, his works would still have been read with
-delight.</seg>
+          <seg><note place="margin">[p. 15] </note>. . . We cannot but be startled at the first sentence of the
+            preface; “The two names which do greatest honour to the
+            annals of English Literature, are those of Chaucer and of
+            Shakspeare." That Chaucer was a wonderful poet when we
+            consider the times in which he lived, no man will dispute; but
+            to enthrone him above Milton and all the other splendid
+            geniuses who have adorned our literature . . . is an hyperbole
+            of rather inauspicious aspect at the commencement of a
+            work.</seg>
+            
+          <seg><note place="margin">[p. 69]</note>. . . In Chaucer we find some happy expressions, many
+            striking images and many traits of genuine humour; but to
+            suppose that these can convey equal pleasure to the reader in
+            the uncouth and antiquated style in which they are expressed,
+            as when we find them in the finely-turned versification of the
+            reign of Queen Anne, is an idea which could be entertained
+            for a moment, only by the blindest enthusiasm.</seg>
+            
+          <seg><note place="margin">[p. 70]</note>Mr. G. must also know that Pope and Dryden will continue
+            to be read with delight by all their countrymen; while his
+            "popular book in modern English" will never be able to rescue
+            Chaucer from the cabinets of the antiquaries. That poet was
+            indeed admirable in his day; and had he been destined to write
+            in a later age, his works would still have been read with
+            delight.</seg>
         </ab>
       </div>
     </body>

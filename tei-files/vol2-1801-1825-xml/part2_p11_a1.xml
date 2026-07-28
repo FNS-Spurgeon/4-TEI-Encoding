@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54362232">John Leyden</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54362232">Leyden, John</author>
             <date cert="high" when="1803">1803</date>
             <title level="a">Scenes of Infancy.</title>
           </analytic>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="11"/>
-        <ab type="imprint">1803. Leyden, John. Scenes of Infancy. See below, App. A.</ab>
+        
+        <ab type="imprint">1803. Leyden, John. <hi rend="italic">Scenes of Infancy</hi>. See below, App. A.</ab>
       </div>
     </body>
   </text>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1804, Walter Scott. Review of Ellis's Specimens of the Early English Poets,</title>
+        <title>1804, Walter Scott. Review of Ellis's Specimens of the Early English Poets.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1804">1804</date>
-            <title level="a">Review of Ellis's Specimens of the Early English Poets,</title>
+            <title level="a">Review of Ellis's Specimens of the Early English Poets.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,13 +84,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="16"/>
-        <ab type="imprint">1804. Scott, Sir Walter. Review of Ellis's Specimens of the Early English Poets, [in] The Edinburgh Review, vol. iv, p. 156. (Mis cellaneous Prose Works of Sir Walter Scott, Edinburgh, 1834-71, 30 vols., vol. xvii., pp. 6, 9, 11.)</ab>
+        
+        <ab type="imprint">1804. Scott, Sir Walter. <hi rend="italic">Review</hi> of Ellis's <hi rend="italic">Specimens of the Early English Poets</hi>, [in] The Edinburgh Review, vol. iv, p. 156. (Mis cellaneous Prose Works of Sir Walter Scott, Edinburgh, 1834-71, 30 vols., vol. xvii., pp. 6, 9, 11.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 9] The epoch from which English may be considered as a
-classical language, may be fixed in the reign of Edward III,
-the age of Gower and of Chaucer, in which it was no longer
-confined to what the latter has called “the drafty riming" of
-the wandering minstrel.</seg>
+          <seg><note place="margin">[p. 9]</note>The epoch from which English may be considered as a
+            classical language, may be fixed in the reign of Edward III,
+            the age of Gower and of Chaucer, in which it was no longer
+            confined to what the latter has called “the drafty riming" of
+            the wandering minstrel.</seg>
         </ab>
       </div>
     </body>

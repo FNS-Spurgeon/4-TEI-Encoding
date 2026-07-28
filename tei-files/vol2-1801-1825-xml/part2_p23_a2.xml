@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1805-6, Henry Francis Cary. The Inferno of Dante Alighieri...</title>
+        <title>1805-6, Henry Francis Cary. The Inferno of Dante Alighieri.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54579575">Henry Francis Cary</author>
-            <date cert="high" when="1805-6">1805-6</date>
-            <title level="a">The Inferno of Dante Alighieri...</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54579575">Cary, Henry Francis</author>
+            <date cert="high" from="1805" to="1806">1805-6</date>
+            <title level="a">The Inferno of Dante Alighieri.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,7 +84,9 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="23"/>
-        <ab type="imprint">1805-6. Cary, Henry Francis. The Inferno of Dante Alighieri... with a translation in blank verse, notes... by the Rev. Henry Francis Cary, 2 vols. Notes, vol. i, pp. 66 [quotation from the non-Chaucerian Chaucer’s Dream], 251 [Ser Brunetto’s Tesoretto ‘is a curious work, not unlike the writings of Chaucer in style and numbers’]; vol. ii, pp. 260 [quotation from the Squieres Tale, for Achilles’ spear], 281 [Genilon, in Nonne Preestes Tale, and ‘Peter of Spaine,’ in Monkes Tale].</ab>
+        
+        <ab type="imprint">1805-6. Cary, Henry Francis. <hi rend="italic">The Inferno of Dante Alighieri</hi> . . . with a translation in blank verse, notes... by the Rev. Henry Francis Cary, 2 vols. Notes, vol. i, pp. 66 [quotation from the non-Chaucerian <hi rend="italic">Chaucer’s Dream</hi>], 251 [Ser Brunetto’s <hi rend="italic">Tesoretto</hi> 'is a curious work, not unlike the writings of Chaucer in style and numbers']; vol. ii, pp. 260 [quotation from the <hi rend="italic">Squieres Tale</hi>, for Achilles’ spear], 281 [Genilon, in Nonne Preestes Tale, and 'Peter of Spaine,' in Monkes Tale].<note type="footnote">[For Cary's complete translation of the Divina Commedia, with these and
+            additional Chaucer references in the notes, which are there printed together at the end of each volume, see below, 1814.]</note></ab>
       </div>
     </body>
   </text>

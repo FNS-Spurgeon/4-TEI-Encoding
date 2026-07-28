@@ -19,7 +19,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="MA">Miranda Althaus</name>
-          <resp>Proofreading of the transcriptions</resp>
+          <resp>Proofreading of the transcriptions.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/291796187">Joseph Planta</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/291796187">Planta, Joseph</author>
             <date cert="high" when="1802">1802</date>
             <title level="a">Catalogue of the Cottonian Library.</title>
           </analytic>
@@ -86,14 +86,17 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="4"/>
-        <ab type="imprint">1802. Planta, Joseph. Catalogue of the Cottonian Library. Note on Caligula, A. ii, Article 19, p. 42, col. 2.</ab>
+        
+        <ab type="imprint">1802. Planta, Joseph. <hi rend="italic">Catalogue of the Cottonian Library</hi>. Note on Caligula, A. ii, Article 19, p. 42, col. 2.</ab>
+        
         <ab type="quotation">
           <seg>Emaré, an old romance.
-Beg: Ihu : that ys kyng in trone
-As that I hoope bothe sone and mone.
-Chaucer appears to have been indebted to this romance for
-his Man of Law's Tale.</seg>
-          <note type="footnote">Note in Spurgeon: [Cot. Calig. A. ii, the Romance of Emaré, was edited for the E.E.T. Soc. by Edith Rickert, 1908; her conclusion alone, p. xxviii, that 'the absence of archaic forms suggests a post-Chaucerian date, and 1400 is probably nearer the fact than is 1350,' nullincs Planta's surmise.]</note>
+            <lg>
+              <l>Beg: Ihu : that ys kyng in trone</l>
+              <l>As that I hoope bothe sone and mone.</l>
+            </lg>
+            Chaucer appears to have been indebted to this romance for
+            his Man of Law's Tale.<note type="footnote">Note in Spurgeon: [Cot. Calig. A. ii, the Romance of Emaré, was edited for the E.E.T. Soc. by Edith Rickert, 1908; her conclusion alone, p. xxviii, that 'the absence of archaic forms suggests a post-Chaucerian date, and 1400 is probably nearer the fact than is 1350,' nullincs Planta's surmise.]</note></seg>
         </ab>
       </div>
     </body>

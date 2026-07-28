@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1801, Dorothy Wordsworth. Journal,</title>
+        <title>1801, Dorothy Wordsworth. Journal.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -19,7 +19,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="MA">Miranda Althaus</name>
-          <resp>Proofreading of the transcriptions</resp>
+          <resp>Proofreading of the transcriptions.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/19695644">Dorothy Wordsworth</author>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/19695644">Wordsworth, Dorothy</author>
             <date cert="high" when="1801">1801</date>
-            <title level="a">Journal,</title>
+            <title level="a">Journal.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,33 +86,38 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="2"/>
-        <ab type="imprint">1801. Wordsworth, Dorothy. Journal, ed. W. Knight, 1897, 2 vols., vol. i, pp. 67-9, 73-4.</ab>
+        
+        <ab type="imprint">1801. Wordsworth, Dorothy. <hi rend="italic">Journal</hi>, ed. W. Knight, 1897, 2 vols., vol. i, pp. 67-9, 73-4.</ab>
+        
         <ab type="quotation">
-          <seg>Friday, 4th [Dec. 1801].  ... Wm. translating The
-Prioress's Tale.
-Saturday, 5th.  ... Wm. finished The Prioress's Tale, and
-after tea, Mary and he wrote it out.  ...
-Sunday, 6th.  ... Wm. worked a while at Chaucer, then
-[p. 68] we set forward to walk into Easedale.  ... In the afternoon
-we sate by the fire: I read Chaucer aloud...
-[p. 69]
-Monday Morning, 7th.  ... William at work with Chaucer,
-The God of Love.
-Tuesday, 8th Dec. 1801.... Wm. at work with Chaucer.
-... William worked at The Cuckoo and the Nightingale till
-he was tired.
-Wednesday Morning, 9th December.... I read Palemon
-[sic] and Arcite.... William writing out his alteration of
-Chaucer's Cuckoo and Nightingale....
-[p.73] Tuesday, 22nd [Dec.].... We sate snugly round the fire.
-I read to them the Tale of Constance and the Syrian Monarch,
-in the Man of Lawe's Tale, also some of the Prologue....
-Wednesday, 23rd.... Mary wrote out the Tales from
-Chaucer for Coleridge....
-Thursday, 24th. Still a thaw. Wm., Mary, and I sate
-comfortably round the fire in the evening, and read Chaucer....
-[p.74] Saturday, 26th. After tea we sate by the fire comfortably.
-I read aloud The Miller's Tale.</seg>
+          <seg>Friday, 4th <add>[Dec. 1801]</add>. . . . Wm. translating <hi rend="italic">The Prioress's Tale</hi>.</seg>
+          
+          <seg>Saturday, 5th. . . . Wm. finished <hi rend="italic">The Prioress's Tale</hi>, and after tea, Mary and he wrote it out.  ...</seg>
+            
+          <seg>Sunday, 6th. . . . Wm. worked a while at Chaucer, then
+            <note place="margin">[p. 68]</note> we set forward to walk into Easedale. . . . In the afternoon
+            we sate by the fire: I read Chaucer aloud . . .</seg>
+            
+          <seg><note place="margin">[p. 69]</note> Monday Morning, 7th. . . . William at work with Chaucer, <hi rend="italic">The God of Love</hi>.</seg>
+          
+          <milestone unit="page" n="3"/>
+          
+          <seg>Tuesday, 8th Dec. 1801. . . . Wm. at work with Chaucer.
+            . . . William worked at <hi rend="italic">The Cuckoo and the Nightingale</hi> till he was tired.</seg>
+            
+          <seg>Wednesday Morning, 9th December. . . . I read <hi rend="italic">Palemon</hi>
+            <add>[sic]</add> <hi rend="italic">and Arcite</hi>. . . . William writing out his alteration of
+            Chaucer's <hi rend="italic">Cuckoo and Nightingale</hi>. . . .</seg>
+            
+          <seg><note place="margin">[p.73]</note> Tuesday, 22nd <add>[Dec.]</add>. . . . We sate snugly round the fire.
+            I read to them the Tale of Constance and the Syrian Monarch,
+            in the <hi rend="italic">Man of Lawe's Tale</hi>, also some of the <hi rend="italic">Prologue</hi>. . . .</seg>
+            
+          <seg>Wednesday, 23rd. . . . Mary wrote out the Tales from Chaucer for Coleridge. . . .</seg>
+            
+          <seg>Thursday, 24th. Still a thaw. Wm., Mary, and I sate comfortably round the fire in the evening, and read Chaucer. . . .</seg>
+            
+          <seg><note place="margin">[p.74]</note> Saturday, 26th. After tea we sate by the fire comfortably. I read aloud <hi rend="italic">The Miller's Tale</hi>.</seg>
         </ab>
       </div>
     </body>

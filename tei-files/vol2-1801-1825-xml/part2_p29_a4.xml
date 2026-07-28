@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/32777686">William Beloe</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/32777686">Beloe, William</author>
             <date cert="high" when="1807">1807</date>
             <title level="a">Anecdotes of Literature.</title>
           </analytic>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="29"/>
-        <ab type="imprint">1807. Beloe, William. Anecdotes of Literature. For vol. ii, see below, App. A, 1807; for vol. vi, below, 1812.</ab>
+        
+        <ab type="imprint">1807. Beloe, William. <hi rend="italic">Anecdotes of Literature</hi>. For vol. ii, see below, App. A, 1807; for vol. vi, below, 1812.</ab>
       </div>
     </body>
   </text>

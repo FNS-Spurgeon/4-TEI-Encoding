@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1806, Charles James Fox. Record of Fox's veneration for Chaucer and reading of Dryden’s Palamon and Arcite.</title>
+        <title>1806, Charles-James Fox. Record of Fox's veneration for Chaucer and reading of Dryden’s Palamon and Arcite.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/39462521">Charles James Fox</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/39462521">Fox, Charles-James</author>
             <date cert="high" when="1806">1806</date>
             <title level="a">Record of Fox's veneration for Chaucer and reading of Dryden’s Palamon and Arcite.</title>
           </analytic>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="27"/>
-        <ab type="imprint">1806. Fox, Charles James. Record of Fox's veneration for Chaucer and reading of Dryden’s Palamon and Arcite. See below, 1811, Trotter. For a letter to Charles Grey referring to Chaucer's love of birds, see below, App. A., 1800.</ab>
+        
+        <ab type="imprint">1806. Fox, Charles James. <hi rend="italic">Record</hi> of Fox's veneration for Chaucer and reading of Dryden’s <hi rend="italic">Palamon and Arcite</hi>. See below, 1811, Trotter. For a letter to Charles Grey referring to Chaucer's love of birds, see below, App. A., 1800.</ab>
       </div>
     </body>
   </text>

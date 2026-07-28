@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1801, John Aikin. General Biography, or Lives, critical and historical, of the most eminent persons. ...</title>
+        <title>1801, John Aikin. General Biography, or Lives, critical and historical, of the most eminent persons.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -19,7 +19,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="MA">Miranda Althaus</name>
-          <resp>Proofreading of the transcriptions</resp>
+          <resp>Proofreading of the transcriptions.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/59180443">John Aikin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/59180443">Aikin, John</author>
             <date cert="high" when="1801">1801</date>
-            <title level="a">General Biography, or Lives, critical and historical, of the most eminent persons. ...</title>
+            <title level="a">General Biography, or Lives, critical and historical, of the most eminent persons.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,10 +84,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="1"/>
-        <ab type="imprint">1801. Aikin, John. General Biography, or Lives, critical and historical, of the most eminent persons. ... vol. ii, pp. 647/2 to 649/2 Chaucer, Geoffrey.</ab>
+        
+        <ab type="imprint">1801. Aikin, John. <hi rend="italic">General Biography, or Lives, critical and historical, of the most eminent persons</hi>. . . . vol. ii, pp. 647/2 to 649/2 Chaucer, Geoffrey.</ab>
+        
         <ab type="quotation">
-          <seg>[The life is taken from the Biographia Britannica; Tyrwhitt’s edition and theories are referred to, and the ‘true
-poetical character' of Chaucer's work is insisted upon.]</seg>
+          <seg type="editorial">[The life is taken from the Biographia Britannica; Tyrwhitt’s edition and theories are referred to, and the ‘true poetical character' of Chaucer's work is insisted upon.]</seg>
         </ab>
       </div>
     </body>

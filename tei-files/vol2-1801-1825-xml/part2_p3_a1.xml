@@ -19,7 +19,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="MA">Miranda Althaus</name>
-          <resp>Proofreading of the transcriptions</resp>
+          <resp>Proofreading of the transcriptions.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">William Wordsworth</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">Wordsworth, William</author>
             <date cert="high" when="1801">1801</date>
             <title level="a">Selections from Chaucer modernised.</title>
           </analytic>
@@ -88,24 +88,26 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="3"/>
-        <ab type="imprint">1801. Wordsworth, William. Selections from Chaucer modernised. The Prioress's Tale (from Chaucer). The Cuckoo and the Night ingale (from Chaucer) [by Clanvowe, not Chaucer]. Troilus and Cressida (from Chaucer) [bk. v, 11. 519-686]. (Poetical works, ed. W. Knight, 1896, 8 vols, vol. ii, pp. 238-69.)</ab>
+        
+        <ab type="imprint">1801. Wordsworth, William. <hi rend="italic">Selections from Chaucer modernised</hi>. <hi rend="italic">The Prioress's Tale</hi> (<hi rend="italic">from Chaucer</hi>). <hi rend="italic">The Cuckoo and the Nightingale</hi> (<hi rend="italic">from Chaucer</hi>) [by Clanvowe, not Chaucer]. <hi rend="italic">Troilus and Cressida</hi> (<hi rend="italic">from Chaucer</hi>) [bk. v, 11. 519-686]. (Poetical works, ed. W. Knight, 1896, 8 vols, vol. ii, pp. 238-69.)</ab>
+        
         <ab type="quotation">
-          <seg>[A prefatory note to the Prioress's Tale reads:]
-In the following Piece I have allowed myself no farther
-deviations from the original than were necessary for the fluent
-reading, and instant understanding, of the Author: so much
-however is the language altered since Chaucer’s time, especially
-in pronunciation, that much was to be removed, and its place
-supplied with as little incongruity as possible. The ancient
-accent has been retained in a few conjunctions, such as alsō and
-alwāy, from a conviction that such sprinklings of antiquity
-would be admitted, by persons of taste, to have a graceful
-accordance with the subject. The fierce bigotry of the
-Prioress forms a fine background for her tender-hearted
-sympathies with the Mother and Child; and the mode in
-vhich the story is told amply atones for the extravagance of
-the miracle.</seg>
-          <note type="footnote">Note in Spurgeon: [Of these modernizations, which were all (with the Manciple's Tale, which has never been published) written in 1801, the first was published in 1820 (Poems, 1815-20, vol. iii [The River Duddon, etc.], pp. 173-86), and the second and third in 1841 (in the Poems of Geoffrey Chaucer Modernised, by Horne, etc.). The Prioress's Tale is preceded by Milton's lines: Call up him who left half told Compare Wordsworth's remarks on his modernizations with those of Leigh Hunt. The story of Cambuscan bold. printed before his Death and the Ruffians, 1855, below. Two further letters from Wordsworth, 1840 and 1841, and Horne's Introduction to Chaucer Modernised, 1841, are printed below.]</note>
+            <seg type="editorial">[A prefatory note to the <hi rend="italic">Prioress's Tale</hi> reads:]</seg>
+          
+            <seg>In the following Piece I have allowed myself no farther
+              deviations from the original than were necessary for the fluent
+              reading, and instant understanding, of the Author: so much
+              however is the language altered since Chaucer’s time, especially
+              in pronunciation, that much was to be removed, and its place
+              supplied with as little incongruity as possible. The ancient
+              accent has been retained in a few conjunctions, such as alsō and
+              alwāy, from a conviction that such sprinklings of antiquity
+              would be admitted, by persons of taste, to have a graceful
+              accordance with the subject. The fierce bigotry of the
+              Prioress forms a fine background for her tender-hearted
+              sympathies with the Mother and Child; and the mode in
+              vhich the story is told amply atones for the extravagance of
+              the miracle.<note type="footnote">Note in Spurgeon: [Of these modernizations, which were all (with the <hi rend="italic">Manciple's Tale</hi>, which has never been published) written in 1801, the first was published in 1820 (<hi rend="italic">Poems</hi>, 1815-20, vol. iii [<hi rend="italic">The River Duddon</hi>, etc.], pp. 173-86), and the second and third in 1841 (in the <hi rend="italic">Poems of Geoffrey Chaucer Modernised</hi>, by Horne, etc.). <hi rend="italic">The Prioress's Tale</hi> is preceded by Milton's lines: <lg><l>Call up him who left half told</l> <l>The story of Cambuscan bold.</l></lg> Compare Wordsworth's remarks on his modernizations with those of Leigh Hunt, printed before his <hi rend="italic">Death and the Ruffians</hi>, 1855, below. Two further letters from Wordsworth, 1840 and 1841, and Horne's Introduction to <hi rend="italic">Chaucer Modernised</hi>, 1841, are printed below.]</note></seg>
         </ab>
       </div>
     </body>

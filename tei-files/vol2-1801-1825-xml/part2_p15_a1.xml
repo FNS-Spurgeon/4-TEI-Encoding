@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1804], Jonathan Boucher. Boucher's Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language, particularly those of Dr. Johnson and Dr. Webster...</title>
+        <title>[a. 1804], Jonathan Boucher. Boucher's Glossary of Archaic and Provincial Words.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/44659213">Jonathan Boucher</author>
-            <date cert="low" when="[a. 1804]">[a. 1804]</date>
-            <title level="a">Boucher's Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language, particularly those of Dr. Johnson and Dr. Webster...</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/44659213">Boucher, Jonathan</author>
+            <date cert="low" notAfter="1804">[a. 1804]</date>
+            <title level="a">Boucher's Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language, particularly those of Dr. Johnson and Dr. Webster.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,25 +84,27 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="15"/>
-        <ab type="imprint">[a. 1804.] Boucher, Jonathan. Boucher's Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language, particularly those of Dr. Johnson and Dr. Webster... edited jointly by Joseph Hunter and Joseph Stevenson, 1832, Introduction, pp. vii, xix, xxxii, xl, xli and note, xlv, xlvi note, lvi, and continual references in the Glossary.</ab>
+        
+        <ab type="imprint">[a. 1804.] Boucher, Jonathan. <hi rend="italic">Boucher's Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language, particularly those of Dr. Johnson and Dr. Webster</hi> . . . edited jointly by Joseph Hunter and Joseph Stevenson, 1832, Introduction, pp. vii, xix, xxxii, xl, xli and note, xlv, xlvi note, lvi, and continual references in the Glossary.</ab>
+        
         <ab type="quotation">
-          <seg>[Boucher devoted fourteen years to this Glossary, and left it
-uncompleted when he died, in 1804. In 1803, he had issued
-proposals for printing it (see above, 1803); the part
-including letter A was published in 1807, and finally, in
-1832, Hunter and Stevenson brought out the Introduction to
-the whole work as prepared for the press by Boucher, and
-the Glossary A to Blade.
-It was not successful, and Mr. W. P. Courtney says (see article
-Boucher in D. N. B.) that it is understood that most of the
-materials passed into the hands of the proprietors of Webster's
-English Dictionary. Besides the references to Chaucer in the
-introduction, his poems are quoted on almost every page, and
-often there are 6 or 8 quotations from him on a page. On the
-first page (really only half a page), on the letter A, there are
-15 references to or quotations from Chaucer. But this is
-unusually many. In the first 20 pages there are in all 69
-Chaucer references and quotations.]</seg>
+          <seg type="editorial">[Boucher devoted fourteen years to this Glossary, and left it
+            uncompleted when he died, in 1804. In 1803, he had issued
+            proposals for printing it (see above, 1803); the part
+            including letter A was published in 1807, and finally, in
+            1832, Hunter and Stevenson brought out the Introduction to
+            the whole work as prepared for the press by Boucher, and
+            the Glossary A to Blade.
+            <lb/>It was not successful, and Mr. W. P. Courtney says (see article
+            Boucher in <hi rend="italic">D. N. B.</hi>) that it is understood that most of the
+            materials passed into the hands of the proprietors of Webster's
+            English Dictionary. Besides the references to Chaucer in the
+            introduction, his poems are quoted on almost every page, and
+            often there are 6 or 8 quotations from him on a page. On the
+            first page (really only half a page), on the letter A, there are
+            15 references to or quotations from Chaucer. But this is
+            unusually many. In the first 20 pages there are in all 69
+            Chaucer references and quotations.]</seg>
         </ab>
       </div>
     </body>

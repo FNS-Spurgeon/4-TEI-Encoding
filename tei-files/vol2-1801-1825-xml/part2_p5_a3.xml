@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1802, Unknown.. The Englih Encyclopædia.</title>
+        <title>1802, Unknown. The Englih Encyclopædia.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -19,7 +19,7 @@
         </respStmt>
         <respStmt>
           <name xml:id="MA">Miranda Althaus</name>
-          <resp>Proofreading of the transcriptions</resp>
+          <resp>Proofreading of the transcriptions.</resp>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author>Unknown.</author>
+            <author>Unknown</author>
             <date cert="high" when="1802">1802</date>
             <title level="a">The Englih Encyclopædia.</title>
           </analytic>
@@ -84,12 +84,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="5"/>
-        <ab type="imprint">1802. Unknown. The Englih Encyclopædia. 10 vols., vol ii, pp. 366/2-367/2; vol. v, p. 401/2.</ab>
+        
+        <ab type="imprint">1802. Unknown. <hi rend="italic">The Englih Encyclopædia</hi>. 10 vols., vol ii, pp. 366/2-367/2; vol. v, p. 401/2.</ab>
+        
         <ab type="quotation">
-          <seg>[The Chaucer and Lydgate articles are exact reprints of
-these articles as they appeared for the first time in the
-Encyclopædia Britannica, 2nd edn., 1778, q.v. above, vol. i,
-p. 452.]</seg>
+          <seg type="editorial">[The Chaucer and Lydgate articles are exact reprints of
+            these articles as they appeared for the first time in the
+            <hi rend="italic">Encyclopædia Britannica</hi>, 2nd edn., 1778, q.v. above, vol. i,
+            p. 452.]</seg>
         </ab>
       </div>
     </body>

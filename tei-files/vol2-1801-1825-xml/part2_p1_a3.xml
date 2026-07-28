@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1801, John Leyden. The Complaynt of Scotland,</title>
+        <title>1801, John Leyden. The Complaynt of Scotland.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54362232">John Leyden</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54362232">Leyden, John</author>
             <date cert="high" when="1801">1801</date>
-            <title level="a">The Complaynt of Scotland,</title>
+            <title level="a">The Complaynt of Scotland.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,22 +84,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="1"/>
-        <ab type="imprint">1801. Leyden, John. The Complaynt of Scotland, ed. J. Leyden, Edinburgh.</ab>
+        
+        <ab type="imprint">1801. Leyden, John. <hi rend="italic">The Complaynt of Scotland</hi>, ed. J. Leyden, Edinburgh.</ab>
+        
         <ab type="quotation">
-          <seg>[Testament of Love quoted as Chaucer's, p. 80; quotation
-from John de Irlandia mentioning the moral influence of the
-works of Chaucer and Gower, p. 86; Orisoune of Chaucer
-quoted, pp. 87-93; quotation from the Parlement of Foules
-" attributed to Chaucer," p. 104; mention of the vigorous
-description of a sea-fight in Legend of Good Women
-(Cleopatra), reference and quotation, pp. 114, 115; Nonne
-Prestes Tale mentioned as anterior to Cockleby’s Sow, p. 134
-n.; passing references to musical instruments in Chaucer, pp.
-153-5; brief mention of Canterbury Tales, p. 236; Arthur
-in the Romaunt, p. 237; references to The Maying of Chaucer,
-p. 245; source of Frankeleyns Tale, quotation from Tyr¬
-whitt's edition, p. 262; the “Kingis note" (Milleres Tale),
-p. 277; authorship of the Orisoune of Chaucer, p. 289.]</seg>
+          <seg type="editorial">[<hi rend="italic">Testament of Love</hi> quoted as Chaucer's, p. 80; quotation
+            from John de Irlandia mentioning the moral influence of the
+            works of Chaucer and Gower, p. 86; <hi rend="italic">Orisoune of Chaucer</hi>
+            quoted, pp. 87-93; quotation from the <hi rend="italic">Parlement of Foules</hi>
+            "attributed to Chaucer," p. 104; mention of the vigorous
+            description of a sea-fight in <hi rend="italic">Legend of Good Women</hi>
+            (Cleopatra), reference and quotation, pp. 114, 115; <hi rend="italic">Nonne
+            Prestes Tale</hi> mentioned as anterior to Cockleby’s Sow, p. 134
+            n.; passing references to musical instruments in Chaucer, pp.
+            153-5; brief mention of <hi rend="italic">Canterbury Tales</hi>, p. 236; Arthur
+            in the Romaunt, p. 237; references to <hi rend="italic">The Maying of Chaucer</hi>,
+            p. 245; source of <hi rend="italic">Frankeleyns Tale</hi>, quotation from
+            Tyrwhitt's edition, p. 262; the “Kingis note" (<hi rend="italic">Milleres Tale</hi>),
+            p. 277; authorship of the <hi rend="italic">Orisoune of Chaucer</hi>, p. 289.]</seg>
         </ab>
       </div>
     </body>

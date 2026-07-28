@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1804, Walter Scott. Review of Godwin's Life of Chaucer,</title>
+        <title>1804, Walter Scott. Review of Godwin's Life of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1804">1804</date>
-            <title level="a">Review of Godwin's Life of Chaucer,</title>
+            <title level="a">Review of Godwin's Life of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,90 +86,108 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="17"/>
-        <ab type="imprint">1804. Scott, Sir Walter. Review of Godwin's Life of Chaucer, [in] The Edinburgh Review, vol. iii, Jan. 1804, art. xvi, pp. 437-52. (Miscellaneous Prose Works of Sir Walter Scott, 30 vols., Edinburgh, 1834-71, vol. xvii, pp. 55-80.)</ab>
+        
+        <ab type="imprint">1804. Scott, Sir Walter. <hi rend="italic">Review</hi> of Godwin's <hi rend="italic">Life of Chaucer</hi>, [in] The Edinburgh Review, vol. iii, Jan. 1804, art. xvi, pp. 437-52. (Miscellaneous Prose Works of Sir Walter Scott, 30 vols., Edinburgh, 1834-71, vol. xvii, pp. 55-80.)</ab>
+        
         <ab type="quotation">
-          <seg>[p.55] The perusal of this title excited no small surprise in our
-critical fraternity. The authenticated passages of Chaucer's
-life may be comprised in half a dozen pages; and behold two
-voluminous quartos!
-. . . . . . . . . .
-[p. 56] The reader will learn, with admiration, that Mr. William
-[p. 57] Godwin’s two quarto volumes contain hardly the vestige of an
-authenticated fact concerning Chaucer, which is not to be
-found in the eight pages of Messrs. Thomas Tyrwhitt and
-George Ellis. The researches into the records have only pro¬
-duced one or two writs, addressed to Chaucer, while clerk of
-the works; the several grants and passports granted to him by
-Edward III and Richard II which had been referred to by
-former biographers; together with the poet's evidence in a
-court of chivalry, a contract about a house, and a solitary
-receipt for half a year’s salary. These, with a few documents
-referring to John of Gaunt, make the Appendix to the book,
-and are the only original materials brought to light by the
-labours of the author.
-. . . . . . . . . .
-[p. 65] The public are indebted to Mr. Godwin for the recovery of
-[p. 66] Chaucer's evidence in a question about bearing arms, occurring
-betwixt Scrope and Grosvenor*; but the manner in which it
-is narrated, is a good illustration of the strained inferences
-concerning Chaucer’s temper and disposition, deduced by his
-biographer from the most common and trivial occurrences.
-. . . . . . . . . .
-[p. 68] Some particular passages of the life, are less fancifully and
-more correctly delineated. Mr. Godwin combats, and in our
-opinion successfully, the opinion of those who deny the
-honourable claim of Thomas Chaucer, to call the poet father:
-and he has vindicated the relation, which the Dreme of
-Chaucer unquestionably bears to the History of John of
-Gaunt.
-The critical dissertations upon Troilus and Creside, and
-Chaucer's other poems, have considerable merit. They are
-the production of a man who has read poetry with taste and
-feeling; and we wish sincerely, that instead of the strange
-[p. 69]  farrago which he calls the life of Chaucer, he had given us a
-correct edition of the miscellaneous poetry of the author, upon
-the same plan with Mr. Tyrwhitt's admirable Canterbury
-Tales.
-. . . . . . . . . .
-We were much surprised to find, that the Canterbury Tales,
-[p 70] the most important, as well as the most exquisite, of Chaucer's
-productions, have attracted so little of Mr. Godwin's attention.
-He might have displayed, in commenting upon poems as varied
-in subject as in beauty, his whole knowledge of the manners
-of the middle ages, were it ten times more extensive. But
-Mr. Godwin, beginning probably to write before he had con¬
-sidered either the nature of his subject, or the probable length
-of his work, had exhausted both his limits and materials ere
-he came to the topic upon which he ought principally to have
-dwelt. The characters, therefore, of the several pilgrims, so
-exquisitely described, that each individual passes before the
-eyes of the reader, and so admirably contrasted with each
-other; their conversation and manners, the gallantry of the
-Knight and Squire, the affected sentimentality of the Abbess,
-the humour of mine Host, and the Wife of Bath; the pride
-of the Monk, the humility of the Parson, the learning and
-* We hold this to be the only circumstance of importance, which
-Mr. Godwin’s researches have brought to light; and so far our thanks
-are due to him.
-poverty of the Scholar, with the rude but comic portraits of
-the inferior characters, are, in the history of the life and age
-of Chaucer, of which they form a living picture, passed over
-in profound silence, or with very slight notice. The truth is,
-Mr. Godwin's speed and strength were expended before he
-came within sight of the goal, and he saw himself compelled
-with a faint apology to abandon that part of his subject which
-must have been universally interesting. The few remarks
-which he has made upon the Canterbury Tales, induce us to
-believe that he has seen and regretted his error; but it is a
-poor excuse, after writing a huge book, to tell the reader that
-it is but “superficial work,” because the author “came a novice
-to such an undertaking.”
-. . . . . . . . . .
-[p.79] But, upon the whole, the Life of Chaucer, if an uninterest¬
-[p. 80] ing, is an innocent performance; and were its prolixities and
-superfluities unsparingly pruned (which would reduce the work
-to about one fourth of its present size), we would consider it as
-an accession of some value to English literature.</seg>
+          <seg><note place="margin">[p.55]</note>The perusal of this title excited no small surprise in our
+            critical fraternity. The authenticated passages of Chaucer's
+            life may be comprised in half a dozen pages; and behold two
+            voluminous quartos!</seg>
+          
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 56]</note>The reader will learn, with admiration, that Mr. William
+            <note place="margin">[p. 57]</note>Godwin’s two quarto volumes contain hardly the vestige of an
+            authenticated fact concerning Chaucer, which is not to be
+            found in the eight pages of Messrs. Thomas Tyrwhitt and
+            George Ellis. The researches into the records have only
+            produced one or two writs, addressed to Chaucer, while clerk of
+            the works; the several grants and passports granted to him by
+            Edward III and Richard II which had been referred to by
+            former biographers; together with the poet's evidence in a
+            court of chivalry, a contract about a house, and a solitary
+            receipt for half a year’s salary. These, with a few documents
+            referring to John of Gaunt, make the Appendix to the book,
+            and are the only original materials brought to light by the
+            labours of the author.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 65]</note>The public are indebted to Mr. Godwin for the recovery of
+            <note place="margin">[p. 66]</note>Chaucer's evidence in a question about bearing arms, occurring
+            
+            <milestone unit="page" n="18"/>
+            
+            betwixt Scrope and Grosvenor<note type="footnote" n="*">Note in Spurgeon: We hold this to be the only circumstance of importance, which
+              Mr. Godwin’s researches have brought to light; and so far our thanks
+              are due to him.</note>; but the manner in which it
+            is narrated, is a good illustration of the strained inferences
+            concerning Chaucer’s temper and disposition, deduced by his
+            biographer from the most common and trivial occurrences.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p. 68]</note>Some particular passages of the life, are less fancifully and
+            more correctly delineated. Mr. Godwin combats, and in our
+            opinion successfully, the opinion of those who deny the
+            honourable claim of Thomas Chaucer, to call the poet father:
+            and he has vindicated the relation, which the Dreme of
+            Chaucer unquestionably bears to the History of John of
+            Gaunt.</seg>
+            
+          <seg>The critical dissertations upon Troilus and Creside, and
+            Chaucer's other poems, have considerable merit. They are
+            the production of a man who has read poetry with taste and
+            feeling; and we wish sincerely, that instead of the strange
+            <note place="margin">[p. 69]</note>farrago which he calls the life of Chaucer, he had given us a
+            correct edition of the miscellaneous poetry of the author, upon
+            the same plan with Mr. Tyrwhitt's admirable Canterbury
+            Tales.</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg>We were much surprised to find, that the Canterbury Tales,
+            <note place="margin">[p 70]</note>the most important, as well as the most exquisite, of Chaucer's
+            productions, have attracted so little of Mr. Godwin's attention.
+            He might have displayed, in commenting upon poems as varied
+            in subject as in beauty, his whole knowledge of the manners
+            of the middle ages, were it ten times more extensive. But
+            Mr. Godwin, beginning probably to write before he had con¬
+            sidered either the nature of his subject, or the probable length
+            of his work, had exhausted both his limits and materials ere
+            he came to the topic upon which he ought principally to have
+            dwelt. The characters, therefore, of the several pilgrims, so
+            exquisitely described, that each individual passes before the
+            eyes of the reader, and so admirably contrasted with each
+            other; their conversation and manners, the gallantry of the
+            Knight and Squire, the affected sentimentality of the Abbess,
+            the humour of mine Host, and the Wife of Bath; the pride
+            of the Monk, the humility of the Parson, the learning and
+            
+            <milestone unit="page" n="19"/>
+            
+            poverty of the Scholar, with the rude but comic portraits of
+            the inferior characters, are, in the history of the life and age
+            of Chaucer, of which they form a living picture, passed over
+            in profound silence, or with very slight notice. The truth is,
+            Mr. Godwin's speed and strength were expended before he
+            came within sight of the goal, and he saw himself compelled
+            with a faint apology to abandon that part of his subject which
+            must have been universally interesting. The few remarks
+            which he has made upon the Canterbury Tales, induce us to
+            believe that he has seen and regretted his error; but it is a
+            poor excuse, after writing a huge book, to tell the reader that
+            it is but "superficial work," because the author "came a novice
+            to such an undertaking."</seg>
+            
+          <lb/>. . . . . . . . . .
+            
+          <seg><note place="margin">[p.79]</note>But, upon the whole, the Life of Chaucer, if an uninteresting,
+            <note place="margin">[p. 80]</note>is an innocent performance; and were its prolixities and
+            superfluities unsparingly pruned (which would reduce the work
+            to about one fourth of its present size), we would consider it as
+            an accession of some value to English literature.</seg>
         </ab>
       </div>
     </body>
