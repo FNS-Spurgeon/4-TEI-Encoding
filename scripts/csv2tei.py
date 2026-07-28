@@ -3,7 +3,7 @@ from datetime import date
 import csv
 import os
 
-file = "../../3-DataEnrichment/2-DataEnriched/vol3-appendixC-allusions-enriched.csv"
+file = "../../3-DataEnrichment/2-DataEnriched/vol2-1801-1825-allusions-enriched.csv"
 
 ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
@@ -43,6 +43,13 @@ with open(file, 'r', encoding='utf-8') as f:
         resp3 = etree.SubElement(respStmt3, "resp")
         resp3.text = "Corpus enhacement and verification of data accuracy. Control of data quality."
 
+        respStmt4 = etree.SubElement(titleStmt, "respStmt")
+        name4 = etree.SubElement(respStmt4, "name")
+        name4.set("{http://www.w3.org/XML/1998/namespace}id", "MA")
+        name4.text = "Miranda Althaus"
+        resp4 = etree.SubElement(respStmt4, "resp")
+        resp4.text = "Proofreading of the transcriptions"
+
         pubStmt = etree.SubElement(fileDesc, "publicationStmt")
         publisher = etree.SubElement(pubStmt, "publisher")
         publisher.text = 'Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare\'s Imagery, and the Digital Humanities" (n°225925)'
@@ -64,7 +71,7 @@ with open(file, 'r', encoding='utf-8') as f:
         biblStruct = etree.SubElement(sourceDesc, "biblStruct")
         analytic = etree.SubElement(biblStruct, "analytic")
 
-        if row[9] == "Unknown":
+        if row[9] == "Unknown.":
             author1 = etree.SubElement(analytic, "author")
             author1.text = row[9]
         else:
@@ -180,13 +187,13 @@ with open(file, 'r', encoding='utf-8') as f:
 
         if row[15] != "":
             footnote = etree.SubElement(ab_Quotation, 'note', type="footnote")
-            footnote.text = "Spurgeon's note: " + row[15]
+            footnote.text = "Note in Spurgeon: " + row[15]
 
         # print(etree.tostring(div, xml_declaration=True, encoding='UTF-8', pretty_print=True))
 
         tree = etree.ElementTree(root)
 
-        path_tei = '../tei-files/vol3-appendixC-xml'  # New folder to save the files
+        path_tei = '../tei-files/vol2-1801-1825-xml'  # New folder to save the files
         if not os.path.isdir(path_tei):
             os.mkdir(path_tei)
 

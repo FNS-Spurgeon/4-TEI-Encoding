@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p98_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1818, William Hazlitt. Lectures on the English Poets,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Proofreading of the transcriptions</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">William Hazlitt</author>
+            <date cert="high" when="1818">1818</date>
+            <title level="a">Lectures on the English Poets,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=124">98-106</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#pathos"/>
+        <catRef scheme="#criticism" target="#spenser"/>
+        <catRef scheme="#criticism" target="#shakespeare"/>
+        <catRef scheme="#works" target="#knightTale"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-07-28" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="98"/>
+        <ab type="imprint">1818. Hazlitt, William. Lectures on the English Poets, pp. 25-6, 27, 41-85, 88, 90, 91, 99, 102, 135, 161, 162. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. v, pp. 13, 19-46, 50-52, 68, 82, 99, 129, 146. See also Blackwood’s Edinburgh Magazine, February, 1818, vol. ii, pp. 558-60.)</ab>
+        <ab type="quotation">
+          <seg>Lecture II. On Chaucer and Spenser.
+[p. 19]... I shall take, as the subject of the present lecture,
+Chaucer and Spenser, two out of four of the greatest names
+in poetry, which this country has to boast. Both of them,
+however, were much indebted to the early poets of Italy, and
+may be considered as belonging, in a certain degree, to the
+same school. . . . . . . .
+[Here follows a short biography of Chaucer.]
+[p. 20]  There is... an obvious similarity between the practical turn
+of Chaucer's mind and the restless impatience of his character,
+and the tone of his writings. Yet it would be too much to
+attribute the one to the other as cause and effect: for Spenser,
+whose poetical temperament was as effeminate as Chaucer's
+was stern and masculine, was equally engaged in public
+affairs, and had mixed equally in the great world.   ...
+For while Chaucer's intercourse with the busy world, and
+collision with the actual passions and conflicting interests of
+others, seemed to brace the sinews of his understanding, and
+gave to his writings the air of a man who describes persons
+and things that he had known and been intimately concerned
+in; the same opportunities, operating on a differently con¬
+stituted frame, only served to alienate Spenser's mind the
+more from the 'close-pent up' scenes of ordinary life.  ...
+It is not possible for any two writers to be more opposite
+in this respect. Spenser delighted in luxurious enjoyment;
+Chaucer, in severe activity of mind. As Spenser was the most
+romantic and visionary, Chaucer was the most practical of all
+the great poets, the most a man of business and the world.
+His poetry reads like history. Everything has a downright
+reality; at least in the relator’s mind. A simile, or a sentiment,
+is as if it were given in upon evidence. Thus he describes
+Cressid’s first avowal of her love.
+‘And as the new abashed nightingale, ...
+That stinteth first when she beginneth sing,
+. . . . . . . .
+Right so Cresseide,...’ [etc., one stanza].
+[Troilus, Bk. iii, ll. 1283-9.]
+This is so true and natural, and beautifully simple, that
+the two things seem identified with each other. Again, it is
+said in the Knight's Tale–
+‘Thus passeth yere by yere, and day by day [etc., to]
+[p. 21] I n'ot which was the finer of hem two.’
+[Knight's Tale, ll. 175-81.]
+This scrupulousness about the literal preference, as if some
+question of matter of fact was at issue, is remarkable.¹ I
+might mention that other, where he compares the meeting
+between Palamon and Arcite to a hunter waiting for a lion in
+a gap ;—
+‘That stondeth at a gap with a spere,’
+[etc., four lines],
+[Knight's Tale, ll. 781-4.]
+or that still finer one of Constance, when she is condemned to
+death—
+‘Have ye not seen somtime a pale face?’
+[etc., one stanza].
+[Man of Law’s Tale, ll. 547-53.]
+The beauty, the pathos here does not seem to be of the
+poet's seeking, but a part of the necessary texture of the fable.
+He speaks of what he wishes to describe with the accuracy,
+the discrimination of one who relates what has happened to
+himself, or has had the best information from those who have
+been eye-witnesses of it. The strokes of his pencil always
+tell. He dwells only on the essential, on that which would
+be interesting to the persons really concerned: yet as he never
+omits any material circumstance, he is prolix from the number
+of points on which he touches, without being diffuse on any
+one; and is sometimes tedious from the fidelity with which
+he adheres to his subject, as other writers are from the
+frequency of their digressions from it. The chain of his
+story is composed of a number of fine links, closely connected
+together, and riveted by a single blow. There is an instance
+of the minuteness which he introduces into his most serious
+[¹ See Gifford's criticism of this passage, 1818, above, and Hazlitt's answer
+below, 1819.]
+descriptions in his account of Palamon when left alone in his
+cell:
+‘Swiche sorrow he maketh that the grete tour
+Resouned of his yelling and clamour,
+The pure fetters on his shinnes grete
+Were of his bitter salte teres wete.’
+[Knight's Tale, ll. 419-22.]
+[p. 22] The mention of this last circumstance looks like a part of the
+instructions he had to follow, which he had no discretionary
+power to omit or introduce at pleasure. He is contented to
+find grace and beauty in truth. He exhibits for the most
+part the naked object, with little drapery thrown over it.
+His metaphors, which are few, are not for ornament, but use,
+and as like as possible to the things themselves. He does
+not affect to show his power over the reader's mind, but the
+power which his subject has over his own. The readers of
+Chaucer's poetry feel more nearly what the persons he
+describes must have felt, than perhaps those of any other
+poet. His sentiments are not voluntary effusions of the poet's
+fancy, but founded on the natural impulses and habitual
+prejudices of the characters he has to represent. There is an
+inveteracy of purpose, a sincerity of feeling, which never
+relaxes or grows vapid, in whatever they do or say. There
+is no artificial, pompous display, but a strict parsimony of the
+poet's materials, like the rude simplicity of the age in which
+he lived. His poetry resembles the root just springing from
+the ground, rather than the full-blown flower. His muse is
+no ‘babbling gossip of the air,’ fluent and redundant; but,
+like a stammerer, or a dumb person, that has just found the
+use of speech, crowds many things together with eager haste,
+with anxious pauses, and fond repetitions to prevent mistake.
+His words point as an index to the objects, like the eye or
+finger. There were none of the common-places of poetic
+diction in our author’s time, no reflected lights of fancy, no
+borrowed roseate tints; he was obliged to inspect things
+for himself, to look narrowly, and almost to handle the
+object, as in the obscurity of morning we partly see and
+partly grope our way; so that his descriptions have a sort of
+tangible character belonging to them, and produce the effect
+of sculpture on the mind. Chaucer had an equal eye for
+truth of nature and discrimination of character; and his
+interest in what he saw gave new distinctness and force to
+his power of observation. The picturesque and the dramatic
+are in him closely blended together, and hardly distinguish¬
+able; for he principally describes external appearances as
+indicating character, as symbols of internal sentiment. There
+is a meaning in what he sees; and it is this which catches
+his eye by sympathy. Thus the costume and dress of the
+Canterbury Pilgrims–of the Knight–the Squire–the Oxford
+Scholar–the Gap-toothed Wife of Bath, and the rest, speak
+for themselves...
+[Quotation, Prol. ll. 118-29, 136-55, 165-207, 321-2, 449-52.]
+[p. 24] Chaucer, it has been said [by Blake, q.v. above, 1809],
+. . . . . .
+numbered the classes of men, as Linnæus numbered the
+plants. Most of them remain to this day: others that are
+obsolete... still live in his descriptions of them. Such
+is the Sompnoure:
+‘A Sompnoure was ther with us in that place,
+That hadde a fire-red cherubinnes face‘
+[and following twenty-five lines, Prol. ll. 623-69, 688].
+[p. 25] It would be a curious speculation (at least for those who
+think that the characters of men never change, though
+manners, opinions, and institutions may) to know what has
+become of this character of the Sompnoure in the present day;
+whether or not it has any technical representative in existing
+professions; into what channels and conduits it has with¬
+drawn itself, where it lurks unseen in cunning obscurity, or
+else shows its face boldly, pampered into all the insolence of
+office, in some other shape, as it is deterred or encouraged by
+circumstances. Chaucer's characters modernised, upon this
+principle of historic derivation, would be an useful addition
+to our knowledge of human nature. But who is there to
+undertake it?...
+[Quotation, Knight's Tale, ll. 1270-1328.]
+[p. 26] Chaucer's descriptions of natural scenery possess the
+[p. 27] same sort of characteristic excellence, or what might be
+termed gusto. They have a local truth and freshness, which
+gives the very feeling of the air, the coolness or moisture of
+the ground. Inanimate objects are thus made to have a
+fellow-feeling in the interest of the story; and render back
+the sentiment of the speaker's mind. One of the finest parts
+in Chaucer is of this mixed kind. It is the beginning of the
+Flower and the Leaf, where he describes the delight of that
+young beauty, shrowded in her bower, and listening, in the
+morning of the year to the singing of the nightingale.
+[p. 28] It was the same trust in nature, and reliance on his
+[Quotation, Floure and the Leaf, ed. Skeat, ll. 36-42, 78-133.]
+[p. 29] patience of Griselda; the faith of Constance; and the heroic
+subject, which enabled Chaucer to describe the grief and
+perseverance of the little child, who, going to school through
+the streets of Jewry,
+‘Oh Alma Redemptoris mater, loudly sung,’ ¹
+and who after his death, still triumphed in his song.
+Chaucer has more of this deep, internal, sustained sentiment,
+than any other writer, except Boccaccio. In depth of simple
+pathos, and intensity of conception, never swerving from his
+subject, I think no other writer comes near him, not even the
+Greek tragedians.  ... I will take the following from the
+Knight’s Tale. The distress of Arcite, in consequence of his
+banishment from his love, is thus described:
+‘Whan that Arcite to Thebes comen was,
+Ful oft a day he swelt and said Alas,
+[and fourteen following lines, Knight's Tale, ll. 497-513].
+For sene his lady shall he never mo. ...’
+This picture of the sinking of the heart, of the wasting
+away of the body and mind, of the gradual failure of all the
+faculties under the contagion of a rankling sorrow, cannot be
+surpassed. Of the same kind is his farewel to his mistress,
+after he has gained her hand and lost his life in the
+combat:
+Alas the wo! alas the peines stronge...
+[and eight following lines, Knight's Tale, ll. 1913-21].
+[p. 30] The death of Arcite is the more affecting, as it comes
+after triumph and victory, after the pomp of sacrifice, the
+solemnities of prayer, the celebration of the gorgeous rites
+of chivalry. The descriptions of the three temples of Mars,
+[ ¹ This line, which has two syllables too many, does not occur in the Prioresses
+Tale.]
+of Venus, and Diana, of the ornaments and ceremonies used
+in each, with the reception given to the offerings of the
+lovers, have a beauty and grandeur, much of which is lost in
+Dryden’s version...
+[Quotation, Knight’s Tale, ll. 1109-22.]
+... The story of Griselda is in Boccaccio; but the Clerk of
+Oxenforde, who tells it, professes to have learnt it from
+Petrarch.  ... In spite of the barbarity of the circumstances,
+which are abominable, the sentiment remains unimpaired and
+unalterable. It is of that kind,  ‘that heaves no sigh, that
+sheds no tear’; but it hangs upon the beatings of the heart;
+it is a part of the very being; it is as inseparable from it as
+the breath we draw. It is still and calm as the face of death.
+Nothing can touch its ethereal purity: tender as the yielding
+flower, it is fixed as the marble firmament. The only remon¬
+strance she makes, the only complaint she utters against all
+the ill-treatment she receives, is that single line where, when
+turned back naked to her father's house, she says,
+‘Let me not like a worm go by the way.’
+[p. 31] The first outline given of the characters is inimitable:
+‘Nought fer fro thilke paleis honourable’
+[ten stanzas, Clerkes Tale, ll. 141-89, 218-38].
+[p.32] The story of the little child slain in Jewry, (which is told
+. . . . . . . . . .
+by the Prioress, and worthy to be told by her who was ‘all
+conscience and tender heart,’) is not less touching than that
+of Griselda. It is simple and heroic to the last degree. The
+poetry of Chaucer has a religious sanctity about it, connected
+with the manners and superstitions of the age. It has all
+the spirit of martyrdom.
+It has also all the extravagance and the utmost licentiousness
+of comic humour, equally arising out of the manners of the
+time. In this too Chaucer resembled Boccaccio that he excelled
+in both styles, and could pass at will 'from grave to gay,
+from lively to severe;' but he never confounded the two
+styles together (except from that involuntary and unconscious
+mixture of the pathetic and humorous, which is almost always
+to be found in nature), and was exclusively taken up with
+what he set about, whether it was jest or earnest. The
+[p. 33] Wife of Bath's Prologue (which Pope has very admirably
+modernised) is, perhaps, unequalled as a comic story. The
+Cock and the Fox is also excellent for lively strokes of
+character and satire. January and May is not so good as
+some of the others. Chaucer's versification, considering the
+time at which he wrote, and that versification is a thing in a
+great degree mechanical, is not one of his least merits. It
+has considerable strength and harmony, and its apparent
+deficiency in the latter respect arises chiefly from the altera¬
+tions which have since taken place in the pronunciation or
+mode of accenting the words of the language. The best
+general rule for reading him is to pronounce the final e, as in
+reading Italian.
+It was observed in the last Lecture that painting describes
+what the object is in itself, poetry what it implies or suggests.
+Chaucer's poetry is not, in general, the best confirmation of
+the truth of this distinction, for his poetry is more picturesque
+and historical than almost any other. But there is one
+instance in point.  ... It is the story of the three thieves who
+go in search of Death to kill him, and who meeting with him,
+are entangled in their fate by his words, without knowing him.
+[p. 34] reality is in the mind’s eye.  ... Death is a mighty abstraction,
+... The moral impression of Death is essentially visionary; its
+like Night, or Space, or Time. He is an ugly customer, who
+will not be invited to supper, or to sit for his picture. He
+is with us and about us, but we do not see him.  ... Chaucer
+knew this. He makes three riotous companions go in search
+of Death to kill him, they meet with an old man whom they
+reproach with his age, and ask why he does not die, to which
+he answers thus:
+Ne Deth, alas! ne will not han my lif
+[and eleven following lines, Pardoner's Tale, ll. 399-410].
+They then ask the old man where they shall find out
+Death to kill him, and he sends them on an errand which
+ends in the death of all three. We hear no more of him, but
+it is Death that they have encountered!
+ . . . . . . . . . .
+[p. 46] The four greatest names in English poetry are almost the
+four first we come to–Chaucer, Spenser, Shakespeare, and
+Milton. There are no others that can really be put in com¬
+petition with these. The two last had justice done them by
+the voice of common fame. Their names are blazoned in the
+very firmament of reputation; while the two first (though
+"the fault has been more in their stars than in themselves
+that they are underlings") cither never emerged far above
+the horizon, or were too soon involved in the obscurity
+of time. The three first of these are excluded from Dr.
+Johnson's Lives of the Poets (Shakespeare indeed is so from
+the dramatic form of his compositions).   ... In comparing
+these four writers together, it might be said that Chaucer
+excels as the poet of manners, or of real life... Chaucer
+most frequently describes things as they are.... As poets,
+and as great poets, imagination, that is, the power of feigning
+things according to nature, was common to them all; but the
+principle, or moving power, to which this faculty was most
+subservient in Chaucer, was habit, or inveterate prejudice.
+... The characteristic of Chaucer is intensity...
+[p. 50] Chaucer's characters are sufficiently distinct from one
+another, but they are too little varied in themselves, too much
+like identical propositions. They are consistent, but uniform;
+we get no idea of them from first to last; they are not
+placed in different lights, nor are their subordinate traits
+brought out in new situations; they are like portraits or
+physiognomical studies, with the distinguishing features
+marked with inconceivable truth and precision, but that
+preserve the same unaltered air and attitude.  ... Chaucer's
+characters are narrative.  ... That is, Chaucer told only as
+much of his story as he pleased, as was required for a
+particular purpose. He answered for his characters himself.
+... In Chaucer we perceive a fixed essence of character...
+[p. 52] Nearly all those [dialogues] in Shakespeare, where the
+interest is wrought up to its highest pitch, afford example of
+this dramatic fluctuation of passion. The interest in Chaucer
+is quite different; it is like the course of a river, strong, and
+full, and increasing.
+[On Dryden and Pope.]
+[p. 82] . . . His [Dryden's] alterations from Chaucer and
+Boccaccio show a greater knowledge of the taste of his readers
+and power of pleasing them, than acquaintance with the
+genius of his authors. He ekes out the lameness of the
+verse in the former, and breaks the force of the passion in
+both. The Tancred and Sigismunda is the only general
+exception, in which, I think, he has fully retained, if not
+improved upon, the impassioned declamation of the original.
+The Honoria has none of the bewildered, dreary, preternatural
+effect of Boccaccio's story. Nor has the Flower and the Leaf
+any thing of the enchanting simplicity and concentrated
+feeling of Chaucer's romantic fiction. Dryden, however,
+sometimes seemed to indulge himself as well as his readers,
+as in keeping entire that noble line in Palamon’s address to
+Venus:
+Thou gladder of the mount of Cithæron!
+His Tales have been, I believe, the most popular of his
+works; and I should think that a modern translation of some
+of the other serious tales in Boccaccio and Chaucer, as that of
+Isabella, the Falcon, of Constance, the Prioress's Tale, and
+others, if executed with taste and spirit, could not fail to
+succeed in the present day.
+[p. 146] I cannot say I ever learnt much about Shakespeare or
+Milton, Spenser or Chaucer, from these professed guides
+[some of the poets of the day]; for I never heard them say
+much about them. They were always talking of themselves
+and one another.
+1818. Hazlitt, William. Lectures on the Comic Writers. On the
+Works of Hogarth, etc. Delivered in 1818. (Collected Works of
+William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. viii,
+pp. 144, 151.)
+[p.144] [The contradictory faculties of embodying the serious and
+ludicrous combined in Chaucer, Shakspere and Hogarth.]
+1818. Hazlitt, William. A View of the English Stage, p. 239.
+(Collected Works, ed. Waller and Glover, 1902-6, 13 vols., vol.
+viii, p. 284, 371.)
+p. 284] Chaucer spoke of the Monks historically, Shakespear
+poetically.
+[These theatrical criticisms appeared first in the Morning Chronicle, Champion,
+Examiner and Times, 1813-17.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

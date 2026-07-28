@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p25_a3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1805, Thomas Dunham Whitaker. History and Antiquities of... Craven in the County of York,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Proofreading of the transcriptions</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/29882679">Thomas Dunham Whitaker</author>
+            <date cert="high" when="1805">1805</date>
+            <title level="a">History and Antiquities of... Craven in the County of York,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=39">25-26</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#corruptedEnglish"/>
+        <catRef scheme="#works" target="#reeveTale"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-07-28" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="25"/>
+        <ab type="imprint">1805. Whitaker, Thomas Dunham. History and Antiquities of... Craven in the County of York, pp. 195, 227, 286, 289, 307, 335, 336-9, 345-8, 350-2, 362, 423, 424. [The references in the second edition, 1812, are pp. 207, 254, 326, 329 (wrongly numbered 366), 348, 394, 395, 396, 397, 405-7, 412 (the reference to lytel Lowys being excised), 493-4. In the third edition, ed. A. W. Morant, 1878, the references are, pp. 269, 325, 399, 401, 419, 464, 473-5 (with the suppression noted above), 496, 574, 575.]</ab>
+        <ab type="quotation">
+          <seg>[p. 195 n.] [Reference to gore in C. Tales.]
+[p. 227] [Reference to “the canon’s yeoman in Chaucer, whose tale
+is perhaps the finest satire upon chemical jugglers to be found
+in any language."]
+[p. 286] [Quotation from Milleres Tale, Il. 134-5, on waget.]
+[p. 289 n.] [References to Knight's Tale.]
+[p. 335 n.] [Quotation from Knight's Tale.]
+[p. 336 n.] [Quotation from Legend of Good Women.]
+[p. 345]
+The English language underwent no very considerable change
+from the reign of Edward the Third to that of Edward the
+Fourth. The style of Gower is not materially different from
+that of Lydgate. Of Langland and Chaucer I say nothing.
+The great Poet wrote the language of no age; the rude Satyrist
+that of an age long prior to his own.
+[A footnote to this reads:] Skinner's remark on the elder
+Bard is well known: “Integra verborum plaustra invexit.”
+[Whitaker then proceeds to quote from a MS. at Bolton,
+vhich he ascribes to the Canons, and which begins:
+Why artt thow soo poure man, and I ame soo ryche?
+The quotation is given “as a commentary on some parts of
+the Chanones Yeman's Tale, in order to shew with what
+exactness Chaucer copied, while he derided the jargon of that
+pretended science." Extracts follow, pp. 347-8.]
+[pp. 350-2] [Whitaker gives an excerpt from a Latin treatise on astro¬
+nomy, ascribed to the same source, and proceeds:]
+This treatise is evidently one of those many conclusions on
+the subject of Astronomy spoken of by Chaucer as extant in
+his time, which the Latin folk had in Latin; but when the
+Canons of Bolton lectured their illiterate pupil and patron
+[Henry, Lord Clifford the Shepherd], they must have imitated
+the condescension of that Bard to lytel Lowys, in shewing hym
+wonder lyght Rules, and naked Wordes in Englysh, for Latyn
+ne canst thou but smale, my sonne.
+[p. 362] [Quotation from Legend of Good Women.]
+[p. 423] [Reference to the Romaunt of the Rose.]
+[p. 424] [Quotation from Reeves Tale with remarks which imply that
+the two scholars of Soleres Hall (of a town highte Strother)
+came from Longstrother, their dialect “being precisely the
+modern dialect of Craven."]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

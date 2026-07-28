@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p91_a3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1817, Walter Scott. Ivanhoe,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Proofreading of the transcriptions</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <date cert="high" when="1817">1817</date>
+            <title level="a">Ivanhoe,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=117">91-92</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass/>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-07-28" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="91"/>
+        <ab type="imprint">1817. Scott, Sir Walter. Ivanhoe, 1819 [references to 2nd edn., 1820], pp. xix-xx, Dedicatory Epistle [dated 1817], 20, 130, 157, 174, 234, headings to chapters ii, viii, ix, x and xii, (or rather xiii, ch. x being duplicated and the subsequent numbers wrong in the early edns.). (Border Edition, ed. Andrew Lang, 1893, vol. i, pp. xlviii-ix, 14, 86, 104, 159.)</ab>
+        <ab type="quotation">
+          <seg>Dedicatory Epistle.
+[p. xiviii] He who first opens Chaucer, or any other ancient poet,
+is so much struck with the obsolete spelling, multiplied conson¬
+ants, and antiquated appearance of the language, that he is
+apt to lay the work down in despair, as encrusted too deep
+with the rust of antiquity, to permit his judging of its merits
+or tasting its beauties. But if some intelligent and accom¬
+[p. xlix] plished friend points out to him, that the difficulties by which
+he is startled are more in appearance than reality, if, by read¬
+ing aloud to him, or by reducing the ordinary words to the
+modern orthography, he satisfies his proselyte that only about
+one-tenth part of the words employed are in fact obsolete, the
+novice may be easily persuaded to approach the “well of
+English undefiled," with the certainty that a slender degree of
+patience will enable him to enjoy both the humour and the
+pathos with which old Geoffrey delighted the age of Cressy
+and of Poictiers.
+[p. 14] [Chapter ii is headed with a quotation from the Prologue,
+"A Monk ther was, a fayre for the maistrie,” &amp;c. (ll. 165¬
+172). The description of the Monk in chapter ii is based
+on Chaucer:] He was obviously an ecclesiastic of high
+rank... In defiance of conventual rules... the sleeves
+of this dignitary were lined and turned up with rich furs; his
+mantle secured at the throat with a golden clasp.  ...
+This worthy churchman rode upon a well-fed ambling
+mule, whose furniture was highly decorated, and whose bridle,
+according to the fashion of the day, was ornamented with
+silver bells. In his seat he had nothing of the awkwardness
+of the Convent, but displayed the easy and habitual grace of a
+well-trained horseman. [Cf. Prologue, ll. 165-172; 193-196.]
+[Chapters viii and ix are headed by quotations from
+Dryden’s Palamon and Arcite; chapter x from the Flower and
+the Leaf (modernized); chapter xiii from the Knightes Tale,
+ll. 1741-1752, "The heralds left their pricking up and
+down,” &amp;c.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

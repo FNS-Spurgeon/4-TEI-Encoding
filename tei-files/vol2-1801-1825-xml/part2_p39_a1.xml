@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p39_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1808, Walter Scott. Works of John Dryden,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Proofreading of the transcriptions</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <date cert="high" when="1808">1808</date>
+            <title level="a">Works of John Dryden,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=57">39-41</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#modernizations" target="#dryden"/>
+        <catRef scheme="#works" target="#nunsPriestTale"/>
+        <catRef scheme="#works" target="#knightTale"/>
+        <catRef scheme="#works" target="#wifeBathTale"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-07-28" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="39"/>
+        <ab type="imprint">1808. Scott, Sir Walter. Works of John Dryden, 18 vols., vol. i, Life of John Dryden, pp. 171, 427, 430, 441, 444, 494-96, 498-503, 505. Notes to Troilus and Cressida, vol. vi, pp. 228, 229, 230. Notes to Preface to the Fables, vol. xi, pp. 215, 216, 217, 220, 221, 222, 223, 226, 230, 232, 233, 235. Notes to Palamon and Arcite, vol. xi, pp. 243 [a long note on the origins of the Knight's Tale, with critical remarks on Chaucer's treatment of it], 245, 246, 255, 256, 267, 280, 286, 287, 289, 303, 309, 311, 312. Notes to The Cock and the Fox, vol. xi, pp. 326 [critical remarks on Chaucer's treatment], 333, 339, 343, 350, 352. Notes to The Flower and the Leaf, vol. xi, pp. 354, 372. Notes to The Wife of Bath, vol. xi, pp. 376 [critical remarks on Chaucer's tale], 378, 382. Note on Good Parson, vol. xi, p. 394.</ab>
+        <ab type="quotation">
+          <seg>[Vol.i,  The “Knight's Tale," the longest and most laboured of
+p. 494]
+Chaucer’s stories, possesses a degree of regularity which might
+satisfy the most severe critic. [The honour of this, says
+Scott, is due to Chaucer. Passages follow on Dryden's treat¬
+ment of the Knight’s Tale.]
+ . . . . . . . . . .
+[p. 498] With Chaucer, Dryden’s task was more easy than with
+Boccacio. Barrenness was not the fault of the Father of
+English poetry; and amid the profusion of images which he
+presented, his imitator had only the task of rejecting or
+selecting. In the sublime description of the temple of Mars,
+painted around with all the misfortunes ascribed to the influ¬
+ence of his planet, it would be difficult to point out a single
+idea, which is not found in the older poem. But Dryden has
+judiciously omitted or softened some degrading and some dis¬
+gusting circumstances; as the “cook scalded in spite of his
+long ladle,” the “swine devouring the cradled infant," the
+" pick-purse," and other circumstances too grotesque or
+ludicrous, to harmonize with the dreadful group around them.
+Some points, also, of sublimity, have escaped the modern
+poet. Such is the appropriate and picturesque accompaniment
+of the statue of Mars:
+A wolf stood before him at his feet
+With eyen red, and of a man he eat.
+In the dialogue, or argumentative parts of the poem, Dryden
+has frequently improved on his original, while he falls some¬
+thing short of him in simple description, or in pathetic effect.
+Thus, the quarrel between Arcite and Palamon is wrought up
+with greater energy by Dryden than Chaucer, particularly by
+the addition of the following lines, describing the enmity of
+the captives against each other:
+Now friends no more, nor walking hand in hand,
+But when they met, they made a surly stand
+And glared like angry lions as they pass'd,
+And wish'd that every look might be their last.
+But the modern must yield the palm, despite the beauty of
+his versification, to the description of Emily by Chaucer; and
+may be justly accused of loading the dying speech of Arcite
+with conceits for which his original gave him no authority.
+ . . . . . . . . . .
+[p. 501] [The French element in Chaucer's language.]
+[p. 502] Upon the whole, in introducing these romances of Boccacio
+and Chaucer to modern readers, Dryden has necessarily de¬
+prived them of some of the charms which they possess for
+those who have perused them in their original state.  ...
+To antiquaries Dryden has sufficiently justified himself, by
+declaring his version made for the sake of modern readers,
+who understand sense and poetry as well as the old Saxon
+admirers of Chaucer, when that poetry and sense are put into
+words which they can understand. Let us also grant him that
+for the beauties which are lost, he has substituted many which
+the original did not afford; that, in passages of gorgeous
+description, he has added even to the chivalrous splendour
+[p. 503] of Chaucer, and has graced with poetical ornament the sim¬
+plicity of Boccacio; that, if he has failed in tenderness, he is
+never deficient in majesty.
+[Vol. xi,   The “Knight's Tale," whether Chaucer's or Dryden's
+ . . . . . . . . . .
+p. 245]
+version, is one of the finest pieces of composition in our
+language.   ... The work of Chaucer cannot, however, properly
+be termed a translation; on the contrary, the tale has acquired
+its most beautiful passages under the hand of the English
+bard. He abridged the prolix, and enlarged the poetical,
+parts of the work; compressed the whole into one concise
+and interesting tale; and left us an example of a beautiful
+heroic poem.
+. . . . . . . . . .
+[p. 326] [Note before “The Cock and the Fox."] Tyrwhitt
+detected the original of this fable in the translation of ❝Æsop,❞
+made by Marie of France into Norman-French... But the
+hand of genius gilds what it touches; and the naked Apologue,
+which may be found in Tyrwhitt's ❝Preliminary Discourse,❞
+was amplified by Chaucer into a poem, which, in grave, ironical
+narrative, liveliness of illustration, and happiness of humorous
+description, yields to none that ever was written.
+. . . . . . . . . .
+[p. 376] [Note before “The Wife of Bath."]... What was a mere
+legendary tale of wonder in the rhime of the minstrel, and a
+vehicle for trite morality in that of Gower, in the verse of Chaucer
+reminds us of the resurrection of a skeleton, reinvested by a
+miracle with flesh, complexion, and powers of life and motion.
+Of all Chaucer's multifarious powers, none is more wonderful
+than the humour, with which he touched upon natural frailty,
+and the truth with which he describes the inward feelings of
+the human heart; at a time when all around were employed in
+composing romantic legends, in which the real character of
+their heroes was as effectually disguised by the stiffness
+of their manners as their shapes by the sharp angles and
+unnatural projections of their plate armour.
+. . . . . . . . . .
+[p. 394] [Note before “The Character of a Good Parson."] This
+beautiful copy of a beautiful original makes us regret, that
+Dryden had not translated the whole Introduction to the
+❝Canterbury Tales,❞ in which the pilgrims are so admirably
+described. Something might have been lost for want of the
+ancient Gothic lore, which the writers of our poet’s period did
+not think proper to study; but when Dryden's learning
+failed, his native stores of fancy and numbers would have
+helped him through the task.</seg>
+          <note type="footnote">Note in Spurgeon: [In Cochrane's Catalogue of the Abbotsford Library, 1838, notices of Chaucer's works in the Collection will be found at pp. 42, 154-5, 172, 185, 190, 239.]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

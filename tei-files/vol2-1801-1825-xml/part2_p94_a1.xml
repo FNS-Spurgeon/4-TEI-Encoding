@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p94_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1818, Unknown.. General Remarks upon the Peculiar Styles and Excellences of the best British Poets,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Proofreading of the transcriptions</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author>Unknown.</author>
+            <date cert="high" when="1818">1818</date>
+            <title level="a">General Remarks upon the Peculiar Styles and Excellences of the best British Poets,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=120">94</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#wantSublimitySeriousness"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-07-28" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="94"/>
+        <ab type="imprint">1818. B., C. General Remarks upon the Peculiar Styles and Excellences of the best British Poets, [in] The Gentleman's Magazine, October, vol. lxxxviii, pp. 294-6.</ab>
+        <ab type="quotation">
+          <seg>[A very fair criticism, pointing out Chaucer's gift for describing the ‘real manners of ordinary life’–as shown in
+the Canterbury Tales. The description of the Temple of
+Mars (Knight's Tale) is quoted, and then:]
+[p. 295] Those who by Poetry simply mean the melody of numbers,
+will perhaps find little to admire in the rough phraseology of
+this quotation. The whole poem has been elegantly translated
+[p. 296] The language and the numbers of our old Poet, though
+into more modern language by Dryden.  ...
+certainly quaint and rough, appear to have been far superior to
+those of any of his predecessors or contemporaries.  ...
+The state of our language at so distant a period as 400 years
+would not permit much harmony in composition; nor had
+at that time much attention been paid to the rules which
+govern verse. Hence it arises that Chaucer is often harsh, and
+sometimes lame in his numbers.
+[Here follow the usual remarks on his versification, and
+debate as to what sort of heroic metre he wrote. For this
+we are referred to Tyrwhitt's essay.]
+But I have a worse fault to alledge against Chaucer; and it
+is one that his admirers would in vain excuse or soften down:
+on too many occasions we find his pages sullied with disgust¬
+ing obscenity, and the lowest ribaldry, conveyed in the most
+direct and coarse terms.  ...
+As a Poet, Chaucer possessed a most minute observation, a
+fertile invention, a happy vein of humour, and an ear suscep¬
+tible of harmony.
+But his genius was not of the highest class, nor can all the
+hyperbolical praises of the illustrious Dryden prove that he
+was gifted with one spark of the sublime spirit of the Grecian
+Bard.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

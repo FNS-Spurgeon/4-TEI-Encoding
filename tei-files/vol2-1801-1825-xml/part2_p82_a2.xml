@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p82_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1816, Leigh Hunt. Preface to The Story of Rimini,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Proofreading of the transcriptions</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
+            <date cert="high" when="1816">1816</date>
+            <title level="a">Preface to The Story of Rimini,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=104">82-83</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass/>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-07-28" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="82"/>
+        <ab type="imprint">1816. Hunt, James Henry Leigh. Preface to The Story of Rimini, pp. x, xi, xiv-xvii. (Poetical Works, 1819, vol. i.)</ab>
+        <ab type="quotation">
+          <seg>[p. x] The romance of Launcelot of the Lake, upon the perusal of
+which the principal incident turns, is little known at present,
+but was a great favourite all over Europe, up to a late period.
+Chaucer, no long time after the event itself, mentions it, in
+[p. xi] his significant way, as a work held in great estimation by the
+ladies. The Nun's Priest, speaking of the Tale of the Cock
+and the Fox, which he is relating, says to his hearers,
+This story is al so trewe, I undertake,
+As is the book of Launcelot du Lake
+That women holde in ful gret reverence.
+Cant. Tales, v. 15147.
+The great father of our poetry, by the way, is a little
+ungrateful with his jokes upon chivalrous stories, of which he
+has left such noble specimens in the Palamon and Arcite, and
+in the unfinished story of Cambuscan, which Milton delighted
+to remember; but both he and the Italian poets appear to have
+laughed at them occasionally, as lovers affect to do at their
+mistresses.
+. . . . . . . . . .
+[p. xiv] The great masters of modern versification are, Dryden for
+common narrative... —Spenser, who was musical from pure
+taste,—Milton, who was learnedly so,—Ariosto,... —
+[p. xv]' Shakspeare,... —and, though the name may appear singu¬
+lar to those who have not read him with due attention to the
+nature of the language then existing,—Chaucer,—to whom it
+sometimes appears to me, that I can trace Dryden himself.
+. . . . . . . . . .
+[p. xvi] The poet should therefore do as Chaucer or Shakspeare did,
+—not copy what is obsolete or peculiar in either, any more
+than they copied from their predecessors—but use as much as
+[p. xvii] possible an actual, existing language,—... Of the style, to
+which I allude [i.e. that which is most beautiful], exquisite
+specimens, making allowances for what is obsolete, are to be
+found in the Canterbury Tales of Chaucer, and his Troilus
+and Cressida.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

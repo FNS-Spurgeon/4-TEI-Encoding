@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p35_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1808, William Paulet Carey. Critical Description of the Procession of Chaucer's Pilgrims to Canterbury,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Proofreading of the transcriptions</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/48313765">William Paulet Carey</author>
+            <date cert="high" when="1808">1808</date>
+            <title level="a">Critical Description of the Procession of Chaucer's Pilgrims to Canterbury,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=49">35-37</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#biography" target="#diplomatic"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-07-28" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="35"/>
+        <ab type="imprint">1808. Carey, William (Picture Dealer). Critical Description of the Procession of Chaucer's Pilgrims to Canterbury, painted by Thomas Stothard.</ab>
+        <ab type="quotation">
+          <seg>[This is a pamphlet of 77 pp., prefaced by a letter from Carey
+to John Leigh Philips, and followed by a critical description
+of the picture, which gives a detailed account of each pilgrim.
+There are Chaucer allusions all through the pamphlet; the
+following are the most interesting:]
+[p.9] [Opening of the ‘Critical Description.’]
+Many have expressed a surprise that the Procession of
+Chaucer's Pilgrims was not earlier selected by some of our
+distinguished Artists. But difficulties exist in the subject
+sufficient to deter the generality of minds from the under¬
+taking. [Difficulty of grouping a number of figures all form¬
+ally directed one way.]
+[p. 11] From Chaucer's minute description, the Artist has drawn
+each as a Portrait in the English costume of the 14th century.
+[Here follows a letter from Hoppner to Richard Cumberland,
+1807, q. v. above.]
+[p. 15] [The Miller that 'for dronken was all pale' is next described,
+[p. 16] and his dogs; the Host with quotation from the Prologue
+[p. 18] describing him, and so on.]
+[p. 24] It cannot be denied that Chaucer's description of the Knight
+is very marked in all its details, and very perfect. It unites
+the minute accuracy of Albert Durer's St. Hubert with the
+fine colouring and dignity of Holbein in his most Tizianesque
+[p. 30] [Description of the Squire.]
+portraits.  ...
+Chaucer, when in Italy, was introduced to Petrarch, the
+friend of Contemporary Art. But whether the British Bard
+ever took up the pencil, or acquired any interest in the works
+of others, is a question.
+Nevertheless, on reading Chaucer’s life, a supposition arises,
+that... he drew the character of the Squire from what he
+was himself when he wrote his “Court of Love." [To draw
+their own portraits is a common practice among painters and
+[pp. 43-4] [Carey does not agree with Tyrwhitt when he says that the
+poets.]
+Yeoman belongs to the Knight, and not to the Squire, as
+Chaucer would never have given the son an attendant when
+the father had none. The Yeoman was young, and so probably
+the Squire's attendant, possibly his foster-brother. But even
+if it were an error to assign the servant to the son, he cannot
+[p. 45] agree with Tyrwhitt,] unless we are to suppose that Chaucer
+was above error in the design or invention of his characters,
+... Chaucer's acknowledged judgment, and his rich invention,
+did not lift him above the commission of error and oversight
+in composition.
+[p. 57] [Description of Chaucer.]
+The countenance of Chaucer is designed from that in the
+British Museum, painted by Thomas Occleve, the Poet's
+scholar. I think that I have somewhere read the life of this
+Thomas Occleve. But I had sent, to a distant part of the
+kingdom, all my books and works of art, some days before I
+thought of commencing this essay. I have now nothing to
+refer to but the Bible, Johnson's Dictionary, Montgomery's
+Poems, and Chaucer's Works: ... and I have not been able
+to discover any mention of this Painter or Picture in Chaucer
+... It appears to me, however, an interesting question: Who
+taught Thomas Occleve to paint?</seg>
+          <note type="footnote">Note in Spurgeon: [This pamphlet was re-issued in 1818 with the addition of dedicatory and other letters, in which there are further brief but unimportant references to Chaucer.]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
