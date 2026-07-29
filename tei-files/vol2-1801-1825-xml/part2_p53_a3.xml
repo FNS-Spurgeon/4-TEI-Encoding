@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[1811], George Dyer. On the Connection and Mutual Assistance of the Arts and Sciences, and the Relation of Poetry to them all,</title>
+        <title>[1811], George Dyer. On the Connection and Mutual Assistance of the Arts and Sciences, and the Relation of Poetry to them all.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/13484941">George Dyer</author>
-            <date cert="medium" when="[1811]">[1811]</date>
-            <title level="a">On the Connection and Mutual Assistance of the Arts and Sciences, and the Relation of Poetry to them all,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/13484941">Dyer, George</author>
+            <date cert="medium" when="1811">[1811]</date>
+            <title level="a">On the Connection and Mutual Assistance of the Arts and Sciences, and the Relation of Poetry to them all.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,12 +86,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="53"/>
-        <ab type="imprint">[1811.] Dyer, George. On the Connection and Mutual Assistance of the Arts and Sciences, and the Relation of Poetry to them all, [in] The Reflector, vol. i, no. ii, art. vii, p. 358.</ab>
+        
+        <ab type="imprint">[1811.] Dyer, George. <hi>On the Connection and Mutual Assistance of the Arts and Sciences, and the Relation of Poetry to them all</hi>, [in] The Reflector, vol. i, no. ii, art. vii, p. 358.</ab>
+        
         <ab type="quotation">
-          <seg>... Chaucer, the first of our poets, on reference to the
-change of our language from the Saxon, of much account,
-was well acquainted with all the literature of his time, and
-with something better.</seg>
+          <seg>. . . Chaucer, the first of our poets, on reference to the
+            change of our language from the Saxon, of much account,
+            was well acquainted with all the literature of his time, and
+            with something better.</seg>
         </ab>
       </div>
     </body>

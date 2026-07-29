@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">John Henry Richman</author>
-            <date cert="low" when="[c. 1810]">[c. 1810]</date>
+            <author cert="high" role="M">John Henry Richman</author>
+            <date cert="low" when="1810">1810</date>
             <title level="a">Sequel to the Canterbury Tales.</title>
           </analytic>
           <monogr>
@@ -87,20 +87,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="49"/>
-        <ab type="imprint">[c. 1810.] Richman, Henry John. Sequel to the Canterbury Tales. </ab>
+        
+        <ab type="imprint">[c. 1810.] Richman, Henry John. <hi rend="italic">Sequel to the Canterbury Tales</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>[Richard Warner, in his Literary Recollections, 1830, vol. i,
-pp. 141-2, says: ‘He himself [Richman] has frequently told
-me, that in early manhood, he had written a sequel to Chaucer's
-Canterbury Tales, which (as I have been informed by a com¬
-petent judge, who then perused them) breathed much of the
-spirit, style, and diction, of the venerable bard. But of this
-work I could never obtain a sight. He always declined
-permitting his friends to peruse it, upon the principle, that
-the levity of such compositions, was inconsistent with the
-decorum of the clerical character.’ The work is appar¬
-ently still unpublished. Richman graduated at Oxford in
-1802. For Warner see below, p. 180.]</seg>
+          <seg type="editorial">[Richard Warner, in his <hi rend="italic">Literary Recollections</hi>, 1830, vol. i,
+            pp. 141-2, says: ‘He himself <add>[Richman]</add> has frequently told
+            me, that in early manhood, he had written a sequel to Chaucer's
+            Canterbury Tales, which (as I have been informed by a competent
+            judge, who then perused them) breathed much of the
+            spirit, style, and diction, of the venerable bard. But of this
+            work I could never obtain a sight. He always declined
+            permitting his friends to peruse it, upon the principle, that
+            the levity of such compositions, was inconsistent with the
+            decorum of the clerical character.’ The work is apparently
+            still unpublished. Richman graduated at Oxford in
+            1802. For Warner see below, p. 180.]</seg>
         </ab>
       </div>
     </body>

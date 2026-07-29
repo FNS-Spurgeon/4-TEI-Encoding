@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/64007908">Charles Lamb</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/64007908">Lamb, Charles</author>
             <date cert="high" when="1808">1808</date>
             <title level="a">Specimens of English Dramatic Poets.</title>
           </analytic>
@@ -84,12 +84,13 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="38"/>
-        <ab type="imprint">1808. Lamb, Charles. Specimens of English Dramatic Poets. Footnote to Middleton's Women Beware Women. (The Works of Charles and Mary Lamb, ed. E. V. Lucas, 1903-5, 7 vols., vol. iv, p. 129.)</ab>
+        <ab type="imprint">1808. Lamb, Charles. <hi rend="italic">Specimens of English Dramatic Poets</hi>. Footnote to Middleton's <hi rend="italic">Women Beware Women</hi>. (The Works of Charles and Mary Lamb, ed. E. V. Lucas, 1903-5, 7 vols., vol. iv, p. 129.)</ab>
+        
         <ab type="quotation">
           <seg>This is one of the scenes which has the air of being an
-immediate transcript from life. Livia the “good neighbour"
-is as real a creature as one of Chaucer's characters. She is
-such another jolly Housewife as the Wife of Bath.</seg>
+            immediate transcript from life. Livia the "good neighbour"
+            is as real a creature as one of Chaucer's characters. She is
+            such another jolly Housewife as the Wife of Bath.</seg>
         </ab>
       </div>
     </body>

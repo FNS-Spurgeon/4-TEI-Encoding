@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1811, Lord Byron. Hints from Horace,</title>
+        <title>1811, Byron, George Gordon. Hints from Horace.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95230688">Lord Byron</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95230688">Byron, George Gordon</author>
             <date cert="high" when="1811">1811</date>
-            <title level="a">Hints from Horace,</title>
+            <title level="a">Hints from Horace.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -87,27 +87,37 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="52"/>
-        <ab type="imprint">1811. Byron, George Gordon, Lord. Hints from Horace, ll. 79-82, 423-36. (Poetical Works, ed. by E. H. Coleridge, 1898-1904, vol. i, pp. 395, 420.)</ab>
+        
+        <ab type="imprint">1811. Byron, George Gordon, Lord. <hi rend="italic">Hints from Horace</hi>, ll. 79-82, 423-36. (Poetical Works, ed. by E. H. Coleridge, 1898-1904, vol. i, pp. 395, 420.)</ab>
+        
         <ab type="quotation">
-          <seg>[ll. 79-82] New words find credit in these latter days,
-If neatly grafted on a Gallic phrase;
-What Chaucer, Spenser did, we scarce refuse
-To Dryden's or to Pope's maturer Muse.
- . . . . . . .
-[ll. 423-36] Ye, who seek finished models, never cease,
-By day and night, to read the works of Greece.
-But our good Fathers never bent their brains
-To heathen Greek, content with native strains.
-The few who read a page, or used a pen,
-Were satisfied with Chaucer and old Ben;
-The jokes and numbers suited to their taste
-Were quaint and careless, anything but chaste;
-Yet, whether right or wrong the ancient rules,
-It will not do to call our Fathers fools!
-Though you and I, who eruditely know
-To separate the elegant and low,
-Can also, when a hobbling line appears,
-Detect with fingers—in default of ears.</seg>
+          <seg>
+            <lg>
+              <note place="margin">[ll. 79-82]</note><l>New words find credit in these latter days,</l>
+              <l>If neatly grafted on a Gallic phrase;</l>
+              <l>What Chaucer, Spenser did, we scarce refuse</l>
+              <l>To Dryden's or to Pope's maturer Muse.</l>
+            </lg>
+            
+            <lb/>. . . . . . .
+            
+            <lg>
+              <note place="margin">[ll. 423-36]</note><l>Ye, who seek finished models, never cease,</l>
+              <l>By day and night, to read the works of Greece.</l>
+              <l>But our good Fathers never bent their brains</l>
+              <l>To heathen Greek, content with native strains.</l>
+              <l>The few who read a page, or used a pen,</l>
+              <l>Were satisfied with Chaucer and old Ben;</l>
+              <l>The jokes and numbers suited to their taste</l>
+              <l>Were quaint and careless, anything but chaste;</l>
+              <l>Yet, whether right or wrong the ancient rules,</l>
+              <l>It will not do to call our Fathers fools!</l>
+              <l>Though you and I, who eruditely know</l>
+              <l>To separate the elegant and low,</l>
+              <l>Can also, when a hobbling line appears,</l>
+              <l>Detect with fingers—in default of ears.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

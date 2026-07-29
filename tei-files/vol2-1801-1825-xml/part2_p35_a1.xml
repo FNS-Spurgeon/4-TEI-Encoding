@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">William Wordsworth</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">Wordsworth, William</author>
             <date cert="high" when="1807">1807</date>
             <title level="a">Note to the second poem To the Daisy (1802).</title>
           </analytic>
@@ -84,19 +84,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="35"/>
-        <ab type="imprint">1807. Wordsworth, William. Note to the second poem To the Daisy (1802). [Dated 1807 by Prof. Knight.] (Poetical Works, ed. W. Knight, 1896, vol. ii, p. 357 n.)</ab>
+        
+        <ab type="imprint">1807. Wordsworth, William. <hi rend="italic">Note</hi> to the second poem <hi rend="italic">To the Daisy</hi> (1802). [Dated 1807 by Prof. Knight.] (Poetical Works, ed. W. Knight, 1896, vol. ii, p. 357 n.)</ab>
+        
         <ab type="quotation">
-          <seg>[Resemblance to Mr. Montgomery's poem entitled “A Field
-Flower":]
-Mr. Montgomery will not think any apology due to him; I
-cannot, however, help addressing him in the words of the
-Father of English Poets :
-" Though it happe me to rehersin–
-That ye han in your freshe songis saied
-Forberith me, and beth not ill apaied,
-Sith that ye se I doe it in the honour
-Of Love, and eke in service of the Flour."
-[Prologue to Legende of Good Women, ll. 78-82.]</seg>
+          <seg type="editorial">[Resemblance to Mr. Montgomery's poem entitled “A Field Flower":]</seg>
+            
+          <seg>Mr. Montgomery will not think any apology due to him; I
+            cannot, however, help addressing him in the words of the
+            Father of English Poets :
+            <lg>
+              <l>"Though it happe me to rehersin–</l>
+              <l>That ye han in your freshe songis saied</l>
+              <l>Forberith me, and beth not ill apaied,</l>
+              <l>Sith that ye se I doe it in the honour</l>
+              <l>Of Love, and eke in service of the Flour."</l>
+              <note place="right">[Prologue to Legende of Good Women, ll. 78-82.]</note>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

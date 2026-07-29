@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/74586656">Henry Todd</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/74586656">Todd, Henry</author>
             <date cert="high" when="1810">1810</date>
             <title level="a">Illustrations of the Lives and Writings of Gower and Chaucer.</title>
           </analytic>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#manuscripts" target="#"/>
+        <catRef scheme="#others" target="#manuscripts"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,21 +86,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="50"/>
-        <ab type="imprint">1810. Todd, Henry John. Illustrations of the Lives and Writings of Gower and Chaucer. </ab>
+        
+        <ab type="imprint">1810. Todd, Henry John. <hi rend="italic">Illustrations of the Lives and Writings of Gower and Chaucer</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>[Introduction, i-xlvii, discussing Chaucer, Gower (principally
-biography), and Thynne. Speght, Tyrwhitt, Ellis, Godwin, Plow¬
-man’s Tale, Flower and the Leaf, and Testament of Love.
-No. 1. Reprint, Thynne's Animadversions (above, p. 149), 3-83.
-2. Testamentum Johannis Gower, 87.
-3. Account of valuable MSS. of Gower and Chaucer, 95.
-4. Extracts from Confessio Amantis, Berthelet, 1532, 135.
-5. Extracts from Prologue to Tales, Tyrwhitt's edn., 171;
-Floure and Leafe, Speght’s edn., 203; Notes on these,
-227-292.
-6. Poems supposed to be written by Chaucer during his
-imprisonment (Lord Stafford’s MS.), 295-309.
-7. Glossary, 317-394.]</seg>
+          <seg type="editorial">[Introduction, i-xlvii, discussing Chaucer, Gower (principally
+            biography), and Thynne. Speght, Tyrwhitt, Ellis, Godwin,
+            Plowman’s Tale, Flower and the Leaf, and Testament of Love.
+            <list>
+              <item>No. 1. Reprint, Thynne's Animadversions (above, p. 149), 3-83.</item>
+              <item>2. Testamentum Johannis Gower, 87.</item>
+              <item>3. Account of valuable MSS. of Gower and Chaucer, 95.</item>
+              <item>4. Extracts from Confessio Amantis, Berthelet, 1532, 135.</item>
+              <item>5. Extracts from Prologue to Tales, Tyrwhitt's edn., 171; Floure and Leafe, Speght’s edn., 203; Notes on these, 227-292.</item>
+              <item>6. Poems supposed to be written by Chaucer during his imprisonment (Lord Stafford’s MS.), 295-309.</item>
+              <item>7. Glossary, 317-394.]</item>
+            </list>
+          </seg>
         </ab>
       </div>
     </body>

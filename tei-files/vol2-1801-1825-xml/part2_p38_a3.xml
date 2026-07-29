@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/68979200">Samuel Jackson Pratt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/68979200">Pratt, Samuel Jackson</author>
             <date cert="high" when="1808">1808</date>
             <title level="a">The Cabinet of Poetry, containing the best entire pieces to be found in the works of the British Poets.</title>
           </analytic>
@@ -84,17 +84,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="38"/>
-        <ab type="imprint">1808. Pratt, Samuel Jackson. The Cabinet of Poetry, containing the best entire pieces to be found in the works of the British Poets. Introductory Essay on Poetry, 6 vols., vol. i, pp. xl, li, lxxi.</ab>
+        
+        <ab type="imprint">1808. Pratt, Samuel Jackson. <hi rend="italic">The Cabinet of Poetry, containing the best entire pieces to be found in the works of the British Poets</hi>. Introductory Essay on Poetry, 6 vols., vol. i, pp. xl, li, lxxi.</ab>
+        
         <ab type="quotation">
-          <seg>[The pieces include nothing from Chaucer, but “Dryden's
-Character of a Good Parson" is given.]
-[p. xi]
-This charm of individuality was in some of their poems
-eminently possessed by Chaucer, and other of our elder
-bards.
-[p. lxxi] The passion for allegory, so long the characteristic of the
-Italian school, was by Chaucer rendered as prevalent in
-England as it had previously been on the continent.</seg>
+          <seg type="editorial">[The pieces include nothing from Chaucer, but "Dryden's
+            Character of a Good Parson" is given.]</seg>
+            
+          <seg><note place="margin">[p. xi]</note>This charm of individuality was in some of their poems
+            eminently possessed by Chaucer, and other of our elder bards.</seg>
+            
+          <seg><note place="margin">[p. lxxi]</note>The passion for allegory, so long the characteristic of the
+            Italian school, was by Chaucer rendered as prevalent in
+            England as it had previously been on the continent.</seg>
         </ab>
       </div>
     </body>

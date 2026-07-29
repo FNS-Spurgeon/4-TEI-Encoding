@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1809, Sir Samuel Egerton Brydges, 1st Bt.. Censura Literaria,</title>
+        <title>1809, Samuel Egerton Brydges. Censura Literaria.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27405359">Sir Samuel Egerton Brydges, 1st Bt.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27405359">Brydges Samuel Egerton</author>
             <date cert="high" when="1809">1809</date>
-            <title level="a">Censura Literaria,</title>
+            <title level="a">Censura Literaria.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,10 +84,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="46"/>
-        <ab type="imprint">1809. Brydges, Sir Samuel Egerton. Censura Literaria, Containing Titles, Abstracts and Opinions of Old English Books, etc., vol. ix, art. ix, Hawking, pp. 61 and n., 260, 264, 368-9, 371.</ab>
+        
+        <ab type="imprint">1809. Brydges, Sir Samuel Egerton. <hi rend="italic">Censura Literaria</hi>, Containing Titles, Abstracts and Opinions of Old English Books, etc., vol. ix, art. ix, <hi rend="italic">Hawking</hi>, pp. 61 and n., 260, 264, 368-9, 371.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 260] Chaucer has a pretty Episode of the Falcon rehearsing a tale
-of forsaken love to the Princess Canace.</seg>
+          <seg><note place="margin">[p. 260]</note>Chaucer has a pretty Episode of the Falcon rehearsing a tale of forsaken love to the Princess Canace.</seg>
         </ab>
       </div>
     </body>

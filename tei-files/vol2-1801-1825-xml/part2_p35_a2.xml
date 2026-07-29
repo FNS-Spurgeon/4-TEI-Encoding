@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1808, William Paulet Carey. Critical Description of the Procession of Chaucer's Pilgrims to Canterbury,</title>
+        <title>1808, William Paulet Carey. Critical Description of the Procession of Chaucer's Pilgrims to Canterbury.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/48313765">William Paulet Carey</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/48313765">Carey, William Paulet</author>
             <date cert="high" when="1808">1808</date>
-            <title level="a">Critical Description of the Procession of Chaucer's Pilgrims to Canterbury,</title>
+            <title level="a">Critical Description of the Procession of Chaucer's Pilgrims to Canterbury.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,66 +86,85 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="35"/>
-        <ab type="imprint">1808. Carey, William (Picture Dealer). Critical Description of the Procession of Chaucer's Pilgrims to Canterbury, painted by Thomas Stothard.</ab>
+        
+        <ab type="imprint">1808. Carey, William (Picture Dealer). <hi rend="italic">Critical Description of the Procession of Chaucer's Pilgrims to Canterbury</hi>, painted by Thomas Stothard.</ab>
+        
         <ab type="quotation">
-          <seg>[This is a pamphlet of 77 pp., prefaced by a letter from Carey
-to John Leigh Philips, and followed by a critical description
-of the picture, which gives a detailed account of each pilgrim.
-There are Chaucer allusions all through the pamphlet; the
-following are the most interesting:]
-[p.9] [Opening of the ‘Critical Description.’]
-Many have expressed a surprise that the Procession of
-Chaucer's Pilgrims was not earlier selected by some of our
-distinguished Artists. But difficulties exist in the subject
-sufficient to deter the generality of minds from the under¬
-taking. [Difficulty of grouping a number of figures all form¬
-ally directed one way.]
-[p. 11] From Chaucer's minute description, the Artist has drawn
-each as a Portrait in the English costume of the 14th century.
-[Here follows a letter from Hoppner to Richard Cumberland,
-1807, q. v. above.]
-[p. 15] [The Miller that 'for dronken was all pale' is next described,
-[p. 16] and his dogs; the Host with quotation from the Prologue
-[p. 18] describing him, and so on.]
-[p. 24] It cannot be denied that Chaucer's description of the Knight
-is very marked in all its details, and very perfect. It unites
-the minute accuracy of Albert Durer's St. Hubert with the
-fine colouring and dignity of Holbein in his most Tizianesque
-[p. 30] [Description of the Squire.]
-portraits.  ...
-Chaucer, when in Italy, was introduced to Petrarch, the
-friend of Contemporary Art. But whether the British Bard
-ever took up the pencil, or acquired any interest in the works
-of others, is a question.
-Nevertheless, on reading Chaucer’s life, a supposition arises,
-that... he drew the character of the Squire from what he
-was himself when he wrote his “Court of Love." [To draw
-their own portraits is a common practice among painters and
-[pp. 43-4] [Carey does not agree with Tyrwhitt when he says that the
-poets.]
-Yeoman belongs to the Knight, and not to the Squire, as
-Chaucer would never have given the son an attendant when
-the father had none. The Yeoman was young, and so probably
-the Squire's attendant, possibly his foster-brother. But even
-if it were an error to assign the servant to the son, he cannot
-[p. 45] agree with Tyrwhitt,] unless we are to suppose that Chaucer
-was above error in the design or invention of his characters,
-... Chaucer's acknowledged judgment, and his rich invention,
-did not lift him above the commission of error and oversight
-in composition.
-[p. 57] [Description of Chaucer.]
-The countenance of Chaucer is designed from that in the
-British Museum, painted by Thomas Occleve, the Poet's
-scholar. I think that I have somewhere read the life of this
-Thomas Occleve. But I had sent, to a distant part of the
-kingdom, all my books and works of art, some days before I
-thought of commencing this essay. I have now nothing to
-refer to but the Bible, Johnson's Dictionary, Montgomery's
-Poems, and Chaucer's Works: ... and I have not been able
-to discover any mention of this Painter or Picture in Chaucer
-... It appears to me, however, an interesting question: Who
-taught Thomas Occleve to paint?</seg>
-          <note type="footnote">Note in Spurgeon: [This pamphlet was re-issued in 1818 with the addition of dedicatory and other letters, in which there are further brief but unimportant references to Chaucer.]</note>
+          <seg type="editorial">[This is a pamphlet of 77 pp., prefaced by a letter from Carey
+            to John Leigh Philips, and followed by a critical description
+            of the picture, which gives a detailed account of each pilgrim.
+            There are Chaucer allusions all through the pamphlet; the
+            following are the most interesting:]</seg>
+          
+          <seg type="editorial"><note place="margin">[p.9]</note>[Opening of the 'Critical Description.']</seg>
+            
+          <seg>Many have expressed a surprise that the Procession of
+            Chaucer's Pilgrims was not earlier selected by some of our
+            distinguished Artists. But difficulties exist in the subject
+            sufficient to deter the generality of minds from the undertaking.
+            <add> [Difficulty of grouping a number of figures all
+            formally directed one way.]</add></seg>
+            
+          <seg><note place="margin">[p. 11]</note>From Chaucer's minute description, the Artist has drawn
+            each as a Portrait in the English costume of the 14th century.</seg>
+          
+          <milestone unit="page" n="36"/>
+          
+          <seg type="editorial">[Here follows a letter from Hoppner to Richard Cumberland, 1807, q. v. above.]</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 15]</note>[The Miller that 'for dronken was all pale' is next described,
+            <note place="margin">[p. 16]</note> and his dogs; the Host with quotation from the Prologue
+            <note place="margin">[p. 18]</note> describing him, and so on.]</seg>
+            
+          <seg><note place="margin">[p. 24]</note>It cannot be denied that Chaucer's description of the Knight
+            is very marked in all its details, and very perfect. It unites
+            the minute accuracy of Albert Durer's <hi rend="italic">St. Hubert</hi> with the
+            fine colouring and dignity of Holbein in his most Tizianesque portraits. . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 30]</note>[Description of the Squire.]</seg>
+            
+          <seg>Chaucer, when in Italy, was introduced to Petrarch, the
+            friend of Contemporary Art. But whether the British Bard
+            ever took up the pencil, or acquired any interest in the works
+            of others, is a question.</seg>
+            
+          <seg>Nevertheless, on reading Chaucer’s life, a supposition arises,
+            that . . . he drew the character of the Squire from what he
+            was himself when he wrote his "<hi rend="italic">Court of Love</hi>." <add>[To draw
+            their own portraits is a common practice among painters and
+            poets.]</add></seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 43-4]</note>[Carey does not agree with Tyrwhitt when he says that the
+            Yeoman belongs to the Knight, and not to the Squire, as
+            Chaucer would never have given the son an attendant when
+            the father had none. The Yeoman was young, and so probably
+            the Squire's attendant, possibly his foster-brother. But even
+            if it were an error to assign the servant to the son, he cannot
+            <note place="margin">[p. 45]</note>agree with Tyrwhitt,]</seg>
+            
+          <seg>unless we are to suppose that Chaucer
+            was above error in the design or invention of his characters,
+            ... Chaucer's acknowledged judgment, and his rich invention,
+            did not lift him above the commission of error and oversight
+            in composition.</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 57]</note>[Description of Chaucer.]</seg>
+            
+          <seg>The countenance of Chaucer is designed from that in the
+            British Museum, painted by Thomas Occleve, the Poet's
+            scholar. I think that I have somewhere read the life of this
+            Thomas Occleve. But I had sent, to a distant part of the
+            kingdom, all my books and works of art, some days before I
+            thought of commencing this essay. I have now nothing to
+            refer to but the Bible, Johnson's Dictionary, Montgomery's
+            Poems, and Chaucer's Works: . . . and I have not been able
+            to discover any mention of this Painter or Picture in Chaucer
+            
+            <milestone unit="page" n="37"/>
+            
+            . . . It appears to me, however, an interesting question: Who
+            taught Thomas Occleve to paint?<note type="footnote">Note in Spurgeon: [This pamphlet was re-issued in 1818 with the addition of dedicatory and other letters, in which there are further brief but unimportant references to Chaucer.]</note>
+          </seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1807, Francis Douce. Illustrations of Shakespeare and of Ancient Manners,</title>
+        <title>1807, Francis Douce. Illustrations of Shakespeare and of Ancient Manners.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/69848690">Francis Douce</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/69848690">Douce, Francis</author>
             <date cert="high" when="1807">1807</date>
-            <title level="a">Illustrations of Shakespeare and of Ancient Manners,</title>
+            <title level="a">Illustrations of Shakespeare and of Ancient Manners.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#illustrations" target="#stothard"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,47 +86,51 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="31"/>
-        <ab type="imprint">1807. Douce, Francis. Illustrations of Shakespeare and of Ancient Manners, 2 vols.; vol. i, pp. 2, 15, 43, 48, 109, 134, 177, 183, 188-9, 203-6, 215, 223, 232-3, 246, 301, 350, 407, 415-16, 474, 487, 506 ; vol. ii, pp. 7, 60, 64, 67-8, 151, 153-4, 180, 183, 213, 228, 253-4, 276, 281, 285, 351, 363, 420, 450-1.</ab>
+        
+        <ab type="imprint">1807. Douce, Francis. <hi rend="italic">Illustrations of Shakespeare and of Ancient Manners</hi>, 2 vols.; vol. i, pp. 2, 15, 43, 48, 109, 134, 177, 183, 188-9, 203-6, 215, 223, 232-3, 246, 301, 350, 407, 415-16, 474, 487, 506 ; vol. ii, pp. 7, 60, 64, 67-8, 151, 153-4, 180, 183, 213, 228, 253-4, 276, 281, 285, 351, 363, 420, 450-1.</ab>
+        
         <ab type="quotation">
-          <seg>[vol. i,
-p. 15]
-[Quotation from “Chaucer's Testament of Creseid,” describ¬
-ing the Man in the Moon.]
-[p.109] [Quotation from Troilus, Bk. iii, ll. 1366-72.]
-[p 183] [Tyrwhitt quoted to the effect that “the Pluto and Proser¬
-pine of Chaucer were the true progenitors of Oberon and
-Titania."]
-[p. 189] [Quotation from “Chaucer's Flower and the Leafe" for the
-word henchman.]
-[p. 204] [Quotation from Wife of Bath's Tale, ll. 863-74, to illustrate
-fairies in Midsummer Night's Dream :] The other quotation
-which Mr. Steevens has given, is not to the present purpose.
-The fairies’ blessing was to bring peace upon the house of
-Theseus; the night-spell in the Miller's Tale, is pronounced
-against the influence of elves, and those demons, or evil spirits,
-that were supposed to occasion the nightmare.
-[vol. ii,
-p. 64]
-[Chaucer probably borrowed the plot of Troilus and Cressida
-from Boccaccio's Filostrato; what Dryden said of Lollius
-entirely destitute of proof.]
-[p. 68] Such part of our play as relates to the loves of Troilus and
-Cressida was most probably taken from Chaucer, as no other
-work, accessible to Shakespeare, could have supplied him with
-what was necessary.
-[Most of the other references are parallel quotations from
-Chaucer and illustrate the vocabulary of the plays.]
-[p. 281] [On the anachronisms and some other incongruities of
-Shakespeare:] From the time of Chaucer to that of Shakespeare,
-there is scarcely an author to be found who is not implicated
-in this accusation...
-[p. 285] [Footnote.] Mr. Stothard, the most unassuming of men,
-but with every claim to superior talent, has recently finished a
-painting of the procession of Chaucer's Canterbury Pilgrims,
-which may be classed amongst the choicest morsels of its
-kind. The attention to accuracy of costume which it dis¬
-plays has never been exceeded, and but very seldom so well
-directed.</seg>
+          <seg type="editorial"><note place="margin">[vol. i, p. 15]</note>[Quotation from “Chaucer's <hi rend="italic">Testament of Creseid</hi>,” describing the Man in the Moon.]</seg>
+            
+          <seg type="editorial"><note place="margin">[p.109]</note>[Quotation from Troilus, Bk. iii, ll. 1366-72.]</seg>
+            
+          <seg type="editorial"><note place="margin">[p 183]</note>[Tyrwhitt quoted to the effect that "the Pluto and Proserpine
+            of Chaucer were the true progenitors of Oberon and Titania."]</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 189]</note>[Quotation from "Chaucer's <hi rend="italic">Flower and the Leafe</hi>" for the word henchman.]</seg>
+            
+          <seg><note place="margin">[p. 204]</note><add>[Quotation from Wife of Bath's Tale, ll. 863-74, to illustrate
+            fairies in Midsummer Night's Dream:]</add> The other quotation
+            which Mr. Steevens has given, is not to the present purpose.
+            The fairies’ blessing was to bring peace upon the house of
+            Theseus; the night-spell in the <hi rend="italic">Miller's Tale</hi>, is pronounced
+            against the influence of elves, and those demons, or evil spirits,
+            that were supposed to occasion the nightmare.</seg>
+            
+          <seg type="editorial"><note place="margin">[vol. ii, p. 64]</note>[Chaucer probably borrowed the plot of Troilus and Cressida
+            from Boccaccio's Filostrato; what Dryden said of Lollius
+            entirely destitute of proof.]</seg>
+            
+          <seg><note place="margin">[p. 68]</note>Such part of our play as relates to the loves of Troilus and
+            Cressida was most probably taken from Chaucer, as no other
+            work, accessible to Shakespeare, could have supplied him with
+            what was necessary.</seg>
+            
+          <seg type="editorial">[Most of the other references are parallel quotations from
+            Chaucer and illustrate the vocabulary of the plays.]</seg>
+            
+          <seg><note place="margin">[p. 281]</note><add>[On the anachronisms and some other incongruities of
+            Shakespeare:]</add> From the time of Chaucer to that of Shakespeare,
+            there is scarcely an author to be found who is not implicated
+            in this accusation . . .</seg>
+            
+          <seg><note place="margin">[p. 285]</note><add>[Footnote.]</add> Mr. Stothard, the most unassuming of men,
+            but with every claim to superior talent, has recently finished a
+            painting of the procession of Chaucer's Canterbury Pilgrims,
+            which may be classed amongst the choicest morsels of its
+            kind. The attention to accuracy of costume which it
+            displays has never been exceeded, and but very seldom so well
+            directed.</seg>
         </ab>
       </div>
     </body>

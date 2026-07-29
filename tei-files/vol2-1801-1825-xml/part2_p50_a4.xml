@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1810, Unknown.. Review of Select Poems from Herrick, Carew, etc.,</title>
+        <title>1810, Unknown. Review of Select Poems from Herrick, Carew.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author>Unknown.</author>
+            <author>Unknown</author>
             <date cert="high" when="1810">1810</date>
-            <title level="a">Review of Select Poems from Herrick, Carew, etc.,</title>
+            <title level="a">Review of Select Poems from Herrick, Carew.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,13 +84,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="50"/>
-        <ab type="imprint">1810. Unknown. Review of Select Poems from Herrick, Carew, etc., [in] The Quarterly Review, Aug. 1810, vol. iv, p. 176.</ab>
+        
+        <ab type="imprint">1810. Unknown. <hi rend="italic">Review</hi> of <hi rend="italic">Select Poems from Herrick, Carew, etc.</hi>, [in] The Quarterly Review, Aug. 1810, vol. iv, p. 176.</ab>
+        
         <ab type="quotation">
-          <seg>.... Where the orthography of a poet influences his
-rhyme, as Chaucer's and Spenser's does every moment, the
-whole ought to be sacred; but where that is not the case,
-we can see no reason why our present improved and fixed
-system of orthography should not be adopted.</seg>
+          <seg>. . . . Where the orthography of a poet influences his
+            rhyme, as Chaucer's and Spenser's does every moment, the
+            whole ought to be sacred; but where that is not the case,
+            we can see no reason why our present improved and fixed
+            system of orthography should not be adopted.</seg>
         </ab>
       </div>
     </body>

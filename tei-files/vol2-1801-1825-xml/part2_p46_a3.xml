@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/71478954">Thomas Frognall Dibdin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71478954">Dibdin, Thomas Frognall</author>
             <date cert="high" when="1809">1809</date>
             <title level="a">Bibliomania.</title>
           </analytic>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="46"/>
-        <ab type="imprint">1809. Dibdin, Thomas Frognall. Bibliomania. See below, App. A, 1809.</ab>
+        
+        <ab type="imprint">1809. Dibdin, Thomas Frognall. <hi rend="italic">Bibliomania</hi>. See below, App. A, 1809.</ab>
       </div>
     </body>
   </text>

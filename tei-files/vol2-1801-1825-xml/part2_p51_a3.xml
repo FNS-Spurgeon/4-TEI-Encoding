@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">William Wordsworth</author>
-            <date cert="low" when="[1810?]">[1810?]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">Wordsworth, William</author>
+            <date cert="low" when="1810">[1810?]</date>
             <title level="a">The Country Churchyard, and Critical Examination of Ancient Epitaphs.</title>
           </analytic>
           <monogr>
@@ -84,18 +84,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="51"/>
-        <ab type="imprint">[1810?] Wordsworth, William. The Country Churchyard, and Critical Examination of Ancient Epitaphs. (Prose Works, ed. W. Knight, 1896, vol. ii, p. 150.)</ab>
+        
+        <ab type="imprint">[1810?] Wordsworth, William. <hi rend="italic">The Country Churchyard, and Critical Examination of Ancient Epitaphs</hi>. (Prose Works, ed. W. Knight, 1896, vol. ii, p. 150.)</ab>
+        
         <ab type="quotation">
-          <seg>Farwel my Frendys, the tyd abydeth no man,
-I am departed hens, and so sal ye,
-But in this passage the best song I can
-Is Requiem Eternam, now Jesu grant it me,
-When I have ended all myn adversity
-Grant me in Paradys to have a mansion
-That shedst Thy bloud for my redemption.
-This epitaph might seem to be of the age of Chaucer, for it
-has the very tone and manner of the Prioress's Tale.</seg>
-          <note type="footnote">Note in Spurgeon: [Wordsworth says he quotes ‘from an old book’ (?Camden or Weever). The Essay upon Epitaphs is in two parts, the first from The Friend, Feb. 22, 1810, the second from the author's MSS. Grosart first printed the latter. See his note on the contents page of vol. ii. I date The Country Churchyard [1810?] : this was the year in which the Friend article was published, and in which the translation of the Chiabrera epitaphs was made.]</note>
+          <seg>
+            <lg>
+              <l>Farwel my Frendys, the tyd abydeth no man,</l>
+              <l>I am departed hens, and so sal ye,</l>
+              <l>But in this passage the best song I can</l>
+              <l>Is Requiem Eternam, now Jesu grant it me,</l>
+              <l>When I have ended all myn adversity</l>
+              <l>Grant me in Paradys to have a mansion</l>
+              <l>That shedst Thy bloud for my redemption.</l>
+            </lg>
+            This epitaph might seem to be of the age of Chaucer, for it
+            has the very tone and manner of the Prioress's Tale.<note type="footnote">Note in Spurgeon: [Wordsworth says he quotes ‘from an old book’ (?Camden or Weever). The Essay upon Epitaphs is in two parts, the first from <hi rend="italic">The Friend</hi>, Feb. 22, 1810, the second from the author's MSS. Grosart first printed the latter. See his note on the contents page of vol. ii. I date <hi rend="italic">The Country Churchyard</hi> [1810?]: this was the year in which the <hi rend="italic">Friend</hi> article was published, and in which the translation of the Chiabrera epitaphs was made.]</note>
+          </seg>
         </ab>
       </div>
     </body>

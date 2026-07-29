@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1808, Unknown.. Chaucer's Tomb,</title>
+        <title>1808, Unknown. Chaucer's Tomb.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author>Unknown.</author>
+            <author>Unknown</author>
             <date cert="high" when="1808">1808</date>
-            <title level="a">Chaucer's Tomb,</title>
+            <title level="a">Chaucer's Tomb.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,27 +86,29 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="38"/>
-        <ab type="imprint">1808 L., G. W. Chaucer's Tomb, [in] The Gentleman's Magazine, Nov. 1808, vol. lxxviii, p. 974.</ab>
+        
+        <ab type="imprint">1808 L., G. W. <hi rend="italic">Chaucer's Tomb</hi>, [in] The Gentleman's Magazine, Nov. 1808, vol. lxxviii, p. 974.</ab>
+        
         <ab type="quotation">
           <seg>Poet Chaucer, very few know the spot where he was interred;
-From the mutilated state of that [the tomb] of our first
-indeed the inscription is almost defaced, and the Monument
-itself has suffered much through neglect. It is the only one
-hereabouts which accords with the building in which it is
-placed; yet, as if that were a defect, it has been made the
-supporter of another, which (not to say anything of the
-striking discordance) absolutely appears as if it had casually
-perched on it! Notwithstanding these disadvantages, many
-may be pleased by having this Monument pointed out to them.
-On entering the aile [sic] it is the fourth on the right hand
-from the door, and is between those of Cowley and Phillips.
-The slab appears to be of Petworth marble; and the canopy
-over it, having a rich pendent roof, is supported by pillars,
-the sculpture on which forms a kind of lozenge or chequer¬
-work. The Latin inscription and other particulars, may be
-found by referring to Weever, who closes his survey of the
-tombs in the Abbey with an account of this [q.v. above, 1631,
-vol i, p. 204].</seg>
+            From the mutilated state of that <add>[the tomb]</add> of our first
+            indeed the inscription is almost defaced, and the Monument
+            itself has suffered much through neglect. It is the only one
+            hereabouts which accords with the building in which it is
+            placed; yet, as if that were a defect, it has been made the
+            supporter of another, which (not to say anything of the
+            striking discordance) absolutely appears as if it had casually
+            perched on it! Notwithstanding these disadvantages, many
+            may be pleased by having this Monument pointed out to them.
+            On entering the aile <add>[sic]</add> it is the fourth on the right hand
+            from the door, and is between those of Cowley and Phillips.
+            The slab appears to be of Petworth marble; and the canopy
+            over it, having a rich pendent roof, is supported by pillars,
+            the sculpture on which forms a kind of lozenge or chequerwork.
+            The Latin inscription and other particulars, may be
+            found by referring to Weever, who closes his survey of the
+            tombs in the Abbey with an account of this <add>[q.v. above, 1631,
+            vol i, p. 204]</add>.</seg>
         </ab>
       </div>
     </body>

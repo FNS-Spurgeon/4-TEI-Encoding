@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1810], Robert Southey. Common-Place Book,</title>
+        <title>[c. 1810], Robert Southey. Common-Place Book.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/61576896">Robert Southey</author>
-            <date cert="low" when="[c. 1810]">[c. 1810]</date>
-            <title level="a">Common-Place Book,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/61576896">Southey, Robert</author>
+            <date cert="low" when="1810">[c. 1810]</date>
+            <title level="a">Common-Place Book.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,14 +84,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="50"/>
-        <ab type="imprint">[c. 1810.] Southey, Robert. Common-Place Book, third series, edited by John Wood Warter, London, 1850, p. 227.</ab>
+        
+        <ab type="imprint">[c. 1810.] Southey, Robert. <hi rend="italic">Common-Place Book</hi>, third series, edited by John Wood Warter, London, 1850, p. 227.</ab>
+        
         <ab type="quotation">
-          <seg>[The Abbé Goujet had said in his Bibliothèque Françoise,
-ou Histoire de la Littérature Françoise, tome 7ᵉ, p. 340:
-‘George Chaucher, que l’on a surnommé l’Homère de
-l’Angleterre, l’avait traduit [the Teseide of Boccaccio] en vers
-Anglois dès l’an 1400.’
-Southey quotes and adds the comment : ‘Good!’]</seg>
+          <seg type="editorial">[The Abbé Goujet had said in his <hi rend="italic">Bibliothèque Françoise,
+            ou Histoire de la Littérature Françoise</hi>, tome 7ᵉ, p. 340:
+            <lb/>'George Chaucher, que l’on a surnommé l’Homère de
+            l’Angleterre, l’avait traduit <add>[the <hi rend="italic">Teseide</hi> of Boccaccio]</add> en vers
+            Anglois dès l’an 1400.'
+            <lb/>Southey quotes and adds the comment: 'Good!']</seg>
         </ab>
       </div>
     </body>
