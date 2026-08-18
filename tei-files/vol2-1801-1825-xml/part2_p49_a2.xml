@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1810, Joseph Haslewood. Introduction and notes [to] The Book con taining the Treatises of Hawking, Hunting [etc.] by Juliana Berners.</title>
+        <title>1810, Joseph Haslewood. Introduction and notes [to] The Book containing the Treatises of Hawking, Hunting [etc.] by Juliana Berners.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/27420814">Haslewood, Joseph</author>
             <date cert="high" when="1810">1810</date>
-            <title level="a">Introduction and notes [to] The Book con taining the Treatises of Hawking, Hunting [etc.] by Juliana Berners.</title>
+            <title level="a">Introduction and notes [to] The Book containing the Treatises of Hawking, Hunting [etc.] by Juliana Berners.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -85,7 +85,11 @@
       <div type="allusion">
         <milestone unit="page" n="49"/>
         
-        <ab type="imprint">1810. Haslewood, Joseph. <hi rend="italic">Introduction and notes</hi> [to] <hi rend="italic">The Book con taining the Treatises of Hawking, Hunting</hi> [<hi rend="italic">etc.</hi>] by <hi rend="italic">Juliana Berners</hi>, 1496, p. 59. [Quotes Chaucer for the word ‘mountance.’]</ab>
+        <ab type="imprint">1810. Haslewood, Joseph. <hi rend="italic">Introduction and notes</hi> [to] <hi rend="italic">The Book containing the Treatises of Hawking, Hunting</hi> [<hi rend="italic">etc.</hi>] by <hi rend="italic">Juliana Berners</hi>, 1496, p. 59.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorial">[Quotes Chaucer for the word ‘mountance.’]</seg>
+        </ab>
       </div>
     </body>
   </text>

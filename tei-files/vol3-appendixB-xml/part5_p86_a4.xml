@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p86_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p86_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
         
         <ab type="quotation">
           <seg>Geoffrey Chaucer, 'le poète, l’ami et l’allié du roi Henri VI
-            <add>[sic]</add>, d’Angleterre, dans <hi rend="italic">The Romant of the Ross</hi> <add>[sic]</add>, traduisit
+            <add>[sic]</add>, d’Angleterre', dans <hi rend="italic">The Romant of the Ross</hi> <add>[sic]</add>, traduisit
             entièrement la partie du poëme qui revient à G. de Lory.</seg>
         </ab>
       </div>

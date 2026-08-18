@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1815-16, George Frederick Nott. The Works of Henry Howard Earl of Surrey and of Sir Thomas Wyatt the Elder,</title>
+        <title>1815-16, George Frederick Nott. The Works of Henry Howard Earl of Surrey and of Sir Thomas Wyatt the Elder.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/12660057">George Frederick Nott</author>
-            <date cert="high" when="1815-16">1815-16</date>
-            <title level="a">The Works of Henry Howard Earl of Surrey and of Sir Thomas Wyatt the Elder,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/12660057">Nott, George Frederick</author>
+            <date cert="high" from="1815" to="1816">1815-16</date>
+            <title level="a">The Works of Henry Howard Earl of Surrey and of Sir Thomas Wyatt the Elder.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -87,304 +87,346 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="73"/>
-        <ab type="imprint">1815-16. Nott, George Frederick. The Works of Henry Howard Earl of Surrey and of Sir Thomas Wyatt the Elder, 2 vols.</ab>
+        
+        <ab type="imprint">1815-16. Nott, George Frederick. <hi rend="italic">The Works of Henry Howard Earl of Surrey and of Sir Thomas Wyatt the Elder</hi>, 2 vols. <lb/>Dissertation on the state of English Poetry before the
+          sixteenth century, vol. i, pp. cxxxvii-clxxvi, clxxxvi note,
+          clxxxviii-cxciii, cxc, cxcvi, cxcix, ccxxxi-ii, ccxxxv-vi,
+          ccxliii-vi, ccxlii-vi, ccxlix-li, cclxvii, cclxix-xx, cclxxxv.[In
+          the Notes to the poems there are many references to Chaucer,
+          pointing out passages and lines where Surrey has imitated him.]
+          Notes to Surrey’s Poems, vol. i, pp. 234, 236, 238-41, 243,
+          246-47, 249-50, 252, 257, 259-60, 263-66, 276, 278, 282,
+          284, 287, 289, 291, 295-97, 302-3, 306-7, 315-16, 318-24,
+          326, 329-30, 334-35, 337-39, 341, 348-49, 351-52, 356-57, 
+          359, 361, 369, 372-73, 375, 380, 383, 387-88, 398, 401-11, 413, 417, 421, 424-25.
+          <lb/>Vol. ii [Wyatt], pp. xxxii, xxxiii and note, lxxxvi, cliii and note, clix and note, clx. Notes to Wyatt’s poems, vol. ii, pp.
+          538-41, 545-50, 552-53, 555-56, 558, 560-66, 568-72, 574-75, 577, 581-82.</ab>
+        
         <ab type="quotation">
-          <seg>Dissertation on the state of English Poetry before the
-sixteenth century, vol. i, pp. cxxxvii-clxxvi, clxxxvi note,
-clxxxviii-cxciii, cxc, cxcvi, cxcix, ccxxxi-ii, ccxxxv-vi,
-ccxliii-vi, ccxlii-vi, ccxlix-li, cclxvii, cclxix-xx, cclxxxv. [In
-the Notes to the poems there are many references to Chaucer,
-pointing out passages and lines where Surrey has imitated him.]
-Notes to Surrey’s Poems, vol. i, pp. 234, 236, 238-41, 243,
-246-47, 249-50, 252, 257, 259-60, 263-66, 276, 278, 282,
-284, 287, 289, 291, 295-97, 302-3, 306-7, 315-16, 318-24,
-326, 329-30, 334-35, 337-39, 341, 348-49, 351-52, 356-57,
-359, 361, 369, 372-73, 375, 380, 383, 387-88, 398, 401-11,
-413, 417, 421, 424-25.
-Vol. ii [Wyatt], pp. xxxii, xxxiii and note, lxxxvi, cliii and
-note, clix and note, clx. Notes to Wyatt’s poems, vol. ii, pp.
-538-41, 545-50, 552-53, 555-56, 558, 560-66, 568-72,
-574-75, 577, 581-82.
-[vol. i, Sect. IV. Of Chaucer's versification–that his verses were
-p. clviii]
-Decasyllables, but rhythmical–of the use and importance
-of the cœsura in rhythmical versification.
-It seems certain then that our versification anterior to
-Chaucer, whether the lines were Alexandrine, Octosyllabic, or
-Alliterative, was uniformly rhythmical. It now remains to
-ascertain what were the alterations which Chaucer made.
-First, he rejected alliteration. ... Secondly, he established
-the practice of always changing the rhyme with the couplet.
-... Thirdly, he introduced the Heroic stanza of seven
-lines,...; a stanza, which for many centuries after was used
-as the system of verse best suited to serious and elevated
-subjects....
-But the chief improvement introduced by Chaucer into
-our versification was that of dropping altogether the use of
-the Alexandrine line, and substituting the line of ten
-syllables in its stead.  ...
-But though Chaucer reduced our verse to ten syllables, he
-suffered it to retain in other respects the properties of the
-old Alexandrine verse. Like that it was divided by the old
-cæsura into hemistichs; had the pause at the end, and was
-recited rhythmically. It was still what Lydgate called "the
-verse of Cadence." It is true that many of Chaucer's lines
-[p.clix] have the appearance of being pure Iambic Decasyllables.
-This however was the effect of accident. For accent and quan¬
-tity, which are not of necessity the same, would sometimes
-coincide, and when they did, a pure Iambic Decasyllable was
-unavoidably the result. It was the frequent occurrence of
-these fortuitous Iambic lines that led Mr. Tyrwhitt, and before
-him Mr. Urry, and the learned Mr. Morell, to believe that
-Chaucer's system of versification was altogether metrical. But
-an impartial consideration of the subject, and a reference to
-good MSS. must I think lead us to conclude that Chaucer had
-not a metrical system of numbers in contemplation; but that,
-on the contrary, he designed his verses to be read, like those of
-all his contemporaries, with a cæsura and rhythmical cadence.
-Should it be asked why so many Iambic lines are to be
-found in Chaucer, the answer is obvious. Our language had
-become more compressed. Most of the words in common use
-had dropped their final syllables, and monosyllables were
-multiplied. This could not but produce a corresponding effect
-on our versification, and lines of ten syllables would insensibly
-be written instead of lines of twelve or fourteen....
-[Here follow some instances from Manning's, or Robert of
-Brunne’s, continuation of Langtoft’s Chronicle, of the mixture
-of the Alexandrine with verses of ten syllables.]
-. . . . . . . . ..
-[p.clx] Manning's use of the Decasyllabic verse, therefore, was
-partial and accidental. The case was otherwise with Chaucer.
-He used it uniformly, and upon system. This admits of
-no doubt. I am not aware that a single instance of the
-Alexandrine verse occurs in all Chaucer's works; for I fully
-agree with Mr. Tyrwhitt that the Tale of Gamelyn was not
-written by Chaucer.
-[p. clxi] To give the reader a clear notion of what I conceive to have
-been Chaucer's system of versification, I will transcribe the
-opening lines of the Canterbury Tales, marking as well the
-caesura in the middle of each verse as the pause at the end,
-and also the strongly accented syllables, to shew in what
-manner rhythmical Decasyllabic verses were, I apprehend,
-recited.
-Whēn thăt Aprìl ǁ with hĭs shōurĕs sòote |
-Thĕ droūght ŏf Màrch ǁ hăd piērcĕd tŏ thĕ ròote |
-And bāthĕd ĕvĕry vèin || ĭn sūch lĭquòur |
-Of whīch vīrtùe || ĕngēndĕrĕd īs thĕ flòur |
-[&amp;c., &amp;c.]
-. . . . . . . . . .
-That I may not be thought to assume too much in this
-point without proof, I will adduce some reasons why I
-consider Chaucer’s verses, though Decasyllabic, to have been
-rhythmical, and not metrical.
-First, because a large proportion of them cannot be read as
-Iambic Decasyllables, without doing the utmost violence to
-our language; all which verses are harmonious as verses of
-cadence, if read with the cæsura rhythmically. And further,
-because all those verses might easily by a slight transposition
-have been made pure Iambic Decasyllables, had Chaucer either
-known that mode of versification, or intended to have adopted
-it: as in the following instance.
-[p. clxii]
-In her is high beauty withouten pride.
-Cant. Tales. 4522.
-Unless this line be read rhythmically, it has no principle of
-harmony at all; but when so read, it has all the harmony that
-sort of versification aspires to.
-In hèr ĭs hìgh bĕautè || wĭthòutĕn prīde.
-Had the Iambic Decasyllabic measure been intended, the
-line with the transposition of a single word, might have been
-made a perfect Iambic Decasyllable. We cannot suppose this
-would have escaped Chaucer's notice.
-In her high beauty is, withouten pride.
-The above observations apply to a large number of lines
-of a similar construction, occurring in almost every page of
-Chaucer's works.
-verses seems to me wholly inconsistent with the notion of a
-Again; the incessant recurrence of defective and redundant
-regular system of metrical versification, but not so with
-rhythmical versification....
-. . . . . . . . . .
-Another, and I conceive a conclusive reason for believing
-Chaucer’s verses to have been rhythmical verses, or verses of
-cadence, may be drawn from the Manuscripts themselves in
-which his poems are preserved. [Nott here goes on to
-show that in all the MSS. either the cæsura, or the pause at
-the end of the line is marked, and that sometimes both are
-carefully marked, and that all the MSS. agree in fixing the
-cæsura in every line, with hardly any variation, at the same
-place; pointing to the fact that Chaucer not only meant his
-verses to be rhythmical, but did all he could to settle what
-their rhythm should be.]
-. . . . . . . . . .
-Sect. VIII. Of the nature and importance of Poetic Orna¬
-ment, and of the defects of our early English Poets in Point
-of Poetic Diction...
-p. clxxxviii] Chaucer did much towards refining our poetic diction,
-but he left it indefinite: and therefore open to subsequent
-innovation and experiment. Indeed he was not consistent in
-the use of one uniform style. In his Canterbury Tales what
-he seems to have particularly aimed at was simplicity of con¬
-struction and a not over-curious selection of words. By these
-means he obtained a sort of natural dignity, and simple
-elegance of style which rose often into sublimity, and enabled
-him to present his thoughts in a manner singularly clear and
-distinct. In his Troilus and Cressida, which is evidently
-his most laboured composition, he aimed at something like
-involution, and affected a greater nicety of terms.
-[p. cxcii] Another defect in Chaucer, and in all our early poets, was
-. . . . . . . . . .
-the little attention paid by them to their system of Rhyming.
-[p. cxciii] ... We find him [Chaucer] constantly admitting double
-rhymes, which in grave and heroic subjects cannot be allowed,
-as they carry with them an air of lightness inconsistent with
-the dignity of heroic composition. He rhymed also not only
-on feeble words, but on such as in themselves were mean and
-trivial. The following rhymes occur in the Knights' Tales,
-[sic] one of his most elevated pieces: us, after, shall, ah, thus,
-her, other, pan, merry, ladle, cradle, shirt. His rhymes are
-likewise often unpleasing by being formed of words, either
-purely French, or of English words distorted, it should seem
-arbitrarily, to rhyme with them, by being made to bear a
-strong and heavy accent on the last syllable....I know
-that this evil prevailed before Chaucer’s time, and I am will¬
-ing to believe he did something to correct it. Still we find
-him rhyming on the following words, semblaùnt, variaùnt,
-plesaùnce, chevisaùnce, [&amp;c., &amp;c.]...
-. . . . . . . . . .
-Sect. XIII. Of the vague and diffuse Style used by our
-[p. ccxxxv] [Remarks on the diffuseness and tautology of the early
-early Poets....
-poets, and an example of this is given from Chaucer, Com¬
-plaint of Mars, fol. ccclxx, ed. 1532, beginning:
-. . . . . . . . . . .
-It seemeth Love hath to lovers enmity.]
-[p. ccxli, [Nott says our early poets often debased fine passages
-note a.]
-by the introduction of mean circumstances, or trivial and
-ignoble words, and as an example of this, he says:]
-In Chaucer's complaint of Mars and Venus, we find this
-very spirited description of Mars arming himself.
-He throweth on his helm of hugie weight,
-[p. ccxlii] His mighty spear, as he was wont to fight
-And girt him with his sword; and in his hand
-He shaketh so, that it almost to-wonn'd.
-Thus far all is general and beautiful: but Chaucer cannot
-forbear adding a circumstance which proves he had a Man at
-Arms of the 14th century in his imagination.
-Full heavy was he to walken over lond.
-[p. ccxlii] Sect. XV. Of the want of skill in all our early Poets
-in translating and imitating other writers, and Surrey's
-excellence in this particular.
-. . . . . . . . . .
-Chaucer was incomparably the best and noblest of all our
-early writers. Yet even Chaucer was unacquainted with the art
-of imitating or translating with spirit and originality. [Here
-follow several examples of translated passages:
-(1) Troilus, Bk. ii, v. 1030, beginning:
-For though the best// harper upon live
-Would on the best// sowned joly harp...
-which lines, says Dr. Nott, are 'an imperfect imitation of
-two passages from Horace' in which Chaucer comprehends
-his author's meaning, and applies it to his subject with
-considerable skill; but we look in vain for the point and
-[p. ccxliii] (2) Translation from Petrarch’s Sonnet 102, in Troil. and
-terseness of the original.
-Cress., Bk. i, ed. 1532:
-If no love is, oh God! // what feel I so, &amp;c.
-in which the words are so ill chosen where the version is close;
-and where it is paraphrastic the circumstances added are
-selected with so little taste, and expressed with so little
-elegance, that the spirit of the original is lost.]
-. . . . . . . . . .
-[p. ccxliv] A still more striking proof of Chaucer's want of taste in
-translation occurs in his Canterbury Tales, where he attempts
-a version of Dante's famous story of Ugolino.... With what
-prosaical tameness and meanness of circumstance does he
-paraphrase the... lines, in which Ugolino describes how
-his suspicion was excited as to the fate which awaited his
-unfortunate family and himself.
-Sect. XVI. Of the further improvements made by Surrey
-in our Poetry...
-[p. ccxlvii] All our poets previous to Surrey wrote as if no other
-manners, ideas, or modes of life ever had existed, or ever
-could exist than those with which they themselves were
-conversant. . . .
-[p. ccxlix] That limited taste... pervaded the whole of Chaucer's
-Knight's Tale. Who must not feel the first principles of good
-taste violated, when he is told that Dan Arcite was a 'lusty
-bachelor,' chamberlain and squire principal to Duke Theseus;
-that the said Duke found Arcite and Palamon in the woods
-when he went thither himself 'amaying;' and that he
-learnt Arcite's passion by hearing him sing a Roundel in praise
-of love, and talk of purgatory?
-. . . . . . . . . .
-[p. ccl] The same confusion arising from an absurd use of particular
-instead of general ideas and sentiments in points of feeling,
-reigns throughout the whole of the Troilus and Cressida.
-Indeed were the names of the personages altered, that poem
-would not only become a tale of chivalry, but would gain
-beauty as well as propriety by the change.
-. . . . . . . . .
-[p. cclvi] How much inferior, on this account [i. e. incongruity and
-confusion of ideas] is Palamon and Arcite, one of Chaucer's
-most finished works, to his Squire's Tale, which even in
-its imperfect state remains the most vigorous effort of his
-fancy. The reason of the inferiority is this. In the Squire's
-Tale every thing is of a piece; the subject, the figures, the
-ideas, the machinery, are all purely Gothic, with a certain
-mixture of eastern imagery which gave, at the time of the
-Crusades, a peculiar colouring to our northern romances...
-But in the Knight's Tale we are sensible at every page that
-the principal rules of good taste are violated; we feel the
-absurdity of combining manners of periods so remote from
-each other as the time of Theseus, and the reign of Edward
-the Third; and even when we are most pleased we tremble
-lest some strange incongruity should arise, to destroy the
-effect of all that has preceeded.
-. . . . . . . . . .
-[p. ccxix] Sect. XX. Of the authors whom Surrey studied; of
-Chaucer, Dante...
-As for Chaucer his name is in every one's mouth; and is
-always mentioned with praise. Nor could it well be otherwise.
-We could not but speak with respect of the author whom
-Spencer had declared to have been his poetic father, whom so
-many subsequent writers had called 'the Well-head of English
-undefiled,' and whom Dryden had commended in terms of filial
-reverence. Still Chaucer is little read, and his merits are
-imperfectly understood. He was a poet of as large and com¬
-prehensive a mind as almost any whom this, or any other
-country can boast. He was a great and an universal scholar.
-This praise cannot be denied to him who was master of all the
-learning of his times. His memory was stored with images
-collected from all the sources of information then open to
-enquiry... Had the Squire's Tale been finished... I am
-persuaded that Chaucer would have left us the noblest
-specimen of romantic imagination to be found within the
-compass of modern literature. But Chaucer's chief merit
-consists in his knowledge of human nature and in his
-power of delineating character. In humorous and satiric
-portraits, we meet with the nicest touches of discrimination
-between vice and foible that can well be imagined: and
-in his heroic characters we find him constantly preserving
-gradations of excellence even in those points where there is a
-general resemblance. The Knight and the Squire, Palamon
-[p. and Arcite, Demetrius of Inde, and Lycurgus of Thrace, are
-cclxx]
-all brave and enterprising; but each of them is an individual
-of himself. Courage is the one common attribute of all.
-But there are the same shades of difference in the courage of
-each that Homer has been so often admired for preserving
-in the characters of Ulysses and Antilochus; Diomed and
-Patroclus; Ajax and Achilles. I know of no writer in
-modern times, Shakespeare excepted, who can be compared
-with Chaucer for masterly discrimination of character.
-[Vol. ii, ... For though it is evident that he [Wyatt] had read
-p. cliii]
-Chaucer, and admired him, his imitations are neither frequent,
-nor of a description to make us suppose that he took him as
-his master, or considered him to be 'the well-head of English
-undefiled.'</seg>
+          <seg><note place="margin">[vol. i, p. clviii]</note>Sect. IV. Of Chaucer's versification–that his verses were
+            Decasyllables, but rhythmical–of the use and importance
+            of the cœsura in rhythmical versification.
+            <lb/>It seems certain then that our versification anterior to
+            Chaucer, whether the lines were Alexandrine, Octosyllabic, or
+            Alliterative, was uniformly rhythmical. It now remains to
+            ascertain what were the alterations which Chaucer made.
+            First, he rejected alliteration. . . . Secondly, he established
+            the practice of always changing the rhyme with the couplet.
+            . . . Thirdly, he introduced the Heroic stanza of seven
+            lines, . . .; a stanza, which for many centuries after was used
+            as the system of verse best suited to serious and elevated
+            subjects. . . .</seg>
+            
+          <milestone unit="page" n="74"/>
+            
+          <seg>But the chief improvement introduced by Chaucer into
+            our versification was that of dropping altogether the use of
+            the Alexandrine line, and substituting the line of ten
+            syllables in its stead. . . .</seg>
+            
+          <seg>But though Chaucer reduced our verse to ten syllables, he
+            suffered it to retain in other respects the properties of the
+            old Alexandrine verse. Like that it was divided by the old
+            cæsura into hemistichs; had the pause at the end, and was
+            recited rhythmically. It was still what Lydgate called "the
+            verse of Cadence." It is true that many of Chaucer's lines
+            <note place="margin">[p.clix]</note>have the appearance of being pure Iambic Decasyllables.
+            This however was the effect of accident. For accent and quantity,
+            which are not of necessity the same, would sometimes
+            coincide, and when they did, a pure Iambic Decasyllable was
+            unavoidably the result. It was the frequent occurrence of
+            these fortuitous Iambic lines that led Mr. Tyrwhitt, and before
+            him Mr. Urry, and the learned Mr. Morell, to believe that
+            Chaucer's system of versification was altogether metrical. But
+            an impartial consideration of the subject, and a reference to
+            good MSS. must I think lead us to conclude that Chaucer had
+            not a metrical system of numbers in contemplation; but that,
+            on the contrary, he designed his verses to be read, like those of
+            all his contemporaries, with a cæsura and rhythmical cadence.</seg>
+            
+          <seg>Should it be asked why so many Iambic lines are to be
+            found in Chaucer, the answer is obvious. Our language had
+            become more compressed. Most of the words in common use
+            had dropped their final syllables, and monosyllables were
+            multiplied. This could not but produce a corresponding effect
+            on our versification, and lines of ten syllables would insensibly
+            be written instead of lines of twelve or fourteen. . . .</seg>
+            
+          <seg type="editorial">[Here follow some instances from Manning's, or Robert of
+            Brunne’s, continuation of Langtoft’s Chronicle, of the mixture
+            of the Alexandrine with verses of ten syllables.]
+            <lb/>. . . . . . . . . .</seg>
+          
+          <seg><note place="margin">[p.clx]</note>Manning's use of the Decasyllabic verse, therefore, was
+            partial and accidental. The case was otherwise with Chaucer.
+            He used it uniformly, and upon system. This admits of
+            no doubt. I am not aware that a single instance of the
+            Alexandrine verse occurs in all Chaucer's works; for I fully
+            agree with Mr. Tyrwhitt that the Tale of Gamelyn was not
+            written by Chaucer.</seg>
+          
+          <milestone unit="page" n="75"/>
+            
+          <seg><note place="margin">[p. clxi]</note>To give the reader a clear notion of what I conceive to have
+            been Chaucer's system of versification, I will transcribe the
+            opening lines of the Canterbury Tales, marking as well the
+            caesura in the middle of each verse as the pause at the end,
+            and also the strongly accented syllables, to shew in what
+            manner rhythmical Decasyllabic verses were, I apprehend,
+            recited.
+            <lg>
+              <l>Whēn thăt Aprìl ǁ with hĭs shōurĕs sòote |</l>
+              <l>Thĕ droūght ŏf Màrch ǁ hăd piērcĕd tŏ thĕ ròote |</l>
+              <l>And bāthĕd ĕvĕry vèin ǁ ĭn sūch lĭquòur |</l>
+              <l>Of whīch vīrtùe ǁ ĕngēndĕrĕd īs thĕ flòur |</l>
+              <add>[&amp;c., &amp;c.]</add>
+            </lg>
+            . . . . . . . . . .</seg>
+            
+          <seg>That I may not be thought to assume too much in this
+            point without proof, I will adduce some reasons why I
+            consider Chaucer’s verses, though Decasyllabic, to have been
+            rhythmical, and not metrical.</seg>
+            
+          <seg>First, because a large proportion of them cannot be read as
+            Iambic Decasyllables, without doing the utmost violence to
+            our language; all which verses are harmonious as verses of
+            cadence, if read with the cæsura rhythmically. And further,
+            because all those verses might easily by a slight transposition
+            have been made pure Iambic Decasyllables, had Chaucer either
+            known that mode of versification, or intended to have adopted
+            it: as in the following instance.
+            <note place="margin">[p. clxii]</note><l>In her is high beauty withouten pride.</l>
+            <note place="right"><hi rend="italic">Cant. Tales.</hi> 4522.</note></seg>
+            
+          <seg>Unless this line be read rhythmically, it has no principle of
+            harmony at all; but when so read, it has all the harmony that
+            sort of versification aspires to.
+            <l>In hèr ĭs hìgh bĕautè || wĭthòutĕn prīde.</l></seg>
+            
+          <seg>Had the Iambic Decasyllabic measure been intended, the
+            line with the transposition of a single word, might have been
+            made a perfect Iambic Decasyllable. We cannot suppose this
+            would have escaped Chaucer's notice.
+            <l>In her high beauty is, withouten pride.</l></seg>
+            
+          <seg>The above observations apply to a large number of lines
+            of a similar construction, occurring in almost every page of
+            Chaucer's works.</seg>
+          
+          <milestone unit="page" n="76"/>
+            
+          <seg>Again; the incessant recurrence of defective and redundant
+            verses seems to me wholly inconsistent with the notion of a
+            regular system of metrical versification, but not so with
+            rhythmical versification. . . .
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg>Another, and I conceive a conclusive reason for believing
+            Chaucer’s verses to have been rhythmical verses, or verses of
+            cadence, may be drawn from the Manuscripts themselves in
+            which his poems are preserved.</seg>
+            
+          <seg type="editorial">[Nott here goes on to show that in all the MSS. either the cæsura, or the pause at
+            the end of the line is marked, and that sometimes both are
+            carefully marked, and that all the MSS. agree in fixing the
+            cæsura in every line, with hardly any variation, at the same
+            place; pointing to the fact that Chaucer not only meant his
+            verses to be rhythmical, but did all he could to settle what
+            their rhythm should be.]
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg>Sect. VIII. Of the nature and importance of Poetic Orna¬
+            ment, and of the defects of our early English Poets in Point
+            of Poetic Diction. . .
+            <lb/><note place="margin">[p. clxxxviii]</note> Chaucer did much towards refining our poetic diction,
+            but he left it indefinite: and therefore open to subsequent
+            innovation and experiment. Indeed he was not consistent in
+            the use of one uniform style. In his Canterbury Tales what
+            he seems to have particularly aimed at was simplicity of
+            construction and a not over-curious selection of words. By these
+            means he obtained a sort of natural dignity, and simple
+            elegance of style which rose often into sublimity, and enabled
+            him to present his thoughts in a manner singularly clear and
+            distinct. In his Troilus and Cressida, which is evidently
+            his most laboured composition, he aimed at something like
+            involution, and affected a greater nicety of terms.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. cxcii]</note>Another defect in Chaucer, and in all our early poets, was
+            the little attention paid by them to their system of Rhyming.</seg>
+            
+          <seg><note place="margin">[p. cxciii]</note>. . . We find him <add>[Chaucer]</add> constantly admitting double
+            rhymes, which in grave and heroic subjects cannot be allowed,
+            as they carry with them an air of lightness inconsistent with
+            the dignity of heroic composition. He rhymed also not only
+            on feeble words, but on such as in themselves were mean and
+            trivial. The following rhymes occur in the Knights' Tales,
+            
+            <milestone unit="page" n="77"/>
+            
+            <add>[sic]</add> one of his most elevated pieces: us, after, shall, ah, thus,
+            her, other, pan, merry, ladle, cradle, shirt. His rhymes are
+            likewise often unpleasing by being formed of words, either
+            purely French, or of English words distorted, it should seem
+            arbitrarily, to rhyme with them, by being made to bear a
+            strong and heavy accent on the last syllable. . . . I know
+            that this evil prevailed before Chaucer’s time, and I am willing 
+            to believe he did something to correct it. Still we find
+            him rhyming on the following words, semblaùnt, variaùnt,
+            plesaùnce, chevisaùnce, [&amp;c., &amp;c.] . . .
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg type="editorial">Sect. XIII. Of the vague and diffuse Style used by our early Poets....
+            <lb/><note place="margin">[p. ccxxxv]</note>[Remarks on the diffuseness and tautology of the early
+            poets, and an example of this is given from Chaucer, Com¬
+            plaint of Mars, fol. ccclxx, ed. 1532, beginning:
+            <l>It seemeth Love hath to lovers enmity.]</l>
+            <lb/>. . . . . . . . . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[p. ccxli, note a.]</note>[Nott says our early poets often debased fine passages
+            by the introduction of mean circumstances, or trivial and
+            ignoble words, and as an example of this, he says:]</seg>
+            
+          <seg>In Chaucer's complaint of Mars and Venus, we find this
+            very spirited description of Mars arming himself.
+            <lg>
+              <l>He throweth on his helm of hugie weight,</l>
+              <note place="margin">[p. ccxlii]</note><l>His mighty spear, as he was wont to fight</l>
+              <l>And girt him with his sword; and in his hand</l>
+              <l>He shaketh so, that it almost to-wonn'd.</l>
+            </lg>
+            Thus far all is general and beautiful: but Chaucer cannot
+            forbear adding a circumstance which proves he had a Man at
+            Arms of the 14th century in his imagination.
+            <l>Full heavy was he to walken over lond.</l></seg>
+            
+          <seg><note type="editorial">[p. ccxlii]</note>Sect. XV. Of the want of skill in all our early Poets
+            in translating and imitating other writers, and Surrey's
+            excellence in this particular. <lb/>. . . . . . . . . .</seg>
+            
+          <seg>Chaucer was incomparably the best and noblest of all our
+            early writers. Yet even Chaucer was unacquainted with the art
+            
+            <milestone unit="page" n="78"/>
+            
+            of imitating or translating with spirit and originality. [Here
+            follow several examples of translated passages:
+            <lb/>(1) Troilus, Bk. ii, v. 1030, beginning:
+            <lg>
+              <l>For though the best // harper upon live</l>
+              <l>Would on the best // sowned joly harp . . .</l>
+            </lg>
+            which lines, says Dr. Nott, are 'an imperfect imitation of
+            two passages from Horace' in which Chaucer comprehends
+            his author's meaning, and applies it to his subject with
+            considerable skill; but we look in vain for the point and
+            terseness of the original.</seg>
+            
+          <seg><note place="margin">[p. ccxliii]</note>(2) Translation from Petrarch’s Sonnet 102, in Troil. and
+            Cress., Bk. i, ed. 1532:
+            <l>If no love is, oh God! // what feel I so, &amp;c.</l>
+            in which the words are so ill chosen where the version is close;
+            and where it is paraphrastic the circumstances added are
+            selected with so little taste, and expressed with so little
+            elegance, that the spirit of the original is lost.]
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. ccxliv]</note>A still more striking proof of Chaucer's want of taste in
+            translation occurs in his Canterbury Tales, where he attempts
+            a version of Dante's famous story of Ugolino. . . . With what
+            prosaical tameness and meanness of circumstance does he
+            paraphrase the . . . lines, in which Ugolino describes how
+            his suspicion was excited as to the fate which awaited his
+            unfortunate family and himself.</seg>
+            
+          <seg>Sect. XVI. Of the further improvements made by Surrey in our Poetry . . .
+            <lb/><note place="margin">[p. ccxlvii]</note>All our poets previous to Surrey wrote as if no other
+            manners, ideas, or modes of life ever had existed, or ever
+            could exist than those with which they themselves were
+            conversant. . . .</seg>
+          
+          <seg><note place="margin">[p. ccxlix]</note>That limited taste . . . pervaded the whole of Chaucer's
+            Knight's Tale. Who must not feel the first principles of good
+            taste violated, when he is told that Dan Arcite was a 'lusty
+            bachelor,' chamberlain and squire principal to Duke Theseus;
+            that the said Duke found Arcite and Palamon in the woods
+            when he went thither himself 'amaying;' and that he
+            learnt Arcite's passion by hearing him sing a Roundel in praise
+            of love, and talk of purgatory?
+            <lb/>. . . . . . . . . .</seg>
+            
+          <milestone unit="page" n="79"/>
+            
+          <seg><note place="margin">[p. ccl]</note>The same confusion arising from an absurd use of particular
+            instead of general ideas and sentiments in points of feeling,
+            reigns throughout the whole of the Troilus and Cressida.
+            Indeed were the names of the personages altered, that poem
+            would not only become a tale of chivalry, but would gain
+            beauty as well as propriety by the change.
+            <lb/>. . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. cclvi]</note>How much inferior, on this account <add>[i. e. incongruity and
+            confusion of ideas]</add> is Palamon and Arcite, one of Chaucer's
+            most finished works, to his Squire's Tale, which even in
+            its imperfect state remains the most vigorous effort of his
+            fancy. The reason of the inferiority is this. In the Squire's
+            Tale every thing is of a piece; the subject, the figures, the
+            ideas, the machinery, are all purely Gothic, with a certain
+            mixture of eastern imagery which gave, at the time of the
+            Crusades, a peculiar colouring to our northern romances. . .
+            But in the Knight's Tale we are sensible at every page that
+            the principal rules of good taste are violated; we feel the
+            absurdity of combining manners of periods so remote from
+            each other as the time of Theseus, and the reign of Edward
+            the Third; and even when we are most pleased we tremble
+            lest some strange incongruity should arise, to destroy the
+            effect of all that has preceeded.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. ccxix]</note>Sect. XX. Of the authors whom Surrey studied; of Chaucer, Dante . . .
+            As for Chaucer his name is in every one's mouth; and is
+            always mentioned with praise. Nor could it well be otherwise.
+            We could not but speak with respect of the author whom
+            Spencer had declared to have been his poetic father, whom so
+            many subsequent writers had called 'the Well-head of English
+            undefiled,' and whom Dryden had commended in terms of filial
+            reverence. Still Chaucer is little read, and his merits are
+            imperfectly understood. He was a poet of as large and
+            comprehensive a mind as almost any whom this, or any other
+            country can boast. He was a great and an universal scholar.
+            This praise cannot be denied to him who was master of all the
+            learning of his times. His memory was stored with images
+            collected from all the sources of information then open to
+            enquiry... Had the Squire's Tale been finished... I am
+            persuaded that Chaucer would have left us the noblest
+            
+            <milestone unit="page" n="80"/>
+            
+            specimen of romantic imagination to be found within the
+            compass of modern literature. But Chaucer's chief merit
+            consists in his knowledge of human nature and in his
+            power of delineating character. In humorous and satiric
+            portraits, we meet with the nicest touches of discrimination
+            between vice and foible that can well be imagined: and
+            in his heroic characters we find him constantly preserving
+            gradations of excellence even in those points where there is a
+            general resemblance. The Knight and the Squire, Palamon
+            <note place="margin">[p. cclxx]</note>and Arcite, Demetrius of Inde, and Lycurgus of Thrace, are
+            all brave and enterprising; but each of them is an individual
+            of himself. Courage is the one common attribute of all.
+            But there are the same shades of difference in the courage of
+            each that Homer has been so often admired for preserving
+            in the characters of Ulysses and Antilochus; Diomed and
+            Patroclus; Ajax and Achilles. I know of no writer in
+            modern times, Shakespeare excepted, who can be compared
+            with Chaucer for masterly discrimination of character.</seg>
+            
+          <seg><note place="margin">[Vol. ii, p. cliii]</note>. . . For though it is evident that he <add>[Wyatt]</add> had read
+            Chaucer, and admired him, his imitations are neither frequent,
+            nor of a description to make us suppose that he took him as
+            his master, or considered him to be 'the well-head of English
+            undefiled.'</seg>
         </ab>
       </div>
     </body>

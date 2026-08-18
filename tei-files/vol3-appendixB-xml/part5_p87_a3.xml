@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p87_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p87_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,7 +69,7 @@
         <language ident="fr">French</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -92,9 +90,9 @@
             attitudes les plus variées et sous les couleurs les plus éclatantes
             toutes les figures du monde chevaleresque, ecclésiastique et
             bourgeois qui s’agite sur le seuil des temps modernes, avec son
-            idéal, ses goûts, ses passions, son ignorance et ses appétits. . . .</seg>
-            
-          <lb/>. . . . . . . . . . .
+            idéal, ses goûts, ses passions, son ignorance et ses appétits. . . .
+            <lb/>. . . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 23]</note>(Contes de Canterbury.) Récits de guerre et d’amour,
             légendes pieuses et romantiques, contes gracieux et spirituels,

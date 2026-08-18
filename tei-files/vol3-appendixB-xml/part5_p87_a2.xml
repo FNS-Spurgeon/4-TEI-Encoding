@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p87_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p87_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,8 +82,9 @@
         <ab type="imprint">1881. Paris, Gaston. <hi rend="italic">Histoire Littéraire de la France</hi> . . . tome xxviii, 1881, p. 181.</ab>
         
         <ab type="quotation">
-          <seg><add>[Article on William de Wadington and his <hi rend="italic">Manuel des
-            Pêchés</hi>.]</add> Ces traits <add>[neglect of French grammar, metre and
+          <seg type="editorial">[Article on William de Wadington and his <hi rend="italic">Manuel des Pêchés</hi>.]</seg>
+          
+          <seg>Ces traits <add>[neglect of French grammar, metre and
             orthography by the Anglo-French authors]</add> se retrouvent
             d’ailleurs, ainsi que nous l’avons dit, chez plus d’un des
             représentants de cette étrange littérature, composée en

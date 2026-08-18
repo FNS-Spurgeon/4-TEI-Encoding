@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/24599809">Samuel Taylor Coleridge</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/24599809">Coleridge, Samuel Taylor</author>
             <date cert="high" when="1818">1818</date>
             <title level="a">Note on Troilus and Cressida.</title>
           </analytic>
@@ -84,14 +84,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="96"/>
-        <ab type="imprint">1818. Coleridge, Samuel Taylor. Note on Troilus and Cressida. (Literary Remains of S. T. Coleridge ... 4 vols., 1836-9, vol. ii, p. 129.)</ab>
+        
+        <ab type="imprint">1818. Coleridge, Samuel Taylor. <hi rend="italic">Note on Troilus and Cressida</hi>. (Literary Remains of S. T. Coleridge . . . 4 vols., 1836-9, vol. ii, p. 129.)</ab>
+        
         <ab type="quotation">
-          <seg>[Coleridge quotes the note in Stockdale's 1807 edn. of
-Shakespeare: “Mr. Pope (after Dryden) informs us, that the
-story of Troilus and Cressida was originally the work of one
-Lollius, a Lombard; but Dryden goes yet further; he declares
-it to have been written in Latin verse, and that Chaucer
-translated it."]</seg>
+          <seg type="editorial">[Coleridge quotes the note in Stockdale's 1807 edn. of
+            Shakespeare: "Mr. Pope (after Dryden) informs us, that the
+            story of Troilus and Cressida was originally the work of one
+            Lollius, a Lombard; but Dryden goes yet further; he declares
+            it to have been written in Latin verse, and that Chaucer
+            translated it."]</seg>
         </ab>
       </div>
     </body>

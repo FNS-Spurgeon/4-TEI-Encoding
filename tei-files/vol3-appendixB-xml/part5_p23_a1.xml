@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p23_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p23_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,11 +82,11 @@
         <ab type="imprint">1737. Unknown. <hi rend="italic">Note on Chaucer</hi> [in] <hi rend="italic">Le Spectateur, ou Le Socrate moderne</hi>. Traduit de l’Anglois. Suivant la 4ème Édition d’Am¬ sterdam. Basle, 1737. Tome i, p. 374.</ab>
         
         <ab type="quotation">
-          <seg><add>[Text.]</add> Chaucer*<note type="footnote"><add>[Note.]</add> *Il s’appelloit GEOFROI. &amp; vivoit vers le milieu
+          <seg><add>[Text.]</add> Chaucer<note type="footnote" n="*"><add>[Note.]</add> Il s’appelloit GEOFROI. &amp; vivoit vers le milieu
               du XV. siècle. Les Anglois le regardent comme le Pere de
               leur Poësie.</note> décrit fort joliment, dans un de ses
-              Contes, cette humeur volage d’une Idole; Il nous la repré¬
-              sente assise autour d’une Table avec trois de ses Esclaves, qui
+              Contes, cette humeur volage d’une Idole; Il nous la représente
+              assise autour d’une Table avec trois de ses Esclaves, qui
               n’oublient rien pour gagner ses bonnes graces, et lui rendre
               leurs devoirs: Là -dessus, elle sourioit à l’un, buvoit à la
               santé de l’autre, et pressoit le pié du troisième sous la

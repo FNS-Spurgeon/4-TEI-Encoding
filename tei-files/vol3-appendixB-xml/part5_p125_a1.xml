@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p125_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p125_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,7 +82,7 @@
         <ab type="imprint">[n. a. 1857?] Comte, Auguste. <hi rend="italic">Calendrier Positiviste</hi>.</ab>
         
         <ab type="quotation">
-          <seg>8° mois (Dante, l’Épopée moderne) 2 [July 17] Boccace, Chaucer.<note type="footnote">Note in Spurgeon: [Not in 1st edn., 1849. Comte died in 1857.]</note></seg>
+          <seg>8° mois (Dante, l’Épopée moderne) 2 <add>[July 17]</add> Boccace, Chaucer.<note type="footnote">Note in Spurgeon: [Not in 1st edn., 1849. Comte died in 1857.]</note></seg>
         </ab>
       </div>
     </body>

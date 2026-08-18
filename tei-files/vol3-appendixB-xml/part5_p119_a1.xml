@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p119_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p119_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -81,7 +79,11 @@
       <div type="allusion">
         <milestone unit="page" n="119"/>
         
-        <ab type="imprint">1909. Unknown. [Review of the translation of the <hi rend="italic">Canterbury Tales</hi> in the] <hi rend="italic">Revue Universitaire</hi>, January 15, 1909. [Very brief.]</ab>
+        <ab type="imprint">1909. Unknown. [Review of the translation of the <hi rend="italic">Canterbury Tales</hi> in the] <hi rend="italic">Revue Universitaire</hi>, January 15, 1909.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorial">[Very brief.]</seg>
+        </ab>
       </div>
     </body>
   </text>

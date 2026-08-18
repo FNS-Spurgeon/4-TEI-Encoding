@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p95_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p95_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +89,7 @@
             French prose. There is a short biographical sketch, quoting Taine.]</seg>
             
           <seg><note place="margin">[p. 2]</note>Il n’existe en prose française aucune traduction complète
-            des <hi rend="italic">Contes de Canterbury</hi> ni des œuvres de Chaucer.<note><add>[Footnote]</add> Nous avons annoncé dans la Bibliographie de la France
+            des <hi rend="italic">Contes de Canterbury</hi> ni des œuvres de Chaucer.<note type="footnote"><note place="margin">[Footnote]</note>Nous avons annoncé dans la Bibliographie de la France
               la prochaine publication de notre traduction complète des <hi rend="italic">Contes de Canterbury</hi>. La regrettable lacune se trouvera ainsi réparée. T. S.</note></seg>
             
           <seg type="editorial">[This number was the only one which appeared, and the

@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">William Hazlitt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">Hazlitt, William</author>
             <date cert="high" when="1814">1814</date>
             <title level="a">Why the Arts are not Progressive?</title>
           </analytic>
@@ -84,16 +84,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="63"/>
-        <ab type="imprint">1814. Hazlitt, William. Why the Arts are not Progressive? [A fragment composed of articles from the Morning Chronicle and the Champion, Jan. 11 and 15, and Sept. 11, 1814. Reprinted in the 'Round Table,' 1817.] (Collected Works of William Hazlitt, ed. Waller and Glover, 1902, 13 vols., vol. i, pp. 161-3.)</ab>
+        
+        <ab type="imprint">1814. Hazlitt, William. <hi rend="italic">Why the Arts are not Progressive?</hi> [A fragment composed of articles from the Morning Chronicle and the Champion, Jan. 11 and 15, and Sept. 11, 1814. Reprinted in the 'Round Table,' 1817.] (Collected Works of William Hazlitt, ed. Waller and Glover, 1902, 13 vols., vol. i, pp. 161-3.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 161] Homer, Chaucer, Spenser [and a list of others] all lived
-near the beginning of their arts—perfected, and all but created
-them.
-[p.162] Nature is the soul of art... It was the same trust in
-nature that enabled Chaucer to describe the patient sorrow of
-Griselda; or the delight of that young beauty in the Flower
-and the Leaf, shrouded in her bower, and listening, in the
-morning of the year, to the singing of the nightingale. ...</seg>
+          <seg><note place="margin">[p. 161]</note>Homer, Chaucer, Spenser <add>[and a list of others]</add> all lived
+            near the beginning of their arts—perfected, and all but created them.</seg>
+            
+          <seg><note place="margin">[p.162]</note>Nature is the soul of art . . . It was the same trust in
+            nature that enabled Chaucer to describe the patient sorrow of
+            Griselda; or the delight of that young beauty in the Flower
+            and the Leaf, shrouded in her bower, and listening, in the
+            morning of the year, to the singing of the nightingale. . . .</seg>
         </ab>
       </div>
     </body>

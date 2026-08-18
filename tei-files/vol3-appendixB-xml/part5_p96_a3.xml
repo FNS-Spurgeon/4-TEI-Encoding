@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p96_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p96_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1892, Jean Jules Jusserand. L'Angleterre au temps des invasions [article in the] Revue des Deux Mondes.</title>
+        <title>1892, Jean-Jules Jusserand. L'Angleterre au temps des invasions [article in the] Revue des Deux Mondes.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,7 +30,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jusserand, Jean Jules</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jusserand, Jean-Jules</author>
             <date cert="high" when="1892">1892</date>
             <title level="a">L'Angleterre au temps des invasions [article in the] Revue des Deux Mondes.</title>
           </analytic>

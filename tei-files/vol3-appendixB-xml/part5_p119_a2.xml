@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p119_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p119_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,8 +84,8 @@
         <ab type="imprint">1909. Maury, Lucien. [Review of the translation of the <hi rend="italic">Canterbury Tales</hi> in the] <hi rend="italic">Revue Bleue</hi> of January 23, 1909, pp. 120-122.</ab>
         
         <ab type="quotation">
-          <seg><lb/>D’ASSISE A CANTERBURY
-            Voici une étonnante nouvelle : les contes de Chaucer
+          <seg>D’ASSISE A CANTERBURY
+            <lb/>Voici une étonnante nouvelle : les contes de Chaucer
             n'étaient pas traduits en français ! depuis le temps que ces
             
             <milestone unit="page" n="120"/>
@@ -129,9 +127,8 @@
             était légitime ; labeur minutieux, qui fut accompli avec plus
             ou moins de bonheur, . . . à qui nous devons çà et là de
             prestigieuses réussites et au total un Chaucer français qui
-            n’est point indigne du Chaucer anglais.</seg>
-            
-          <lb/>. . . . . . . . . .
+            n’est point indigne du Chaucer anglais.
+            <lb/>. . . . . . . . . .</seg>
             
           <seg>Hâtons nous de témoigner notre gratitude aux vingt traducteurs de ce merveilleux livre.</seg>
         </ab>

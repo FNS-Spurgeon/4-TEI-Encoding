@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">William Hazlitt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">Hazlitt, William</author>
             <date cert="high" when="1817">1817</date>
             <title level="a">Characters of Shakespear's Plays.</title>
           </analytic>
@@ -87,56 +87,66 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="87"/>
-        <ab type="imprint">1817. Hazlitt, William. Characters of Shakespear's Plays. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. i, pp. 224-7, 332, 358.)</ab>
+        
+        <ab type="imprint">1817. Hazlitt, William. <hi rend="italic">Characters of Shakespear's Plays</hi>. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. i, pp. 224-7, 332, 358.)</ab>
+        
         <ab type="quotation">
-          <seg>[pp. 224-5] [Comparison of the characters in Chaucer's Troilus and
-in Shakspere's:] The difference of the manner in which the
-subject is treated arises less from intention, than from the
-different genius of the two poets. There is no double entendre
-in the characters of Chaucer: they are either quite serious or
-quite comic... We see Chaucer's characters as they saw
-themselves, not as they appeared to others or might have
-appeared to the poet. He is as deeply implicated in the
-affairs of his personages as they could be themselves...
-There is little relief, or light and shade in his pictures...
-Shakespear never committed himself to his characters... His
-genius was dramatic, as Chaucer's was historical...
-[p. 226] Chaucer attended chiefly to the real and natural, that is,
-to the involuntary and inevitable impressions on the mind in
-given circumstances; Shakespear exhibited also the possible
-and the fantastical–not only what things are in themselves,
-but whatever they might seem to be, their different reflections,
-their endless combinations. He lent his fancy, wit, invention,
-to others, and borrowed their feelings in return. Chaucer
-excelled in the force of habitual sentiment; Shakespear added
-to it every variety of passion, every suggestion of thought or
-accident. Chaucer described external objects with the eye of
-a painter, or he might be said to have embodied them with
-the hand of a sculptor,... Shakespear's imagination threw
-over them a lustre
-"Prouder than when blue Iris bends."
-Every thing in Chaucer has a downright reality.  ... In
-Shakespear the commonest matter-of-fact has a romantic grace
-about it; or seems to float with the breath of imagination in
-a freer element. No one could have more depth of feeling
-or observation than Chaucer, but he wanted resources of in¬
-vention to lay open the stores of nature or the human heart
-with the same radiant light, that Shakespear has done.
-However fine or profound the thought, we know what is
-coming, whereas the effect of reading Shakespear is "like the
-eye of vassalage at unawares encountering majesty." Chaucer's
-mind was consecutive, rather than discursive. He arrived at
-truth through a certain process; Shakespear saw everything by
-intuition. Chaucer had a great variety of power, but he could
-do only one thing at once. He set himself to work on a par¬
-ticular subject. His ideas were kept separate, labelled, ticketed
-and parcelled out in a set form, in pews and compartments
-by themselves. They did not play into one another's hands.
-They did not re-act upon one another.  ... There is
-something hard and dry in them. What is the most wonderful
-thing in Shakespear's faculties is their excessive sociability,
-and how they gossiped and compared notes together.
-[Passages from each poet are cited and compared.]</seg>
+          <seg><note place="margin">[pp. 224-5]</note><add>[Comparison of the characters in Chaucer's Troilus and
+            in Shakspere's:]</add> The difference of the manner in which the
+            subject is treated arises less from intention, than from the
+            different genius of the two poets. There is no double entendre
+            
+            <milestone unit="page" n="88"/>
+            
+            in the characters of Chaucer: they are either quite serious or
+            quite comic . . . We see Chaucer's characters as they saw
+            themselves, not as they appeared to others or might have
+            appeared to the poet. He is as deeply implicated in the
+            affairs of his personages as they could be themselves . . .
+            There is little relief, or light and shade in his pictures . . .
+            Shakespear never committed himself to his characters . . . His
+            genius was dramatic, as Chaucer's was historical . . .</seg>
+            
+          <seg><note place="margin">[p. 226]</note>Chaucer attended chiefly to the real and natural, that is,
+            to the involuntary and inevitable impressions on the mind in
+            given circumstances; Shakespear exhibited also the possible
+            and the fantastical–not only what things are in themselves,
+            but whatever they might seem to be, their different reflections,
+            their endless combinations. He lent his fancy, wit, invention,
+            to others, and borrowed their feelings in return. Chaucer
+            excelled in the force of habitual sentiment; Shakespear added
+            to it every variety of passion, every suggestion of thought or
+            accident. Chaucer described external objects with the eye of
+            a painter, or he might be said to have embodied them with
+            the hand of a sculptor, . . . Shakespear's imagination threw
+            over them a lustre
+            <l>"Prouder than when blue Iris bends."</l>
+            Every thing in Chaucer has a downright reality. . . . In
+            Shakespear the commonest matter-of-fact has a romantic grace
+            about it; or seems to float with the breath of imagination in
+            a freer element. No one could have more depth of feeling
+            or observation than Chaucer, but he wanted resources of
+            invention to lay open the stores of nature or the human heart
+            with the same radiant light, that Shakespear has done.
+            However fine or profound the thought, we know what is
+            coming, whereas the effect of reading Shakespear is "like the
+            eye of vassalage at unawares encountering majesty." Chaucer's
+            mind was consecutive, rather than discursive. He arrived at
+            truth through a certain process; Shakespear saw everything by
+            intuition. Chaucer had a great variety of power, but he could
+            do only one thing at once. He set himself to work on a
+            particular subject. His ideas were kept separate, labelled, ticketed
+            and parcelled out in a set form, in pews and compartments
+            by themselves. They did not play into one another's hands.
+            They did not re-act upon one another. . . . There is
+            
+            <milestone unit="page" n="89"/>
+            
+            something hard and dry in them. What is the most wonderful
+            thing in Shakespear's faculties is their excessive sociability,
+            and how they gossiped and compared notes together.</seg>
+            
+            <seg type="editorial">[Passages from each poet are cited and compared.]</seg>
         </ab>
       </div>
     </body>

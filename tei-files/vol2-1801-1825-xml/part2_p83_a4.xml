@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1816, Walter Scott. Old Mortality (Tales of my Landlord),</title>
+        <title>1816, Walter Scott. Old Mortality.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1816">1816</date>
-            <title level="a">Old Mortality (Tales of my Landlord),</title>
+            <title level="a">Old Mortality.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,12 +84,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="83"/>
-        <ab type="imprint">1816. Scott, Sir Walter. Old Mortality (Tales of my Landlord), vol. iv. ch. XV. [ed. 2, the first in B.M.]. (Border Edition, ed. Andrew Lang, 1893, vol. ii, ch. xxiii, p. 286.)</ab>
+        
+        <ab type="imprint">1816. Scott, Sir Walter. <hi rend="italic">Old Mortality</hi> (Tales of my Landlord), vol. iv. ch. xv. [ed. 2, the first in B.M.]. (Border Edition, ed. Andrew Lang, 1893, vol. ii, ch. xxiii, p. 286.)</ab>
+        
         <ab type="quotation">
-          <seg>[Chapter Heading.]
-Yet could he not his closing eyes withdraw
-[and four following lines].
-[Dryden’s] Palamon and Arcite.</seg>
+          <seg type="editorial">[Chapter Heading.]</seg>
+          
+          <seg>Yet could he not his closing eyes withdraw <add>[and four following lines]</add>.</seg>
+          
+          <seg><add>[Dryden’s]</add> <hi rend="italic">Palamon and Arcite</hi>.</seg>
         </ab>
       </div>
     </body>

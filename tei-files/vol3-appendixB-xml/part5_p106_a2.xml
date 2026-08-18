@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p106_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p106_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,7 +32,7 @@
           <analytic>
             <author cert="high" role="F" ref="http://viaf.org/viaf/311266412">Soult, Amélie</author>
             <date cert="high" when="1898">1898</date>
-            <title level="a">Chaucer. Copie de la conférence anglaise par laquelle Mlle. A. Soult ... devait inaugurer, à la Sorbonne, le 1e décembre 1897, les conferences en langue anglaise de la Société de propagation des langues etrangères en France.</title>
+            <title level="a">Chaucer. Copie de la conférence anglaise par laquelle Mlle. A. Soult . . . devait inaugurer, à la Sorbonne, le 1e décembre 1897, les conferences en langue anglaise de la Société de propagation des langues etrangères en France.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -81,7 +79,7 @@
       <div type="allusion">
         <milestone unit="page" n="106"/>
         
-        <ab type="imprint">1898. Soult, Amélie (Mlle). <hi rend="italic">Chaucer. Copie de la conférence anglaise par laquelle Mlle. A. Soult ... devait inaugurer, à la Sorbonne, le 1e décembre 1897, les conferences en langue anglaise de la Société de propagation des langues etrangères en France</hi>.</ab>
+        <ab type="imprint">1898. Soult, Amélie (Mlle). <hi rend="italic">Chaucer. Copie de la conférence anglaise par laquelle Mlle. A. Soult . . . devait inaugurer, à la Sorbonne, le 1e décembre 1897, les conferences en langue anglaise de la Société de propagation des langues etrangères en France</hi>.</ab>
         
         <ab type="quotation">
           <seg type="editorial">[A short biography of Chaucer, followed by a study of the <hi rend="italic">Canterbury Tales</hi>; in English.]</seg>

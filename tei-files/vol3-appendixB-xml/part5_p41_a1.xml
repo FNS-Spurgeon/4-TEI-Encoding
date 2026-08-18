@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p41_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p41_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -81,7 +79,7 @@
       <div type="allusion">
         <milestone unit="page" n="41"/>
         
-        <ab type="imprint">1813. Dubuc — (translator). <hi rend="italic">Les deux Grisélidis, Histoires traduites de l’anglois l’une de Chaucer, et l’autre de Mlle Edgeworth</hi>. 2 tom. Tome i, pp. 5-8, 11-92, 95, 151-2, 162-173; tome ii, pp. 171-3.<note type="footnote">[For <hi rend="italic">The Modern Griselda</hi>, by Maria Edgeworth, see above, Part ii, sect. i, p. 24, 1805.]</note></ab>
+        <ab type="imprint">1813. Dubuc — (translator). <hi rend="italic">Les deux Grisélidis, Histoires traduites de l’anglois l’une de Chaucer, et l’autre de Mlle Edgeworth</hi>. 2 tom. Tome i, pp. 5-8, 11-92, 95, 151-2, 162-173; tome ii, pp. 171-3.<note type="footnote">Note in Spurgeon: [For <hi rend="italic">The Modern Griselda</hi>, by Maria Edgeworth, see above, Part ii, sect. i, p. 24, 1805.]</note></ab>
         
         <ab type="quotation">
           <seg><note place="margin">[p. 5]</note><add>[Avertissement.]</add> Nous offrons aujourd’hui au public
@@ -107,27 +105,29 @@
             <note place="margin">[p. 8]</note>morceau, et ce morceau est tiré de la narration de son
             compatriote Chaucer, rajeunie, à la vérité, par un poète anglois
             aussi, nommé Monsieur Ogle, dont le style assez élégant est
-            pourtant diffus, si on le compare à celui de son modèle.</seg>
+            pourtant diffus, si on le compare à celui de son modèle.
+            <lb/>. . . . . . . .
+          </seg>
             
-          <lb/>. . . . . . . .
-            
-          <seg><note place="margin">[p. 11]</note>Gauthier et Grisélidis. Histoire traduite de l’anglois de Chaucer [pp. 11-92].</seg>
-            
-          <lb/>. . . . . . . .
-            
+          <seg>
+            <note place="margin">[p. 11]</note>Gauthier et Grisélidis. Histoire traduite de l’anglois de Chaucer [pp. 11-92].
+            <lb/>. . . . . . . .
+          </seg>
+                      
           <seg><note place="margin">[p. 95]</note>La nouvelle Grisélidis, traduite de l’anglois de Mademoiselle Edgeworth.</seg>
            
-          <seg><add>[The passages in which Miss Edgeworth refers to Chaucer are as follows:]</add>
-            <lb/><note place="margin">[p. 151]</note>Mon cher ami, à propos de femmes parfaites, vous avez
+          <seg type="editorial">[The passages in which Miss Edgeworth refers to Chaucer are as follows:]</seg>
+           
+          <seg><note place="margin">[p. 151]</note>Mon cher ami, à propos de femmes parfaites, vous avez
             <note place="margin">[p. 152]</note>sûrement lu les contes de Chaucer. Dites-moi un peu ce que
             vous pensez de la véritable, de l’ancienne Grisélidis?
             <lb/>—Il y a si longtemps que j’ai lu cette histoire, que je ne
             puis vous donner de réponse précise.—Alors lisez-la de
             nouveau, et dites m’en votre avis sans détour . . . il faut que
-            nous ayons ici une soirée de lecture. . . .</seg>
-            
-          <lb/>. . . . . . . .
-            
+            nous ayons ici une soirée de lecture. . . .
+            <lb/>. . . . . . . .
+          </seg>
+                      
           <seg><note place="margin">[p. 162]</note><add>[Chaucer's tale of Griselda is being read.]</add> Le lecteur en
             vint à ce moment où Gauthier fait prononcer un serment à sa
             femme.
@@ -138,10 +138,9 @@
               <l>A m’obéir toujours, vous mettrez tous vos soins.</l>
             </lg>
             <add>[etc. and the 10 lines following, from Ogle’s edition.]</add>
+            <lb/>. . . . . . . . .
           </seg>
-            
-          <lb/>. . . . . . . . .
-            
+                      
           <seg><note place="margin">[p. 172]</note>Certes, je ne puis admirer ni Grisélidis, ni aucune de celles qui l’imitent. . . .
             <lb/>— On ne risque pas de rencontrer de nos jours, beaucoup
             <note place="margin">[p. 173]</note>de femmes qui marchent sur ces traces. Si Chaucer eût vécu
@@ -149,10 +148,10 @@
             <milestone unit="page" n="43"/>
             
             dans ce temps de lumières, il eût dessiné ce caractère tout
-            autrement. . . .</seg>
-            
-          <lb/>. . . . . . .
-            
+            autrement. . . .
+            <lb/>. . . . . . .
+          </seg>
+                      
           <seg>Nous pardonnerons à ce pauvre Chaucer, si nous considérons
             le siècle où il vivoit. La situation et l’intelligence
             des femmes ont été bien améliorées depuis cette époque.</seg>

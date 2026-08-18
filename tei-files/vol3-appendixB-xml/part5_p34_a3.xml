@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p34_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p34_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +30,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/46758777">[Chaudon, Louis-Mayeul]</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/46758777">Chaudon, Louis-Mayeul</author>
             <date cert="high" when="1766">1766</date>
             <title level="a">[Article 'Chaucer' in] Nouveau Dictionnaire historique-portatif . . . par une Societé de Gens de Lettres.</title>
           </analytic>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1816, Walter Scott. The Antiquary,</title>
+        <title>1816, Walter Scott. The Antiquary.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1816">1816</date>
-            <title level="a">The Antiquary,</title>
+            <title level="a">The Antiquary.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,36 +84,43 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="84"/>
-        <ab type="imprint">1816. Scott, Sir Walter. The Antiquary, 3 vols, vol. i, ch. iii, p. 56, ch. x, pp. 213-15, vol. iii, ch. v, p. 114. (Border edition, ed. Andrew Lang, 1893, vol. i, ch. iii, p. 31, chap. x, pp. 120-1, vol. ii, chap. xiii, p. 165.)</ab>
+        
+        <ab type="imprint">1816. Scott, Sir Walter. <hi rend="italic">The Antiquary</hi>, 3 vols, vol. i, ch. iii, p. 56, ch. x, pp. 213-15, vol. iii, ch. v, p. 114. (Border edition, ed. Andrew Lang, 1893, vol. i, ch. iii, p. 31, chap. x, pp. 120-1, vol. ii, chap. xiii, p. 165.)</ab>
+        
         <ab type="quotation">
-          <seg>[Vol. i, p. 31]
-It was chiefly on his books that he [Mr. Oldbuck] prided
-p. 31]
-himself, repeating, with a complacent air, as he led the way to
-the crowded and dusty shelves, the verses of old Chaucer–
-For he would rather have, at his bed-head,
-A twenty books, clothed in black or red,
-Of Aristotle, or his philosophy,
-Than robes rich, rebeck, or saltery.
-[Prol., 11. 293-6.]
-This pithy motto he delivered, shaking his head and giving
-each guttural the true Anglo-Saxon enunciation, which is now
-forgotten in the southern parts of this realm...
-Vol. i, pp. 120-1] [The room] was hung with tapestry... It seemed as if
-120-1]
-the prolific and rich invention of old Chaucer had animated
-the Flemish artist with its profusion, and Oldbuck had accord¬
-ingly caused the following verses from that ancient and excel¬
-lent poet, to be embroidered in Gothic letters, on a sort of
-border which he had added to the tapestry :—
-Lo! here be oakis grete, streight as a lime
-[and six following lines, The Flower and the Leaf, 11. 29-35].
-And in another canton was the following similar legend:—
-And many a hart, and many a hind
-[and five following lines, Book of the Duchesse, 11. 427-32].
-[vol. ii,
-[Another brief reference to the above lines.]
-p. 165]</seg>
+          <seg><note place="margin">[Vol. i, p. 31]</note>It was chiefly on his books that he <add>[Mr. Oldbuck]</add> prided
+            himself, repeating, with a complacent air, as he led the way to
+            the crowded and dusty shelves, the verses of old Chaucer–
+            <lg>
+              <l>For he would rather have, at his bed-head,</l>
+              <l>A twenty books, clothed in black or red,</l>
+              <l>Of Aristotle, or his philosophy,</l>
+              <l>Than robes rich, rebeck, or saltery.</l>
+              <note place="right">[Prol., ll. 293-6.]</note>
+            </lg>
+          </seg>
+            
+          <seg>This pithy motto he delivered, shaking his head and giving
+            each guttural the true Anglo-Saxon enunciation, which is now
+            forgotten in the southern parts of this realm . . .</seg>
+            
+          <seg><note place="margin">[Vol. i, pp. 120-1]</note><add>[The room]</add> was hung with tapestry . . . It seemed as if
+            the prolific and rich invention of old Chaucer had animated
+            the Flemish artist with its profusion, and Oldbuck had accordingly
+            caused the following verses from that ancient and excellent
+            poet, to be embroidered in Gothic letters, on a sort of
+            border which he had added to the tapestry :—
+            
+            <l>Lo! here be oakis grete, streight as a lime</l>
+            <add>[and six following lines, The Flower and the Leaf, ll. 29-35]</add>.
+            
+            <lg>
+              <l>And in another canton was the following similar legend:—</l>
+              <l>And many a hart, and many a hind</l>
+            </lg>
+            <add>[and five following lines, Book of the Duchesse, ll. 427-32]</add>.</seg>
+            
+          <seg type="editorial"><note place="margin">[vol. ii, p. 165]</note>[Another brief reference to the above lines.]</seg>
         </ab>
       </div>
     </body>

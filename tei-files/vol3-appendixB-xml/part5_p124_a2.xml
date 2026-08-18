@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p124_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p124_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +30,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="low" role="M" ref="http://viaf.org/viaf/49356559">Spach, Louis</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/49356559">Spach, Louis</author>
             <date cert="high" when="1835">1835</date>
             <title level="a">Chaucer, [in] Encyclopédie des Gens du Monde.</title>
           </analytic>

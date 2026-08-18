@@ -1,7 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 
-list_folder = "../tei-files/vol2-1851-1875-xml"
+list_folder = "../tei-files/vol3-appendixB-xml"
 authors_xml = "../tei-files/authors.xml"
 list_author = []
 
@@ -22,7 +22,7 @@ for subdir, dirs, files in os.walk(list_folder):
 
 list_author = list(dict.fromkeys(list_author))
 list_author.sort()
-# print(list_author)
+print(list_author)
 
 tree = ET.parse(authors_xml)
 root = tree.getroot()
@@ -36,7 +36,7 @@ for author in list_author:
     person.set('n', firstName)
     person.set('{http://www.w3.org/XML/1998/namespace}id', firstName)
 
-    name = ET.SubElement(person, "name")
+    name = ET.SubElement(person, "persName")
     name.text = author
 
 ET.indent(listPerson)

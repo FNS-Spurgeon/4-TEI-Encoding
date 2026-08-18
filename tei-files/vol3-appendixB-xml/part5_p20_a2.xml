@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p20_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p20_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1705, Pierre Des Maizeaux. [Preface, with a life of Saint Evremond, prefixed to] Œuvres meslées de Mr de Saint Evremond.</title>
+        <title>1705, [Pierre Des Maizeaux]. [Preface, with a life of Saint Evremond, prefixed to] Œuvres meslées de Mr de Saint Evremond.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -86,7 +84,7 @@
         <ab type="quotation">
           <seg>Il <add>[Saint-Evremond]</add> fut enterré dans l’Abbaye de Westminster, auprès des Savans Casaubon, Camden, Barrow, &amp; des Poetes Chaucer, Spencer, Couley, &amp;c.</seg>
           
-          <seg>[In the more recent edns. of this book, this sentence runs: '. . . auprès des . . . célèbres Poëtes Anglois, Chaucer, Spencer, Cowley, &amp;c.'—see, for instance, La vie de . . . Saint Evremond, par . . . Des Maizeaux (4me édn.), Amsterdam, 1726, p. 203.]</seg>
+          <seg type="editorial">[In the more recent edns. of this book, this sentence runs: '. . . auprès des . . . célèbres Poëtes Anglois, Chaucer, Spencer, Cowley, &amp;c.'—see, for instance, La vie de . . . Saint Evremond, par . . . Des Maizeaux (4me édn.), Amsterdam, 1726, p. 203.]</seg>
         </ab>
       </div>
     </body>

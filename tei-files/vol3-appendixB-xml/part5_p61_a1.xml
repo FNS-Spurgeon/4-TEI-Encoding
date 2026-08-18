@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p61_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p61_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +30,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="low" role="M" ref="http://viaf.org/viaf/66465923">[Forgues, Émile Daurand?]</author>
+            <author cert="low" role="M" ref="http://viaf.org/viaf/66465923">Forgues, Émile Daurand</author>
             <date cert="high" when="1850">1850</date>
             <title level="a">La Poësie Humoristique, [article in the] Revue Britannique.</title>
           </analytic>
@@ -96,16 +94,18 @@
               temps. Dans ce cortège si pittoresque des Pèlerins de
               Canterbury, que de précieux aperçus! quelles physionomies
               spirituellement esquissées et d’une ressemblance appréciable
-              encore aujourd’hui! <add>[The Prioress, Clerk ot Oxenford and Man
-              of Lawe are referred to]</add>. . . . Bref, à chaque instant, le trait
+              encore aujourd’hui!</seg>
+          
+          <seg type="editorial">[The Prioress, Clerk ot Oxenford and Man of Lawe are referred to]</seg>
+            
+          <seg>. . . . Bref, à chaque instant, le trait
               malin, l’épigramme caractéristique, décochée à petit bruit,
               avec une absence de préoccupation, une nonchalance
               apparente qui en doublent le prix pour les connaisseurs.<note type="footnote"><add>[Note by the editor of the journal, Amédée Pichot.]</add> Le
               prologue des <hi rend="italic">Contes de Canterbury</hi> est, à notre avis, un vrai
               chef-d’œuvre. Traduit plusieurs fois, il l’a été par le
               rédacteur de cet article, il y a quelques années, ce qu’il rappelle
-              uniquement pour attester la sincérité de son admiration.</note>
-            </seg>
+              uniquement pour attester la sincérité de son admiration.</note></seg>
         </ab>
       </div>
     </body>

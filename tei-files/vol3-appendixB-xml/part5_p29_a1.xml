@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p29_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p29_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,8 +73,7 @@
         <catRef scheme="#criticism" target="#indecencyFrivolity"/>
         <catRef scheme="#criticism" target="#sublimity"/>
         <catRef scheme="#works" target="#knightTale"/>
-        <catRef scheme="#works" target="#knightTale"/>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
         <catRef scheme="#biography" target="#french"/>
       </textClass>
     </profileDesc>

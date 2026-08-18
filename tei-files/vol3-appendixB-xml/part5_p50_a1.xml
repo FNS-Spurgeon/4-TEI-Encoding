@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p50_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p50_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,7 +84,7 @@
         <ab type="imprint">1837. Villemain, Abel François. [<hi rend="italic">Review</hi> of Chateaubriand's <hi rend="italic">Essai sur la littérature anglaise</hi>, an article in the] <hi rend="italic">Journal des Savants</hi>, April, 1837, pp. 219-220.</ab>
         
         <ab type="quotation">
-          <seg>. . . L’Essai sur la littérature anglaise est moins juste
+          <seg>. . . L’<hi rend="italic">Essai</hi> sur la littérature anglaise est moins juste
             que piquant, lorsqu’il nous dit: 'Il n’a tenu à rien que les
             trois royaumes de la Grande-Bretagne ne parlassent français:
             Shakespeare aurait écrit dans la langue de Rabelais.' Cela
@@ -119,7 +117,7 @@
             et qui, fort poétique d’expression dans ses vers un peu rudes
             et négligés, a donné en même temps à sa langue, les premiers
             modèles d’une prose régulière et savante. Nous regrettons
-            que l’Essai soit si laconique sur Chaucer, et se borne presque
+            que <hi rend="italic">l’Essai</hi> soit si laconique sur Chaucer, et se borne presque
             à le traiter de courtisan lancastrien, wiclefiste, infidèle à ses
             convictions, traître à son parti, tantôt banni, tantôt voyageur.
             Chaucer n’était ni plus courtisan, ni plus voyageur, ni plus

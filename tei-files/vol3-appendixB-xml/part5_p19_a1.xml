@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p19_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p19_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -83,11 +81,11 @@
       <div type="allusion">
         <milestone unit="page" n="19"/>
         
-        <ab type="imprint">1681. Moréri, Louis. [Article '<hi rend="italic">Chaucer</hi>' in] <hi rend="italic">Grand dictionnaire historique</hi>... [2nd ed., enlarged by Moréri, and ed. after his death in 1682, by G. Parayre], p. 872.</ab>
+        <ab type="imprint">1681. Moréri, Louis. [Article '<hi rend="italic">Chaucer</hi>' in] <hi rend="italic">Grand dictionnaire historique</hi> . . . [2nd ed., enlarged by Moréri, and ed. after his death in 1682, by G. Parayre], p. 872.</ab>
         
         <ab type="quotation">
           <seg>CHAUCER (Geofroy) natif de Woodstock en Angleterre,
-            vivoit dans le xiv Siècle. Il fut surnommé l’Homere Anglois,
+            vivoit dans le XIV Siècle. Il fut surnommé l’Homere Anglois,
             à cause de ses beaux Vers, &amp; il se fit des estimateurs de tous
             les honnêtes gens de son tems. Il donna au public divers
             Ouvrages de sa façon, dont on pourra voir le dénombrement

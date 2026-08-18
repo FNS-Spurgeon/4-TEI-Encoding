@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">William Wordsworth</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">Wordsworth, William</author>
             <date cert="high" when="1815">1815</date>
             <title level="a">Notes to the second poem To the Daisy.</title>
           </analytic>
@@ -84,10 +84,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="81"/>
-        <ab type="imprint">1815. Wordsworth, William. Notes to the second poem To the Daisy. (Poetical Works, ed. W. Knight, 1896, vol. ii, p. 356 n.)</ab>
+        
+        <ab type="imprint">1815. Wordsworth, William. <hi rend="italic">Notes</hi> to the second poem <hi rend="italic">To the Daisy</hi>. (Poetical Works, ed. W. Knight, 1896, vol. ii, p. 356 n.)</ab>
+        
         <ab type="quotation">
-          <seg>See, in Chaucer and the elder Poets, the honours formerly
-paid to this flower.</seg>
+          <seg>See, in Chaucer and the elder Poets, the honours formerly paid to this flower.</seg>
         </ab>
       </div>
     </body>

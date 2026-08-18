@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p109_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p109_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -109,10 +107,8 @@
             le galop de son cheval chassait les chevreuils, les
             lièvres et les sangliers hors de leurs retraites ; mais Topaze
             ne se souciait point des bêtes fauves : il attendait le chant
-            des oiseaux.</seg>
-            
-          <lb/>. . . . . . . . . . .
-            
+            des oiseaux.<lb/>. . . . . . . . . . .</seg>
+                        
           <seg>Cet élan printanier à travers la vie, cette intelligence
             
             <milestone unit="page" n="110"/>
@@ -126,9 +122,7 @@
             voit en effet, en ce conte, une imitation, mais une imitation
             ironique de cette littérature qui, au temps de Chaucer,
             dégénérait déjà en ballades ou poèmes populaires semi
-            lyriques.</seg>
-            
-          <lb/>. . . . . . . . . . .
+            lyriques.<lb/>. . . . . . . . . . .</seg>
             
           <seg>Dans le vieux fabliau, où les trois personnages essentiels
             sont le mari, la femme et l’amant (très souvent un moine de
@@ -158,7 +152,7 @@
             aussitôt, étourdi comme un écolier, notre Anglais inflige au
             texte italien un étrange contresens :
             <l>Io non piangeva : si dentro impietrai.</l>
-            <lb/>'Je ne pleurais pas : tant j’avais de pierre en dedans.'
+            'Je ne pleurais pas : tant j’avais de pierre en dedans.'
             <lb/>'Hélas ! hélas !' gémit l’Ugolin de Chaucer, 'pourquoi
             suis-je né ?'
             <lb/>'A ces mots, les larmes tombèrent de ses yeux.'</seg>
@@ -175,9 +169,7 @@
             les meilleurs auteurs de l’antiquité. Un pur bijou et, si le
             chapelain de ces petites nonnes avait, en son bréviaire, beaucoup
             de contes, aussi agréables, on ne devait point s’ennuyer
-            au couvent.</seg>
-          
-          <lb/>. . . . . . . . . .
+            au couvent.<lb/>. . . . . . . . . .</seg>
         </ab>
       </div>
     </body>

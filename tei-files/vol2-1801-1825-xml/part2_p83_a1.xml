@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1816, Leigh Hunt. Epistles. To the Right Honourable Lord Byron on his departure for Italy and Greece</title>
+        <title>1816, Leigh Hunt. Epistles. To the Right Honourable Lord Byron on his departure for Italy and Greece.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
             <date cert="high" when="1816">1816</date>
-            <title level="a">Epistles. To the Right Honourable Lord Byron on his departure for Italy and Greece</title>
+            <title level="a">Epistles. To the Right Honourable Lord Byron on his departure for Italy and Greece.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,16 +84,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="83"/>
-        <ab type="imprint">1816. Hunt, James Henry Leigh. Epistles. To the Right Honourable Lord Byron on his departure for Italy and Greece [dated on p. lxxvii] Hampstead, April 1816, [in] Foliage, or Poems Original and Translated, 1818, pp. lxxiii, lxxiv. [Cf. The Feast of the Poets, by Leigh Hunt, ed. 1832.]</ab>
+        
+        <ab type="imprint">1816. Hunt, James Henry Leigh. <hi rend="italic">Epistles. To the Right Honourable Lord Byron on his departure for Italy and Greece</hi> [dated on p. lxxvii] Hampstead, April 1816, [in] Foliage, or Poems Original and Translated, 1818, pp. lxxiii, lxxiv. [Cf. The Feast of the Poets, by Leigh Hunt, ed. 1832.]</ab>
+        
         <ab type="quotation">
-          <seg>But all the four great masters of our song,
-Stars that shine out amidst a starry throng,
-Have turned to Italy for added light,
-As earth is kissed by the sweet moon at night;—
-Milton for half his style, Chaucer for tales,
-Spenser for flowers to fill his isles and vales
-And Shakspeare’s self for frames already done
-To build his everlasting piles upon.</seg>
+          <seg>
+            <lg>
+              <l>But all the four great masters of our song,</l>
+              <l>Stars that shine out amidst a starry throng,</l>
+              <l>Have turned to Italy for added light,</l>
+              <l>As earth is kissed by the sweet moon at night;—</l>
+              <l>Milton for half his style, Chaucer for tales,</l>
+              <l>Spenser for flowers to fill his isles and vales</l>
+              <l>And Shakspeare’s self for frames already done</l>
+              <l>To build his everlasting piles upon.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

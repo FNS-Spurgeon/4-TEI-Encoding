@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p21_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p21_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,8 +94,8 @@
             nouvelle Edition de ses Œuvres, que nous avons déjà annoncée
             paroîtra.</seg>
             
-          <seg type="editorial">[Other authors not mentioned for lack of space are Beau¬
-            mont and Fletcher, Lord Orrery, Ben Jonson, Suckling,
+          <seg type="editorial">[Other authors not mentioned for lack of space are
+            Beaumont and Fletcher, Lord Orrery, Ben Jonson, Suckling,
             Sedley, Denham, Etherige, Cowley, Waller, Otway, Wicherly
             and Congreve.]</seg>
             

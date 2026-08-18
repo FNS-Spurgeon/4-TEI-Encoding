@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p38_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p38_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,7 +94,7 @@
             <lb/>Appelé le père de la poésie anglaise, contemporain de
             Pétrarque et de Bocace, il écrivit dans le quatorzième siècle,
             lorsque la France ne comptait encore aucuns poètes. Elevé
-            à Cambridge, il composa, à dix-huit ans, la Cour d’amour.
+            à Cambridge, il composa, à dix-huit ans, la <hi rend="italic">Cour d’amour</hi>.
             <lb/>Devenu page et ensuite gentilhomme de la chambre du
             roi, il eut pour protecteur Jean de Gand, duc de Lancastre,
             et épousa une fille d’honneur de la duchesse. Cette jeune
@@ -111,7 +109,7 @@
             le trône d’Angleterre. Se trouvant ainsi bel-oncle du roi, il
             vécut dans l’aisance et la tranquillité, retiré à la campagne.
             <lb/>Chaucer composa douze volumes de vers qui consistent
-            principalement, en Contes, dans le genre de ceux de Bocace,
+            principalement, en <hi rend="italic">Contes</hi>, dans le genre de ceux de Bocace,
             et dont quelques-uns ont été depuis rajeunis par des auteurs
             modernes. Son langage est à peine compris aujourd’hui par
             les anglais.</seg>

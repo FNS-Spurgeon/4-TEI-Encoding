@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1816, Unknown.. Review of Works of Howard and Wyatt,</title>
+        <title>1816, Unknown. Review of Works of Howard and Wyatt.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author>Unknown.</author>
+            <author>Unknown</author>
             <date cert="high" when="1816">1816</date>
-            <title level="a">Review of Works of Howard and Wyatt,</title>
+            <title level="a">Review of Works of Howard and Wyatt.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,25 +86,28 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="85"/>
-        <ab type="imprint">1816. Unknown. Review of Works of Howard and Wyatt, ed. G. F. Nott, [in] The Edinburgh Review, Dec. 1816, vol. xxvii, pp. 405, 412, 413, 415-19, 422.</ab>
+        
+        <ab type="imprint">1816. Unknown. <hi rend="italic">Review</hi> of <hi rend="italic">Works of Howard and Wyatt</hi>, ed. G. F. Nott, [in] The Edinburgh Review, Dec. 1816, vol. xxvii, pp. 405, 412, 413, 415-19, 422.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 412] [Chaucer the only old poet who makes reference to his
-[pp.415- [Stating the difference of opinion between Tyrwhitt and
-sources. Debt to Boccaccio in 'Palamon and Arcite.']
-419]
-Nott on Chaucer's versification (pronunciation of final e,
-etc.), and Nott's dictum that Chaucer wrote rhythmically
-rather than metrically, the reviewer concludes that, though
-there was much rhythmical verse in Chaucer's and even in
-Surrey's time, this type is quite distinct from Chaucer's.
-Various quotations from Chaucer (description of the 'Lawyer'
-from the Prologue, etc.) are given in illustration.]
-[p. 422] ... If we see not the slightest ground for depriving
-Chaucer, in one respect, of his title of Father of English
-Poetry, we are heartily ready to allow that Surrey well
-deserves that of the Eldest Son, however he was surpassed
-by the brothers that immediately followed him.</seg>
-          <note type="footnote">Note in Spurgeon: [For Nott's edn. of Surrey and Wyatt, see above, 1815-16.]</note>
+          <seg type="editorial"><note place="margin">[p. 412]</note>[Chaucer the only old poet who makes reference to his
+            sources. Debt to Boccaccio in 'Palamon and Arcite.']</seg>
+            
+          <seg type="editorial"><note place="margin">[pp.415-419]</note>[Stating the difference of opinion between Tyrwhitt and
+            Nott on Chaucer's versification (pronunciation of final e,
+            etc.), and Nott's dictum that Chaucer wrote rhythmically
+            rather than metrically, the reviewer concludes that, though
+            there was much rhythmical verse in Chaucer's and even in
+            Surrey's time, this type is quite distinct from Chaucer's.
+            Various quotations from Chaucer (description of the 'Lawyer'
+            from the <hi rend="italic">Prologue</hi>, etc.) are given in illustration.]</seg>
+            
+            <seg><note place="margin">[p. 422]</note>. . . If we see not the slightest ground for depriving
+              Chaucer, in one respect, of his title of Father of English
+              Poetry, we are heartily ready to allow that Surrey well
+              deserves that of the Eldest Son, however he was surpassed
+              by the brothers that immediately followed him.<note type="footnote">Note in Spurgeon: [For Nott's edn. of Surrey and Wyatt, see above, 1815-16.]</note>
+            </seg>
         </ab>
       </div>
     </body>

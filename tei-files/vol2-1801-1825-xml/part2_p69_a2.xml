@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1815, Acton Frederick Griffith. Bibliotheca Anglo-Poetica;</title>
+        <title>1815, A[cton] F[rederick] G[riffith]. Bibliotheca Anglo-Poetica.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/66823464">Acton Frederick Griffith</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/66823464">Griffith, Acton Frederick</author>
             <date cert="high" when="1815">1815</date>
-            <title level="a">Bibliotheca Anglo-Poetica;</title>
+            <title level="a">Bibliotheca Anglo-Poetica.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,33 +86,35 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="69"/>
-        <ab type="imprint">1815. G[riffiths], A[cton] F[rederick]. Bibliotheca Anglo-Poetica; or a descriptive catalogue of a rare and rich collection of Early English Poetry in the possession of Longman, Hurst, Rees, Orme and Brown, etc. [formerly Park’s collection], pp. 36-40, 431-2, nos. 84-96, 898-901.</ab>
+        
+        <ab type="imprint">1815. G[riffiths], A[cton] F[rederick]. <hi rend="italic">Bibliotheca Anglo-Poetica</hi>; or a descriptive catalogue of a rare and rich collection of Early English Poetry in the possession of Longman, Hurst, Rees, Orme and Brown, etc. [formerly Park’s collection], pp. 36-40, 431-2, nos. 84-96, 898-901.</ab>
+        
         <ab type="quotation">
-          <seg>[No. 84, Canterbury Tales, Pynson, n.d., imperfect at
-beginning, £25; the portrait of Chaucer is reproduced. No.
-85, Works, Bonham, n.d., £7 7s.; Ritson is quoted for the
-date 1542 for this edn., and Tyrwhitt for the spuriousness of
-the Plowman’s Tale, which first appeared in it. Nos. 86, 87,
-Works, 1598, £3 10s. and £2 12s.6d. No. 88, Works, 1602,
-£4 4s. No. 89, Works, ed. Urry, 1721, £115s. No. 90,
-item, large paper, £3 3s.; "The Coke’s Tale of Gamelyn"
-and "The Merchant’s Second Tale, or the History of Beryn,"
-included in this edn., non-Chaucerian, but praised by Ritson.
-No. 91, Canterbury Tales, ed. Tyrwhitt, 1775-8, £6 16s. 6d.
-No. 92, item, with proof prints from Bell’s edn. and portraits
-of Chaucer and Tyrwhitt, £8 8s.; a note in praise of the edn.
-follows. No. 93, Canterbury Tales, ed. Tyrwhitt, 1798,
-£2 10s. No. 94, Canterbury Tales, Ogle’s modernized edn.,
-1741, £1 11s. 6d. No. 95, item, £2 6s. No. 96, The
-assemble of foules, Wynkyn de Worde, 1530, £50. The book
-unique; reference to Dr. Billam's letter to Herbert [see above,
-vol. i, p. 483, 1786]; a general note on Chaucer follows, and
-a quotation of Warton’s well-known passage beginning "I
-consider Chaucer as a genial day in an English Spring."
-(Supplement.) No. 898, Canterbury Tales, Pynson, 1526,
-imperfect, £25. No. 899, Works, R. Toye, n.d. (another
-issue of no. 85), £6 6s. No. 900, Works, Reynes, 1542,
-£7 7s. No. 901, Works, 1561, £5 5s.]</seg>
+          <seg type="editorial">[No. 84, Canterbury Tales, Pynson, n.d., imperfect at
+            beginning, £25; the portrait of Chaucer is reproduced. No.
+            85, Works, Bonham, n.d., £7 7s.; Ritson is quoted for the
+            date 1542 for this edn., and Tyrwhitt for the spuriousness of
+            the Plowman’s Tale, which first appeared in it. Nos. 86, 87,
+            Works, 1598, £3 10s. and £2 12s.6d. No. 88, Works, 1602,
+            £4 4s. No. 89, Works, ed. Urry, 1721, £115s. No. 90,
+            item, large paper, £3 3s.; "The Coke’s Tale of Gamelyn"
+            and "The Merchant’s Second Tale, or the History of Beryn,"
+            included in this edn., non-Chaucerian, but praised by Ritson.
+            No. 91, Canterbury Tales, ed. Tyrwhitt, 1775-8, £6 16s. 6d.
+            No. 92, item, with proof prints from Bell’s edn. and portraits
+            of Chaucer and Tyrwhitt, £8 8s.; a note in praise of the edn.
+            follows. No. 93, Canterbury Tales, ed. Tyrwhitt, 1798,
+            £2 10s. No. 94, Canterbury Tales, Ogle’s modernized edn.,
+            1741, £1 11s. 6d. No. 95, item, £2 6s. No. 96, The
+            assemble of foules, Wynkyn de Worde, 1530, £50. The book
+            unique; reference to Dr. Billam's letter to Herbert [see above,
+            vol. i, p. 483, 1786]; a general note on Chaucer follows, and
+            a quotation of Warton’s well-known passage beginning "I
+            consider Chaucer as a genial day in an English Spring."
+            (Supplement.) No. 898, Canterbury Tales, Pynson, 1526,
+            imperfect, £25. No. 899, Works, R. Toye, n.d. (another
+            issue of no. 85), £6 6s. No. 900, Works, Reynes, 1542,
+            £7 7s. No. 901, Works, 1561, £5 5s.]</seg>
         </ab>
       </div>
     </body>

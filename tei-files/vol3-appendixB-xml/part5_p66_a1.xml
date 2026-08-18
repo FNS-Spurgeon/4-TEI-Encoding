@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p66_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p66_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,23 +90,26 @@
             Postérité n’en sait mot; mais le Génie et l’Esprit étant la
             plus pure essence de la Divinité, Chaucer fut noble, le hazard
             l’eut-il fait naître de parents n’ayant un nom inscrit dans
-            les fastes de la Noblesse . . . <add>[A short life of the poet follows.]</add></seg>
-            
-          <lb/>. . . . . . . . . .
+            les fastes de la Noblesse . . .
+          </seg>
+          
+          <seg type="editorial">[A short life of the poet follows.]
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg>Les classiques, l’Astronomie, l’Astrologie, les Sciences du
             droit canon et du droit civil, le Commerce, l’Industrie, rien
             ne paraît lui <add>[Chaucer]</add> avoir été complètement étranger, et
-            les Contes de Cantorbery en font foi.</seg>
-            
-          <lb/>. . . . . . . . . .
+            les Contes de Cantorbery en font foi.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. xii]</note>Sur notre traduction des Contes de Cantorbery nous avons
             peu de choses à dire, en laissant l’appréciation aux critiques
             littéraires, honnêtes, et heureusement il y en a encore un
-            assez grand nombre en Angleterre. . . .</seg>
-            
-          <lb/>. . . . . . . . . .
+            assez grand nombre en Angleterre. . . .
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. xiii]</note>Regardant Chaucer comme le Boccace de l’Angleterre, le
             mettant sous plus d’un rapport, au moins au niveau de
@@ -160,9 +161,9 @@
             manuscrit français qui fait aujourd’hui partie du <hi rend="italic">Ménagier de
             Paris</hi>, publié par la société des Bibliophiles Français; nous
             avons traduit également en vers le <hi rend="italic">Conte du Cure</hi>́, ce long
-            Traité . . . nous paraissant moins lourd en vers.</seg>
-            
-          <lb/>. . . . . . . . . .
+            Traité . . . nous paraissant moins lourd en vers.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[t. ii, p. vii]</note><add>[Introduction.]</add> Messieurs les Puritains ont crié cependant
             haro sur nous et sur notre traduction des Contes de Cantorbéry
@@ -173,9 +174,9 @@
             croire que la langue française étant de nos jours plus facile à
             lire et à comprendre que le langage à l’écorce rude de Chaucer,
             ces pudiques écrivains (Anglais) viennent de lire <hi rend="italic">le Père de la
-            Poësie Anglaise</hi> pour la première fois dans notre traduction.</seg>
-            
-          <lb/>. . . . . . . . . .
+            Poësie Anglaise</hi> pour la première fois dans notre traduction.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <milestone unit="page" n="68"/>
             
@@ -186,9 +187,9 @@
             avions traduit l’œuvre du grand poëte in extenso; et que
             suivant le conseil que nous a donné depuis le <hi rend="italic">Guardian</hi>, nous
             eussions dû omettre la moitié des contes de cet infâme
-            Monsieur Chaucer. . . .</seg>
-            
-          <lb/>. . . . . . . . . .
+            Monsieur Chaucer. . . .
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><add>[Lettre.]</add>Au pape Pie IX.
             <note place="margin">[t. iii, p. vii]</note><lb/>Très cher Frère en Christ.
@@ -233,9 +234,9 @@
             abus scandaleux de la Cour de Rome; le Catholicisme à l’aide
             duquel on peut réduire à l’esclavage une nation, étant alors
             en Angleterre et malheureusement pour elle, la religion
-            dominante.</seg>
-            
-          <lb/>. . . . . . . . . .
+            dominante.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. xvi]</note>Nos lecteurs trouveront, à la suite de l’Histoire de Béryn,
             l’A. B. C. longtemps attribué à Chaucer, et qui est l’œuvre

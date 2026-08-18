@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1815-16, Sir Samuel Egerton Brydges, 1st Bt.. Restituta,</title>
+        <title>1815-16, Samuel Egerton Brydges. Restituta.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27405359">Sir Samuel Egerton Brydges, 1st Bt.</author>
-            <date cert="high" when="1815-16">1815-16</date>
-            <title level="a">Restituta,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27405359">Brydges, Samuel Egerton</author>
+            <date cert="high" from="1815" to="1816">1815-16</date>
+            <title level="a">Restituta.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,16 +84,21 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="68"/>
-        <ab type="imprint">1815-16. Brydges, Sir Samuel Egerton. Restituta, 4 vols., 1814-16, vol. i, Preface [dated March 28, 1815], p. x. ; vol. ii, pp. 138, 140, 508; vol. iv, pp. 29, 168, 199 [quotations on Chaucer from old writers].</ab>
+        
+        <ab type="imprint">1815-16. Brydges, Sir Samuel Egerton. <hi rend="italic">Restituta</hi>, 4 vols., 1814-16, vol. i, Preface [dated March 28, 1815], p. x. ; vol. ii, pp. 138, 140, 508; vol. iv, pp. 29, 168, 199 [quotations on Chaucer from old writers].</ab>
+        
         <ab type="quotation">
           <seg>But such is the brilliance of primary genius, that even the
-darkest ages will not repress the appearances of its true
-character. What vivid pictures does Chaucer give us! What
-a selection of circumstances! What animation of manner,
-and language! How does he bring out the prominent traits
-in the characters which he so happily draws in his Canterbury
-Tales; while we see the whole merry group on their journey,
-as if we were accompanying them along the Kentish road!</seg>
+            darkest ages will not repress the appearances of its true
+            character. What vivid pictures does Chaucer give us! What
+            
+            <milestone unit="page" n="69"/>
+            
+            a selection of circumstances! What animation of manner,
+            and language! How does he bring out the prominent traits
+            in the characters which he so happily draws in his <hi rend="italic">Canterbury
+            Tales</hi>; while we see the whole merry group on their journey,
+            as if we were accompanying them along the Kentish road!</seg>
         </ab>
       </div>
     </body>

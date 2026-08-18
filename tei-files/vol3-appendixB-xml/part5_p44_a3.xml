@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p44_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p44_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,8 +82,8 @@
         <ab type="imprint">1829. Quérard, J. M. [under the name <hi rend="italic">Edgeworth</hi> in] La France littéraire, ou dictionnaire bibliographique des savant ... tome iii, 1829, p. 8.</ab>
         
         <ab type="quotation">
-          <seg>Edgeworth (Miss Mar). . .
-            — Deux (les) Grisélidis, histoires trad. de l’angl., l’une de
+          <seg>Edgeworth (Miss Mar) . . .
+            <lb/>— Deux (les) Grisélidis, histoires trad. de l’angl., l’une de
             Miss Edgeworth, l’autre de Chaucer (par M. Dubuc), Paris,
             Galignani, 1813, 2 vol. in-12, 4 fr.</seg>
         </ab>

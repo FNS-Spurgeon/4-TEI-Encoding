@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p123_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p123_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,14 +94,14 @@
               <l>Me viennent souvent travillier</l>
               <l>Pensées et merancolies</l>
             </lg>
-            <lb/>. . . . . .
+            . . . . . .
             <lg>
               <l>Et nonpourquant n’a pas lonc terme</l>
               <l>Que de dormir oc voloir ferme,</l>
               <l>Car tant priai a Morpheüs</l>
               <l>A Juno et a Oleüs</l>
             </lg>
-            <lb/>. . . . . .
+            . . . . . .
             <lg>
               <l>Et le doulc dieu fist son commant,</l>
               <l>Car il envoia parmi l’air</l>
@@ -111,7 +109,7 @@
             </lg>
           </seg>
           
-          <seg type="editorial">[The whole of this, the opening passage of the poem, closely resembles that of The Boke of the Duchesse, and 'Enclimpostair' is Chaucer's 'Eclympasteyre.' Baron Kervyn de Lettenhove (Froissart, 1857, 2 vols., vol. ii, p. 264, q. v. below) dates the Paradys d’Amour in 1385; The Boke of the Duchesse cannot be much later than 1369.]</seg>
+          <seg type="editorial">[The whole of this, the opening passage of the poem, closely resembles that of <hi rend="italic">The Boke of the Duchesse</hi>, and 'Enclimpostair' is Chaucer's 'Eclympasteyre.' Baron Kervyn de Lettenhove (<hi rend="italic">Froissart</hi>, 1857, 2 vols., vol. ii, p. 264, q. v. below) dates the <hi rend="italic">Paradys d’Amour</hi> in 1385; <hi rend="italic">The Boke of the Duchesse</hi> cannot be much later than 1369.]</seg>
         </ab>
       </div>
     </body>

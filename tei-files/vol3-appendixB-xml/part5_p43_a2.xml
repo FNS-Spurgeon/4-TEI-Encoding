@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p43_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p43_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,8 +86,8 @@
         <ab type="quotation">
           <seg>Chatterton (Thomas). . . . A peine publiées, les poésies
             de Rowley devinrent un grand sujet de discussion pour les
-            critiques. Le style était d’une couleur antique; la phrasé¬
-            ologie gothique, la versification entièrement semblable à celle
+            critiques. Le style était d’une couleur antique; la phraséologie
+            gothique, la versification entièrement semblable à celle
             de Chancer <add>[sic]</add>. Mais l’ordre et l’énergie des idées . . .
             une imagination forte . . . rangeaient l’auteur de ces œuvres
             parmi les maîtres de l’art, et étonnaient profondément

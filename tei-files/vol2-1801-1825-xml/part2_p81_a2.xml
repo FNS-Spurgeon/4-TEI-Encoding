@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1815, William Wordsworth. Essay, Supplementary to the Preface to the Edition of the Poems,</title>
+        <title>1815, William Wordsworth. Essay, Supplementary to the Preface to the Edition of the Poems.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">William Wordsworth</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">Wordsworth, William</author>
             <date cert="high" when="1815">1815</date>
-            <title level="a">Essay, Supplementary to the Preface to the Edition of the Poems,</title>
+            <title level="a">Essay, Supplementary to the Preface to the Edition of the Poems.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,15 +84,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="81"/>
-        <ab type="imprint">1815. Wordsworth, William. Essay, Supplementary to the Preface to the Edition of the Poems, 1815. (Prose Works of William Words worth, ed. W. Knight, 2 vols., 1896, vol. ii, pp. 247-8.)</ab>
+        
+        <ab type="imprint">1815. Wordsworth, William. <hi rend="italic">Essay, Supplementary to the Preface to the Edition of the Poems</hi>, 1815. (Prose Works of William Words worth, ed. W. Knight, 2 vols., 1896, vol. ii, pp. 247-8.)</ab>
+        
         <ab type="quotation">
-          <seg>[On Johnson's Lives:]
-We open the volume of Prefatory Lives, and to our
-astonishment the first name we find is that of Cowley!—What
-is become of the morning-star of English poetry? Where is
-the bright Elizabethan constellation? Or, if names be more
-acceptable than images, where is the ever-to-be-honoured
-Chaucer? where is Spenser?</seg>
+          <seg type="editorial">[On Johnson's <hi rend="italic">Lives</hi>:]</seg>
+
+          <seg>We open the volume of Prefatory Lives, and to our
+          astonishment the first name we find is that of Cowley!—What
+          is become of the morning-star of English poetry? Where is
+          the bright Elizabethan constellation? Or, if names be more
+          acceptable than images, where is the ever-to-be-honoured
+          Chaucer? where is Spenser?</seg>
         </ab>
       </div>
     </body>

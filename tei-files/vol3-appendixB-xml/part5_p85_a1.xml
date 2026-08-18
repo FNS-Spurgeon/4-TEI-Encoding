@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p85_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p85_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,9 +84,10 @@
         <ab type="quotation">
           <seg><note place="margin">[p. 4]</note>Après la <hi rend="italic">Vision de Ploughman</hi>, il faut citer les contes
             tout différents de Chaucer, qui sont trop célèbres pour ne
-            pas mériter une mention spéciale. <add>[Then comes pp. 4-5,
-            a description of the pilgrims, translated from the <hi rend="italic">Prologue</hi>.]</add></seg>
-            
+            pas mériter une mention spéciale.</seg>
+          
+          <seg type="editorial">[Then comes pp. 4-5, a description of the pilgrims, translated from the <hi rend="italic">Prologue</hi>.]</seg>
+          
           <seg><note place="margin">[p. 5]</note>Ainsi débute l’ouvrage célèbre intitulé <hi rend="italic">Canterbury Tales</hi>
             que Chaucer écrivit dans sa vieillesse. . . . La collection
             de ces contes forme un livre très-piquant, très-varié et qui

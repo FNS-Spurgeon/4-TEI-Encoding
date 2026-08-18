@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1817, Matthew Gregson. Portfolio of Fragments, relative to the History and Antiquities of the County Palatine of the Duchy of Lancaster...</title>
+        <title>1817, Matthew Gregson. Portfolio of Fragments, relative to the History and Antiquities of the County Palatine of the Duchy of Lancaster.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/">Matthew Gregson</author>
             <date cert="high" when="1817">1817</date>
-            <title level="a">Portfolio of Fragments, relative to the History and Antiquities of the County Palatine of the Duchy of Lancaster...</title>
+            <title level="a">Portfolio of Fragments, relative to the History and Antiquities of the County Palatine of the Duchy of Lancaster.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,10 +84,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="87"/>
-        <ab type="imprint">1817. Gregson, Matthew. Portfolio of Fragments, relative to the History and Antiquities of the County Palatine of the Duchy of Lancaster... Liverpool, 1817, p. 6.</ab>
+        
+        <ab type="imprint">1817. Gregson, Matthew. <hi rend="italic">Portfolio of Fragments, relative to the History and Antiquities of the County Palatine of the Duchy of Lancaster</hi> . . . Liverpool, 1817, p. 6.</ab>
+        
         <ab type="quotation">
-          <seg>[John of Gaunt and Catherine Swinford and Chaucer's
-marriage and pension.]</seg>
+          <seg type="editorial">[John of Gaunt and Catherine Swinford and Chaucer's marriage and pension.]</seg>
         </ab>
       </div>
     </body>

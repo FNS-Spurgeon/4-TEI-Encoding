@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p37_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p37_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,10 +86,10 @@
         
         <ab type="quotation">
           <seg>CHAUCER (Geoffroy), le Marot des Anglais, né à Londres
-            en 1328, mort en 1400, fut inhumé dans l’abbaye de West¬
-            minster. Il contribua beaucoup, par des poésies faites à
-            la louange du duc de Lancastre son beau-frère, à lui pro¬
-            curer la couronne. Il partagea la bonne et la mauvaise
+            en 1328, mort en 1400, fut inhumé dans l’abbaye de
+            Westminster. Il contribua beaucoup, par des poésies faites à
+            la louange du duc de Lancastre son beau-frère, à lui
+            procurer la couronne. Il partagea la bonne et la mauvaise
             fortune de ce monarque. Ses <hi rend="italic">Poésies</hi> furent publiées à
             Londres en 1721, in-folio. On y trouve des contes pleins
             d’enjouement, de naïvete et de licence, faits d’après les

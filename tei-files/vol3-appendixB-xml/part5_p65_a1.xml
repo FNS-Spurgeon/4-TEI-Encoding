@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p65_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p65_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,7 +84,7 @@
         <ab type="imprint">1857. Geffroy, A. [Account of <hi rend="italic">Chaucer</hi> in the] <hi rend="italic">Dictionnaire Général de Biographie et d’Histoire</hi>, . . . par Ch. Dezobry et Th. Bachelet ... Paris, 1857, première partie, p. 556.</ab>
         
         <ab type="quotation">
-          <seg>[A short life of Chaucer, inexact, because founded on the
+          <seg type="editorial">[A short life of Chaucer, inexact, because founded on the
             <hi rend="italic">Testament of Love</hi>. It concludes thus]:</seg>
           
           <seg>Enrichi par les bontés de la cour . . . il vécut heureux.

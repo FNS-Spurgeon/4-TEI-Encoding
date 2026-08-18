@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/66508882">John Keats</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/66508882">Keats, John</author>
             <date cert="high" when="1818">1818</date>
             <title level="a">Robin Hood; to a Friend.</title>
           </analytic>
@@ -86,13 +86,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="107"/>
-        <ab type="imprint">1818. Keats, John. Robin Hood; to a Friend. (Complete Works of John Keats, ed. H. Buxton Forman, 5 vols., 1900-01, vol. ii, p. 118, vol. iv, p. 73 [in a letter to J. H. Reynolds of 3 Feb. 1818].)</ab>
+        
+        <ab type="imprint">1818. Keats, John. <hi rend="italic">Robin Hood; to a Friend</hi>. (Complete Works of John Keats, ed. H. Buxton Forman, 5 vols., 1900-01, vol. ii, p. 118, vol. iv, p. 73 [in a letter to J. H. Reynolds of 3 Feb. 1818].)</ab>
+        
         <ab type="quotation">
-          <seg>Gone, the merry morris din;
-Gone the song of Gamelyn;
-Gone, the tough-belted outlaw
-Idling in the “grenè shawe."</seg>
-          <note type="footnote">Note in Spurgeon: [Cf. "Where ridestow under this grene shawe," Freres Tale, line 88. Similarly Keats uses the phrase "Ah! hertè mine" in a letter (11 Oct. 1819, Works, vol. v, p. 129). This occurs passim in Troilus, but is common in old poetry.]</note>
+          <seg>
+            <lg>
+              <l>Gone, the merry morris din;</l>
+              <l>Gone the song of Gamelyn;</l>
+              <l>Gone, the tough-belted outlaw</l>
+              <l>Idling in the "grenè shawe."<note type="footnote">Note in Spurgeon: [Cf. "Where ridestow under this grene shawe," <hi rend="italic">Freres Tale</hi>, line 88. Similarly Keats uses the phrase "Ah! hertè mine" in a letter (11 Oct. 1819, Works, vol. v, p. 129). This occurs passim in <hi rend="italic">Troilus</hi>, but is common in old poetry.]</note></l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

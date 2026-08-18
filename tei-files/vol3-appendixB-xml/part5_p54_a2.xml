@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p54_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p54_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,8 +83,8 @@
         
         <ab type="quotation">
           <seg><note place="margin">[p. 100]</note>Jusqu’au dernier souffle de sa vie commerciale et politique
-            l’Angleterre conservera ce caractère, <add>[of observer of man-
-            ners]</add>. Sa supériorité d’observatrice n’est pas un mérite:
+            l’Angleterre conservera ce caractère, <add>[of observer of manners]</add>.
+            Sa supériorité d’observatrice n’est pas un mérite:
             c’est pour elle une nécessité . . . il faut qu’elle observe,
             qu’elle compare, qu’elle juge, qu’elle soit homme d’affaires et
             analyste, pour exister. On voit ce caractère se prononcer

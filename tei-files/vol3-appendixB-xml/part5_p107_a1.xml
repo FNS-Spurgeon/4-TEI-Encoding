@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p107_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p107_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,13 +94,15 @@
           <seg>Mais j’avais beau me frotter les yeux, je ne distinguais
             pas très clairement, dans la vieille littérature anglaise, ce
             trait caractéristique de gaieté nationale. Shakespeare n’est
-            point d’humeur essentiellement joyeuse <add>[M. Gebhart cites
-            Macbeth, Hamlet and 'le gros Falstaff,' qui 'n’est qu’un
+            point d’humeur essentiellement joyeuse</seg>
+          
+          <seg type="editorial">[M. Gebhart cites Macbeth, Hamlet and 'le gros Falstaff,' qui 'n’est qu’un
             bouffon de taverne.' Sterne, Swift and Addison, and
             Hogarth and the other caricaturists of the eighteenth
             century, are not really happy (joyeux). In the history of
             the country itself, as in its literature and arts of design,
-            reigns a terribly tragic note.]</add></seg>
+            reigns a terribly tragic note.]
+          </seg>
             
           <seg>Et voilà que toujours <hi rend="italic">The Merry Old England</hi> s’obstine à
             se dérober à nos yeux.</seg>
@@ -117,13 +117,12 @@
             d’en entreprendre la traduction, sous la direction de M.
             Émile Legouis. . . .</seg>
             
-          <seg>[A short biography of Chaucer and an account of his debt
-            to Boccaccio’s <hi rend="italic">Decamerone</hi> follow.]</seg>
-            
-          <lb/>. . . . . . . . . . .
-            
+          <seg type="editorial">[A short biography of Chaucer and an account of his debt
+            to Boccaccio’s <hi rend="italic">Decamerone</hi> follow.]
+            <lb/>. . . . . . . . . . .</seg>
+                        
           <seg>L'imagination de Chaucer fut joliment créatrice. Voyez,
-            en son Prologue, la variété individuelle, et le mouvement des
+            en son <hi rend="italic">Prologue</hi>, la variété individuelle, et le mouvement des
             personnages qui évoluent comme sur une scène de théâtre
             bien réglée, la face franchement tournée vers le spectateur,
             avec leur allure propre, leur costume, leur geste professionnel,
@@ -178,10 +177,12 @@
             
           <seg>Je détache l’image de la 'simple et discrète' Prieure,
             Mme Eglantine, dont le plus grand serment était : 'Par saint
-            Eloi !' <add>[A description of the Prioress follows.]</add></seg>
+            Eloi !'</seg>
           
-          <lb/>. . . . . . . . . .
-          
+          <seg type="editorial">[A description of the Prioress follows.]
+            <lb/>. . . . . . . . . .
+          </seg>
+                    
           <milestone unit="page" n="109"/>
           
           <seg>La miniature est exquise.

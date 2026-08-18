@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p26_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p26_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,9 +84,9 @@
         <ab type="quotation">
           <seg><note place="margin">[p. 20]</note><add>[Note on Denham.]</add> <add>[Il]</add> fut enterré à Westmunster <add>[sic]</add> près de Chaucer, Spenser &amp; Cowley. . . .</seg>
             
-          <seg><note place="margin">[p. 21]</note><add>[Note on Couoley.]</add> Il fut enterré . . . près des cendres de Spencer &amp; Chaucer.</seg>
-            
-          <lb/>. . . . . . . . . . .
+          <seg><note place="margin">[p. 21]</note><add>[Note on Couoley.]</add> Il fut enterré . . . près des cendres de Spencer &amp; Chaucer.
+            <lb/>. . . . . . . . . . .
+          </seg>
             
           <seg type="editorial"><note place="margin">[p. 117]</note> [Forewords by Trochereau on the <hi rend="italic">Temple of Fame</hi> by
             Pope; based on the note printed by Pope himself at the head of his <hi rend="italic">Temple of Fame</hi>.]</seg>
@@ -128,14 +126,12 @@
             
             monument dans la même Abbaye, &amp; y fit graver cette
             Inscription :
-            <lg>
-              <l>M. S.</l>
-              <l>Qui fuit Anglorum vates ter maximas <add>[sic]</add> olim,</l>
-              <l>Gofrigidus <add>[sic]</add> Chaucer conditur hoc tumulo</l>
-              <l>Annum si quaras Domini, si tempora vitæ,</l>
-              <l>Ecce notæ subsunt, quæ tibi cuncta notant.</l>
-              <l>25 Octob. 1400.</l>
-            </lg>
+            <lb/>M. S.
+            <lb/>Qui fuit Anglorum vates ter maximas <add>[sic]</add> olim,
+            <lb/>Gofrigidus <add>[sic]</add> Chaucer conditur hoc tumulo
+            <lb/>Annum si quaras Domini, si tempora vitæ,
+            <lb/>Ecce notæ subsunt, quæ tibi cuncta notant.
+            <lb/>25 Octob. 1400.
           </seg>
             
           <seg>Milton le mettoit au rang des plus grands Poëtes. M.

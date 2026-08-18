@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p16_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p16_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -123,16 +121,14 @@
                 <l>Bries en parler saiges en rethorique</l>
                 <l n="5">Aigles treshaulz qui par ta theorique</l>
                 <l>Enlumines le regne deneas</l>
-                <l>Lisle aux geans ceuls de bruth
-                  <note type="footnote">Deschamps obtains the name by which he designates England from the
+                <l>Lisle aux geans ceuls de bruth<note type="footnote">Deschamps obtains the name by which he designates England from the
                     Brut of Wace; cf. the ballade of Deschamps, <hi rend="italic">Sur les divers noms de l’Angleterre</hi>, 
                     with the refrain "C’est de ce mot l’interpretacion," <hi rend="italic">Œuvres</hi> vi, pp. 87-8;
                     and <hi rend="italic">De la prophecie de Merlin sur la destruction d’Angleterre qui doit brief
                     advenir</hi>, refrain "Ou temps jadis estoit ci Angleterre," <hi rend="italic">Œuvres</hi> ii, pp. 33-4.</note>
                   et qui as</l>
                 <l>Seme les fleurs et plante le rosier</l>
-                <l>Aux ignorans de la langue pandras
-                  <note type="footnote">La langue pandras–the French language. The idea of this expression
+                <l>Aux ignorans de la langue pandras<note type="footnote">La langue pandras–the French language. The idea of this expression
                   comes also from Wace. Pandras was a mythical king of Greece, who had been
                   vanquished by Brutus–the first king of Britain (England) according to the
                   legend–at the head of a certain number of Trojan exiles who had been kept
@@ -157,8 +153,7 @@
                 <l n="15">Le derrenier en lethimologique</l>
                 <l>En bon angles le livre translatas</l>
                 <l>Et un vergier ou du plant demandas</l>
-                <l>De ceuls qui font
-                  <note type="footnote">Ceuls qui font, i.e. the poets, "the makers." Cf. Chaucer in the <hi rend="italic">Compleynt
+                <l>De ceuls qui font<note type="footnote">Ceuls qui font, i.e. the poets, "the makers." Cf. Chaucer in the <hi rend="italic">Compleynt
                     of Venus</hi>, where he speaks of Oton de Graunson as "flour of hem that make in Fraunce."</note>
                   pour eulx auctorisier</l>
                 <l>A ja long temps que tu edifias</l>
@@ -181,8 +176,7 @@
               
             <lg>
               <head>LENUOY</head>
-              <l>Poete hault loenge destmye
-                <note type="footnote">Destmye. It appears to us that this is without doubt, the reading ot the
+              <l>Poete hault loenge destmye<note type="footnote">Destmye. It appears to us that this is without doubt, the reading ot the
                   manuscript, although, at first sight, “destruye" might seem to be correct. But
                   on close inspection it will be seen that the down-stroke of the m is without
                   the small hook that the scribe attaches throughout to the r. "destinye"

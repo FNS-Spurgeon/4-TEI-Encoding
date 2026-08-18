@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p32_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p32_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -145,9 +143,9 @@
             ne trouva que le seul Chaucer, qui réunît tous ces différens
             avantages. . . . Le Duc, persuadé de l’utilité qui accom¬
             pagne le vrai mérite, chercha l’occasion de faire employer
-            notre Poète. . . .</seg>
-            
-          <lb/>. . . . . . . . . . .
+            notre Poète. . . .
+            <lb/>. . . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p.165]</note>La mort du Duc de Lancastre, les troubles &amp; les malheurs
             dont elle fut suivie, ceux dont l’Angleterre étoit menacée par
@@ -159,10 +157,10 @@
             Cour, &amp; se retira à la Campagne pour y passer le reste de
             ses jours dans un repos contemplatif. Notre Poëte y vêcut
             encore deux ans, &amp; mourut en 1400, comblé de gloire et de
-            bienfaits. . . .</seg>
+            bienfaits. . . .
+            <lb/>. . . . . . . . . . .
+          </seg>
           
-          <lb/>. . . . . . . . . . .
-            
           <seg><note place="margin">[p. 168]</note>Il en vouloit sur tout aux fraudes pieuses, qui dans ces
             Siècles d’ignorance défiguroient la Religion. Dans le
             Prologue de son <hi rend="italic">Pardonner</hi>, ou <hi rend="italic">Distributeur d’Indulgences</hi>, il
@@ -171,11 +169,13 @@
             difficile de traduire ce morceau littéralement. Il y a, dans
             la naïveté de son vieux langage, un agrément qu’on ne peut
             rendre que par comparaison. C’est un stile, auquel celui de
-            Villon et de Marot ressemble assez dans notre Langue. . . .
-            <add>[A translation follows of part of the Prologue of the Pardoner.]</add></seg>
-            
-          <lb/>. . . . . . . . . . .
-            
+            Villon et de Marot ressemble assez dans notre Langue. . . .</seg>
+          
+          <seg type="editorial">
+            [A translation follows of part of the Prologue of the Pardoner.]
+            <lb/>. . . . . . . . . . .
+          </seg>
+          
           <seg><note place="margin">[p. 170]</note>Enfin il excella dans tous les genres : le stile sérieux,
             <note place="margin">[p. 171]</note> l’enjoué, le tendre, le galant, lui furent également familiers,
             &amp; son génie Poëtique peut passer pour universel. C'est à ce

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p82_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p82_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,7 +84,7 @@
         <ab type="imprint">1867. Ampère, J. J. <hi rend="italic">Mélanges d’histoire littéraire</hi>, Paris, 1867, pp. 94, 352, 450, 454.</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[p. 450]</note><lb/>Les Renaissances.
+          <seg><note place="margin">[p. 450]</note>Les Renaissances.
             <lb/>La littérature anglaise, au moyen âge, ne nous offrira
             point un de ces sommets élevés que nous ont montrés
             l’Italie ou l’Espagne, mais une gracieuse colline, semblable

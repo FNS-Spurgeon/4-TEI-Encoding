@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1814, Manning, Owen, and Bray, William.. The History and Antiquities of the County of Surrey. ...</title>
+        <title>1814, Owen Manning and William Bray. The History and Antiquities of the County of Surrey.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,10 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Manning, Owen, and Bray, William.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/34532589">Manning, Owen</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/59263048">Bray, William</author>
             <date cert="high" when="1814">1814</date>
-            <title level="a">The History and Antiquities of the County of Surrey. ...</title>
+            <title level="a">The History and Antiquities of the County of Surrey.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,25 +85,30 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="64"/>
-        <ab type="imprint">1814. Manning, Owen, and Bray, William. The History and Antiquities of the County of Surrey. ... Begun by the late Rev. Owen Manning... enlarged and continued to the year 1814, by William Bray of Shire, 3 vols., 1804-14, vol. iii, p. 551, Southwark.</ab>
+        
+        <ab type="imprint">1814. Manning, Owen, and Bray, William. <hi rend="italic">The History and Antiquities of the County of Surrey</hi>. . . . Begun by the late Rev. Owen Manning . . . enlarged and continued to the year 1814, by William Bray of Shire, 3 vols., 1804-14, vol. iii, p. 551, Southwark.</ab>
+        
         <ab type="quotation">
           <seg>This being the great thoroughfare for all persons passing to
-London from Kent, Surrey, and Sussex, has been always noted
-for a number of inns to accommodate travellers. That men¬
-tioned by Chaucer, as the place from which he set out with
-the pilgrims whose stories he relates in his Canterbury Tales,
-has had so much said of it by different authors, that it is
-unnecessary to say more here, than that the sign was then the
-Tabard; that is, a military or herald’s coat without sleeves;
-but that it was long ago converted into that of a dog, which
-by corruption of the original name, has since been known by
-the name of a Talbot, and is designated by a spotted dog.
-This name it still bears. On the frieze of the beam whereon
-the sign hung, till removed on forming the new pavement,
-about 1767, was inscribed, 'This is the Inne where Sir Jeffrey
-Chaucer and the nine and twenty pilgrims lay in their journey
-to Canterbury anno 1383.' An inscription to this purport is
-still in the yard. It is near St. Margaret's Hill. ...</seg>
+            London from Kent, Surrey, and Sussex, has been always noted
+            for a number of inns to accommodate travellers. That
+            mentioned by Chaucer, as the place from which he set out with
+            the pilgrims whose stories he relates in his <hi rend="italic">Canterbury Tales</hi>,
+            has had so much said of it by different authors, that it is
+            unnecessary to say more here, than that the sign was then the
+            Tabard; that is, a military or herald’s coat without sleeves;
+            but that it was long ago converted into that of a dog, which
+            by corruption of the original name, has since been known by
+            the name of a Talbot, and is designated by a spotted dog.
+            This name it still bears. On the frieze of the beam whereon
+            the sign hung, till removed on forming the new pavement,
+            
+            <milestone unit="page" n="65"/>
+            
+            about 1767, was inscribed, 'This is the Inne where Sir Jeffrey
+            Chaucer and the nine and twenty pilgrims lay in their journey
+            to Canterbury anno 1383.' An inscription to this purport is
+            still in the yard. It is near St. Margaret's Hill. . . .</seg>
         </ab>
       </div>
     </body>

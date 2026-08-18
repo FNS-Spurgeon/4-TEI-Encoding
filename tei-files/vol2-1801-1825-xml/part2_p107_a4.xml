@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1818, Walter Scott. Chivalry,</title>
+        <title>1818, Walter Scott. Chivalry.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1818">1818</date>
-            <title level="a">Chivalry,</title>
+            <title level="a">Chivalry.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,46 +84,62 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="107"/>
-        <ab type="imprint">1818. Scott, Sir Walter. Chivalry, [in] Supplement to Encyclopædia Britannica, vol. iii, pp. 121, 124, 128, 130, 132, 140. (Miscellaneous Prose Works of Sir W. Scott, 30 vols., Edinburgh, 1834-71, vol. vi, pp. 27-8, 42, 56-7, 65, 74-5, 107.)</ab>
+        
+        <ab type="imprint">1818. Scott, Sir Walter. <hi rend="italic">Chivalry</hi>, [in] Supplement to Encyclopædia Britannica, vol. iii, pp. 121, 124, 128, 130, 132, 140. (Miscellaneous Prose Works of Sir W. Scott, 30 vols., Edinburgh, 1834-71, vol. vi, pp. 27-8, 42, 56-7, 65, 74-5, 107.)</ab>
+        
         <ab type="quotation">
-          <seg>Chaucer, when he describes the assembly of the knights
-[p. 27]
-[p. 28] who came with Arcite and Palemon to fight for the love of
-the fair Emilie, describes the manners of his age in the
-following lines :—
-For every knight that loved chivalry
-. . . . . .
-It were a lusty sight for to see.
-. . . . . .
-[p. 42] The Canterbury Tales of Chaucer contain many narratives,
-of which, not only the diction, but the whole turn of the
-narrative, is extremely gross. Yet it does not seem to have
-occurred to the author, a man of rank and fashion, that they
-were improper to be recited, either in the presence of the
-Prioress or her votaries, or in that of the noble Knight who
-— of his port was meek as is a maid,
-And he makes but a light apology for including the disasters
-And never yet no villany he said.
-of the Millar of Trompington, or of Absalom the Gentle Clerk,
-[p. 56] In the words of Chaucer, describing the Character of the
-in the same series of narrations with the Knight’s Tale.
-Squire–
-Curteis, he was, lowly and servisable,
-And carf before his fader at the table.
-Chaucer's Squire, besides that he was “singing and fluting
-. . . . . . .
-all the day"—
-Could songs make and well indite
-Joust, and eke dance, and well pourtray and write.
-[p.57] Unquestionably, few possessed all these attributes; but the
-poet, with his usual precision and vivacity, has given us the
-picture of a perfect esquire.  ...
-[p. 74] Chaucer has enumerated some of these varieties [of
-Knights' armour]:—
-With him ther wenten Knights many on.
-[p. 75]
-Some wol ben armed in an habergeon
-[and eight following lines].</seg>
+          <seg><note place="margin">[p. 27]</note>Chaucer, when he describes the assembly of the knights
+            <note place="margin">[p. 28]</note>who came with Arcite and Palemon to fight for the love of
+            the fair Emilie, describes the manners of his age in the
+            following lines :—
+            <l>For every knight that loved chivalry</l>
+            . . . . . .
+            <l>It were a lusty sight for to see.</l>
+            . . . . . .
+          </seg>
+          
+          <milestone unit="page" n="108"/>
+            
+          <seg><note place="margin">[p. 42]</note>The <hi rend="italic">Canterbury Tales</hi> of Chaucer contain many narratives,
+            of which, not only the diction, but the whole turn of the
+            narrative, is extremely gross. Yet it does not seem to have
+            occurred to the author, a man of rank and fashion, that they
+            were improper to be recited, either in the presence of the
+            Prioress or her votaries, or in that of the noble Knight who
+            <lg>
+              <l>— of his port was meek as is a maid,</l>
+              <l>And never yet no villany he said.</l>
+            </lg>
+            And he makes but a light apology for including the disasters
+            of the <hi rend="italic">Millar of Trompington</hi>, or of <hi rend="italic">Absalom the Gentle Clerk</hi>,
+            in the same series of narrations with the <hi rend="italic">Knight’s Tale</hi>.</seg>
+            
+          <seg><note place="margin">[p. 56]</note>In the words of Chaucer, describing the Character of the Squire–
+            <lg>
+              <l>Curteis, he was, lowly and servisable,</l>
+              <l>And carf before his fader at the table.</l>
+            </lg>
+            . . . . . . .
+          </seg>
+         
+          <seg>Chaucer's Squire, besides that he was “singing and fluting all the day"—
+            <lg>
+              <l>Could songs make and well indite</l>
+              <l>Joust, and eke dance, and well pourtray and write.</l>
+            </lg>
+          </seg>
+            
+          <seg><note place="margin">[p.57]</note>Unquestionably, few possessed all these attributes; but the
+            poet, with his usual precision and vivacity, has given us the
+            picture of a perfect esquire. . . .</seg>
+            
+          <seg><note place="margin">[p. 74]</note>Chaucer has enumerated some of these varieties [of Knights' armour]:—
+            <lg>
+              <l>With him ther wenten Knights many on.</l>
+              <l>Some wol ben armed in an habergeon</l>
+            </lg>
+            <note place="margin">[p. 75]</note><add>[and eight following lines]</add>.
+          </seg>
         </ab>
       </div>
     </body>

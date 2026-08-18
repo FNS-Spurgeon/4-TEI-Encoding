@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p60_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p60_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,16 +82,16 @@
         <ab type="imprint">[1850.] Chasles, V.-E.-Philarète. <hi rend="italic">Etudes sur la littérature et les mœurs de l’Angleterre au XIXe siècle</hi>, Paris [1850], pp. 20, 26-7.</ab>
         
         <ab type="quotation">
-          <seg><lb/>Du génie de la langue anglaise.
+          <seg>Du génie de la langue anglaise.
             <lb/><note place="margin">[p. 20]</note>Mainte phrase de Chaucer est tellement normande et
             
             <milestone unit="page" n="61"/>
             
             saxonne, que personne aujourd’hui ne s’en rend compte sans
-            dictionnaire.</seg>
+            dictionnaire.
+            <lb/>. . . . . . . . . . .
+          </seg>
           
-          <lb/>. . . . . . . . . . .
-            
           <seg><note place="margin">[p. 26]</note>Tout le dictionnaire des archaïsmes de Chaucer et de
             Layamon entrera-t-il dans le nouveau lexique ?</seg>
         </ab>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p100_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p100_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,8 +88,8 @@
             le trait commun de plus anciens et des plus récents de
             leurs écrivains. Depuis Chaucer jusqu’à Byron et jusqu’à
             Thackeray, que de grandes et nobles œuvres variées par le
-            badinage et même par la bouffonnerie ! Les Contes de
-            Cantorbéry sont aussi amusants que touchants. La plupart
+            badinage et même par la bouffonnerie ! Les <hi rend="italic">Contes de
+            Cantorbéry</hi> sont aussi amusants que touchants. La plupart
             
             <milestone unit="page" n="101"/>
             

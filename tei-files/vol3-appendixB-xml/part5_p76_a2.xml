@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p76_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p76_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,8 +69,8 @@
         <language ident="fr">French</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#criticism" target="#general"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -97,15 +95,15 @@
               d’art.—Besoin d’excitation.—Situations analogues de
               l’architecture et de la littérature.</item>
               <item>III. En quoi Chaucer est du moyen âge.—Poëmes romantiques
-              et décoratifs.—Le Roman de la Rose.— Troïlus et
-              Cressida.—Contes de Cantorbéry.—Défilé de descriptions et
-              d’événements.—La Maison de la Renommée.— Visions et
-              rêves fantastiques.—Poëmes d’amour.— Troïlus et Cressida.—
-              Développement exagéré de l’amour au moyen âge.—Pour¬
-              quoi l’esprit avait pris cette voie.—L’amour mystique.—La
-              Fleur et la Feuille.— L’amour sensuel.— Troïlus et Cressida.</item>
+              et décoratifs.—<hi rend="italic">Le Roman de la Rose</hi>.—<hi rend="italic">Troïlus et
+              Cressida</hi>.—<hi rend="italic">Contes de Cantorbéry</hi>.—Défilé de descriptions et
+              d’événements.—<hi rend="italic">La Maison de la Renommée</hi>.— Visions et
+              rêves fantastiques.—Poëmes d’amour.—<hi rend="italic">Troïlus et Cressida</hi>.—
+              Développement exagéré de l’amour au moyen âge.—Pourquoi 
+              l’esprit avait pris cette voie.—L’amour mystique.—<hi rend="italic">La
+              Fleur et la Feuille</hi>.—L’amour sensuel.—<hi rend="italic">Troïlus et Cressida</hi>.</item>
               <item>IV. En quoi Chaucer est Français.—Poëmes satiriques et
-              gaillards.—Contes de Cantorbéry.—La bourgeoise de Bath et
+              gaillards.—<hi rend="italic">Contes de Cantorbéry</hi>.—La bourgeoise de Bath et
               
               <milestone unit="page" n="77"/>
               
@@ -113,7 +111,7 @@
               la polissonnerie et la grossièreté du moyen âge.</item>
               <item>V. En quoi Chaucer est Anglais et original.— Conception
               du caractère et de l’individu.— Van Eyck et Chaucer sont
-              contemporains.—Prologue des Contes de Cantorbéry.—
+              contemporains.—<hi rend="italic">Prologue des Contes de Cantorbéry</hi>.—
               Portraits du franklin, du moine, du meunier, de la bourgeoise,
               du chevalier, de l’écuyer, de l’abbesse, du bon curé.—Liaison
               des événements et des caractères.—Conception de l’ensemble.
@@ -132,11 +130,12 @@
             monde, mais surtout de contenter le monde chevaleresque
             et les cours somptueuses qui brillent sur les sommets. . . .</seg>
             
-          <seg><note place="margin">[p. 173]</note> Comme Froissart, et mieux que Froissart, il a pu peindre
+          <seg>
+            <note place="margin">[p. 173]</note> Comme Froissart, et mieux que Froissart, il a pu peindre
             les châteaux des nobles, leurs entretiens, leurs amours, même
-            quelque chose d’autre, et leur plaire par leur portrait. . . .</seg>
-            
-          <lb/>. . . . . . . . .
+            quelque chose d’autre, et leur plaire par leur portrait. . . .
+            <lb/>. . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 182]</note>Chaucer décrit une troupe de pèlerins, gens de toute
             condition qui vont à Cantorbéry . . . qui conviennent de dire
@@ -155,14 +154,16 @@
             qui, par son éclat, ses variétés, ses contrastes, peut attirer et
             contenter les yeux les plus avides d’amusement et de
             nouveauté. . . .</seg>
-            
-          <seg><note place="margin">[p. 200]</note><add>[Love poems. In writing of <hi rend="italic">Troylus</hi>, Taine gives a
+          
+          <seg type="editorial"><note place="margin">[p. 200]</note>[Love poems. In writing of <hi rend="italic">Troylus</hi>, Taine gives a
             quotation from <hi rend="italic">The Cuckoo and the Nightingale</hi>, ll. 241-250,
             
             <milestone unit="page" n="78"/>
             
             wherein the nightingale weeps for sadness on hearing the
-            cuckoo speak evil of love.]</add>
+            cuckoo speak evil of love.]</seg>
+            
+          <seg>
             <lg>
               <l>Eh bien, dit-il, use de ce remède, . . .</l>
               <l>Puis il commença bien haut la chanson</l>
@@ -179,7 +180,7 @@
             que les Français l’ont toujours fait. C’est que Chaucer ici
             suit ses véritables maîtres, et qu’il est lui-même beau diseur,
             abondant, prompt au sourire, amateur de plaisir choisi, disciple
-            du Roman de la Rose, et bien moins Italien que Français.
+            du <hi rend="italic">Roman de la Rose</hi>, et bien moins Italien que Français.
             La pente du caractère français fait de l’amour, non une
             passion, mais un joli festin, arrangé avec goût, où le service est
             élégant, la chair <add>[sic]</add> fine, l’argenterie brillante, les deux
@@ -187,7 +188,7 @@
             à s’égayer et s’en aller. Certainement dans Chaucer, à côté
             des tirades sentimentales, cette autre veine coule, toute
             <note place="margin">[p. 202]</note> mondaine. . . . Non seulement il est gai, mais il est moqueur
-            d’un bout à l’autre du récit <add>[de Troïlus et Criseyde]</add>, il voit
+            d’un bout à l’autre du récit <add>[de <hi rend="italic">Troïlus et Criseyde</hi>]</add>, il voit
             clair à travers les subterfuges de la pudeur féminine; il en
             rit malicieusement et sait bien ce qu’il y a derrière; il a l’air
             de nous dire, un doigt sur les lèvres : 'Chut! laissez couler
@@ -202,10 +203,12 @@
             <note place="margin">[p. 204]</note> et quelquefois aussi bien que la Fontaine. Il n’assomme
             pas, il pique, en passant, non par haine ou indignation
             profonde, mais par agilité d’esprit et prompt sentiment des
-            ridicules; il les jette à pleines poignées sur les personnages.
-            <add>[Taine then deals with the Wife of Bath &amp; the Monk.]</add></seg>
-            
-          <lb/>. . . . . . . . . . .
+            ridicules; il les jette à pleines poignées sur les personnages.</seg>
+          
+          <seg type="editorial">
+            [Taine then deals with the Wife of Bath &amp; the Monk.]
+            <lb/>. . . . . . . . . . .
+          </seg>
           
           <milestone unit="page" n="79"/>
             

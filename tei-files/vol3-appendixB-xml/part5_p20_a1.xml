@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p20_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p20_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1702, Guy Miège. Etat prévent d'Angleterre sous la Reine Anne.</title>
+        <title>1702, [Guy Miège]. Etat prévent d'Angleterre sous la Reine Anne.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -84,8 +82,8 @@
         <ab type="imprint">1702. [Miège, Guy]. <hi rend="italic">Etat prévent d'Angleterre sous la Reine Anne</hi> . . . Traduit de l’Anglois, à Amsterdam, 1702, tome ii, partie II, chap. i, p. 254.</ab>
         
         <ab type="quotation">
-          <seg>leur Tempérament, Génie, Langage, avec une liste des plus
-            <add>[Title of the chapter.]</add> Des Habitans d’Angleterre, de
+          <seg><add>[Title of the chapter.]</add> Des Habitans d’Angleterre, de
+            leur Tempérament, Génie, Langage, avec une liste des plus
             habiles Personnages de ce Païs qui ont excellé dans la Guerre,
             &amp; dans les Lettres. . . .</seg>
           

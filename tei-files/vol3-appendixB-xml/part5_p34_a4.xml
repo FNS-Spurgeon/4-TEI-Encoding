@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p34_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p34_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -94,7 +92,7 @@
             où l’on rencontre des pensées fortes.</seg>
             
           <seg><note place="margin">[tome iii, p. 268.]</note><hi rend="italic">La Femme de Bath, Conte de Chaucer, remanié par Dryden</hi>.
-            <add>[The 1757 translation, q.v., follows of Dryden's version of the
+            <lb/><add>[The 1757 translation, q.v., follows of Dryden's version of the
             <hi rend="italic">Tale of the Wyf of Bathe</hi>, preceded by the following note:]</add> On
             connaît en France le joli Conte de M. de Voltaire, intitulé
             <hi rend="italic">Ce qui plaît aux Dames</hi>, &amp; dont M. Favart s’est servi, pour

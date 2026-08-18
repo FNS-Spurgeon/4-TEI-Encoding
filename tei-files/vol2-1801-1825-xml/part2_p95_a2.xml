@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1818, Samuel Taylor Coleridge. Notes of Lectures</title>
+        <title>1818, Samuel Taylor Coleridge. Notes of Lectures.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/24599809">Samuel Taylor Coleridge</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/24599809">Coleridge, Samuel Taylor</author>
             <date cert="high" when="1818">1818</date>
-            <title level="a">Notes of Lectures</title>
+            <title level="a">Notes of Lectures.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#loveNature"/>
         <catRef scheme="#criticism" target="#indecencyFrivolity"/>
       </textClass>
@@ -88,47 +88,56 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="95"/>
-        <ab type="imprint">1818. Coleridge, Samuel Taylor. Notes of Lectures [of the course of 1818]. (Literary Remains of S. T. Coleridge, 1836-9, 4 vols, vol. i, pp. 83, 88, 89, 231-3, 238.)</ab>
+        
+        <ab type="imprint">1818. Coleridge, Samuel Taylor. <hi rend="italic">Notes of Lectures</hi> [of the course of 1818]. (Literary Remains of S. T. Coleridge, 1836-9, 4 vols, vol. i, pp. 83, 88, 89, 231-3, 238.)</ab>
+        
         <ab type="quotation">
-          <seg>[p.83]  I dare make none [no excuse] for the gross and disgusting
-licentiousness, the daring profaneness, which rendered the
-Decameron of Boccaccio the parent of a hundred worse
-children, fit to be classed among the enemies of the human
-race;... which interposes a painful mixture in the humour
-of Chaucer.
-[p. 88] [Lecture III. The Troubadours–Boccaccio–Petrarch¬
-Pulci—Chaucer—Spenser.].. Chaucer must be read with
-an eye to the Norman-French Trouveres, of whom he is the best
-representative in English. He had great powers of invention.
-As in Shakspere, his characters represent classes, but in a
-different manner; Shakspere’s characters are the representatives
-of the interior nature of humanity, in which some element has
-become so predominant as to destroy the health of the mind;
-[p. 89] whereas Chaucer’s are rather representatives of classes of
-manners. He is therefore more led to individualize in a mere
-personal sense. Observe Chaucer's love of nature; and how
-happily the subject of his main work is chosen. When you
-reflect that the company in the Decameron have retired to a
-place of safety from the raging of a pestilence, their mirth
-provokes a sense of their unfeelingness; whereas in Chaucer
-nothing of this sort occurs, and the scheme of a party on a
-pilgrimage, with different ends and occupations, aptly allows
-[p. 231] [On Style.] As an instance equally delightful and com¬
-of the greatest variety of expression in the tales.
-plete, of what may be called the Gothic Structure as contra¬
-distinguished from that of the Greeks, let me cite a part of
-our famous Chaucer's character of a parish priest as he
-should be. Can it ever be quoted too often?
-A good man thér was of religioun
-[p. 233] Such change as really took place in the style of our
-[and forty-five following lines].
-literature after Chaucer's time, is with difficulty perceptible,
-on account of the dearth of writers, during the civil wars
-[p. 288] It is, indeed, worthy of remark that all our great poets
-of the fifteenth century...
-have been good prose writers, as Chaucer, Spenser, Milton;
-and this probably rose from their just sense of metre.</seg>
-          <note type="footnote">Note in Spurgeon: [The remarks on Chaucer's prose are reported at greater length in the Tatler, vol. ii, no. 224, May 23, 1831, p. 893.]</note>
+          <seg><note place="margin">[p.83]</note>I dare make none <add>[no excuse]</add> for the gross and disgusting
+            licentiousness, the daring profaneness, which rendered the
+            Decameron of Boccaccio the parent of a hundred worse
+            children, fit to be classed among the enemies of the human
+            race; . . . which interposes a painful mixture in the humour
+            of Chaucer.</seg>
+            
+          <seg><note place="margin">[p. 88]</note><add>[Lecture III. The Troubadours—Boccaccio—Petrarch—
+            Pulci—Chaucer—Spenser.]</add> . . Chaucer must be read with
+            an eye to the Norman-French Trouveres, of whom he is the best
+            representative in English. He had great powers of invention.
+            As in Shakspere, his characters represent classes, but in a
+            different manner; Shakspere’s characters are the representatives
+            of the interior nature of humanity, in which some element has
+            become so predominant as to destroy the health of the mind;
+            <note place="margin">[p. 89]</note>whereas Chaucer’s are rather representatives of classes of
+            manners. He is therefore more led to individualize in a mere
+            personal sense. Observe Chaucer's love of nature; and how
+            happily the subject of his main work is chosen. When you
+            reflect that the company in the Decameron have retired to a
+            place of safety from the raging of a pestilence, their mirth
+            provokes a sense of their unfeelingness; whereas in Chaucer
+            nothing of this sort occurs, and the scheme of a party on a
+            
+            <milestone unit="page" n="96"/>
+            
+            pilgrimage, with different ends and occupations, aptly allows
+            of the greatest variety of expression in the tales.</seg>
+            
+          <seg><note place="margin">[p. 231]</note>[On Style.] As an instance equally delightful and
+            complete, of what may be called the Gothic Structure as
+            contradistinguished from that of the Greeks, let me cite a part of
+            our famous Chaucer's character of a parish priest as he
+            should be. Can it ever be quoted too often?
+            <l>A good man thér was of religioun</l>
+            <add>[and forty-five following lines]</add>.</seg>
+            
+          <seg><note place="margin">[p. 233]</note>Such change as really took place in the style of our
+            literature after Chaucer's time, is with difficulty perceptible,
+            on account of the dearth of writers, during the civil wars
+            of the fifteenth century . . .</seg>
+            
+          <seg><note place="margin">[p. 288]</note>It is, indeed, worthy of remark that all our great poets
+            have been good prose writers, as Chaucer, Spenser, Milton;
+            and this probably rose from their just sense of metre.<note type="footnote">Note in Spurgeon: [The remarks on Chaucer's prose are reported at greater length in the Tatler, vol. ii, no. 224, May 23, 1831, p. 893.]</note>
+          </seg>
         </ab>
       </div>
     </body>

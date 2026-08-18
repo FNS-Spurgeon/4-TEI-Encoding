@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p88_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p88_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -72,7 +70,7 @@
       </langUsage>
       <textClass>
         <catRef scheme="#criticism" target="#praised"/>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#corruptedEnglish"/>
       </textClass>
     </profileDesc>
@@ -89,9 +87,10 @@
         
         <ab type="quotation">
           <seg>Chapitre vi. Vie de Chaucer, et description de son influence
-            prépondérante sur la formation de l’idiome anglais.
-            <add>[M. Baret says that Chaucer was born in 1328, and he seems
-            to regard the <hi rend="italic">Testament of Love</hi> as authentic.]</add></seg>
+            prépondérante sur la formation de l’idiome anglais.</seg>
+          
+          <seg type="editorial">[M. Baret says that Chaucer was born in 1328, and he seems
+            to regard the <hi rend="italic">Testament of Love</hi> as authentic.]</seg>
             
           <seg><note place="margin">[p. 110]</note><add>[Chaucer]</add> était Anglais par le cœur, mais Français par
             l’esprit. Il nous appartenait, à son insu sans doute, par la
@@ -134,10 +133,9 @@
             
           <seg><note place="margin">[p. 189]</note>. . . L’imagination n’occupe pas le premier rang dans sa
             poésie ; l’enthousiasme y est rare ; il observe bien plus qu’il
-            n’admire.</seg>
-            
-          <lb/>. . . . . . . . . . .
-            
+            n’admire.
+            <lb/>. . . . . . . . . . .</seg>
+          
           <seg><note place="margin">[p. 196]</note>Chaucer possède déjà toutes les qualités distinctives du
             génie anglais, mais le côté dramatique de son talent est
             surtout remarquable. . . .</seg>

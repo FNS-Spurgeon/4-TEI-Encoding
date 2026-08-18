@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100175819">George Crabbe</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100175819">Crabbe, George</author>
             <date cert="high" when="1812">1812</date>
             <title level="a">Preface to Tales in Verse.</title>
           </analytic>
@@ -87,38 +87,44 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="57"/>
-        <ab type="imprint">1812. Crabbe, George. Preface to Tales in Verse. (The Life and Poetical Works of George Crabbe, by his Son, 1901, pp. 273-4.)</ab>
+        
+        <ab type="imprint">1812. Crabbe, George. <hi rend="italic">Preface to Tales in Verse</hi>. (The Life and Poetical Works of George Crabbe, by his Son, 1901, pp. 273-4.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 273] It may probably be remarked, that Tales, however dissimilar,
-might have been connected by some associating circumstances
-to which the whole number might bear equal affinity, and that
-examples of such union are to be found in Chaucer, in Boccace,
-and other collectors and inventors of Tales.  ... To imitate
-the English poet, characters must be found adapted to their
-several relations, and this is a point of great difficulty and
-hazard : much allowance seems to be required even for Chaucer
-himself; since it is difficult to conceive that on any occasion
-the devout and delicate Prioress, the courtly and valiant
-Knight, and ‘the poure good Man the persone of a Towne,’
-would be the voluntary companions of the drunken Miller, the
-licentious Sumpnour, and ‘the Wanton Wife of Bath,’ and
-enter into that colloquial and travelling intimacy which, if a
-common pilgrimage to the shrine of St. Thomas may be said
-to excuse, I know nothing beside (and certainly nothing in
-these times) that would produce such effect.  ... To have
-followed the method of Chaucer might have been of use, but
-could scarcely be adopted, from its difficulty.
-[p. 274] That those poets should so entirely engross the title as to
-exclude those who address their productions to the plain
-sense and sober judgment of their readers, rather than to their
-fancy and imagination, I must repeat that I am unwilling to
-admit... All that kind of satire wherein character is skil¬
-fully delineated must (this criterion being allowed) no longer
-be esteemed as genuine poetry... A considerable part of
-the poems, as they have hitherto been denominated, of
-Chaucer, are of this naked and unveiled character: and there
-are in his Tales many pages of coarse, accurate, and minute,
-but very striking description.</seg>
+          <seg><note place="margin">[p. 273]</note>It may probably be remarked, that Tales, however dissimilar,
+            might have been connected by some associating circumstances
+            to which the whole number might bear equal affinity, and that
+            examples of such union are to be found in Chaucer, in Boccace,
+            and other collectors and inventors of Tales. . . . To imitate
+            the English poet, characters must be found adapted to their
+            several relations, and this is a point of great difficulty and
+            hazard : much allowance seems to be required even for Chaucer
+            himself; since it is difficult to conceive that on any occasion
+            the devout and delicate Prioress, the courtly and valiant
+            Knight, and 'the poure good Man the persone of a Towne,'
+            would be the voluntary companions of the drunken Miller, the
+            licentious Sumpnour, and 'the Wanton Wife of Bath,' and
+            enter into that colloquial and travelling intimacy which, if a
+            common pilgrimage to the shrine of St. Thomas may be said
+            to excuse, I know nothing beside (and certainly nothing in
+            these times) that would produce such effect. . . . To have
+            followed the method of Chaucer might have been of use, but
+            could scarcely be adopted, from its difficulty.</seg>
+            
+          <seg><note place="margin">[p. 274]</note>That those poets should so entirely engross the title as to
+            exclude those who address their productions to the plain
+            sense and sober judgment of their readers, rather than to their
+            fancy and imagination, I must repeat that I am unwilling to
+            admit . . . All that kind of satire wherein character is skilfully
+            delineated must (this criterion being allowed) no longer
+            
+            <milestone unit="page" n="58"/>
+            
+            be esteemed as genuine poetry . . . A considerable part of
+            the poems, as they have hitherto been denominated, of
+            Chaucer, are of this naked and unveiled character: and there
+            are in his Tales many pages of coarse, accurate, and minute,
+            but very striking description.</seg>
         </ab>
       </div>
     </body>

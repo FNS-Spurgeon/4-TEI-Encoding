@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p51_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p51_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -132,8 +130,9 @@
             omettre de faire sentir la distinction des qualités propres à
             cet ingénieux écrivain anglais du quatorzième siècle avec
             celles qu’il a empruntées aux auteurs français et surtout aux
-            Italiens de son temps. . . . <add>[A translation in French prose
-            follows of the Prologue to the <hi rend="italic">Canterbury Tales</hi>.]</add></seg>
+            Italiens de son temps. . . .</seg>
+          
+          <seg type="editorial">[A translation in French prose follows of the Prologue to the <hi rend="italic">Canterbury Tales</hi>.]</seg>
             
           <seg><note place="margin">[p. 49]</note> Il est difficile de trouver un cadre plus ingénieux en lui-
             même et plus favorable pour préparer le lecteur à la narration
@@ -150,11 +149,13 @@
             
           <seg>Ce poète, car il mérite réellement ce nom par la double
             faculté qu’il avait de bien composer et de bien exprimer ses
-            idées, Geoffroy Chaucer . . . est né en 1328. . . . <add>[A two-
-            page description is then given of England in the fourteenth
+            idées, Geoffroy Chaucer . . . est né en 1328. . . . <add/></seg>
+          
+          <seg type="editorial">[A two-page description is then given of England in the fourteenth
             century, and reference is made to Chaucer's satire against
-            the Church, and to his sympathy for the doctrines ot Wyclif.]</add>
-            <note place="margin">[p. 52]</note>On sait peu de choses positives sur la vie de . . . Chaucer.</seg>
+            the Church, and to his sympathy for the doctrines ot Wyclif.]</seg>
+          
+          <seg><note place="margin">[p. 52]</note>On sait peu de choses positives sur la vie de . . . Chaucer.</seg>
             
           <seg type="editorial">[The usual statement of his life follows, first as student then
             courtier, lawyer, traveller and ambassador. A short account
@@ -189,8 +190,9 @@
             pétulante avec laquelle le poète Chaucer a tracé les portraits
             de ses conteurs, éclate avec vivacité, et que cette spirituelle
             préface fera naître un vif désir de connaître le reste de
-            l’ouvrage. <add>[The author then proceeds to give a short
-            account of each tale, 6 pp.]</add>. . . . . .</seg>
+            l’ouvrage.</seg>
+          
+          <seg type="editorial">[The author then proceeds to give a short account of each tale, 6 pp.]. . . . . .</seg>
             
           <seg><note place="margin">[p. 61]</note>Je ne sais si le lecteur me saura gré des details minutieux
             que je viens de donner sur l’ensemble et sur les parties des
@@ -210,7 +212,8 @@
             sciences, des lettres et de l’érudition. Le nom de Chaucer
             le cède, il est vrai, à ceux de Dante et de Pétrarque, mais on
             peut l’inscrire sur la même ligne que celui de Boccace.
-            <lb/>. . . . . . . . . .</seg>
+            <lb/>. . . . . . . . . .
+          </seg>
         </ab>
       </div>
     </body>

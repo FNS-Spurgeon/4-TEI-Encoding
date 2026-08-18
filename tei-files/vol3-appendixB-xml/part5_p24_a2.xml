@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p24_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p24_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -101,22 +99,20 @@
             est tellement vieilli, que les Anglois ne l’entendent presque
             plus; il faisoit des vers fort enjoués, &amp; il sçavoit les
             Mathématiques; il fut surnommé l’Homère Anglois; son Tombeau
-            est à Westminster: on l’a rétabli en 1550.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
-          <seg><note place="margin">[p. xxiij-xxiv]</note> <add>[Abridgement of the life of Philips, by Sewell.]</add> Simon
-              Harcourt, Lord Chancelier d’Angleterre lui a élevé à Westminster un mausolée auprès de celui de Chaucer. . . .</seg>
+            est à Westminster: on l’a rétabli en 1550.
+            <lb/>. . . . . . . . . .</seg>
           
-          <lb/>. . . . . . . . . .
-            
-            
+          <seg><note place="margin">[p. xxiij-xxiv]</note> <add>[Abridgement of the life of Philips, by Sewell.]</add> Simon
+              Harcourt, Lord Chancelier d’Angleterre lui a élevé à Westminster un mausolée auprès de celui de Chaucer. . . .
+            <lb/>. . . . . . . . . .
+          </seg>
+          
           <seg><note place="margin">[p. xxvij]</note> <add>[Abridgement of the life of Philips, continued,—epitaph]</add>
               Qu’il lui soit donc permis, ô Chaucer, Père de la Poësie
               
               <milestone unit="page" n="25"/>
               
-              Angloise, quoiqu’il n’ait pas suivi les Loix (a)<note>(a) <add>[Note by Yart.]</add> Milton fut le premier Poëte
+              Angloise, quoiqu’il n’ait pas suivi les Loix<note type="footnote" n="(a)"><add>[Note by Yart.]</add> Milton fut le premier Poëte
                 d’Angleterre qui substitua aux Vers rimés, inventés par
                 Chaucer, les Vers blancs ou non rimés. Philips, &amp; plusieurs
                 autres Poètes, ont imité Milton dans ce nouveau genre de
@@ -132,23 +128,22 @@
                 <l>Vatum certè cineres, tuos undique stipantium;</l>
                 <l>Non dedecebit chorum.</l>
               </lg>
+              . . . . . . . . . .
           </seg>
-           
-          <lb/>. . . . . . . . . .
-            
+          
           <seg><note place="margin">[tom. ii, d. 77]</note> On va voir parottre Chaucer &amp; Spencer, ensuite Cowley,
             Milton, Denham, &amp; enfin Waller, Roscommon, Dryden,
             Congreve &amp; Montagu, on verra naître la Poësie Angloise
             avec les premiers, se former avec les seconds, &amp; se polir avec
-            les derniers.</seg>
-            
-          <lb/>. . . . . . . . . . .
+            les derniers.
+            <lb/>. . . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 80]</note> Histoire abrégée des plus grands poëtes anglois, par
             Joseph Addison, à monsieur Henry Sacheverell.</seg>
           
-          <seg type="editorial">[A translation follows from Addison’s Account of the greatest English
-            poets, 1694. Yart translates thus the verses referring to Chaucer.]</seg>
+          <seg type="editorial">[A translation follows from Addison’s <hi rend="italic">Account of the greatest English
+            poets</hi>, 1694. Yart translates thus the verses referring to Chaucer.]</seg>
             
           <seg>Vous voulez, cher Sacheverell, que je parcoure les siècles
             qui se sont écoulés depuis Chaucer jusqu’à Dryden. . . .</seg>
@@ -160,9 +155,9 @@
             tems a porté sa rouille sur ses Ecrits, défiguré son langage,
             obscurci son esprit; il s’efforce d’égayer ses vers grossiers
             par des plaisanteries, il ne peut venir à bout de divertir ses
-            lecteurs.</seg>
-            
-          <lb/>. . . . . . . . . . .
+            lecteurs.
+            <lb/>. . . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 107]</note> <add>[<hi rend="italic">The Progress of Poetry</hi>, by Lady Mary Wortley Montagu.]</add>
             . . . Chaucer, le premier, ouvrit sa veine comique, il en fit

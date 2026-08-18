@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1817, John Keats. Letter to Messrs. Taylor and Hessey,</title>
+        <title>1817, John Keats. Letter to Messrs. Taylor and Hessey.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/66508882">John Keats</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/66508882">Keats, John</author>
             <date cert="high" when="1817">1817</date>
-            <title level="a">Letter to Messrs. Taylor and Hessey,</title>
+            <title level="a">Letter to Messrs. Taylor and Hessey.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,11 +84,13 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="90"/>
-        <ab type="imprint">1817. Keats, John. Letter to Messrs. Taylor and Hessey, [dated] Margate, 16 May, 1817. (Complete Works of John Keats, ed. H. Buxton Forman, 1900-1, 5 vols., vol. iv, p. 23.)</ab>
+        
+        <ab type="imprint">1817. Keats, John. <hi rend="italic">Letter to Messrs. Taylor and Hessey</hi>, [dated] Margate, 16 May, 1817. (Complete Works of John Keats, ed. H. Buxton Forman, 1900-1, 5 vols., vol. iv, p. 23.)</ab>
+        
         <ab type="quotation">
-          <seg>This evening I go to Canterbury, having got tired of Mar¬
-gate... At Canterbury I hope the remembrance of Chaucer
-will set me forward like a Billiard Ball.</seg>
+          <seg>This evening I go to Canterbury, having got tired of
+            Margate . . . At Canterbury I hope the remembrance of Chaucer
+            will set me forward like a Billiard Ball.</seg>
         </ab>
       </div>
     </body>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p91_a6">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p91_a6">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -110,8 +108,9 @@
             vraiment d’un charme si profond dans son mysticisme
             féminin, que nous le traduisons presque en entier, en nous
             efforçant de respecter, autant que possible, la naïveté de
-            l’original. <add>[There follows a translation of the <hi rend="italic">Prioresses
-            Tale</hi>, pp. 385-90.]</add></seg>
+            l’original.</seg>
+          
+          <seg type="editorial">[There follows a translation of the <hi rend="italic">Prioresses Tale</hi>, pp. 385-90.]</seg>
         </ab>
       </div>
     </body>

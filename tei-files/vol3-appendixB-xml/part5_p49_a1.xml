@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p49_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p49_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,7 +82,7 @@
         <ab type="imprint">1836. Chateaubriand, François René de. <hi rend="italic">Essai sur la Littérature anglaise</hi>, par M. de Chateaubriand, Paris, 1836, pp. 109-111. (Œuvres complètes de... Chateaubriand, Paris 1838, tome xxxiii, pp. 102-7.)</ab>
         
         <ab type="quotation">
-          <seg><lb/>CHAUCER, BOWER <add>[sic]</add>, BARBOUR.
+          <seg>CHAUCER, BOWER <add>[sic]</add>, BARBOUR.
             <lb/>En même temps que les tribunaux retournèrent par
             ordonnance au dialecte du sol, Chaucer fut appelé à réhabiliter la
             harpe des bardes; mais Bower, son devancier de quelques

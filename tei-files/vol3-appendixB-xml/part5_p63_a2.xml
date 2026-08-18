@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p63_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p63_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,7 +69,7 @@
         <language ident="fr">French</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,22 +84,27 @@
         <ab type="imprint">1856. Brunet, G. [Article on <hi rend="italic">Chaucer</hi> in the] <hi rend="italic">Nouvelle Biographie Générale</hi> . . . tom. x, Paris, 1856, pp. 118-120.</ab>
         
         <ab type="quotation">
-          <seg><add>[Biographical and literary notice occupying three columns.]</add>
-            <lb/>Chaucer (Godefroy), célèbre poëte anglais, né en 1328, mort
+          <seg type="editorial">[Biographical and literary notice occupying three columns.]</seg>
+          
+          <seg>Chaucer (Godefroy), célèbre poëte anglais, né en 1328, mort
             le 25 octobre 1400. On manque complètement de détails au
             sujet de sa famille; les uns ont cru qu’il était le fils d’un
             tavernier, d’autres le regardent comme issu de parents
-            nobles. <add>[Then follow the ordinary details of his life, based
-            on the <hi rend="italic">Testament of Love</hi>. <hi rend="italic">The Canterbury Tales</hi> are next
-            described.]</add> Les sujets graves et plaisants sont entremélés
+            nobles.</seg>
+          
+          <seg type="editorial">[Then follow the ordinary details of his life, based on the <hi rend="italic">Testament of Love</hi>. <hi rend="italic">The Canterbury Tales</hi> are next described.]</seg>
+            
+          <seg>Les sujets graves et plaisants sont entremélés
             avec art. . . . Le style naïf du moyen âge prête à ces contes
             un charme particulier, ils font les délices des Anglais, qui y
             trouvent une foule de détails curieux sur les mœurs de leurs
             ancêtres. Ils ont moins d’intérêt pour les étrangers, qui
             seraient souvent rebutés de leur longueur; aucune traduction
-            ne saurait d’ailleurs en donner une idée exacte. <add>[Stothard’s
-            picture of the pilgrims is mentioned, and is followed by a
-            list of Chaucer's works.]</add> . . . Observateur judicieux, Chaucer
+            ne saurait d’ailleurs en donner une idée exacte.</seg>
+          
+          <seg type="editorial">[Stothard’s picture of the pilgrims is mentioned, and is followed by a list of Chaucer's works.]</seg>
+            
+          <seg>. . . Observateur judicieux, Chaucer
             n’a en vue que des réalités; poète essentiellement pittoresque
             et dramatique, il décrit d’une façon aussi vive que naturelle;
             ses personnages sont peints d’après nature, et caractérisés

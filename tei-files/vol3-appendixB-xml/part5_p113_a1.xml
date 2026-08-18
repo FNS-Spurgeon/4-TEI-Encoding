@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p113_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p113_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +73,7 @@
         <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#wantSublimitySeriousness"/>
         <catRef scheme="#works" target="#frameOrder"/>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -102,10 +100,9 @@
             n’ait senti l’attrait du vieux livre dans leurs citations et à
             travers leurs analyses. Or c’est un indice curieux (et inquiétant
             aussi) de notre tournure d’esprit que le manque persistant
-            d’une version accessible de ces <hi rend="italic">Contes</hi> si bien loués.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            d’une version accessible de ces <hi rend="italic">Contes</hi> si bien loués.
+            <lb/>. . . . . . . . . .</seg>
+                        
           <seg><note place="margin">[p. x]</note> Les <hi rend="italic">Contes de Canterbury</hi> sont donc restés pour la France
             un de ces chefs d’œuvre qu’on salue de très loin et qu’on
             
@@ -138,20 +135,18 @@
             temps auprès de lui, passer mieux préparés aux autres grands
             poètes anglais, vrais indigènes ceux-là et parfois très étrangers
             à notre esprit, mais qui ont tous été à quelque degré ses
-            élèves, et tous ont salué en lui le maître et le père.</seg>
-            
-          <lb/>. . . . . . . . .
-            
+            élèves, et tous ont salué en lui le maître et le père.
+            <lb/>. . . . . . . . .</seg>
+                        
           <seg><note place="margin">[p. xviii]</note> La galerie des portraits qui mène aux contes est la seule
             partie de l’édifice qui ait été achevée définitivement, ou
             presque définitivement. Les vingt-neuf compagnons de
             route de Chaucer y figurent fixés en des traits et des couleurs
             que les années n’ont fait, semble-t-il, qu’aviver. . . .</seg>
             
-          <seg>Ils sont là une trentaine appartenant aux professions les plus dissemblables.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+          <seg>Ils sont là une trentaine appartenant aux professions les plus dissemblables.
+            <lb/>. . . . . . . . . .</seg>
+                        
           <seg><note place="margin">[p. xix]</note>Nul doute que Chaucer, en quête de conteurs distincts, ne
             se soit d’abord avisé de cette différenciation la plus facile et la
             plus nette qui consiste dans le contraste des professions.
@@ -195,7 +190,7 @@
             confusion où l’esprit s’égare faute de points de repère.
             <lb/>La vraisemblance est d’autant mieux obtenue que nulle
             trace d’effort ou de composition ne se révèle :
-            <lb/>Ses nonchalances sont ses plus grands artifices.
+            <l>Ses nonchalances sont ses plus grands artifices.</l>
             <lb/>Les détails semblent se succéder au petit bonheur : les
             traite de costume ou d’équipement alternent avec les notations
             de caractère ou de moralité. Cela paraît à peine trié et
@@ -212,19 +207,17 @@
             monotone dont le plus rude artiste ne se contenterait pas
             aujourd’hui. Un à un, en des cadres rangés à égale distance l’un
             de l’autre, placés sur le même plan, et tous à la même hauteur,
-            ils nous regardent tous de face. . . .</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            ils nous regardent tous de face. . . .
+            <lb/>. . . . . . . . . .</seg>
+                        
           <seg><note place="margin">[p. xxii]</note> Chaucer a donc pu rivaliser avec le peintre. . . . Mais le
             poète a des ressources refusées au peintre ; il dispose des sons
             comme des couleurs. Chaucer use de cet avantage avec un
             égal bonheur. Il nous fait entendre les grelots qui, à la
             bride du beau cheval brun monté par le Moine, tintent au
             vent siffleur 'aussi clair et aussi fort que la cloche d’une
-            chapelle.'</seg>
-            
-          <lb/>. . . . . . . . . .
+            chapelle.'
+            <lb/>. . . . . . . . . .</seg>
             
           <seg>Mieux encore, ces portraits achevés, Chaucer s’est avisé
             de les faire descendre de leur cadre. Il ne passe pas du
@@ -232,18 +225,16 @@
             les épilogues particuliers ramènent sans cesse l’attention des
             contes aux pèlerins qui les disent ou les écoutent, et soulignent
             le dessein du poète : faire de chacun de ces récits l’expression
-            naturelle et vraisemblable de tel ou tel individu.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            naturelle et vraisemblable de tel ou tel individu.
+            <lb/>. . . . . . . . . .</seg>
+          
           <seg>A pèlerins divers de costume et de caractère il prêta des
             contes différents de fond et de forme. Son poème est une
             sorte d’Arche de Noé où des spécimens de tous les genres
             littéraires alors existants ont trouvé place, chacun y gardant
             la singularité de sa physionomie. La prose, les distiques, les
-            stances, se succèdent et se croisent.</seg>
-            
-          <lb/>. . . . . . . . . .
+            stances, se succèdent et se croisent.
+            <lb/>. . . . . . . . . .</seg>
             
           <seg><note place="margin">[p. xxiv]</note> Il fallait encore—et ce n’était pas le moins difficile de la
             tâche—attribuer à chaque pèlerin celui de ces contes qui
@@ -251,9 +242,8 @@
             l’a fait admirablement où il a eu le temps de le faire, et la
             réussite est telle dans les parties achevées de son poème
             qu’on peut, qu’on doit admettre qu’il y eût triomphé d’un
-            bout à l’autre s’il avait mené l’œuvre à sa conclusion. . . .</seg>
-          
-          <lb/>. . . . . . . . . .
+            bout à l’autre s’il avait mené l’œuvre à sa conclusion. . . .
+            <lb/>. . . . . . . . . .</seg>
             
           <seg>[p. xxv] Certes le conte n’est plus toujours, dans l’abstrait, si bon,
             si rapide, si lestement et habilement tourné qu’il pourrait
@@ -272,9 +262,8 @@
             vers agiles du poète français. D’ailleurs ce conte n’est ici
             que parcelle—la moins importante et savoureuse—de cette
             immense confession que nous fait la Bourgeoise. Du rôle
-            principal il a passé à celui d’accessoire.</seg>
-            
-          <lb/>. . . . . . . . . .
+            principal il a passé à celui d’accessoire.
+            <lb/>. . . . . . . . . .</seg>
             
           <seg><note place="margin">[p. xxviii]</note> Enfin, dernier pas, Chaucer va jusqu’à nous offrir des
             histoires dont il nous permet de nous moquer, si même il ne
@@ -304,7 +293,7 @@
             des contes, au lieu de l’extraire, comme le poète, de leur
             absurdité ou de leur ennui.</seg>
             
-          <seg><lb/>*<lb/>**</seg>
+          <seg>*<lb/>**</seg>
           
           <milestone unit="page" n="118"/>
           
@@ -356,9 +345,8 @@
             <milestone unit="page" n="119"/>
             
             d’une étude de caractère ensemble très approfondie et
-            merveilleusement comique.</seg>
-            
-          <lb/>. . . . . . . . . .
+            merveilleusement comique.
+            <lb/>. . . . . . . . . .</seg>
             
           <seg><note place="margin">[p. xxxii]</note> Sans cesse nous éprouvons en lisant les <hi rend="italic">Contes de Canterbury</hi>,
             surtout les contes plaisants, l’impression que quelque chose
@@ -368,7 +356,7 @@
             s’opère, c’est le théâtre moderne, voire le roman moderne,
             qui donnent leurs premiers signes manifestes d’existence.</seg>
             
-          <seg>Cet Anglais du XIV° siècle, parfois empêtré dans une
+          <seg>Cet Anglais du XIVe siècle, parfois empêtré dans une
             syntaxe enfantine, encore imbu de scolastique, la mémoire
             surchargée de citations et d’autorités bibliques ou profanes,
             ayant sur sa tête un ciel astrologique plus étrange aux regards

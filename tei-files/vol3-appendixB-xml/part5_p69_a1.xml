@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p69_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p69_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -74,7 +72,7 @@
         <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#learning"/>
         <catRef scheme="#works" target="#romauntRose"/>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -89,7 +87,7 @@
         <ab type="imprint">1859. Sandras, E. G. <hi rend="italic">Étude sur Chaucer considéré comme imitateur des Trouvères</hi>, Paris, 1859.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><add>[Table of contents.]</add></seg>
+          <seg type="editorial">[Table of contents.]</seg>
             
           <seg type="editorial">[Introduction, pp. 1-7. 1re Partie. BIOGRAPHIE ET
             POÈMES ALLÉGORIQUES, chap. i, Biographie, pp. 11-29;
@@ -108,10 +106,10 @@
             lui contester sa part d’originalité et son génie. Ce qui m’a
             déterminé à entreprendre ce travail, c’est que la plupart des
             écrivains qui lui ont fourni des matériaux ou des modèles
-            appartiennent à notre pays. . . .</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            appartiennent à notre pays. . . .
+            <lb/>. . . . . . . . . .
+          </seg>
+                      
           <milestone unit="page" n="70"/>
             
           <seg><note place="margin">[p. 3]</note>Ces poésies <add>[all, except the <hi>Canterbury Tales</hi>]</add> ne sont ni des
@@ -122,9 +120,9 @@
             Il choisit, il traduit, il combine. Idées, sentiments,
             descriptions, portraits, situations, tout est de provenance
             étrangère, presque toujours de provenance française. A ce
-            <note place="margin">[p. 4]</note>titre, chacun de ces poëmes est digne de notre attention.</seg>
-            
-          <lb/>. . . . . . . . . .
+            <note place="margin">[p. 4]</note>titre, chacun de ces poëmes est digne de notre attention.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 35]</note>Chaucer . . . dès sa jeunesse, avait fait du Roman de la
             Rose son livre de prédilection. Il en traduisit une partie, et il
@@ -166,9 +164,9 @@
               entre le <hi rend="italic">Roman de Thèbes</hi> et celui de <hi rend="italic">Troie</hi>. Au lieu de nous
               laisser aller aux conjectures, il est plus sage de former des
               vœux pour la découverte d’un texte qui nous dise que cette
-              charmante fiction est née de notre sol.</seg>
-            
-          <lb/>. . . . . . . . . .
+              charmante fiction est née de notre sol.
+              <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 66]</note>. . . L’imagination, dans Chaucer, est toujours l’écho de
             l’érudition. Ce n’est pas dans le spectacle de la nature, dans
@@ -183,20 +181,20 @@
             échappé à mes recherches. . . .</seg>
             
           <seg type="editorial"><note place="margin">[pp. 71-72]</note>[Sandras prints the first lines of the rondeau which is sung
-            by the birds <add>[Parl. of Foules]</add>, 'Qui bien aime a tart oublie,'
+            by the birds <add>[<hi rend="italic">Parl. of Foules</hi>]</add>, 'Qui bien aime a tart oublie,'
             and which he finds at the beginning of one of the two poems
             by Machaut called <hi rend="italic">Le Lay de plour</hi>.]</seg>
             
           <seg><note place="margin">[p. 74]</note>. . . Même en imitant les Italiens, Chaucer s’est rapproché
-            autant que possible de nos trouvères.</seg>
-            
-          <lb/>. . . . . . . . . .
+            autant que possible de nos trouvères.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg type="editorial"><note place="margin">[pp. 81-89]</note>[Chaucer's debt to G. de Machaut in the <hi rend="italic">Dream of Chaucer</hi> (<hi rend="italic">Dit du Lyon</hi>) and to Marie de France (<hi rend="italic">Lai d'Eliduc</hi>).]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 89-95]</note>[His debt to the Roman de la Rose, to Machaut, and to Froissart in the <hi rend="italic">Boke of the Duchesse</hi>.]</seg>
-            
-          <lb/>. . . . . . . . . .
+          <seg type="editorial"><note place="margin">[pp. 89-95]</note>[His debt to the <hi rend="italic">Roman de la Rose</hi>, to Machaut, and to Froissart in the <hi rend="italic">Boke of the Duchesse</hi>.]
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 111]</note>Chaucer, par certains côtés, touche à la renaissance; il
             domine les préjugés de son époque; par d’autres, il reste un
@@ -239,11 +237,11 @@
             <note place="margin">[p. 132]</note>Des poëtes français que Chaucer a mis à contribution, il n’a
             nommé que celui auquel il doit le moins, et qui avait le moins
             à lui prêter, Gransson, gentilhomme qu’il connut à la cour de
-            Richard II.</seg>
+            Richard II.
+            <lb/>. . . . . . . . . .
+          </seg>
             
-           <lb/>. . . . . . . . . .
-            
-           <seg><hi rend="italic">[p. 135]</hi>2° Partie. Pèlerinage de Canterbury. L’idée d’encadrer
+          <seg><note place="margin">[p. 135]</note>2° Partie. <hi rend="italic">Pèlerinage de Canterbury</hi>. L’idée d’encadrer
             plusieurs histoires dans une narration, nous est venue
             d’Orient; elle a étè popularisée en Europe longtemps avant
             Chaucer par Pierre d’Alphonse, juif converti, auteur de la
@@ -253,11 +251,11 @@
             que le Décaméron, inconnu peut-être à Geoffrey. Mais le
             poëte anglais est supérieur à ses devanciers, y compris
             Boccace, par la fable, qui a un dénouement, et par la diversité
-            des personnages qui entraine celle des histoires.</seg>
-          
-           <lb/>. . . . . . . . . .
+            des personnages qui entraine celle des histoires.
+            <lb/>. . . . . . . . . .
+          </seg>
             
-           <seg><note place="margin">[p. 138]</note>C’est sur ce sujet <add>[the Canterbury Pilgrimage]</add>, que le
+          <seg><note place="margin">[p. 138]</note>C’est sur ce sujet <add>[the Canterbury Pilgrimage]</add>, que le
             vieux Geoffrey a composé dans une langue claire, riche,
             harmonieuse, une ample comédie qui le place entre Aristophane
             et Molière. Peintre, moraliste, poëte, il embrasse dans son
@@ -295,14 +293,16 @@
            <seg><note place="margin">[p. 197]</note>Le résultat de ces investigations laborieuses <add>[de plusieurs
             écrivains]</add> a été de constater que le poëte anglais ne doit
             rien au Décaméron, et qu’il a puisé, comme Boccace, à des
-            sources françaises. <add>[This point is dealt with in detail.
+            sources françaises.</seg>
+          
+          <seg type="editorial">[This point is dealt with in detail.
             (1) Legends, The Prioresses Tale, seconde Nonnes T. (Jacques
             de Voragine), Man of Lawes T. ; (2) Breton lays, Clerkes T.
             W. of Bathes T., Franklin's T.; (3) fabliaux, Phisiciens T.
             (of Jean de Meung), Maniciples T. (influence of Machault
             and Jean de Meung) Somnores T., (fabliau of Jacques de
             Baisieux), Milleres T., Marchantes T. (Latin fabliau), Nonne
-            Preestes T. (Roman du Renard).]</add></seg>
+            Preestes T. (Roman du Renard).]</seg>
             
            <seg><note place="margin">[p. 253]</note>Conclusion de la 2° partie. . . . Quelle est la part
             d’invention qui revient à Chaucer, 1° dans la fable: 2° dans les
@@ -342,8 +342,8 @@
               en vogue par G. de Lorris; dans le Pèlerinage de Canterbury,
               l’élément qui domine, c’est la satire, et les traits en
               sont dirigés contre les mêmes objets qu’avait attaqués la
-              verve érudite et impitoyable de Jean de Meung.
-              <note type="footnote">Note in Spurgeon: [For critical reviews of Sandras's book, see Adolf Ebert's, of 1861, translated in <hi rend="italic">Essays on Chaucer</hi>, Chaucer Society, 1869 ; F. J. Furnivall, <hi rend="italic">Trial Forewords to Chaucer's Minor Poems</hi>, 1871, pp. 45-53, and Athenæum, Aug. 3, 1872, p. 147.]</note></seg>
+              verve érudite et impitoyable de Jean de Meung.<note type="footnote">Note in Spurgeon: [For critical reviews of Sandras's book, see Adolf Ebert's, of 1861, translated in <hi rend="italic">Essays on Chaucer</hi>, Chaucer Society, 1869 ; F. J. Furnivall, <hi rend="italic">Trial Forewords to Chaucer's Minor Poems</hi>, 1871, pp. 45-53, and Athenæum, Aug. 3, 1872, p. 147.]</note>
+            </seg>
         </ab>
       </div>
     </body>

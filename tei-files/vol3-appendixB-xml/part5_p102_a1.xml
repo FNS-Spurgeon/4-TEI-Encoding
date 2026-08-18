@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p102_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p102_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,19 +85,19 @@
         <ab type="imprint">1895. Morel, Léon. [Short study on the work of Chaucer in] <hi rend="italic">James Thomson, sa vie et ses œuvres</hi>, 2me partie, pp. 214-19.</ab>
         
         <ab type="quotation">
-          <seg><add>[The author briefly recalls what importance the love of
-            nature has had in the history of English literature.]</add>. . .
-            <note place="margin">[p. 213]</note> Pour savoir quel rôle a joué le monde des choses dans la
+          <seg type="editorial">[The author briefly recalls what importance the love of
+            nature has had in the history of English literature.]. . .</seg>
+          
+          <seg><note place="margin">[p. 213]</note> Pour savoir quel rôle a joué le monde des choses dans la
             littérature anglaise, nous consulterons donc seulement les
             plus grands parmi les maîtres. . . .</seg>
           
           <seg><note place="margin">[p. 214]</note> Geoffrey Chaucer.—Le sentiment de la nature se montre,
             très vif et très précis, chez le plus vieux des grands poètes de
             l’Angleterre, chez ce Chaucer dont l’œuvre clôt une longue
-            période littéraire et ouvre l’ère moderne de la poésie. . . .</seg>
-          
-          <lb/>. . . . . . . . . . .
-            
+            période littéraire et ouvre l’ère moderne de la poésie. . . .
+            <lb/>. . . . . . . . . . .</seg>
+                      
           <seg><note place="margin">[p. 215]</note> Le mème don de sympathie vibrante et de précision dans
             l’observation, qui lui permet de comprendre les hommes au
             milieu desquels il vit et de les faire passer dans ses poèmes

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p76_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p76_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,12 +88,12 @@
             <list>
               <item>I. En quoi Chaucer est du moyen âge: poèmes d’imagination.</item>
               <item>II. En quoi Chaucer est du moyen âge : poèmes d’amour.</item>
-              <item>III. En quoi Chaucer est Français: poèmes satiriques et gaillards.</item>
+              <item>III. En quoi Chaucer est Français : poèmes satiriques et gaillards.</item>
               <item>IV. En quoi Chaucer est Anglais et original : ses portraits et son style.</item>
             </list>
           </seg>
           
-          <seg type="editorial">Recast in the <hi rend="italic">Histoire de la littérature anglaise</hi>, tome i, 1863, see below.</seg>
+          <seg type="editorial">[Recast in the <hi rend="italic">Histoire de la littérature anglaise</hi>, tome i, 1863, see below.]</seg>
         </ab>
       </div>
     </body>

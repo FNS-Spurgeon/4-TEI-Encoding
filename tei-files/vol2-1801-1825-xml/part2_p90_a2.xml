@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/66508882">John Keats</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/66508882">Keats, John</author>
             <date cert="high" when="1817">1817</date>
             <title level="a">Motto [at the head of] Sleep and Poetry.</title>
           </analytic>
@@ -84,13 +84,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="90"/>
-        <ab type="imprint">1817. Keats, John. Motto [at the head of] Sleep and Poetry. (Complete Works of John Keats, ed. H. Buxton Forman, 1900-1, 5 vols.vol i, p. 51.)</ab>
+        
+        <ab type="imprint">1817. Keats, John. <hi rend="italic">Motto</hi> [at the head of] <hi rend="italic">Sleep and Poetry</hi>. (Complete Works of John Keats, ed. H. Buxton Forman, 1900-1, 5 vols.vol i, p. 51.)</ab>
+        
         <ab type="quotation">
-          <seg>"As I lay in my bed slepe full unmete
-[to]
-Than I, for I n'ad sickness nor disese."
-Chaucer.</seg>
-          <note type="footnote">Note in Spurgeon: [This is from the non-Chaucerian poem, the Flower and the Leaf, ll. 17-21.]</note>
+          <seg>
+            <lg>
+              <l>"As I lay in my bed slepe full unmete</l>
+              <add>[to]</add>
+              <l>Than I, for I n'ad sickness nor disese."</l>
+            </lg>
+            Chaucer.<note type="footnote">Note in Spurgeon: [This is from the non-Chaucerian poem, the Flower and the Leaf, ll. 17-21.]</note>
+          </seg>
         </ab>
       </div>
     </body>

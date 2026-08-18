@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p74_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p74_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,7 +32,7 @@
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/19701318">Le Clerc, Joseph-Victor</author>
             <date cert="high" when="1862">1862</date>
-            <title level="a">Histoire littéraire de la France, ouvrage commencé par des religieux bénédictins de la congrégation de St. Maur et continué par des membres de l’Institut (Académie des Inscriptions et Belles-lettres),</title>
+            <title level="a">Histoire littéraire de la France, ouvrage commencé par des religieux bénédictins de la congrégation de St. Maur et continué par des membres de l’Institut (Académie des Inscriptions et Belles-lettres).</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -91,13 +89,15 @@
             
           <milestone unit="page" n="75"/>
             
-          <seg type="editorial"><note place="margin">[pp. 400-401]</note>[Chaucer's prioress, and the French which she speaks.]</seg>
+          <seg type="editorial">
+            <note place="margin">[pp. 400-401]</note>[Chaucer's prioress, and the French which she speaks.]
+            <lb/>. . . . . . . . . . .
+          </seg>
             
-          <lb/>. . . . . . . . . . .
-            
-          <seg type="editorial"><note place="margin">[pp. 500-501]</note>[Chaucer satirises chivalry in <hi rend="italic">Sir Thopas</hi>.]</seg>
-            
-          <lb/>. . . . . . . . . . .
+          <seg type="editorial">
+            <note place="margin">[pp. 500-501]</note>[Chaucer satirises chivalry in <hi rend="italic">Sir Thopas</hi>.]
+            <lb/>. . . . . . . . . . .
+          </seg>
           
           <seg><note place="margin">[p. 505]</note>De ces traductions sans nom, ou qui portent des noms peu
             connus, il est temps d’arriver à quelques noms célèbres.

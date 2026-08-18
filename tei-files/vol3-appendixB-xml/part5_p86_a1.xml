@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p86_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p86_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,13 +88,17 @@
             Charles V ou de son fils des négociateurs anglais. Ce fut
             ainsi que le poète Chaucer vint en France au commencement
             de l’année 1377, chargé d’une mission diplomatique. Des
-            Champs dut le voir à cette époque . . . <add>[Deschamps' ballad
-            to Chaucer is quoted]</add>. . . . G. Chaucer n’a écrit qu’en
+            Champs dut le voir à cette époque . . .</seg>
+            
+          <seg type="editorial">[Deschamps' ballad to Chaucer is quoted]</seg>
+            
+          <seg>. . . . G. Chaucer n’a écrit qu’en
             anglais ; mais son ami et son émule Jean Gower a écrit
             en français. . . . Il est curieux de retrouver de l’autre
             côté de la Manche, toute la poétique en usage alors chez
-            nous. . . . <add>[Relations between the work of Machaut,
-            Froissart and Chaucer]</add>.</seg>
+            nous. . . .</seg>
+          
+          <seg type="editorial">[Relations between the work of Machaut, Froissart and Chaucer].</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n.b. 1811], Unknown.. Chaucer's Canterbury Tales, with the Tales of Gamelyn and Beryn, modernized</title>
+        <title>[n.b. 1811], Unknown. Chaucer's Canterbury Tales, with the Tales of Gamelyn and Beryn.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,8 +37,8 @@
         <biblStruct>
           <analytic>
             <author>Unknown.</author>
-            <date cert="low" when="[n.b. 1811]">[n.b. 1811]</date>
-            <title level="a">Chaucer's Canterbury Tales, with the Tales of Gamelyn and Beryn, modernized</title>
+            <date cert="low" notBefore="1811">[n.b. 1811]</date>
+            <title level="a">Chaucer's Canterbury Tales, with the Tales of Gamelyn and Beryn.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,17 +86,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="56"/>
-        <ab type="imprint">[n.b. 1811.] Unknown. Chaucer's Canterbury Tales, with the Tales of Gamelyn and Beryn, modernized (unpublished).</ab>
+        
+        <ab type="imprint">[n.b. 1811.] Unknown. <hi rend="italic">Chaucer's Canterbury Tales, with the Tales of Gamelyn and Beryn, modernized</hi> (unpublished).</ab>
+        
         <ab type="quotation">
-          <seg>[Specimen from the Prioresses Tale:]
-Among these children was a widow's son,
-A little sprout of clerkship, seven years old,
-Whose daily joy it was to school to run;
-And if he chanced an image to behold
-Of Christ's blest mother, as he had been told
-He ought, he never failed to kneel and say
-An Ave Maria as he past the way.</seg>
-          <note type="footnote">Note in Spurgeon: [Vol. ii of the MS. of this modernization came into the possession of Prof. Dowden in 1880. Dr. Furnivall wrote to the Academy (q. v. below, 1880) to inquire if anything was known of the author or of vol. i, but, as far as is known, without result. The watermark of the paper is dated 1811.]</note>
+          <seg type="editorial">[Specimen from the <hi rend="italic">Prioresses</hi> Tale:]</seg>
+            
+          <seg>
+            <lg>
+              <l>Among these children was a widow's son,</l>
+              <l>A little sprout of clerkship, seven years old,</l>
+              <l>Whose daily joy it was to school to run;</l>
+              <l>And if he chanced an image to behold</l>
+              <l>Of Christ's blest mother, as he had been told</l>
+              <l>He ought, he never failed to kneel and say</l>
+              <l>An Ave Maria as he past the way.<note type="footnote">Note in Spurgeon: [Vol. ii of the MS. of this modernization came into the possession of Prof. Dowden in 1880. Dr. Furnivall wrote to the Academy (q. v. below, 1880) to inquire if anything was known of the author or of vol. i, but, as far as is known, without result. The watermark of the paper is dated 1811.]</note></l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p48_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p48_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,10 +82,10 @@
         <ab type="imprint">1834. La Rue, Gervais de. <hi rend="italic">Essais Historiques sur les Bardes, les jongleurs et les trouvères</hi> . . . 3 tomes, Caen, 1834, tome i, pp. 11, 54, 187-8, tome iii, pp. 267, 270, 271.</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[p. 267]</note><add>[Jean Gower.]</add> Le poète Chaucer l’appelait le moraliste Gower.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+          <seg><note place="margin">[p. 267]</note><add>[Jean Gower.]</add> Le poète Chaucer l’appelait le moraliste Gower.
+            <lb/>. . . . . . . . . .
+          </seg>
+                      
           <seg><note place="margin">[pp. 270-271]</note><add>[Froissart lived for a long time in England]</add> . . . à la
             même époque brillaient dans ce même royaume les poètes
             Gower et Chaucer, et il est impossible de ne pas croire que

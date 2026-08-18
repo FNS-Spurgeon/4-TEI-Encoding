@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p63_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p63_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +30,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/19701318">[Le Clerc, Joseph-Victor]</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/19701318">Le Clerc, Joseph-Victor</author>
             <date cert="high" when="1856">1856</date>
             <title level="a">Histoire littéraire de la France, ouvrage commencé par des religieux bénédictins, de la congrégation de St Maur, et continué par des Membres de l’Institut.</title>
           </analytic>
@@ -92,26 +90,28 @@
             une grande célébrité, qui se maintint et s’accrut encore dans
             le siècle suivant. Pétrarque en Italie et Chaucer en Angleterre
             eurent de l’estime pour ce poëme; Chaucer même voulut
-            le traduire, et il reste sept mille cent vers de sa traduction.</seg>
+            le traduire, et il reste sept mille cent vers de sa traduction.
+            <lb/>. . . . . . . . . .</seg>
           
-          <lb/>. . . . . . . . . .
-            
           <seg><note place="margin">[p. 77]</note><add>[In the study of the Fabliaux]</add> . . . Il devait y avoir,
             outre le conte de la <hi rend="italic">Male vieille</hi> qui en fait partie, un fabliau
             français de Dame Siriz dont il reste une traduction anglaise,
             la plus ancienne des narrations anglaises de ce genre, et qui
             a précédé les imitations de Chaucer, c’est le quatorzième
-            chapitre de Pierre d’Alphonse. . . .</seg>
-            
-          <lb/>. . . . . . . . .
+            chapitre de Pierre d’Alphonse. . . .
+            <lb/>. . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 83]</note>. . . Le psautier, que La Fontaine emprunte de Boccace,
             a pour origine, outre les <hi rend="italic">Braies du Cordelier</hi>, un épisode du
             <hi rend="italic">Renart Contrefait</hi>, terminé vers 1320, trente trois ans avant
-            le <hi rend="italic">Décaméron</hi>. . . . <add>[The Italians borrowed a good deal
+            le <hi rend="italic">Décaméron</hi>. . . .</seg>
+          
+          <seg type="editorial">[The Italians borrowed a good deal
             from the Latin fabliaux, and there are many reminiscences
-            of their French origin in the Italian novels.]</add> Si les Italiens
-            se sont attribué en ce genre une fécondité inventive qui ne
+            of their French origin in the Italian novels.]</seg>
+            
+          <seg>Si les Italiens se sont attribué en ce genre une fécondité inventive qui ne
             leur appartient pas, la critique anglaise ne s’est pas moins
             fourvoyée. Elle savait d’une manière générale que l’auteur
             des <hi rend="italic">Contes de Canterbury</hi> avait imité les fabliaux français;
@@ -120,9 +120,8 @@
             Meunier de Trumpington, changé heureusement quelques
             détails d’une nouvelle de Boccace, qui passait pour
             l’inventeur : tout le mérite de Chaucer est d’avoir fidèlement
-            transcrit l’ancien fabliau.</seg>
-            
-          <lb/>. . . . . . . . . .
+            transcrit l’ancien fabliau.
+            <lb/>. . . . . . . . . .</seg>
              
           <seg><note place="margin">[p. 143]</note>Au XIVe siècle, le poëte anglais Chaucer, qui a tant imité
             nos rimeurs français, leur emprunta ce conte <add>[de <hi rend="italic">Gombert et
@@ -133,9 +132,9 @@
             Chaucer, qui, dans son imitation, avait su ajouter, disait-on,
             d’heureuses circonstances au récit de Boccace. Nous savons
             aujourd’hui que tout ce mérite d’inventeur qu’on lui attribuait
-            consiste à avoir fort bien copié notre fabliau.</seg>
-            
-          <lb/>. . . . . . . .
+            consiste à avoir fort bien copié notre fabliau.
+            <lb/>. . . . . . . .
+          </seg>
             
           <milestone unit="page" n="65"/>
             
@@ -145,9 +144,9 @@
             Chicheface dont la maigreur prouve que les femmes ont eu
             soin de ne pas lui donner l’occasion de se mieux nourrir.
             Chaucer parle de celle-ci dans la copie qu’il a faite de la
-            <hi rend="italic">Grisélidis</hi> latine de Pétrarque.</seg>
-            
-          <lb/>. . . . . . . . . .
+            <hi rend="italic">Grisélidis</hi> latine de Pétrarque.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p 503]</note>. . . En Angleterre, où le poète Chaucer fait succéder sans
             pitié à toute la splendeur de la vieille chevalerie le ridicule

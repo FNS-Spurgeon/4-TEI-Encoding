@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p89_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p89_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,35 +89,35 @@
             sur les lèvres de sa Prieure, et qui est resté proverbial.
             Enfin, en 1404, deux envoyés anglais en France, dont l’un
             est Sir Thomas Swynford, le neveu de la femme de Chaucer,
-            déclarent 'ne pas plus savoir le français que l’hébreu.'</seg>
-            
-          <lb/>. . . . . . . . . . .
-            
+            déclarent 'ne pas plus savoir le français que l’hébreu.'
+            <lb/>. . . . . . . . . . .
+          </seg>
+          
           <seg><note place="margin">[p. 52]</note>Vie de Chaucer. . . . Voici Chaucer, synthèse vivante des
             deux races, greffée sur une puissante originalité poétique. Il
             est à la fois Anglais et Normand, et, en outre, il est lui-même.
             . . . On s’accorde généralement à croire que Geoffrey
-            Chaucer naquit en 1328 <add>[reprinted in the edn. of 1896]</add>. . . .</seg>
-            
-          <lb/>. . . . . . . . . . .
+            Chaucer naquit en 1328 <add>[reprinted in the edn. of 1896]</add>. . . .
+            <lb/>. . . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 53]</note>Les lettrés et les poètes de l’époque le considéraient
             comme leur chef et leur maître. Sa renommée avait passé
             le détroit, comme le prouve cette dédicace d’un poète français
             <add>[E. Deschamps]</add>, qui lui offrit ses vers :
-            <l>'Grant translateur, noble Geoffroy Chaucer.'</l></seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            <l>'Grant translateur, noble Geoffroy Chaucer.'</l>
+            . . . . . . . . . .
+          </seg>
+          
           <seg>Chaucer mourut en 1400, dans une petite maison qui
             dépendait de Westminster, et, tout naturellement, on
             l’enterra dans l’abbaye. Cette sépulture fit précédent, et créa
             une tradition. Chaucer est le plus ancien habitant du Poet’s
-            corner. . . .</seg>
-            
-          <lb/>. . . . . . . . . . .
-            
-          <seg>[p. 54] Œuvres diverses de Chaucer. On ne peut déterminer la
+            corner. . . .
+            <lb/>. . . . . . . . . . .
+          </seg>
+                        
+          <seg><note place="margin">[p. 54]</note>Œuvres diverses de Chaucer. On ne peut déterminer la
             
             <milestone unit="page" n="90"/>
             
@@ -131,8 +129,8 @@
             l’influence romane et gothique, dans la seconde ceux qui
             offrent déjà le reflet de la Renaissance italienne. .</seg>
             
-          <seg type="editorial">[The Court of Love, Flower and Leaf, and Cuckoo and
-            Nightingale are mentioned among his works.]</seg>
+          <seg type="editorial">[The <hi rend="italic">Court of Love</hi>, <hi rend="italic">Flower and Leaf</hi>, and <hi rend="italic">Cuckoo and
+            Nightingale</hi> are mentioned among his works.]</seg>
             
           <seg><note place="margin">[p. 55]</note>Pope n’a pas dédaigné d’imiter <hi rend="italic">The House of Fame</hi>, et n’a
             pas réussi à l’égaler. Chaucer entendait le mot fame dans le

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1812, Geoffrey Chaucer. The Prologue and Characters of Chaucer's Pilgrims, selected from his Canterbury Tales;</title>
+        <title>1812, Geoffrey Chaucer. The Prologue and Characters of Chaucer's Pilgrims, selected from his Canterbury Tales.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
             <date cert="high" when="1812">1812</date>
-            <title level="a">The Prologue and Characters of Chaucer's Pilgrims, selected from his Canterbury Tales;</title>
+            <title level="a">The Prologue and Characters of Chaucer's Pilgrims, selected from his Canterbury Tales.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#illustrations" target="#"/>
+        <catRef scheme="#illustrations" target="#blake"/>
         <catRef scheme="#modernizations" target="#anonymous"/>
         <catRef scheme="#works" target="#prologue"/>
       </textClass>
@@ -88,7 +88,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="56"/>
-        <ab type="imprint">1812. Chaucer, Geoffrey. The Prologue and Characters of Chaucer's Pilgrims, selected from his Canterbury Tales; intended to illustrate a particular design of Mr. William Blake, which is engraved by himself, and may be seen at Mr. Colnaghi's.</ab>
+        
+        <ab type="imprint">1812. The Prologue and Characters of Chaucer's Pilgrims, selected from his Canterbury Tales; intended to illustrate a particular design of Mr. William Blake, which is engraved by himself, and may be seen at Mr. Colnaghi's.<note type="footnote">Note in Spurgeon: [Text from Speght, 1687; translation from Ogle, 1741, pp. iv, 61.]</note></ab>
       </div>
     </body>
   </text>

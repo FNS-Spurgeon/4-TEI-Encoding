@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1817, Unknown.. Life of Robert, Hermit of Knaresborough,</title>
+        <title>1817, Unknown. Life of Robert, Hermit of Knaresborough.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author>Unknown.</author>
+            <author>Unknown</author>
             <date cert="high" when="1817">1817</date>
-            <title level="a">Life of Robert, Hermit of Knaresborough,</title>
+            <title level="a">Life of Robert, Hermit of Knaresborough.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,28 +84,37 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="92"/>
-        <ab type="imprint">1817. Unknown. Life of Robert, Hermit of Knaresborough, [in] The Gentleman’s Magazine, vol. lxxxvii, Dec. 1817, p. 509.</ab>
+        
+        <ab type="imprint">1817. Unknown. <hi rend="italic">Life of Robert, Hermit of Knaresborough</hi>, [in] The Gentleman’s Magazine, vol. lxxxvii, Dec. 1817, p. 509.</ab>
+        
         <ab type="quotation">
           <seg>In Speght’s Life of Chaucer, I find ‘Thomas Chaucer (son
-of Geffrey [sic]) Constable of Knaresborough Castle, and the
-Forest of Knaresborough, during life.’ From the style of the
-composition, might not this [the Life of Robert] be the pro¬
-duction of Chaucer? which seems possible, by the following
-extract from the Prologue to the Poem:
-And howe he lyffed in yat cave,
-After the konnynyg yat I have
-Yat treuly whilk I to me toke
-Enformed als I was by a boke
-That was sentt me by a frere
-Fray Sayntt Robert to me here
-After that boke sall I say
-Wott I p[ur]pose for to pray
-To Cryst yat he wald sped my penne
-Yan to say ylk men—Amen
-The probability of the Poet being with his son at Knares¬
-borough, strengthens this conjecture. Speght, in his edition
-of Chaucer, also observes, ‘John Gower, the lawyer and the
-poet, a Yorkshire man borne, was his familiar friend.’</seg>
+            of Geffrey <add>[sic]</add>) Constable of Knaresborough Castle, and the
+            Forest of Knaresborough, during life.’ From the style of the
+            composition, might not this <add>[the Life of Robert]</add> be the
+            production of Chaucer? which seems possible, by the following
+            extract from the <hi rend="italic">Prologue</hi> to the Poem:
+            
+            <milestone unit="page" n="93"/>
+            
+            <lg>
+              <l>And howe he lyffed in yat cave,</l>
+              <l>After the konnynyg yat I have</l>
+              <l>Yat treuly whilk I to me toke</l>
+              <l>Enformed als I was by a boke</l>
+              <l>That was sentt me by a frere</l>
+              <l>Fray Sayntt Robert to me here</l>
+              <l>After that boke sall I say</l>
+              <l>Wott I p<add>[ur]</add>pose for to pray</l>
+              <l>To Cryst yat he wald sped my penne</l>
+              <l>Yan to say ylk men—Amen'</l>
+            </lg>
+            
+            The probability of the Poet being with his son at Knaresborough,
+            strengthens this conjecture. Speght, in his edition
+            of Chaucer, also observes, ‘John Gower, the lawyer and the
+            poet, a Yorkshire man borne, was his familiar friend.’
+          </seg>
         </ab>
       </div>
     </body>

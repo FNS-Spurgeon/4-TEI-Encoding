@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p121_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p121_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -123,7 +121,7 @@
                 Chapitre IV.— Chaucer et l’Italie
                 <list>
                   <item>I. Influence de Dante, Pétrarque et Boccace sur Chaucer.</item>
-                  <item>II. Troïlus et Crisède.</item>
+                  <item>II. <hi rend="italic">Troïlus et Crisède</hi>.</item>
                 </list>
               </item>
               <item>
@@ -133,7 +131,7 @@
                   <item>I. Origine et conception de l’œuvre.</item>
                   <item>II. Le réalisme de Chaucer. Chaucer historien.</item>
                   <item>III. Limites de son impartialité. L’art et la satire.</item>
-                  <item>IV. Sources de ses Contes.</item>
+                  <item>IV. Sources de ses <hi rend="italic">Contes</hi>.</item>
                 </list>
               </item>
               <item>

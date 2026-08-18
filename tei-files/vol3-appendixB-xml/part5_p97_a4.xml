@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p97_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p97_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1894, Jean Jules Jusserand. Histoire littéraire du peuple anglais.</title>
+        <title>1894, Jean-Jules Jusserand. Histoire littéraire du peuple anglais.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -32,7 +30,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jusserand, Jean Jules</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jusserand, Jean-Jules</author>
             <date cert="high" when="1894">1894</date>
             <title level="a">Histoire littéraire du peuple anglais.</title>
           </analytic>
@@ -84,7 +82,7 @@
       <div type="allusion">
         <milestone unit="page" n="97"/>
         
-        <ab type="imprint">1894. Jusserand, J. J. <hi rend="italic">Histoire littéraire du peuple anglais</hi>. Paris, 1894, tom. 1, pp. 124, 165-6, 220, 226, 232, 240, 245, 246 [chap¬ ter ii, CHAUCER], pp. 269-349, pp. 351, 354, 355, 360, 362, 363, 367, 371, 373, 374, 379, 380, 382, 383, 384, 385, 390, 393, 399, 400, 401, 403, 404, 411, 412, 413, 414, 423, 424, 435, 464, 478, 487, 488, 496, 513, 514, 515, 516, 517, 518, 519, 521, 522, 523, 524, 525, 528, 529, 530, 542.</ab>
+        <ab type="imprint">1894. Jusserand, J. J. <hi rend="italic">Histoire littéraire du peuple anglais</hi>. Paris, 1894, tom. 1, pp. 124, 165-6, 220, 226, 232, 240, 245, 246 [chapter ii, CHAUCER], pp. 269-349, pp. 351, 354, 355, 360, 362, 363, 367, 371, 373, 374, 379, 380, 382, 383, 384, 385, 390, 393, 399, 400, 401, 403, 404, 411, 412, 413, 414, 423, 424, 435, 464, 478, 487, 488, 496, 513, 514, 515, 516, 517, 518, 519, 521, 522, 523, 524, 525, 528, 529, 530, 542.</ab>
         
         <ab type="quotation">
           <seg type="editorial">[pp. 269-349, a lengthy sketch of Chaucer's life and
@@ -148,9 +146,9 @@
             souffre à l’idée des sentiers boueux que son pauvre curé suit
             l’hiver pour aller, par la pluie, visiter une chaumière
             lointaine ; la sympathie est large chez le poète ; il aime, comme
-            il déteste, de tout cœur. . . .</seg>
-            
-          <lb/>. . . . . . . . . .
+            il déteste, de tout cœur. . . .
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 340]</note> Ce bon sens, qui a fait donner aux contes de Cantorbéry
             un agencement si conforme à la raison et à la nature, est une
@@ -210,10 +208,10 @@
             Mais Chaucer n’était pas de ceux qui, comme dit Milton,
             ferment les grilles de leur parc pour empêcher les corneilles
             de s’en aller. Il s’est servi du langage national, tel qu’il
-            existait de son temps.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            existait de son temps.
+            <lb/>. . . . . . . . . .
+          </seg>
+           
           <seg><note place="margin">[p. 345]</note> Le même bon sens optimiste et tranquille qui lui a fait
             adopter la langue de son pays et la versification usuelle, qui
             l’a empêché de réagir avec excès contre les idées reçues, l’a

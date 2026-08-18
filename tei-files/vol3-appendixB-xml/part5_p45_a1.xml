@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p45_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p45_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,9 +69,9 @@
         <language ident="fr">French</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#general"/>
-        <catRef scheme="#works" target="#criticism"/>
         <catRef scheme="#biography" target="#diplomatic"/>
+        <catRef scheme="#criticism" target="#general"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -101,11 +99,11 @@
             ou pour la langue ou pour la bienséance. Il a de plus
             <note place="margin">[p. 207]</note>beaucoup écrit; et j’avoue qu’embarrassé souvent par son
             vieux style, ses idiotismes, ses allusions, je ne l’ai pas lu tout
-            entier. <add>[A short notice follows of the life of Chaucer and
-            of his assumed meeting with Petrarch.]</add></seg>
+            entier.</seg>
             
-          <lb/>. . . . . . . . . .
-            
+          <seg type="editorial">[A short notice follows of the life of Chaucer and of his assumed meeting with Petrarch.]
+            <lb/>. . . . . . . . . .</seg>
+          
           <seg>Ainsi c’est un homme du Nord qui vient puiser à la belle
             civilisation du Midi. Ce n’est plus l’esprit natif de la vieille
             <note place="margin">[p. 208]</note>Angleterre, plus ou moins mélangé d’esprit normand; c’est
@@ -123,14 +121,14 @@
             Il imite nos fabliaux et les chants amoureux des Troubadours.
             Mais il a son caractère propre de liberté politique et religieuse;
             et son imagination savante est nourrie de fables orientales,
-            comme de réminiscences latines.</seg>
-            
-          <lb/>. . . . . . . . . .
+            comme de réminiscences latines.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg>C’est Chaucer qui marque le premier développement de
             la poésie anglaise. Le français n’est plus pour lui la langue
             de la conquête, mais une langue littéraire. C’est ainsi qu’il
-            a traduit en vers le Roman de la Rose, comme il aurait imité
+            a traduit en vers le <hi rend="italic">Roman de la Rose</hi>, comme il aurait imité
             un ouvrage classique des anciens. Dans cette version, il
             lutte habilement contre le style de ses deux modèles, et
             semble parfois l’emporter, soit que son anglais paraisse moins
@@ -150,7 +148,7 @@
           <seg><note place="margin">[p. 211]</note>La chevalerie même n’est pas épargnée par le bon sens
             épigrammatique de Chaucer. . . .
             <lb/>. . . . . . . . . .
-            Son <hi rend="italic">sir Thopas</hi> est le précurseur de Don Quichotte. Cette
+            <lb/>Son <hi rend="italic">sir Thopas</hi> est le précurseur de Don Quichotte. Cette
             parodie fait partie des <hi rend="italic">Contes de Cantorbéry</hi>, recueil d’historiettes,
             dans le goût du Décaméron, mais écrites en vers, avec
             moins de charme et de poésie que n’en offre la prose de
@@ -182,17 +180,18 @@
             de sages conseils et une excellente morale pour un faiseur de
             contes, parfois licencieux, comme Chaucer. C’est un des
             premiers essais de la prose anglaise. Malheureusement
-            Chaucer est peu piquant, lorsqu’il est moral.</seg>
-            
-          <lb/>. . . . . . . . . .
+            Chaucer est peu piquant, lorsqu’il est moral.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 214]</note>Chaucer est rempli d’allusions plaisantes à ce sujet <add>[French
             as then spoken in England]</add>. Parle-t-il d’une abbesse dans
             le prologue de ses <hi rend="italic">Contes</hi> de Cantorbéry, il la représente
-            ainsi. <add>[Description of the Prioress.]</add></seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            ainsi.</seg>
+          
+          <seg type="editorial">[Description of the Prioress.]
+            <lb/>. . . . . . . . . .</seg>
+                      
           <seg><note place="margin">[p. 215]</note>Le style de Chaucer est en partie formé sur le modèle du
             <hi rend="italic">Roman de la Rose</hi> et de nos meilleurs fabliaux. Non seulement,
             il imite avec art plusieurs tournures de notre langue.
@@ -201,9 +200,9 @@
             par exemple, ce refrain, qui coupe une de ses ballades
             anglaises 'J’ai tout perdu, mon temps et mon labeur.'
             <lb/>Ailleurs il conserve en français les noms de nos personnages
-            allégoriques: Faux-Semblant, Bel-Accueil, etc.</seg>
-           
-          <lb/>. . . . . . . . . .
+            allégoriques: Faux-Semblant, Bel-Accueil, etc.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 227]</note>Ce qu’il y a de sûr, c’est que la vraie poésie anglaise du
             xive et du xve siècle n’a produit, à l’exception de Chaucer, rien de puissant et d’original.</seg>

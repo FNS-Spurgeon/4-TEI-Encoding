@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p62_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p62_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -95,7 +93,7 @@
               <l>Laissez la fleur! . . . Mais conservez la feuille</l>
               <l>En souvenir de moi dans votre portefeuille.</l>
             </lg>
-            <lb/>LE CHEVALIER DE CHATELAIN.
+            LE CHEVALIER DE CHATELAIN.
           </seg>
           
           <seg><lb/>GEFFERY CHAUCER
@@ -125,7 +123,7 @@
             strophes de sept vers dont le mètre est à la fois si original
             et si musicalement agréable.
             <lb/>Si l'on veut savoir le pourquoi de notre prédilection pour
-            The Floure and the Leafe, nous dirons tout uniment que ce
+            <hi rend="italic">The Floure and the Leafe</hi>, nous dirons tout uniment que ce
             sujet nous a rappelé avec bonheur les naïves poësies de
             Clément Marot, qui peut être considéré lui comme le père de
             la poësie française.

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p31_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p31_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,20 +88,20 @@
             in 1757. He writes to Garrick of his plans with regard to
             this history:]</seg>
           
-          <seg>23 août, 1755. . . Je serois aussi très-curieux d’une
+          <seg>23 août, 1755 . . . Je serois aussi très-curieux d’une
             édition de Chaucer, qui ne fût point in-folio.</seg>
             
-          <seg>23 septembre, 1755. J’ai resolu. . . de commencer au
+          <seg>23 septembre, 1755. J’ai resolu . . . de commencer au
             plutôt un ouvrage, en quatre volumes, dont voici le titre:—
             Le Parnasse Anglois, ou Vies des principaux Poëtes qui
             ont illustré la Grande-Bretagne, pour servir à l’Histoire de
-            la Poësie Angloise. . . Enfin, lorsque j’aurai à peu près tout
+            la Poësie Angloise . . . Enfin, lorsque j’aurai à peu près tout
             dit, et de mon mieux, sur mon but en composant cet ouvrage,
             j’ajouterai une première dissertation sur le premier âge de
             vôtre poésie depuis Chaucer jusqu’à la Reine Elizabeth,
-            année 1560. . .</seg>
+            année 1560 . . .</seg>
             
-          <seg>1 nov., 1755. Il me faut aussi, mon très cher. . . un
+          <seg>1 nov., 1755. Il me faut aussi, mon très cher . . . un
             recueil précis de vos réflexions, 1° sur la naissance de vôtre
             poësie, sur l’état de vôtre langue au tems de Chaucer et de
             ses prédécesseurs, et 2° sur le changement qui a pu se faire
@@ -113,8 +111,8 @@
           <seg>28 nov., 1755. Je m’en tiens de bon cœur à ce que vous
             me dites sur Chaucer. J’aurais été bien aise de l’avoir in-
             12mo, ou tout au plus in-8vo; un in-4to, à plus forte raison
-            un in folio, ne seroit nullement de mon goût. . . Souvenez-
-            vous, mon bon ami. . . il me faut absolument des remarques
+            un in folio, ne seroit nullement de mon goût . . . Souvenez-
+            vous, mon bon ami . . . il me faut absolument des remarques
             de vôtre main sur le premier âge de vôtre poësie. . . avec
             une note exacte des poëtes que vous choisirez comme les
             principaux de ce premier âge (depuis Chaucer, ou le premier

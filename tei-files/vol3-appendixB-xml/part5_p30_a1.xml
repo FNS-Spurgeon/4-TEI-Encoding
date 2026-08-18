@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p30_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p30_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
         
         <ab type="quotation">
           <seg><add>[Speaking of the <hi rend="italic">Teseide</hi> of Boccaccio]</add> :—
-            George Chaucher, que l’on a surnommé l’Homere de
+            <lb/>George Chaucher, que l’on a surnommé l’Homere de
             l’Angleterre, l’avoit traduit en vers Anglois dès l’an 1400.
             
             <milestone unit="page" n="31"/>

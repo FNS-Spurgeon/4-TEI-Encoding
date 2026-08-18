@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p35_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p35_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="35"/>
         
-        <ab type="imprint">1775. Unknown. [Article on <hi rend="italic">Chaucer</hi> in the] <hi rend="italic">Journal anglais</hi>, contenant les découvertes dans les sciences, les arts libéraux, etc., No. 1, Oct. 15, 1775, pp. 11-18.<note type="footnote">[This article is mentioned in <hi rend="italic">l’Année Littéraire</hi>, 1775, tome v., p. 279.]</note></ab>
+        <ab type="imprint">1775. Unknown. [Article on <hi rend="italic">Chaucer</hi> in the] <hi rend="italic">Journal anglais</hi>, contenant les découvertes dans les sciences, les arts libéraux, etc., No. 1, Oct. 15, 1775, pp. 11-18.<note type="footnote">Note in Spurgeon: [This article is mentioned in <hi rend="italic">l’Année Littéraire</hi>, 1775, tome v., p. 279.]</note></ab>
         
         <ab type="quotation">
           <seg><add>[A life of Chaucer.]</add> Il paraît que son père était chevalier,
@@ -94,10 +92,12 @@
             Il commença ses études à Cambridge et les continua à
             Oxford. C’est dans cette dernière Université qu’il cultiva
             son goût pour la poésie, dont il avait déjà donné des preuves
-            à Cambridge par sa <hi rend="italic">Cour d’Amour</hi>. . . . <add>[The poet then
-            travelled in France, in Holland and the Low Countries, and
-            at this period composed his imitation of the <hi rend="italic">Roman de la
-            Rose</hi>.]</add> Quand les premiers feux de l’âge commencèrent à se
+            à Cambridge par sa <hi rend="italic">Cour d’Amour</hi>. . . .</seg>
+            
+          <seg type="editorial">[The poet then travelled in France, in Holland and the Low Countries, and
+            at this period composed his imitation of the <hi rend="italic">Roman de la Rose</hi>.]</seg>
+            
+          <seg>Quand les premiers feux de l’âge commencèrent à se
             calmer, il parut regretter cette espèce de vie inappliquée et
             vagabonde. Pour la réparer en quelque sorte, il prit le parti
             de s’en retourner à Londres, et de s’aller ensevelir dans
@@ -107,18 +107,20 @@
             la science, il se faisait remarquer par l’honnêteté de son
             maintien et les grâces de sa personne. Il devint bientôt un
             Courtisan accompli. Il fut fait d’abord Page du Roi, place
-            surtout alors, très honorable. <add>[The author proceeds to
-            enumerate the favours bestowed on Chaucer by different
+            surtout alors, très honorable.</seg>
+          
+          <seg type="editorial">[The author proceeds to enumerate the favours bestowed on Chaucer by different
             monarchs and then (following Cibber) refers to the patronage
-            of the great court ladies. See le <hi rend="italic">Journal Étranger</hi>, 1755,
-            above.]</add></seg>
+            of the great court ladies. See le <hi rend="italic">Journal Étranger</hi>, 1755, above.]</seg>
             
           <seg>Riche par ses emplois et les bienfaits de la Cour, il ne fut
             pas réduit à travailler pour vivre. Il suivit son goût, il
-            écrivit pour la gloire <add>[Chaucer was appointed Comptroller of
-            the Customs, became the brother-in law of the Duke of
-            Lancaster, and was forced to leave England]</add>. Il y retourna
-            ensuite, et il y fut quelque tems dans une situation très
+            écrivit pour la gloire.</seg>
+          
+          <seg type="editorial">[Chaucer was appointed Comptroller of the Customs, became the brother-in law of the Duke of
+              Lancaster, and was forced to leave England]</seg>
+            
+          <seg>Il y retourna ensuite, et il y fut quelque tems dans une situation très
             fâcheuse, et dans une grande détresse. Ses liaisons avec
             Wicleffe le firent alors accuser de donner dans ses erreurs.
             On oublia, ou on parut oublier, que son commerce avec un
@@ -138,15 +140,15 @@
             des jours heureux, généralement aimé et honoré. Il était
             très lié avec tous les savans de son siècle, et particulièrement
             avec le célèbre Pétrarque, son ami, qui, de son tems, reçut à
-            Rome la Couronne Poétique.</seg>
-            
-          <lb/>. . . . . . . . . . .
+            Rome la Couronne Poétique.
+            <lb/>. . . . . . . . . . .
+          </seg>
             
           <seg>Il régnait dans le caractère de ce grand homme un mélange
             de gaieté, de modestie et de gravité qui le rendait également
             propre à la Cour et à la Ville, et le faisait rechercher dans
-            les bonnes compagnies. Il avait l’esprit agréable, la pénétra¬
-            tion vive, le jugement sain et sûr. Il était sincère mais
+            les bonnes compagnies. Il avait l’esprit agréable, la pénétration
+            vive, le jugement sain et sûr. Il était sincère mais
             honnête critique, plus porté à l’indulgence qu’à la censure, et
             plus disposé à excuser ou à couvrir les fautes des Ecrivains
             contemporains, qu’à les produire au grand jour. Supérieur à

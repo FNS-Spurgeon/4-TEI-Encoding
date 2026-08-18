@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p47_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p47_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -99,9 +97,9 @@
             de son temps, met plus de finesse dans cette critique; il
             oppose au dialecte anglo-normand, vieilli et incorrect, le
             français poli de la cour de France . . . <add>[in the portrait of
-            the Prioress]</add>.</seg>
-          
-          <lb/>. . . . . . . . . .
+            the Prioress]</add>.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 393]</note>C'était l’habitude ou la manie des gens de loi . . . même
             lorsqu’ils parlaient anglais, d’employer à tout propos des

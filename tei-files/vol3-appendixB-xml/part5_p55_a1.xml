@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p55_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p55_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +73,7 @@
         <catRef scheme="#criticism" target="#boccaccio"/>
         <catRef scheme="#works" target="#houseFame"/>
         <catRef scheme="#works" target="#knightTale"/>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
         <catRef scheme="#biography" target="#french"/>
       </textClass>
     </profileDesc>
@@ -117,8 +115,8 @@
             grande sobriété; car les renseignements tout à fait certains
             sont assez rares, bien que les histoires de Chaucer ne manquent pas.</seg>
             
-          <seg><note place="margin">[p. 12]</note>En France, Feller et l'abbé Suard [sic, should be
-            l’abbé Feller et Suard], ont publié des biographies de
+          <seg><note place="margin">[p. 12]</note>En France, Feller et l'abbé Suard <add>[sic, should be
+            l’abbé Feller et Suard]</add>, ont publié des biographies de
             cet auteur. La notice du premier est évidemment
             aussi inexacte que tronquée; pour en faire apprécier
             l’esprit, nous dirons seulement qu’elle appelle Chaucer le
@@ -160,26 +158,23 @@
             grandeur des idées et la richesse de la création sont rarement
             exemptes de confusion. <hi rend="italic">Le palais de la Renommée</hi> pèche par
             <note place="margin">[p. 39]</note>un défaut de plan bien sensible, et par des répétitions, des
-            redondances qui en rendent la lecture difficile et fatigante.
-            <add>[A detailed account of the poem follows, pp. 39-48.]</add></seg>
-            
-          <lb/>. . . . . . . . . .
+            redondances qui en rendent la lecture difficile et fatigante.</seg>
+          
+          <seg type="editorial">[A detailed account of the poem follows, pp. 39-48.]<lb/>. . . . . . . . . .</seg>
             
           <seg><note place="margin">[p. 49]</note><hi rend="italic">Le livre de la duchesse</hi>. <add>[An account of the poem with long quotations in French, pp. 49-54.]</add></seg>
             
-          <seg><hi rend="italic">[p. 54]</hi>On y trouve <add>[in the last part ot the <hi rend="italic">Boke of the Duchesse</hi>]</add>
+          <seg><note place="margin">[p. 54]</note>On y trouve <add>[in the last part ot the <hi rend="italic">Boke of the Duchesse</hi>]</add>
             . . . plusieurs de ces traits de nature qui placent Chaucer si
             haut dans l’opinion de Walter Scott. Mais ce sont des
             traits fugitifs qu’absorbe . . . le fatras de mauvais goût au
-            milieu duquel ils se rencontrent.</seg>
-            
-          <lb/>. . . . . . . . . .
+            milieu duquel ils se rencontrent.
+            <lb/>. . . . . . . . . .</seg>
             
           <seg><note place="margin">[p. 73]</note>(2) Contes et Récits non-allégoriques.
             <lb/><hi rend="italic">Troïle et Cresside</hi>, poème en cinq chants, d'un style généralement 
-            obscur. Le mauvais goût et la bizarrerie y dominent.</seg>
-            
-          <lb/>. . . . . . . .
+            obscur. Le mauvais goût et la bizarrerie y dominent.
+            <lb/>. . . . . . . .</seg>
             
           <seg><note place="margin">[p. 74]</note><hi rend="italic">Les Contes de Cantorbéry</hi>. Bien que laissée incomplète par
             l’auteur, cette composition est la plus vaste de Chaucer. . . .</seg>
@@ -198,7 +193,7 @@
             d’uniforme dans l’exposition, souvent aussi des redondances
             de mots et d’idées; mais les défauts de l’ensemble
             disparaissent devant la piquante richesse des détails; et
-            l’introduction aux Contes de Cantorbéry est, sans contredit, une des
+            l’introduction aux <hi rend="italic">Contes de Cantorbéry</hi> est, sans contredit, une des
             œuvres les plus remarquables de Chaucer. En effet, tracé
             avec une verve et une originalité soutenues, chaque caractère
             de cette nombreuse réunion présente l’étude d’une classe
@@ -280,9 +275,10 @@
             d’Ivanhoe.</seg>
             
           <milestone unit="page" n="59"/>
+          
+          <seg type="editorial">[The description of the monk follows.]</seg>
             
-          <seg><add>[The description of the monk follows.]</add>
-            <note place="margin">[p. 88]</note>. . . L’indignité du frère prêcheur a pour pendant l’avarice
+          <seg><note place="margin">[p. 88]</note>. . . L’indignité du frère prêcheur a pour pendant l’avarice
             et la fourberie de l’huissier épiscopal et du porteur d’indulgences.
             Le premier est un effronté voleur, qui, fermant les
             yeux pour de l’argent sur les plus grands scandales, ne se fait
@@ -317,7 +313,7 @@
             <note place="margin">[p. 91]</note>aussi aux hommes de Dieu la pauvreté et l’innocence des
             premiers temps du christianisme.</seg>
             
-          <seg type="editorial">[Comparison with the <hi rend="italic">Decamerone</hi> of Boccaccio]. . .</seg>
+          <seg type="editorial">[Comparison with the <hi rend="italic">Decamerone</hi> of Boccaccio] . . .</seg>
             
           <seg><note place="margin">[p. 93]</note>Exception faite du récit du chevalier qui tient un rang
             tout à fait hors ligne, les contes enchâssés dans le pèlerinage
@@ -330,10 +326,10 @@
             <milestone unit="page" n="60"/>
             
             prévenu, la plupart de ses contes paraîtront certainement, ou
-            mal choisis, ou d’une narration défectueuse. . . .</seg>
+            mal choisis, ou d’une narration défectueuse. . . .
+            <lb/>. . . . . . . . . . .
+          </seg>
           
-          <lb/>. . . . . . . . . . .
-            
           <seg><note place="margin">[p. 96]</note>. . . Il a été dit plus haut, que, parmi les contes de Cantorbéry,
             on en trouve un dont la supériorité est incontestable.
             Ce morceau <add>[the <hi rend="italic">Knightes Tale</hi>]</add> important par son étendue,
