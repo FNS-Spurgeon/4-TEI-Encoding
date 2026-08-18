@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p146_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p146_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +89,7 @@
             Hertzberg disagrees with Mr. Bond’s theory that in the
             dream in the Book of the Duchesse John of Gaunt’s marriage
             to Blanche of Lancaster is commemorated. He criticises
-            and praises Sandras’s ‘Étude,' which has just appeared, and
+            and praises Sandras’s 'Étude,' which has just appeared, and
             Kissner’s Dissertation on Chaucer's relation to Italian literature
             (1867). He adds some remarks arising out of his own
             translation of Chaucer sent him by two German scholars,

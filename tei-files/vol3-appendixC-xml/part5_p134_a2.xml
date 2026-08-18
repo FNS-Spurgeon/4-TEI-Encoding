@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p134_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p134_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -74,7 +72,7 @@
         <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#works" target="#knightTale"/>
         <catRef scheme="#works" target="#frameOrder"/>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -108,10 +106,9 @@
             französischen und italienischen Dichtern entlehnte er das
             meiste. Aus ihnen schöpfte er nicht nur den Stoff, sondern
             die ganze Behandlungsart seiner beyden und vornehmsten
-            Gedichte, <hi rend="italic">The Knight's Tale</hi>, und <hi rend="italic">The Romaunt of the Rose</hi>.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            Gedichte, <hi rend="italic">The Knight's Tale</hi>, und <hi rend="italic">The Romaunt of the Rose</hi>.  
+            <lb/>. . . . . . . . . .</seg>
+                      
           <seg><note place="margin">[p. 119]</note>Unter Chaucer's Hand erhielt diese Dichtung (<hi rend="italic">The
             Knight's Tale</hi>) viele neue Schönheiten. Einige vorzügliche
             Gemälde und Beschreibungen, z. B. die von den Tempeln
@@ -129,10 +126,11 @@
             modernisirt; aber Chaucer's kraftvoller und dabey sehr
             fliessender Vers hat nicht wenig Antheil an dem Verdienste,
             welches sich der Vortrag des neuern Dichters nun um so
-            leichter erwerben konnte. . . . [Romaunt of the Rose,
-            sources and characteristics.]</seg>
-            
-          <lb/>. . . . . . . . . .
+            leichter erwerben konnte. . . . </seg>
+          
+          <seg type="editorial">[Romaunt of the Rose, sources and characteristics.]
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 122]</note>Eine andre vorzüglich merkwürdige Arbeit Chaucer’s ist
             sein erzählendes Gedicht, Troilus und Kressida . . . <add>[His
@@ -148,11 +146,12 @@
             <milestone unit="page" n="136"/>
             
             Dichters sind seine <hi rend="italic">Canterbury-Tales</hi>. Die Veranlassung zu
-            diesen Erzahlüngen ist ganz sinnreich ausgesonnen. <add>[Description 
-            of the setting, and the improvement on Boccaccio's
+            diesen Erzahlüngen ist ganz sinnreich ausgesonnen.</seg>
+          
+          <seg type="editorial">[Description of the setting, and the improvement on Boccaccio's
             Decameron, in that Chaucer’s personages are drawn from
             many different parts of the country, and from different
-            classes and trades.]</add></seg>
+            classes and trades.]</seg>
             
           <seg><note place="margin">[p. 124]</note>Freylich aber sind diese Erzählungen, von Seiten ihres
             innern Gehalts, ziemlich ungleich, und nicht alle von

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p131_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p131_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,8 +82,9 @@
         <ab type="imprint">1709. Unknown. [<hi rend="italic">A review</hi> of <hi rend="italic">A New View of London</hi>, 1708, in] <hi rend="italic">Acta Eruditorum</hi>, Leipzig, March, 1709, p. 112.</ab>
         
         <ab type="quotation">
-          <seg><add>[Account of Westminster Abbey, and the poets buried
-            there.]</add> Proximi sunt Cowlejo Poetæ alii, Galfridus Chaucer,
+          <seg type="editorial">[Account of Westminster Abbey, and the poets buried there.]</seg>
+          
+          <seg>Proximi sunt Cowlejo Poetæ alii, Galfridus Chaucer,
             A. 1400, Edmundus Spencerus, A. 1596 <add>[etc.]</add>.</seg>
         </ab>
       </div>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p131_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p131_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,10 +94,10 @@
             and 1733. In 1750-3 this work was republished as Jöcher's
             Allgemeines Gelehrten-Lexicon, and the Chaucer notice in it
             has slight additions (vol. i, p. 1855, col. i). In the list of his
-            works, after ‘vitam Lucretiæ romanæ' is added :— ‘amorum
+            works, after 'vitam Lucretiæ romanæ' is added :— 'amorum
             Troili de Chriseidae libros 2, welche letztern Franc.
-            Kingston [sic] in lateinische Verse gebracht, nebst andern
-            Schriften,’ etc. The alternative date 1402 is added for
+            Kingston <add>[sic]</add> in lateinische Verse gebracht, nebst andern
+            Schriften,' etc. The alternative date 1402 is added for
             Chaucer's death. The later edition of this Lexicon, 1787-
             1822, is merely supplementary of names up to then
             omitted.]</seg>

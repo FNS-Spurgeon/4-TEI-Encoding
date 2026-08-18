@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p152_a8">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p152_a8">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1898, Hermann Paul. Grundriss der Germanischen Philologie.</title>
+        <title>1893, Hermann Paul. Grundriss der Germanischen Philologie.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -33,7 +31,7 @@
         <biblStruct>
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/49265065">Paul, Hermann</author>
-            <date cert="high" when="1898">1898</date>
+            <date cert="high" when="1893">1893</date>
             <title level="a">Grundriss der Germanischen Philologie.</title>
           </analytic>
           <monogr>
@@ -83,7 +81,7 @@
       <div type="allusion">
         <milestone unit="page" n="152"/>
         
-        <ab type="imprint">1898. Paul, Hermann. <hi rend="italic">Grundriss der Germanischen Philologie</hi>. Strassburg, 3 vols. 1891-93, vol. ii, 1893, part i (2nd ed., 1897).</ab>
+        <ab type="imprint">1893. Paul, Hermann. <hi rend="italic">Grundriss der Germanischen Philologie</hi>. Strassburg, 3 vols. 1891-93, vol. ii, 1893, part i (2nd ed., 1897).</ab>
         
         <ab type="quotation">
           <seg type="editorial">[Contains articles on:—

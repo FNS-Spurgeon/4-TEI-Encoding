@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p138_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p138_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -102,10 +100,11 @@
             seinen Landsleuten, den Engländern, sondern den Freunden
             der Poesie und Historie überhaupt, gemacht hat. Nur der
             Form, in welcher der berühmte Verfasser dies Geschenk
-            darbrachte, müssen wir unsern Beyfall versagen. <add>[It is
-            not only a life of Chaucer, but an historical account
+            darbrachte, müssen wir unsern Beyfall versagen.</seg>
+          
+          <seg type="editorial">[It is not only a life of Chaucer, but an historical account
             of the fourteenth century in England, there are too many
-            long digressions in it.]</add> . . .</seg>
+            long digressions in it.] . . .</seg>
             
           <seg>Was wir dem deutschen Publikum hier liefern, ist daher
             im strengen Sinne des Worts eine freye Bearbeitung des

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p145_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p145_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -123,7 +121,7 @@
             <note place="margin">[p. 80]</note><l>Zum mindesten, wie sie ihn Sonntags trug.</l>
           </lg>
             
-          <lb/>. . . . . . . .
+          . . . . . . . .
             
           <lg>
             <head>DAS REIMGEDICHT VOM HERRN THOPAS.</head>

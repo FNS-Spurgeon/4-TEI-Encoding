@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p151_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p151_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +30,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/118203018">Heussler, [Hans?]</author>
+            <author cert="low" role="M" ref="http://viaf.org/viaf/118203018">Heussler, Hans</author>
             <date cert="high" when="1888">1888</date>
             <title level="a">Die Stellung von Subjekt und Prädikat in der Erzählung des Melibeus und in der des Pfarrers in Chaucer's Canterbury Tales.</title>
           </analytic>

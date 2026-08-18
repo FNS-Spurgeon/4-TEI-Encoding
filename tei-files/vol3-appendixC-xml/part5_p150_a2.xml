@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p150_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p150_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -86,7 +84,7 @@
         <ab type="imprint">1880. Koch, J. <hi rend="italic">Ausgewählte kleinere Dichtungen Chaucer's, im Versmaasse des Originals in das Deutsche übertragen, und mit Erörterungen versehen</hi>. Leipzig.</ab>
         
         <ab type="quotation">
-          <seg>[Containing—<hi rend="italic">Pity</hi>, <hi rend="italic">Words to Adam</hi>, <hi rend="italic">Parlement of Foules</hi>, <hi rend="italic">Truth</hi>, <hi rend="italic">Gentilesse</hi>, 
+          <seg type="editorial">[Containing—<hi rend="italic">Pity</hi>, <hi rend="italic">Words to Adam</hi>, <hi rend="italic">Parlement of Foules</hi>, <hi rend="italic">Truth</hi>, <hi rend="italic">Gentilesse</hi>, 
             <hi rend="italic">Stedfastnesee</hi>, <hi rend="italic">Fortune</hi>, <hi rend="italic">Bukton</hi>, <hi rend="italic">Scogan</hi>, <hi rend="italic">Purse</hi>.]</seg>
         </ab>
       </div>

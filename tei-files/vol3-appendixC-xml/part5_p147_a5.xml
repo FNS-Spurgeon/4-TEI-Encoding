@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p147_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p147_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,7 +82,7 @@
         <ab type="imprint">1869. Mätzner, Eduard. <hi rend="italic">Altenglische Sprachproben</hi>. . . . Berlin, 1869, vol. i, part 2, pp. 273-415.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><lb/>[pp. 373-5. Notes on <hi rend="italic">The Tale of Melibeus</hi> and on Chaucer.
+          <seg type="editorial">[pp. 373-5. Notes on <hi rend="italic">The Tale of Melibeus</hi> and on Chaucer.
             <lb/>pp. 375-415. <hi rend="italic">The Tale of Melibeus</hi>.]</seg>
         </ab>
       </div>

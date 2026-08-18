@@ -35,341 +35,206 @@
   </teiHeader>
   <standOff>
     <listPerson>
-      <person n="Ampère" xml:id="Ampère">
-        <persName>Ampère, Jean-Jacques</persName>
+      <person n="Ballerstedt" xml:id="Ballerstedt">
+        <persName>Ballerstedt, Erich</persName>
       </person>
-      <person n="Angoulême" xml:id="Angoulême">
-        <persName>Angoulême, Jean d'Orléans comte d'</persName>
+      <person n="Behnsch" xml:id="Behnsch">
+        <persName>Behnsch, Ottomar</persName>
       </person>
-      <person n="Baret" xml:id="Baret">
-        <persName>Baret, Adrien</persName>
+      <person n="Benthem" xml:id="Benthem">
+        <persName>Benthem, Heinrich Ludolf</persName>
       </person>
-      <person n="Beljame" xml:id="Beljame">
-        <persName>Beljame, Alexandre</persName>
+      <person n="Bischoff" xml:id="Bischoff">
+        <persName>Bischoff, Otto</persName>
       </person>
-      <person n="Berger" xml:id="Berger">
-        <persName>Berger, Pierre</persName>
+      <person n="Blankenburg" xml:id="Blankenburg">
+        <persName>Blankenburg, Christian Friedrich von</persName>
       </person>
-      <person n="Boucher" xml:id="Boucher">
-        <persName>Boucher, Léon</persName>
+      <person n="Bodmer" xml:id="Bodmer">
+        <persName>Bodmer, Johann Jakob</persName>
       </person>
-      <person n="Bouillet" xml:id="Bouillet">
-        <persName>Bouillet, Marie-Nicolas</persName>
+      <person n="Breyer" xml:id="Breyer">
+        <persName>Breyer, Karl Wilhelm Friedrich</persName>
       </person>
-      <person n="Brunet" xml:id="Brunet">
-        <persName>Brunet, Pierre Gustave</persName>
+      <person n="Brink" xml:id="Brink">
+        <persName>Brink, Bernhard ten</persName>
       </person>
-      <person n="Brunet" xml:id="Brunetbis">
-        <persName>Brunet, Pierre-Gustave</persName>
+      <person n="Crow" xml:id="Crow">
+        <persName>Crow, L. C.</persName>
       </person>
-      <person n="Brunetière" xml:id="Brunetière">
-        <persName>Brunetière, Ferdinand</persName>
+      <person n="Düring" xml:id="Düring">
+        <persName>Düring, Adolf von</persName>
       </person>
-      <person n="Brunot" xml:id="Brunot">
-        <persName>Brunot, Ferdinand</persName>
+      <person n="Ebert" xml:id="Ebert">
+        <persName>Ebert, Adolf</persName>
       </person>
-      <person n="Bédier" xml:id="Bédier">
-        <persName>Bédier, Joseph</persName>
+      <person n="Einenkel" xml:id="Einenkel">
+        <persName>Einenkel, Eugen</persName>
       </person>
-      <person n="Charles Bémont" xml:id="Charles-Bémont">
-        <persName>Charles Bémont</persName>
+      <person n="Eschenburg" xml:id="Eschenburg">
+        <persName>Eschenburg, Johann Joachim</persName>
       </person>
-      <person n="Chasles" xml:id="Chasles">
-        <persName>Chasles, Philarète</persName>
+      <person n="Fielder" xml:id="Fielder">
+        <persName>Fielder, Eduard</persName>
       </person>
-      <person n="Chasles" xml:id="Chaslesbis">
-        <persName>Chasles, Philaréte</persName>
+      <person n="Fielder" xml:id="FielderBis">
+        <persName>Fielder, Eduard.</persName>
       </person>
-      <person n="Chasles" xml:id="Chaslester">
-        <persName>Chasles, Émile</persName>
+      <person n="Fischer" xml:id="Fischer">
+        <persName>Fischer, Rudolf</persName>
       </person>
-      <person n="Chateaubriand" xml:id="Chateaubriand">
-        <persName>Chateaubriand, François-René de</persName>
+      <person n="Freudenberger" xml:id="Freudenberger">
+        <persName>Freudenberger, Markus</persName>
       </person>
-      <person n="Chatelain" xml:id="Chatelain">
-        <persName>Chatelain, Jean-François</persName>
+      <person n="Gesenius" xml:id="Gesenius">
+        <persName>Gesenius, Friedrich Wilhelm</persName>
       </person>
-      <person n="Chaucer" xml:id="Chaucer">
-        <persName>Chaucer, Geoffrey</persName>
+      <person n="Gessner" xml:id="Gessner">
+        <persName>Gessner, Conrad</persName>
       </person>
-      <person n="Chauffepié" xml:id="Chauffepié">
-        <persName>Chauffepié, Jacques-Georges de</persName>
+      <person n="Graef" xml:id="Graef">
+        <persName>Graef, Adolf</persName>
       </person>
-      <person n="Circourt" xml:id="Circourt">
-        <persName>Circourt, Adolphe de</persName>
+      <person n="Haeckel" xml:id="Haeckel">
+        <persName>Haeckel, Willibald</persName>
       </person>
-      <person n="Comte" xml:id="Comte">
-        <persName>Comte, Auguste</persName>
+      <person n="Hagedorn" xml:id="Hagedorn">
+        <persName>Hagedorn, H.</persName>
       </person>
-      <person n="Contant d'Orville" xml:id="Contant-Orville">
-        <persName>Contant d'Orville, André-Guillaume</persName>
+      <person n="Hampel" xml:id="Hampel">
+        <persName>Hampel, Wilhelm Ernst</persName>
       </person>
-      <person n="Dantès" xml:id="Dantès">
-        <persName>Dantès, Alfred</persName>
+      <person n="Herder" xml:id="Herder">
+        <persName>Herder, Johann Gottfried</persName>
       </person>
-      <person n="Demogeot" xml:id="Demogeot">
-        <persName>Demogeot, Jacques</persName>
+      <person n="Hertzberg" xml:id="Hertzberg">
+        <persName>Hertzberg, Wilhelm Adolf Bogusław</persName>
       </person>
-      <person n="Demogeot" xml:id="Demogeotbis">
-        <persName>Demogeot, Jacques Claude</persName>
+      <person n="Heussler" xml:id="Heussler">
+        <persName>Heussler, [Hans?]</persName>
       </person>
-      <person n="Des Maizeaux" xml:id="Des-Maizeaux">
-        <persName>Des Maizeaux, Pierre</persName>
+      <person n="Kaluza" xml:id="Kaluza">
+        <persName>Kaluza, Max</persName>
       </person>
-      <person n="Deschamps" xml:id="Deschamps">
-        <persName>Deschamps, Eustache</persName>
+      <person n="Kannegießer" xml:id="Kannegießer">
+        <persName>Kannegießer, Karl Ludwig</persName>
       </person>
-      <person n="Desclozeaux" xml:id="Desclozeaux">
-        <persName>Desclozeaux, Ernest</persName>
+      <person n="Kissner" xml:id="Kissner">
+        <persName>Kissner, Alfons</persName>
       </person>
-      <person n="Dreyss" xml:id="Dreyss">
-        <persName>Dreyss, Charles</persName>
+      <person n="Klaeber" xml:id="Klaeber">
+        <persName>Klaeber, Frederick</persName>
       </person>
-      <person n="Drumont" xml:id="Drumont">
-        <persName>Drumont, Édouard</persName>
+      <person n="Koch" xml:id="Koch">
+        <persName>Koch, John</persName>
       </person>
-      <person n="Dubuc" xml:id="Dubuc">
-        <persName>Dubuc, Pierre-Louis</persName>
+      <person n="Kunz" xml:id="Kunz">
+        <persName>Kunz, Siegfried</persName>
       </person>
-      <person n="Duclaux" xml:id="Duclaux">
-        <persName>Duclaux, Mary</persName>
+      <person n="König" xml:id="König">
+        <persName>König, Georg Matthias</persName>
       </person>
-      <person n="Feller" xml:id="Feller">
-        <persName>Feller, François-Xavier de</persName>
+      <person n="Körting" xml:id="Körting">
+        <persName>Körting, Gustav</persName>
       </person>
-      <person n="Filon" xml:id="Filon">
-        <persName>Filon, Augustin</persName>
+      <person n="Lange" xml:id="Lange">
+        <persName>Lange, H.</persName>
       </person>
-      <person n="Forgues" xml:id="Forgues">
-        <persName>Forgues, Émile Daurand</persName>
+      <person n="Lange" xml:id="LangeBis">
+        <persName>Lange, J. A. Max.</persName>
       </person>
-      <person n="Froissart" xml:id="Froissart">
-        <persName>Froissart, Jean</persName>
+      <person n="Lange" xml:id="LangeTer">
+        <persName>Lange, P.</persName>
       </person>
-      <person n="Gausseron" xml:id="Gausseron">
-        <persName>Gausseron, Bernard-Henri</persName>
+      <person n="Lechler" xml:id="Lechler">
+        <persName>Lechler, Gotthard Victor</persName>
       </person>
-      <person n="Gebhart" xml:id="Gebhart">
-        <persName>Gebhart, Émile</persName>
+      <person n="Lemcke" xml:id="Lemcke">
+        <persName>Lemcke, Ludwig</persName>
       </person>
-      <person n="Geffroy" xml:id="Geffroy">
-        <persName>Geffroy, Auguste</persName>
+      <person n="Lindner" xml:id="Lindner">
+        <persName>Lindner, Ferdinand</persName>
       </person>
-      <person n="Ginguené" xml:id="Ginguené">
-        <persName>Ginguené, Pierre-Louis</persName>
+      <person n="Ludolf" xml:id="Ludolf">
+        <persName>Ludolf, Hiob</persName>
       </person>
-      <person n="Gomont" xml:id="Gomont">
-        <persName>Gomont, Henri-Augustin</persName>
+      <person n="Maetzner" xml:id="Maetzner">
+        <persName>Maetzner, Eduard</persName>
       </person>
-      <person n="Goujet" xml:id="Goujet">
-        <persName>Goujet, Claude-Pierre</persName>
+      <person n="Mamroth" xml:id="Mamroth">
+        <persName>Mamroth, Fedor</persName>
       </person>
-      <person n="Guillon" xml:id="Guillon">
-        <persName>Guillon, Félix.</persName>
-      </person>
-      <person n="Hallberg" xml:id="Hallberg">
-        <persName>Hallberg, Louis-Eugène</persName>
-      </person>
-      <person n="Harvey-Jellie" xml:id="Harvey-Jellie">
-        <persName>Harvey-Jellie, Wallace</persName>
-      </person>
-      <person n="Hennet" xml:id="Hennet">
-        <persName>Hennet, Albert-Joseph-Ulpien</persName>
-      </person>
-      <person n="Hermann Dietz" xml:id="Hermann-Dietz">
-        <persName>Hermann Dietz</persName>
-      </person>
-      <person n="Hoepffner" xml:id="Hoepffner">
-        <persName>Hoepffner, Ernest</persName>
-      </person>
-      <person n="Jean-François Chatelain" xml:id="Jean-François-Chatelain">
-        <persName>Jean-François Chatelain</persName>
-      </person>
-      <person n="Jusserand" xml:id="Jusserand">
-        <persName>Jusserand, Jean Jules</persName>
-      </person>
-      <person n="Jusserand" xml:id="JusserandBis">
-        <persName>Jusserand, Jean-Jules</persName>
-      </person>
-      <person n="Kervyn de Lettenhove" xml:id="Kervyn-Lettenhove">
-        <persName>Kervyn de Lettenhove, Joseph Marie Bruno Constantin</persName>
-      </person>
-      <person n="La Roche" xml:id="La-Roche">
-        <persName>La Roche, Michel de</persName>
-      </person>
-      <person n="La Rue" xml:id="La-Rue">
-        <persName>La Rue, Gervais de</persName>
-      </person>
-      <person n="Langlois" xml:id="Langlois">
-        <persName>Langlois, Ernest</persName>
-      </person>
-      <person n="Larousse" xml:id="Larousse">
-        <persName>Larousse, Pierre</persName>
-      </person>
-      <person n="Lavergne" xml:id="Lavergne">
-        <persName>Lavergne, Léonce</persName>
-      </person>
-      <person n="Lavisse" xml:id="Lavisse">
-        <persName>Lavisse, Ernest</persName>
-      </person>
-      <person n="Le Clerc" xml:id="Le-Clerc">
-        <persName>Le Clerc, Joseph-Victor</persName>
-      </person>
-      <person n="Le Rouge" xml:id="Le-Rouge">
-        <persName>Le Rouge, Georges-Louis</persName>
-      </person>
-      <person n="Le Roux de Lincy" xml:id="Le-Roux-de-Lincy">
-        <persName>Le Roux de Lincy, Antoine</persName>
-      </person>
-      <person n="Lecoq" xml:id="Lecoq">
-        <persName>Lecoq, Jules</persName>
-      </person>
-      <person n="Legouis" xml:id="Legouis">
-        <persName>Legouis, Émile</persName>
-      </person>
-      <person n="Lécluze" xml:id="Lécluze">
-        <persName>Lécluze, Etienne</persName>
-      </person>
-      <person n="Maury" xml:id="Maury">
-        <persName>Maury, Lucien</persName>
+      <person n="Mencke" xml:id="Mencke">
+        <persName>Mencke, Johann Burckhardt</persName>
       </person>
       <person n="Meyer" xml:id="Meyer">
-        <persName>Meyer, Paul</persName>
+        <persName>Meyer, Carl F. H.</persName>
       </person>
-      <person n="Michelet" xml:id="Michelet">
-        <persName>Michelet, Jules</persName>
+      <person n="Meyer" xml:id="MeyerBis">
+        <persName>Meyer, J.</persName>
       </person>
-      <person n="Miège" xml:id="Miège">
-        <persName>Miège, Guy</persName>
+      <person n="Morhof" xml:id="Morhof">
+        <persName>Morhof, Daniel Georg</persName>
       </person>
-      <person n="Montégut" xml:id="Montégut">
-        <persName>Montégut, Émile</persName>
+      <person n="Morsbach" xml:id="Morsbach">
+        <persName>Morsbach, Lorenz</persName>
       </person>
-      <person n="Morel" xml:id="Morel">
-        <persName>Morel, Léon</persName>
+      <person n="Paul" xml:id="Paul">
+        <persName>Paul, Hermann</persName>
       </person>
-      <person n="Moréri" xml:id="Moréri">
-        <persName>Moréri, Louis</persName>
+      <person n="Pauli" xml:id="Pauli">
+        <persName>Pauli, Reinhold</persName>
       </person>
-      <person n="Mézières" xml:id="Mézières">
-        <persName>Mézières, Alfred</persName>
+      <person n="Petzoldt" xml:id="Petzoldt">
+        <persName>Petzoldt, Ernst</persName>
       </person>
-      <person n="Nicéron" xml:id="Nicéron">
-        <persName>Nicéron, Jean-Pierre</persName>
+      <person n="Quenstedt" xml:id="Quenstedt">
+        <persName>Quenstedt, Johannes Andreas</persName>
       </person>
-      <person n="O'Sullivan" xml:id="OSullivan">
-        <persName>O'Sullivan, Daniel</persName>
+      <person n="Rapp" xml:id="Rapp">
+        <persName>Rapp, Karl Moritz</persName>
       </person>
-      <person n="Paris" xml:id="Paris">
-        <persName>Paris, Gaston</persName>
+      <person n="Ruever Groneman" xml:id="RueverGroneman">
+        <persName>Ruever Groneman, Sarus Adriaan Jacob de</persName>
       </person>
-      <person n="Patu" xml:id="Patu">
-        <persName>Patu, Claude-Pierre</persName>
+      <person n="Schade" xml:id="Schade">
+        <persName>Schade, Arthur</persName>
       </person>
-      <person n="Petit de Julleville" xml:id="Petit-de-Julleville">
-        <persName>Petit de Julleville, Louis</persName>
+      <person n="Schipper" xml:id="Schipper">
+        <persName>Schipper, Jakob</persName>
       </person>
-      <person n="Pichot" xml:id="Pichot">
-        <persName>Pichot, Amédée</persName>
+      <person n="Schoepke" xml:id="Schoepke">
+        <persName>Schoepke, Otto.</persName>
       </person>
-      <person n="Prévost" xml:id="Prévost">
-        <persName>Prévost, Antoine François</persName>
+      <person n="Schrader" xml:id="Schrader">
+        <persName>Schrader, August</persName>
       </person>
-      <person n="Quérard" xml:id="Quérard">
-        <persName>Quérard, Joseph-Marie</persName>
+      <person n="Seume" xml:id="Seume">
+        <persName>Seume, Johann Gottfried</persName>
       </person>
-      <person n="Rathery" xml:id="Rathery">
-        <persName>Rathery, Edmé-Jacques-Benoît</persName>
-      </person>
-      <person n="Raynaud" xml:id="Raynaud">
-        <persName>Raynaud, Gaston</persName>
-      </person>
-      <person n="Rietstap" xml:id="Rietstap">
-        <persName>Rietstap, Johannes</persName>
-      </person>
-      <person n="Rietstap" xml:id="RietstapBis">
-        <persName>Rietstap, Johannes Baptista</persName>
-      </person>
-      <person n="Rigoley de Juvigny" xml:id="Rigoley-de-Juvigny">
-        <persName>Rigoley de Juvigny, Jean-Antoine</persName>
-      </person>
-      <person n="Sainte-Beuve" xml:id="Sainte-Beuve">
-        <persName>Sainte-Beuve, Charles-Augustin</persName>
-      </person>
-      <person n="Sandras" xml:id="Sandras">
-        <persName>Sandras, Étienne-Gustave</persName>
-      </person>
-      <person n="Sarradin" xml:id="Sarradin">
-        <persName>Sarradin, Amédée</persName>
-      </person>
-      <person n="Schwab" xml:id="Schwab">
-        <persName>Schwab, Johann Christoph</persName>
-      </person>
-      <person n="Scudéry" xml:id="Scudéry">
-        <persName>Scudéry, Madeleine de</persName>
-      </person>
-      <person n="Simond" xml:id="Simond">
-        <persName>Simond, Charles</persName>
-      </person>
-      <person n="Soult" xml:id="Soult">
-        <persName>Soult, Amélie</persName>
-      </person>
-      <person n="Spach" xml:id="Spach">
-        <persName>Spach, Louis</persName>
-      </person>
-      <person n="Staël-Holstein" xml:id="Staël-Holstein">
-        <persName>Staël-Holstein, Germaine de</persName>
-      </person>
-      <person n="Suard" xml:id="Suard">
-        <persName>Suard, Jean-Baptiste-Antoine</persName>
-      </person>
-      <person n="Taine" xml:id="Taine">
-        <persName>Taine, Hippolyte</persName>
-      </person>
-      <person n="Thierry" xml:id="Thierry">
-        <persName>Thierry, Augustin</persName>
-      </person>
-      <person n="Thiroux d'Arconville" xml:id="Thiroux-Arconville">
-        <persName>Thiroux d'Arconville, Marie-Geneviève-Charlotte</persName>
-      </person>
-      <person n="Thommerel" xml:id="Thommerel">
-        <persName>Thommerel, Jacques-Pierre</persName>
-      </person>
-      <person n="Thévet" xml:id="Thévet">
-        <persName>Thévet, André</persName>
-      </person>
-      <person n="Trochereau de La Berlière" xml:id="Trochereau-Berlière">
-        <persName>Trochereau de La Berlière, Jean Arnold</persName>
+      <person n="Tieck" xml:id="Tieck">
+        <persName>Tieck, Ludwig</persName>
       </person>
       <person n="Unknown" xml:id="Unknown">
         <persName>Unknown</persName>
       </person>
-      <person n="Vapereau" xml:id="Vapereau">
-        <persName>Vapereau, Gustave</persName>
+      <person n="Wieland" xml:id="Wieland">
+        <persName>Wieland, Christoph Martin</persName>
       </person>
-      <person n="Villemain" xml:id="Villemain">
-        <persName>Villemain, Abel-François</persName>
+      <person n="Willert" xml:id="Willert">
+        <persName>Willert, H.</persName>
       </person>
-      <person n="Yart" xml:id="Yart">
-        <persName>Yart, Antoine</persName>
+      <person n="Willert" xml:id="WillertBis">
+        <persName>Willert, Hans.</persName>
       </person>
-      <person n="[Chaudon" xml:id="Chaudon">
-        <persName>[Chaudon, Louis-Mayeul]</persName>
+      <person n="Wülker" xml:id="Wülker">
+        <persName>Wülker, Richard Paul</persName>
       </person>
-      <person n="[Forgues" xml:id="Forguesbis">
-        <persName>[Forgues, Émile Daurand?]</persName>
+      <person n="Würmer" xml:id="Würmer">
+        <persName>Würmer, A.</persName>
       </person>
-      <person n="[Le Blanc" xml:id="Le-Blanc">
-        <persName>[Le Blanc, Jean-Bernard]</persName>
-      </person>
-      <person n="[Le Clerc" xml:id="Le-Clercbis">
-        <persName>[Le Clerc, Joseph-Victor]</persName>
-      </person>
-      <person n="[Renouard" xml:id="Renouard">
-        <persName>[Renouard, Antoine-Augustin]</persName>
-      </person>
-      <person n="[Rivarol" xml:id="Rivarol">
-        <persName>[Rivarol, Antoine de]</persName>
+      <person n="Zupitza" xml:id="Zupitza">
+        <persName>Zupitza, Julius</persName>
       </person>
     </listPerson>
   </standOff>

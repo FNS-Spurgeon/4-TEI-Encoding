@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p153_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p153_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -95,8 +93,9 @@
             to Warton, early legends, etc.]</add>. Der älteste, merkwürdigste
             Dichter in dieser Gattung ist unstreitig Jeffrey
             Chaucer (†1400. Seine Erzählungen sind unter dem
-            Nahmen der Canterbury Tales bekannt. <add>[List of Tales
-            follows, with references to Tyrwhitt, Bell, Warton, etc.]</add></seg>
+            Nahmen der Canterbury Tales bekannt.</seg>
+          
+          <seg type="editorial">[List of Tales follows, with references to Tyrwhitt, Bell, Warton, etc.]</seg>
         </ab>
       </div>
     </body>

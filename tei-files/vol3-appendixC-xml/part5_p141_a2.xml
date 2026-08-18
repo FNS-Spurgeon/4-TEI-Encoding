@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p141_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p141_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -101,10 +99,10 @@
             Als Beweis von C.'s Popularität in Schottland
             mag gelten, dass eine der frühesten Arbeiten der schottischen
             Presse seine “Klage des schwarzen Ritters" war, die 1508
-            von Chapman und Myllar . . . gedruckt wurde. <add>[Thynne’s
-            1532 edn., noted and Tyrwhitt's edn. of the C. Tales much
-            praised, “ein Muster der Akkuratesse und kritischen
-            Behandlung."]</add></seg>
+            von Chapman und Myllar . . . gedruckt wurde.</seg>
+          
+          <seg type="editorial">[Thynne’s 1532 edn., noted and Tyrwhitt's edn. of the C. Tales much
+            praised, “ein Muster der Akkuratesse und kritischen Behandlung."]</seg>
             
           <seg><note place="margin">[p. 49, col.1]</note>C.'s Verdienste als Dichter sind nicht gewöhnlicher Art,
             aber indem wir sie zu würdigen suchen, müssen wir das
@@ -112,11 +110,12 @@
             musste die Sprache erst schaffen, in der er schrieb; auch in
             England herrschte die Unsitte, dass man am liebsten in
             fremden Zungen sprach und darüber die eigene Muttersprache
-            vernachlässigte . . . <add>[an account of earlier English
-            14th century poetry, Piers Plowman, Gower.]</add> C. mag schon
-            als Dichter bekannt gewesen seyn, als Langland seine
-            Visionen schrieb, sein grösstes Werk fällt aber zwanzig Jahre
-            später.</seg>
+            vernachlässigte . . .</seg>
+          
+          <seg type="editorial">[an account of earlier English 14th century poetry, Piers Plowman, Gower.]</seg>
+          
+          <seg>C. mag schon als Dichter bekannt gewesen seyn, als Langland seine
+            Visionen schrieb, sein grösstes Werk fällt aber zwanzig Jahre später.</seg>
             
           <seg>Sein Hauptverdienst in Bezug auf die Versifikation
             besteht darin, dass er sie natürlicher, regelmässiger und
@@ -131,20 +130,23 @@
             
           <seg>In C.'s Schriften fühlt man nicht nur seinen eigenen
             persönlichen Charakter und Geist, sondern auch den
-            Einfluss seines Verkehrs mit der Welt. <add>[His followers
-            imitated his style and manner, but were quite unable to
+            Einfluss seines Verkehrs mit der Welt.</seg>
+          
+          <seg type="editorial">[His followers imitated his style and manner, but were quite unable to
             catch his spirit and character. It is noteworthy that C.
             translated many French and Italian works into English, but
             always in such a way that they had far more the character
-            of original works than of translations.]</add> Lebhafte Phantasie,
-            Eleganz und Schönheit der Beschreibungen bezeichnen alle
+            of original works than of translations.]</seg>
+          
+          <seg>Lebhafte Phantasie,Eleganz und Schönheit der Beschreibungen bezeichnen alle
             seine Werke; aber all die Anmuth und Schönheit seiner
             allegor. Schriften bleibt weit hinter seinem Talent zurück,
             das Leben der Menschen zu schildern, wie er es in den
             unsterblichen Canterbury-Erzählungen that. In diesem
             Werke . . . bringt er einen bunten Haufen allerhand
-            "sündhaften Volkes" zusammen . . . <add>[description of the O.
-            Tales.]</add></seg>
+            "sündhaften Volkes" zusammen . . . </seg>
+            
+          <seg type="editorial">[description of the O. Tales.]</seg>
             
           <seg><note place="margin">[p. 49, col. 2]</note>Nichts übertrifft die Kunst, mit welcher die Lebensart
             u. die Eigenthümlichkeiten der Pilger in der Haupteinleitung

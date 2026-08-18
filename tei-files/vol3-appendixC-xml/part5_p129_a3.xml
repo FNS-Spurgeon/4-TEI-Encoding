@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p129_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part5_p129_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,11 +94,9 @@
             Id est:
             <lg>
               <l>Sie war ein würdig Weib in allem ihrem Leben</l>
-              <l>Der Männer fünff bekam sie für der Kirch Thür eben.</l>
+              <l>Der Männer fünff bekam sie für der Kirch Thür eben.<note type="footnote">Note in Spurgeon: [For the Selden reference see above, pt. i, 1646.]</note></l>
             </lg>
           </seg>
-            
-          <seg type="editorial">[For the Selden reference see above, pt. i, 1646.]</seg>
         </ab>
       </div>
     </body>

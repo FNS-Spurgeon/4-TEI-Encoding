@@ -81,6 +81,7 @@
       <workItem from="1784637248094" duration="244000" />
       <workItem from="1785222352920" duration="969000" />
       <workItem from="1785336025899" duration="514000" />
+      <workItem from="1787062339598" duration="195000" />
     </task>
     <servers />
   </component>
@@ -91,6 +92,6 @@
     <SUITE FILE_PATH="coverage/4_TEI_Encoding$csv2tei.coverage" NAME="csv2tei Coverage Results" MODIFIED="1785222751803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/4_TEI_Encoding$TEI_Additions.coverage" NAME="TEI_Additions Coverage Results" MODIFIED="1784107650790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/4_TEI_Encoding$pageLink_additions.coverage" NAME="pageLink_additions Coverage Results" MODIFIED="1785222969289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/4_TEI_Encoding$authorsList.coverage" NAME="authorsList Coverage Results" MODIFIED="1785336308553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/4_TEI_Encoding$authorsList.coverage" NAME="authorsList Coverage Results" MODIFIED="1787062412432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
   </component>
 </project>
