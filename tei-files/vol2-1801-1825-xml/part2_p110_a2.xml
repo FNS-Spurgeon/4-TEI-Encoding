@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1819, Thomas Campbell. Specimens of the British Poets,</title>
+        <title>1819, Thomas Campbell. Specimens of the British Poets.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/39510901">Thomas Campbell</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/39510901">Campbell, Thomas</author>
             <date cert="high" when="1819">1819</date>
-            <title level="a">Specimens of the British Poets,</title>
+            <title level="a">Specimens of the British Poets.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,14 +75,13 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#pathos"/>
         <catRef scheme="#criticism" target="#prolixity"/>
         <catRef scheme="#criticism" target="#realism"/>
         <catRef scheme="#criticism" target="#praised"/>
         <catRef scheme="#criticism" target="#importationDenied"/>
         <catRef scheme="#works" target="#houseFame"/>
-        <catRef scheme="#works" target="#troilus"/>
         <catRef scheme="#works" target="#troilus"/>
         <catRef scheme="#works" target="#criticism"/>
       </textClass>
@@ -95,144 +94,161 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="110"/>
-        <ab type="imprint">1819. Campbell, Thomas. Specimens of the British Poets, vol. i. References to Chaucer’s language, p. 14; metre, p. 59; Sir Thopas, p. 60; Chaucer and Langland, pp. 62-3; Court of Love, p. 70; romance, pp. 70-71; Hous of Fame, p. 71; Flower and Leaf, p. 72; Gower, p. 73; Chaucer and his successors, pp. 79, 87-88; vol. ii, pp. 3-49 [biographical notice, followed by Prol., ll. 1-714], 50, 59-60, 67-9 [Scottish Poetry], 76, 77.</ab>
+        
+        <ab type="imprint">1819. Campbell, Thomas. <hi rend="italic">Specimens of the British Poets</hi>, vol. i. References to Chaucer’s language, p. 14; metre, p. 59; Sir Thopas, p. 60; Chaucer and Langland, pp. 62-3; Court of Love, p. 70; romance, pp. 70-71; Hous of Fame, p. 71; Flower and Leaf, p. 72; Gower, p. 73; Chaucer and his successors, pp. 79, 87-88; vol. ii, pp. 3-49 [biographical notice, followed by Prol., ll. 1-714], 50, 59-60, 67-9 [Scottish Poetry], 76, 77.</ab>
+        
         <ab type="quotation">
-          <seg>[The edition consists of an Essay on English Poetry, vol. i, pp.
-3-271, and a general index in the same vol, followed by extracts
-from the principal poets, each preceded by a biographical notice.
-The preliminary Essay was published separately, Boston, 1819,
-and, with the Biographical Notices, edited by Peter Cunningham,
-in 1848. The Chaucer references in the latter are, pp. 7, 9n. ,
-23, 26, 27, 28, 29, 31-34, 37, 47 and n., 52, 53 n., 104 and n.,
-108 n., 117 n., 120-36, 138, 163, 303 n., 396 n.]
-[vol. i,  Chaucer was probably known and distinguished as a poet
-pp. 70 -
-2]
-anterior to the appearance of Langlande's Visions. Indeed if
-he had produced nothing else than his youthful poem, "the
-Court of Love," it was sufficient to indicate one destined to
-harmonise and refine the national strains. But it is likely,
-that before his thirty-fourth year, about which time Langlande's
-Visions may be supposed to have been finished, Chaucer had
-given several compositions to the public.
-[Campbell continues that the simple old narrative romance
-had become too familiar to invite Chaucer, and the poverty of
-English had obliged him to seek models in Latin and foreign
-tongues. Ovid, Claudian, Statius and Boethius were the
-favourite Latins, by the allegory of the last two of whom he
-was influenced, as by the French allegorical romances. The
-dreams, emblems, etc., of this last visionary school proved too
-light and playful for his strong genius, though in this work,
-too, his peculiar grace and gaiety are conspicuous. The Hous
-of Fame and Flower and Leaf are examples. His similar
-poems, even the most fantastic in design, are relieved by
-fresh and joyous descriptions of nature.  ... Chaucer was
-subsequently drawn to the style of Boccaccio.]
-. . . . . . . . . .
-[vol. ii, [Tyrwhitt had vindicated Chaucer from the charge brought
-pp. 18,
-14]
-against him by Verstegan, etc., of having adulterated English
-with French words. Such revolutions in language are not
-wrought by individuals; and Chaucer's style will compare
-with that of Gower, Wyclif and Mandeville.]
- . . . . . . . . . .
-[p.15]... He has a double claim to rank as the founder of English
-poetry, from having been the first to make it the vehicle of
-spirited representations of life and native manners, and from
-having been the first great architect of our versification, in
-giving our language the ten syllable, or heroic measure, which,
-though it may sometimes be found among the lines of more
-ancient versifiers, evidently comes in only by accident. This
-measure occurs in the earliest poem that is attributed to him,
-The Court of Love.  ... It is a dream, in which the poet
-fancies himself taken to the Temple of Love, introduced to a
-mistress, and sworn to observe the statutes of the amatory
-[p. 16] god. As the earliest work of Chaucer, it interestingly ex¬
-hibits the successful effort of his youthful hand in erecting a
-new and stately fabric of English numbers. As a piece of
-fancy, it is grotesque and meager [sic]; but the lines often
-flow with great harmony.
-His story of Troilus and Cresseide was the delight of Sir
-Philip Sydney; and perhaps, excepting the Canterbury Tales,
-was, down to the time of Queen Elizabeth, the most popular
-poem in the English language. It is a story of vast length
-and almost desolate simplicity, and abounds in all those
-glorious anachronisms which were then, and so long after, per¬
-mitted to romantic poetry: such as making the son of King
-Priam read the Thebais of Statius, and the gentlemen of Troy
-converse about the devil, justs and tournaments, bishops,
-parliaments, and scholastic divinity.
-The languor of the story is, however, relieved by many
-touches of pathetic beauty. The confession of Cresseide in
-the scene of felicity, when the poet compares her to the "new
-abashed nightingale, that stinteth first ere she beginneth sing,"
-is a fine passage, deservedly noticed by Warton. The grief of
-Troilus after the departure of Cresseide is strongly portrayed
-in Troilus's soliloquy in his bed.
-. . . . . . . . . .
-[p 17] The sensations of Troilus, on coming to the house of his
-faithless Cresseide, when, instead of finding her returned, he
-beholds the barred doors and shut windows, giving tokens of
-her absence, as well as his precipitate departure from the
-distracting scene, are equally well described.
-. . . . . . . . . .
-The two best of Chaucer's allegories, The Flower and the
-Leaf, and The House of Fame, have been fortunately per¬
-[p.18] petuated in our language; the former by Dryden, the latter by
-Pope. The Flower and the Leaf is an exquisite piece of fairy
-fancy.  ... Pope had not so enchanting a subject in The
-House of Fame; yet, with deference to Warton, that critic
-has done Pope injustice in assimilating his imitations of
-Chaucer to the modern ornaments in Westminster Abbey,
-which impair the solemn effect of the ancient building. The
-many absurd and fantastic particulars in Chaucer's House of
-Fame will not suffer us to compare it, as a structure in poetry,
-with so noble a pile as Westminster Abbey in architecture.
-Much of Chaucer's fantastic matter has been judiciously
-omitted by Pope, who at the same time has clothed the best
-ideas of the old poem in spirited numbers and expression.
-Chaucer supposes himself to be snatched up to heaven by a
-large eagle, who addresses him in the name of St. James and
-the Virgin Mary, and, in order to quiet the poet's fears of
-being carried up to Jupiter, like another Ganymede, or turned
-into a star like Orion, tells him, that Jove wishes him to
-sing of other subjects than love and "blind Cupido," and
-has therefore ordered, that Dan Chaucer should be brought
-to behold the House of Fame. In Pope, the philosophy of
-[p. 19] fame comes with much more propriety from the poet himself,
-than from the beak of a talkative eagle.
-It was not until his green old age that Chaucer put forth,
-in the Canterbury Tales, the full variety of his genius, and
-the pathos and romance, as well as the playfulness of fiction.
-In the serious part of those tales he is, in general, more deeply
-indebted to preceding materials, than in the comic stories,
-which he raised upon slight hints to the air and spirit of
-originals.  ...
-Chaucer's design... though it is left unfinished, has
-definite boundaries, and incidents to keep alive our curiosity,
-independent of the tales themselves. At the same time, while
-the action of the poem is an event too simple to divert the
-attention altogether from the pilgrims' stories, the pilgrimage
-itself is an occasion sufficiently important to draw together
-almost all the varieties of existing society, from the knight to
-the artisan, who, agreeably to the old simple manners, assemble
-in the same room of the hostellerie. The enumeration of those
-[p. 20] characters in the Prologue forms a scene, full, without con¬
-fusion; and the object of their journey gives a fortuitous air
-to the grouping of individuals, who collectively represent
-the age and state of society in which they live.
-. . . . . . . . . .
-[p. 21] Chaucer's forte is description; much of his moral reflection
-is superfluous; none of his characteristic painting. His men
-and women are not mere ladies and gentlemen, like those
-who furnish apologies for Boccaccio's stories. They rise before
-us minutely traced, profusely varied, and strongly discrimi¬
-nated. Their features and casual manners seem to have an
-amusing congruity with their moral characters. He notices
-minute circumstances as if by chance; but every touch has
-its effect to our conception so distinctly, that we seem to live
-and travel with his personages throughout the journey.</seg>
+          <seg type="editorial">[The edition consists of an Essay on English Poetry, vol. i, pp.
+            3-271, and a general index in the same vol, followed by extracts
+            from the principal poets, each preceded by a biographical notice.
+            The preliminary Essay was published separately, Boston, 1819,
+            and, with the Biographical Notices, edited by Peter Cunningham,
+            in 1848. The Chaucer references in the latter are, pp. 7, 9n. ,
+            23, 26, 27, 28, 29, 31-34, 37, 47 and n., 52, 53 n., 104 and n.,
+            108 n., 117 n., 120-36, 138, 163, 303 n., 396 n.]</seg>
+          
+          <milestone unit="page" n="111"/>
+            
+          <seg><note place="margin">[vol. i, pp. 70-2]</note>Chaucer was probably known and distinguished as a poet
+            anterior to the appearance of Langlande's Visions. Indeed if
+            he had produced nothing else than his youthful poem, "the
+            Court of Love," it was sufficient to indicate one destined to
+            harmonise and refine the national strains. But it is likely,
+            that before his thirty-fourth year, about which time Langlande's
+            Visions may be supposed to have been finished, Chaucer had
+            given several compositions to the public.</seg>
+            
+          <seg type="editorial">[Campbell continues that the simple old narrative romance
+            had become too familiar to invite Chaucer, and the poverty of
+            English had obliged him to seek models in Latin and foreign
+            tongues. Ovid, Claudian, Statius and Boethius were the
+            favourite Latins, by the allegory of the last two of whom he
+            was influenced, as by the French allegorical romances. The
+            dreams, emblems, etc., of this last visionary school proved too
+            light and playful for his strong genius, though in this work,
+            too, his peculiar grace and gaiety are conspicuous. The Hous
+            of Fame and Flower and Leaf are examples. His similar
+            poems, even the most fantastic in design, are relieved by
+            fresh and joyous descriptions of nature. . . . Chaucer was
+            subsequently drawn to the style of Boccaccio.]
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[vol. ii, pp. 13, 14]</note>[Tyrwhitt had vindicated Chaucer from the charge brought
+            against him by Verstegan, etc., of having adulterated English
+            with French words. Such revolutions in language are not
+            wrought by individuals; and Chaucer's style will compare
+            with that of Gower, Wyclif and Mandeville.]
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[p.15]</note>. . . He has a double claim to rank as the founder of English
+            poetry, from having been the first to make it the vehicle of
+            spirited representations of life and native manners, and from
+            having been the first great architect of our versification, in
+            giving our language the ten syllable, or heroic measure, which,
+            though it may sometimes be found among the lines of more
+            ancient versifiers, evidently comes in only by accident. This
+            measure occurs in the earliest poem that is attributed to him,
+            The Court of Love. . . . It is a dream, in which the poet
+            fancies himself taken to the Temple of Love, introduced to a
+            mistress, and sworn to observe the statutes of the amatory
+            <note place="margin">[p. 16]</note>god. As the earliest work of Chaucer, it interestingly
+            exhibits the successful effort of his youthful hand in erecting a
+            new and stately fabric of English numbers. As a piece of
+            
+            <milestone unit="page" n="112"/>
+            
+            fancy, it is grotesque and meager <add>[sic]</add>; but the lines often
+            flow with great harmony.</seg>
+            
+          <seg>His story of Troilus and Cresseide was the delight of Sir
+            Philip Sydney; and perhaps, excepting the Canterbury Tales,
+            was, down to the time of Queen Elizabeth, the most popular
+            poem in the English language. It is a story of vast length
+            and almost desolate simplicity, and abounds in all those
+            glorious anachronisms which were then, and so long after,
+            permitted to romantic poetry: such as making the son of King
+            Priam read the Thebais of Statius, and the gentlemen of Troy
+            converse about the devil, justs and tournaments, bishops,
+            parliaments, and scholastic divinity.</seg>
+            
+          <seg>The languor of the story is, however, relieved by many
+            touches of pathetic beauty. The confession of Cresseide in
+            the scene of felicity, when the poet compares her to the "new
+            abashed nightingale, that stinteth first ere she beginneth sing,"
+            is a fine passage, deservedly noticed by Warton. The grief of
+            Troilus after the departure of Cresseide is strongly portrayed
+            in Troilus's soliloquy in his bed.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p 17]</note>The sensations of Troilus, on coming to the house of his
+            faithless Cresseide, when, instead of finding her returned, he
+            beholds the barred doors and shut windows, giving tokens of
+            her absence, as well as his precipitate departure from the
+            distracting scene, are equally well described.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg>The two best of Chaucer's allegories, The Flower and the
+            Leaf, and The House of Fame, have been fortunately perpetuated
+            <note place="margin">[p.18]</note>in our language; the former by Dryden, the latter by
+            Pope. The Flower and the Leaf is an exquisite piece of fairy
+            fancy. . . . Pope had not so enchanting a subject in The
+            House of Fame; yet, with deference to Warton, that critic
+            has done Pope injustice in assimilating his imitations of
+            Chaucer to the modern ornaments in Westminster Abbey,
+            which impair the solemn effect of the ancient building. The
+            many absurd and fantastic particulars in Chaucer's House of
+            Fame will not suffer us to compare it, as a structure in poetry,
+            with so noble a pile as Westminster Abbey in architecture.
+            Much of Chaucer's fantastic matter has been judiciously
+            omitted by Pope, who at the same time has clothed the best
+            ideas of the old poem in spirited numbers and expression.
+            
+            <milestone unit="page" n="113"/>
+            
+            Chaucer supposes himself to be snatched up to heaven by a
+            large eagle, who addresses him in the name of St. James and
+            the Virgin Mary, and, in order to quiet the poet's fears of
+            being carried up to Jupiter, like another Ganymede, or turned
+            into a star like Orion, tells him, that Jove wishes him to
+            sing of other subjects than love and "blind Cupido," and
+            has therefore ordered, that Dan Chaucer should be brought
+            to behold the House of Fame. In Pope, the philosophy of
+            <note place="margin">[p. 19]</note>fame comes with much more propriety from the poet himself,
+            than from the beak of a talkative eagle.</seg>
+            
+          <seg>It was not until his green old age that Chaucer put forth,
+            in the Canterbury Tales, the full variety of his genius, and
+            the pathos and romance, as well as the playfulness of fiction.
+            In the serious part of those tales he is, in general, more deeply
+            indebted to preceding materials, than in the comic stories,
+            which he raised upon slight hints to the air and spirit of
+            originals. . . .</seg>
+            
+          <seg>Chaucer's design . . . though it is left unfinished, has
+            definite boundaries, and incidents to keep alive our curiosity,
+            independent of the tales themselves. At the same time, while
+            the action of the poem is an event too simple to divert the
+            attention altogether from the pilgrims' stories, the pilgrimage
+            itself is an occasion sufficiently important to draw together
+            almost all the varieties of existing society, from the knight to
+            the artisan, who, agreeably to the old simple manners, assemble
+            in the same room of the hostellerie. The enumeration of those
+            <note place="margin">[p. 20]</note>characters in the Prologue forms a scene, full, without
+            confusion; and the object of their journey gives a fortuitous air
+            to the grouping of individuals, who collectively represent
+            the age and state of society in which they live.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 21]</note>Chaucer's forte is description; much of his moral reflection
+            is superfluous; none of his characteristic painting. His men
+            and women are not mere ladies and gentlemen, like those
+            who furnish apologies for Boccaccio's stories. They rise before
+            us minutely traced, profusely varied, and strongly discriminated.
+            Their features and casual manners seem to have an
+            amusing congruity with their moral characters. He notices
+            minute circumstances as if by chance; but every touch has
+            its effect to our conception so distinctly, that we seem to live
+            and travel with his personages throughout the journey.</seg>
         </ab>
       </div>
     </body>

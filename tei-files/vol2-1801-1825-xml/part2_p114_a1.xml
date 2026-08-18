@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1819, Henry Francis Cary. The Life of Dante,</title>
+        <title>1819, Henry Francis Cary. The Life of Dante.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54579575">Henry Francis Cary</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54579575">Cary, Henry Francis</author>
             <date cert="high" when="1819">1819</date>
-            <title level="a">The Life of Dante,</title>
+            <title level="a">The Life of Dante.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="114"/>
-        <ab type="imprint">1819. Cary, Henry Francis. The Life of Dante, prefixed to The Vision ... of Dante translated by H. F. Cary, 2nd edition, 1819, 3 vols., vol. i, pp. xxxix, xliii, note [many notes additional to those in 1st edition of 1814, q. v.]. Notes on the text, pp. 12,* 13, 18, 21,* 32, 37, 43,* 44,* 47,* 60,* 99,* 112, 127, 264, 265, [a note from Warton’s Hist. of Eng. Poetry] 269, 281, 283, 287, 292; vol. ii, pp. xi, 4, 64, 78, 168,* 193, 201,* 207,* 247,* 255,* 305, 309*; vol. iii, pp. 4, 7, 9,* 81,* 127, 131,* 148, 171, 172, 204, 215,* 226,* 237,* 280,* 290,* 291.* [* Not in 1st edition.]</ab>
+        
+        <ab type="imprint">1819. Cary, Henry Francis. The Life of Dante, prefixed to The Vision . . . of Dante translated by H. F. Cary, 2nd edition, 1819, 3 vols., vol. i, pp. xxxix, xliii, note [many notes additional to those in 1st edition of 1814, q. v.]. Notes on the text, pp. 12,* 13, 18, 21,* 32, 37, 43,* 44,* 47,* 60,* 99,* 112, 127, 264, 265, [a note from Warton’s Hist. of Eng. Poetry] 269, 281, 283, 287, 292; vol. ii, pp. xi, 4, 64, 78, 168,* 193, 201,* 207,* 247,* 255,* 305, 309*; vol. iii, pp. 4, 7, 9,* 81,* 127, 131,* 148, 171, 172, 204, 215,* 226,* 237,* 280,* 290,* 291.*<note type="footnote">Note in Spurgeon: [* Not in 1st edition.]</note></ab>
       </div>
     </body>
   </text>

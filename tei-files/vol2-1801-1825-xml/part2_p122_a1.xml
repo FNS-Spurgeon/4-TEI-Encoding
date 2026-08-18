@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27079964">Ralph Waldo Emerson</author>
-            <date cert="low" when="[c. 1820]">[c. 1820]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27079964">Emerson, Ralph Waldo</author>
+            <date cert="low" when="1820">[c. 1820]</date>
             <title level="a">Journal.</title>
           </analytic>
           <monogr>
@@ -84,12 +84,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="122"/>
-        <ab type="imprint">[c. 1820.] Emerson, Ralph Waldo. Journal. [Quoted in the Biographical Sketch in his Works, Centenary Edition, 1903, vol. i, p. xvi.]</ab>
+        
+        <ab type="imprint">[c. 1820.] Emerson, Ralph Waldo. <hi rend="italic">Journal</hi>. [Quoted in the Biographical Sketch in his Works, Centenary Edition, 1903, vol. i, p. xvi.]</ab>
+        
         <ab type="quotation">
-          <seg>[Alluding to himself in his Journal, he writes of] the
-youth who has no faculty for mathematics and weeps over
-the impossible analytical geometry, to console his defeats with
-Chaucer and Montaigne, with Plutarch and Plato at night.</seg>
+          <seg><add>[Alluding to himself in his Journal, he writes of]</add> the
+            youth who has no faculty for mathematics and weeps over
+            the impossible analytical geometry, to console his defeats with
+            Chaucer and Montaigne, with Plutarch and Plato at night.</seg>
         </ab>
       </div>
     </body>

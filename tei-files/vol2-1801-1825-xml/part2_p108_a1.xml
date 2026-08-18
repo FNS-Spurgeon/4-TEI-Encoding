@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1818, Walter Scott. Rob Roy,</title>
+        <title>1818, Walter Scott. Rob Roy.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1818">1818</date>
-            <title level="a">Rob Roy,</title>
+            <title level="a">Rob Roy.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,19 +84,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="108"/>
-        <ab type="imprint">1818. Scott, Sir Walter. Rob Roy, 3 vols., vol. ii, chap. vi, p. 122, ch. xii, p. 242. (Border Edition, ed. Andrew Lang, 1893, vol. ii, ch. ii, p. 21, ch. viii, p. 93.)</ab>
+        
+        <ab type="imprint">1818. Scott, Sir Walter. <hi rend="italic">Rob Roy</hi>, 3 vols., vol. ii, chap. vi, p. 122, ch. xii, p. 242. (Border Edition, ed. Andrew Lang, 1893, vol. ii, ch. ii, p. 21, ch. viii, p. 93.)</ab>
+        
         <ab type="quotation">
-          <seg>[Vol. ii,
-p. 21]
-We alighted at the door of a jolly hostler-wife, as Andrew
-called her, The Ostelere of old father Chaucer, by whom we
-were civilly received.
-[Vol. ii,
-So stands the Thracian herdsman with his spear
-[Chapter heading.]
-p. 98]
-[and five following lines].
-[Dryden's] Palamon and Arcite.</seg>
+          <seg><note place="margin">[Vol. ii, p. 21]</note>We alighted at the door of a jolly hostler-wife, as Andrew
+            called her, The Ostelere of old father Chaucer, by whom we
+            were civilly received.</seg>
+            
+          <seg><add>[Chapter heading.]</add>
+            <note place="margin">[Vol. ii, p. 98]</note>So stands the Thracian herdsman with his spear
+            <lb/><add>[and five following lines]</add>.
+            <lb/><add>[Dryden's]</add> Palamon and Arcite.</seg>
         </ab>
       </div>
     </body>

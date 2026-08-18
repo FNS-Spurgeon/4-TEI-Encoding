@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1819], Robert Watt. Bibliotheca Britannica;</title>
+        <title>[a. 1819], Robert Watt. Bibliotheca Britannica.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/2620898">Robert Watt</author>
-            <date cert="low" when="[a. 1819]">[a. 1819]</date>
-            <title level="a">Bibliotheca Britannica;</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/2620898">Watt, Robert</author>
+            <date cert="low" notAfter="1819">[a. 1819]</date>
+            <title level="a">Bibliotheca Britannica.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#bibliography" target="#"/>
+        <catRef scheme="#others" target="#bibliography"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,7 +86,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="120"/>
-        <ab type="imprint">[a. 1819.] Watt, Robert. Bibliotheca Britannica; in Two Parts :— Authors and Subjects. Edinburgh, 1824, volume i.— Authors, p. 218 d-t, Chaucer, Jeffery; volume iii.—Subjects, sign. 2 J 2: Chaucer, Jeffery.</ab>
+        
+        <ab type="imprint">[a. 1819.] Watt, Robert. <hi rend="italic">Bibliotheca Britannica</hi>; in Two Parts :— Authors and Subjects. Edinburgh, 1824, volume i.— Authors, p. 218 d-t, Chaucer, Jeffery; volume iii.—Subjects, sign. 2 J 2: Chaucer, Jeffery.<note type="footnote">[Watt died 12th March, 1819, when only a few sheets had been printed off. The book appeared in parts, Glasgow, 1819-20, and the complete work has title-pages dated 1824. See D.N.B.]</note></ab>
       </div>
     </body>
   </text>

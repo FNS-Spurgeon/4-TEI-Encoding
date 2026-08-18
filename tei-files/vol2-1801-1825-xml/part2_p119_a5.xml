@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[1819?], Unknown.. Childe Harold in the Shades, an infernal Romaunt.</title>
+        <title>[1819?], Unknown. Childe Harold in the Shades, an infernal Romaunt.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,7 +37,7 @@
         <biblStruct>
           <analytic>
             <author>Unknown.</author>
-            <date cert="low" when="[1819?]">[1819?]</date>
+            <date cert="low" when="1819">[1819?]</date>
             <title level="a">Childe Harold in the Shades, an infernal Romaunt.</title>
           </analytic>
           <monogr>
@@ -84,21 +84,27 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="119"/>
-        <ab type="imprint">[1819?] Unknown. Childe Harold in the Shades, an infernal Romaunt. [Not in B. M. The extract given below is taken from a review in The Gentleman's Magazine, April, 1819, vol. lxxxix, pp. 336-7.]</ab>
+        
+        <ab type="imprint">[1819?] Unknown. <hi rend="italic">Childe Harold in the Shades, an infernal Romaunt.</hi> [Not in B. M. The extract given below is taken from a review in The Gentleman's Magazine, April, 1819, vol. lxxxix, pp. 336-7.]</ab>
+        
+        <milestone unit="page" n="120"/>
+        
         <ab type="quotation">
-          <seg>The Noble Shade... also vieweth the shades of Dr.
-Johnson and Dan Chaucer...
-The father of English Poetry is more kindly treated [than
-Dr. Johnson]:
-In antique vest arrayed stands Chaucer there,
-Telling quaint stories to a listening throng;
-Maid, widow, wife, old, young, ill-favoured, fair,
-Cruel and yielding, in his motley song
-Together flowed: unpolished, rough, but strong,
-And full of fire the merry notes he used;
-Rightly to him our earliest bays belong,
-Though much by modern copyists abused,
-Who imitate the faults the age in him excused.</seg>
+          <seg>The Noble Shade . . . also vieweth the shades of Dr. Johnson and Dan Chaucer . . .</seg>
+            
+          <seg>The father of English Poetry is more kindly treated <add>[than Dr. Johnson]</add>:
+            <lg>
+              <l>In antique vest arrayed stands Chaucer there,</l>
+              <l>Telling quaint stories to a listening throng;</l>
+              <l>Maid, widow, wife, old, young, ill-favoured, fair,</l>
+              <l>Cruel and yielding, in his motley song</l>
+              <l>Together flowed: unpolished, rough, but strong,</l>
+              <l>And full of fire the merry notes he used;</l>
+              <l>Rightly to him our earliest bays belong,</l>
+              <l>Though much by modern copyists abused,</l>
+              <l>Who imitate the faults the age in him excused.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

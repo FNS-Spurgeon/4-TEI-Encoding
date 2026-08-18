@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">William Hazlitt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">Hazlitt, William</author>
             <date cert="high" when="1820">1820</date>
             <title level="a">Lectures, chiefly on the Dramatic Literature of the Age of Elizabeth.</title>
           </analytic>
@@ -84,24 +84,30 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="123"/>
-        <ab type="imprint">1820. Hazlitt, William. Lectures, chiefly on the Dramatic Literature of the Age of Elizabeth. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. v, pp. 190, 195, 196, 239, 240, 261, 289, 296.)</ab>
+        
+        <ab type="imprint">1820. Hazlitt, William. <hi rend="italic">Lectures, chiefly on the Dramatic Literature of the Age of Elizabeth</hi>. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. v, pp. 190, 195, 196, 239, 240, 261, 289, 296.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 195] [Ferrex and Porrex, or, Gorboduc.] There seems a reference
-to Chaucer in the wording of the lines–
-" Then saw I how he smiled with slaying knife
-Wrapp'd under cloke, then saw I deep deceit
-Lurk in his face, and death prepared for me." ¹
-[p. 196] The Induction to the Mirrour for Magistrates... sometimes
-. . . . . . . . . .
-reminds one of Chaucer.
-[p. 239]
-[Brief reference to "patient Grizzel."]
-[p. 240]  Deckar is more like Chaucer or Boccaccio; as Webster's
-mind appears to have been cast more in the mould of
-Shakespear’s.  ...
-[p. 261] [Chaucer’s “Palamon and Arcite,” especially the latter part,
-is more powerfully dramatic than the Two Noble Kinsmen.]</seg>
-          <note type="footnote">Note in Spurgeon: ¹ "The smiler with the knife under his cloke."—Knight's Tale.</note>
+          <seg><note place="margin">[p. 195]</note><add>[Ferrex and Porrex, or, Gorboduc.]</add> There seems a reference
+            to Chaucer in the wording of the lines–
+            <lg>
+              <l>"Then saw I how he smiled with slaying knife</l>
+              <l>Wrapp'd under cloke, then saw I deep deceit</l>
+              <l>Lurk in his face, and death prepared for me."<note type="footnote">Note in Spurgeon: "The smiler with the knife under his cloke."—<hi rend="italic">Knight's Tale</hi>.</note></l>
+            </lg>
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 196]</note>The Induction to the Mirrour for Magistrates . . . sometimes
+            reminds one of Chaucer.</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 239]</note>[Brief reference to "patient Grizzel."]</seg>
+            
+          <seg><note place="margin">[p. 240]</note>Deckar is more like Chaucer or Boccaccio; as Webster's
+            mind appears to have been cast more in the mould of
+            Shakespear’s. . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 261]</note>[Chaucer’s “Palamon and Arcite,” especially the latter part,
+            is more powerfully dramatic than the Two Noble Kinsmen.]</seg>
         </ab>
       </div>
     </body>

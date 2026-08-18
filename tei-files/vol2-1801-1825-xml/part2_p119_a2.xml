@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/67969829">Ezekiel Sanford</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/67969829">Sanford, Ezekiel</author>
             <date cert="high" when="1819">1819</date>
             <title level="a">Select Poems of Geoffrey Chaucer.</title>
           </analytic>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#selections"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,14 +86,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="119"/>
-        <ab type="imprint">1819. Sanford, Ezekiel. Select Poems of Geoffrey Chaucer. With a life of the author, by E. Sanford, [in] Works of the British Poets, Philadelphia, 1819-23, 50 vols., vol. i, Chaucer, etc., Preface, pp. vii-ix, Life and Poems, pp. 1-216, and vol. ii, pp. 7, 15.</ab>
+        
+        <ab type="imprint">1819. Sanford, Ezekiel. <hi rend="italic">Select Poems of Geoffrey Chaucer</hi>. With a life of the author, by E. Sanford, [in] Works of the British Poets, Philadelphia, 1819-23, 50 vols., vol. i, Chaucer, etc., Preface, pp. vii-ix, Life and Poems, pp. 1-216, and vol. ii, pp. 7, 15.</ab>
+        
         <ab type="quotation">
-          <seg>[Vol. i contains a Life of Chaucer by Sanford, which con¬
-sists largely of criticism, explicit or implicit, of Godwin and
-other biographers of Chaucer for their guesses and irrelevancies.
-The select poems are from the Canterbury Tales with the
-Flower and Leaf. Gower, Skelton, Wyatt, Surrey and Gas¬
-coigne complete the volume.]</seg>
+          <seg type="editorial">[Vol. i contains a Life of Chaucer by Sanford, which consists
+            largely of criticism, explicit or implicit, of Godwin and
+            other biographers of Chaucer for their guesses and irrelevancies.
+            The select poems are from the <hi rend="italic">Canterbury Tales</hi> with the
+            <hi rend="italic">Flower and Leaf</hi>. Gower, Skelton, Wyatt, Surrey and Gascoigne complete the volume.]</seg>
         </ab>
       </div>
     </body>

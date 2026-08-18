@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1819, Leigh Hunt. Pleasant recollections connected with various parts of the Metropolis,</title>
+        <title>1819, Leigh Hunt. Pleasant recollections connected with various parts of the Metropolis.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
             <date cert="high" when="1819">1819</date>
-            <title level="a">Pleasant recollections connected with various parts of the Metropolis,</title>
+            <title level="a">Pleasant recollections connected with various parts of the Metropolis.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,12 +84,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="116"/>
-        <ab type="imprint">1819. Hunt, James Henry Leigh. Pleasant recollections connected with various parts of the Metropolis, [in] The Indicator, Oct. 27, 1819, pp. 20, 24.</ab>
+        
+        <ab type="imprint">1819. Hunt, James Henry Leigh. <hi rend="italic">Pleasant recollections connected with various parts of the Metropolis</hi>, [in] The Indicator, Oct. 27, 1819, pp. 20, 24.</ab>
+        
         <ab type="quotation">
-          <seg>[References to the monument in St. Saviour's church in the
-Borough to Gower, ‘Chaucer's contemporary’; to the Tabard
-Inn, the site of which is "pointed out by a picture and
-inscription"; and to the French of Stratforde-atte-Bowe.]</seg>
+          <seg type="editorial">[References to the monument in St. Saviour's church in the
+            Borough to Gower, ‘Chaucer's contemporary’; to the Tabard
+            Inn, the site of which is "pointed out by a picture and
+            inscription"; and to the French of Stratforde-atte-Bowe.]</seg>
         </ab>
       </div>
     </body>

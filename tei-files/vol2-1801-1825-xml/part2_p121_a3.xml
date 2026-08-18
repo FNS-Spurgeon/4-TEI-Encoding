@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1820, John Payne Collier. The Poetical Decameron, or, Ten Con versations on English Poets and Poetry, particularly of the Reigns of Elizabeth and James I,</title>
+        <title>1820, John Payne Collier. The Poetical Decameron, or, Ten Conversations on English Poets and Poetry, particularly of the Reigns of Elizabeth and James I.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/49275505">John Payne Collier</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/49275505">Collier, John Payne</author>
             <date cert="high" when="1820">1820</date>
-            <title level="a">The Poetical Decameron, or, Ten Con versations on English Poets and Poetry, particularly of the Reigns of Elizabeth and James I,</title>
+            <title level="a">The Poetical Decameron, or, Ten Conversations on English Poets and Poetry, particularly of the Reigns of Elizabeth and James I.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,64 +84,84 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="121"/>
-        <ab type="imprint">1820. Collier, John Payne. The Poetical Decameron, or, Ten Con versations on English Poets and Poetry, particularly of the Reigns of Elizabeth and James I, 2 vols., vol. i, pp. xxi, 81, 297; vol. ii, pp. 165, 166.</ab>
+        
+        <ab type="imprint">1820. Collier, John Payne. <hi rend="italic">The Poetical Decameron, or, Ten Conversations on English Poets and Poetry, particularly of the Reigns of Elizabeth and James I</hi>, 2 vols., vol. i, pp. xxi, 81, 297; vol. ii, pp. 165, 166.</ab>
+        
         <ab type="quotation">
-          <seg>[vol. i,
-p. xxi.]
-"For out of the old fields, as men saith,
-Cometh all this new corn fro year to year,
-And out of old books, in good faith,
-Cometh all this new science that men lere;"
-is the language of Chaucer in his "Assembly of Foules"
-[Parlement of Foules, ll. 22-5], and if it were true at the time
-he wrote how much more likely is it to be true at the time
-when we are speaking?
-. . . . . . . . . .
-[p. 31] Morton. There is a passage in Ascham’s Schoolmaster, which
-expressly alludes to the admirers and imitators of Petrarch...
-"Some (he says) that make Chaucer in English, and Petrarch
-in Italian, their gods in verses,... would needs be counted
-like unto him." [See vol. i, pp. 97, 98, above.]
-. . . . . . . . . .
-[p. 297] Morton.  Chaucer, in his Man of Law's Tale, I remember,
-has a pretty passage in praise of a good woman:
-"In her is hie beautie, without pride...
-Her honde minister of fredome &amp; almes."
-[ll. 162-8.]
-Bourne.  But that is by no means equal to his description
-of a good and obedient wife, and the comfort to be derived
-from her, in his Merchant's Tale:
-"A wife! ah saint Mary benedicite!
-How might a man haue any aduersitie
-And so on for about ten lines farther, but my memory does not
-That hath a wife."—
-serve me to repeat them.
-[p. 298]
-Elliot.  I recollect it goes on thus–
-—"Certes I can not say
-The blisse that is betwixt hem twey."—
-But the wife of Bath could have told him.
-Morton.  You have a knack of finding out ambiguities
-never dreamt of by the pure simplicity of the author:
-— Ævo rarissima nostro
-Bourne.  Chaucer's “pure simplicity," as you call it, upon
-Simplicitas.
-those subjects is very questionable.
-[vol. ii,  Bourne... Did you ever hear of a separate printed poem
-. . . . . . . . . .
-p. 165]
-by William Painter; I mean unconnected with "the Palace
-of Pleasure?”
-Morton.  Certainly never.
-[p. 166] was shown me not long since... The title page is wanting,
-Bourne.  Yet such a poem, or rather collection of poems,
-but the running-title is "Chaucer painted:" why it is so
-called I cannot guess, as in the cursory view I had of the
-book I saw nothing that had any relation to Chaucer: the
-greater portion was proverbs strung together in four-line
-stanzas. Towards the end was a poem lamenting the de¬
-generacy of shepherds, and an anagram on the mother of the
-author, Jone Clark. [See above, 1623, vol. i, p. 198.]</seg>
+          <seg>
+            <lg>
+              <note place="margin">[vol. i, p. xxi.]</note><l>"For out of the old fields, as men saith,</l>
+              <l>Cometh all this new corn fro year to year,</l>
+              <l>And out of old books, in good faith,</l>
+              <l>Cometh all this new science that men lere;"</l>
+            </lg>
+            is the language of Chaucer in his "Assembly of Foules"
+            <add>[<hi rend="italic">Parlement of Foules</hi>, ll. 22-5]</add>, and if it were true at the time
+            he wrote how much more likely is it to be true at the time
+            when we are speaking?
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 31]</note> Morton. There is a passage in Ascham’s Schoolmaster, which
+            expressly alludes to the admirers and imitators of Petrarch . . .
+            "Some (he says) that make Chaucer in English, and Petrarch
+            in Italian, their gods in verses, . . . would needs be counted
+            like unto him." <add>[See vol. i, pp. 97, 98, above.]</add>
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 297]</note>Morton. Chaucer, in his Man of Law's Tale, I remember,
+            has a pretty passage in praise of a good woman:
+            <lg>
+              <l>"In her is hie beautie, without pride...</l>
+              <l>Her honde minister of fredome &amp; almes."</l>
+              <note place="right">[ll. 162-8.]</note>
+            </lg>
+          </seg>
+            
+          <seg>Bourne. But that is by no means equal to his description
+            of a good and obedient wife, and the comfort to be derived
+            from her, in his Merchant's Tale:
+            
+            <milestone unit="page" n="122"/>
+            
+            <lg>
+              <l>"A wife! ah saint Mary benedicite!</l>
+              <l>How might a man haue any aduersitie</l>
+              <l>That hath a wife."—</l>
+            </lg>
+            And so on for about ten lines farther, but my memory does not
+            serve me to repeat them.</seg>
+            
+          <seg>Elliot. I recollect it goes on thus–
+            <lg>
+              <note place="margin">[p. 298]</note><l>—"Certes I can not say</l>
+              <l>The blisse that is betwixt hem twey."—</l>
+            </lg>
+            But the wife of Bath could have told him.
+          </seg>
+            
+          <seg>Morton. You have a knack of finding out ambiguities
+            never dreamt of by the pure simplicity of the author:
+            <lb/>— Ævo rarissima nostro
+            <lb/>Simplicitas.</seg>
+            
+          <seg>Bourne. Chaucer's "pure simplicity," as you call it, upon
+            those subjects is very questionable.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[vol. ii, p. 165]</note>Bourne . . . Did you ever hear of a separate printed poem
+            by William Painter; I mean unconnected with "the Palace of Pleasure?”</seg>
+            
+          <seg>Morton. Certainly never.</seg>
+            
+          <seg>Bourne. Yet such a poem, or rather collection of poems,
+            <note place="margin">[p. 166]</note>was shown me not long since . . . The title page is wanting,
+            but the running-title is "Chaucer painted:" why it is so
+            called I cannot guess, as in the cursory view I had of the
+            book I saw nothing that had any relation to Chaucer: the
+            greater portion was proverbs strung together in four-line
+            stanzas. Towards the end was a poem lamenting the degeneracy
+            of shepherds, and an anagram on the mother of the
+            author, Jone Clark. <add>[See above, 1623, vol. i, p. 198.]</add></seg>
         </ab>
       </div>
     </body>

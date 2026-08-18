@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1819">1819</date>
             <title level="a">Ivanhoe.</title>
           </analytic>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="119"/>
-        <ab type="imprint">1819. Scott, Sir Walter. Ivanhoe. See above, 1817.</ab>
+        
+        <ab type="imprint">1819. Scott, Sir Walter. <hi rend="italic">Ivanhoe</hi>. See above, 1817.</ab>
       </div>
     </body>
   </text>

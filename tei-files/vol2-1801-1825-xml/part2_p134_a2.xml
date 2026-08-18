@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95159449">Percy Bysshe Shelley</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95159449">Shelley, Percy Bysshe</author>
             <date cert="high" when="1821">1821</date>
             <title level="a">A Defence of Poetry.</title>
           </analytic>
@@ -84,27 +84,28 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="134"/>
-        <ab type="imprint">1821. Shelley, Percy Bysshe. A Defence of Poetry. (The Works of P. B. Shelley in Verse and Prose, ed. H. Buxton Forman, 1880 [1876-80], vol. vii, pp. 130, 134.)</ab>
+        
+        <ab type="imprint">1821. Shelley, Percy Bysshe. <hi rend="italic">A Defence of Poetry</hi>. (The Works of P. B. Shelley in Verse and Prose, ed. H. Buxton Forman, 1880 [1876-80], vol. vii, pp. 130, 134.)<note type="footnote">Note in Spurgeon: [The <hi rend="italic">Defence of Poetry</hi> was written in 1821, and was intended to be published in
+            <hi rend="italic">Ollier's Literary Miscellany</hi>, as an answer to Peacock's <hi rend="italic">Four Ages of Poetry</hi>, but it only appeared posthumously in 1840 in <hi rend="italic">Essays and Letters</hi>.]</note></ab>
+        
         <ab type="quotation">
-          <seg>[The Defence of Poetry was written in 1821, and was intended to be published in
-Ollier's Literary Miscellany, as an answer to Peacock's Four Ages of Poetry, but it only
-appeared posthumously in 1840 in Essays and Letters.]
-[p. 130] The age immediately succeeding to that of Dante, Petrarch
-and Boccaccio, was characterised by a revival of painting,
-sculpture and architecture. Chaucer caught the sacred in¬
-spiration, and the superstructure of English literature is based
-upon the materials of Italian invention.  ...
-. . . . . . . . . .
-[p.134] But it exceeds all imagination to conceive what would have
-been the moral condition of the world, if neither Dante,
-Petrarch, Boccaccio, Chaucer, Shakspeare, Calderon, Lord
-Bacon, nor Milton had ever existed; if Raphael and Michael
-Angelo had never been born; if the Hebrew poetry had
-never been translated; if a revival of the study of Greek
-literature had never taken place; if no monuments of ancient
-sculpture had thus been handed down to us; and if the
-poetry of the religion of the ancient world had been
-extinguished together with its belief.</seg>
+          <seg><note place="margin">[p. 130]</note>The age immediately succeeding to that of Dante, Petrarch
+            and Boccaccio, was characterised by a revival of painting,
+            sculpture and architecture. Chaucer caught the sacred inspiration,
+            and the superstructure of English literature is based
+            upon the materials of Italian invention. . . .
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p.134]</note>But it exceeds all imagination to conceive what would have
+            been the moral condition of the world, if neither Dante,
+            Petrarch, Boccaccio, Chaucer, Shakspeare, Calderon, Lord
+            Bacon, nor Milton had ever existed; if Raphael and Michael
+            Angelo had never been born; if the Hebrew poetry had
+            never been translated; if a revival of the study of Greek
+            literature had never taken place; if no monuments of ancient
+            sculpture had thus been handed down to us; and if the
+            poetry of the religion of the ancient world had been
+            extinguished together with its belief.</seg>
         </ab>
       </div>
     </body>

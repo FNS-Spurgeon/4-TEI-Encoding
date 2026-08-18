@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[1819-20], Washington Irving. The Sketch</title>
+        <title>[1819-20], [Washington Irving]. The Sketch Book of Geoffrey Crayon, Gent.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/295999941">Washington Irving</author>
-            <date cert="medium" when="[1819-20]">[1819-20]</date>
-            <title level="a">The Sketch</title>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/295999941">Irving, Washington</author>
+            <date cert="medium" from="1819" to="1820">[1819-20]</date>
+            <title level="a">The Sketch Book of Geoffrey Crayon, Gent.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,30 +84,42 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="116"/>
-        <ab type="imprint">[1819-20.] [Irving, Washington.] The Sketch London, 1820, 2 vols., vol. i, pp. 129, 177, 183-4, 189, 271-2n, 282; vol. ii, p. 415. (Works, Geoffrey Crayon edn., [1880- 83], 27 vols., vol. ii, pp. 96-7, 125, 130, 134, 185-6 n, 193, 522.)</ab>
+        
+        <ab type="imprint">[1819-20.] [Irving, Washington.] <hi rend="italic">The Sketch Book of Geoffrey Crayon, Gent.</hi> London, 1820, 2 vols., vol. i, pp. 129, 177, 183-4, 189, 271-2n, 282; vol. ii, p. 415. (Works, Geoffrey Crayon edn., [1880- 83], 27 vols., vol. ii, pp. 96-7, 125, 130, 134, 185-6 n, 193, 522.)<note type="footnote">Note in Spurgeon: [The papers composing the Sketch Book were written in England and published serially in America in 1819-20. The first edition in B.M. is that to which references are given above.]</note></ab>
+        
         <ab type="quotation">
-          <seg>[pp. 96-7] [Reference to the Flower and the Leaf as Chaucer's.]
-Rural life in England.
-[p. 125] [King James I of Scotland read Chaucer's translation of
-A Royal Poet.
-[p. 130] Boethius in prison; compared to Palamon and Arcite; his
-[p. 134] admiration for Chaucer; traces of similarity in their writings.]
-[p.185 n.] [Quotation from “Chaucer's Testament of Love."]
-The Mutability of Literature.
-[p.186 n.] Holinshed, in his Chronicle, observes, “Afterwards also, by
-diligent travell of Geffry Chaucer and John Gowre, in the time
-of Richard the Second, and after them of John Scogan and
-John Lydgate, Monke of Berrie, our said toong was brought
-to an excellent passe." [Holinshed’s Chronicles, 1808, 6 vols.,
-vol. i, p. 24; see below, App. A, 1577.]
-[p. 198] The setting may occasionally be antiquated, and require now
-and then to be renewed, as in the case of Chaucer; but the
-brilliancy and intrinsic value of the gems continue unaltered.
-Motto to Envoy.
-[p. 522] Go, little Booke, God send thee good passage
-[and four following lines].
-Chaucer's [or rather Ros’s] Belle Dame sans Mercie.</seg>
-          <note type="footnote">Note in Spurgeon: [The papers composing the Sketch Book were written in England and published serially in America in 1819-20. The first edition in B.M. is that to which references are given above.]</note>
+          <seg>Rural life in England.</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 96-7]</note>[Reference to the <hi rend="italic">Flower and the Leaf</hi> as Chaucer's.]</seg>
+          
+          <seg>A Royal Poet.</seg>
+                    
+          <seg type="editorial"><note place="margin">[p. 125]</note>[King James I of Scotland read Chaucer's translation of
+            <note place="margin">[p. 130]</note>Boethius in prison; compared to Palamon and Arcite; his
+            <note place="margin">[p. 134]</note>admiration for Chaucer; traces of similarity in their writings.]</seg>
+            
+          <seg>The Mutability of Literature.</seg>
+            
+          <seg type="editorial"><note place="margin">[p.185 n.]</note>[Quotation from "Chaucer's Testament of Love."]</seg>
+            
+          <seg><note place="margin">[p.186 n.]</note>Holinshed, in his Chronicle, observes, "Afterwards also, by
+            diligent travell of Geffry Chaucer and John Gowre, in the time
+            
+            <milestone unit="page" n="117"/>
+            
+            of Richard the Second, and after them of John Scogan and
+            John Lydgate, Monke of Berrie, our said toong was brought
+            to an excellent passe." <add>[Holinshed’s Chronicles, 1808, 6 vols.,
+            vol. i, p. 24; see below, App. A, 1577.]</add></seg>
+            
+          <seg><note place="margin">[p. 198]</note>The setting may occasionally be antiquated, and require now
+            and then to be renewed, as in the case of Chaucer; but the
+            brilliancy and intrinsic value of the gems continue unaltered.</seg>
+            
+          <seg>Motto to Envoy.
+            <note place="margin">[p. 522]</note><l>Go, little Booke, God send thee good passage</l>
+            <add>[and four following lines]</add>.
+            <lb/>Chaucer's <add>[or rather Ros’s]</add> <hi rend="italic">Belle Dame sans Mercie</hi>.</seg>
         </ab>
       </div>
     </body>

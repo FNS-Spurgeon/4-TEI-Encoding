@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1819], Robert Southey. The Doctor,</title>
+        <title>[a. 1819], [Robert Southey]. The Doctor.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/61576896">Robert Southey</author>
-            <date cert="low" when="[a. 1819]">[a. 1819]</date>
-            <title level="a">The Doctor,</title>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/61576896">Southey, Robert</author>
+            <date cert="low" notAfter="1819">[a. 1819]</date>
+            <title level="a">The Doctor.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,34 +84,29 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="109"/>
-        <ab type="imprint">[a. 1819.] [Southey, Robert.] The Doctor, [published] 1834, vol. i, p.48, vol. ii, pp. vi, 24, vol. iii, p. x, vol. v, p. 157, vol vii, p. 87 note.</ab>
+        
+        <ab type="imprint">[a. 1819.] [Southey, Robert.] <hi rend="italic">The Doctor</hi>, [published] 1834, vol. i, p.48, vol. ii, pp. vi, 24, vol. iii, p. x, vol. v, p. 157, vol vii, p. 87 note.<note type="footnote">Note in Spurgeon: [<hi rend="italic">The Doctor</hi>, though not published till 1834, was begun in 1813, and Cuthbert Southey says (Life and Correspondence of Southey) that the greater part of the book was written before he was born, i. e. before 1819.]</note></ab>
+        
         <ab type="quotation">
-          <seg>[Vol. i,    The persons who?—
-p. 48]
-I maie not tell you all at once;
-But as I maie and can, I shall
-By order tellen you it all.
-So saith Chaucer. [A reminiscence of B. of the Duchesse, ll.
-216-18?]
-[Vol. ii,
-pp. vi
-[Heading to chapter XXXV.]
-and 24]
-Why I should I sowen draf out of my fist
-When I may sowen wheat, if that me list?
-Chaucer [Parson's Prol., ll. 35-6].
-[Vol, iii,   Prelude of Mottoes.
-p. x]
-Out of the old fieldes, as men saith
-[and four following lines, Assemble of Foules, st. 4].
-Chaucer.
-[Vol. v,
-p. 157]
-[Wordsworth has ‘very skilfully’ modernised one of
-Chaucer's poems.]
-[Vol. vii, p. 87]
-We... sat doun, an' grat.*</seg>
-          <note type="footnote">Note in Spurgeon: [Note] * i. e. wept, from the old word greet, common to all the northern languages. Chaucer, Spenser, etc., use it. [The Doctor, though not published till 1834, was begun in 1813, and Cuthbert Southey says (Life and Correspondence of Southey) that the greater part of the book was written before he was born, i. e. before 1819.]</note>
+          <seg><note place="margin">[Vol. i, p. 48]</note><l>The persons who?—</l>
+            <l>I maie not tell you all at once;</l>
+            <l>But as I maie and can, I shall</l>
+            <l>By order tellen you it all.</l>
+            <l>So saith Chaucer.</l> <add>[A reminiscence of <hi rend="italic">B. of the Duchesse</hi>, ll. 216-18?]</add></seg>
+
+          <seg><note place="margin">[Vol. ii, pp. vi and 24]</note><add>[Heading to chapter XXXV.]</add>
+            <l>Why I should I sowen draf out of my fist</l>
+            <l>When I may sowen wheat, if that me list?</l>
+            Chaucer <add>[<hi rend="italic">Parson's Prol.</hi>, ll. 35-6]</add>.</seg>
+            
+          <seg><note place="margin">[Vol, iii, p. x]</note>Prelude of Mottoes.
+            <l>Out of the old fieldes, as men saith</l>
+            <add>[and four following lines, Assemble of Foules, st. 4]</add>.
+            <lb/>Chaucer.</seg>
+            
+            <seg type="editorial"><note place="margin">[Vol. v, p. 157]</note>[Wordsworth has ‘very skilfully’ modernised one of Chaucer's poems.]</seg>
+            
+            <seg><note place="margin">[Vol. vii, p. 87]</note><l>We... sat doun, an' grat.</l><note type="footnote" n="*">Note in Spurgeon: [Note] i. e. wept, from the old word greet, common to all the northern languages. Chaucer, Spenser, etc., use it.</note></seg>
         </ab>
       </div>
     </body>
