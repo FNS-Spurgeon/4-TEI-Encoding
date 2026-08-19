@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1824, Thomas Frognall Dibdin. The Library Companion,</title>
+        <title>1824, Thomas Frognall Dibdin. The Library Companion.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/71478954">Thomas Frognall Dibdin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71478954">Dibdin, Thomas Frognall</author>
             <date cert="high" when="1824">1824</date>
-            <title level="a">The Library Companion,</title>
+            <title level="a">The Library Companion.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#bibliography" target="#"/>
+        <catRef scheme="#others" target="#bibliography"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,39 +86,30 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="149"/>
-        <ab type="imprint">1824. Dibdin, Thomas Frognall. The Library Companion, 2 vols., vols. ii, pp. 246, 265-77 and notes.</ab>
+        
+        <ab type="imprint">1824. Dibdin, Thomas Frognall. <hi rend="italic">The Library Companion</hi>, 2 vols., vols. ii, pp. 246, 265-77 and notes.</ab>
+        
         <ab type="quotation">
-          <seg>[A gossiping account of early editions of Chaucer, and
-of the copies then extant of some. The following are
-mentioned–
-(1) Canterbury Tales, Caxton ed. 1; King's, Merton Coll.,
-Spencer, Wentworth House, Ham House.
-(2) Canterbury Tales, Caxton ed. 2; St. John’s Coll., Camb.,
-Pepys, Heber, Spencer.
-(3) Book of Fame; reference to Typographical Antiquities,
-vol. i, p. 313.
-(4) Troilus and Cressida; Grenville and Towneley, with
-the remark that “copies of it will be found in
-distinguished private and public libraries." Quota¬
-tation from the Complaint of Chaucer unto his
-Empty Purse.
-(5) Canterbury Tales, Pynson's ed. 1; Spencer.
-(6) Canterbury Tales, Pynson, 1526; Roxburghe, West.
-Edns. of Canterbury Tales by Wynkyn de Worde,
-(7) Troilus and Cressida, Wynkyn de Worde, 1517;
-1495, Pynson, 1520 and 1522, are apocryphal.
-(8) Works, Godfray, 1532; Douce, Heber, Utterson,
-Wilbraham, Roxburghe.
-(9) Works, Bonham, Kele, Toy, Petit, 1542.
-Towneley (Dibdin's own).
-(10) Works, 1561; Nassau.
-(11) Works, 1597.
-(12) Works, 1602; Nassau.
-(13) Ed. Urry, 1721.
-(14) Canterbury Tales, ed. Tyrwhitt, 1775-8 (with high
-praise of the editor).
-Reference to Todd, 1810, for MSS.; Stafford (now Elles¬
-mere) and Roxburghe-Devonshire MSS. mentioned.]</seg>
+          <seg type="editorial">[A gossiping account of early editions of Chaucer, and
+            of the copies then extant of some. The following are mentioned–
+            <list>
+              <item>(1) Canterbury Tales, Caxton ed. 1; King's, Merton Coll., Spencer, Wentworth House, Ham House.</item>
+              <item>(2) Canterbury Tales, Caxton ed. 2; St. John’s Coll., Camb., Pepys, Heber, Spencer.</item>
+              <item>(3) Book of Fame; reference to Typographical Antiquities, vol. i, p. 313.</item>
+              <item>(4) Troilus and Cressida; Grenville and Towneley, with the remark that "copies of it will be found in
+                distinguished private and public libraries." Quotatation from the Complaint of Chaucer unto his Empty Purse.</item>
+              <item>(5) Canterbury Tales, Pynson's ed. 1; Spencer.</item>
+              <item>(6) Canterbury Tales, Pynson, 1526; Roxburghe, West. Edns. of Canterbury Tales by Wynkyn de Worde,</item>
+              <item>(7) Troilus and Cressida, Wynkyn de Worde, 1517; 1495, Pynson, 1520 and 1522, are apocryphal.</item>
+              <item>(8) Works, Godfray, 1532; Douce, Heber, Utterson, Wilbraham, Roxburghe.</item>
+              <item>(9) Works, Bonham, Kele, Toy, Petit, 1542. Towneley (Dibdin's own).</item>
+              <item>(10) Works, 1561; Nassau.</item>
+              <item>(11) Works, 1597.</item>
+              <item>(12) Works, 1602; Nassau.</item>
+              <item>(13) Ed. Urry, 1721.</item>
+              <item>(14) Canterbury Tales, ed. Tyrwhitt, 1775-8 (with high praise of the editor).</item>
+            </list>
+            Reference to Todd, 1810, for MSS.; Stafford (now Ellesmere) and Roxburghe-Devonshire MSS. mentioned.]</seg>
         </ab>
       </div>
     </body>

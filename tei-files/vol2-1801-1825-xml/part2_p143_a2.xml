@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1823, Joseph Haslewood. A Note on the habit of payment of money at Chaucer's Tomb,</title>
+        <title>1823, [Joseph Haslewood]. A Note on the habit of payment of money at Chaucer's Tomb.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/27420814">Joseph Haslewood</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/27420814">Haslewood, Joseph</author>
             <date cert="high" when="1823">1823</date>
-            <title level="a">A Note on the habit of payment of money at Chaucer's Tomb,</title>
+            <title level="a">A Note on the habit of payment of money at Chaucer's Tomb.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="143"/>
-        <ab type="imprint">1823. [Haslewood, Joseph. (Hood, Eu., pseud.).] A Note on the habit of payment of money at Chaucer's Tomb, and a print of an Elegie upon the death of the auncient English poetts [see above, vol. i, 1596, p. 143, Caesar, 1614, p. 188, Freeman], [in] The Gentleman’s Magazine, vol. xciii, part 1, p. 226. [See below, c. 1833, where a similar note is quoted.] Vol. xciii, part 2, pp. 109-10. Inscription on Fly-leaf of an im perfect copy of Chaucer's Works. [See above, vol. i, p. 425, 1764, Gough, Richard ?]</ab>
+        
+        <ab type="imprint">1823. [Haslewood, Joseph. (Hood, Eu., pseud.).] <hi rend="italic">A Note on the habit of payment of money at Chaucer's Tomb</hi>, and a print of an Elegie upon the death of the auncient English poetts [see above, vol. i, 1596, p. 143, Caesar, 1614, p. 188, Freeman], [in] The Gentleman’s Magazine, vol. xciii, part 1, p. 226. [See below, c. 1833, where a similar note is quoted.] <lb/>Vol. xciii, part 2, pp. 109-10. Inscription on Fly-leaf of an im perfect copy of Chaucer's Works. [See above, vol. i, p. 425, 1764, Gough, Richard?]</ab>
       </div>
     </body>
   </text>

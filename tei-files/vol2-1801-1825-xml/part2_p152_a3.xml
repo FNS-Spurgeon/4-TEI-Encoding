@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1824, Walter Scott. An Essay on Romance,</title>
+        <title>1824, Walter Scott. An Essay on Romance.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1824">1824</date>
-            <title level="a">An Essay on Romance,</title>
+            <title level="a">An Essay on Romance.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,42 +84,58 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="152"/>
-        <ab type="imprint">1824. Scott, Sir Walter. An Essay on Romance, [in] Supplement to the Encyclopædia Britannica, vol. vi, pp. 436, 442, 454. (Scott's Miscellaneous Prose Works, Edinburgh, 1834-71, 30 vols, vol. vi, pp. 132-3, 158, 209.)</ab>
+        
+        <ab type="imprint">1824. Scott, Sir Walter. <hi rend="italic">An Essay on Romance</hi>, [in] Supplement to the Encyclopædia Britannica, vol. vi, pp. 436, 442, 454. (Scott's Miscellaneous Prose Works, Edinburgh, 1834-71, 30 vols, vol. vi, pp. 132-3, 158, 209.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 132] Chaucer, unable to sleep during the night, informs us that,
-in order to pass the time,
-"Upon my bed I sate upright,
-And bade one rechin me a boke,
-A Romaunce, and he it me took
-To read and drive the night away."
-[Book of the Duchesse, ll. 46-9.]
-The book described as Romance contained, as we are
-[p. 133] informed,
-"Fables
-That clerkes had, in old tyme,
-And other poets, put in rhyme."
-And the author tells us a little lower,
-[ib., ll. 52-4.]
-"This boke ne spake of but such things
-Of Queens' lives and of Kings'."
-[ib., ll. 57-8.]
-The volume proves to be no other than Ovid’s Metamorphoses;
-and Chaucer, by applying to that work the name of Romance,
-sufficiently establishes that the word was, in his time, correctly
-employed under the modern acceptation...
-[p. 158] Chaucer also in his Ryme of Sir Thopas, assigns to the
-minstrels of his hero’s household the same duty of reciting
-romances...
-" Do cum," he sayed, "my minestrales [to]
-And eke of love-longing."
-[Sir Thopas, ll. 134-9.]
-[p. 209] It is certain, and is proved by the highest authority, that
-of Chaucer himself, that even in his time these rhyming
-Romances had fallen into great contempt. The Rime of Sirh
-Thopas, which that poet introduces as a parody, undoubtedly,
-of the rhythmical Romances of the age, is interrupted by
-mine host Harry Bailly with the strongest and most energetic
-expressions of total and absolute contempt.</seg>
+          <seg>
+            <note place="margin">[p. 132]</note>Chaucer, unable to sleep during the night, informs us that,
+            in order to pass the time,
+            
+            <milestone unit="page" n="153"/>
+            
+            <lg>
+              <l>"Upon my bed I sate upright,</l>
+              <l>And bade one rechin me a boke,</l>
+              <l>A Romaunce, and he it me took</l>
+              <l>To read and drive the night away."</l>
+              <note place="right">[<hi rend="italic">Book of the Duchesse</hi>, ll. 46-9.]</note>
+            </lg>
+            The book described as Romance contained, as we are
+            <note place="margin">[p. 133]</note>informed,
+            <lg>
+              <l>"Fables</l>
+              <l>That clerkes had, in old tyme,</l>
+              <l>And other poets, put in rhyme."</l>
+              <note place="right">[<hi rend="italic">ib.</hi>, ll. 52-4.]</note>
+            </lg>
+            And the author tells us a little lower,
+            <lg>
+              <l>"This boke ne spake of but such things</l>
+              <l>Of Queens' lives and of Kings'."</l>
+              <note place="right">[<hi rend="italic">ib.</hi>, ll. 57-8.]</note>
+            </lg>
+            The volume proves to be no other than Ovid’s <hi rend="italic">Metamorphoses</hi>;
+            and Chaucer, by applying to that work the name of Romance,
+            sufficiently establishes that the word was, in his time, correctly
+            employed under the modern acceptation . . .
+          </seg>
+            
+          <seg><note place="margin">[p. 158]</note>Chaucer also in his Ryme of Sir Thopas, assigns to the
+            minstrels of his hero’s household the same duty of reciting
+            romances . . .
+            <l>"Do cum," he sayed, "my minestrales</l> <add>[to]</add>
+            <l>And eke of love-longing."</l>
+            <note place="margin">[<hi rend="italic">Sir Thopas</hi>, ll. 134-9.]</note>
+          </seg>
+            
+          <seg><note place="margin">[p. 209]</note>It is certain, and is proved by the highest authority, that
+            of Chaucer himself, that even in his time these rhyming
+            Romances had fallen into great contempt. The <hi rend="italic">Rime of Sirh
+            Thopas</hi>, which that poet introduces as a parody, undoubtedly,
+            of the rhythmical Romances of the age, is interrupted by
+            mine host Harry Bailly with the strongest and most energetic
+            expressions of total and absolute contempt.</seg>
         </ab>
       </div>
     </body>

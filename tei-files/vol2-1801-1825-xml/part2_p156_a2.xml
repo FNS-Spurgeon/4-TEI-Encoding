@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1825, Allan Cunningham. The Songs of Scotland,</title>
+        <title>1825, Allan Cunningham. The Songs of Scotland.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/79253486">Allan Cunningham</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/79253486">Cunningham, Allan</author>
             <date cert="high" when="1825">1825</date>
-            <title level="a">The Songs of Scotland,</title>
+            <title level="a">The Songs of Scotland.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,9 +84,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="156"/>
-        <ab type="imprint">1825. Cunningham, Allan. The Songs of Scotland, vol. i, pp. 12, 13, 51, 59, 73, 77, 82; vol. ii, pp. 35, 156.</ab>
+        
+        <ab type="imprint">1825. Cunningham, Allan. <hi rend="italic">The Songs of Scotland</hi>, vol. i, pp. 12, 13, 51, 59, 73, 77, 82; vol. ii, pp. 35, 156.</ab>
+        
         <ab type="quotation">
-          <seg>[Slight references.]</seg>
+          <seg type="editorial">[Slight references.]</seg>
         </ab>
       </div>
     </body>

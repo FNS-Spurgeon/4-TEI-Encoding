@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/15550259">William Roscoe</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/15550259">Roscoe, William</author>
             <date cert="high" when="1824">1824</date>
             <title level="a">The Works of Alexander Pope, Esq.</title>
           </analytic>
@@ -87,29 +87,28 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="152"/>
-        <ab type="imprint">1824. Roscoe, William. The Works of Alexander Pope, Esq. [with] ... occasional remarks by William Roscoe. Vol. i, The Life of Alexander Pope, pp. 42-3, 48; vol. ii, Estimate of the Poetical Character and Writings of Pope, pp. x, xi, xiii; Notes, pp. 252, 253, 254, 255, 297, 301, 302, 303-311, 315, 339, 340, 341, 342, 357, 358.</ab>
+        
+        <ab type="imprint">1824. Roscoe, William. <hi rend="italic">The Works of Alexander Pope</hi>, Esq. [with] . . . occasional remarks by William Roscoe. Vol. i, The Life of Alexander Pope, pp. 42-3, 48; vol. ii, Estimate of the Poetical Character and Writings of Pope, pp. x, xi, xiii; Notes, pp. 252, 253, 254, 255, 297, 301, 302, 303-311, 315, 339, 340, 341, 342, 357, 358.</ab>
+        
         <ab type="quotation">
-          <seg>[vol. i,
-p. 42]
-These pieces [the modernizations of January and May,
-and Wife of Bath's Prologue] are executed with a degree of
-freedom, ease, and spirit, and at the same time with a judg¬
-ment and delicacy, which not only far exceed what might
-have been expected from so young a writer, but which leave
-nothing to be wished for in the mind of the reader. The
-[p. 43] humour of Chaucer is transfused into the lines of Pope, almost
-without suffering any evaporation.
-[vol. ii,
-p. X]
-Of English authors those to whom Pope stands the nearest
-related in genus and poetical character, are Chaucer and
-Dryden... Chaucer may be said to be, like Pope, a general
-poet. His excellence was not confined to any particular
-department...In this respect Chaucer is unrivalled by any
-of his successors, except Shakespeare and Pope, both of whom
-[p. xi] resemble him also in that moral and contemplative character
-which delights in comparing and illustrating the phenomena
-of the moral and physical world...</seg>
+          <seg><note place="margin">[vol. i, p. 42]</note>These pieces <add>[the modernizations of January and May,
+            and Wife of Bath's Prologue]</add> are executed with a degree of
+            freedom, ease, and spirit, and at the same time with a judgment
+            and delicacy, which not only far exceed what might
+            have been expected from so young a writer, but which leave
+            nothing to be wished for in the mind of the reader. The
+            <note place="margin">[p. 43]</note>humour of Chaucer is transfused into the lines of Pope, almost
+            without suffering any evaporation.</seg>
+            
+          <seg><note place="margin">[vol. ii, p. x]</note>Of English authors those to whom Pope stands the nearest
+            related in genus and poetical character, are Chaucer and
+            Dryden . . . Chaucer may be said to be, like Pope, a general
+            poet. His excellence was not confined to any particular
+            department . . . In this respect Chaucer is unrivalled by any
+            of his successors, except Shakespeare and Pope, both of whom
+            <note place="margin">[p. xi]</note>resemble him also in that moral and contemplative character
+            which delights in comparing and illustrating the phenomena
+            of the moral and physical world . . .</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1823, Charles Lamb. Letter to Mr. Ainsworth,</title>
+        <title>1823, Charles Lamb. Letter to Mr. Ainsworth.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/64007908">Charles Lamb</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/64007908">Lamb, Charles</author>
             <date cert="high" when="1823">1823</date>
-            <title level="a">Letter to Mr. Ainsworth,</title>
+            <title level="a">Letter to Mr. Ainsworth.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,17 +84,20 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="146"/>
-        <ab type="imprint">1823. Lamb, Charles. Letter to Mr. Ainsworth, [dated] Dec. 9, 1823. (The Works of Charles and Mary Lamb, ed. E. V. Lucas, 1903-5, 7 vols, vol. vii, p. 631.)</ab>
+        
+        <ab type="imprint">1823. Lamb, Charles. <hi rend="italic">Letter to Mr. Ainsworth</hi>, [dated] Dec. 9, 1823. (The Works of Charles and Mary Lamb, ed. E. V. Lucas, 1903-5, 7 vols, vol. vii, p. 631.)</ab>
+        
         <ab type="quotation">
           <seg>I have not a Blackletter book among mine, old Chaucer
-excepted, and am not Bibliomanist enough to like Blackletter.
-[Mr. Lucas gives the following in his list of Lamb's Books
-(Life of Charles Lamb, 1906, 2 vols., vol. ii, App. iii, p. 314),
-with a quotation from the above letter:
-Chaucer (Geoffrey). The Works of our Ancient and
-Learned English Poet, and Lidgate's Story of Thebes.
-Speght’s edition. Lond., 1598. Black-Letter. Folio.
-MS. notes and extracts on the fly-leaves.]</seg>
+            excepted, and am not Bibliomanist enough to like Blackletter.</seg>
+            
+          <seg type="editorial">[Mr. Lucas gives the following in his list of Lamb's Books
+            (Life of Charles Lamb, 1906, 2 vols., vol. ii, App. iii, p. 314),
+            with a quotation from the above letter:
+            <lb/>Chaucer (Geoffrey). <hi rend="italic">The Works of our Ancient and
+            Learned English Poet</hi>, and <hi rend="italic">Lidgate's Story of Thebes.</hi>
+            Speght’s edition. Lond., 1598. Black-Letter. Folio.
+            <lb/>MS. notes and extracts on the fly-leaves.]</seg>
         </ab>
       </div>
     </body>

@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">William Hazlitt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">Hazlitt, William</author>
             <date cert="high" when="1824">1824</date>
             <title level="a">Sketches of the Principal Picture-Galleries in England.</title>
           </analytic>
@@ -84,13 +84,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="151"/>
-        <ab type="imprint">1824. Hazlitt, William. Sketches of the Principal Picture-Galleries in England. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. ix, p. 74.)</ab>
+        
+        <ab type="imprint">1824. Hazlitt, William. <hi rend="italic">Sketches of the Principal Picture-Galleries in England</hi>. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. ix, p. 74.)</ab>
+        
         <ab type="quotation">
-          <seg>[Speaking of the Cupid and Psyche by Titian at Blenheim:]
-Did ever creature of mortal mould see any thing comparable
-to the back limbs of the Psyche, or conceive or read anything
-equal to it, but that unique description in the Troilus and
-Cressida of Chaucer?</seg>
+          <seg type="editorial">[Speaking of the Cupid and Psyche by Titian at Blenheim:]</seg>
+          
+          <seg>Did ever creature of mortal mould see any thing comparable
+            to the back limbs of the Psyche, or conceive or read anything
+            equal to it, but that unique description in the Troilus and
+            Cressida of Chaucer?</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1825, Sharon Turner. The History of England during the Middle Ages,</title>
+        <title>1825, Sharon Turner. The History of England during the Middle Ages.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35239427">Sharon Turner</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35239427">Turner, Sharon</author>
             <date cert="high" when="1825">1825</date>
-            <title level="a">The History of England during the Middle Ages,</title>
+            <title level="a">The History of England during the Middle Ages.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,19 +86,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="158"/>
-        <ab type="imprint">1825. Turner, Sharon. The History of England during the Middle Ages, vol. v, pp. 256, 257, 259, 268; chap. iv, Life and Poems of Chaucer, pp. 289-333, 334, 335, 336, 341, 343, 347, 348, 350, 391, 392, 393.</ab>
+        
+        <ab type="imprint">1825. Turner, Sharon. <hi rend="italic">The History of England during the Middle Ages</hi>, vol. v, pp. 256, 257, 259, 268; chap. iv, Life and Poems of Chaucer, pp. 289-333, 334, 335, 336, 341, 343, 347, 348, 350, 391, 392, 393.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 330] The modern reader.... cannot peruse his [Chaucer's]
-works without perceiving the fewness and the defects of the
-mental and moral associations which they contain. He
-wanted Gower's knowledge and ethical taste, as much as Gower
-wanted his command of language and poetical power.  ...
-[p.331] Few poets have written so much [as Chaucer], which so few
-desire to peruse or attempt to disturb. ...
-[p. 350] As Chaucer became dissatisfied with Gower, and twice, at
-least, censures him, we have long since become dissatisfied
-with Chaucer; and by the aid of the very lights which they
-have given us, we have passed far beyond both.</seg>
+          <seg><note place="margin">[p. 330]</note>The modern reader . . . . cannot peruse his <add>[Chaucer's]</add>
+            works without perceiving the fewness and the defects of the
+            mental and moral associations which they contain. He
+            wanted Gower's knowledge and ethical taste, as much as Gower
+            wanted his command of language and poetical power. . . .</seg>
+            
+          <seg><note place="margin">[p.331]</note>Few poets have written so much <add>[as Chaucer]</add>, which so few
+            desire to peruse or attempt to disturb. . . .</seg>
+            
+          <seg><note place="margin">[p. 350]</note>As Chaucer became dissatisfied with Gower, and twice, at
+            least, censures him, we have long since become dissatisfied
+            with Chaucer; and by the aid of the very lights which they
+            have given us, we have passed far beyond both.</seg>
         </ab>
       </div>
     </body>

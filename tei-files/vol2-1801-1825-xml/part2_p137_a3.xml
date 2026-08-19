@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1822, Washington Irving. Bracebridge Hall, or the Humourists: a Medley, by Geoffrey Crayon, Gent.,</title>
+        <title>1822, [Washington Irving]. Bracebridge Hall, or the Humourists: a Medley, by Geoffrey Crayon, Gent.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/295999941">Washington Irving</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/295999941">Irving, Washington</author>
             <date cert="high" when="1822">1822</date>
-            <title level="a">Bracebridge Hall, or the Humourists: a Medley, by Geoffrey Crayon, Gent.,</title>
+            <title level="a">Bracebridge Hall, or the Humourists: a Medley, by Geoffrey Crayon, Gent.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,36 +84,46 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="137"/>
-        <ab type="imprint">1822. [Irving, Washington.] Bracebridge Hall, or the Humourists: a Medley, by Geoffrey Crayon, Gent., New York, 2 vols, vol. i, pp. 46, 97 ; vol. ii, pp. 115-20. (Works, Geoffrey Crayon edition, [1880-83,] vol. iii, pp. 38, 79, 403-7.)</ab>
+        
+        <ab type="imprint">1822. [Irving, Washington.] <hi rend="italic">Bracebridge Hall, or the Humourists: a Medley, by Geoffrey Crayon, Gent.</hi>, New York, 2 vols, vol. i, pp. 46, 97 ; vol. ii, pp. 115-20. (Works, Geoffrey Crayon edition, [1880-83,] vol. iii, pp. 38, 79, 403-7.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 38] [Chapter heading :]
-She was so charitable and pitious
-[to]
-Or if man smote them with a yard smart.
-[Prol., ll. 143-9.]
-[p. 403] The good Squire's remarks brought to mind a visit which
-I once paid to the Tabard Inn, famous for being the place of
-assemblage, from whence Chaucer's pilgrims set forth for
-Canterbury. It is in the borough of Southwark, not far from
-London bridge, and bears, at present, the name of "the
-Talbot." It has sadly declined in dignity since the days of
-Chaucer, being a mere rendezvous and packing place of the
-[p. 404]  great wagons that travel into Kent... An inscription
-over the gateway proclaimed it to be the inn where Chaucer's
-pilgrims slept on the night previous to their departure, and
-at the bottom of the yard was a magnificent sign, repre¬
-senting them in the act of sallying forth. I was pleased too
-at noticing, that though the present inn was comparatively
-modern, yet the form of the old inn was preserved. There
-were galleries round the yard, as in old times, on which
-opened the chambers of the guests...
-[p. 405] My fancy peopled the place with the motley throng of
-Canterbury pilgrims. [Here follows a description of the
-pilgrims, with quotations from the Prologue, concluding with
-[p. 406] "the ancient host of the Tabard, giving them his farewell
-God-send to Canterbury"; Irving having apparently for¬
-gotten that the host accompanied the pilgrims, and that he is
-not described by Chaucer as old.]</seg>
+          <seg><note place="margin">[p. 38]</note><add>[Chapter heading :]</add>
+            <l>She was so charitable and pitious</l>
+            <add>[to]</add>
+            <l>Or if man smote them with a yard smart.</l>
+            <note place="right">[Prol., ll. 143-9.]</note>
+          </seg>
+            
+          <seg><note place="margin">[p. 403]</note>The good Squire's remarks brought to mind a visit which
+            I once paid to the Tabard Inn, famous for being the place of
+            assemblage, from whence Chaucer's pilgrims set forth for
+            Canterbury. It is in the borough of Southwark, not far from
+            London bridge, and bears, at present, the name of "the
+            Talbot." It has sadly declined in dignity since the days of
+            Chaucer, being a mere rendezvous and packing place of the
+            <note place="margin">[p. 404]</note>great wagons that travel into Kent . . . An inscription
+            over the gateway proclaimed it to be the inn where Chaucer's
+            pilgrims slept on the night previous to their departure, and
+            at the bottom of the yard was a magnificent sign, repre¬
+            senting them in the act of sallying forth. I was pleased too
+            at noticing, that though the present inn was comparatively
+            modern, yet the form of the old inn was preserved. There
+            were galleries round the yard, as in old times, on which
+            opened the chambers of the guests . . .</seg>
+            
+          <seg><note place="margin">[p. 405]</note>My fancy peopled the place with the motley throng of
+            Canterbury pilgrims.</seg>
+            
+          <seg type="editorial">[Here follows a description of the
+            pilgrims, with quotations from the Prologue, concluding with
+            
+            <milestone unit="page" n="138"/>
+            
+            <note place="margin">[p. 406]</note>"the ancient host of the Tabard, giving them his farewell
+            God-send to Canterbury"; Irving having apparently forgotten
+            that the host accompanied the pilgrims, and that he is
+            not described by Chaucer as old.]</seg>
         </ab>
       </div>
     </body>

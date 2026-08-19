@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
             <date cert="high" when="1824">1824</date>
             <title level="a">Chaucer's Canterbury Tales, and other Poems, with Glossary.</title>
           </analytic>
@@ -87,7 +87,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="149"/>
-        <ab type="imprint">1824. Chaucer, Geoffrey. Chaucer's Canterbury Tales, and other Poems, with Glossary. 2 vols.</ab>
+        
+        <ab type="imprint">1824. Chaucer's Canterbury Tales, and other Poems, with Glossary. 2 vols. <note type="footnote">Note in Spurgeon: [There is no copy of this edition in B.M. The dealer's list from which this entry is taken described it as illustrated with a portrait and engravings in Bewick's style.]</note></ab>
       </div>
     </body>
   </text>

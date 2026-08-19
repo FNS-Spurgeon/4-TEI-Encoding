@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1823, Edward Wedlake Brayley. The History and Antiquities of the Abbey Church of St. Peter, Westminster... illustrated by John Preston Neale,</title>
+        <title>1823, Edward Wedlake Brayley. The History and Antiquities of the Abbey Church of St. Peter, Westminster . . . illustrated by John Preston Neale.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/37844461">Edward Wedlake Brayley</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/37844461">Brayley, Edward Wedlake</author>
             <date cert="high" when="1823">1823</date>
-            <title level="a">The History and Antiquities of the Abbey Church of St. Peter, Westminster... illustrated by John Preston Neale,</title>
+            <title level="a">The History and Antiquities of the Abbey Church of St. Peter, Westminster . . . illustrated by John Preston Neale.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,32 +86,36 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="141"/>
-        <ab type="imprint">1823. Brayley, Edward Wedlake. The History and Antiquities of the Abbey Church of St. Peter, Westminster... illustrated by John Preston Neale, 1818-23, vol. ii (1823), pp. 33 n., 265, 267.</ab>
+        
+        <ab type="imprint">1823. Brayley, Edward Wedlake. <hi rend="italic">The History and Antiquities of the Abbey Church of St. Peter, Westminster . . . illustrated by John Preston Neale</hi>, 1818-23, vol. ii (1823), pp. 33 n., 265, 267.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 33,
-The View in Poet's Corner, Plate XL [on the left of p. 33],
-note]
-gives a complete idea of the south-east part of this (south)
-Transept. It shows, also, the situations and forms of the
-following Monuments, commencing from the left: 1, Dr.
-Anthony Horneck; 2, Mrs. Martha Birch; 3, the Poet
-Cowley; 4, John Roberts, Esq.; 5, Sir Geoffrey Chaucer;
-... 8, Michael Drayton, Esq.; ... 10, the immortal
-Shakespeare.  ...
-[p. 265] Chaucer, the “Father of English Poetry,” if that appella¬
-tion be not more justly due to his contemporary Gower, died in
-October 1400 [etc., detailed description of his tomb, his epitaph
-quoted, the portrait which used to be beside it mentioned, of
-which not a vestige is left]. On the ledge of the Tomb were
-these lines:
-Si rogitas qvis eram, forsan te fama docebit,
-Quod si fama negat, mvndi qvia gloria transit,
-Hæc Monvmenta Lege.
-From Camden’s words–“Musarum nomine hujus ossa trans¬
-tulit,"—it would seem that Chaucer's ashes were removed to
-the new tomb. Dart [q.v. above, vol. i, p. 363] states that
-his gravestone was taken up when Dryden’s Monument was
-erected, and sawn in pieces to mend the pavement!</seg>
+          <seg><note place="margin">[p. 33, note]</note>The <hi rend="italic">View in Poet's Corner</hi>, Plate XL <add>[on the left of p. 33]</add>,
+            gives a complete idea of the south-east part of this (south)
+            Transept. It shows, also, the situations and forms of the
+            following Monuments, commencing from the left: 1, Dr.
+            Anthony Horneck; 2, Mrs. Martha Birch; 3, the Poet
+            Cowley; 4, John Roberts, Esq.; 5, Sir Geoffrey Chaucer;
+            . . . 8, Michael Drayton, Esq.; . . . 10, the immortal
+            Shakespeare. . . .</seg>
+            
+          <seg><note place="margin">[p. 265]</note>Chaucer, the “Father of English Poetry,” if that appellation
+            be not more justly due to his contemporary Gower, died in October 1400</seg>
+          
+          <seg type="editorial">[etc., detailed description of his tomb, his epitaph
+            quoted, the portrait which used to be beside it mentioned, of which not a vestige is left].</seg>
+            
+          <seg>On the ledge of the Tomb were these lines:
+            <lg>
+              <l>Si rogitas qvis eram, forsan te fama docebit,</l>
+              <l>Quod si fama negat, mvndi qvia gloria transit,</l>
+              <l>Hæc Monvmenta Lege.</l>
+            </lg>
+            From Camden’s words–“Musarum nomine hujus ossa trans¬
+            tulit,"—it would seem that Chaucer's ashes were removed to
+            the new tomb. Dart <add>[q.v. above, vol. i, p. 363]</add> states that
+            his gravestone was taken up when Dryden’s Monument was
+            erected, and sawn in pieces to mend the pavement!</seg>
         </ab>
       </div>
     </body>

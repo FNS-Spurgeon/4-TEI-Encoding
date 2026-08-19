@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1825, Unknown.. Critical Disquisition on the words "Heard," "Read," etc.,</title>
+        <title>1825, Unknown. Critical Disquisition on the words "Heard," "Read."</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown.</author>
             <date cert="high" when="1825">1825</date>
-            <title level="a">Critical Disquisition on the words "Heard," "Read," etc.,</title>
+            <title level="a">Critical Disquisition on the words "Heard," "Read."</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,11 +84,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="156"/>
-        <ab type="imprint">1825. H., J. S. Critical Disquisition on the words "Heard," "Read," etc., [in] The Gentleman's Magazine, vol. xcv, part i, suppl., pp. 584-5.</ab>
+        
+        <ab type="imprint">1825. H., J. S. <hi rend="italic">Critical Disquisition on the words "Heard," "Read," etc.</hi>, [in] The Gentleman's Magazine, vol. xcv, part i, suppl., pp. 584-5.<note type="footnote">Note in Spurgeon: [For a reply see above, D., W. C.]</note></ab>
+        
         <ab type="quotation">
-          <seg>[For a reply see above, D., W. C.]
-[Quotations from the Bible; and from Chaucer (fifteen) as
-examples.]</seg>
+          <seg type="editorial">[Quotations from the Bible; and from Chaucer (fifteen) as examples.]</seg>
         </ab>
       </div>
     </body>

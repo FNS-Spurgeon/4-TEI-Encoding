@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1825, Unknown.. Poetry,</title>
+        <title>1825, Unknown. Poetry.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author>Unknown.</author>
+            <author>Unknown</author>
             <date cert="high" when="1825">1825</date>
-            <title level="a">Poetry,</title>
+            <title level="a">Poetry.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,17 +84,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="159"/>
-        <ab type="imprint">1825. Unknown. Poetry, [in] The Edinburgh Review, vol. xlii, pp. 48, 49.</ab>
+        
+        <ab type="imprint">1825. Unknown. <hi rend="italic">Poetry</hi>, [in] The Edinburgh Review, vol. xlii, pp. 48, 49.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 48] Chaucer. . . raised poetry from the dust. He has been
-likened to ‘the spring,’ and has been called the ‘morning
-star’ of English poetry. He was so; or rather, he was a sun
-whom no star preceded,–who rose above our literary horizon,
-dissipating the wandering lights and sullen vapours which
-hung about it; and who, by a power independent of accident
-or the time, threw out a dazzling splendour, which showed
-at once his own lustre, and the wastes by which he was
-surrounded.</seg>
+          <seg><note place="margin">[p. 48]</note>Chaucer . . . raised poetry from the dust. He has been
+            likened to ‘the spring,’ and has been called the ‘morning
+            star’ of English poetry. He was so; or rather, he was a sun
+            whom no star preceded,–who rose above our literary horizon,
+            dissipating the wandering lights and sullen vapours which
+            hung about it; and who, by a power independent of accident
+            or the time, threw out a dazzling splendour, which showed
+            at once his own lustre, and the wastes by which he was
+            surrounded.</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1822, Walter Scott. The Fortunes of Nigel,</title>
+        <title>1822, Walter Scott. The Fortunes of Nigel.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1822">1822</date>
-            <title level="a">The Fortunes of Nigel,</title>
+            <title level="a">The Fortunes of Nigel.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,10 +84,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="139"/>
-        <ab type="imprint">1822. Scott, Sir Walter. The Fortunes of Nigel, 3 vols., vol. iii, ch. xii, p. 330 n. (Border edition, ed. Andrew Lang, 1893, 2 vols., vol. ii, chap. XX, p. 331 n.)</ab>
+        
+        <ab type="imprint">1822. Scott, Sir Walter. <hi rend="italic">The Fortunes of Nigel</hi>, 3 vols., vol. iii, ch. xii, p. 330 n. (Border edition, ed. Andrew Lang, 1893, 2 vols., vol. ii, chap. XX, p. 331 n.)</ab>
+        
         <ab type="quotation">
-          <seg>Chaucer says, there is nothing new but what it has been
-old.</seg>
+          <seg>Chaucer says, there is nothing new but what it has been old.</seg>
         </ab>
       </div>
     </body>

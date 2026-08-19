@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1822, Bullar, John.. Selections from the British Poets, commencing with Spenser... with... short biographical notices,</title>
+        <title>1822, John Bullar. Selections from the British Poets, commencing with Spenser . . . with . . . short biographical notices.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Bullar, John.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Bullar, John</author>
             <date cert="high" when="1822">1822</date>
-            <title level="a">Selections from the British Poets, commencing with Spenser... with... short biographical notices,</title>
+            <title level="a">Selections from the British Poets, commencing with Spenser . . . with . . . short biographical notices.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,14 +84,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="137"/>
-        <ab type="imprint">1822. Bullar, John. Selections from the British Poets, commencing with Spenser... with... short biographical notices, pp. 103-5 [Dryden].</ab>
+        
+        <ab type="imprint">1822. Bullar, John. <hi rend="italic">Selections from the British Poets, commencing with Spenser . . . with . . . short biographical notices</hi>, pp. 103-5 [Dryden].</ab>
+        
         <ab type="quotation">
-          <seg>[p. 103] [Quotes Hazlitt’s saying that “Dryden and Pope are the
-great masters of the artificial style of poetry in our language,
-as Chaucer, Spenser, Shakespeare, and Milton, were of the
-natural," q.v. above, 1818.]
-[p. 104]
-The Good Parson [extract from Dryden’s Prologue].</seg>
+          <seg type="editorial"><note place="margin">[p. 103]</note>[Quotes Hazlitt’s saying that "Dryden and Pope are the
+            great masters of the artificial style of poetry in our language,
+            as Chaucer, Spenser, Shakespeare, and Milton, were of the
+            natural," q.v. above, 1818.]</seg>
+            
+          <seg><note place="margin">[p. 104]</note>The Good Parson <add>[extract from Dryden’s Prologue]</add>.</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1825, Unknown.. Pope's Works and Character, [a review of] Roscoe's Works of Alexander Pope,</title>
+        <title>1825, Unknown. Pope's Works and Character, [a review of] Roscoe's Works of Alexander Pope.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author>Unknown.</author>
+            <author>Unknown</author>
             <date cert="high" when="1825">1825</date>
-            <title level="a">Pope's Works and Character, [a review of] Roscoe's Works of Alexander Pope,</title>
+            <title level="a">Pope's Works and Character, [a review of] Roscoe's Works of Alexander Pope.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,25 +84,28 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="160"/>
-        <ab type="imprint">1825. Unknown. Pope's Works and Character, [a review of] Roscoe's Works of Alexander Pope, [in] The Quarterly Review, vol. xxxii, pp. 275, 290-3.</ab>
+        
+        <ab type="imprint">1825. Unknown. <hi rend="italic">Pope's Works and Character</hi>, [a review of] Roscoe's <hi rend="italic">Works of Alexander Pope</hi>, [in] The Quarterly Review, vol. xxxii, pp. 275, 290-3.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 292] Had the 'Temple of Fame' been entirely an original
-composition, it would have approached nearer, though not have
-attained, to an equality with these [Thomson's Seasons, and
-Castle of Indolence]; but so much of the ingenuity of the
-allegory, and so many of the images are Chaucer's, that, with
-all its beauty of versification, brilliancy of expression, and
-variety of added congenial beauty, it still wears the livery of
-a master. Pope, accordingly, with his usual candour,
-premises in the advertisement, that 'whenever any hint is
-taken from Chaucer, the passage itself shall be set down in
-the marginal notes': and Mr. Bowles, with his wonted candour,
-observes, 'Pope seems unwilling to confess all he owes to
-Chaucer' (Bowles, [edn. of Pope's Works, 1806,] vol. ii,
-[p. 293] p. 107).... But this and other imitations from Chaucer, as
-well as all his minor translations, were done 'as exercises,'
-in extreme youth; and we cannot, therefore, wonder either
-at occasional failures in execution, or injudicious selections.</seg>
+          <seg><note place="margin">[p. 292]</note>Had the 'Temple of Fame' been entirely an original
+            composition, it would have approached nearer, though not have
+            attained, to an equality with these <add>[Thomson's <hi rend="italic">Seasons</hi>, and
+            <hi rend="italic">Castle of Indolence</hi>]</add>; but so much of the ingenuity of the
+            allegory, and so many of the images are Chaucer's, that, with
+            all its beauty of versification, brilliancy of expression, and
+            variety of added congenial beauty, it still wears the livery of
+            a master. Pope, accordingly, with his usual candour,
+            premises in the advertisement, that 'whenever any hint is
+            taken from Chaucer, the passage itself shall be set down in
+            the marginal notes': and Mr. Bowles, with his wonted candour,
+            observes, 'Pope seems unwilling to confess all he owes to
+            Chaucer' (<hi rend="italic">Bowles</hi>, <add>[edn. of Pope's Works, 1806,]</add> vol. ii,
+            <note place="margin">[p. 293]</note>p. 107). . . . But this and other imitations from Chaucer, as
+            well as all his minor translations, were done 'as exercises,'
+            in extreme youth; and we cannot, therefore, wonder either
+            at occasional failures in execution, or injudicious selections.
+          </seg>
         </ab>
       </div>
     </body>
