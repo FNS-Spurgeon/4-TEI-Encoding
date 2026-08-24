@@ -74,9 +74,6 @@
       <langUsage>
         <language ident="en">English</language>
       </langUsage>
-      <textClass>
-        <catRef scheme="#modernizations" target="#dryden"/>
-      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2026-07-28" who="#EL">Creation of the TEI file and enrichment of data</change>

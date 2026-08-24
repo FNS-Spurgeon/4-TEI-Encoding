@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1823, Gerard Montgomery. La Belle Tryamour.</title>
+        <title>1823, John Moultrie. La Belle Tryamour.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M">Montgomery, Gerard</author>
+            <author cert="high" role="M" ref="https://viaf.org/fr/viaf/53689130">Moultrie, John</author>
             <date cert="high" when="1823">1823</date>
             <title level="a">La Belle Tryamour.</title>
           </analytic>
@@ -85,7 +85,7 @@
       <div type="allusion">
         <milestone unit="page" n="147"/>
         
-        <ab type="imprint">1823. Montgomery, Gerard. <hi rend="italic">La Belle Tryamour</hi>, [in] Knight's Quarterly Magazine, June, pp. 162-3, 173.</ab>
+        <ab type="imprint">1823. Montgomery, Gerard, {pseud., i.e. Moultrie, John} <hi rend="italic">La Belle Tryamour</hi>, [in] Knight's Quarterly Magazine, June, pp. 162-3, 173.</ab>
         
         <ab type="quotation">
           <seg>

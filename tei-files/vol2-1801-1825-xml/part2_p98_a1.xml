@@ -80,6 +80,7 @@
         <catRef scheme="#criticism" target="#spenser"/>
         <catRef scheme="#criticism" target="#shakespeare"/>
         <catRef scheme="#works" target="#knightTale"/>
+        <catRef scheme="#modernizations" target="#dryden"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
