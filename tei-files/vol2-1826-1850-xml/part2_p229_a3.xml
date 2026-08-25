@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p229_a3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1841, Thomas De Quincey. Homer and the Homeridæ,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/14768427">Thomas De Quincey</author>
+            <date cert="high" when="1841">1841</date>
+            <title level="a">Homer and the Homeridæ,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=255">229-230</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#biography" target="#education"/>
+        <catRef scheme="#works" target="#criticism"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-08-25" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="229"/>
+        <ab type="imprint">1841. [De Quincey, Thomas.] Homer and the Homeridæ, [in] Black wood's Edinburgh Magazine, Dec. 1841, vol. l, pp. 747-9, 751. (Collected Writings, ed. D. Masson, 1889-90, 14 vols., vol. vi, pp. 69-73, 78.)</ab>
+        <ab type="quotation">
+          <seg>[p. 69] Precisely on this very summer day, so bright and brilliant,
+of 1841, are the five hundred years completed (less by
+forty-five years than the interspace between Homer and Pisis¬
+[p. 70] tratus) since Chaucer was a stout boy, “alive,” and probably
+"kicking"; for he was fined about 1341 for kicking a
+Franciscan friar in Fleet Street, though Ritson erroneously
+asserts that the story was a "hum," invented by Chatterton.
+Now, what was the character of Chaucer's diction? A great
+delusion exists on that point. Some ninety or one hundred
+words that are now obsolete, certainly not many more, vein
+the whole surface of Chaucer; and thus a primâ  facie im¬
+pression is conveyed that Chaucer is difficult to understand:
+whereas a very slight practice familiarises his language.
+The Canterbury Tales were not made public till 1380; but
+the composition was certainly proceeding between 1350
+and 1380, and before 1360 some considerable parts were
+published. Here we have a space greater by thirty-five years
+than that between Homer and Pisistratus. And observe–
+had Chaucer’s Tales enjoyed the benefit of an oral recitation,
+were they assisted to the understanding by the pauses in one
+place, the hurrying and crowding of unimportant words at
+another, and by the proper distribution of emphasis every¬
+where... there is no man, however unfamiliar with old
+English, but might be made to go along with the movement
+of his admirable tales, though he might still remain at a loss
+for the meaning of insulated words.
+Not Chaucer himself, however, but that model of language
+which Chaucer ridicules and parodies, as becoming obsolete in
+his days, the rhyme of Sir Thopas-a model which may be
+safely held to represent the language of the two centuries
+previous-is the point of appeal. Sir Thopas is clearly a
+parody of the Metrical Romances. Some of those hitherto
+published by Ritson, &amp;c., are not older than Chaucer; but
+some ascend much higher, and may be referred to 1200, or
+perhaps earlier. Date them from 1240, and that places a
+period of six centuries complete between ourselves and them.
+Notwithstanding which the greater part of the Metrical
+Romances, when aided by the connection of events narrated,
+[p. 71] or when impassioned, remain perfectly intelligible to this
+hour.
+. . . . . . . . . . .
+[p. 73] There is also a philosophic reason, why the range of diction
+in Chaucer should be much wider, and liable to greater changes
+than that of Homer. Review those parts of Chaucer which
+at this day are most obscure, and it will uniformly be found
+that they are the subjective sections of his poetry; those, for
+instance, in which he is elaborately decomposing a character.
+A character is a subtle fugacious essence which does, or does
+not, exist according to the capacity of the eye which is applied
+to it    In Homer's age, no such meditative differences were
+perceived. All is objective in the descriptions and external.
+. . . . . . . . . . .
+[p. 78] Chaucer also, whom Dryden in this point so thoroughly
+misunderstood, was undoubtedly a most elaborate master of
+metre, as will appear when we have a really good edition of
+him.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

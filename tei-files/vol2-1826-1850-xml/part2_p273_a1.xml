@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p273_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1846, Walter Savage Landor. To Robert Browning,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Walter Savage Landor</author>
+            <date cert="high" when="1846">1846</date>
+            <title level="a">To Robert Browning,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=303">273</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#browning"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-08-25" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="273"/>
+        <ab type="imprint">1846. Landor, Walter Savage. To Robert Browning, [in] Works, 1846, vol. ii, p. 673. (Poems, ed. C. G. Crump, 2 vols., 1892, vol. ii, pp. 194-5.)</ab>
+        <ab type="quotation">
+          <seg>There is delight in singing, tho' none hear
+Beside the singer: and there is delight
+In praising, tho' the praiser sit alone
+And see the prais'd far off him, far above.
+Shakspeare is not our poet, but the world’s,
+Therefore on him no speech! and brief for thee,
+Browning! Since Chaucer was alive and hale,
+No man hath walkt along our roads with step
+So active, so inquiring eye, or tongue
+So varied in discourse. But warmer climes
+Give brighter plumage, stronger wing: the breeze
+Of Alpine highths [sic] thou playest with, borne on
+Beyond Sorrento and Amalfi, where
+The Siren waits thee, singing song for song.</seg>
+          <note type="footnote">Note in Spurgeon: [For Browning's comment on this see above, 1846.]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

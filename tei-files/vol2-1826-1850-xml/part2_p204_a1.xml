@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p204_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1836, Samuel Astley Dunham. Chaucer,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35519998">Samuel Astley Dunham</author>
+            <date cert="high" when="1836">1836</date>
+            <title level="a">Chaucer,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066185086"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="part">II</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015066185086?urlappend=%3Bseq=230">204-205</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#biography" target="#english"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-08-25" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="204"/>
+        <ab type="imprint">1836. Dunham, Samuel Astley. Chaucer, [in Lardner's] Cabinet Cyclopædia (Lives of the most eminent literary and scientific men of Great Britain.—Early Writers), pp. 125-172, 188, 205, 215, 298-9, 312-13, 315, 319, 351.</ab>
+        <ab type="quotation">
+          <seg>[p. 125] [A life of the pòet, forty-seven pages, followed by a detailed
+notice of all his poems; as well as of some not by him.]
+[p. 169] Of the literary and poetical character of Chaucer, it may
+be remarked, that to no individual, perhaps, has our language
+been more indebted than to the author of the Canterbury
+Tales. He found his native tongue a mixed and uncouth
+dialect of Norman-Saxon, rude, and undigested, and with no
+writers whom he could consider in any respect as a guide or
+[p. 170] model.... He therefore necessarily turned his eyes to
+foreign resources; and we find that the greater part of his
+poetical career was employed in translating... from the
+Latin, French, and Italian. In doing this, however, he en¬
+riched his own language with a vast store of verbal wealth...
+and, moreover, moulded what he had taken into a form of
+such unprecedented beauty and perspicuity, when compared
+with any previous English poem, that those who immediately
+succeeded him scarcely ever speak of his style but in terms of
+enthusiastic rapture. When we consider, indeed, how greatly
+superior to his contemporaries was the mechanism of his
+versification, which, though from change of accent unaccom¬
+modated to a modern ear, was, in the then construction of the
+language, beyond all example harmonious and correct...
+the admiration of his disciples, however warmly expressed,
+seems justly his due. It may, in short, be affirmed, that even
+now, by him who will take the trouble of becoming familiar
+with the style of Chaucer, there will often be found, both in
+his diction and versification, a certain natural sweetness,
+simplicity, and naïveté, hardly to be met with elsewhere.
+If, turning... to the consideration of the higher
+attributes which more immediately constitute the poet, we
+contrast what he has produced in these departments with the
+age in which he lived,... can we hesitate in pronouncing
+him one of the most extraordinary men to which his country
+has given birth?...
+[p. 171] In knowledge of human life, and in the power of delineating
+it, he has no superior, save Shakspeare, with whom, indeed,
+in universality of talent, he may justly be compared.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
