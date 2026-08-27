@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1830, Unknown. Review of Sotheby's Specimens of a New Version of Homer,</title>
+        <title>1830, Unknown. Review of Sotheby's Specimens of a New Version of Homer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1830">1830</date>
-            <title level="a">Review of Sotheby's Specimens of a New Version of Homer,</title>
+            <title level="a">Review of Sotheby's Specimens of a New Version of Homer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,22 +86,28 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="179"/>
-        <ab type="imprint">1830. Unknown. Review of Sotheby's Specimens of a New Version of Homer, [in] The Edinburgh Review, July 1830, vol. li, p. 464.</ab>
+        
+        <ab type="imprint">1830. Unknown. <hi rend="italic">Review of Sotheby's Specimens of a New Version of Homer</hi>, [in] The Edinburgh Review, July 1830, vol. li, p. 464.</ab>
+        
         <ab type="quotation">
           <seg>Of all the British poets, the two most Homeric in spirit,
-however different in style, both from the Grecian bard and
-from each other, are Shakespeare and Scott; but Chaucer,
-behind all three in fancy and invention, comes nearest to
-Homer in manner and expression. He might have given an
-English Homer, in which the few, who would in the present
-day have read it, would have recognised the character and
-bearing of the great original.
-In delivering his rule for a narrator, Chaucer has at least
-prescribed a law equally incumbent upon all who aspire to
-translate the Homeric poems :—
-"Whoso shall telle a tale after a man... [to]
-All speke he never so rudely and so large."
-[Prologue, ll. 731-4.]</seg>
+            however different in style, both from the Grecian bard and
+            from each other, are Shakespeare and Scott; but Chaucer,
+            behind all three in fancy and invention, comes nearest to
+            Homer in manner and expression. He might have given an
+            English Homer, in which the few, who would in the present
+            day have read it, would have recognised the character and
+            bearing of the great original.
+            <lb/>In delivering his rule for a narrator, Chaucer has at least
+            
+            <milestone unit="page" n="180"/>
+            
+            prescribed a law equally incumbent upon all who aspire to
+            translate the Homeric poems :—
+            <l>"Whoso shall telle a tale after a man . . .</l> <add>[to]</add>
+            <l>All speke he never so rudely and so large."</l>
+            <note place="right">[<hi rend="italic">Prologue</hi>, ll. 731-4.]</note>
+          </seg>
         </ab>
       </div>
     </body>

@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/64156745">Nicholas Harris Nicolas</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/64156745">Nicolas, Nicholas Harris</author>
             <date cert="high" when="1830">1830</date>
             <title level="a">Privy Purse Expenses of Elizabeth of York.</title>
           </analytic>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="179"/>
-        <ab type="imprint">1830. Nicolas, Sir Nicholas Harris. Privy Purse Expenses of Elizabeth of York. Index and Notes, [Illustrative quotations under] Gray ling, p. 198; Housell, p. 202; Pardon, p. 214; Purfle, p. 217; Stations, p. 224; Combe Coverchiefs, pp. 241-2.</ab>
+        
+        <ab type="imprint">1830. Nicolas, Sir Nicholas Harris. <hi rend="italic">Privy Purse Expenses of Elizabeth of York.</hi> Index and Notes, [Illustrative quotations under] Gray ling, p. 198; Housell, p. 202; Pardon, p. 214; Purfle, p. 217; Stations, p. 224; Combe Coverchiefs, pp. 241-2.</ab>
       </div>
     </body>
   </text>

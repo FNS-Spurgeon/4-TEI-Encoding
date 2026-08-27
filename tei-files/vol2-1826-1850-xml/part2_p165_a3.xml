@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1827, Johnstone, John.. Specimens of Sacred and Serious Poetry, from Chaucer to the Present Day,</title>
+        <title>1827, John Johnstone. Specimens of Sacred and Serious Poetry, from Chaucer to the Present Day.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Johnstone, John.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Johnstone, John</author>
             <date cert="high" when="1827">1827</date>
-            <title level="a">Specimens of Sacred and Serious Poetry, from Chaucer to the Present Day,</title>
+            <title level="a">Specimens of Sacred and Serious Poetry, from Chaucer to the Present Day.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>

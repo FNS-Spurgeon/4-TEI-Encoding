@@ -6,8 +6,7 @@
         <title>List of authors cited by Spurgeon</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
-          <resp>Principal investigator of the project. Supervision of the workflow and control of
-            data quality.</resp>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
         </respStmt>
         <respStmt>
           <name xml:id="EL">Elina Leblanc</name>
@@ -35,206 +34,383 @@
   </teiHeader>
   <standOff>
     <listPerson>
-      <person n="Ballerstedt" xml:id="Ballerstedt">
-        <persName>Ballerstedt, Erich</persName>
+      <person n="Aikin" xml:id="Aikin">
+        <persName>Aikin, John</persName>
       </person>
-      <person n="Behnsch" xml:id="Behnsch">
-        <persName>Behnsch, Ottomar</persName>
+      <person n="Beloe" xml:id="Beloe">
+        <persName>Beloe, William</persName>
       </person>
-      <person n="Benthem" xml:id="Benthem">
-        <persName>Benthem, Heinrich Ludolf</persName>
+      <person n="Berington" xml:id="Berington">
+        <persName>Berington, Joseph</persName>
       </person>
-      <person n="Bischoff" xml:id="Bischoff">
-        <persName>Bischoff, Otto</persName>
+      <person n="Blake" xml:id="Blake">
+        <persName>Blake, William</persName>
       </person>
-      <person n="Blankenburg" xml:id="Blankenburg">
-        <persName>Blankenburg, Christian Friedrich von</persName>
+      <person n="Booth" xml:id="Booth">
+        <persName>Booth, David</persName>
       </person>
-      <person n="Bodmer" xml:id="Bodmer">
-        <persName>Bodmer, Johann Jakob</persName>
+      <person n="Boucher" xml:id="Boucher">
+        <persName>Boucher, Jonathan</persName>
       </person>
-      <person n="Breyer" xml:id="Breyer">
-        <persName>Breyer, Karl Wilhelm Friedrich</persName>
+      <person n="Brand" xml:id="Brand">
+        <persName>Brand, John</persName>
       </person>
-      <person n="Brink" xml:id="Brink">
-        <persName>Brink, Bernhard ten</persName>
+      <person n="Brayley" xml:id="Brayley">
+        <persName>Brayley, Edward Wedlake</persName>
       </person>
-      <person n="Crow" xml:id="Crow">
-        <persName>Crow, L. C.</persName>
+      <person n="Brydges Samuel Egerton" xml:id="BrydgesBis">
+        <persName>Brydges Samuel Egerton</persName>
       </person>
-      <person n="Düring" xml:id="Düring">
-        <persName>Düring, Adolf von</persName>
+      <person n="Brydges" xml:id="Brydges">
+        <persName>Brydges, Samuel Egerton</persName>
       </person>
-      <person n="Ebert" xml:id="Ebert">
-        <persName>Ebert, Adolf</persName>
+      <person n="Bullar" xml:id="Bullar">
+        <persName>Bullar, John</persName>
       </person>
-      <person n="Einenkel" xml:id="Einenkel">
-        <persName>Einenkel, Eugen</persName>
+      <person n="Byron" xml:id="Byron">
+        <persName>Byron, George Gordon</persName>
       </person>
-      <person n="Eschenburg" xml:id="Eschenburg">
-        <persName>Eschenburg, Johann Joachim</persName>
+      <person n="Campbell" xml:id="Campbell">
+        <persName>Campbell, Thomas</persName>
       </person>
-      <person n="Fielder" xml:id="Fielder">
-        <persName>Fielder, Eduard</persName>
+      <person n="Carey" xml:id="Carey">
+        <persName>Carey, William Paulet</persName>
       </person>
-      <person n="Fielder" xml:id="FielderBis">
-        <persName>Fielder, Eduard.</persName>
+      <person n="Cary" xml:id="Cary">
+        <persName>Cary, Henry Francis</persName>
       </person>
-      <person n="Fischer" xml:id="Fischer">
-        <persName>Fischer, Rudolf</persName>
+      <person n="Chalmers" xml:id="Chalmers">
+        <persName>Chalmers, Alexander</persName>
       </person>
-      <person n="Freudenberger" xml:id="Freudenberger">
-        <persName>Freudenberger, Markus</persName>
+      <person n="Chalmers" xml:id="ChalmersG">
+        <persName>Chalmers, George</persName>
       </person>
-      <person n="Gesenius" xml:id="Gesenius">
-        <persName>Gesenius, Friedrich Wilhelm</persName>
+      <person n="Chaucer" xml:id="Chaucer">
+        <persName>Chaucer, Geoffrey</persName>
       </person>
-      <person n="Gessner" xml:id="Gessner">
-        <persName>Gessner, Conrad</persName>
+      <person n="Clarke" xml:id="Clarke">
+        <persName>Clarke, William</persName>
       </person>
-      <person n="Graef" xml:id="Graef">
-        <persName>Graef, Adolf</persName>
+      <person n="Coleridge" xml:id="Coleridge">
+        <persName>Coleridge, Samuel Taylor</persName>
       </person>
-      <person n="Haeckel" xml:id="Haeckel">
-        <persName>Haeckel, Willibald</persName>
+      <person n="Collier" xml:id="Collier">
+        <persName>Collier, John Payne</persName>
       </person>
-      <person n="Hagedorn" xml:id="Hagedorn">
-        <persName>Hagedorn, H.</persName>
+      <person n="Cornelius Webb" xml:id="WebbBis">
+        <persName>Cornelius Webb</persName>
       </person>
-      <person n="Hampel" xml:id="Hampel">
-        <persName>Hampel, Wilhelm Ernst</persName>
+      <person n="Cornwall" xml:id="Cornwall">
+        <persName>Cornwall, Barry</persName>
       </person>
-      <person n="Herder" xml:id="Herder">
-        <persName>Herder, Johann Gottfried</persName>
+      <person n="Crabbe" xml:id="Crabbe">
+        <persName>Crabbe, George</persName>
       </person>
-      <person n="Hertzberg" xml:id="Hertzberg">
-        <persName>Hertzberg, Wilhelm Adolf Bogusław</persName>
+      <person n="Cromek" xml:id="Cromek">
+        <persName>Cromek, Robert Hartley</persName>
       </person>
-      <person n="Heussler" xml:id="Heussler">
-        <persName>Heussler, [Hans?]</persName>
+      <person n="Cunningham" xml:id="Cunningham">
+        <persName>Cunningham, Allan</persName>
       </person>
-      <person n="Kaluza" xml:id="Kaluza">
-        <persName>Kaluza, Max</persName>
+      <person n="D'Israeli" xml:id="DIsraeli">
+        <persName>D'Israeli, Isaac</persName>
       </person>
-      <person n="Kannegießer" xml:id="Kannegießer">
-        <persName>Kannegießer, Karl Ludwig</persName>
+      <person n="De Quincey" xml:id="DeQuincey">
+        <persName>De Quincey, Thomas</persName>
       </person>
-      <person n="Kissner" xml:id="Kissner">
-        <persName>Kissner, Alfons</persName>
+      <person n="Dibdin" xml:id="Dibdin">
+        <persName>Dibdin, Thomas Frognall</persName>
       </person>
-      <person n="Klaeber" xml:id="Klaeber">
-        <persName>Klaeber, Frederick</persName>
+      <person n="Digby" xml:id="Digby">
+        <persName>Digby, Kenelm Henry</persName>
       </person>
-      <person n="Koch" xml:id="Koch">
-        <persName>Koch, John</persName>
+      <person n="Disraeli" xml:id="Disraeli">
+        <persName>Disraeli, Isaac</persName>
       </person>
-      <person n="Kunz" xml:id="Kunz">
-        <persName>Kunz, Siegfried</persName>
+      <person n="Douce" xml:id="Douce">
+        <persName>Douce, Francis</persName>
       </person>
-      <person n="König" xml:id="König">
-        <persName>König, Georg Matthias</persName>
+      <person n="Drake" xml:id="Drake">
+        <persName>Drake, Nathan</persName>
       </person>
-      <person n="Körting" xml:id="Körting">
-        <persName>Körting, Gustav</persName>
+      <person n="Dunlop" xml:id="Dunlop">
+        <persName>Dunlop, John Colin</persName>
       </person>
-      <person n="Lange" xml:id="Lange">
-        <persName>Lange, H.</persName>
+      <person n="Dyer" xml:id="Dyer">
+        <persName>Dyer, George</persName>
       </person>
-      <person n="Lange" xml:id="LangeBis">
-        <persName>Lange, J. A. Max.</persName>
+      <person n="Edgeworth" xml:id="Edgeworth">
+        <persName>Edgeworth, Maria</persName>
       </person>
-      <person n="Lange" xml:id="LangeTer">
-        <persName>Lange, P.</persName>
+      <person n="Ellis" xml:id="Ellis">
+        <persName>Ellis, George</persName>
       </person>
-      <person n="Lechler" xml:id="Lechler">
-        <persName>Lechler, Gotthard Victor</persName>
+      <person n="Ellis" xml:id="EllisH">
+        <persName>Ellis, Henry</persName>
       </person>
-      <person n="Lemcke" xml:id="Lemcke">
-        <persName>Lemcke, Ludwig</persName>
+      <person n="Elmes" xml:id="Elmes">
+        <persName>Elmes, James</persName>
       </person>
-      <person n="Lindner" xml:id="Lindner">
-        <persName>Lindner, Ferdinand</persName>
+      <person n="Emerson" xml:id="Emerson">
+        <persName>Emerson, Ralph Waldo</persName>
       </person>
-      <person n="Ludolf" xml:id="Ludolf">
-        <persName>Ludolf, Hiob</persName>
+      <person n="Fox" xml:id="Fox">
+        <persName>Fox, Charles-James</persName>
       </person>
-      <person n="Maetzner" xml:id="Maetzner">
-        <persName>Maetzner, Eduard</persName>
+      <person n="Galt" xml:id="Galt">
+        <persName>Galt, John</persName>
       </person>
-      <person n="Mamroth" xml:id="Mamroth">
-        <persName>Mamroth, Fedor</persName>
+      <person n="Gifford" xml:id="Gifford">
+        <persName>Gifford, William</persName>
       </person>
-      <person n="Mencke" xml:id="Mencke">
-        <persName>Mencke, Johann Burckhardt</persName>
+      <person n="Godwin" xml:id="Godwin">
+        <persName>Godwin, William</persName>
       </person>
-      <person n="Meyer" xml:id="Meyer">
-        <persName>Meyer, Carl F. H.</persName>
+      <person n="Griffith" xml:id="Griffith">
+        <persName>Griffith, Acton Frederick</persName>
       </person>
-      <person n="Meyer" xml:id="MeyerBis">
-        <persName>Meyer, J.</persName>
+      <person n="Hallam" xml:id="Hallam">
+        <persName>Hallam, Henry</persName>
       </person>
-      <person n="Morhof" xml:id="Morhof">
-        <persName>Morhof, Daniel Georg</persName>
+      <person n="Hamper" xml:id="Hamper">
+        <persName>Hamper, William</persName>
       </person>
-      <person n="Morsbach" xml:id="Morsbach">
-        <persName>Morsbach, Lorenz</persName>
+      <person n="Haslewood" xml:id="Haslewood">
+        <persName>Haslewood, Joseph</persName>
       </person>
-      <person n="Paul" xml:id="Paul">
-        <persName>Paul, Hermann</persName>
+      <person n="Hazlitt" xml:id="Hazlitt">
+        <persName>Hazlitt, William</persName>
       </person>
-      <person n="Pauli" xml:id="Pauli">
-        <persName>Pauli, Reinhold</persName>
+      <person n="Hoppner" xml:id="Hoppner">
+        <persName>Hoppner, John</persName>
       </person>
-      <person n="Petzoldt" xml:id="Petzoldt">
-        <persName>Petzoldt, Ernst</persName>
+      <person n="Hunt" xml:id="Hunt">
+        <persName>Hunt, Leigh</persName>
       </person>
-      <person n="Quenstedt" xml:id="Quenstedt">
-        <persName>Quenstedt, Johannes Andreas</persName>
+      <person n="Irving" xml:id="Irving">
+        <persName>Irving, David</persName>
       </person>
-      <person n="Rapp" xml:id="Rapp">
-        <persName>Rapp, Karl Moritz</persName>
+      <person n="Irving" xml:id="IrvingW">
+        <persName>Irving, Washington</persName>
       </person>
-      <person n="Ruever Groneman" xml:id="RueverGroneman">
-        <persName>Ruever Groneman, Sarus Adriaan Jacob de</persName>
+      <person n="Jamieson" xml:id="Jamieson">
+        <persName>Jamieson, John</persName>
       </person>
-      <person n="Schade" xml:id="Schade">
-        <persName>Schade, Arthur</persName>
+      <person n="Jeffrey" xml:id="Jeffrey">
+        <persName>Jeffrey, Francis</persName>
       </person>
-      <person n="Schipper" xml:id="Schipper">
-        <persName>Schipper, Jakob</persName>
+      <person n="John Gibson Lockhart" xml:id="LockhartBis">
+        <persName>John Gibson Lockhart</persName>
       </person>
-      <person n="Schoepke" xml:id="Schoepke">
-        <persName>Schoepke, Otto.</persName>
+      <person n="John Henry Richman" xml:id="Richman">
+        <persName>John Henry Richman</persName>
       </person>
-      <person n="Schrader" xml:id="Schrader">
-        <persName>Schrader, August</persName>
+      <person n="John Sherwen" xml:id="SherwenBis">
+        <persName>John Sherwen</persName>
       </person>
-      <person n="Seume" xml:id="Seume">
-        <persName>Seume, Johann Gottfried</persName>
+      <person n="Johnes" xml:id="Johnes">
+        <persName>Johnes, Thomas</persName>
       </person>
-      <person n="Tieck" xml:id="Tieck">
-        <persName>Tieck, Ludwig</persName>
+      <person n="Keats" xml:id="Keats">
+        <persName>Keats, John</persName>
+      </person>
+      <person n="Keble" xml:id="Keble">
+        <persName>Keble, John</persName>
+      </person>
+      <person n="Kent" xml:id="Kent">
+        <persName>Kent, Elizabeth</persName>
+      </person>
+      <person n="Laing" xml:id="Laing">
+        <persName>Laing, David</persName>
+      </person>
+      <person n="Lamb" xml:id="Lamb">
+        <persName>Lamb, Charles</persName>
+      </person>
+      <person n="Leyden" xml:id="Leyden">
+        <persName>Leyden, John</persName>
+      </person>
+      <person n="Lockhart" xml:id="Lockhart">
+        <persName>Lockhart, John Gibson</persName>
+      </person>
+      <person n="Macaulay" xml:id="Macaulay">
+        <persName>Macaulay, Thomas Babington</persName>
+      </person>
+      <person n="Malcolm" xml:id="Malcolm">
+        <persName>Malcolm, James Peller</persName>
+      </person>
+      <person n="Manning" xml:id="Manning">
+        <persName>Manning, Owen</persName>
+      </person>
+      <person n="Markland" xml:id="Markland">
+        <persName>Markland, James Heywood</persName>
+      </person>
+      <person n="Marsh" xml:id="Marsh">
+        <persName>Marsh, Herbert</persName>
+      </person>
+      <person n="Mary Russell Mitford" xml:id="MitfordBis">
+        <persName>Mary Russell Mitford</persName>
+      </person>
+      <person n="Matthew Gregson" xml:id="Gregson">
+        <persName>Matthew Gregson</persName>
+      </person>
+      <person n="Mitford" xml:id="Mitford">
+        <persName>Mitford, Mary Russell</persName>
+      </person>
+      <person n="Moore" xml:id="Moore">
+        <persName>Moore, Thomas</persName>
+      </person>
+      <person n="Moultrie" xml:id="Moultrie">
+        <persName>Moultrie, John</persName>
+      </person>
+      <person n="Nares" xml:id="Nares">
+        <persName>Nares, Robert</persName>
+      </person>
+      <person n="Nathan Drake" xml:id="DrakeBis">
+        <persName>Nathan Drake</persName>
+      </person>
+      <person n="Nott" xml:id="Nott">
+        <persName>Nott, George Frederick</persName>
+      </person>
+      <person n="Ormerod" xml:id="Ormerod">
+        <persName>Ormerod, George</persName>
+      </person>
+      <person n="Park" xml:id="Park">
+        <persName>Park, Thomas</persName>
+      </person>
+      <person n="Peacock" xml:id="Peacock">
+        <persName>Peacock, Thomas Love</persName>
+      </person>
+      <person n="Planta" xml:id="Planta">
+        <persName>Planta, Joseph</persName>
+      </person>
+      <person n="Pratt" xml:id="Pratt">
+        <persName>Pratt, Samuel Jackson</persName>
+      </person>
+      <person n="Rees" xml:id="Rees">
+        <persName>Rees, Abraham</persName>
+      </person>
+      <person n="Reynolds" xml:id="Reynolds">
+        <persName>Reynolds, John Hamilton</persName>
+      </person>
+      <person n="Ritson" xml:id="Ritson">
+        <persName>Ritson, Joseph</persName>
+      </person>
+      <person n="Robinson" xml:id="Robinson">
+        <persName>Robinson, Henry Crabb</persName>
+      </person>
+      <person n="Robinson" xml:id="RobinsonT">
+        <persName>Robinson, Thomas</persName>
+      </person>
+      <person n="Roscoe" xml:id="Roscoe">
+        <persName>Roscoe, Thomas</persName>
+      </person>
+      <person n="Roscoe" xml:id="RoscoeW">
+        <persName>Roscoe, William</persName>
+      </person>
+      <person n="Sanford" xml:id="Sanford">
+        <persName>Sanford, Ezekiel</persName>
+      </person>
+      <person n="Scott" xml:id="Scott">
+        <persName>Scott, Walter</persName>
+      </person>
+      <person n="Seward" xml:id="Seward">
+        <persName>Seward, Anna</persName>
+      </person>
+      <person n="Shelley" xml:id="Shelley">
+        <persName>Shelley, Mary</persName>
+      </person>
+      <person n="Shelley" xml:id="ShelleyP">
+        <persName>Shelley, Percy Bysshe</persName>
+      </person>
+      <person n="Sherwen" xml:id="Sherwen">
+        <persName>Sherwen, John</persName>
+      </person>
+      <person n="Sibbald" xml:id="Sibbald">
+        <persName>Sibbald, James</persName>
+      </person>
+      <person n="Singer" xml:id="Singer">
+        <persName>Singer, Samuel Weller</persName>
+      </person>
+      <person n="Skelton" xml:id="Skelton">
+        <persName>Skelton, Joseph John</persName>
+      </person>
+      <person n="Smith" xml:id="Smith">
+        <persName>Smith, Horace</persName>
+      </person>
+      <person n="Southey" xml:id="Southey">
+        <persName>Southey, Robert</persName>
+      </person>
+      <person n="Strutt" xml:id="Strutt">
+        <persName>Strutt, Joseph</persName>
+      </person>
+      <person n="Thomas Griffiths Wainewright" xml:id="WainewrightBis">
+        <persName>Thomas Griffiths Wainewright</persName>
+      </person>
+      <person n="Thomson" xml:id="Thomson">
+        <persName>Thomson, Alexander</persName>
+      </person>
+      <person n="Thurlow" xml:id="Thurlow">
+        <persName>Thurlow, Edward Hovell</persName>
+      </person>
+      <person n="Thurlow" xml:id="ThurlowBis">
+        <persName>Thurlow, Edward Hovell-Thurlow</persName>
+      </person>
+      <person n="Todd" xml:id="Todd">
+        <persName>Todd, Henry</persName>
+      </person>
+      <person n="Trotter" xml:id="Trotter">
+        <persName>Trotter, John Bernard</persName>
+      </person>
+      <person n="Turner" xml:id="Turner">
+        <persName>Turner, Sharon</persName>
       </person>
       <person n="Unknown" xml:id="Unknown">
         <persName>Unknown</persName>
       </person>
-      <person n="Wieland" xml:id="Wieland">
-        <persName>Wieland, Christoph Martin</persName>
+      <person n="Unknown." xml:id="Unknown.">
+        <persName>Unknown.</persName>
       </person>
-      <person n="Willert" xml:id="Willert">
-        <persName>Willert, H.</persName>
+      <person n="Wainewright" xml:id="Wainewright">
+        <persName>Wainewright, Thomas Griffiths</persName>
       </person>
-      <person n="Willert" xml:id="WillertBis">
-        <persName>Willert, Hans.</persName>
+      <person n="Walter Scott" xml:id="ScottBis">
+        <persName>Walter Scott</persName>
       </person>
-      <person n="Wülker" xml:id="Wülker">
-        <persName>Wülker, Richard Paul</persName>
+      <person n="Warton" xml:id="Warton">
+        <persName>Warton, Joseph</persName>
       </person>
-      <person n="Würmer" xml:id="Würmer">
-        <persName>Würmer, A.</persName>
+      <person n="Watt" xml:id="Watt">
+        <persName>Watt, Robert</persName>
       </person>
-      <person n="Zupitza" xml:id="Zupitza">
-        <persName>Zupitza, Julius</persName>
+      <person n="Webb" xml:id="Webb">
+        <persName>Webb, Cornelius</persName>
+      </person>
+      <person n="Wharton" xml:id="Wharton">
+        <persName>Wharton, Richard.</persName>
+      </person>
+      <person n="Whitaker" xml:id="Whitaker">
+        <persName>Whitaker, Thomas Dunham</persName>
+      </person>
+      <person n="Wilkes" xml:id="Wilkes">
+        <persName>Wilkes, John</persName>
+      </person>
+      <person n="William Hazlitt" xml:id="HazlittBis">
+        <persName>William Hazlitt</persName>
+      </person>
+      <person n="William Wordsworth" xml:id="WordsworthBis">
+        <persName>William Wordsworth</persName>
+      </person>
+      <person n="Wolcot" xml:id="Wolcot">
+        <persName>Wolcot, John</persName>
+      </person>
+      <person n="Wordsworth" xml:id="WordsworthC">
+        <persName>Wordsworth, Christopher</persName>
+      </person>
+      <person n="Wordsworth" xml:id="WordsworthD">
+        <persName>Wordsworth, Dorothy</persName>
+      </person>
+      <person n="Wordsworth" xml:id="Wordsworth">
+        <persName>Wordsworth, William</persName>
       </person>
     </listPerson>
   </standOff>

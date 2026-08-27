@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1828, John Thomas Smith. Nollekens and his Times,</title>
+        <title>1828, John Thomas Smith. Nollekens and his Times.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/9747268">John Thomas Smith</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/9747268">Smith, John Thomas</author>
             <date cert="high" when="1828">1828</date>
-            <title level="a">Nollekens and his Times,</title>
+            <title level="a">Nollekens and his Times.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="171"/>
-        <ab type="imprint">1828. Smith, John Thomas. Nollekens and his Times, vol. i, p. 179 [conversation between Nollekens and Catling in Westminster Abbey; a short note on Chaucer’s tomb]; vol. ii, pp. 467-71 [an account of Blake’s quarrel with Cromek and Stothard; q.v. above, 1808 and 1809. See Notes and Queries, 1st ser., ii, 420].</ab>
+        
+        <ab type="imprint">1828. Smith, John Thomas. <hi rend="italic">Nollekens and his Times</hi>, vol. i, p. 179 [conversation between Nollekens and Catling in Westminster Abbey; a short note on Chaucer’s tomb]; vol. ii, pp. 467-71 [an account of Blake’s quarrel with Cromek and Stothard; q.v. above, 1808 and 1809. See Notes and Queries, 1st ser., ii, 420].</ab>
       </div>
     </body>
   </text>

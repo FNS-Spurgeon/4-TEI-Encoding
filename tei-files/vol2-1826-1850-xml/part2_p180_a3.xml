@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/14621268">Samuel Bentley</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/14621268">Bentley, Samuel</author>
             <date cert="high" when="1831">1831</date>
             <title level="a">Excerpta Historica, or Illustrations of English History.</title>
           </analytic>
@@ -87,50 +87,56 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="180"/>
-        <ab type="imprint">1831. Bentley, Samuel. Excerpta Historica, or Illustrations of English History. Issue of Katherine Swynford, pp. 148, 155, 205-7, 210, 230-1, 239, 253, 353.</ab>
+        
+        <ab type="imprint">1831. Bentley, Samuel. <hi rend="italic">Excerpta Historica, or Illustrations of English History.</hi> Issue of Katherine Swynford, pp. 148, 155, 205-7, 210, 230-1, 239, 253, 353.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 153] The following document and other notices will throw
-some light on the subject; and as the Swynfords, besides
-being closely connected with the blood-royal, were, according
-to the poet’s biographers, though the fact is very questionable,
-nearly allied to Chaucer, this article may be deemed to possess
-more interest than is generally found in genealogical statements.
-Sir Payne Roelt, a Knight of Hainault, and Guienne King¬
-of-Arms, had, it is said, two daughters and co-heirs, Philippa
-and Katherine. No particulars of his pedigree have been
-discovered; his arms, in allusion to his name, were Gules,
-three Katherine wheels Or.
-Philippa, his eldest daughter, is stated to have been the
-maid of honour to Philippa Queen of Edward the Third
-who by the name of "Philippa Pycard" obtained a grant
-of one hundred shillings per annum on the 28th January
-1370, and married Geoffrey Chaucer, to whom, in consequence,
-it is supposed, of this connection, the Duke of Lancaster
-granted the Castle of Dodington [sic]. Of John of Gaunt's con¬
-nection with Chaucer, however, no proof has been found; and
-the circumstance of the lady assigned to him for his wife
-being styled “Philippa Pycard," instead of Roelt, renders the
-assertion, that she was the sister of the Duchess of Lancaster,
-extremely doubtful.
- . . . . . . .
-[p. 353]
-Letters relating to the Stonor Family.
-The following... deserve insertion as illustrative of the
-private history of the family. The first is a letter from
-Alice, Duchess of Suffolk, wife of William de la Pole, Duke
-of Suffolk, to William Stonor. The Duchess, as being the
-grand-daughter of Geoffrey Chaucer, is an object of interest.
-The poet's eldest son is said to have been Thomas Chaucer,
-who became Speaker of the House of Commons, and was a
-very eminent person in the reigns of Henry the Fifth and
-Sixth. His only child, Alice, married William de la Pole,
-Earl, Marquess, and Duke of Suffolk; but her issue became
-extinct in the reign of Henry the Eighth, when all the
-descendants of Geoffrey Chaucer failed. Their son, John do
-la Pole, Duke of Suffolk, had a natural daughter, Johanna,
-who married Thomas Stonor, and had issue by him Sir
-William, Thomas (from whom descended the Stonors of
-Stonor), and two other sons who died without issue.</seg>
+          <seg><note place="margin">[p. 153]</note>The following document and other notices will throw
+            some light on the subject; and as the Swynfords, besides
+            being closely connected with the blood-royal, were, according
+            to the poet’s biographers, though the fact is very questionable,
+            nearly allied to Chaucer, this article may be deemed to possess
+            more interest than is generally found in genealogical statements.
+            <lb/>Sir Payne Roelt, a Knight of Hainault, and Guienne King-
+            of-Arms, had, it is said, two daughters and co-heirs, Philippa
+            and Katherine. No particulars of his pedigree have been
+            discovered; his arms, in allusion to his name, were Gules,
+            three Katherine wheels Or.
+            <lb/>Philippa, his eldest daughter, is stated to have been the
+            maid of honour to Philippa Queen of Edward the Third
+            who by the name of "Philippa Pycard" obtained a grant
+            of one hundred shillings per annum on the 28th January
+            
+            <milestone unit="page" n="181"/>
+            
+            1370, and married Geoffrey Chaucer, to whom, in consequence,
+            it is supposed, of this connection, the Duke of Lancaster
+            granted the Castle of Dodington <add>[sic]</add>. Of John of Gaunt's
+            connection with Chaucer, however, no proof has been found; and
+            the circumstance of the lady assigned to him for his wife
+            being styled "Philippa Pycard," instead of Roelt, renders the
+            assertion, that she was the sister of the Duchess of Lancaster,
+            extremely doubtful.
+            <lb/>. . . . . . .
+          </seg>
+            
+          <seg><note place="margin">[p. 353]</note>Letters relating to the Stonor Family.
+            <lb/>The following . . . deserve insertion as illustrative of the
+            private history of the family. The first is a letter from
+            Alice, Duchess of Suffolk, wife of William de la Pole, Duke
+            of Suffolk, to William Stonor. The Duchess, as being the
+            grand-daughter of Geoffrey Chaucer, is an object of interest.
+            The poet's eldest son is said to have been Thomas Chaucer,
+            who became Speaker of the House of Commons, and was a
+            very eminent person in the reigns of Henry the Fifth and
+            Sixth. His only child, Alice, married William de la Pole,
+            Earl, Marquess, and Duke of Suffolk; but her issue became
+            extinct in the reign of Henry the Eighth, when all the
+            descendants of Geoffrey Chaucer failed. Their son, John do
+            la Pole, Duke of Suffolk, had a natural daughter, Johanna,
+            who married Thomas Stonor, and had issue by him Sir
+            William, Thomas (from whom descended the Stonors of
+            Stonor), and two other sons who died without issue.</seg>
         </ab>
       </div>
     </body>

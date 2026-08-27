@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1828, Leigh Hunt. Fine Days in January and February,</title>
+        <title>1828, Leigh Hunt. Fine Days in January and February.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
             <date cert="high" when="1828">1828</date>
-            <title level="a">Fine Days in January and February,</title>
+            <title level="a">Fine Days in January and February.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,20 +84,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="169"/>
-        <ab type="imprint">1828. Hunt, James Henry Leigh. Fine Days in January and February, [in] The Companion, Jan. 30, 1826, pp. 26-7. (Indicator and Ex aminer, 1834; Essays, 1891, p. 27-9.)</ab>
+        
+        <ab type="imprint">1828. Hunt, James Henry Leigh. <hi rend="italic">Fine Days in January and February</hi>, [in] The Companion, Jan. 30, 1826, pp. 26-7. (Indicator and Ex aminer, 1834; Essays, 1891, p. 27-9.)</ab>
+        
         <ab type="quotation">
-          <seg>We think we see him [Chanticleer], as in Chaucer's home¬
-stead:
-He looketh as it were a grim leoun
-[and 4 following lines, Nonne Prestes Tale, ll. 4369-73].
-[p.23]... As fine, considered as mere music and versification, as
-the description is pleasant and noble:
-His combe was redder than the fine corall
-[and 5 following lines, ll. 4049-54].
-Hardly one pause like the other throughout, and yet all
-flowing and sweet.... The accent, it is to be observed, in
-those concluding words, as coral and colour, is to be thrown
-on the last syllable.</seg>
+          <seg>We think we see him <add>[Chanticleer]</add>, as in Chaucer's homestead:
+            <l>He looketh as it were a grim leoun</l>
+            <add>[and 4 following lines, <hi rend="italic">Nonne Prestes Tale</hi>, ll. 4369-73]</add>.</seg>
+            
+          <seg><note place="margin">[p.23]</note>. . . As fine, considered as mere music and versification, as
+            the description is pleasant and noble:
+            <l>His combe was redder than the fine corall</l>
+            <add>[and 5 following lines, ll. 4049-54]</add>.</seg>
+            
+          <seg>Hardly one pause like the other throughout, and yet all
+            flowing and sweet. . . . The accent, it is to be observed, in
+            those concluding words, as coral and colour, is to be thrown
+            on the last syllable.</seg>
         </ab>
       </div>
     </body>

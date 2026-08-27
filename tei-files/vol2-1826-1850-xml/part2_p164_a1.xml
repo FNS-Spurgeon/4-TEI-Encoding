@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1826, Unknown. Notice of Gillies's German Stories,</title>
+        <title>1826, Unknown. Notice of Gillies's German Stories.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1826">1826</date>
-            <title level="a">Notice of Gillies's German Stories,</title>
+            <title level="a">Notice of Gillies's German Stories.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,17 +86,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="164"/>
-        <ab type="imprint">1826. Unknown. Notice of Gillies's German Stories, [in] Blackwood’s Edinburgh Magazine, Dec. 1826, vol. XX, p. 849.</ab>
+        
+        <ab type="imprint">1826. Unknown. <hi rend="italic">Notice</hi> of <hi rend="italic">Gillies's German Stories</hi>, [in] Blackwood’s Edinburgh Magazine, Dec. 1826, vol. XX, p. 849.</ab>
+        
         <ab type="quotation">
           <seg>In the Canterbury Tales, the Man of Law's Tale, the Knight's
-Tale, and that of the Lady Abbess [Prioress], might be trans¬
-ferred to any language which was capable .of doing them
-justice; for they depend upon nature and universal passion.
-But in the comic part of the same work, (as the Miller's
-Tale, the Reeve's, etc.) the exquisite colouring of English life
-with which Chaucer has invested them would be an effectual
-bar to their translation.</seg>
-          <note type="footnote">Note in Spurgeon: [The mistake of "the Lady Abbess," which reappears the next year in Murder as a Fine Art, also in Blackwood's (q.v. below, 1827), and again in 1848 (q.v.), might suggest that this article is by De Quincey, though it does not occur in any collection of his writings. But Leigh Hunt is found making the same mistake (q.v. below, 1834).]</note>
+            Tale, and that of the Lady Abbess <add>[Prioress]</add>, might be transferred
+            to any language which was capable .of doing them
+            justice; for they depend upon nature and universal passion.
+            But in the comic part of the same work, (as the Miller's
+            Tale, the Reeve's, etc.) the exquisite colouring of English life
+            with which Chaucer has invested them would be an effectual
+            bar to their translation.<note type="footnote">Note in Spurgeon: [The mistake of "the Lady Abbess," which reappears the next year in <hi rend="italic">Murder as a Fine Art</hi>, also in Blackwood's (q.v. below, 1827), and again in 1848 (q.v.), might suggest that this article is by De Quincey, though it does not occur in any collection of his writings. But Leigh Hunt is found making the same mistake (q.v. below, 1834).]</note></seg>
         </ab>
       </div>
     </body>

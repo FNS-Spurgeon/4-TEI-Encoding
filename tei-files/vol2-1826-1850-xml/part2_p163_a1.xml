@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1826, Edward Bulwer-Lytton. Sketch of the Progress of English Poetry.</title>
+        <title>1826, Edward Bulwer Lytton. Sketch of the Progress of English Poetry.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/99871326">Edward Bulwer-Lytton</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/99871326">Lytton, Edward Bulwer Lytton</author>
             <date cert="high" when="1826">1826</date>
             <title level="a">Sketch of the Progress of English Poetry.</title>
           </analytic>
@@ -86,7 +86,12 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="163"/>
-        <ab type="imprint">1826. Lytton, Edward Bulwer, Lord. Sketch of the Progress of English Poetry. [Of the MS. of this, which was written in 1826 and which was never printed, nearly forty pages are devoted to an enquiry, "how far did Chaucer and Langlande contribute by their works to the Reformation in England?" (Life of Edward Bulwer Lord Lytton, by his son, 1883, vol. ii, p. 99.)]</ab>
+        
+        <ab type="imprint">1826. Lytton, Edward Bulwer, Lord. <hi rend="italic">Sketch of the Progress of English Poetry</hi>.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorial">[Of the MS. of this, which was written in 1826 and which was never printed, nearly forty pages are devoted to an enquiry, "how far did Chaucer and Langlande contribute by their works to the Reformation in England?" (Life of Edward Bulwer Lord Lytton, by his son, 1883, vol. ii, p. 99.)]</seg>
+        </ab>
       </div>
     </body>
   </text>

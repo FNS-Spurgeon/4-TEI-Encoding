@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1833], Haslewood, Joseph, and Bliss, Philip.. Notes and Newspaper Cuttings</title>
+        <title>[c. 1833], Joseph Haslewood and Philip Bliss. Notes and Newspaper Cuttings.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,10 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Haslewood, Joseph, and Bliss, Philip.</author>
-            <date cert="low" when="[c. 1833]">[c. 1833]</date>
-            <title level="a">Notes and Newspaper Cuttings</title>
+            <author cert="high" role="M" ref="https://viaf.org/fr/viaf/27420814">Haslewood, Joseph</author>
+            <author cert="high" role="M" ref="https://viaf.org/fr/viaf/74204895">Bliss, Philip</author>
+            <date cert="low" when="1833">[c. 1833]</date>
+            <title level="a">Notes and Newspaper Cuttings.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,74 +87,78 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="187"/>
-        <ab type="imprint">[c. 1833.] Haslewood, Joseph, and Bliss, Philip. Notes and Newspaper Cuttings in an interleaved copy of William Winstanley’s Lives of the English Poets, 1687 [B.M., C. 45. d. 13].</ab>
+        
+        <ab type="imprint">[c. 1833.] Haslewood, Joseph, and Bliss, Philip. <hi rend="italic">Notes and Newspaper Cuttings</hi> in an interleaved copy of William Winstanley’s <hi rend="italic">Lives of the English Poets</hi>, 1687 [B.M., C. 45. d. 13].</ab>
+        
         <ab type="quotation">
-          <seg>[At the beginning, no pagination, cutting of advertisement
-of] Part I of A Series of Portraits of the British Poets, from
-Chaucer to Cowper and Beattie... published by C.&amp; H.
-Baldwin, Newgate Street.
-[On next page, advertisement of] a new edition of the
-British Poets, in 100 vols., commencing with Chaucer, Dec.
-1821. [See above, 1822.]
-[MS. list of poets cited, and another of those omitted, in
-England’s Parnassus, 1600; Chaucer's name in the second.]
-[To face [Newspaper cutting from] The Daily Courant, March 4,
-p. 18]
-1731. Essay against law proceedings being in English. [See
-above, 1731, vol. i, p. 373.]
-[To face [Quotations from the following in Haslewood’s writing :]
-p. 23]
-(1) The Art of Poetry, 1715 [q.v. below, App. A].
-(2) The Debates.. between the Heraudes of England
-and France by Tho. Coke, 1550 [q.v. vol. i, p. 90].
-(3) The British Warrior, a poem addressed to Lord Cutts,
-1706 [q.v. vol. i, p. 293].
-(4) Inscription on Fly-leaf of imperfect copy of Chaucer's
-Works. [See above, 1764 [Gough?], vol. i, p. 425,
-[To face  (5) Procter's Preface to ‘Of the Knowledge and Conduct
-and Hood, 1823.]
-p. 24]
-of War, 1578’ [q.v. vol. i, p. 116].
-[To face
-p. 25]
-[Newspaper cutting of] Notice of Publication of the works
-of Chaucer by J. Urry, Feb. 1722. [See above, 1721,
-[To face   An Elegie upon the death of the auncient English
-vol. i, p. 353.]
-p. 26]
-poetts. [See above, 1823, Hood.]
-[To face [Quotations in Haslewood’s hand from]
-p. 27]
-(1) Wesley’s Epistle on Poetry, 1700 [q.v. vol. i, p. 289].
-(2) Verses and Small Poems by Sir A. Cokain, 1658 [q.v.
-[To face  (3) Ancient State... of the Court of Requests, 1596
-vol. i, p. 235].
-p. 28]
-[q.v. vol. i, p. 143, on the payment of money at Chaucer's
-tomb; to which Haslewood adds the following MS. note]:
-Q. The nature of this payment, and if Chaucer's tomb was
-not nominally legalized as a place for fixed payments, after the
-manner that there is usually inserted in Mortgage Securities
-Lincolns Inn Hall, or other similar place, for the purpose of
-alledging a certain default. Money tendered does not I con¬
-ceive mean any public gift at the tomb whereto Richard
-Puttenham became entitled by way of perquisite. Rob.
-Cheynie I consider to have been the Trustee upon the marriage
-and the name of Spencer inserted for legal form.
-This construction is added at the time of copying without
-referring to see if any authority notices the Tomb as an
-appointed place for any purpose here required. [See also a
-similar note by Haslewood (‘Eu. Hood’) in Gentleman's
-Magazine, 1823.]
-[p. 32] [A note that in Winstanley's Select Lives of England's
-Worthies is a Life of Chaucer almost verbatim with this.]
-[To face [Cutting of] Surrey's Excellent Epitaffe of Syr Thomas
-pp. 56, 57]
-Wyat [c. 1542, q.v. above, vol. i, p. 84].
-[The last sheet inserted in this volume is an extract,
-probably from a publisher's catalogue, giving] Proposals for
-Macklin's British Poets... particularly... Chaucer, Skelton,
-etc. [The date is given in MS. as 1792, q.v. below, App. A.]</seg>
+          <seg><add>[At the beginning, no pagination, cutting of advertisement
+            of]</add> Part I of A Series of Portraits of the British Poets, from
+            Chaucer to Cowper and Beattie . . . published by C.&amp; H.
+            Baldwin, Newgate Street.</seg>
+            
+          <seg><add>[On next page, advertisement of]</add> a new edition of the
+            British Poets, in 100 vols., commencing with Chaucer, Dec.
+            1821. <add>[See above, 1822.]</add></seg>
+            
+          <seg type="editorial">[MS. list of poets cited, and another of those omitted, in
+            England’s Parnassus, 1600; Chaucer's name in the second.]</seg>
+            
+          <seg><note place="margin">[To face p. 18]</note><add>[Newspaper cutting from]</add> <hi rend="italic">The Daily Courant</hi>, March 4,
+            1731. Essay against law proceedings being in English. <add>[See above, 1731, vol. i, p. 373.]</add></seg>
+          
+          <milestone unit="page" n="188"/>
+          
+          <seg type="editorial"><note place="margin">[To face p. 23]</note>[Quotations from the following in Haslewood’s writing:]</seg>
+          
+          <seg>(1) The Art of Poetry, 1715 <add>[q.v. below, App. A]</add>.
+            <lb/>(2) The Debates . . between the Heraudes of England and France by Tho. Coke, 1550 <add>[q.v. vol. i, p. 90]</add>.
+            <lb/>(3) The British Warrior, a poem addressed to Lord Cutts, 1706 <add>[q.v. vol. i, p. 293]</add>.
+            <lb/>(4) Inscription on Fly-leaf of imperfect copy of Chaucer's Works. <add>[See above, 1764 [Gough?], vol. i, p. 425, and Hood, 1823.]</add>
+            <lb/><note place="margin">[To face p. 24]</note>(5) Procter's Preface to ‘Of the Knowledge and Conduct of War, 1578’ <add>[q.v. vol. i, p. 116]</add>.
+            <lb/><note place="margin">[To face p. 25]</note><add>[Newspaper cutting of]</add> Notice of Publication of the works
+            of Chaucer by J. Urry, Feb. 1722. <add>[See above, 1721, vol. i, p. 353.]</add>
+            <lb/><note place="margin">[To face p. 26]</note>An Elegie upon the death of the auncient English poetts. <add>[See above, 1823, Hood.]</add></seg>
+            
+          <seg type="editorial"><note place="margin">[To face p. 27]</note>[Quotations in Haslewood’s hand from]</seg>
+            
+          <seg>(1) Wesley’s Epistle on Poetry, 1700 <add>[q.v. vol. i, p. 289]</add>.
+            <lb/>(2) Verses and Small Poems by Sir A. Cokain, 1658 [q.v. vol. i, p. 235].
+            <lb/><note place="margin">[To face p. 28]</note>(3) Ancient State . . . of the Court of Requests, 1596</seg>
+            
+          <seg type="editorial">[q.v. vol. i, p. 143, on the payment of money at Chaucer's
+            tomb; to which Haslewood adds the following MS. note]:</seg>
+            
+          <seg>Q. The nature of this payment, and if Chaucer's tomb was
+            not nominally legalized as a place for fixed payments, after the
+            manner that there is usually inserted in Mortgage Securities
+            Lincolns Inn Hall, or other similar place, for the purpose of
+            alledging a certain default. Money tendered does not I con¬
+            ceive mean any public gift at the tomb whereto Richard
+            Puttenham became entitled by way of perquisite. Rob.
+            Cheynie I consider to have been the Trustee upon the marriage
+            and the name of Spencer inserted for legal form.
+            <lb/>This construction is added at the time of copying without
+            referring to see if any authority notices the Tomb as an
+            appointed place for any purpose here required.</seg>
+            
+          <seg type="editorial">[See also a similar note by Haslewood (‘Eu. Hood’) in Gentleman's
+            Magazine, 1823.]</seg>
+            
+          <seg><note place="margin">[p. 32]</note>[A note that in Winstanley's <hi rend="italic">Select Lives of England's
+            Worthies</hi> is a Life of Chaucer almost verbatim with this.]</seg>
+            
+          <seg><note place="margin">[To face pp. 56, 57]</note><add>[Cutting of]</add> Surrey's Excellent Epitaffe of Syr Thomas
+            Wyat <add>[c. 1542, q.v. above, vol. i, p. 84]</add>.</seg>
+            
+          <seg type="editorial">[The last sheet inserted in this volume is an extract,
+            
+            <milestone unit="page" n="189"/>
+            
+            probably from a publisher's catalogue, giving]</seg>
+            
+          <seg>Proposals for Macklin's British Poets . . . particularly . . . Chaucer, Skelton, etc.</seg>
+          
+          <seg type="editorial">[The date is given in MS. as 1792, q.v. below, App. A.]</seg>
         </ab>
       </div>
     </body>

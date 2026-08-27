@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/76446837">Arthur Hallam</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/76446837">Hallam, Arthur</author>
             <date cert="high" when="1831">1831</date>
             <title level="a">Oration on the Influence of Italian Works of Imagination on the same class of Composition in England.</title>
           </analytic>
@@ -84,9 +84,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="181"/>
-        <ab type="imprint">1831. Hallam, Arthur Henry. Oration on the Influence of Italian Works of Imagination on the same class of Composition in England. Delivered in Trinity Coll. Chapel, Dec. 16, 1831, [in] Remains in Verse and Prose of Arthur Henry Hallam, 1834, pp. 159, 178-181.</ab>
+        
+        <ab type="imprint">1831. Hallam, Arthur Henry. <hi rend="italic">Oration on the Influence of Italian Works of Imagination on the same class of Composition in England</hi>. Delivered in Trinity Coll. Chapel, Dec. 16, 1831, [in] Remains in Verse and Prose of Arthur Henry Hallam, 1834, pp. 159, 178-181.</ab>
+        
         <ab type="quotation">
-          <seg>[Chaucer influenced by Italian study.]</seg>
+          <seg type="editorial">[Chaucer influenced by Italian study.]</seg>
         </ab>
       </div>
     </body>

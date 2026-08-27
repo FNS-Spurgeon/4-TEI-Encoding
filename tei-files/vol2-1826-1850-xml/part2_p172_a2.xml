@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1829-30, William Hazlitt. Conversations of James Northcote, Esq.,</title>
+        <title>1829-30, William Hazlitt. Conversations of James Northcote, Esq.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">William Hazlitt</author>
-            <date cert="high" when="1829-30">1829-30</date>
-            <title level="a">Conversations of James Northcote, Esq.,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/87145187">Hazlitt, William</author>
+            <date cert="high" from="1829" to="1830">1829-30</date>
+            <title level="a">Conversations of James Northcote, Esq.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,15 +86,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="172"/>
-        <ab type="imprint">1829-30. Hazlitt, William. Conversations of James Northcote, Esq., Conversation the Fifteenth. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. vi, pp. 378, 418, 466,523.)</ab>
+        
+        <ab type="imprint">1829-30. Hazlitt, William. <hi rend="italic">Conversations of James Northcote, Esq.</hi>, Conversation the Fifteenth. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. vi, pp. 378, 418, 466,523.)<note type="footnote">Note in Spurgeon: [This Conversation probably appeared first in the Atlas, 1829, of which the B.M. has only one no.]</note></ab>
+        
         <ab type="quotation">
-          <seg>Northcote... said, 'Sir Richard Phillips... came
-here once with Godwin to shew me a picture which they
-had just discovered of Chaucer, and which was to embellish
-Godwin's Life of him. I told them it was certainly no
-picture of Chaucer, nor was any such picture painted at
-that time.'</seg>
-          <note type="footnote">Note in Spurgeon: [This Conversation probably appeared first in the Atlas, 1829, of which the B.M. has only one no.]</note>
+          <seg>Northcote . . . said, 'Sir Richard Phillips . . . came
+            here once with Godwin to shew me a picture which they
+            had just discovered of Chaucer, and which was to embellish
+            Godwin's <hi rend="italic">Life</hi> of him. I told them it was certainly no
+            picture of Chaucer, nor was any such picture painted at
+            that time.'</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1832, Jonathan Boucher. Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language,</title>
+        <title>1832, Jonathan Boucher. Glossary of Archaic and Provincial Words.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/44659213">Jonathan Boucher</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/44659213">Boucher, Jonathan</author>
             <date cert="high" when="1832">1832</date>
-            <title level="a">Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language,</title>
+            <title level="a">Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,10 +86,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="184"/>
-        <ab type="imprint">1832. Boucher, Jonathan. Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language, 1832, edited by the Rev. Joseph Hunter and Joseph Stevenson, pp. vii, xviii-xx, xxxi-ii, xl, xli, xlv, xlvi, li, liii-iv, lvi.</ab>
+        
+        <ab type="imprint">1832. Boucher, Jonathan. <hi rend="italic">Glossary of Archaic and Provincial Words. A Supplement to the Dictionaries of the English Language</hi>, 1832, edited by the Rev. Joseph Hunter and Joseph Stevenson, pp. vii, xviii-xx, xxxi-ii, xl, xli, xlv, xlvi, li, liii-iv, lvi.</ab>
+        
         <ab type="quotation">
-          <seg>[Words from
-Chaucer on nearly every page. See above, 1804, Boucher.]</seg>
+          <seg type="editorial">[Words from Chaucer on nearly every page. See above, 1804, Boucher.]</seg>
         </ab>
       </div>
     </body>

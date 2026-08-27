@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1828, Leigh Hunt. Lord Byron and Some of his Con temporaries,</title>
+        <title>1828, Leigh Hunt. Lord Byron and Some of his Con temporaries.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
             <date cert="high" when="1828">1828</date>
-            <title level="a">Lord Byron and Some of his Con temporaries,</title>
+            <title level="a">Lord Byron and Some of his Con temporaries.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,20 +84,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="169"/>
-        <ab type="imprint">1828. Hunt, James Henry Leigh. Lord Byron and Some of his Con temporaries, pp. 376, 398-9 [also a few passing references].</ab>
+        
+        <ab type="imprint">1828. Hunt, James Henry Leigh. <hi rend="italic">Lord Byron and Some of his Con temporaries</hi>, pp. 376, 398-9 [also a few passing references].</ab>
+        
         <ab type="quotation">
-          <seg>[p. 376] Chaucer, one of my best friends, I was not acquainted with
-till long afterwards [i. e. after his schooldays].
-[p. 398] It is to him [Mr. Bell] the public are indebted for the small
-edition of the Poets that preceded Cooke’s, and which, with
-all my predilections for that work, was unquestionably superior
-to it. Besides, it included Chaucer and Spenser. The omis¬
-sion of these in Cooke’s edition was as unpoetical a sign of the
-times, as the existing familiarity with their names is the
-[p. 399] reverse.... He knew nothing of poetry.... Yet a certain
-liberal instinct, and turn for large dealing, made him include
-Chaucer and Spenser in his edition; he got Stothard to adorn
-the one, and Mortimer the other.</seg>
+          <seg><note place="margin">[p. 376]</note>Chaucer, one of my best friends, I was not acquainted with
+            till long afterwards <add>[i. e. after his schooldays]</add>.</seg>
+            
+          <seg><note place="margin">[p. 398]</note>It is to him <add>[Mr. Bell]</add> the public are indebted for the small
+            edition of the Poets that preceded Cooke’s, and which, with
+            all my predilections for that work, was unquestionably superior
+            to it. Besides, it included Chaucer and Spenser. The omission
+            of these in Cooke’s edition was as unpoetical a sign of the
+            times, as the existing familiarity with their names is the
+            <note place="margin">[p. 399]</note>reverse. . . . He knew nothing of poetry. . . . Yet a certain
+            liberal instinct, and turn for large dealing, made him include
+            Chaucer and Spenser in his edition; he got Stothard to adorn
+            the one, and Mortimer the other.</seg>
         </ab>
       </div>
     </body>

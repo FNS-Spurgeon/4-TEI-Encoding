@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1827, Thomas De Quincey. On Murder considered as one of the Fine Arts,</title>
+        <title>1827, Thomas De Quincey. On Murder considered as one of the Fine Arts.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/14768427">Thomas De Quincey</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/14768427">De Quincey, Thomas</author>
             <date cert="high" when="1827">1827</date>
-            <title level="a">On Murder considered as one of the Fine Arts,</title>
+            <title level="a">On Murder considered as one of the Fine Arts.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,15 +84,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="165"/>
-        <ab type="imprint">1827. [De Quincey, Thomas.] On Murder considered as one of the Fine Arts, [in] Blackwood’s Edinburgh Magazine, Feb. 1827, p. 202. (Collected Writings, ed. D. Masson, Edinburgh, 1889-90, 14 vols., vol. xiii, p. 20.)</ab>
+        
+        <ab type="imprint">1827. [De Quincey, Thomas.] <hi rend="italic">On Murder considered as one of the Fine Arts</hi>, [in] Blackwood’s Edinburgh Magazine, Feb. 1827, p. 202. (Collected Writings, ed. D. Masson, Edinburgh, 1889-90, 14 vols., vol. xiii, p. 20.)</ab>
+        
         <ab type="quotation">
-          <seg>Indeed, the Jewish School [of the Art of Murder] was always
-respectable, even in the dark ages, as the case of Hugh of
-Lincoln shows, which was honoured with the approbation
-of Chaucer, on occasion of another performance from the same
-school, which, in his Canterbury Tales, he puts into the mouth
-of the Lady Abbess.</seg>
-          <note type="footnote">Note in Spurgeon: [For another reference of De Quincey to the Prioresses Tale, see below, 1848; see also above, 1826. Unknown, in Blackwood's.]</note>
+          <seg>Indeed, the Jewish School <add>[of the Art of Murder]</add> was always
+            respectable, even in the dark ages, as the case of Hugh of
+            Lincoln shows, which was honoured with the approbation
+            of Chaucer, on occasion of another performance from the same
+            school, which, in his Canterbury Tales, he puts into the mouth
+            of the Lady Abbess.<note type="footnote">Note in Spurgeon: [For another reference of De Quincey to the <hi rend="italic">Prioresses Tale</hi>, see below, 1848; see also above, 1826. Unknown, in Blackwood's.]</note></seg>
         </ab>
       </div>
     </body>

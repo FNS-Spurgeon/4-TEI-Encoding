@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">William Wordsworth</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">Wordsworth, William</author>
             <date cert="high" when="1829">1829</date>
             <title level="a">Liberty.</title>
           </analytic>
@@ -84,20 +84,28 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="176"/>
-        <ab type="imprint">1829. Wordsworth, William. Liberty. (The Poetical Works of William Wordsworth, 1896, vol. vii, p. 219.)</ab>
+        
+        <ab type="imprint">1829. Wordsworth, William. <hi rend="italic">Liberty</hi>. (The Poetical Works of William Wordsworth, 1896, vol. vii, p. 219.)</ab>
+        
         <ab type="quotation">
-          <seg>Is there a cherished bird (I venture now
-To snatch a sprig from Chaucer's reverend brow)—
-Is there a brilliant fondling of the cage,
-Though sure of plaudits on his costly stage,
-Though fed with dainties from the snow-white hand
-Of a kind mistress, fairest of the land,
-But gladly would escape; and, if need were,
-Scatter the colours from the plumes that bear
-The emancipated captive through blithe air
-Into strange woods, where he at large may live
-On best or worst which they and Nature give?</seg>
-          <note type="footnote">Note in Spurgeon: [This is from the sequel to the Gold and Silver Fishes in a Vase, written in 1829, printed in 1835.]</note>
+          <seg>
+            <lg>
+              <l>Is there a cherished bird (I venture now</l>
+              <l>To snatch a sprig from Chaucer's reverend brow)—</l>
+            
+              <milestone unit="page" n="177"/>
+            
+              <l>Is there a brilliant fondling of the cage,</l>
+              <l>Though sure of plaudits on his costly stage,</l>
+              <l>Though fed with dainties from the snow-white hand</l>
+              <l>Of a kind mistress, fairest of the land,</l>
+              <l>But gladly would escape; and, if need were,</l>
+              <l>Scatter the colours from the plumes that bear</l>
+              <l>The emancipated captive through blithe air</l>
+              <l>Into strange woods, where he at large may live</l>
+              <l>On best or worst which they and Nature give?<note type="footnote">Note in Spurgeon: [This is from the sequel to the <hi rend="italic">Gold and Silver Fishes in a Vase</hi>, written in 1829, printed in 1835.]</note></l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1829, Walter Savage Landor. Imaginary Conversations,</title>
+        <title>1829, Walter Savage Landor. Imaginary Conversations.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Walter Savage Landor</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Landor, Walter Savage</author>
             <date cert="high" when="1829">1829</date>
-            <title level="a">Imaginary Conversations,</title>
+            <title level="a">Imaginary Conversations.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -87,147 +87,164 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="172"/>
-        <ab type="imprint">1829. Landor, Walter Savage. Imaginary Conversations, 5 vols., 1824-9; vol. iv, 1829. pp. 209-76; Works, 1846, vol. i, pp. 402-18. (Imaginary Conversations, ed. C. G. Crump, 1891, 6 vols., vol. iv. pp. 66-108.)</ab>
+        
+        <ab type="imprint">1829. Landor, Walter Savage. <hi rend="italic">Imaginary Conversations</hi>, 5 vols., 1824-9; vol. iv, 1829. pp. 209-76; <hi rend="italic">Works</hi>, 1846, vol. i, pp. 402-18. (Imaginary Conversations, ed. C. G. Crump, 1891, 6 vols., vol. iv. pp. 66-108.)</ab>
+        
         <ab type="quotation">
-          <seg>[There are various changes in the language between the
-editions of 1829 and 1846. In the opening speech, for
-instance, after 'Decameron,' the 1829 edition reads “which
-I shewed to you in his manuscript, you expressed so ardently
-your admiration," &amp;c. The speech of Petrarca (p. 403), in
-reply to Chaucer's remarks on the cataract of Terni, is a later
-addition.]
-CHAUCER, BOCCACCIO, AND PETRARCA.
-[p. 66] Petrarca. You have kept your promise like an Englishman,
-[p. 67] Ser Geoffreddo: welcome to Arezzo. This gentleman is
-Messer Giovanni Boccaccio, of whose unfinished Decameron,
-which I opened to you in manuscript, you expressed your
-admiration when we met at Florence in the spring.
-Boccaccio. I was then at Certaldo, my native place, filling
-up my stories, and have only to regret that my acquaintance
-with one so friendly and partial to me has been formed so
-late. How did Rome answer your expectation, sir?
-Chaucer. I had passed through Pisa; of which city the
-Campo Santo, now nearly finished, after half a century from
-its foundation, and the noble street along the Arno, are
-incomparably more beautiful than anything in Rome.
-Petrarca. That is true. I have heard, however, some of
-your countrymen declare that Oxford is equal to Pisa, in the
-solidity, extent, and costliness of its structures.
-Chaucer. Oxford is the most beautiful of our cities: it
-would be a very fine one if there were no houses in it.
-Petrarca. How is that?
-Chaucer. The lath-and-plaster white-washed houses look
-despicably mean under the colleges.
-Boccaccio. Few see anything in the same point of view.
-It would gratify me highly, if you would tell me with all
-the frankness of your character and your country, what struck
-you most in "the capital of the world" as the vilest slaves
-in it call their great open cloaca.
-Chaucer. After the remains of antiquity, I know not
-whether anything struck me more forcibly than the superiority
-of our English churches and monasteries.  ...
-[p. 68] Boccaccio. We can not travel in the most picturesque
-and romantic regions of our Italy, from the deficiency of
-civilisation in the people.
-Chaucer. Yet, Messer Giovanni, I never journeyed so far
-through so enchanting a scenery as there is almost the whole
-of the way from Arezzo to Rome, particularly round Terni
-and Narni and Perugia.
-Our master Virgil speaks of dreams that swarm upon the
-branches of one solitary elm. In this country more than
-dreams swarm upon every spray and leaf; and every murmur
-of wood or water comes from and brings with it inspiration.
-Never shall I forget the hour when my whole soul was carried
-away from me by the cataract of Terni, and when all things
-existing were lost to me in its stupendous waters. The
-majestic woods that bowed their heads before it; the sun
-that was veiling his glory in mild translucent clouds over the
-furthest course of the river; the moon, that suspended her
-orb in the very centre of it, seemed ministering Powers,
-themselves in undiminished admiration of the marvel they
-had been looking on through unnumbered ages. What are the
-works of man in comparison with this? What indeed, are
-the other works of Nature?
-Petrarca. Ser Giovanni! this, which appears even too great
-for Nature, was not too great for man. Our ancestors achieved
-it. Curius Dentatus, in his consulate, forbade the waters of
-the Velinus to inundate so beautiful a valley, and threw them
-down this precipice into the Nar.  ...
-[p. 69] Chaucer. I was not forgetful that we heard the story from
-our guide; but I thought him a boaster: and now for the
-first time I learn that any great power hath been exerted for
-any great good. Roads were levelled for aggression, and vast
-edifices were constructed either for pride or policy, to com¬
-memorate some victory, to reward the Gods for giving it, or
-to keep them in the same temper. There is nothing of which
-men appear to have been in such perpetual apprehension, as
-the inconstancy of the deities they worship.
-Many thanks, Ser Francesco, for reminding me of what
-the guide asserted, and for teaching me the truth. I thought
-the fall of the Velinus not only the work of Nature, but the
-most beautiful she had ever made on earth. My prevention,
-in regard to the country about Rome, was almost as great,
-and almost as unjust to Nature, from what I had heard of it
-both at home and abroad. In the approach to the eternal
-city, she seems to have surrendered much of her wildness,
-and to have assumed all her stateliness and sedateness, all her
-awfulness and severity.....
-[p. 70] Boccaccio. If Ser Geoffreddo felt in honest truth any
-pleasure at reading my Decameron, he owes me a tithe at least
-of the stories it contains: for I shall not be so courteous as
-to tell him that one of his invention is worth ten of mine, until
-I have had all his ten from him: if not now, another day.
-Chaucer. Let life be spared to me, and I will carry the
-[p. 71] tithe in triumph through my country, much as may be shed
-of the heavier and riper grain by the conveyance and the
-handling of it. And I will attempt to show Englishmen what
-Italians are; how much deeper in thought, intenser in
-feeling, and richer in imagination, than ever formerly: and
-I will try whether we can not raise poetry under our fogs, and
-merriment among our marshes. We must first throw some
-litter about it, which those who come after us may remove.
-Petrarca. Do not threaten, Ser Geffreddo! Englishmen act.
-Boccaccio. Messer Francesco is grown melancholy at the
-spectre of the tribune. Relate to us some amusing tale, either
-of court or war.
-Chaucer. It would ill become me, signors, to refuse what
-I can offer: and truly I am loth to be silent, when a fair
-occasion is before me of adverting to those of my countrymen
-who fought in the battle of Cressy, as did one or two or more
-of the persons that are the subjects of my narrative.
-Boccaccio. Enormous and horrible as was the slaughter of
-the French in that fight, and hateful as is war altogether to
-you and me, Francesco! I do expect from the countenance of
-Ser Geoffreddo, that he will rather make us merry than sad.
-Chaucer. I hope I may, the story not wholly nor principally
-relating to the battle.
-[Here Chaucer tells the story of Sir Magnus Lucy of
-Charlecote.]
-[p.  97] Now Messer Francesco, I may call upon you, having seen
-you long since throw aside your gravity, and at last spring
-up alert, as though you would mount for Picardy.
-Petrarca. A right indeed have you acquired to call upon
-me, Ser Geoffredo; but you must accept from me the produce
-of our country.  ...
-[p. 98] Boccaccio. Well, go on with him.
-Petrarca. I do think, Giovanni, you tell a story a great deal
-more naturally; but I will say plainly what my own eyes
-have remarked, and will let the peculiarities of men appear
-as they strike me, whether they are in symmetry with our
-notions of character, or not.
-Chaucer. The man of genius may do this: no other will
-attempt it. He will discover the symmetry, the relations,
-and the dependencies, of the whole: he will square the
-strange problematic circle of the human heart.  ...
-[p. 108] After this narration, Messer Francesco walked toward the
-high altar and made his genuflexion: the same did Messer
-Giovanni, and, in the act of it, slapped Ser Geoffreddo
-on the shoulder, telling him he might dispense with the
-ceremony, by reason of his inflexible boots and the buck-skin
-paling about his loins. Ser Geoffreddo did it nevertheless,
-and with equal devotion. His two friends then took him
-between them to the house of Messer Francesco, where dinner
-had been some time waiting.</seg>
+          <seg type="editorial">[There are various changes in the language between the
+            editions of 1829 and 1846. In the opening speech, for
+            instance, after '<hi rend="italic">Decameron</hi>,' the 1829 edition reads “which
+            I shewed to you in his manuscript, you expressed so ardently
+            your admiration," &amp;c. The speech of Petrarca (p. 403), in
+            reply to Chaucer's remarks on the cataract of Terni, is a later
+            addition.]</seg>
+          
+          <milestone unit="page" n="173"/>
+            
+          <seg>CHAUCER, BOCCACCIO, AND PETRARCA.
+            <lb/><note place="margin">[p. 66]</note>Petrarca. You have kept your promise like an Englishman,
+            <note place="margin">[p. 67]</note>Ser Geoffreddo: welcome to Arezzo. This gentleman is
+            Messer Giovanni Boccaccio, of whose unfinished <hi rend="italic">Decameron</hi>,
+            which I opened to you in manuscript, you expressed your
+            admiration when we met at Florence in the spring.
+            <lb/>Boccaccio. I was then at Certaldo, my native place, filling
+            up my stories, and have only to regret that my acquaintance
+            with one so friendly and partial to me has been formed so
+            late. How did Rome answer your expectation, sir?
+            <lb/>Chaucer. I had passed through Pisa; of which city the
+            Campo Santo, now nearly finished, after half a century from
+            its foundation, and the noble street along the Arno, are
+            incomparably more beautiful than anything in Rome.
+            <lb/>Petrarca. That is true. I have heard, however, some of
+            your countrymen declare that Oxford is equal to Pisa, in the
+            solidity, extent, and costliness of its structures.
+            <lb/>Chaucer. Oxford is the most beautiful of our cities: it
+            would be a very fine one if there were no houses in it.
+            <lb/>Petrarca. How is that?
+            <lb/>Chaucer. The lath-and-plaster white-washed houses look
+            despicably mean under the colleges.
+            <lb/>Boccaccio. Few see anything in the same point of view.
+            It would gratify me highly, if you would tell me with all
+            the frankness of your character and your country, what struck
+            you most in "the capital of the world" as the vilest slaves
+            in it call their great open cloaca.
+            <lb/>Chaucer. After the remains of antiquity, I know not
+            whether anything struck me more forcibly than the superiority
+            of our English churches and monasteries. . . .
+            <lb/><note place="margin">[p. 68]</note>Boccaccio. We can not travel in the most picturesque
+            and romantic regions of our Italy, from the deficiency of
+            civilisation in the people.
+            <lb/>Chaucer. Yet, Messer Giovanni, I never journeyed so far
+            through so enchanting a scenery as there is almost the whole
+            of the way from Arezzo to Rome, particularly round Terni
+            and Narni and Perugia.
+            <lb/>Our master Virgil speaks of dreams that swarm upon the
+            branches of one solitary elm. In this country more than
+            dreams swarm upon every spray and leaf; and every murmur
+            of wood or water comes from and brings with it inspiration.
+            
+            <milestone unit="page" n="174"/>
+            
+            Never shall I forget the hour when my whole soul was carried
+            away from me by the cataract of Terni, and when all things
+            existing were lost to me in its stupendous waters. The
+            majestic woods that bowed their heads before it; the sun
+            that was veiling his glory in mild translucent clouds over the
+            furthest course of the river; the moon, that suspended her
+            orb in the very centre of it, seemed ministering Powers,
+            themselves in undiminished admiration of the marvel they
+            had been looking on through unnumbered ages. What are the
+            works of man in comparison with this? What indeed, are
+            the other works of Nature?
+            <lb/>Petrarca. Ser Giovanni! this, which appears even too great
+            for Nature, was not too great for man. Our ancestors achieved
+            it. Curius Dentatus, in his consulate, forbade the waters of
+            the Velinus to inundate so beautiful a valley, and threw them
+            down this precipice into the Nar. . . .
+            <lb/><note place="margin">[p. 69]</note>Chaucer. I was not forgetful that we heard the story from
+            our guide; but I thought him a boaster: and now for the
+            first time I learn that any great power hath been exerted for
+            any great good. Roads were levelled for aggression, and vast
+            edifices were constructed either for pride or policy, to
+            commemorate some victory, to reward the Gods for giving it, or
+            to keep them in the same temper. There is nothing of which
+            men appear to have been in such perpetual apprehension, as
+            the inconstancy of the deities they worship.
+            <lb/>Many thanks, Ser Francesco, for reminding me of what
+            the guide asserted, and for teaching me the truth. I thought
+            the fall of the Velinus not only the work of Nature, but the
+            most beautiful she had ever made on earth. My prevention,
+            in regard to the country about Rome, was almost as great,
+            and almost as unjust to Nature, from what I had heard of it
+            both at home and abroad. In the approach to the eternal
+            city, she seems to have surrendered much of her wildness,
+            and to have assumed all her stateliness and sedateness, all her
+            awfulness and severity.....</seg>
+            
+          <seg><note place="margin">[p. 70]</note>Boccaccio. If Ser Geoffreddo felt in honest truth any
+            pleasure at reading my Decameron, he owes me a tithe at least
+            of the stories it contains: for I shall not be so courteous as
+            to tell him that one of his invention is worth ten of mine, until
+            I have had all his ten from him: if not now, another day.
+            <lb/>Chaucer. Let life be spared to me, and I will carry the
+            <note place="margin">[p. 71]</note>tithe in triumph through my country, much as may be shed
+            
+            <milestone unit="page" n="175"/>
+            
+            of the heavier and riper grain by the conveyance and the
+            handling of it. And I will attempt to show Englishmen what
+            Italians are; how much deeper in thought, intenser in
+            feeling, and richer in imagination, than ever formerly: and
+            I will try whether we can not raise poetry under our fogs, and
+            merriment among our marshes. We must first throw some
+            litter about it, which those who come after us may remove.
+            <lb/>Petrarca. Do not threaten, Ser Geffreddo! Englishmen act.
+            <lb/>Boccaccio. Messer Francesco is grown melancholy at the
+            spectre of the tribune. Relate to us some amusing tale, either
+            of court or war.
+            <lb/>Chaucer. It would ill become me, signors, to refuse what
+            I can offer: and truly I am loth to be silent, when a fair
+            occasion is before me of adverting to those of my countrymen
+            who fought in the battle of Cressy, as did one or two or more
+            of the persons that are the subjects of my narrative.
+            <lb/>Boccaccio. Enormous and horrible as was the slaughter of
+            the French in that fight, and hateful as is war altogether to
+            you and me, Francesco! I do expect from the countenance of
+            Ser Geoffreddo, that he will rather make us merry than sad.
+            <lb/>Chaucer. I hope I may, the story not wholly nor principally
+            relating to the battle.</seg>
+            
+          <seg type="editorial">[Here Chaucer tells the story of Sir Magnus Lucy of Charlecote.]</seg>
+            
+          <seg><note place="margin">[p.  97]</note>Now Messer Francesco, I may call upon you, having seen
+            you long since throw aside your gravity, and at last spring
+            up alert, as though you would mount for Picardy.
+            Petrarca. A right indeed have you acquired to call upon
+            me, Ser Geoffredo; but you must accept from me the produce
+            of our country. . . .
+            <lb/><note place="margin">[p. 98]</note>Boccaccio. Well, go on with him.
+            <lb/>Petrarca. I do think, Giovanni, you tell a story a great deal
+            more naturally; but I will say plainly what my own eyes
+            have remarked, and will let the peculiarities of men appear
+            as they strike me, whether they are in symmetry with our
+            notions of character, or not.
+            <lb/>Chaucer. The man of genius may do this: no other will
+            attempt it. He will discover the symmetry, the relations,
+            and the dependencies, of the whole: he will square the
+            strange problematic circle of the human heart. . . .</seg>
+            
+          <seg><note place="margin">[p. 108]</note>After this narration, Messer Francesco walked toward the
+            high altar and made his genuflexion: the same did Messer
+            
+            <milestone unit="page" n="176"/>
+            
+            Giovanni, and, in the act of it, slapped Ser Geoffreddo
+            on the shoulder, telling him he might dispense with the
+            ceremony, by reason of his inflexible boots and the buck-skin
+            paling about his loins. Ser Geoffreddo did it nevertheless,
+            and with equal devotion. His two friends then took him
+            between them to the house of Messer Francesco, where dinner
+            had been some time waiting.</seg>
         </ab>
       </div>
     </body>

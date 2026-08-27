@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1827, Adolphus, J. L.. Memoranda,</title>
+        <title>1827, J. L. Adolphus. Memoranda.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/">Adolphus, J. L.</author>
             <date cert="high" when="1827">1827</date>
-            <title level="a">Memoranda,</title>
+            <title level="a">Memoranda.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,15 +86,20 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="164"/>
-        <ab type="imprint">1827. Adolphus, J. L. Memoranda, [in] J. G. Lockhart's Memoirs of Sir Walter Scott, Edinburgh, 1838, vol. vii, pp. 56-7. (Ed. A. W. Pollard, 1900, vol. v, p. 130.)</ab>
+        
+        <ab type="imprint">1827. Adolphus, J. L. <hi rend="italic">Memoranda</hi>, [in] J. G. Lockhart's Memoirs of Sir Walter Scott, Edinburgh, 1838, vol. vii, pp. 56-7. (Ed. A. W. Pollard, 1900, vol. v, p. 130.)</ab>
+        
         <ab type="quotation">
           <seg>The chief ornament in Scott's study] was the print of
-Stothard's Canterbury Pilgrims, which hung over the chim¬
-neypiece, and, from the place assigned to it, must have been
-in great favour, though Sir Walter made the characteristic
-criticism upon it, that, if the procession were to move, the
-young squire who is prancing in the foreground would in
-another minute be over his horse’s head.</seg>
+            
+            <milestone unit="page" n="165"/>
+            
+            Stothard's Canterbury Pilgrims, which hung over the chimneypiece,
+            and, from the place assigned to it, must have been
+            in great favour, though Sir Walter made the characteristic
+            criticism upon it, that, if the procession were to move, the
+            young squire who is prancing in the foreground would in
+            another minute be over his horse’s head.</seg>
         </ab>
       </div>
     </body>

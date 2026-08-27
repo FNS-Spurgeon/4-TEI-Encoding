@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1831, John Payne Collier. The History of English Dramatic Poetry to the time of Shakespeare; and Annals of the Stage to the Restora tion,</title>
+        <title>1831, John Payne Collier. The History of English Dramatic Poetry to the time of Shakespeare; and Annals of the Stage to the Restoration.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/49275505">John Payne Collier</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/49275505">Collier, John Payne</author>
             <date cert="high" when="1831">1831</date>
             <title level="a">The History of English Dramatic Poetry to the time of Shakespeare; and Annals of the Stage to the Restora tion,</title>
           </analytic>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="181"/>
-        <ab type="imprint">1831. Collier, John Payne. The History of English Dramatic Poetry to the time of Shakespeare; and Annals of the Stage to the Restora tion, 3 vols, vol. i, p. 12 ; vol. ii, pp. 124 n., 134 n., 147, 150 [Chaucer's allusions to Miracle Plays], 189 n., 237 n., 285 [note on the phrase “lefe on linde"], 291 n.; vol. iii, p. 103 n. [the mention of Chaucer by Edward Guilpin in Skialetheia, 1598, q.v., above, vol. i, p. 157].</ab>
+        
+        <ab type="imprint">1831. Collier, John Payne. <hi rend="italic">The History of English Dramatic Poetry to the time of Shakespeare; and Annals of the Stage to the Restoration</hi>, 3 vols, vol. i, p. 12 ; vol. ii, pp. 124 n., 134 n., 147, 150 [Chaucer's allusions to Miracle Plays], 189 n., 237 n., 285 [note on the phrase “lefe on linde"], 291 n.; vol. iii, p. 103 n. [the mention of Chaucer by Edward Guilpin in <hi rend="italic">Skialetheia</hi>, 1598, q.v., above, vol. i, p. 157].</ab>
       </div>
     </body>
   </text>

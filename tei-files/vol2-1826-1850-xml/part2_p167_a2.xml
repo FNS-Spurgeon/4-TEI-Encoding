@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1827, Unknown. Chaucer, Sir Geoffrey,</title>
+        <title>1827, Unknown. Chaucer, Sir Geoffrey.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1827">1827</date>
-            <title level="a">Chaucer, Sir Geoffrey,</title>
+            <title level="a">Chaucer, Sir Geoffrey.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,24 +86,32 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="167"/>
-        <ab type="imprint">1827. Unknown. Chaucer, Sir Geoffrey, [in] Encyclopaedia Edinensis, 1827, vol. ii, pp. 254-5.</ab>
+        
+        <ab type="imprint">1827. Unknown. <hi rend="italic">Chaucer, Sir Geoffrey</hi>, [in] Encyclopaedia Edinensis, 1827, vol. ii, pp. 254-5.</ab>
+        
         <ab type="quotation">
-          <seg>[A short article, beginning with a cautious biography, in
-which nothing is stated as certainty except the birth-date
-1328, Chaucer's promotions in 1389, and death-date.]
-Chaucer was not only the first, but also one of the best
-English poets. He was great in every kind of poetry, and
-displays every kind of excellence, excepting melody and
-accuracy of measure, defects which are to be ascribed to the
-imperfect state of the language... [Dryden quoted. The
-Court of Love, Chaucer's first poem, followed by Troilus and
-Criseyde. Many of the poems are allegories; the Dream (i. e.
-the Isle of Ladies) and the Flower and the Leaf mentioned,
-as well as The Book of the Duchesse, Romaunt of the Rose
-and Hous of Fame.]
-The Canterbury Tales... are alone sufficient to transmit
-his name to posterity.... In his delineation of character he
-is not considered inferior to Shakespeare himself.</seg>
+          <seg type="editorial">[A short article, beginning with a cautious biography, in
+            which nothing is stated as certainty except the birth-date
+            1328, Chaucer's promotions in 1389, and death-date.]</seg>
+          
+          <seg>Chaucer was not only the first, but also one of the best
+            English poets. He was great in every kind of poetry, and
+            displays every kind of excellence, excepting melody and
+            accuracy of measure, defects which are to be ascribed to the
+            imperfect state of the language . . .</seg>
+            
+          <seg>[Dryden quoted. <hi rend="italic">The Court of Love</hi>, Chaucer's first poem, followed by <hi rend="italic">Troilus and
+            Criseyde</hi>. Many of the poems are allegories; the Dream (i. e.
+            the Isle of Ladies) and the <hi rend="italic">Flower and the Leaf</hi> mentioned,
+            
+            <milestone unit="page" n="168"/>
+            
+            as well as <hi rend="italic">The Book of the Duchesse</hi>, <hi rend="italic">Romaunt of the Rose</hi>
+            and <hi rend="italic">Hous of Fame</hi>.]</seg>
+            
+          <seg>The Canterbury Tales . . . are alone sufficient to transmit
+            his name to posterity. . . . In his delineation of character he
+            is not considered inferior to Shakespeare himself.</seg>
         </ab>
       </div>
     </body>

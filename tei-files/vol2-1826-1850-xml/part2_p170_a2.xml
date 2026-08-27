@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/24616222">Thomas Moore</author>
-            <date cert="low" when="[1828?]">[1828?]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/24616222">Moore, Thomas</author>
+            <date cert="low" when="1828">[1828?]</date>
             <title level="a">Note [to] Song of the Departing Spirit of Tithe.</title>
           </analytic>
           <monogr>
@@ -84,13 +84,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="170"/>
-        <ab type="imprint">[1828?] Moore, Thomas. Note [to] Song of the Departing Spirit of Tithe. (Poetical Works, ed. A. D. Godley, 1910, p. 613.)</ab>
+        
+        <ab type="imprint">[1828?] Moore, Thomas. <hi rend="italic">Note</hi> [to] <hi rend="italic">Song of the Departing Spirit of Tithe</hi>. (Poetical Works, ed. A. D. Godley, 1910, p. 613.)</ab>
+        
         <ab type="quotation">
           <seg>Chaucer's Plowman complains of the Parish rectors, that
-For the tithing of a duck,
-Or an apple or an aye (egg),
-They make him swear upon a boke;Thus they foulen Christ's fay.'</seg>
-          <note type="footnote">Note in Spurgeon: [The Plowman's Tale, author unknown, ll. 861-64. We have not been able to trace the frst appearance of this piece. In Moore's Poetical Works, collected by himself, 1840-41, 10 vols., it appears (vol. ix., pp. 17-21) between pieces dated 1828, and immediately following those published in Odes on Cern, Cash and Catholics, 1828. It is not found in Palmer's Index to the Times for 1828. The note containing the Chaucer reference may have been added by Moore in 1841.]</note>
+            <lg>
+              <l>For the tithing of a duck,</l>
+              <l>Or an apple or an aye (egg),</l>
+              <l>They make him swear upon a boke;</l>
+              <l>Thus they foulen Christ's fay.'<note type="footnote">Note in Spurgeon: [<hi rend="italic">The Plowman's Tale</hi>, author unknown, ll. 861-64. We have not been able to trace the frst appearance of this piece. In Moore's <hi rend="italic">Poetical Works</hi>, collected by himself, 1840-41, 10 vols., it appears (vol. ix., pp. 17-21) between pieces dated 1828, and immediately following those published in Odes on Cern, Cash and Catholics, 1828. It is not found in Palmer's Index to the Times for 1828. The note containing the Chaucer reference may have been added by Moore in 1841.]</note></l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>
