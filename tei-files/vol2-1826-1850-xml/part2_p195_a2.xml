@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27079964">Ralph Waldo Emerson</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27079964">Emerson, Ralph Waldo</author>
             <date cert="high" when="1835">1835</date>
             <title level="a">Journal.</title>
           </analytic>
@@ -84,11 +84,13 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="195"/>
-        <ab type="imprint">1835. Emerson, Ralph Waldo. Journal. (Works, Centenary Edition, 1903, 12 vols., vol. vii, p. 361 [note].)</ab>
+        
+        <ab type="imprint">1835. Emerson, Ralph Waldo. <hi rend="italic">Journal</hi>. (Works, Centenary Edition, 1903, 12 vols., vol. vii, p. 361 [note].)</ab>
+        
         <ab type="quotation">
           <seg>Poetry to be sterling must be more than a show, must have
-or be an earnest meaning. Chaucer, Wordsworth,–per
-contra, Moore and Byron.</seg>
+            or be an earnest meaning. Chaucer, Wordsworth,—per
+            contra, Moore and Byron.</seg>
         </ab>
       </div>
     </body>

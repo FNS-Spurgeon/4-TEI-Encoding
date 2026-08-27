@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1835, Henry Wadsworth Longfellow. Outre-Mer,</title>
+        <title>1835, Henry Wadsworth Longfellow. Outre-Mer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54150826">Henry Wadsworth Longfellow</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54150826">Longfellow, Henry Wadsworth</author>
             <date cert="high" when="1835">1835</date>
-            <title level="a">Outre-Mer,</title>
+            <title level="a">Outre-Mer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,15 +84,17 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="197"/>
-        <ab type="imprint">1835. Longfellow, Henry Wadsworth. Outre-Mer, 2 vols., vol. ii, p. 84. [This chapter is not in the first edition of 1833.] (Works, Riverside Edition, [1886,] 11 vols., vol. i, p. 182-3.)</ab>
+        
+        <ab type="imprint">1835. Longfellow, Henry Wadsworth. <hi rend="italic">Outre-Mer</hi>, 2 vols., vol. ii, p. 84. [This chapter is not in the first edition of 1833.] (Works, Riverside Edition, [1886,] 11 vols., vol. i, p. 182-3.)</ab>
+        
         <ab type="quotation">
           <seg>One holyday, when mass was said and the whole village was
-let loose to play, we made a pilgrimage to the ruins of this old
-Moorish alcazar. Our cavalcade was as motley as that of old,—
-the pilgrims "that toward Canterbury wolden ride;" for we
-had the priest, and the doctor of physic, and the man of laws
-[sic], and a wife of Bath, and many more whom I must
-leave unsung.</seg>
+            let loose to play, we made a pilgrimage to the ruins of this old
+            Moorish alcazar. Our cavalcade was as motley as that of old,—
+            the pilgrims "that toward Canterbury wolden ride;" for we
+            had the priest, and the doctor of physic, and the man of laws
+            <add>[sic]</add>, and a wife of Bath, and many more whom I must
+            leave unsung.</seg>
         </ab>
       </div>
     </body>

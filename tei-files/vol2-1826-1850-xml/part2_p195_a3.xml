@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/309670005">William Gray</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/309670005">Gray, William</author>
             <date cert="high" when="1835">1835</date>
             <title level="a">Origin and Progress of English Prose Literature.</title>
           </analytic>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#prose"/>
         <catRef scheme="#works" target="#manLawTale"/>
         <catRef scheme="#works" target="#criticism"/>
       </textClass>
@@ -88,13 +88,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="195"/>
-        <ab type="imprint">1835. Gray, William. Origin and Progress of English Prose Literature. Oxford, [Motto :] “For out of the old fieldes as men saieth" [and three following lines], pp. 29, 36-45, 54, 61, 64, 92, 97.</ab>
+        
+        <ab type="imprint">1835. Gray, William. <hi rend="italic">Origin and Progress of English Prose Literature</hi>. Oxford, [Motto:] “For out of the old fieldes as men saieth" [and three following lines], pp. 29, 36-45, 54, 61, 64, 92, 97.</ab>
+        
         <ab type="quotation">
-          <seg>[A general account of Chaucer, with special reference to his
-prose, including the Testament of Love. The author does not
-dispute that Chaucer owed the conception of the Canterbury
-Tales to the Confessio Amantis, and says that the Man of
-Law's Tale was certainly purloined from Gower.]</seg>
+          <seg type="editorial">[A general account of Chaucer, with special reference to his
+            prose, including the <hi rend="italic">Testament of Love</hi>. The author does not
+            dispute that Chaucer owed the conception of the <hi rend="italic">Canterbury
+            Tales</hi> to the <hi rend="italic">Confessio Amantis</hi>, and says that the <hi rend="italic">Man of
+            Law's Tale</hi> was certainly purloined from Gower.]</seg>
         </ab>
       </div>
     </body>

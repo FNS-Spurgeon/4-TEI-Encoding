@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1835, George Godfrey Cunningham. Lives of Eminent and Illustrious Englishmen,</title>
+        <title>1835, George Godfrey Cunningham. Lives of Eminent and Illustrious Englishmen.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27472294">George Godfrey Cunningham</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27472294">Cunningham, George Godfrey</author>
             <date cert="high" when="1835">1835</date>
-            <title level="a">Lives of Eminent and Illustrious Englishmen,</title>
+            <title level="a">Lives of Eminent and Illustrious Englishmen.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -88,18 +88,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="194"/>
-        <ab type="imprint">1835. Cunningham, George Godfrey. Lives of Eminent and Illustrious Englishmen, Glasgow [1835-7] 8 vols., vol. i, pp. 299, 301, 303, 305, 420 [Chaucer a member of Wyclif’s party], 458, 459-63, 465-473 [Life of Chaucer, with portrait engraved by S. Freeman from that in the Sloane collection], 473-5, 477, 478, 481. [An edition of 1863-68 is entitled The English Nation, or a History of England in the Lives of Englishmen.</ab>
+        
+        <ab type="imprint">1835. Cunningham, George Godfrey. <hi rend="italic">Lives of Eminent and Illustrious Englishmen</hi>, Glasgow [1835-7] 8 vols., vol. i, pp. 299, 301, 303, 305, 420 [Chaucer a member of Wyclif’s party], 458, 459-63, 465-473 [Life of Chaucer, with portrait engraved by S. Freeman from that in the Sloane collection], 473-5, 477, 478, 481. [An edition of 1863-68 is entitled <hi rend="italic">The English Nation, or a History of England in the Lives of Englishmen</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 299] The names of Chaucer and Gower, with some of minor
-note, as those of Richard Hampole and Robert Langlande,
-afford ample proof of this commencement of a new era.
-[The Critical Biography of Chaucer abounds in all the
-usual errors due to the acceptance as Chaucer's of the Testa¬
-ment of Love, etc. Tyrwhitt, Godwin and Thynne are drawn
-upon. In the controversy upon Chaucer's metre, which took
-a new turn on the publication of Nott's edition of the poems
-of Surrey and Wyatt, Cunningham sides with Tyrwhitt
-against Nott, whom he calls 'Scott' throughout.]</seg>
+          <seg><note place="margin">[p. 299]</note>The names of Chaucer and Gower, with some of minor
+            note, as those of Richard Hampole and Robert Langlande,
+            afford ample proof of this commencement of a new era.</seg>
+            
+          <seg type="editorial">[The Critical Biography of Chaucer abounds in all the
+            usual errors due to the acceptance as Chaucer's of the
+            <hi rend="italic">Testament of Love</hi>, etc. Tyrwhitt, Godwin and Thynne are drawn
+            
+            <milestone unit="page" n="195"/>
+            
+            upon. In the controversy upon Chaucer's metre, which took
+            a new turn on the publication of Nott's edition of the poems
+            of Surrey and Wyatt, Cunningham sides with Tyrwhitt
+            against Nott, whom he calls 'Scott' throughout.]</seg>
         </ab>
       </div>
     </body>

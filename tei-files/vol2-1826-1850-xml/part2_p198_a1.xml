@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1835, Unknown. The Court Magazine in the Fourteenth Century,</title>
+        <title>1835, Unknown. The Court Magazine in the Fourteenth Century.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1835">1835</date>
-            <title level="a">The Court Magazine in the Fourteenth Century,</title>
+            <title level="a">The Court Magazine in the Fourteenth Century.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#characterFictionDrama" target="#"/>
+        <catRef scheme="#others" target="#characterFictionDrama"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,159 +86,192 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="198"/>
-        <ab type="imprint">1835. T., W. I. The Court Magazine in the Fourteenth Century, [in] The Court Magazine, vol vi, pp. 254-57.</ab>
+        
+        <ab type="imprint">1835. T., W. I. <hi rend="italic">The Court Magazine in the Fourteenth Century</hi>, [in] The Court Magazine, vol vi, pp. 254-57.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 254] [The writer entering Westminster Abbey, notices one present:]
-The individual who excited this interest in me was of
-middle stature, somewhat inclined to corpulency, and expen¬
-sively attired in a robe of deep purple. His countenance was
-placid and benevolent; his eyes, which were large and mild,
-were kept constantly upon a richly illuminated missal which
-he held in his hand, with the contents of which, however, he
-seemed not so deeply busied but that some fleeting and not
-very grave thoughts had power ever and anon to diffuse a
-satirical but good-natured smile over his face. His com¬
-plexion was fair, his forehead broad and smooth, his hair thin
-and of silvery whiteness, as was likewise his graceful and
-becoming beard.
-At length the service concluded, and I took the opportunity
-of inquiring of my companion whether he knew the individual
-who had so arrested my attention.
-“Know him indeed,” quoth Master Scrope, “Marry do I—
-and so shalt thou too."...
-[After the service the writer and Scrope follow Chaucer
-to the house adjacent :]
-[p. 255] "Give you good even, Master Geoffrey," said Scrope, "I
-have brought a friend with me who loveth the Muse, and
-would fain hold a little converse with her favourite son,
-Master Geoffrey Chaucer."
-Master Geoffrey Chaucer! How the words rang in my
-ears–I could scarce return thanks for the kindly welcome
-with which the great bard greeted me, so intense was the
-delight I experienced at finding myself thus suddenly and
-agreeably confronted with him. There before me sat he
-whose muse I had so long and so earnestly admired.
-. . . . . . . . . .
-[Chaucer provides wine, and proceeds :]
-" When I have done my reckonings in the Exchequer, I have
-gotten a copy of verses to write for my good Lord of Vere, or
-my Lady Blanche. Let alone his Majesty himself, who is
-ever and anon crying out, ‘Is your muse turned sluggard,
-Master Geoffrey, that we hear nought of her faith [sic, for
-"i' faith"]!'  I believe they wish me to write every week
-a poem as long as the siege of Troy. So my scribe Adam
-Scrivener and myself have taken council, and here is our
-resolve."
-Here he handed to Scrope and myself a slip of parchment,
-on which was written as follows :—
-"KNOW ALL MEN BY THESE PRESENTS : ON THE 1ST OF
-JANUARY IN THE YEAR OF OUR LORD 13— AND IN THE — YEAR
-OF THE REIGN OF OUR MOST GRACIOUS SOVEREIGN, KING
-RICHARD THE SECOND–WE, GEOFFREY CHAUCER, PURPOSE,
-BY THE ASSISTANCE OF OUR TRUSTY SCRIBE, ADAM SCRIVENER,
-TO INDITE A GOODLY VOLUME, CONTAINING SUNDRY AND DIVERS
-POEMS, SONGS, AND BALLADES BY US THE SAID GEOFFREY
-CHAUCER, OUR TRUSTY FRIEND JOHN GOWER, AND OTHERS OF
-HIS MAJESTY'S LIEGES; AND WE PURPOSE TO INDITE A SIMILAR
-VOLUME UNDER THE TITLE OF
-THE COURT MAGAZINE,
-EDITED BY
-GEOFFREY CHAUCER,
-ON THE FIRST DAY OF EVERY MONTH, UNTIL FURTHER NOTICE.
-COPIES OF THE SAID VOLUME MAY BE PROCURED OF ADAM
-SORIVENER AT OUR HOUSE ABUTTING ON THE ABBEY OF ST.
-PETER, WESTMINSTER, AT REASONABLE CHARGES.—GOD SAVE
-THE KING.
-"Now my masters, to-morrow is the first of January, and
-I am going to present my book to his Majesty as a New Year's
-Gift–and as Adam Scrivener–plague on him !—is very apt to
-make my verses halt like Dame Jukket's dog, I must needs con
-over the manuscript before I hand it over to my royal master."
-[Chaucer shows them the volume:]
-Imprimis, was an address to His Majesty on the New Year,
-followed by a translation by Chaucer himself of Petrarch’s
-Sonnet “S'amor non è" and which if my memory serves me
-rightly, ran much in this strain :—
-If no love is, O God what fele I so?
-And if love is, what thing and whiche is he?...
-"By the blessed Virgin, Master Geoffrey," said Scrope,
-[Troilus, i. 400, and two following stanzas.]
-" but thou has rendered the Italian poesy into very delectable
-English. Thou encounteredst Master Francis Petrarch, didst
-not, when thou wentest on the embassy to Genoa?”
-Chaucer’s answer was in the affirmative and was a long one,
-for it related the history of the interview between the learned
-inhabitant of Arqua and Geoffrey Chaucer, poet of Britain,
-which interview our readers shall have fully described on some
-future occasion.
-A French ‘ballade,’ by the "Moral Gower," of which the
-'burthen' was
-"En toutz errours amour se justifie,"
-was the next piece recited by our host, in a style which showed
-that his acquaintance with the French language had not been
-acquired "at Stratford-le-Bow." When Chaucer had finished
-it, he said–
-"A book a month is much to do, and I have been fain to
-beg for the assistance of my friends, and they have, as you
-see, kindly given it to me. Master Gower's is to my fancy a
-very choice piece of verse, and this "Dit du Marguerite," by
-the gallant French knight Sir John Froissart, is likewise in
-good sooth much to my mind. You must come and crack a
-bowl with Sir John-he's a merry man, and learned withal.
-Oh!–but King Richard will be well pleased to-morrow, for
-Sir John's new year's gift to his Majesty will be those chron¬
-icles of the affairs of our times, which he has so long busied
-himself in compiling.”
-"I met Sir John in France," said Scrope, "when I was
-with the Count de Foix–but had no converse with him; he
-stayed but one night.  ...
-" Master Froissart is a good friend of mine," said Chaucer,
-"and even now I have just gotten from him a goodly poem,
-which has so delighted me, that I purpose putting it into
-English rhyme for the amusement of our court dames." So
-saying he rose from his chair, and reached from a shelf where¬
-on stood more than
-Twenty bokes clothed in blake or red,
-a beautifully written manuscript, the title of which he recited
-as follows :—
-" ‘Le Roman de Thesée, ou d’Arcite et Palemon, l'un et
-l'autre de Thebes, de royal sang extraits, lesquels etant cousins¬
-germains, par superflue amour de la belle Emilie, eurent
-ensemble question et débat, l'un desquels à cette occasion perdit
-la vie, et l'autre vint à son intencion.’ It is indeed a piteous
-story, but if I translate it I think I shall make it somewhat
-different and somewhat shorter. But it is a long job, and the
-'Romaunt de la Rose' I found a somewhat tedious under¬
-taking....
-[The writer recites a spurious verse, and asks who com¬
-posed it :]
-"By my troth, I know not who composed it.... Let him
-translate the beautiful Romance of “Le Chevalier au Lion,"
-which is making such a coil even now. I showed my copy of
-it to a gallant high German knight, who was lately travelling
-in these parts, one Master Hartman von der Oue (what out¬
-landish names they have in the countries over sea), and he
-was so greatly charmed with it, that he straightways made a
-copy thereof, and is going incontinent to turn it into his
-mother tongue. You shall read a bit of the French poem; it
-is a dainty work, by my faith."
-The glorious old bard reached down a huge folio from the
-shelves which we have already described: and, like all lovers
-of poetry, himself read the passages which he had proposed I
-should have read. While he was turning over the leaves of
-the manuscript, a slip of paper fell from it.... I found that
-Chaucer himself had commenced the task he so earnestly
-recommended to another. By his permission, I read the few
-lines which he had already executed: they were from the com¬
-mencement of the Poem*.
-Almightie God that made mankyn,
-He schilde his servandes out of syn,
-And mayntene tham, with might and mayne
-That herkens Swayne [sic] and Gawayne:
-Thai war knightes of the tabyl rownde,
-Tharfore listens a lytel stownde.
-[And so for 26 lines further. The dreamer then awakes.]</seg>
-          <note type="footnote">Note in Spurgeon: * Is this the long lost “Book of the Lion"?—W. I. T.</note>
+          <seg type="editorial"><note place="margin">[p. 254]</note>[The writer entering Westminster Abbey, notices one present:]</seg>
+            
+          <seg>The individual who excited this interest in me was of
+            middle stature, somewhat inclined to corpulency, and
+            expensively attired in a robe of deep purple. His countenance was
+            placid and benevolent; his eyes, which were large and mild,
+            were kept constantly upon a richly illuminated missal which
+            he held in his hand, with the contents of which, however, he
+            seemed not so deeply busied but that some fleeting and not
+            very grave thoughts had power ever and anon to diffuse a
+            satirical but good-natured smile over his face. His complexion
+            was fair, his forehead broad and smooth, his hair thin
+            and of silvery whiteness, as was likewise his graceful and
+            becoming beard.</seg>
+            
+          <seg>At length the service concluded, and I took the opportunity
+            of inquiring of my companion whether he knew the individual
+            who had so arrested my attention.
+            <lb/>"Know him indeed," quoth Master Scrope, "Marry do I—
+            and so shalt thou too." . . .</seg>
+            
+          <seg type="editorial">[After the service the writer and Scrope follow Chaucer
+            to the house adjacent :]</seg>
+            
+          <seg><note place="margin">[p. 255]</note>"Give you good even, Master Geoffrey," said Scrope, "I
+            have brought a friend with me who loveth the Muse, and
+            would fain hold a little converse with her favourite son,
+            Master Geoffrey Chaucer."</seg>
+            
+          <seg>Master Geoffrey Chaucer! How the words rang in my
+            ears–I could scarce return thanks for the kindly welcome
+            with which the great bard greeted me, so intense was the
+            delight I experienced at finding myself thus suddenly and
+            agreeably confronted with him. There before me sat he
+            whose muse I had so long and so earnestly admired.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg type="editorial">[Chaucer provides wine, and proceeds :]</seg>
+            
+          <seg>"When I have done my reckonings in the Exchequer, I have
+            gotten a copy of verses to write for my good Lord of Vere, or
+            my Lady Blanche. Let alone his Majesty himself, who is
+            ever and anon crying out, ‘Is your muse turned sluggard,
+            Master Geoffrey, that we hear nought of her faith <add>[sic, for
+            "i' faith"]</add>!'  I believe they wish me to write every week
+            a poem as long as the siege of Troy. So my scribe Adam
+            
+            <milestone unit="page" n="199"/>
+            
+            Scrivener and myself have taken council, and here is our
+            resolve."</seg>
+            
+          <seg>Here he handed to Scrope and myself a slip of parchment,
+            on which was written as follows:—
+            <lb/>"KNOW ALL MEN BY THESE PRESENTS: ON THE 1ST OF
+            JANUARY IN THE YEAR OF OUR LORD 13—AND IN THE—YEAR
+            OF THE REIGN OF OUR MOST GRACIOUS SOVEREIGN, KING
+            RICHARD THE SECOND–WE, GEOFFREY CHAUCER, PURPOSE,
+            BY THE ASSISTANCE OF OUR TRUSTY SCRIBE, ADAM SCRIVENER,
+            TO INDITE A GOODLY VOLUME, CONTAINING SUNDRY AND DIVERS
+            POEMS, SONGS, AND BALLADES BY US THE SAID GEOFFREY
+            CHAUCER, OUR TRUSTY FRIEND JOHN GOWER, AND OTHERS OF
+            HIS MAJESTY'S LIEGES; AND WE PURPOSE TO INDITE A SIMILAR
+            VOLUME UNDER THE TITLE OF
+            <lb/>THE COURT MAGAZINE,
+            <lb/>EDITED BY
+            <lb/>GEOFFREY CHAUCER,
+            <lb/>ON THE FIRST DAY OF EVERY MONTH, UNTIL FURTHER NOTICE.
+            COPIES OF THE SAID VOLUME MAY BE PROCURED OF ADAM
+            SORIVENER AT OUR HOUSE ABUTTING ON THE ABBEY OF ST.
+            PETER, WESTMINSTER, AT REASONABLE CHARGES.—GOD SAVE
+            THE KING."</seg>
+            
+          <seg>"Now my masters, to-morrow is the first of January, and
+            I am going to present my book to his Majesty as a New Year's
+            Gift–and as Adam Scrivener–plague on him !—is very apt to
+            make my verses halt like Dame Jukket's dog, I must needs con
+            over the manuscript before I hand it over to my royal master."</seg>
+            
+          <seg type="editorial">[Chaucer shows them the volume:]</seg>
+          
+          <seg>Imprimis, was an address to His Majesty on the New Year,
+            followed by a translation by Chaucer himself of Petrarch’s
+            Sonnet “S'amor non è" and which if my memory serves me
+            rightly, ran much in this strain:—
+            <lg>
+              <l>If no love is, O God what fele I so?</l>
+              <l>And if love is, what thing and whiche is he? . . .</l>
+              <note place="right">[<hi rend="italic">Troilus</hi>, i. 400, and two following stanzas.]</note>
+            </lg>
+          </seg>
+            
+          <seg>"By the blessed Virgin, Master Geoffrey," said Scrope,
+            "but thou has rendered the Italian poesy into very delectable
+            
+            <milestone unit="page" n="200"/>
+            
+            English. Thou encounteredst Master Francis Petrarch, didst
+            not, when thou wentest on the embassy to Genoa?”</seg>
+            
+          <seg>Chaucer’s answer was in the affirmative and was a long one,
+            for it related the history of the interview between the learned
+            inhabitant of Arqua and Geoffrey Chaucer, poet of Britain,
+            which interview our readers shall have fully described on some
+            future occasion.</seg>
+            
+          <seg>A French ‘ballade,’ by the "Moral Gower," of which the
+            'burthen' was
+            <l>"En toutz errours amour se justifie,"</l>
+            was the next piece recited by our host, in a style which showed
+            that his acquaintance with the French language had not been
+            acquired "at Stratford-le-Bow." When Chaucer had finished
+            it, he said—
+            <lb/>"A book a month is much to do, and I have been fain to
+            beg for the assistance of my friends, and they have, as you
+            see, kindly given it to me. Master Gower's is to my fancy a
+            very choice piece of verse, and this "<hi rend="italic">Dit du Marguerite</hi>," by
+            the gallant French knight Sir John Froissart, is likewise in
+            good sooth much to my mind. You must come and crack a
+            bowl with Sir John-he's a merry man, and learned withal.
+            Oh!–but King Richard will be well pleased to-morrow, for
+            Sir John's new year's gift to his Majesty will be those
+            chronicles of the affairs of our times, which he has so long busied
+            himself in compiling."</seg>
+            
+          <seg>"I met Sir John in France," said Scrope, "when I was
+            with the Count de Foix–but had no converse with him; he
+            stayed but one night. . . .</seg>
+            
+          <seg>"Master Froissart is a good friend of mine," said Chaucer,
+            "and even now I have just gotten from him a goodly poem,
+            which has so delighted me, that I purpose putting it into
+            English rhyme for the amusement of our court dames." So
+            saying he rose from his chair, and reached from a shelf where-
+            on stood more than
+            <l>Twenty bokes clothed in blake or red,</l>
+            a beautifully written manuscript, the title of which he recited
+            as follows :—
+            <lb/>"‘Le Roman de Thesée, ou d’Arcite et Palemon, l'un et
+            l'autre de Thebes, de royal sang extraits, lesquels etant cousins-
+            germains, par superflue amour de la belle Emilie, eurent
+            ensemble question et débat, l'un desquels à cette occasion perdit
+            
+            <milestone unit="page" n="201"/>
+            
+            la vie, et l'autre vint à son intencion.’ It is indeed a piteous
+            story, but if I translate it I think I shall make it somewhat
+            different and somewhat shorter. But it is a long job, and the
+            'Romaunt de la Rose' I found a somewhat tedious undertaking. . . .</seg>
+            
+          <seg type="editorial">[The writer recites a spurious verse, and asks who composed it:]</seg>
+            
+          <seg>"By my troth, I know not who composed it. . . . Let him
+            translate the beautiful Romance of "<hi rend="italic">Le Chevalier au Lion</hi>,"
+            which is making such a coil even now. I showed my copy of
+            it to a gallant high German knight, who was lately travelling
+            in these parts, one Master Hartman von der Oue (what
+            outlandish names they have in the countries over sea), and he
+            was so greatly charmed with it, that he straightways made a
+            copy thereof, and is going incontinent to turn it into his
+            mother tongue. You shall read a bit of the French poem; it
+            is a dainty work, by my faith."</seg>
+            
+          <seg>The glorious old bard reached down a huge folio from the
+            shelves which we have already described: and, like all lovers
+            of poetry, himself read the passages which he had proposed I
+            should have read. While he was turning over the leaves of
+            the manuscript, a slip of paper fell from it. . . . I found that
+            Chaucer himself had commenced the task he so earnestly
+            recommended to another. By his permission, I read the few
+            lines which he had already executed: they were from the
+            commencement of the Poem<note type="footnote" n="*">Note in Spurgeon: Is this the long lost “Book of the Lion"?—W. I. T.</note>.
+            <lg>
+              <l>Almightie God that made mankyn,</l>
+              <l>He schilde his servandes out of syn,</l>
+              <l>And mayntene tham, with might and mayne</l>
+              <l>That herkens Swayne [sic] and Gawayne:</l>
+              <l>Thai war knightes of the tabyl rownde,</l>
+              <l>Tharfore listens a lytel stownde.</l>
+            </lg>
+            <add>[And so for 26 lines further. The dreamer then awakes.]</add>
+          </seg>
         </ab>
       </div>
     </body>

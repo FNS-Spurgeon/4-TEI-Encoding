@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1833], Haslewood, Joseph, and Reed, Isaac.. Notes and Newspaper Cuttings</title>
+        <title>[c. 1833], Joseph Haslewood, and Isaac Reed. Notes and Newspaper Cuttings.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,8 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Haslewood, Joseph, and Reed, Isaac.</author>
-            <date cert="low" when="[c. 1833]">[c. 1833]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27420814">Haslewood, Joseph</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/40177091">Reed, Isaac</author>
+            <date cert="low" when="1833">[c. 1833]</date>
             <title level="a">Notes and Newspaper Cuttings</title>
           </analytic>
           <monogr>
@@ -84,24 +85,25 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="189"/>
-        <ab type="imprint">[c. 1833.] Haslewood, Joseph, and Reed, Isaac. Notes and Newspaper Cuttings in interleaved copy of Theophilus Cibber's Lives of the Poets, 1753 [B. M., 10854. a. 1].</ab>
+        
+        <ab type="imprint">[c. 1833.] Haslewood, Joseph, and Reed, Isaac. <hi rend="italic">Notes and Newspaper Cuttings</hi> in interleaved copy of Theophilus Cibber's <hi rend="italic">Lives of the Poets</hi>, 1753 [B. M., 10854. a. 1].</ab>
+        
         <ab type="quotation">
-          <seg>[Newspaper cutting from Daily Advertiser, 2 Jan. 1753, of
-the publisher's advertisement of Cibber's Lives, immediately
-before title-page of vol. i. See 1753, Unknown, vol. i,
-[To face
-p. 407. Another before contents.]
-p. 10]
-[Newspaper cutting:] An account of Chaucer, translated
-from the French. [See 1777, Unknown, Morning Post above,
-vol. i, p. 449.]
-[Cutting from a book (?) page 23. A notice of Gower and
-Chaucer:] Johannes Gower, Anglorum Poeta [a picture of
-Gower prefixed to this cutting] Taken from his monumental
-effigy in St. Mary Overie’s Church, Southwark.  ... Gower,
-who with Chaucer, helped to refine the English language
-has ever been esteemed the next in merit to him of his
-contemporary poets.</seg>
+          <seg type="editorial">[Newspaper cutting from Daily Advertiser, 2 Jan. 1753, of
+            the publisher's advertisement of Cibber's <hi rend="italic">Lives</hi>, immediately
+            before title-page of vol. i. See 1753, Unknown, vol. i,
+            p. 407. Another before contents.]</seg>
+            
+          <seg><note place="margin">[To face p. 10]</note><add>[Newspaper cutting:]</add> An account of Chaucer, translated
+            from the French. <add>[See 1777, Unknown, <hi rend="italic">Morning Post</hi> above, vol. i, p. 449.]</add></seg>
+            
+          <seg><add>[Cutting from a book (?) page 23. A notice of Gower and
+            Chaucer:]</add> Johannes Gower, Anglorum Poeta <add>[a picture of
+            Gower prefixed to this cutting]</add> Taken from his monumental
+            effigy in St. Mary Overie’s Church, Southwark. . . . Gower,
+            who with Chaucer, helped to refine the English language
+            has ever been esteemed the next in merit to him of his
+            contemporary poets.</seg>
         </ab>
       </div>
     </body>

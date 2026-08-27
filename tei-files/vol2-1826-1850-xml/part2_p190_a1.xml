@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1834, Samuel Taylor Coleridge. Table Talk,</title>
+        <title>1834, Samuel Taylor Coleridge. Table Talk.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/24599809">Samuel Taylor Coleridge</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/24599809">Coleridge, Samuel Taylor</author>
             <date cert="high" when="1834">1834</date>
-            <title level="a">Table Talk,</title>
+            <title level="a">Table Talk.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -89,42 +89,50 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="190"/>
-        <ab type="imprint">1834. Coleridge, Samuel Taylor. Table Talk, March 15, 1834. (The Table Talk and Omniana, ed. T. Ashe, 1884, pp. 276-7.)</ab>
+        
+        <ab type="imprint">1834. Coleridge, Samuel Taylor. <hi rend="italic">Table Talk</hi>, March 15, 1834. (The Table Talk and Omniana, ed. T. Ashe, 1884, pp. 276-7.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 276] I take unceasing delight in Chaucer. His manly cheerful¬
-ness is especially delicious to me in my old age. How ex¬
-quisitely tender he is, and yet how perfectly free from the
-least touch of sickly melancholy or morbid drooping! The
-sympathy of the poet with the subjects of his poetry is
-[p. 277] particularly remarkable in Shakspeare and Chaucer; but what
-the first effects by a strong act of imagination, and mental
-metamorphosis, the last does without any effort, merely by
-the inborn kindly joyousness of his nature. How well we
-seem to know Chaucer! How absolutely nothing do we
-know of Shakspeare!
-I cannot in the least allow any necessity for Chaucer's
-poetry, especially the Canterbury Tales, being considered
-obsolete. Let a few plain rules be given for sounding the
-final è of syllables, and for expressing the termination of
-such words as ocëan, and natiön, etc., as dissyllables,–or let
-the syllables to be sounded in such cases be marked by a
-competent metrist.
-This simple expedient would, with a very few trifling
-exceptions, where the errors are inveterate, enable any reader
-to feel the perfect smoothness and harmony of Chaucer's
-verse. As to understanding his language, if you read twenty
-pages with a good glossary, you surely can find no further
-difficulty, even as it is; but I should have no objection to
-see this done:—Strike out those words which are now obso¬
-lete, and I will venture to say that I will replace every one
-of them by words still in use out of Chaucer himself, or
-Gower his disciple.
-I don't want this myself; I rather like to see the significant
-terms which Chaucer unsuccessfully offered as candidates for
-admission into our language; but surely so very slight a
-change of the text may well be pardoned, even by black¬
-letterati, for the purpose of restoring so great a poet to his
-ancient and most deserved popularity.</seg>
+          <seg><note place="margin">[p. 276]</note>I take unceasing delight in Chaucer. His manly
+            cheerfulness is especially delicious to me in my old age. How
+            exquisitely tender he is, and yet how perfectly free from the
+            least touch of sickly melancholy or morbid drooping! The
+            sympathy of the poet with the subjects of his poetry is
+            <note place="margin">[p. 277]</note>particularly remarkable in Shakspeare and Chaucer; but what
+            the first effects by a strong act of imagination, and mental
+            metamorphosis, the last does without any effort, merely by
+            the inborn kindly joyousness of his nature. How well we
+            seem to know Chaucer! How absolutely nothing do we
+            know of Shakspeare!</seg>
+            
+          <seg>I cannot in the least allow any necessity for Chaucer's
+            poetry, especially the Canterbury Tales, being considered
+            obsolete. Let a few plain rules be given for sounding the
+            final è of syllables, and for expressing the termination of
+            such words as ocëan, and natiön, etc., as dissyllables,–or let
+            the syllables to be sounded in such cases be marked by a
+            competent metrist.</seg>
+            
+          <seg>This simple expedient would, with a very few trifling
+            exceptions, where the errors are inveterate, enable any reader
+            to feel the perfect smoothness and harmony of Chaucer's
+            verse. As to understanding his language, if you read twenty
+            pages with a good glossary, you surely can find no further
+            difficulty, even as it is; but I should have no objection to
+            see this done:—Strike out those words which are now obsolete,
+            and I will venture to say that I will replace every one
+            
+            <milestone unit="page" n="191"/>
+            
+            of them by words still in use out of Chaucer himself, or
+            Gower his disciple.</seg>
+            
+          <seg>I don't want this myself; I rather like to see the significant
+            terms which Chaucer unsuccessfully offered as candidates for
+            admission into our language; but surely so very slight a
+            change of the text may well be pardoned, even by black
+            letterati, for the purpose of restoring so great a poet to his
+            ancient and most deserved popularity.</seg>
         </ab>
       </div>
     </body>

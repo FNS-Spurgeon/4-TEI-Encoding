@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27071936">Thomas Stothard</author>
-            <date cert="low" when="[n.a. 1834]">[n.a. 1834]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27071936">Stothard, Thomas</author>
+            <date cert="low" when="1834">[n.a. 1834]</date>
             <title level="a">Paintings, etc., illustrating Chaucer.</title>
           </analytic>
           <monogr>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="192"/>
-        <ab type="imprint">[n.a. 1834.] Stothard, Thomas. Paintings, etc., illustrating Chaucer. See below, App. A.</ab>
+        
+        <ab type="imprint">[n.a. 1834.] Stothard, Thomas. <hi rend="italic">Paintings, etc., illustrating Chaucer</hi>. See below, App. A.</ab>
       </div>
     </body>
   </text>

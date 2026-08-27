@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1833], Joseph Haslewood. Collections for the Lives of the English Poets</title>
+        <title>[c. 1833], Joseph Haslewood. Collections for the Lives of the English Poets.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27420814">Joseph Haslewood</author>
-            <date cert="low" when="[c. 1833]">[c. 1833]</date>
-            <title level="a">Collections for the Lives of the English Poets</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27420814">Haslewood, Joseph</author>
+            <date cert="low" when="1833">[c. 1833]</date>
+            <title level="a">Collections for the Lives of the English Poets.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,46 +84,49 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="189"/>
-        <ab type="imprint">[c. 1833.] Haslewood, Joseph. Collections for the Lives of the English Poets [B.M., C. 45. d. 9-11].</ab>
+        
+        <ab type="imprint">[c. 1833.] Haslewood, Joseph. <hi rend="italic">Collections for the Lives of the English Poets</hi> [B.M., C. 45. d. 9-11].</ab>
+        
         <ab type="quotation">
-          <seg>[vol. i,
-pp. 5-8]
-[Newspaper cutting:] Observations on the Rise &amp; Progress
-of English Poetry, [from] Whitehall Evening Post. Jan. 7,
-1769 [q.v. vol. i, p. 432, Unknown.]
-[p. 71] A Familiar Epistle from the Shades below... from a
-Collection of Poems... by Jemmy Copywell, [from] Lloyd’s
-Evening Post. April 11, 1760 [q.v. vol. i, p. 371, 1730,
-Unknown].
-[pp. 98-9] [Cutting from the British Bibliographer, on the projected
-Bibliotheca Critica. See above, 1810, Brydges.]
-[p. 204] [Cutting from] The Grub Street Journal, 3 Sept., 1730 [q.v.
-above, vol. i, p. 373, Unknown].
-[p. 216] [Cutting, headed by a quotation from Chaucer, from] The
-European Magazine for June, 1821, vol. lxxix, p. 514 [q.v.
-above].
-[p. 217] [Notice of publication of an edition of Urry's Chaucer
-(price bound one guinea) quoting Dryden’s praise in the
-Preface to his Fables, and giving date in MS. 5 Jan. 1753,
-but not name of paper. No edition of this year is known,
-and probably the date is an error.]
-[p. 354] [Magazine cutting, without name, but dated Sep. 1752,
-and numbered pp. 420, 421, 422:] The Life of John
-DRYDEN, Esq. With his Head neatly engraved. [A refer¬
-ence to Dryden's modernizations of Chaucer.]
-[vol. ii,
-[Cutting from] The Monthly Miscellany for June 1774
-p. 447]
-[q.v. above, vol. i, p. 438, Unknown].
-[pp. 459-
-[Cutting from] The British Bibliographer, by Sir Egerton
-468]
-Brydges and J. Haslewood, vol. ii, 1812, q.v. above.
-No. VI, Memoirs of Gower &amp; Chaucer.
-[vol. iii,
-[Cutting from] The Edinburgh Magazine for April 1801,
-p. 817]
-Remarks on the Writings of Allan Ramsay [q.v. above].</seg>
+          <seg><note place="margin">[vol. i, pp. 5-8]</note><add>[Newspaper cutting:]</add> Observations on the Rise &amp; Progress
+            of English Poetry, <add>[from]</add> Whitehall Evening Post. Jan. 7, 1769 <add>[q.v. vol. i, p. 432, Unknown.]</add></seg>
+            
+          <seg><note place="margin">[p. 71]</note>A Familiar Epistle from the Shades below . . . from a
+            Collection of Poems . . . by Jemmy Copywell, <add>[from]</add> Lloyd’s
+            Evening Post. April 11, 1760 <add>[q.v. vol. i, p. 371, 1730, Unknown]</add>.</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 98-9]</note>[Cutting from the <hi rend="italic">British Bibliographer</hi>, on the projected
+            Bibliotheca Critica. See above, 1810, Brydges.]</seg>
+            
+          <seg><note place="margin">[p. 204]</note><add>[Cutting from]</add> The Grub Street Journal, 3 Sept., 1730 <add>[q.v.
+            above, vol. i, p. 373, Unknown]</add>.</seg>
+            
+          <seg><note place="margin">[p. 216]</note><add>[Cutting, headed by a quotation from Chaucer, from]</add> The
+            European Magazine for June, 1821, vol. lxxix, p. 514 [q.v. above].</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 217]</note>[Notice of publication of an edition of Urry's Chaucer
+            (price bound one guinea) quoting Dryden’s praise in the
+            Preface to his Fables, and giving date in MS. 5 Jan. 1753,
+            
+            <milestone unit="page" n="190"/>
+            
+            but not name of paper. No edition of this year is known,
+            and probably the date is an error.]</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 354]</note>[Magazine cutting, without name, but dated Sep. 1752,
+            and numbered pp. 420, 421, 422:] <hi rend="italic">The Life of John
+            DRYDEN, Esq. With his Head neatly engraved</hi>. [A reference
+            to Dryden's modernizations of Chaucer.]</seg>
+            
+          <seg><note place="margin">[vol. ii, p. 447]</note><add>[Cutting from]</add> The Monthly Miscellany for June 1774
+            <add>[q.v. above, vol. i, p. 438, Unknown]</add>.</seg>
+            
+          <seg><note place="margin">[pp. 459-468]</note><add>[Cutting from]</add> The British Bibliographer, by Sir Egerton
+            Brydges and J. Haslewood, vol. ii, 1812, q.v. above.
+            No. VI, Memoirs of Gower &amp; Chaucer.</seg>
+            
+          <seg><note place="margin">[vol. iii, p. 817]</note>[Cutting from] The Edinburgh Magazine for April 1801,
+            Remarks on the Writings of Allan Ramsay [q.v. above].</seg>
         </ab>
       </div>
     </body>
