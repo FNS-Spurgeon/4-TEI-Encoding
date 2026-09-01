@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p46_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p46_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="quotation">
           <seg type="editorial"><note place="margin">[vol. i, p. 160]</note>[Drake quotes the list drawn up by Dr. Johnson of various
             literary undertakings projected by him, but not carried out.
-            Of these No. 5 is “Chaucer, a new edition of him, from
+            Of these No. 5 is "Chaucer, a new edition of him, from
             manuscripts and old editions" etc. (see above, [c. 1750?],
             vol. i, p. 401). Upon this Drake remarks:]</seg>
             

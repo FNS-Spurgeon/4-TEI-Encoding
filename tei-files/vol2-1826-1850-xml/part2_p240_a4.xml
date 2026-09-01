@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1841, Smith, John.. The Life, Journal and Correspondence of Samuel Pepys, Esq.,</title>
+        <title>1841, Smith, John. The Life, Journal and Correspondence of Samuel Pepys, Esq.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Smith, John.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Smith, John</author>
             <date cert="high" when="1841">1841</date>
-            <title level="a">The Life, Journal and Correspondence of Samuel Pepys, Esq.,</title>
+            <title level="a">The Life, Journal and Correspondence of Samuel Pepys, Esq.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,19 +84,21 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="240"/>
-        <ab type="imprint">1841. Smith, John. The Life, Journal and Correspondence of Samuel Pepys, Esq., 2 vols., vol. ii, pp. 254-255n.</ab>
+        
+        <ab type="imprint">1841. Smith, John. <hi rend="italic">The Life, Journal and Correspondence of Samuel Pepys, Esq.</hi>, 2 vols., vol. ii, pp. 254-255n.</ab>
+        
         <ab type="quotation">
-          <seg>[The Editor reprints Dryden’s Letter to Pepys of July 14,
-1699 (from Scott's Dryden, 1808, xviii, 156) and Pepys'
-answer to Dryden of same date (q. v. above, vol. i, pp. 270-71).
-He adds a few notes to the letters, and in one in vii, 254, to
-the Good Parson, says:]
-To Chaucer's other poems Pepys appears to have been
-attracted. Thus, in Percy’s Reliques, there is an original ballad
-by Chaucer, printed for the first time, from an ancient MS. in
-the Pepysian library, that contains many other poems of its
-venerable author.</seg>
-          <note type="footnote">Note in Spurgeon: [The 'ballad' is the Roundel of Merciles Beaute, and the MS. Pepys 2006, p. 390. See Percy’s Reliques, ed. H. B. Wheatley, 1876-7, 3 vols., vol. ii, pp. 14-16.]</note>
+          <seg type="editorial">[The Editor reprints Dryden’s Letter to Pepys of July 14,
+            1699 (from Scott's <hi rend="italic">Dryden</hi>, 1808, xviii, 156) and Pepys'
+            answer to Dryden of same date (q. v. above, vol. i, pp. 270-71).
+            He adds a few notes to the letters, and in one in vii, 254, to
+            the <hi rend="italic">Good Parson</hi>, says:]</seg>
+            
+          <seg>To Chaucer's other poems Pepys appears to have been
+            attracted. Thus, in Percy’s <hi rend="italic">Reliques</hi>, there is an original ballad
+            by Chaucer, printed for the first time, from an ancient MS. in
+            the Pepysian library, that contains many other poems of its
+            venerable author.<note type="footnote">Note in Spurgeon: [The 'ballad' is the Roundel of Merciles Beaute, and the MS. Pepys 2006, p. 390. See Percy’s Reliques, ed. H. B. Wheatley, 1876-7, 3 vols., vol. ii, pp. 14-16.]</note></seg>
         </ab>
       </div>
     </body>

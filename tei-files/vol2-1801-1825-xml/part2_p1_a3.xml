@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p1_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p1_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -100,7 +98,7 @@
             153-5; brief mention of <hi rend="italic">Canterbury Tales</hi>, p. 236; Arthur
             in the Romaunt, p. 237; references to <hi rend="italic">The Maying of Chaucer</hi>,
             p. 245; source of <hi rend="italic">Frankeleyns Tale</hi>, quotation from
-            Tyrwhitt's edition, p. 262; the “Kingis note" (<hi rend="italic">Milleres Tale</hi>),
+            Tyrwhitt's edition, p. 262; the "Kingis note" (<hi rend="italic">Milleres Tale</hi>),
             p. 277; authorship of the <hi rend="italic">Orisoune of Chaucer</hi>, p. 289.]</seg>
         </ab>
       </div>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p80_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p80_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +73,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#modernizations" target="#anonymous"/>
+        <catRef scheme="#modernizations" target="#anonymous-modern"/>
         <catRef scheme="#works" target="#truth"/>
       </textClass>
     </profileDesc>
@@ -88,7 +86,7 @@
       <div type="allusion">
         <milestone unit="page" n="80"/>
         
-        <ab type="imprint">1815. Unknown. <hi rend="italic">Chaucer's Dying Ode</hi>, [Flee from the prees... "attempted in modern English,” in] The Monthly Repository, May, vol. x, no. cxiii, p. 309.</ab>
+        <ab type="imprint">1815. Unknown. <hi rend="italic">Chaucer's Dying Ode</hi>, [Flee from the prees . . . "attempted in modern English,” in] The Monthly Repository, May, vol. x, no. cxiii, p. 309.</ab>
         
         <ab type="quotation">
           <seg type="editorial">[The text of Chaucer is given, followed by the modernization,

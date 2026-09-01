@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p114_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p114_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="114"/>
         
-        <ab type="imprint">1819. Cary, Henry Francis. The Life of Dante, prefixed to The Vision . . . of Dante translated by H. F. Cary, 2nd edition, 1819, 3 vols., vol. i, pp. xxxix, xliii, note [many notes additional to those in 1st edition of 1814, q. v.]. Notes on the text, pp. 12,* 13, 18, 21,* 32, 37, 43,* 44,* 47,* 60,* 99,* 112, 127, 264, 265, [a note from Warton’s Hist. of Eng. Poetry] 269, 281, 283, 287, 292; vol. ii, pp. xi, 4, 64, 78, 168,* 193, 201,* 207,* 247,* 255,* 305, 309*; vol. iii, pp. 4, 7, 9,* 81,* 127, 131,* 148, 171, 172, 204, 215,* 226,* 237,* 280,* 290,* 291.*<note type="footnote">Note in Spurgeon: [* Not in 1st edition.]</note></ab>
+        <ab type="imprint">1819. Cary, Henry Francis. <hi rend="italic">The Life of Dante</hi>, prefixed to <hi rend="italic">The Vision . . . of Dante</hi> translated by H. F. Cary, 2nd edition, 1819, 3 vols., vol. i, pp. xxxix, xliii, note [many notes additional to those in 1st edition of 1814, q. v.]. Notes on the text, pp. 12,* 13, 18, 21,* 32, 37, 43,* 44,* 47,* 60,* 99,* 112, 127, 264, 265, [a note from Warton’s Hist. of Eng. Poetry] 269, 281, 283, 287, 292; vol. ii, pp. xi, 4, 64, 78, 168,* 193, 201,* 207,* 247,* 255,* 305, 309*; vol. iii, pp. 4, 7, 9,* 81,* 127, 131,* 148, 171, 172, 204, 215,* 226,* 237,* 280,* 290,* 291.*<note type="footnote">Note in Spurgeon: [* Not in 1st edition.]</note></ab>
       </div>
     </body>
   </text>

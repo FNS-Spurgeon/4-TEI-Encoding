@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p25_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p25_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,12 +86,12 @@
       <div type="allusion">
         <milestone unit="page" n="25"/>
         
-        <ab type="imprint">1805. Whitaker, Thomas Dunham. <hi rend="italic">History and Antiquities of... Craven in the County of York</hi>, pp. 195, 227, 286, 289, 307, 335, 336-9, 345-8, 350-2, 362, 423, 424. [The references in the second edition, 1812, are pp. 207, 254, 326, 329 (wrongly numbered 366), 348, 394, 395, 396, 397, 405-7, 412 (the reference to lytel Lowys being excised), 493-4. In the third edition, ed. A. W. Morant, 1878, the references are, pp. 269, 325, 399, 401, 419, 464, 473-5 (with the suppression noted above), 496, 574, 575.]</ab>
+        <ab type="imprint">1805. Whitaker, Thomas Dunham. <hi rend="italic">History and Antiquities of . . . Craven in the County of York</hi>, pp. 195, 227, 286, 289, 307, 335, 336-9, 345-8, 350-2, 362, 423, 424. [The references in the second edition, 1812, are pp. 207, 254, 326, 329 (wrongly numbered 366), 348, 394, 395, 396, 397, 405-7, 412 (the reference to lytel Lowys being excised), 493-4. In the third edition, ed. A. W. Morant, 1878, the references are, pp. 269, 325, 399, 401, 419, 464, 473-5 (with the suppression noted above), 496, 574, 575.]</ab>
         
         <ab type="quotation">
           <seg type="editorial"><note place="margin">[p. 195 n.]</note>[Reference to gore in <hi rend="italic">C. Tales.</hi>]</seg>
           
-          <seg type="editorial"><note place="margin">[p. 227]</note>[Reference to “the canon’s yeoman in Chaucer, whose tale
+          <seg type="editorial"><note place="margin">[p. 227]</note>[Reference to "the canon’s yeoman in Chaucer, whose tale
             is perhaps the finest satire upon chemical jugglers to be found in any language."]</seg>
             
           <seg type="editorial"><note place="margin">[p. 286]</note>[Quotation from <hi rend="italic">Milleres Tale</hi>, ll. 134-5, on waget.]</seg>
@@ -102,7 +100,7 @@
             
           <seg type="editorial"><note place="margin">[p. 335 n.]</note>[Quotation from <hi rend="italic">Knight's Tale</hi>.]</seg>
             
-          <seg type="editoiral"><note place="margin">[p. 336 n.]</note>[Quotation from <hi rend="italic">Legend of Good Women</hi>.]</seg>
+          <seg type="editorial"><note place="margin">[p. 336 n.]</note>[Quotation from <hi rend="italic">Legend of Good Women</hi>.]</seg>
             
           <seg><note place="margin">[p. 345]</note>The English language underwent no very considerable change
             from the reign of Edward the Third to that of Edward the
@@ -142,7 +140,7 @@
             
           <seg type="editorial"><note place="margin">[p. 424]</note>[Quotation from <hi rend="italic">Reeves Tale</hi> with remarks which imply that
             the two scholars of Soleres Hall (of a town highte Strother)
-            came from Longstrother, their dialect “being precisely the
+            came from Longstrother, their dialect "being precisely the
             modern dialect of Craven."]</seg>
         </ab>
       </div>

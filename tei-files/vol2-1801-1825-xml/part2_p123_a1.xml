@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p123_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p123_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -95,7 +93,7 @@
               <l>Wrapp'd under cloke, then saw I deep deceit</l>
               <l>Lurk in his face, and death prepared for me."<note type="footnote">Note in Spurgeon: "The smiler with the knife under his cloke."—<hi rend="italic">Knight's Tale</hi>.</note></l>
             </lg>
-            <lb/>. . . . . . . . . .</seg>
+            . . . . . . . . . .</seg>
             
           <seg><note place="margin">[p. 196]</note>The Induction to the Mirrour for Magistrates . . . sometimes
             reminds one of Chaucer.</seg>
@@ -106,7 +104,7 @@
             mind appears to have been cast more in the mould of
             Shakespear’s. . . .</seg>
             
-          <seg type="editorial"><note place="margin">[p. 261]</note>[Chaucer’s “Palamon and Arcite,” especially the latter part,
+          <seg type="editorial"><note place="margin">[p. 261]</note>[Chaucer’s "Palamon and Arcite,” especially the latter part,
             is more powerfully dramatic than the Two Noble Kinsmen.]</seg>
         </ab>
       </div>

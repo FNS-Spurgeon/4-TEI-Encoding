@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p124_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p124_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,10 +86,10 @@
         <ab type="imprint">1820. Hunt, James Henry Leigh. <hi rend="italic">Seamen on Shore</hi>, [in] The Indicator, March 15, 1820, pp. 182-3.</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[p. 182]</note>Chaucer, who wrote his “Canterbury Tales" about four
+          <seg><note place="margin">[p. 182]</note>Chaucer, who wrote his "Canterbury Tales" about four
             hundred and thirty years ago, has among his other characters
             in that work a <hi rend="italic">Shipman</hi>, who is exactly of the same cast as the
-            modern sailor–the same robustness, courage, and rough drawn
+            modern sailor—the same robustness, courage, and rough drawn
             virtue, doing its duty, without being very nice in helping
             itself to its recreations. There is the very dirk, the
             complexion, the jollity, the experience, and the bad horsemanship.

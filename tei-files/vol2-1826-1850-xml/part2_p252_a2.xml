@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[1838-44], Elizabeth Barrett Browning. The Lost Bower, and A Vision of Poets,</title>
+        <title>[1838-44], Elizabeth Barrett Browning. The Lost Bower, and A Vision of Poets.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/66464493">Elizabeth Barrett Browning</author>
-            <date cert="medium" when="[1838-44]">[1838-44]</date>
-            <title level="a">The Lost Bower, and A Vision of Poets,</title>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/66464493">Browning, Elizabeth Barrett</author>
+            <date cert="medium" when="1838" to="1844">[1838-44]</date>
+            <title level="a">The Lost Bower, and A Vision of Poets.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,32 +84,32 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="252"/>
-        <ab type="imprint">[1838-44.] Barrett, afterwards Browning, Elizabeth Barrett. The Lost Bower, and A Vision of Poets, [in] Poems by Elizabeth Barrett Barrett, 1844, vol. ii, pp 24, 104, 112-13. [In the preface these poems are said to have been written between 1838 and 1844.] [vol. ii, And Chaucer, with his infantine p. 24] Familiar clasp of things divine— That mark upon his lip is wine. [p. 104] ... If Chaucer had not travelled Through a forest by a well, He had never dreamt nor marvelled At those ladies fair and fell Who lived smiling without loving, in their island-citadel. . . . . . . . . . If it were a bird, it seemëd [p. 112] Most like Chaucer’s, which, in sooth, He, of green and azure dreamëd, While it sate in spirit-ruth [p. 113] On that bier of a crowned lady, singing nigh her silent mouth. [The reference in the stanza quoted from p. 104 is to the non-Chaucerian Isle of Ladies.]</ab>
+        
+        <ab type="imprint">[1838-44.] Barrett, afterwards Browning, Elizabeth Barrett. <hi rend="italic">The Lost Bower</hi>, and <hi rend="italic">A Vision of Poets</hi>, [in] Poems by Elizabeth Barrett Barrett, 1844, vol. ii, pp 24, 104, 112-13. [In the preface these poems are said to have been written between 1838 and 1844.]</ab>
+        
         <ab type="quotation">
-          <seg>[in] Poems by Elizabeth Barrett
-Barrett, 1844, vol. ii, pp 24, 104, 112-13. [In the preface
-these poems are said to have been written between 1838 and
-1844.]
-[vol. ii,
-And Chaucer, with his infantine
-p. 24]
-Familiar clasp of things divine—
-That mark upon his lip is wine.
-[p. 104]
-... If Chaucer had not travelled
-Through a forest by a well,
-He had never dreamt nor marvelled
-At those ladies fair and fell
-Who lived smiling without loving, in their island-citadel.
- . . . . . . . . .
-If it were a bird, it seemëd
-[p. 112]
-Most like Chaucer’s, which, in sooth,
-He, of green and azure dreamëd,
-While it sate in spirit-ruth
-[p. 113]
-On that bier of a crowned lady, singing nigh her silent mouth.</seg>
-          <note type="footnote">Note in Spurgeon: [The reference in the stanza quoted from p. 104 is to the non-Chaucerian Isle of Ladies.]</note>
+          <seg>
+            <lg>
+              <note place="margin">[vol. ii, p. 24]</note><l>And Chaucer, with his infantine</l>
+              <l>Familiar clasp of things divine—</l>
+              <l>That mark upon his lip is wine.</l>
+              <note place="margin">[p. 104]</note><l>. . . If Chaucer had not travelled</l>
+              <l>Through a forest by a well,</l>
+              <l>He had never dreamt nor marvelled</l>
+              <l>At those ladies fair and fell</l>
+              <l>Who lived smiling without loving, in their island-citadel.</l>
+            </lg>
+             . . . . . . . . .</seg>
+          
+            <seg>
+              <lg>
+                <note place="margin">[p. 112]</note><l>If it were a bird, it seemëd</l>
+                <l>Most like Chaucer’s, which, in sooth,</l>
+                <l>He, of green and azure dreamëd,</l>
+                <note place="margin">[p. 113]</note><l>While it sate in spirit-ruth</l>
+                <l>On that bier of a crowned lady, singing nigh her silent mouth.<note type="footnote">Note in Spurgeon: [The reference in the stanza quoted from p. 104 is to the non-Chaucerian <hi rend="italic">Isle of Ladies</hi>.]</note></l>
+              </lg>
+            </seg>
         </ab>
       </div>
     </body>

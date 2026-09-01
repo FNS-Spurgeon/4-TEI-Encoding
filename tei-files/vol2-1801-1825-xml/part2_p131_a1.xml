@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p131_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p131_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="131"/>
         
-        <ab type="imprint">1821. Byron, George Gordon, Lord. <hi rend="italic">The Vision of Judgment</hi>, Preface [signed “Quevedo Redivivus"]. (The Works of Lord Byron, Poetry, ed. E. Hartley Coleridge, 1899, etc., vol iv, p. 484; one volume ed., 1905, p. 517.)</ab>
+        <ab type="imprint">1821. Byron, George Gordon, Lord. <hi rend="italic">The Vision of Judgment</hi>, Preface [signed "Quevedo Redivivus"]. (The Works of Lord Byron, Poetry, ed. E. Hartley Coleridge, 1899, etc., vol iv, p. 484; one volume ed., 1905, p. 517.)</ab>
         
         <ab type="quotation">
           <seg>The whole action passes on the outside of heaven; and

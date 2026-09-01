@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p151_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p151_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="imprint">1824. [Procter, Bryan Waller ("Barry Cornwall").] <hi rend="italic">Effigies Poeticæ: or the Portraits of the British Poets, illustrated by notes, etc.</hi>, 2 vols., vol. i, no. 1, Chaucer, no. 2, Gower, no. 3, Lydgate, no. 4, James I of Scotland, no. 5, Occleve, pp. 7-9, 11, 13, 15, vol. ii, p. 12, Dryden.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[to face p. 7]</note>[Portrait “from a Limning in Occleve’s De Regimine,
+          <seg type="editorial"><note place="margin">[to face p. 7]</note>[Portrait "from a Limning in Occleve’s De Regimine,
             Principis, preserved in the Harleian Library," engraved by W. Finden.]</seg>
             
           <seg><note place="margin">[p. 7]</note>Our collection opens with the head of the venerable
@@ -101,7 +99,7 @@
             The head now offered to the public is a likeness of the
             poet in his age. It has nothing of his wit or humour,
             nothing of the flash of genius which would probably have
-            [p. 8] illuminated the features of his youth; but his sweet and
+            <note place="margin">[p. 8]</note>illuminated the features of his youth; but his sweet and
             sedate expression, his grave good sense, his deep observation
             and pathos, have been well caught by the artist . . . Chaucer
             was rather a portrait-painter than an imaginative artist . . .

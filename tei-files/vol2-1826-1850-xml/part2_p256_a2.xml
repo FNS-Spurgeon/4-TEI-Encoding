@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n.a. 1844], Walter Savage Landor. Extract from a Letter to a Friend,</title>
+        <title>[n.a. 1844], Walter Savage Landor. Extract from a Letter to a Friend.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Walter Savage Landor</author>
-            <date cert="low" when="[n.a. 1844]">[n.a. 1844]</date>
-            <title level="a">Extract from a Letter to a Friend,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Landor, Walter Savage</author>
+            <date cert="low" notAfter="1844">[n.a. 1844]</date>
+            <title level="a">Extract from a Letter to a Friend.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,14 +84,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="256"/>
-        <ab type="imprint">[n.a. 1844.] Landor, Walter Savage. Extract from a Letter to a Friend, [quoted in] R. H. Horne’s New Spirit of the Age, 1844, 2 vols., vol. i, pp. 174-5.</ab>
+        
+        <ab type="imprint">[n.a. 1844.] Landor, Walter Savage. <hi rend="italic">Extract from a Letter to a Friend</hi>, [quoted in] R. H. Horne’s New Spirit of the Age, 1844, 2 vols., vol. i, pp. 174-5.</ab>
+        
         <ab type="quotation">
           <seg>I found the 'Faery Queen' the most delightful book to fall
-asleep upon by the sea-side. Geoffrey Chaucer always kept me
-wide awake, and beat at a distance all other English poets but
-Shakspeare and Milton. In many places Keats approaches
-him.</seg>
-          <note type="footnote">Note in Spurgeon: [See also above, 1837, Landor, An Ode.]</note>
+            asleep upon by the sea-side. Geoffrey Chaucer always kept me
+            wide awake, and beat at a distance all other English poets but
+            Shakspeare and Milton. In many places Keats approaches
+            him.<note type="footnote">Note in Spurgeon: [See also above, 1837, Landor, <hi rend="italic">An Ode</hi>.]</note></seg>
         </ab>
       </div>
     </body>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p12_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p12_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,8 +90,9 @@
             improving everything. Dryden . . . could perceive that
             Chaucer was a poet, but his old gold seemed to him to
             want scouring, and he thought it was reserved for him to
-            make it shine. <add>[A similar reference to Pope’s versions
-            follows.]</add></seg>
+            make it shine.</seg>
+          
+          <seg type="editorial">[A similar reference to Pope’s versions follows.]</seg>
         </ab>
       </div>
     </body>

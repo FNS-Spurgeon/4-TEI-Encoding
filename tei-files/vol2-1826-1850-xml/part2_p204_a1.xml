@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1836, Samuel Astley Dunham. Chaucer,</title>
+        <title>1836, Samuel Astley Dunham. Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35519998">Samuel Astley Dunham</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35519998">Dunham, Samuel Astley</author>
             <date cert="high" when="1836">1836</date>
-            <title level="a">Chaucer,</title>
+            <title level="a">Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,45 +86,53 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="204"/>
-        <ab type="imprint">1836. Dunham, Samuel Astley. Chaucer, [in Lardner's] Cabinet Cyclopædia (Lives of the most eminent literary and scientific men of Great Britain.—Early Writers), pp. 125-172, 188, 205, 215, 298-9, 312-13, 315, 319, 351.</ab>
+        
+        <ab type="imprint">1836. Dunham, Samuel Astley. <hi rend="italic">Chaucer</hi>, [in Lardner's] Cabinet Cyclopædia (Lives of the most eminent literary and scientific men of Great Britain.—Early Writers), pp. 125-172, 188, 205, 215, 298-9, 312-13, 315, 319, 351.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 125] [A life of the pòet, forty-seven pages, followed by a detailed
-notice of all his poems; as well as of some not by him.]
-[p. 169] Of the literary and poetical character of Chaucer, it may
-be remarked, that to no individual, perhaps, has our language
-been more indebted than to the author of the Canterbury
-Tales. He found his native tongue a mixed and uncouth
-dialect of Norman-Saxon, rude, and undigested, and with no
-writers whom he could consider in any respect as a guide or
-[p. 170] model.... He therefore necessarily turned his eyes to
-foreign resources; and we find that the greater part of his
-poetical career was employed in translating... from the
-Latin, French, and Italian. In doing this, however, he en¬
-riched his own language with a vast store of verbal wealth...
-and, moreover, moulded what he had taken into a form of
-such unprecedented beauty and perspicuity, when compared
-with any previous English poem, that those who immediately
-succeeded him scarcely ever speak of his style but in terms of
-enthusiastic rapture. When we consider, indeed, how greatly
-superior to his contemporaries was the mechanism of his
-versification, which, though from change of accent unaccom¬
-modated to a modern ear, was, in the then construction of the
-language, beyond all example harmonious and correct...
-the admiration of his disciples, however warmly expressed,
-seems justly his due. It may, in short, be affirmed, that even
-now, by him who will take the trouble of becoming familiar
-with the style of Chaucer, there will often be found, both in
-his diction and versification, a certain natural sweetness,
-simplicity, and naïveté, hardly to be met with elsewhere.
-If, turning... to the consideration of the higher
-attributes which more immediately constitute the poet, we
-contrast what he has produced in these departments with the
-age in which he lived,... can we hesitate in pronouncing
-him one of the most extraordinary men to which his country
-has given birth?...
-[p. 171] In knowledge of human life, and in the power of delineating
-it, he has no superior, save Shakspeare, with whom, indeed,
-in universality of talent, he may justly be compared.</seg>
+          <seg type="editorial"><note place="margin">[p. 125]</note>[A life of the pòet, forty-seven pages, followed by a detailed
+            notice of all his poems; as well as of some not by him.]</seg>
+            
+          <seg><note place="margin">[p. 169]</note>Of the literary and poetical character of Chaucer, it may
+            be remarked, that to no individual, perhaps, has our language
+            been more indebted than to the author of the Canterbury
+            Tales. He found his native tongue a mixed and uncouth
+            dialect of Norman-Saxon, rude, and undigested, and with no
+            writers whom he could consider in any respect as a guide or
+            <note place="margin">[p. 170]</note>model. . . . He therefore necessarily turned his eyes to
+            foreign resources; and we find that the greater part of his
+            poetical career was employed in translating . . . from the
+            Latin, French, and Italian. In doing this, however, he
+            enriched his own language with a vast store of verbal wealth . . .
+            and, moreover, moulded what he had taken into a form of
+            such unprecedented beauty and perspicuity, when compared
+            with any previous English poem, that those who immediately
+            succeeded him scarcely ever speak of his style but in terms of
+            enthusiastic rapture. When we consider, indeed, how greatly
+            superior to his contemporaries was the mechanism of his
+            versification, which, though from change of accent unaccom¬
+            modated to a modern ear, was, in the then construction of the
+            language, beyond all example harmonious and correct . . .
+            the admiration of his disciples, however warmly expressed,
+            seems justly his due. It may, in short, be affirmed, that even
+            now, by him who will take the trouble of becoming familiar
+            with the style of Chaucer, there will often be found, both in
+            his diction and versification, a certain natural sweetness,
+            simplicity, and naïveté, hardly to be met with elsewhere.</seg>
+            
+          <seg>If, turning . . . to the consideration of the higher
+            attributes which more immediately constitute the poet, we
+            contrast what he has produced in these departments with the
+            age in which he lived, . . . can we hesitate in pronouncing
+            
+            <milestone unit="page" n="205"/>
+            
+            him one of the most extraordinary men to which his country
+            has given birth? . . .</seg>
+            
+          <seg><note place="margin">[p. 171]</note>In knowledge of human life, and in the power of delineating
+            it, he has no superior, save Shakspeare, with whom, indeed,
+            in universality of talent, he may justly be compared.</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n.a. 1841], Geoffrey Chaucer. The Canterbury Tales,</title>
+        <title>[n.a. 1841], Geoffrey Chaucer. The Canterbury Tales.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
-            <date cert="low" when="[n.a. 1841]">[n.a. 1841]</date>
-            <title level="a">The Canterbury Tales,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
+            <date cert="low" when="1841">[n.a. 1841]</date>
+            <title level="a">The Canterbury Tales.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,7 +86,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="229"/>
-        <ab type="imprint">[n.a. 1841.] Chaucer, Geoffrey. The Canterbury Tales, [in] Dove's Classics.</ab>
+        
+        <ab type="imprint">[n.a. 1841.] <hi rend="italic">The Canterbury Tales</hi>, [in] Dove's Classics.<note type="footnote">Note in Spurgeon: [A cheap reprint, classed with that in Bell's Poets by the anonymous reviewer of <hi rend="italic">Chaucer Modernised</hi> in the Athenæum (q.v. below, 1841). Nothing is known of this series or of the edn. of the Canterbury Tales which formed part of it. The date is more probably near 1820-25, when there were many cheap series of poets like the Chiswick.]</note></ab>
       </div>
     </body>
   </text>

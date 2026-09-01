@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p124_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p124_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -97,17 +95,17 @@
             exquisite pictures of the solitary observance of May, in his
             "Palamon and Arcite." They are the more curious inasmuch
             as the actor in one is a lady, and in the other a knight. How
-            far they ewe any of their beauty to his original, the “Theseide"
+            far they ewe any of their beauty to his original, the "Theseide"
             of Boccaccio, we cannot say. . . . To begin, as in duty
             
             <milestone unit="page" n="125"/>
             
-            bound, with the lady. How she sparkles through the anti¬
-            quity of the language, like a young beauty in an old hood!
+            bound, with the lady. How she sparkles through the antiquity
+            of the language, like a young beauty in an old hood!
             <lg>
               <l>Thus passeth yere by yere, and day by day,</l>
               <l>Tille it felle ones in a morrowe of May,</l>
-              <l>That Emelie–</l>
+              <l>That Emelie—</l>
             </lg>
             But we will alter the spelling where we can, as in a former
             instance, merely to let the reader see what a notion is in his

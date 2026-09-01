@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p147_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p147_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -124,7 +122,7 @@
             British Museum, marked 17.D.V.I. copied in a Harleian MS.
             written in Occleve's time, No. 4866, fol. 91, and again in one
             in the Cotton library, marked Otho, A. XVIII. Occleve
-            mentions the drawing in his “Consolatio servilis."</seg>
+            mentions the drawing in his "Consolatio servilis."</seg>
             
           <seg type="editorial">[Various biographical facts follow.]</seg>
         </ab>

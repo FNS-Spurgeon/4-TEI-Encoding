@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p71_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p71_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -99,7 +97,7 @@
             <lg>
               <l>The next name was Chaucer,—and part of the strain</l>
               <l>For the glorious old boy was play'd over again.</l>
-              <l>Then, “Milton !" they cried, with a solemner shout,</l>
+              <l>Then, "Milton !" they cried, with a solemner shout,</l>
               <l>When bursting at once in its mightiness out,</l>
               <l>The organ came gathering and rolling its thunder.</l>
             </lg>

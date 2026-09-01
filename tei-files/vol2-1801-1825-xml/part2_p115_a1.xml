@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p115_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p115_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -95,7 +93,7 @@
             Canterbury Tales, elegantly written on vellum about the reign
             of Henry the Fifth. It contains,
             <list>
-              <item>1. “Vita Galfridi Caucer <add>[sic orig.]</add> ex Scriptorum Britanniæ Centuria Septima Cap. XXIIII," fo. 1.
+              <item>1. "Vita Galfridi Caucer <add>[sic orig.]</add> ex Scriptorum Britanniæ Centuria Septima Cap. XXIIII," fo. 1.
               <lb/>This is only a modern transcript from Bale.</item>
               <item>2. The general Prologue. fo. 2 <add>[followed by the Tales, concluding with]</add></item>
               <item>48. "Sermo" Rectoris. fo. 230 b.</item>

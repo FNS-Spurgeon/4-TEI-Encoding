@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p141_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p141_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -99,7 +97,7 @@
             . . . 8, Michael Drayton, Esq.; . . . 10, the immortal
             Shakespeare. . . .</seg>
             
-          <seg><note place="margin">[p. 265]</note>Chaucer, the “Father of English Poetry,” if that appellation
+          <seg><note place="margin">[p. 265]</note>Chaucer, the "Father of English Poetry,” if that appellation
             be not more justly due to his contemporary Gower, died in October 1400</seg>
           
           <seg type="editorial">[etc., detailed description of his tomb, his epitaph
@@ -111,8 +109,8 @@
               <l>Quod si fama negat, mvndi qvia gloria transit,</l>
               <l>Hæc Monvmenta Lege.</l>
             </lg>
-            From Camden’s words–“Musarum nomine hujus ossa trans¬
-            tulit,"—it would seem that Chaucer's ashes were removed to
+            From Camden’s words—"Musarum nomine hujus ossa transtulit,"
+            —it would seem that Chaucer's ashes were removed to
             the new tomb. Dart <add>[q.v. above, vol. i, p. 363]</add> states that
             his gravestone was taken up when Dryden’s Monument was
             erected, and sawn in pieces to mend the pavement!</seg>

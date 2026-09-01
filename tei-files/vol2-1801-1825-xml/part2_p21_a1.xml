@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p21_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p21_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +86,7 @@
         <ab type="imprint">1804. Unknown. <hi rend="italic">Character of Chaucer, by Godwin</hi>, [in] The Literary Magazine and American Register, Philadelphia, April, May, 1804, vol. ii, pp. 48-53, 121-6.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Quotation, from Godwin, of biographical statement and literary estimate–"a sort of recapitulation of the work."]</seg>
+          <seg type="editorial">[Quotation, from Godwin, of biographical statement and literary estimate—"a sort of recapitulation of the work."]</seg>
         </ab>
       </div>
     </body>

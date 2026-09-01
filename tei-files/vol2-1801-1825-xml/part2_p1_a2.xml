@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p1_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p1_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +73,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#language"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -87,11 +85,11 @@
       <div type="allusion">
         <milestone unit="page" n="1"/>
         
-        <ab type="imprint">1801. Ellis, George. <hi rend="italic">Specimens of the Early English Poets, To which is prefixed An Historical Sketch of the Rise and Progress of the English Poetry and Language</hi>; 3 vols. [This “Historical Sketch," in which nearly all the references occur, is not in first edn., 1790.]</ab>
+        <ab type="imprint">1801. Ellis, George. <hi rend="italic">Specimens of the Early English Poets, To which is prefixed An Historical Sketch of the Rise and Progress of the English Poetry and Language</hi>; 3 vols. [This "Historical Sketch," in which nearly all the references occur, is not in first edn., 1790.]</ab>
         
         <ab type="quotation">
           <seg type="editorial">[Vol. i: Language, pp. 2, 7, 40, 85 n., 86 n., 126, 131,
-            229, 390; “King Horn” in <hi rend="italic">Sir Thopas</hi>, 106; Chaucer's
+            229, 390; "King Horn” in <hi rend="italic">Sir Thopas</hi>, 106; Chaucer's
             satire of the Romances and Love-Songs in <hi rend="italic">Sir Thopas</hi>, 111,
             Edward III. and Chaucer, 172-4; Gower and Chaucer, 177-9,
             261; Lydgate and Chaucer, 273-6; quotation from <hi rend="italic">Troilus</hi>

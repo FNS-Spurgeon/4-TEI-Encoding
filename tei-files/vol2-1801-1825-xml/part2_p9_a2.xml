@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p9_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p9_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +86,9 @@
         <ab type="imprint">1803-10. Johnes, Thomas. <hi rend="italic">Sir John Froissart's Chronicles</hi>. Newly translated from the best French editions . . . by Thomas Johnes, At the Hafod Press, 1803-10, 4 vols.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><add>[Motto on Title-pages, vols. 1-4:]</add>
+          <seg type="editorial">[Motto on Title-pages, vols. 1-4:]</seg>
+          
+          <seg>
             <lg>
               <l>Who so shall telle a tale after a man . . . <add>[to]</add></l>
               <l>Or feinen thinges, or finden wordes newe.</l>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p24_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p24_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="imprint">1805. Drake, Nathan. <hi rend="italic">Essays Biographical, Critical and Historical, Illustrative of the Tatler, Spectator and Guardian</hi>, 3 vols., London, 1805; vol. i, p. 306-7; vol. ii, pp. 66, 69, 169, 261-2, 294-300, 305; vol. iii, pp. 85, 89, 108.</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[vol. i, pp. 306-307]</note> [On Addison's remarks on Chaucer in the <hi rend="italic">Account of the Greatest English Poets</hi>:]
+          <seg type="editorial"><note place="margin">[vol. i, pp. 306-307]</note> [On Addison's remarks on Chaucer in the <hi rend="italic">Account of the Greatest English Poets</hi>:]
             
           <seg>Chaucer is distinguished merely by his powers of exciting
             merriment, a most inadequate representation of this fine

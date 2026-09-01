@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1844, Unknown. Review of Sir N. Harris Nicolas's Life of Chaucer,</title>
+        <title>1844, Unknown. Review of Sir N. Harris Nicolas's Life of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1844">1844</date>
-            <title level="a">Review of Sir N. Harris Nicolas's Life of Chaucer,</title>
+            <title level="a">Review of Sir N. Harris Nicolas's Life of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,29 +84,33 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="257"/>
-        <ab type="imprint">1844. Unknown. Review of Sir N. Harris Nicolas's Life of Chaucer, [q.v. below, 1845, in] The Gentleman's Magazine, Jan. 1844, new ser., vol. xxi, pp. 3-19.</ab>
+        
+        <ab type="imprint">1844. Unknown. <hi rend="italic">Review</hi> of Sir N. Harris Nicolas's <hi rend="italic">Life of Chaucer</hi>, [q.v. below, 1845, in] The Gentleman's Magazine, Jan. 1844, new ser., vol. xxi, pp. 3-19.</ab>
+        
         <ab type="quotation">
-          <seg>[This long and careful article gives a good appreciation of
-Chaucer's work, his 'spirited representations of life and native
-manners,'  his 'rich and quaint humour.'  It characterises
-correctly the 'Lives' by Tyrwhitt and Godwin, and then gives
-an abridgment of the facts as recorded by Nicolas, pointing
-out that the exile to Zealand is pure fiction, as there is now
-proof that Chaucer was in London, personally receiving his
-pension, from 1380 to 1388. Some space is then given to
-emphasising the influence of the active life Chaucer led, and
-of the various offices he filled, upon his poetical work.]
-[p. 17] His various occupations and calls into the world must have
-been to him the richest volume of information he could open,
-for he thus enlarged his views of society, and increased his
-knowledge of the characters of men. ...
-[p. 18] In truth, every description by Chaucer has a fresh, out-of¬
-door, open-air look with it; it has the light of the sky upon
-it; to him the market-place was a practical volume of moral
-philosophy; his embassy to Genoa and Florence, a rich and
-princely picture-book, filled with the costliest forms of nature
-and art; and his comptrollership of the customs, an excellent
-tome of never-ending casuistry.</seg>
+          <seg type="editorial">[This long and careful article gives a good appreciation of
+            Chaucer's work, his 'spirited representations of life and native
+            manners,'  his 'rich and quaint humour.'  It characterises
+            correctly the 'Lives' by Tyrwhitt and Godwin, and then gives
+            an abridgment of the facts as recorded by Nicolas, pointing
+            out that the exile to Zealand is pure fiction, as there is now
+            proof that Chaucer was in London, personally receiving his
+            pension, from 1380 to 1388. Some space is then given to
+            emphasising the influence of the active life Chaucer led, and
+            of the various offices he filled, upon his poetical work.]</seg>
+            
+          <seg><note place="margin">[p. 17]</note>His various occupations and calls into the world must have
+            been to him the richest volume of information he could open,
+            for he thus enlarged his views of society, and increased his
+            knowledge of the characters of men. . . .</seg>
+            
+          <seg><note place="margin">[p. 18]</note>In truth, every description by Chaucer has a fresh, out-of-
+            door, open-air look with it; it has the light of the sky upon
+            it; to him the market-place was a practical volume of moral
+            philosophy; his embassy to Genoa and Florence, a rich and
+            princely picture-book, filled with the costliest forms of nature
+            and art; and his comptrollership of the customs, an excellent
+            tome of never-ending casuistry.</seg>
         </ab>
       </div>
     </body>

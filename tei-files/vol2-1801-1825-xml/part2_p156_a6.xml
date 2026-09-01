@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p156_a6">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p156_a6">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +86,7 @@
         <ab type="imprint">1825. Hazlitt, William. <hi rend="italic">The Spirit of the Age: or Contemporary Portraits</hi>. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. iv, pp. 210, 214, 225, 244, 276, 285, 326.)</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[p. 210]</note><add>[William Godwin.]</add> His Life of Chaucer would have given
+          <seg><note place="margin">[p. 210]</note><add>[William Godwin.]</add> His <hi rend="italic">Life of Chaucer</hi> would have given
             celebrity to any man of letters possessed of three thousand a
             year, with leisure to write quartos: . . .</seg>
             
@@ -101,7 +99,7 @@
             Acquaintance with the Poets’ (1823) he says the scholar in
             Chaucer is described as going ‘sounding on his way,’ and in
             his ‘Lectures on the English Poets’ (1818) he says the
-            ‘merchant as described in Chaucer went on his way “sound¬
+            ‘merchant as described in Chaucer went on his way "sound¬
             ing always the increase of his winning."’ The two passages
             are Prol. l. 275 and l. 307 (not 'sounding on his way' but
             'Souninge in moral vertu was his speche').]</seg>

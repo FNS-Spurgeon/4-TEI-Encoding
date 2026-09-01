@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p66_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p66_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -94,7 +92,7 @@
             Ground of these Kingdoms; i. e. a tribute of respect to all
             those poets who deserve it. This, I think, would be a worthy task.</seg>
             
-          <seg>Chaucer–at Woodstock? Blenheim will become an empty
+          <seg>Chaucer—at Woodstock? Blenheim will become an empty
             name, and that palace a pile of ruins, while he remains.</seg>
         </ab>
       </div>

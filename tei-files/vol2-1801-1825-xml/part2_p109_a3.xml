@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p109_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p109_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="109"/>
         
-        <ab type="imprint">[a. 1819.] [Southey, Robert.] <hi rend="italic">The Doctor</hi>, [published] 1834, vol. i, p.48, vol. ii, pp. vi, 24, vol. iii, p. x, vol. v, p. 157, vol vii, p. 87 note.<note type="footnote">Note in Spurgeon: [<hi rend="italic">The Doctor</hi>, though not published till 1834, was begun in 1813, and Cuthbert Southey says (Life and Correspondence of Southey) that the greater part of the book was written before he was born, i. e. before 1819.]</note></ab>
+        <ab type="imprint">[a. 1819. Southey, Robert.] <hi rend="italic">The Doctor</hi>, [published] 1834, vol. i, p.48, vol. ii, pp. vi, 24, vol. iii, p. x, vol. v, p. 157, vol vii, p. 87 note.<note type="footnote">Note in Spurgeon: [<hi rend="italic">The Doctor</hi>, though not published till 1834, was begun in 1813, and Cuthbert Southey says (Life and Correspondence of Southey) that the greater part of the book was written before he was born, i. e. before 1819.]</note></ab>
         
         <ab type="quotation">
           <seg><note place="margin">[Vol. i, p. 48]</note><l>The persons who?—</l>
@@ -106,7 +104,7 @@
             
             <seg type="editorial"><note place="margin">[Vol. v, p. 157]</note>[Wordsworth has ‘very skilfully’ modernised one of Chaucer's poems.]</seg>
             
-            <seg><note place="margin">[Vol. vii, p. 87]</note><l>We... sat doun, an' grat.</l><note type="footnote" n="*">Note in Spurgeon: [Note] i. e. wept, from the old word greet, common to all the northern languages. Chaucer, Spenser, etc., use it.</note></seg>
+          <seg><note place="margin">[Vol. vii, p. 87]</note><l>We... sat doun, an' grat.<note type="footnote" n="*">[Note] i. e. wept, from the old word greet, common to all the northern languages. Chaucer, Spenser, etc., use it.</note></l></seg>
         </ab>
       </div>
     </body>

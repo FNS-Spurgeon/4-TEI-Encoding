@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p126_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p126_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +73,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#modernizations" target="#hunt"/>
+        <catRef scheme="#modernizations" target="#hunt-modern"/>
         <catRef scheme="#works" target="#pardonerTale"/>
       </textClass>
     </profileDesc>
@@ -94,8 +92,8 @@
           <seg><note place="margin">[p. 53]</note><add>[Appended is the following note:]</add> The above is a prose
             modernisation of one of the Canterbury Tales of Chaucer. The
             reader, who has been deterred from the pages of this great
-            poet, in consequence of the vulgar opinion that they are insur¬
-            mountably obsolete and difficult, will perhaps be struck with
+            poet, in consequence of the vulgar opinion that they are
+            insurmountably obsolete and difficult, will perhaps be struck with
             the grand and simple power shown here; and when he learns
             that the words are Chaucer's own, he may get rid of his
             timidity and go at once to the original works where he will

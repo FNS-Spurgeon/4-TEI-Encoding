@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p48_a7">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p48_a7">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +73,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#editionCompleteWorks"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -90,7 +88,7 @@
         <ab type="imprint">1810. Chalmers, Alexander. <hi rend="italic">The Life of Chaucer</hi>, prefixed to The Works (q. v. above), pp. iii-xv.</ab>
         
         <ab type="quotation">
-          <seg>[A fairly critical biography, resting largely on Tyrwhitt;
+          <seg type="editorial">[A fairly critical biography, resting largely on Tyrwhitt;
             
             <milestone unit="page" n="49"/>
             

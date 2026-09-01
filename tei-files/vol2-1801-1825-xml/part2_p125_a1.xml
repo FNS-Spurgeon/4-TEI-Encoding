@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p125_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p125_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -102,8 +100,8 @@
             have lived to a good age and written the poem in his
             youth if Chaucer translated it; for he died in 1449, and
             Chaucer, an old man, in 1400. The beginning, however, as
-            well as the goodness of the version, looks as if our country¬
-            man had done it, for he speaks of the translation having been
+            well as the goodness of the version, looks as if our countryman
+            had done it, for he speaks of the translation having been
             enjoined him by way of penance. And the Legend of Good
             Women was the result of a similar injunction in consequence
             of his having written some stories not so much to the credit

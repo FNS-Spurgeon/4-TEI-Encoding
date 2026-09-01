@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p145_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p145_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -95,7 +93,7 @@
             Homer. . . .</seg>
             
           <seg><note place="margin">[p. 186]</note>It <add>[Charles Lamb’s library]</add> looks like what it is, a selection
-            made at precious intervals from the bookstalls:–now
+            made at precious intervals from the bookstalls:—now
             a Chaucer at nine and twopence; now a Montaigne or a Sir
             Thomas Browne at two shillings. <add>[For Lamb's library see
             below, 1823.]</add> . . .</seg>
@@ -131,9 +129,9 @@
               <l>On bookès for to rede I me delite,</l>
               <add>[to]</add>
               <l>Farewell my book and my devociön.</l>
-              <note place="right">The Legend of Good Women.<lb/>[ll. 29-38.]</note>
+              <note place="right"><hi rend="italic">The Legend of Good Women</hi>. [ll. 29-38.]</note>
             </lg>
-            And again in the second book of his “House of Fame"
+            And again in the second book of his "House of Fame"
             where the eagle addresses him.
             <lg>
               <l>— Thou wilt make</l>

@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p93_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p93_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n.a. 1817], Cornelius Webb. [Satire on the ‘Cockney School,’ quoted in] Blackwood’s Edinburgh Magazine,</title>
+        <title>[n.a. 1817], Cornelius Webb. [Satire on the ‘Cockney School,’ quoted in] Blackwood’s Edinburgh Magazine.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +34,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/56983234">Cornelius Webb</author>
-            <date cert="low" when="[n.a. 1817]">[n.a. 1817]</date>
-            <title level="a">[Satire on the ‘Cockney School,’ quoted in] Blackwood’s Edinburgh Magazine,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/56983234">Webb, Cornelius</author>
+            <date cert="low" when="1817">[n.a. 1817]</date>
+            <title level="a">[Satire on the ‘Cockney School,’ quoted in] Blackwood’s Edinburgh Magazine.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,14 +82,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="93"/>
-        <ab type="imprint">[n.a. 1817.] Webb (or Webbe), Cornelius. [Satire on the ‘Cockney School,’ quoted in] Blackwood’s Edinburgh Magazine, vol. ii, pp. 38, 194.</ab>
+        
+        <ab type="imprint">[n.a. 1817.] Webb (or Webbe), Cornelius. [<hi rend="italic">Satire on the ‘Cockney School,’</hi> quoted in] Blackwood’s Edinburgh Magazine, vol. ii, pp. 38, 194.</ab>
+        
         <ab type="quotation">
-          <seg>Our talk shall be (a theme we never tire on)
-Of Chaucer, Spenser, Shakespeare, Milton, Byron,
-(Our England’s Dante)— Wordsworth—Hunt and Keats,
-The Muses' son of promise; and of what feats
-He yet may do.</seg>
-          <note type="footnote">Note in Spurgeon: [For the quotation of this in Blackwood’s Edinburgh Magasine, see below, 1817, Z.]</note>
+          <seg>
+            <lg>
+              <l>Our talk shall be (a theme we never tire on)</l>
+              <l>Of Chaucer, Spenser, Shakespeare, Milton, Byron,</l>
+              <l>(Our England’s Dante)— Wordsworth—Hunt and Keats,</l>
+              <l>The Muses' son of promise; and of what feats</l>
+              <l>He yet may do.<note type="footnote">Note in Spurgeon: [For the quotation of this in Blackwood’s Edinburgh Magasine, see below, 1817, Z.]</note></l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

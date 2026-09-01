@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p96_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p96_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -97,7 +95,7 @@
           
           <seg>[p. 432] The following lines from Chaucer are very pleasing :—
             <l>'— Emelie that fayrer was to sene</l>
-            <lb/>. . . . . .
+            . . . . . .
             <l>I n’ot which was the finer of hem two.’</l>
             
             <milestone unit="page" n="97"/>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p149_a6">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p149_a6">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +89,7 @@
         
         <ab type="quotation">
           <seg type="editorial">[A gossiping account of early editions of Chaucer, and
-            of the copies then extant of some. The following are mentioned–
+            of the copies then extant of some. The following are mentioned—
             <list>
               <item>(1) Canterbury Tales, Caxton ed. 1; King's, Merton Coll., Spencer, Wentworth House, Ham House.</item>
               <item>(2) Canterbury Tales, Caxton ed. 2; St. John’s Coll., Camb., Pepys, Heber, Spencer.</item>

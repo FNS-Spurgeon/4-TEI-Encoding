@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p73_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p73_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +89,7 @@
         <ab type="imprint">1815-16. Nott, George Frederick. <hi rend="italic">The Works of Henry Howard Earl of Surrey and of Sir Thomas Wyatt the Elder</hi>, 2 vols. <lb/>Dissertation on the state of English Poetry before the
           sixteenth century, vol. i, pp. cxxxvii-clxxvi, clxxxvi note,
           clxxxviii-cxciii, cxc, cxcvi, cxcix, ccxxxi-ii, ccxxxv-vi,
-          ccxliii-vi, ccxlii-vi, ccxlix-li, cclxvii, cclxix-xx, cclxxxv.[In
+          ccxliii-vi, ccxlii-vi, ccxlix-li, cclxvii, cclxix-xx, cclxxxv. [In
           the Notes to the poems there are many references to Chaucer,
           pointing out passages and lines where Surrey has imitated him.]
           Notes to Surrey’s Poems, vol. i, pp. 234, 236, 238-41, 243,
@@ -276,13 +274,14 @@
             him rhyming on the following words, semblaùnt, variaùnt,
             plesaùnce, chevisaùnce, [&amp;c., &amp;c.] . . .
             <lb/>. . . . . . . . . .</seg>
-            
-          <seg type="editorial">Sect. XIII. Of the vague and diffuse Style used by our early Poets....
-            <lb/><note place="margin">[p. ccxxxv]</note>[Remarks on the diffuseness and tautology of the early
-            poets, and an example of this is given from Chaucer, Com¬
-            plaint of Mars, fol. ccclxx, ed. 1532, beginning:
+          
+          <seg>Sect. XIII. Of the vague and diffuse Style used by our early Poets....</seg>
+          
+          <seg type="editorial"><note place="margin">[p. ccxxxv]</note>[Remarks on the diffuseness and tautology of the early
+            poets, and an example of this is given from Chaucer,
+            Complaint of Mars, fol. ccclxx, ed. 1532, beginning:
             <l>It seemeth Love hath to lovers enmity.]</l>
-            <lb/>. . . . . . . . . . .</seg>
+            . . . . . . . . . . .</seg>
             
           <seg type="editorial"><note place="margin">[p. ccxli, note a.]</note>[Nott says our early poets often debased fine passages
             by the introduction of mean circumstances, or trivial and
@@ -301,7 +300,7 @@
             Arms of the 14th century in his imagination.
             <l>Full heavy was he to walken over lond.</l></seg>
             
-          <seg><note type="editorial">[p. ccxlii]</note>Sect. XV. Of the want of skill in all our early Poets
+          <seg><note place="margin">[p. ccxlii]</note>Sect. XV. Of the want of skill in all our early Poets
             in translating and imitating other writers, and Surrey's
             excellence in this particular. <lb/>. . . . . . . . . .</seg>
             

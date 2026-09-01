@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p21_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p21_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +73,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#modernizations" target="#anonymous"/>
+        <catRef scheme="#modernizations" target="#anonymous-modern"/>
         <catRef scheme="#works" target="#squireTale"/>
       </textClass>
     </profileDesc>
@@ -100,7 +98,7 @@
               <l>Cambuscan was the mighty hero's name,</l>
               <l>Of yore unrivall’d in the list of fame!</l>
             </lg>
-            <lb/>. . . . . . . . .
+            . . . . . . . . .
           </seg>
         </ab>
       </div>

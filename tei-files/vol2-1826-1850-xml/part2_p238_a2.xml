@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n.a. 1841], Walter Savage Landor. Letter to Richard Hengist Horne,</title>
+        <title>[n.a. 1841], Walter Savage Landor. Letter to Richard Hengist Horne.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Walter Savage Landor</author>
-            <date cert="low" when="[n.a. 1841]">[n.a. 1841]</date>
-            <title level="a">Letter to Richard Hengist Horne,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Landor, Walter Savage</author>
+            <date cert="low" when="1841">[n.a. 1841]</date>
+            <title level="a">Letter to Richard Hengist Horne.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -87,24 +87,28 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="238"/>
-        <ab type="imprint">[n.a. 1841.] Landor, Walter Savage. Letter to Richard Hengist Horne, [not published in Landor's letters; partly printed in] Letters of Elizabeth Barrett Browning addressed to Richard Hengist Horne, ed. by S. R. Townshend Mayer, 1877, vol. i, p. 99.</ab>
+        
+        <ab type="imprint">[n.a. 1841.] Landor, Walter Savage. <hi rend="italic">Letter to Richard Hengist Horne</hi>, [not published in Landor's letters; partly printed in] Letters of Elizabeth Barrett Browning addressed to Richard Hengist Horne, ed. by S. R. Townshend Mayer, 1877, vol. i, p. 99.</ab>
+        
+        <milestone unit="page" n="239"/>
+        
         <ab type="quotation">
-          <seg>[Horne is writing: In answer to an application from
-Horne to take part in the modernisation of Chaucer, brought
-out in 1841, Landor first replied that he believed] "as many
-people read Chaucer" (meaning in the original) "as were fit
-to read him." As I [i. e. Horne] took leave to doubt this,
-Landor again wrote, saying–"Indeed I do admire him, or
-rather love him. In my opinion, he is fairly worth a score or
-two of Spensers. He had a knowledge of human nature and
-not of doll-making and fantoccini dressing.  ... Pardon me if
-I say I would rather see Chaucer quite alone, in the dew of
-his sunny morning, than with twenty clever gentlefolks about
-him, arranging his shoe-strings and buttoning his doublet.
-I like even his language. I will have no hand in breaking
-his dun but rich-painted glass to put in (if clearer) much
-thinner panes."</seg>
-          <note type="footnote">Note in Spurgeon: [Landor afterwards changed his mind and defended Wordsworth for his share in these modernisations; see below, 1856. For Horne's comment on this letter see above, 1841. In the American edition of these letters, with a Preface and Memoir by R. H. Stoddard, New York, 1877, the reference is vol. i, pp. 78-9.]</note>
+          <seg type="editorial">[Horne is writing: In answer to an application from
+            Horne to take part in the modernisation of Chaucer, brought
+            out in 1841, Landor first replied that he believed]</seg>
+            
+          <seg>"as many people read Chaucer" (meaning in the original) "as were fit
+            to read him." As I <add>[i. e. Horne]</add> took leave to doubt this,
+            Landor again wrote, saying–"Indeed I do admire him, or
+            rather love him. In my opinion, he is fairly worth a score or
+            two of Spensers. He had a knowledge of human nature and
+            not of doll-making and fantoccini dressing. . . . Pardon me if
+            I say I would rather see Chaucer quite alone, in the dew of
+            his sunny morning, than with twenty clever gentlefolks about
+            him, arranging his shoe-strings and buttoning his doublet.
+            I like even his language. I will have no hand in breaking
+            his dun but rich-painted glass to put in (if clearer) much
+            thinner panes."<note type="footnote">Note in Spurgeon: [Landor afterwards changed his mind and defended Wordsworth for his share in these modernisations; see below, 1856. For Horne's comment on this letter see above, 1841. In the American edition of these letters, with a Preface and Memoir by R. H. Stoddard, New York, 1877, the reference is vol. i, pp. 78-9.]</note></seg>
         </ab>
       </div>
     </body>

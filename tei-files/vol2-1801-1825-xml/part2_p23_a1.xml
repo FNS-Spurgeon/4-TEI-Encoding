@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p23_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p23_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +89,7 @@
         
         <ab type="quotation">
           <seg><note place="margin">[p. 15] </note>. . . We cannot but be startled at the first sentence of the
-            preface; “The two names which do greatest honour to the
+            preface; "The two names which do greatest honour to the
             annals of English Literature, are those of Chaucer and of
             Shakspeare." That Chaucer was a wonderful poet when we
             consider the times in which he lived, no man will dispute; but

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p14_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p14_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,7 +91,7 @@
             
           <seg><note place="margin">[p. 181]</note><add>[Friday, August 19th.]</add> There were two beds in recesses
             in the wall; above one of them I noticed a shelf with
-            some books: ─ it made me think of Chaucer's Clerke of
+            some books:—it made me think of Chaucer's Clerke of
             Oxenforde :—
             <lg>
               <l>Liever had he at his beds head</l>

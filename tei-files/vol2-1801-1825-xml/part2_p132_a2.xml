@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p132_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p132_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -98,7 +96,7 @@
             the Lock, for instance. Custance floating in her boat on the
             wide sea, is different from Pope's heroine,
             <l>‘Launched on the bosom of the silver Thames.’</l>
-            <lb/>. . . . . . . .</seg> 
+            . . . . . . . .</seg> 
             
           <seg><note place="margin">[p. 606]</note>Griselda’s loss of her children, one by one, of her all, does
             not belong to the same class of incidents, nor of subjects for

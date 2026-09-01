@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p27_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p27_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,10 +90,10 @@
             controvert . . Together with Chaucer and Spenser, it will ever
             be to you, as "caviare to the multitude," and as Ossian to me.</seg>
           
-          <seg type="editorial"><note place="margin">[p. 238]</note>[Miss Seward “was not to be silenced." She says, in the
+          <seg type="editorial"><note place="margin">[p. 238]</note>[Miss Seward "was not to be silenced." She says, in the
             course of a very long letter, that there is more reason to
-            suppose the “coldness of a poetic mind" to the beauty and
-            sublimity of Madoc is “the result of prejudice" than “to
+            suppose the "coldness of a poetic mind" to the beauty and
+            sublimity of Madoc is "the result of prejudice" than "to
             fancy any sensibility of the real faults of Chaucer, Spenser,
             and Dante a sort of unhallowed irreverence for crude and
             easy composition."]</seg>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1837, Unknown. Chateaubriand on the Literature of England,</title>
+        <title>1837, Unknown. Chateaubriand on the Literature of England.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1837">1837</date>
-            <title level="a">Chateaubriand on the Literature of England,</title>
+            <title level="a">Chateaubriand on the Literature of England.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,48 +84,54 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="220"/>
-        <ab type="imprint">1837. Unknown. Chateaubriand on the Literature of England, [in]The Edinburgh Review, Jan., 1837, vol. lxiv, pp. 520-23, 525-6, 528.</ab>
+        
+        <ab type="imprint">1837. Unknown. <hi rend="italic">Chateaubriand on the Literature of England</hi>, [in]The Edinburgh Review, Jan., 1837, vol. lxiv, pp. 520-23, 525-6, 528.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 521] When Chaucer wrote, though borrowing largely from the
-[p. 522] early Italian poetry–though not untinctured by the Norman
-—it was at once a national poet formed by national circum¬
-stances, and appealing to a nation! Though, as we before
-said, a scholar and a courtier, it was in Chaucer that the
-literary spirit of the English people, vigorous, simple, and
-truthful, found its voice. It was an immense encouragement
-to the English language that a man so clerkly and so well
-with the great, should have given it the preference to the
-French. Unquestionably the extraordinary popularity of the
-'Canterbury Tales,'  and the 'Troilus and Cresseide' had a
-prodigious effect in rendering the language of a conquered
-people not only familiar but musical to the conquerors.
-Chaucer wrote for the people, but it was in the style of a
-gentleman. And he at once familiarized the Anglo-Norman
-and refined the Anglo-Saxon genius. The sympathies of
-Chaucer are not those of coteries and courts, they are with
-common and universal feelings. He has a passionate love of
-nature, and his minute and close descriptions are very different
-indeed from the pastoral affectations of the Trouveres and
-Troubadours. He has also that clear and racy power of dis¬
-criminating and individualizing character, which springs from
-an observant eye and a social temper. Chaucer is the earliest
-writer in modern literature whose characters are strongly
-marked and distinct. His passages are to those of Boccaccio
-what Homer's are to those of Virgil; and the study of
-Chaucer would, like that of Homer, conduce insensibly to the
-Drama. It was, perhaps, his constitutional sympathy with
-broad interests and universal feelings, no less than the con¬
-cession of his reason to the tenets of Wickliff, that made
-Chaucer a satirist of monks and priests. He seems to have
-had a practical and shrewd philosophy in his easy sarcasms on
-these holy men, which is more subtile and thoughtful than
-the careless gibes of the Troubadours. The active career of
-Chaucer, his keen observation of the natural, whether in men
-or scenery, tended, perhaps, to make him the great founder of
-a very remarkable distinction of English literature,–namely,
-the mixture of the humorous and pathetic–the solemn and
-the comic.   ...
-[p. 523] [Sterility of genius after Chaucer.]</seg>
+          <seg><note place="margin">[p. 521]</note>When Chaucer wrote, though borrowing largely from the
+            <note place="margin">[p. 522]</note>early Italian poetry—though not untinctured by the Norman
+            —it was at once a national poet formed by national circumstances,
+            and appealing to a nation! Though, as we before
+            said, a scholar and a courtier, it was in Chaucer that the
+            literary spirit of the English people, vigorous, simple, and
+            truthful, found its voice. It was an immense encouragement
+            to the English language that a man so clerkly and so well
+            with the great, should have given it the preference to the
+            French. Unquestionably the extraordinary popularity of the
+            'Canterbury Tales,'  and the 'Troilus and Cresseide' had a
+            prodigious effect in rendering the language of a conquered
+            people not only familiar but musical to the conquerors.
+            Chaucer wrote for the people, but it was in the style of a
+            gentleman. And he at once familiarized the Anglo-Norman
+            and refined the Anglo-Saxon genius. The sympathies of
+            Chaucer are not those of coteries and courts, they are with
+            common and universal feelings. He has a passionate love of
+            nature, and his minute and close descriptions are very different
+            indeed from the pastoral affectations of the Trouveres and
+            Troubadours. He has also that clear and racy power of
+            discriminating and individualizing character, which springs from
+            an observant eye and a social temper. Chaucer is the earliest
+            writer in modern literature whose characters are strongly
+            marked and distinct. His passages are to those of Boccaccio
+            what Homer's are to those of Virgil; and the study of
+            Chaucer would, like that of Homer, conduce insensibly to the
+            Drama. It was, perhaps, his constitutional sympathy with
+            broad interests and universal feelings, no less than the
+            concession of his reason to the tenets of Wickliff, that made
+            Chaucer a satirist of monks and priests. He seems to have
+            had a practical and shrewd philosophy in his easy sarcasms on
+            these holy men, which is more subtile and thoughtful than
+            the careless gibes of the Troubadours. The active career of
+            
+            <milestone unit="page" n="221"/>
+            
+            Chaucer, his keen observation of the natural, whether in men
+            or scenery, tended, perhaps, to make him the great founder of
+            a very remarkable distinction of English literature,—namely,
+            the mixture of the humorous and pathetic—the solemn and
+            the comic. . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 523]</note>[Sterility of genius after Chaucer.]</seg>
         </ab>
       </div>
     </body>

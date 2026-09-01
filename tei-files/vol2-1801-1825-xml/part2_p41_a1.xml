@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p41_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p41_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,7 +91,7 @@
           <seg type="editorial"><note place="margin">[vol. i, p. 217]</note>372. [Anelida and Arcite.]</seg>
             
           <seg><note place="margin">[vol. ii, p. 678]</note>2376. <add>[Note on the colophon to Piers Plowman.]</add> At the
-            end is this Note, “Hic explicit visio Wilelmi de Petro Plowman." Now among the several persons to whom the Poems
+            end is this Note, "Hic explicit visio Wilelmi de Petro Plowman." Now among the several persons to whom the Poems
             
             <milestone unit="page" n="42"/>
             
@@ -110,9 +108,9 @@
             
           <seg><note place="margin">[p. 526]</note>7333 (6-27). <add>[Canterbury Tales.]</add> (29) <add>[Parliament of
             Foules.]</add> (30) A part of his Complaint of Mars &amp; Venus,
-            with the unusual title “The Broche (?) of Thebes, as of the
+            with the unusual title "The Broche (?) of Thebes, as of the
             love of Mars and Venus." (31) <add>[Anelinda [sic] and Arcite.]</add>
-            (35) Ballads by Chaucer... and other small poems.</seg>
+            (35) Ballads by Chaucer . . . and other small poems.</seg>
             
           <seg type="editorial"><note place="margin">[p. 526.]</note>7334. [Canterbury Tales.]</seg>
             

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p37_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p37_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -98,7 +96,7 @@
             character. The Ploughman is called the <hi rend="italic">Old Ploughman</hi>, and
             the Squire the <hi rend="italic">Fop of Chaucer's Age</hi>; a Goldsmith is introduced.
             See, for criticism of all this, Blake’s Descriptive Catalogue,
-            below, 1809. It is claimed that “the costume of each
+            below, 1809. It is claimed that "the costume of each
             Person is correct with an antiquarian exactness," Douce's
             <hi rend="italic">Illustrations of Shakespeare</hi> being quoted is support of the
             statement; also a note states that the portrait of Chaucer is

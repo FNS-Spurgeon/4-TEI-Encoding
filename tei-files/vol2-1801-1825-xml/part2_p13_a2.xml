@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p13_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p13_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="imprint">1803. Unknown. <hi rend="italic">Letter</hi>, [in] The Gentleman's Magazine, vol. lxxiii, part i, pp. 207-8.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A modernization of part of the “Legende of Ariadne of Athens," prefaced by remarks:]</seg>
+          <seg type="editorial">[A modernization of part of the "Legende of Ariadne of Athens," prefaced by remarks:]</seg>
           
           <seg><note place="margin">[p. 207]</note>The ear accustomed to harmonious numbers will derive
             little pleasure from them, on account of the want of variety
@@ -117,7 +115,7 @@
               <l>Alas! the fatal hour that saw me born.</l>
               <l>I am betray’d–her lovely tresses rent,</l>
               <l>Barefoot in haste along the shore she went,</l>
-              <l>And cried in vain—“Theseus, my heart's desire,</l>
+              <l>And cried in vain—"Theseus, my heart's desire,</l>
               <l>Where art thou? where, my love, dost thou retire?</l>
               <l>Ah fled me! left by cruel beasts to die". . .</l>
             </lg>

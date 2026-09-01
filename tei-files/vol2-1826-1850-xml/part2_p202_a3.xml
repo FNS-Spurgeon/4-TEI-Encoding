@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1836, Brayley, Edward Wedlake, and Britton, John.. The History of the Ancient Palace and late Houses of Parliament at Westminster,</title>
+        <title>1836, Edward Wedlake Brayley and John Britton. The History of the Ancient Palace and late Houses of Parliament at Westminster.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,10 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Brayley, Edward Wedlake, and Britton, John.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/37844461">Brayley, Edward Wedlake</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/15044364">Britton, John</author>
             <date cert="high" when="1836">1836</date>
-            <title level="a">The History of the Ancient Palace and late Houses of Parliament at Westminster,</title>
+            <title level="a">The History of the Ancient Palace and late Houses of Parliament at Westminster.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,12 +85,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="202"/>
-        <ab type="imprint">1836. Brayley, Edward Wedlake, and Britton, John. The History of the Ancient Palace and late Houses of Parliament at Westminster, pp. 275-6.</ab>
+        
+        <ab type="imprint">1836. Brayley, Edward Wedlake, and Britton, John. <hi rend="italic">The History of the Ancient Palace and late Houses of Parliament at Westminster</hi>, pp. 275-6.</ab>
+        
         <ab type="quotation">
-          <seg>[The appointment of Chaucer, on July 13th, 1389, as Clerk
-of the Works at Westminster, the Tower, and the Mews near
-Charing Cross; with a lengthy biographical note based on
-Godwin and the Testament of Love.]</seg>
+          <seg type="editorial">[The appointment of Chaucer, on July 13th, 1389, as Clerk
+            of the Works at Westminster, the Tower, and the Mews near
+            Charing Cross; with a lengthy biographical note based on
+            Godwin and the <hi rend="italic">Testament of Love</hi>.]</seg>
         </ab>
       </div>
     </body>

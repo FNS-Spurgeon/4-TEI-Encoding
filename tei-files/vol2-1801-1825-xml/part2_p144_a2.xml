@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p144_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p144_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -122,7 +120,7 @@
             <milestone unit="page" n="145"/>
             
             called him.—The syllables, it is to be observed, that form the
-            plural terminations, are to be pronounced,–motès, burghès,
+            plural terminations, are to be pronounced,—motès, burghès,
             etc., as they are to this day in many instances among the
             uneducated classes of the Metropolis; and it is a pity we
             ever left off pronouncing them, our consonants being at all

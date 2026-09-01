@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1836-40], Thomas Campbell. Chaucer and Windsor,</title>
+        <title>[c. 1836-40], Thomas Campbell. Chaucer and Windsor.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,8 +37,8 @@
         <biblStruct>
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/39510901">Thomas Campbell</author>
-            <date cert="low" when="[c. 1836-40]">[c. 1836-40]</date>
-            <title level="a">Chaucer and Windsor,</title>
+            <date cert="low" from="1836" to="1840">[c. 1836-40]</date>
+            <title level="a">Chaucer and Windsor.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,23 +84,31 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="202"/>
-        <ab type="imprint">[c. 1836-40.] Campbell, Thomas. Chaucer and Windsor, [in] The Pilgrim of Glencoe and other Poems, 1842, pp. 100-1. (Poetical Works, ed. J. Logie Robertson, Oxford, 1907, p. 307.)</ab>
+        
+        <ab type="imprint">[c. 1836-40.] Campbell, Thomas. <hi rend="italic">Chaucer and Windsor</hi>, [in] The Pilgrim of Glencoe and other Poems, 1842, pp. 100-1. (Poetical Works, ed. J. Logie Robertson, Oxford, 1907, p. 307.)<note type="footnote">Note in Spurgeon: [Mr. Robertson places this poem between poems of 1836 and of 1840.]</note></ab>
+        
         <ab type="quotation">
-          <seg>Long shalt thou flourish, Windsor...
-But, should thy towers in ivied ruin rot,
-There’s one, thine inmate once, whose strain renowned
-Would interdict thy name to be forgot;
-For Chaucer loved thy bowers and trode this very spot.
-Chaucer! our Helicon’s first fountain stream,
-Our morning star of song—that led the way
-To welcome the long-after coming beam
-Of Spenser's light, and Shakespeare’s perfect day.
-Old England’s fathers lived in Chaucer's lay,
-As if they ne’er had died. He grouped and drew
-Their likeness with a spirit of life so gay,
-That still they live and breathe in Fancy's view,
-Fresh beings fraught with truth's imperishable hue.</seg>
-          <note type="footnote">Note in Spurgeon: [Mr. Robertson places this poem between poems of 1836 and of 1840.]</note>
+          <seg>
+            <lg>
+              <l>Long shalt thou flourish, Windsor . . .</l>
+              <l>But, should thy towers in ivied ruin rot,</l>
+              <l>There’s one, thine inmate once, whose strain renowned</l>
+              <l>Would interdict thy name to be forgot;</l>
+              <l>For Chaucer loved thy bowers and trode this very spot.</l>
+              
+              <milestone unit="page" n="203"/>
+              
+              <l>Chaucer! our Helicon’s first fountain stream,</l>
+              <l>Our morning star of song—that led the way</l>
+              <l>To welcome the long-after coming beam</l>
+              <l>Of Spenser's light, and Shakespeare’s perfect day.</l>
+              <l>Old England’s fathers lived in Chaucer's lay,</l>
+              <l>As if they ne’er had died. He grouped and drew</l>
+              <l>Their likeness with a spirit of life so gay,</l>
+              <l>That still they live and breathe in Fancy's view,</l>
+              <l>Fresh beings fraught with truth's imperishable hue.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1838, Edwin Guest. A History of English Rhythms,</title>
+        <title>1838, Edwin Guest. A History of English Rhythms.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/51767971">Edwin Guest</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/51767971">Guest, Edwin</author>
             <date cert="high" when="1838">1838</date>
-            <title level="a">A History of English Rhythms,</title>
+            <title level="a">A History of English Rhythms.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#prose"/>
         <catRef scheme="#criticism" target="#praised"/>
         <catRef scheme="#criticism" target="#finalE"/>
         <catRef scheme="#criticism" target="#ridingRhyme"/>
@@ -90,112 +90,135 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="222"/>
-        <ab type="imprint">1838. Guest, Edwin. A History of English Rhythms, 2 vols.; vol. i, pp. 25-34, 121, 153, 177, 215, 237; vol. ii, pp. 2, 110, 155, 164, 186, 236-41, 255-8, 308, 312, 357-9, 363, 367-8, 417, 429. [Also brief references and illustrative quotations throughout vol. i]</ab>
+        
+        <ab type="imprint">1838. Guest, Edwin. <hi rend="italic">A History of English Rhythms</hi>, 2 vols.; vol. i, pp. 25-34, 121, 153, 177, 215, 237; vol. ii, pp. 2, 110, 155, 164, 186, 236-41, 255-8, 308, 312, 357-9, 363, 367-8, 417, 429. [Also brief references and illustrative quotations throughout vol. i]</ab>
+        
         <ab type="quotation">
-          <seg>[vol. i, [After an account of e final, Guest continues :] Tyrwhitt
-p. 24] deserves our thanks for the manly experiment of editing our
-oldest classic, and for accumulating a decent share of general
-knowledge, to serve for his occasional elucidation. But what
-can we say of an editor who will not study the language of
-his author?–of one who, having the means of accuracy (at
-least to a great extent) within reach, passes them by, and
-judges of Chaucer's grammar in the fourteenth century by that
-of Pope in the eighteenth?
-[p. 121] [Rhyme.] When... the verse was lengthened and allitera¬
-tion banished, we had a fair right to expect greater caution,
-and very rarely indeed does Chaucer disappoint us. His rhimes
-are, for the most part, strictly correct.
-[p. 153] [Middle pause.] It was not till the middle of the fifteenth
-century that the dot, which indicated the middle pause, began
-to be omitted in our manuscripts, and no edition of Chaucer
-or his contemporaries can be perfect without it.
-[p.177] [English rhythms.] Our heroic verse, as it has been called
-of late, was formerly known by the more homely appellation
-of riding rhime. ...
-Chaucer strictly confined this rhythm to five accents, but
-certainly allowed himself great freedom in the number of
-his syllables. His rhythm, however, always approaches that
-of the common measure.   ...
-[p. 215] [Verse of five accents. Quotation of Prol., ll. 1-18, from
-MSS. Harl. 1758 and 7333, giving the middle and end
-stops.]
-[p. 237] Webbe [q.v. above, 1586, vol. i, p. 129] has laid it down
-that "the natural course" of English verse "ran upon the
-Iambicke stroke.   ... He might have been taught sounder
-doctrine by his contemporary Gascoigne [q.v. above, 1575,
-vol. i, p. 111]. This critic... admires "the libertie in
-feete and measures" used by their Father Chaucer.
-..
-[vol ii, [Couplet metre.] Loose as is the rhythm of these verses
-p. 237] [an extract from Rolle’s Prick of Conscience], I have seen few
-manuscripts of the Canterbury Tales, which admit of a more
-definite scansion. The best copies indeed I have not seen;
-and I think it probable that Chaucer at least confined his
-metre to the verse of five accents; but any more particular
-definition I dare not venture upon. Before we can understand
-the nature of his versification–before we can render Chaucer
-that justice, which his genius so loudly calls for–we have to
-settle questions that require for their solution the most search¬
-ing... investigations. [Untrustworthiness of the MSS.]
-That Chaucer was a master of English versification no one,
-that reads him with due care and attention, can well doubt.
-There are many passages in his works, which, from the agree¬
-ment of MSS. and the absence of all those peculiarities of
-structure that leave matter for doubt, have, in all probability,
-come down to us as Chaucer wrote them–and in these the
-[p. 238] versification is as exquisite as the poetry. It needs not the
-somewhat suspicious apology of Dryden. I am not one of
-those who assert, that Chaucer has always "ten syllables in
-a verse, where we find but nine"; but I am as far from
-believing, that "he lived in the infancy of our poetry," because
-the scheme of his metre somewhat differs from our own. As
-far as we have the means of judging, it was not only "auribus
-istius temporis accommodata," but fulfilled every requisite
-that modern criticism has laid down, as either essential to the
-science, or conducive to the beauty of a versification.
-The metre of five accents, with couplet-rhyme, may have
-got its earliest name of "riding rhyme" from the mounted
-pilgrims of the Canterbury Tales. [Quotes Gascoigne and
-Puttenham, q. v. above, 1575 and 1584-8, vol. i, pp. 111
-and 125.]
-[p. 239] [Blank verse.] The unrhimed metre of five accents, or as
-it is generally termed blank verse, we certainly owe to Surrey.
-English verse without rhime was no novelty; and the
-"cadence" of Chaucer comes full as near to the blank verse
-of five accents, as the loose rhythms of some of our dramatists.
-224 Five Hundred Years of [A.D. 1838-
-[p. 255] [Measured prose.] In the House of Fame, Chaucer repre¬
-sents himself as thus addressed,
-Thou–has [sic] set thy wit,
-(Although in thy head full little is)
-To maken bookes, songes and dities
-In ryme, or els in cadence,
-As thou best canst, in reverence
-Of love–
-and Tyrwhitt conjectured, with his usual sagacity, that he
-had written in a "species of poetical composition, distinct
-from rhyming verses." The Tale of Melibeus has been con¬
-sidered, by some persons, as "blank verse"; but though its
-claim to such a title may be questioned, it is certainly a
-specimen of cadence. The model, which Chaucer had
-floating before him, was clearly his favourite metre of five
-accents.... The following extract I have endeavoured to
-arrange according to its metrical structure...
-A yonge | man cal | led : Mel | ibe | us
-Migh | ty and rich | e : begate | upon | his wif |
-That cal | led was Pruden | ce
-A dough | ter which | : that cal | led was Sophi | e.
-. . . . . . . . . .
-[p. 258] This | is more wis | dom
-Than | for to we | pe: for | thy frend |
-Which that | thou hast lorne | : for | ther |  ein is | no
-bote |.
-[Tale of Melibeus, ll. 2157-83.]
-As the Tale proceeds, the rhythmical structure gradually
-disappears.
-[pp.
-[Ballet-staves of eight and of seven.]
-[pp. 857-9]</seg>
+          <seg><note place="margin">[vol. i, p. 24]</note><add>[After an account of e final, Guest continues:]</add> Tyrwhitt
+            deserves our thanks for the manly experiment of editing our
+            oldest classic, and for accumulating a decent share of general
+            knowledge, to serve for his occasional elucidation. But what
+            can we say of an editor who will not study the language of
+            his author?—of one who, having the means of accuracy (at
+            least to a great extent) within reach, passes them by, and
+            judges of Chaucer's grammar in the fourteenth century by that
+            of Pope in the eighteenth?</seg>
+            
+          <seg><note place="margin">[p. 121]</note><add>[Rhyme.]</add> When . . . the verse was lengthened and
+            alliteration banished, we had a fair right to expect greater caution,
+            and very rarely indeed does Chaucer disappoint us. His rhimes
+            are, for the most part, strictly correct.</seg>
+            
+          <seg><note place="margin">[p. 153]</note><add>[Middle pause.]</add> It was not till the middle of the fifteenth
+            century that the dot, which indicated the middle pause, began
+            to be omitted in our manuscripts, and no edition of Chaucer
+            or his contemporaries can be perfect without it.</seg>
+            
+          <seg><note place="margin">[p.177]</note><add>[English rhythms.]</add> Our heroic verse, as it has been called
+            of late, was formerly known by the more homely appellation
+            of riding rhime. . . .</seg>
+            
+          <seg>Chaucer strictly confined this rhythm to five accents, but
+            certainly allowed himself great freedom in the number of
+            his syllables. His rhythm, however, always approaches that
+            of the common measure. . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 215]</note>[Verse of five accents. Quotation of <hi rend="italic">Prol.</hi>, ll. 1-18, from
+            MSS. Harl. 1758 and 7333, giving the middle and end stops.]</seg>
+            
+          <seg><note place="margin">[p. 237]</note>Webbe <add>[q.v. above, 1586, vol. i, p. 129]</add> has laid it down
+            
+            <milestone unit="page" n="223"/>
+            
+            that "the natural course" of English verse "ran upon the
+            Iambicke stroke. . . . He might have been taught sounder
+            doctrine by his contemporary Gascoigne <add>[q.v. above, 1575,
+            vol. i, p. 111]</add>. This critic . . . admires "the libertie in
+            feete and measures" used by their Father Chaucer. . .</seg>
+            
+          <seg><note place="margin">[vol ii, p. 237]</note><add>[Couplet metre.]</add> Loose as is the rhythm of these verses
+            <add>[an extract from Rolle’s Prick of Conscience]</add>, I have seen few
+            manuscripts of the Canterbury Tales, which admit of a more
+            definite scansion. The best copies indeed I have not seen;
+            and I think it probable that Chaucer at least confined his
+            metre to the verse of five accents; but any more particular
+            definition I dare not venture upon. Before we can understand
+            the nature of his versification–before we can render Chaucer
+            that justice, which his genius so loudly calls for—we have to
+            settle questions that require for their solution the most
+            searching . . . investigations. <add>[Untrustworthiness of the MSS.]</add></seg>
+            
+          <seg>That Chaucer was a master of English versification no one,
+            that reads him with due care and attention, can well doubt.
+            There are many passages in his works, which, from the agreement
+            of MSS. and the absence of all those peculiarities of
+            structure that leave matter for doubt, have, in all probability,
+            come down to us as Chaucer wrote them–and in these the
+            <note place="margin">[p. 238]</note>versification is as exquisite as the poetry. It needs not the
+            somewhat suspicious apology of Dryden. I am not one of
+            those who assert, that Chaucer has always "ten syllables in
+            a verse, where we find but nine"; but I am as far from
+            believing, that "he lived in the infancy of our poetry," because
+            the scheme of his metre somewhat differs from our own. As
+            far as we have the means of judging, it was not only "auribus
+            istius temporis accommodata," but fulfilled every requisite
+            that modern criticism has laid down, as either essential to the
+            science, or conducive to the beauty of a versification.</seg>
+            
+          <seg>The metre of five accents, with couplet-rhyme, may have
+            got its earliest name of "riding rhyme" from the mounted
+            pilgrims of the Canterbury Tales.</seg>
+            
+          <seg type="editorial">[Quotes Gascoigne and Puttenham, q. v. above, 1575 and 1584-8,
+            vol. i, pp. 111 and 125.]</seg>
+            
+          <seg><note place="margin">[p. 239]</note><add>[Blank verse.]</add> The unrhimed metre of five accents, or as
+            it is generally termed blank verse, we certainly owe to Surrey.
+            English verse without rhime was no novelty; and the
+            "cadence" of Chaucer comes full as near to the blank verse
+            of five accents, as the loose rhythms of some of our dramatists.</seg>
+            
+            <milestone unit="page" n="224"/>
+            
+          <seg><note place="margin">[p. 255]</note><add>[Measured prose.]</add> In the House of Fame, Chaucer
+            represents himself as thus addressed,
+            <lg>
+              <l>Thou–has <add>[sic]</add> set thy wit,</l>
+              <l>(Although in thy head full little is)</l>
+              <l>To maken bookes, songes and dities</l>
+              <l>In ryme, or els in cadence,</l>
+              <l>As thou best canst, in reverence</l>
+              <l>Of love–</l>
+            </lg>
+            and Tyrwhitt conjectured, with his usual sagacity, that he
+            had written in a "species of poetical composition, distinct
+            from rhyming verses." The Tale of Melibeus has been con¬
+            sidered, by some persons, as "blank verse"; but though its
+            claim to such a title may be questioned, it is certainly a
+            specimen of cadence. The model, which Chaucer had
+            floating before him, was clearly his favourite metre of five
+            accents. . . . The following extract I have endeavoured to
+            arrange according to its metrical structure . . .
+            <lg>
+              <l>A yonge | man cal | led : Mel | ibe | us</l>
+              <l>Migh | ty and rich | e : begate | upon | his wif |</l>
+              <l>That cal | led was Pruden | ce</l>
+              <l>A dough | ter which | : that cal | led was Sophi | e.</l>
+            </lg>
+            . . . . . . . . . .
+          </seg>
+            
+          <seg>
+            <lg>
+              <note place="margin">[p. 258]</note><l>This | is more wis | dom</l>
+              <l>Than | for to we | pe: for | thy frend |</l>
+              <l>Which that | thou hast lorne | : for | ther |  ein is | no bote |.</l>
+              <note place="right">[<hi rend="italic">Tale of Melibeus</hi>, ll. 2157-83.]</note>
+            </lg>
+            As the Tale proceeds, the rhythmical structure gradually disappears.
+          </seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 857-9]</note>[Ballet-staves of eight and of seven.]</seg>
         </ab>
       </div>
     </body>

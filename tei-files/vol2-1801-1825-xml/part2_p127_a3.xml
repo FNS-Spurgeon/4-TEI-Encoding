@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p127_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p127_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,9 +34,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/19709107">Mary Russell Mitford</author>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/19709107">Mitford, Mary Russell</author>
             <date cert="high" when="1820">1820</date>
-            <title level="a">Letter to Sir William Elford,</title>
+            <title level="a">Letter to Sir William Elford.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -90,8 +88,8 @@
         <ab type="quotation">
           <seg>I have as yet only seen some extracts from Mr. Keats's
             new poems. Those extracts seem to me finer than anything
-            that has been written these two hundred years–finer than
-            Wordsworth even–more Dantesque, a compound of Chaucer
+            that has been written these two hundred years—finer than
+            Wordsworth even—more Dantesque, a compound of Chaucer
             and the old Florentine. I hope and trust he will live to
             answer his barbarous critics by many such works.</seg>
         </ab>

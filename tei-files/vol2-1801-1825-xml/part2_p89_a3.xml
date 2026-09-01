@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p89_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p89_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="89"/>
         
-        <ab type="imprint">1817. Keats, John. <hi rend="italic">Sonnet</hi>; written on a blank space at the end of Chaucer's Tale of “The Floure and the Lefe." [This transcript is from Keats’s holograph in Cowden Clarke’s Chaucer, and gives his punctuation and use of capital letters. First printed in The Examiner, March 16, 1817.] (Complete Works of John Keats, ed. H. Buxton Forman, 1900-1, 5 vols., vol. ii, pp. 175-6.)</ab>
+        <ab type="imprint">1817. Keats, John. <hi rend="italic">Sonnet</hi>; written on a blank space at the end of Chaucer's Tale of "The Floure and the Lefe." [This transcript is from Keats’s holograph in Cowden Clarke’s Chaucer, and gives his punctuation and use of capital letters. First printed in The Examiner, March 16, 1817.] (Complete Works of John Keats, ed. H. Buxton Forman, 1900-1, 5 vols., vol. ii, pp. 175-6.)</ab>
         
         <ab type="quotation">
           <seg>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p153_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p153_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -147,7 +145,7 @@
             possession of the clue that would unravel the harmony of his
             numbers : nay, who could not, from the defective transcripts
             they consulted, or by their mode of pronunciation, make out
-            even the numerical proportion of his fect.
+            even the numerical proportion of his feet.
             <lb/>. . . . . . . . . . . .</seg>
           
           <milestone unit="page" n="155"/>

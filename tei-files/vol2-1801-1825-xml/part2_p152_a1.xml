@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p152_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p152_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,8 +89,8 @@
         <ab type="imprint">1824. Roscoe, William. <hi rend="italic">The Works of Alexander Pope</hi>, Esq. [with] . . . occasional remarks by William Roscoe. Vol. i, The Life of Alexander Pope, pp. 42-3, 48; vol. ii, Estimate of the Poetical Character and Writings of Pope, pp. x, xi, xiii; Notes, pp. 252, 253, 254, 255, 297, 301, 302, 303-311, 315, 339, 340, 341, 342, 357, 358.</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[vol. i, p. 42]</note>These pieces <add>[the modernizations of January and May,
-            and Wife of Bath's Prologue]</add> are executed with a degree of
+          <seg><note place="margin">[vol. i, p. 42]</note>These pieces <add>[the modernizations of <hi rend="italic">January and May</hi>,
+            and <hi rend="italic">Wife of Bath's Prologue</hi>]</add> are executed with a degree of
             freedom, ease, and spirit, and at the same time with a judgment
             and delicacy, which not only far exceed what might
             have been expected from so young a writer, but which leave

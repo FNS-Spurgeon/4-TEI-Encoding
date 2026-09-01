@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1841, Horne, Richard Hengist, Wordsworth , William, etc.. The Poems of Geoffrey Chaucer modernised.</title>
+        <title>1841, Richard Hengist Horne and William Wordsworth. The Poems of Geoffrey Chaucer modernised.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Horne, Richard Hengist, Wordsworth , William, etc.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/59892846">Horne, Richard Hengist</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">Wordsworth, William</author>
             <date cert="high" when="1841">1841</date>
             <title level="a">The Poems of Geoffrey Chaucer modernised.</title>
           </analytic>
@@ -75,7 +76,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#evolution"/>
         <catRef scheme="#modernizations" target="#browning"/>
         <catRef scheme="#modernizations" target="#bell"/>
         <catRef scheme="#modernizations" target="#hunt"/>
@@ -100,205 +101,221 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="234"/>
-        <ab type="imprint">1841. Horne, Richard Hengist, Wordsworth , William, etc. The Poems of Geoffrey Chaucer modernised. [Selections from the Canterbury Tales and other works modernized in verse, by R. H. Horne, W. Wordsworth, Leigh Hunt, E. B. Barrett, T. Powell, and R. Bell. Preceded by a life of Chaucer by L. Schmitz. See, for an account of this book, above, Introduction, pp. I-lii; for Wordsworth’s contributions to it see above, 1801 and 1840; and, for Powell’s, below, 1841.]</ab>
+        
+        <ab type="imprint">1841. Horne, Richard Hengist, Wordsworth , William, etc. <hi rend="italic">The Poems of Geoffrey Chaucer modernised</hi>. [Selections from the Canterbury Tales and other works modernized in verse, by R. H. Horne, W. Wordsworth, Leigh Hunt, E. B. Barrett, T. Powell, and R. Bell. Preceded by a life of Chaucer by L. Schmitz. See, for an account of this book, above, Introduction, pp. I-lii; for Wordsworth’s contributions to it see above, 1801 and 1840; and, for Powell’s, below, 1841.]</ab>
+        
         <ab type="quotation">
-          <seg>[Contents:]
-Title page, with quotation from Drayton’s poem, ‘To...
-Henry Reynolds’ [q. v. above, 1627, vol. i, p. 200], wrongly
-signed ‘Wordsworth.’
-Introduction, by R. H. Horne, headed by quotation "For
-out of the olde fieldés," etc., pp. v-cv.
-Life of Chaucer, by Professor Leonhard Schmitz, pp. cviii,
-cxxxviii.
-Eulogies on Chaucer, by his contemporaries and others, pp.
-cxxxix-cxlvii.
-Prologue to the Canterbury Tales, by R. H. Horne, pp.
-3-33.
-The Cuckoo and the Nightingale, by William Wordsworth,
-pp. 37-53.
-The Legends of Ariadne, Philomene, and Phillis, by Thomas
-Powell, pp. 57-86.
-The Manciple's Tale, by Leigh Hunt, pp. 88-106.
-The Rime of Sir Thopas, by Z. A. Z., pp. 109-123.
-Extract from Troilus and Cressida, by William Wordsworth,
-pp. 127-135.
-The Reve’s Tale, by R. H. Horne, pp. 138-159.
-The Flower and the Leaf, by Thomas Powell, pp. 162-191.
-The Friar's Tale, by Leigh Hunt, pp. 195-209.
-The Complaint of Mars and Venus, by Robert Bell, pp. 213-
-234.
-Queen Annelida and False Arcite, by Elizabeth B. Barrett,
-pp. 237-257.
-The Squire's Tale, by Leigh Hunt, pp. 260-287 [Hunt's
-second version : for the first see above, 1823].
-The Franklin’s Tale, by R. H. Horne, pp. 290-331.
-[From Horne’s Introduction, we print the following:]
-[p. v] The present publication does not result from an antiquarian
-feeling about Chaucer, as the Father of English Poetry, highly
-interesting as he must always be in that character alone; but
-from the extraordinary fact, to which there is no parallel in
-the history of the literature of nations,—that although he is
-one of the great poets for all time, his works are compara¬
-tively unknown to the world. Even in his own country, only
-a very small class of his countrymen ever read his poems.
-Had Chaucer's poems been written in Greek or Hebrew, they
-[p. vi] would have been a thousand times better known. They
-would have been translated. Hitherto they have had almost
-everything done for them that a nation could desire, in so far
-as the most careful collation of texts, the most elaborate
-essays, the most ample and erudite notes and glossaries, the
-most elaborate and classical (as well as the most trite and
-vulgar) paraphrases, the most eloquent and sincere admiration
-and comments of genuine poets, fine prose writers, and scholars
-–everything, in short, has been done, except to make them
-intelligible to the general reader.
-Except in the adoption of a modern typography, Chaucer's
-poems have always appeared hitherto, under no better
-auspices for modern appreciation than on their first day of
-publication, some three centuries and a half ago. Concerning
-the various attempts to render several of his poems available
-to the public, which have been made at intervals by poets
-and lovers of Chaucer, a few remarks will shortly be sub¬
-mitted. With whatever reverence or admiration these latter
-may have been received by the readers of those poets who in¬
-[p. vii] troduced such specimens among their own works, it is certain
-that they produced no perceptible effect in the popularity of
-the original author.
-Whether there has been a feeling in the public about
-Chaucer, amounting to a sort of unconscious resentment at the
-total inability to read his poems without first bestowing the
-same pains upon his glossary, which has been more willingly
-accorded to poetry and prose in the Scottish dialect; or
-whether on account of certain passages which in the present
-state of refinement appear offensive to a degree that the good
-folks of Chaucer's time, as well as the poet himself, could
-never have contemplated, it is not necessary to determine.
-Such an antipathy to the study of his language does exist;
-and-while we, curiously enough, find Chaucer sometimes
-apologizing, with meek humility and gentilesse, for using
-some expressions which are now in common use, but which
-were considered very improper in his day-it is undeniable
-that various passages and expressions occur here and there,
-[p. viii] in his works, which are calculated to startle a modern reader,
-and make him doubt his eyes. Howbeit, this great fact is
-sufficiently apparent,–that Chaucer is a poet, and a founder
-of the language of his country; (taking rank as such, with
-Homer and with Dante, and being the worthy forefather of
-Shakespeare, Spenser, and Milton;) whose poetry is compara¬
-tively unread and unknown even in his own country. The
-simple statement of such a fact will sufficiently explain the
-feeling which, in all sincerity and reverent admiration, has
-prompted those who have united in this present undertaking.
-From what has been said, it will be readily apprehended,
-that this attempt at a translation, or transfusion, of Chaucer
-into modern English, is by no means intended for the reading
-of those, who, being learned in the black letter, or familiar
-with the dialect of the period, can and do read the great poet
-with facility and delight. It is expressly intended for all
-that vast majority of our countrymen, and of foreigners
-acquainted with the English and English literature, who
-[p. ix] are unable to do this; and who, either from indisposition,
-or the want of sufficient leisure, have never given the study
-requisite for a right appreciation of the author's meaning,
-but who, at the same time, having a genuine love for noble
-poetry, would rejoice to find such labours superseded by a
-faithful version of the great poet, bereft of his obsolete dialect.
-The project has already received demonstration of the utmost
-sympathy from many high quarters at home and abroad,
-while the work was going through the press; and we have
-at present only met with one individual of literary eminence
-[Landor, q.v. below, 1841], who boldly declared, that he still
-wished "to keep Chaucer for himself and a few friends."
-The grand obstacle to be surmounted in reading Chaucer
-has, of course, been always, that of his obsolete dialect; but
-one of the main causes of his poems remaining so long with¬
-out modernizing (for they have hitherto been only para¬
-phrased in a very free manner), is because they are all in
-rhyme. Here begins the first and most trying difficulty in
-[p. x] rendering his poems available to the public of the present
-time. To translate his poems into blank verse, would be
-losing a characteristic feature of the original; to give the
-rhymes he uses is often impossible, because the words them¬
-selves, or the grammatical structure of the terminations are
-obsolete; to substitute rhymes of similar quantity and sound
-can seldom be successfully accomplished, because it has a
-tendency, when you are struggling to obtain the sense of the
-passage, to induce a mechanical awkwardness; and to supply
-new rhymes generally requires that a whole line, if not the
-couplet, must be changed in rhythm or totally remodelled.
-In the attempts, therefore, which have been hitherto made
-(with the exception of two of the Tales, modernized by Lord
-Thurlow and Mr. Wordsworth) the whole substantial material
-of Chaucer has been left as it stood, and the leading ideas only
-being adopted, a new poem has been written with more or less
-ability and verisimilitude, according to the genius and talent
-of the individual and the principle on which he proceeded.
-The versions of Chaucer which have been given by Dryden
-[p. xi] and Pope, are elaborate and highly finished productions, read¬
-ing exactly like their own poems, and not bearing the slightest
-resemblance to Chaucer. Even his finest lines and couplets
-which often require little or nothing more than a change in
-the orthography, have scarcely ever been retained. Every¬
-thing was paraphrased, made fluent, sounding, and full of
-"effects"; though it is equally true, that Chaucer occasionally
-received a very noble present from Dryden, for which nothing
-more than a suggestion is traceable in the original. Their
-versions of several of the Canterbury Tales, bearing the dates
-of 1699 and 1711, were subsequently adopted by Ogle,
-together with some of his own, and of sundry other writers,
-and published in three volumes in 1741. The same versions,
-[p. xii] with additions, were collected by Lipscombe, and published
-in 1795. As it is impossible to praise these editions for any
-resemblance to the original, it would be far more agreeable
-to pass them without further remark; but our readers will
-naturally expect some proofs in support of the judgment
-thus hazarded. It is earnestly requested, however, that the
-following brief review may not be understood as given for
-the sake of criticism, but solely out of reverence towards
-Chaucer, who has not been fairly treated.  ...
-[p. xxi] Perhaps the best in execution of these paraphrases (of
-course excepting those of Dryden and Pope) are the tales
-furnished by Mr. Boyce; at all events they are the most
-ambitious. He renders the "Squire's Tale" in stanzas. The
-opening, it must be acknowledged, is high and imposing :—
-"Where peopled Scythia’s verdant plains extend"
-[and six following lines].
-Many readers may perhaps admire the lofty tone of this open¬
-[pp. xii- [A review in more detail of previous modernisations, in
-ing stanza–but why associate it with the name of Chaucer?
-xxxi]
-which severe criticism is passed upon the freedoms and the
-vulgarisations allowed themselves by many of the modernisers;
-but Lord Thurlow’s version of The Flower and the Leaf is
-praised for its fidelity.]
-[p. xxxi] There may be several methods of rendering Chaucer in
-modern English. It will be sufficient, however, to mention
-the two extremes. The advocates of the one argue–that in
-order to render Chaucer truly, it must be done in the spirit
-rather than in the letter; simply because so much of the
-letter, or words, of his period differ both in sound and sense
-[p. xxxii] from those now in use.  . . . The advocates of the opposite
-method argue, that all the substantial material and various
-rhythm of Chaucer should be adopted as far as possible.  ...
-To retain or preserve the existing substance is the rule; to
-rewrite and paraphrase is the exception.  ...
-[p. xxxiii] The safest method, as the most becoming, is manifestly that
-of preserving as much of the original substance as can be
-rendered available.  ...
-[pp.
-xxxvii-
-xciii]
-[An examination of Chaucer's rhythm, shewing that he
-“ was a most harmonious and melodious poet.”]
-[pp.
-xciii-cv]
-[Chaucer’s broad sympathy, pathos, graphic power and true
-morality and piety.]
-[pp. cvii-
-cxxxviii]
-[Professor L. Schmitz’s “Life of Geoffrey Chaucer,” con¬
-taining the errors based on acceptance of the Court of Love
-and the Testament of Love.]</seg>
+          <seg><add>[Contents:]</add>
+            <lb/>Title page, with quotation from Drayton’s poem, ‘To . . .
+            Henry Reynolds’ <add>[q. v. above, 1627, vol. i, p. 200]</add>, wrongly
+            signed ‘Wordsworth.’
+            <lb/>Introduction, by R. H. Horne, headed by quotation "For
+            out of the olde fieldés," etc., pp. v-cv.
+            <lb/>Life of Chaucer, by Professor Leonhard Schmitz, pp. cviii,
+            cxxxviii.
+            <lb/>Eulogies on Chaucer, by his contemporaries and others, pp.
+            cxxxix-cxlvii.
+            <lb/>Prologue to the Canterbury Tales, by R. H. Horne, pp.
+            3-33.
+            <lb/>The Cuckoo and the Nightingale, by William Wordsworth,
+            pp. 37-53.
+            <lb/>The Legends of Ariadne, Philomene, and Phillis, by Thomas
+            Powell, pp. 57-86.
+            <lb/>The Manciple's Tale, by Leigh Hunt, pp. 88-106.
+            <lb/>The Rime of Sir Thopas, by Z. A. Z., pp. 109-123.
+            <lb/>Extract from Troilus and Cressida, by William Wordsworth,
+            pp. 127-135.
+            <lb/>The Reve’s Tale, by R. H. Horne, pp. 138-159.
+            <lb/>The Flower and the Leaf, by Thomas Powell, pp. 162-191.
+            <lb/>The Friar's Tale, by Leigh Hunt, pp. 195-209.
+            <lb/>The Complaint of Mars and Venus, by Robert Bell, pp. 213-
+            234.
+            
+            <milestone unit="page" n="235"/>
+            
+            <lb/>Queen Annelida and False Arcite, by Elizabeth B. Barrett,
+            pp. 237-257.
+            <lb/>The Squire's Tale, by Leigh Hunt, pp. 260-287 <add>[Hunt's
+            second version : for the first see above, 1823]</add>.
+            <lb/>The Franklin’s Tale, by R. H. Horne, pp. 290-331.</seg>
+            
+          <seg><add>[From Horne’s Introduction, we print the following:]</add>
+            <note place="margin">[p. v]</note>The present publication does not result from an antiquarian
+            feeling about Chaucer, as the Father of English Poetry, highly
+            interesting as he must always be in that character alone; but
+            from the extraordinary fact, to which there is no parallel in
+            the history of the literature of nations,—that although he is
+            one of the great poets for all time, his works are comparatively
+            unknown to the world. Even in his own country, only
+            a very small class of his countrymen ever read his poems.
+            Had Chaucer's poems been written in Greek or Hebrew, they
+            <note place="margin">[p. vi]</note>would have been a thousand times better known. They
+            would have been translated. Hitherto they have had almost
+            everything done for them that a nation could desire, in so far
+            as the most careful collation of texts, the most elaborate
+            essays, the most ample and erudite notes and glossaries, the
+            most elaborate and classical (as well as the most trite and
+            vulgar) paraphrases, the most eloquent and sincere admiration
+            and comments of genuine poets, fine prose writers, and scholars
+            —everything, in short, has been done, except to make them
+            intelligible to the general reader.</seg>
+            
+          <seg>Except in the adoption of a modern typography, Chaucer's
+            poems have always appeared hitherto, under no better
+            auspices for modern appreciation than on their first day of
+            publication, some three centuries and a half ago. Concerning
+            the various attempts to render several of his poems available
+            to the public, which have been made at intervals by poets
+            and lovers of Chaucer, a few remarks will shortly be submitted.
+            With whatever reverence or admiration these latter
+            may have been received by the readers of those poets who
+            <note place="margin">[p. vii]</note>introduced such specimens among their own works, it is certain
+            that they produced no perceptible effect in the popularity of
+            the original author.</seg>
+            
+          <seg>Whether there has been a feeling in the public about
+            Chaucer, amounting to a sort of unconscious resentment at the
+            total inability to read his poems without first bestowing the
+            same pains upon his glossary, which has been more willingly
+            
+            <milestone unit="page" n="236"/>
+            
+            accorded to poetry and prose in the Scottish dialect; or
+            whether on account of certain passages which in the present
+            state of refinement appear offensive to a degree that the good
+            folks of Chaucer's time, as well as the poet himself, could
+            never have contemplated, it is not necessary to determine.
+            Such an antipathy to the study of his language does exist;
+            and-while we, curiously enough, find Chaucer sometimes
+            apologizing, with meek humility and gentilesse, for using
+            some expressions which are now in common use, but which
+            were considered very improper in his day-it is undeniable
+            that various passages and expressions occur here and there,
+            <note place="margin">[p. viii]</note>in his works, which are calculated to startle a modern reader,
+            and make him doubt his eyes. Howbeit, this great fact is
+            sufficiently apparent,—that Chaucer is a poet, and a founder
+            of the language of his country; (taking rank as such, with
+            Homer and with Dante, and being the worthy forefather of
+            Shakespeare, Spenser, and Milton;) whose poetry is comparatively
+            unread and unknown even in his own country. The
+            simple statement of such a fact will sufficiently explain the
+            feeling which, in all sincerity and reverent admiration, has
+            prompted those who have united in this present undertaking.</seg>
+            
+          <seg>From what has been said, it will be readily apprehended,
+            that this attempt at a translation, or transfusion, of Chaucer
+            into modern English, is by no means intended for the reading
+            of those, who, being learned in the black letter, or familiar
+            with the dialect of the period, can and do read the great poet
+            with facility and delight. It is expressly intended for all
+            that vast majority of our countrymen, and of foreigners
+            acquainted with the English and English literature, who
+            <note place="margin">[p. ix]</note>are unable to do this; and who, either from indisposition,
+            or the want of sufficient leisure, have never given the study
+            requisite for a right appreciation of the author's meaning,
+            but who, at the same time, having a genuine love for noble
+            poetry, would rejoice to find such labours superseded by a
+            faithful version of the great poet, bereft of his obsolete dialect.
+            The project has already received demonstration of the utmost
+            sympathy from many high quarters at home and abroad,
+            while the work was going through the press; and we have
+            at present only met with one individual of literary eminence
+            <add>[Landor, q.v. below, 1841]</add>, who boldly declared, that he still
+            wished "to keep Chaucer for himself and a few friends."</seg>
+            
+          <seg>The grand obstacle to be surmounted in reading Chaucer
+            
+            <milestone unit="page" n="237"/>
+            
+            has, of course, been always, that of his obsolete dialect; but
+            one of the main causes of his poems remaining so long without
+            modernizing (for they have hitherto been only paraphrased
+            in a very free manner), is because they are all in
+            rhyme. Here begins the first and most trying difficulty in
+            <note place="margin">[p. x]</note>rendering his poems available to the public of the present
+            time. To translate his poems into blank verse, would be
+            losing a characteristic feature of the original; to give the
+            rhymes he uses is often impossible, because the words
+            themselves, or the grammatical structure of the terminations are
+            obsolete; to substitute rhymes of similar quantity and sound
+            can seldom be successfully accomplished, because it has a
+            tendency, when you are struggling to obtain the sense of the
+            passage, to induce a mechanical awkwardness; and to supply
+            new rhymes generally requires that a whole line, if not the
+            couplet, must be changed in rhythm or totally remodelled.
+            In the attempts, therefore, which have been hitherto made
+            (with the exception of two of the Tales, modernized by Lord
+            Thurlow and Mr. Wordsworth) the whole substantial material
+            of Chaucer has been left as it stood, and the leading ideas only
+            being adopted, a new poem has been written with more or less
+            ability and verisimilitude, according to the genius and talent
+            of the individual and the principle on which he proceeded.</seg>
+            
+          <seg>The versions of Chaucer which have been given by Dryden
+            <note place="margin">[p. xi]</note>and Pope, are elaborate and highly finished productions, read¬
+            ing exactly like their own poems, and not bearing the slightest
+            resemblance to Chaucer. Even his finest lines and couplets
+            which often require little or nothing more than a change in
+            the orthography, have scarcely ever been retained. Every¬
+            thing was paraphrased, made fluent, sounding, and full of
+            "effects"; though it is equally true, that Chaucer occasionally
+            received a very noble present from Dryden, for which nothing
+            more than a suggestion is traceable in the original. Their
+            versions of several of the Canterbury Tales, bearing the dates
+            of 1699 and 1711, were subsequently adopted by Ogle,
+            together with some of his own, and of sundry other writers,
+            and published in three volumes in 1741. The same versions,
+            <note place="margin">[p. xii]</note>with additions, were collected by Lipscombe, and published
+            in 1795. As it is impossible to praise these editions for any
+            resemblance to the original, it would be far more agreeable
+            to pass them without further remark; but our readers will
+            naturally expect some proofs in support of the judgment
+            
+            <milestone unit="page" n="238"/>
+            
+            thus hazarded. It is earnestly requested, however, that the
+            following brief review may not be understood as given for
+            the sake of criticism, but solely out of reverence towards
+            Chaucer, who has not been fairly treated. . . .</seg>
+            
+          <seg><note place="margin">[p. xxi]</note>Perhaps the best in execution of these paraphrases (of
+            course excepting those of Dryden and Pope) are the tales
+            furnished by Mr. Boyce; at all events they are the most
+            ambitious. He renders the "Squire's Tale" in stanzas. The
+            opening, it must be acknowledged, is high and imposing :—
+            "Where peopled Scythia’s verdant plains extend"
+            <add>[and six following lines]</add>.
+            Many readers may perhaps admire the lofty tone of this opening
+            stanza–but why associate it with the name of Chaucer?</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. xii-xxxi]</note>[A review in more detail of previous modernisations, in
+            which severe criticism is passed upon the freedoms and the
+            vulgarisations allowed themselves by many of the modernisers;
+            but Lord Thurlow’s version of <hi rend="italic">The Flower and the Leaf</hi> is
+            praised for its fidelity.]</seg>
+            
+          <seg><note place="margin">[p. xxxi]</note>There may be several methods of rendering Chaucer in
+            modern English. It will be sufficient, however, to mention
+            the two extremes. The advocates of the one argue–that in
+            order to render Chaucer truly, it must be done in the spirit
+            rather than in the letter; simply because so much of the
+            letter, or words, of his period differ both in sound and sense
+            <note place="margin">[p. xxxii]</note>from those now in use. . . . The advocates of the opposite
+            method argue, that all the substantial material and various
+            rhythm of Chaucer should be adopted as far as possible. . . .
+            To retain or preserve the existing substance is the rule; to
+            rewrite and paraphrase is the exception. . . .</seg>
+            
+          <seg><note place="margin">[p. xxxiii]</note>The safest method, as the most becoming, is manifestly that
+            of preserving as much of the original substance as can be rendered available. . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. xxxvii- xciii]</note>[An examination of Chaucer's rhythm, shewing that he
+            "was a most harmonious and melodious poet."]</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. xciii-cv]</note>[Chaucer’s broad sympathy, pathos, graphic power and true morality and piety.]</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. cvii-cxxxviii]</note>[Professor L. Schmitz’s "Life of Geoffrey Chaucer,"
+            containing the errors based on acceptance of the Court of Love and the Testament of Love.]</seg>
         </ab>
       </div>
     </body>

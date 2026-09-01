@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p129_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p129_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,7 +36,7 @@
           <analytic>
             <author cert="low" role="M" ref="http://viaf.org/viaf/69699764">Wainewright, Thomas Griffiths</author>
             <date cert="high" when="1820">1820</date>
-            <title level="a">Modest Offer of Service from Mr. Bonmot to the Editor of the “London Magazine."</title>
+            <title level="a">Modest Offer of Service from Mr. Bonmot to the Editor of the "London Magazine."</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="129"/>
         
-        <ab type="imprint">1820. [Wainewright, Thomas Griffiths?] <hi rend="italic">Modest Offer of Service from Mr. Bonmot to the Editor of the “London Magazine,"</hi> [in] The London Magazine, Jan., 1820, pp. 22, 24. [Ascribed to Waine wright conjecturally and reprinted in Essays and Criticisms by T. G. Wainewright, 1880, pp. 2, 9.]</ab>
+        <ab type="imprint">1820. [Wainewright, Thomas Griffiths?] <hi rend="italic">Modest Offer of Service from Mr. Bonmot to the Editor of the "London Magazine,"</hi> [in] The London Magazine, Jan., 1820, pp. 22, 24. [Ascribed to Waine wright conjecturally and reprinted in Essays and Criticisms by T. G. Wainewright, 1880, pp. 2, 9.]</ab>
         
         <ab type="quotation">
           <seg type="editorial">[The 'modest offer' in the form of a letter is followed by
@@ -98,7 +96,7 @@
               <l>From what trunk Chaucer was a sprout;—</l>
               <l>A noble one some say:</l>
               <l>But whispers go, that Chaucer's father</l>
-              <l>A vintner was–or cobbler rather–</l>
+              <l>A vintner was—or cobbler rather—</l>
               <l>Hence his French name–Chaucier.</l>
             </lg>
           </seg>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p120_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p120_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +85,7 @@
       <div type="allusion">
         <milestone unit="page" n="120"/>
         
-        <ab type="imprint">[a. 1819.] Watt, Robert. <hi rend="italic">Bibliotheca Britannica</hi>; in Two Parts :— Authors and Subjects. Edinburgh, 1824, volume i.— Authors, p. 218 d-t, Chaucer, Jeffery; volume iii.—Subjects, sign. 2 J 2: Chaucer, Jeffery.<note type="footnote">[Watt died 12th March, 1819, when only a few sheets had been printed off. The book appeared in parts, Glasgow, 1819-20, and the complete work has title-pages dated 1824. See D.N.B.]</note></ab>
+        <ab type="imprint">[a. 1819.] Watt, Robert. <hi rend="italic">Bibliotheca Britannica</hi>; in Two Parts :— Authors and Subjects. Edinburgh, 1824, volume i.— Authors, p. 218 d-t, Chaucer, Jeffery; volume iii.—Subjects, sign. 2 J 2: Chaucer, Jeffery.<note type="footnote">Note in Spurgeon: [Watt died 12th March, 1819, when only a few sheets had been printed off. The book appeared in parts, Glasgow, 1819-20, and the complete work has title-pages dated 1824. See D.N.B.]</note></ab>
       </div>
     </body>
   </text>

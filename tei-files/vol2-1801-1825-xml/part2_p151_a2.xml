@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p151_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p151_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="imprint">1824. Lamb, Charles. <hi rend="italic">Letter</hi> to Bernard Barton, [dated] May 15, 1824. (The Works of Charles and Mary Lamb, ed. E. V. Lucas, 1903-5, 7 vols., vol. vii, p. 643.)</ab>
         
         <ab type="quotation">
-          <seg>His <add>[Blake's]</add> Pictures–one in particular, the Canterbury
+          <seg>His <add>[Blake's]</add> Pictures—one in particular, the Canterbury
             Pilgrims (far above Stothard’s)—have great merit, but hard,
             dry, yet with grace. He has written a Catalogue of them
             with a most spirited criticism on Chaucer, but mystical and

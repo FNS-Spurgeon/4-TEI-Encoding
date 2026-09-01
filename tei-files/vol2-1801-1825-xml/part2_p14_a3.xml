@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p14_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p14_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="imprint">1803. Z. <hi rend="italic">Letter</hi>, [in] The Gentleman's Magazine, vol. lxxiii, part i, p. 8.</ab>
         
         <ab type="quotation">
-          <seg>Mr. Tyrwhitt laments that the author of “Mémoires pour
+          <seg>Mr. Tyrwhitt laments that the author of "Mémoires pour
             la Vie de Pétrarque" never indulged the publick with his
             promised account of the (supposed) interview between Petrarch
             and Chaucer. May we not hope that the deficiency which

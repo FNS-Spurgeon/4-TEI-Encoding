@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p94_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p94_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +89,7 @@
         <ab type="imprint">1818. B., C. <hi rend="italic">General Remarks upon the Peculiar Styles and Excellences of the best British Poets</hi>, [in] The Gentleman's Magazine, October, vol. lxxxviii, pp. 294-6.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A very fair criticism, pointing out Chaucer's gift for describing the ‘real manners of ordinary life’–as shown in
+          <seg type="editorial">[A very fair criticism, pointing out Chaucer's gift for describing the ‘real manners of ordinary life’—as shown in
             the Canterbury Tales. The description of the Temple of
             Mars (Knight's Tale) is quoted, and then:]</seg>
             

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p6_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p6_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -77,7 +75,7 @@
       <textClass>
         <catRef scheme="#biography" target="#english"/>
         <catRef scheme="#works" target="#troilus"/>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -152,7 +150,7 @@
             <milestone unit="page" n="8"/>
             
             we combine our examination of it, with a recollection of the times
-            and circumstances in which it was produced. <note place="margin">[p. 302]</note><add>[The “languid
+            and circumstances in which it was produced. <note place="margin">[p. 302]</note><add>[The "languid
             and perishing” state of the English tongue in Chaucer's
             time.]</add> . . . <add>[Chaucer]</add> surprised his countrymen with a poem,
             eminently idiomatic, clear and perspicuous in its style, as well

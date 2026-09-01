@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p48_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p48_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,9 +86,9 @@
         <ab type="imprint">1809. Unknown. <hi rend="italic">Review of Partonopex of Blois, a Romance, freely translated from the French of M. Le Grand . . . by William Stewart Rose</hi>, [in] The Edinburgh Review, Jan., 809, vol. xiii, p. 422.</ab>
         
         <ab type="quotation">
-          <seg>Spenser, and other old ballads, grafted on a modem versifica¬
-            We can hardly conceive that a motley dialect of Chaucer,
-            tion, could be familiar to any one's understanding . . .</seg>
+          <seg>We can hardly conceive that a motley dialect of Chaucer,
+            Spenser, and other old ballads, grafted on a modem versification,
+            could be familiar to any one's understanding . . .</seg>
             
           <seg>Child . . . never occurs in Chaucer . . .</seg>
         </ab>

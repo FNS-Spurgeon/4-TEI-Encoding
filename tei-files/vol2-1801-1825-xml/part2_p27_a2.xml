@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p27_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p27_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,14 +83,14 @@
       <div type="allusion">
         <milestone unit="page" n="27"/>
         
-        <ab type="imprint">1806. Chalmers, George. <hi rend="italic">Notes to Poetical Works of Sir David Lyndsay ... with a life... dissertation, and... glossary</hi>, 3 vols.</ab>
+        <ab type="imprint">1806. Chalmers, George. <hi rend="italic">Notes to Poetical Works of Sir David Lyndsay . . . with a life . . . dissertation, and . . . glossary</hi>, 3 vols.</ab>
         
         <ab type="quotation">
           <seg type="editorial">[Vol. i (Life and Dissertation): statement that there were
             12 edns. of Chaucer between 1475 and 1602, and that none was
             printed out of England; Chaucer master of Scots and English
             Poets, pp. 90, 99; citation from <hi rend="italic">The Flyting of Montgomery and
-            Polwart</hi>: “Fra Lyndsay thou tuik, thou’rt Chaucer’s cuik,” p. 102;
+            Polwart</hi>: "Fra Lyndsay thou tuik, thou’rt Chaucer’s cuik,” p. 102;
             Chaucer and the Scots poets, pp. 123, 127, 131 ; Chaucer and
             James I, pp. 134-6; Chaucer and Lydgate, p. 189 n.; versification,
             pp. 180-2; language, pp. 138, 141, 144-53, 155-9, 165, 168-179,

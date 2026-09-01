@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p27_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p27_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,14 +90,14 @@
             sister's directions. . . . The Spencer <add>[sic]</add> and the Chaucer,
             being noble old books, we did not think Stockdale’s modern
             volumes <add>[of Shakespeare]</add> would look so well beside them.
-            ... The state of the purchase then stands thus,
+            . . . The state of the purchase then stands thus,
             <table cols="5" rows="6">
               <row role="data"><cell>Urry’s Chaucer . . . .</cell><cell>£1</cell><cell>16</cell><cell>—</cell></row>
-              <row role="data"><cell>Pope's Shakespeare . . . .</cell><cell>2</cell><cell>2</cell><cell>–</cell></row>
-              <row role="data"><cell>Spenser <add>[sic]</add> . . . . .</cell><cell></cell><cell>14</cell><cell>–</cell></row>
-              <row role="data"><cell>Milton. . . . . .</cell><cell>1</cell><cell>5</cell><cell>–</cell></row>
-              <row role="data"><cell>Packing Case, &amp;c. . . . .</cell><cell></cell><cell>3</cell><cell>6</cell></row>
-              <row role="data"><cell></cell><cell>6</cell><cell>—</cell><cell>6</cell></row>
+              <row role="data"><cell>Pope's Shakespeare . . . .</cell><cell>2</cell><cell>2</cell><cell>—</cell></row>
+              <row role="data"><cell>Spenser <add>[sic]</add> . . . . .</cell><cell/><cell>14</cell><cell>—</cell></row>
+              <row role="data"><cell>Milton. . . . . .</cell><cell>1</cell><cell>5</cell><cell>—</cell></row>
+              <row role="data"><cell>Packing Case, &amp;c. . . . .</cell><cell/><cell>3</cell><cell>6</cell></row>
+              <row role="data"><cell/><cell>6</cell><cell>—</cell><cell>6</cell></row>
             </table>
           </seg>
         </ab>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p133_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p133_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -97,7 +95,7 @@
             <add>[and six following lines]</add>.
             <lb/>The Canon's Yeoman's Prologue <add>[ed. Skeat, ll. 620-26]</add>.</seg>
             
-          <seg><note place="margin">[vol. ii, p. 109]</note>"O, she is well attended, Madam,” replied the dame whom
+          <seg><note place="margin">[vol. ii, p. 109]</note>"O, she is well attended, Madam," replied the dame whom
             she addressed, who from her jolly and laughter-loving demeanour,
             might have been the very emblem of the wife of Bath.</seg>
             

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p139_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p139_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +89,7 @@
           <seg><note place="margin">[vol. ii, p. 108]</note>"A dainty dame, and dangerous, is the miller's wife," said
             the stranger, looking at Peveril. "Is not that old Chaucer's
             phrase?"
-            <lb/>"I–I believe so," said Peveril, not much read in Chaucer,
+            <lb/>"I—I believe so," said Peveril, not much read in Chaucer,
             who was then even more neglected than at present . . .
             <lb/>"Yes," answered the Stranger; "I see that you, like other
             young gentlemen of the time, are better acquainted with

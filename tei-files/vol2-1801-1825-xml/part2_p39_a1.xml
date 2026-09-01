@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p39_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p39_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,13 +91,13 @@
         <ab type="imprint">1808. Scott, Sir Walter. <hi rend="italic">Works of John Dryden</hi>, 18 vols., vol. i, Life of John Dryden, pp. 171, 427, 430, 441, 444, 494-96, 498-503, 505. <lb/>Notes to Troilus and Cressida, vol. vi, pp. 228, 229, 230. <lb/>Notes to Preface to the Fables, vol. xi, pp. 215, 216, 217, 220, 221, 222, 223, 226, 230, 232, 233, 235. <lb/>Notes to Palamon and Arcite, vol. xi, pp. 243 [a long note on the origins of the Knight's Tale, with critical remarks on Chaucer's treatment of it], 245, 246, 255, 256, 267, 280, 286, 287, 289, 303, 309, 311, 312. <lb/>Notes to The Cock and the Fox, vol. xi, pp. 326 [critical remarks on Chaucer's treatment], 333, 339, 343, 350, 352. <lb/>Notes to The Flower and the Leaf, vol. xi, pp. 354, 372. <lb/>Notes to The Wife of Bath, vol. xi, pp. 376 [critical remarks on Chaucer's tale], 378, 382. <lb/>Note on Good Parson, vol. xi, p. 394.</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[Vol.i, p. 494]</note>The “Knight's Tale," the longest and most laboured of
+          <seg><note place="margin">[Vol.i, p. 494]</note>The "Knight's Tale," the longest and most laboured of
             Chaucer’s stories, possesses a degree of regularity which might
             satisfy the most severe critic.</seg>
           
-          <seg type="editorial">[The honour of this, says Scott, is due to Chaucer. Passages follow on Dryden's treatment of the Knight’s Tale.]</seg>
-            
-          <lb/>. . . . . . . . . .
+          <seg type="editorial">[The honour of this, says Scott, is due to Chaucer. Passages follow on Dryden's treatment of the Knight’s Tale.]
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 498]</note>With Chaucer, Dryden’s task was more easy than with
             Boccacio. Barrenness was not the fault of the Father of
@@ -111,7 +109,7 @@
             idea, which is not found in the older poem. But Dryden has
             judiciously omitted or softened some degrading and some
             disgusting circumstances; as the "cook scalded in spite of his
-            long ladle," the “swine devouring the cradled infant," the
+            long ladle," the "swine devouring the cradled infant," the
             "pick-purse," and other circumstances too grotesque or
             ludicrous, to harmonize with the dreadful group around them.
             Some points, also, of sublimity, have escaped the modern
@@ -140,10 +138,10 @@
             But the modern must yield the palm, despite the beauty of
             his versification, to the description of Emily by Chaucer; and
             may be justly accused of loading the dying speech of Arcite
-            with conceits for which his original gave him no authority.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            with conceits for which his original gave him no authority.
+            <lb/>. . . . . . . . . .
+          </seg>
+                        
           <seg type="editorial"><note place="margin">[p. 501]</note>[The French element in Chaucer's language.]</seg>
             
           <seg><note place="margin">[p. 502]</note>Upon the whole, in introducing these romances of Boccacio
@@ -160,10 +158,9 @@
             description, he has added even to the chivalrous splendour
             <note place="margin">[p. 503]</note> of Chaucer, and has graced with poetical ornament the
             simplicity of Boccacio; that, if he has failed in tenderness, he is
-            never deficient in majesty.</seg>
-          
-          <lb/>. . . . . . . . . .
-            
+            never deficient in majesty.
+            <lb/>. . . . . . . . . .</seg>
+                      
           <seg><note place="margin">[Vol. xi, p. 245]</note>The "Knight's Tale," whether Chaucer's or Dryden's
             version, is one of the finest pieces of composition in our
             language. . . . The work of Chaucer cannot, however, properly
@@ -172,10 +169,9 @@
             bard. He abridged the prolix, and enlarged the poetical,
             parts of the work; compressed the whole into one concise
             and interesting tale; and left us an example of a beautiful
-            heroic poem.</seg>
-            
-          <lb/>. . . . . . . . . .
-          
+            heroic poem.
+            <lb/>. . . . . . . . . .</seg>
+                      
           <milestone unit="page" n="41"/>
           
           <seg><note place="margin">[p. 326]</note><add>[Note before "The Cock and the Fox."]</add> Tyrwhitt
@@ -185,10 +181,10 @@
             which may be found in Tyrwhitt's "Preliminary Discourse,"
             was amplified by Chaucer into a poem, which, in grave, ironical
             narrative, liveliness of illustration, and happiness of humorous
-            description, yields to none that ever was written.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            description, yields to none that ever was written.
+            <lb/>. . . . . . . . . .
+          </seg>
+                        
           <seg><note place="margin">[p. 376]</note><add>[Note before "The Wife of Bath."]</add> . . . What was a mere
             legendary tale of wonder in the rhime of the minstrel, and a
             vehicle for trite morality in that of Gower, in the verse of Chaucer
@@ -201,10 +197,10 @@
             composing romantic legends, in which the real character of
             their heroes was as effectually disguised by the stiffness
             of their manners as their shapes by the sharp angles and
-            unnatural projections of their plate armour.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            unnatural projections of their plate armour.
+            <lb/>. . . . . . . . . .
+          </seg>
+                        
           <seg><note place="margin">[p. 394]</note><add>[Note before "The Character of a Good Parson."]</add> This
             beautiful copy of a beautiful original makes us regret, that
             Dryden had not translated the whole Introduction to the

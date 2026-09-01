@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p128_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p128_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -95,7 +93,7 @@
             below, 1821, <hi rend="italic">Kenilworth</hi>, and 1828, <hi rend="italic">Tales of a Grandfather</hi>.]</note></seg>
             
           <seg><note place="margin">[vol. i, p. 154]</note>But then a miller should always be of manly make, and
-            has been described so since the days of Chaucer and James I.<note type="footnote">Note in Spurgeon: The verse we have chosen for a motto, is from a poem imputed to James I. of Scotland. As for the Miller who figures among the Canterbury Pilgrims, besides his sword and buckler, he boasted other attributes, all of which, but especially the last, shew that he relied more on the strength of the outside than of the inside of his skull. <lg><l>The miller was a stout carl for the nones,</l> <l>Full big he was of brawn, and eke of bones;</l> <l>That proved well, for wheresoe’r he cam,</l> <l>At wrestling he wold bear away the ram:</l> <l>He was short-shoulder'd, broad, a thick gnar;</l> <l>There n’as no door that he n’old heave of bar,</l> <l>Or break it at a running with his head, &amp;c.</l> <note place="right">[Prol, ll. 545-51.]</note></lg></note></seg>
+            has been described so since the days of Chaucer and James I.<note type="footnote">Note in Spurgeon: The verse we have chosen for a motto, is from a poem imputed to James I. of Scotland. As for the Miller who figures among the Canterbury Pilgrims, besides his sword and buckler, he boasted other attributes, all of which, but especially the last, shew that he relied more on the strength of the outside than of the inside of his skull. <lg><l>The miller was a stout carl for the nones,</l> <l>Full big he was of brawn, and eke of bones;</l> <l>That proved well, for wheresoe’r he cam,</l> <l>At wrestling he wold bear away the ram:</l> <l>He was short-shoulder'd, broad, a thick gnar;</l> <l>There n’as no door that he n’old heave of bar,</l> <l>Or break it at a running with his head, &amp;c.</l> <note place="right">[<hi rend="italic">Prol.</hi>, ll. 545-51.]</note></lg></note></seg>
             
           <seg><note place="margin">[vol. ii, p. 164]</note>[Brief reference to Chaucer's Knight, and quotation of <hi rend="italic">Prol.</hi> l. 69.]</seg>
         </ab>

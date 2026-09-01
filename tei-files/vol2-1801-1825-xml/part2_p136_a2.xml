@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p136_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p136_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="quotation">
           <seg>
             <lg>
-              <l>"Sweet is the holiness of Youth"–so felt</l>
+              <l>"Sweet is the holiness of Youth"—so felt</l>
               <l>Time-honoured Chaucer speaking through that Lay</l>
               <l>By which the Prioress beguiled the way,</l>
               <l>And many a Pilgrim’s rugged heart did melt.</l>
@@ -103,7 +101,7 @@
               <l>Thy heart! what hopes inspired thy genius, skilled</l>
               <l>(O great Precursor, genuine morning Star)</l>
               <l>The lucid shafts of reason to employ,</l>
-              <l>Piercing the Papal darkness from afar!<note type="footnote">Note in Spurgeon: [The <hi rend="italic">Ecclesiastical Sonnets</hi>–previously <hi rend="italic">Ecclesiastical Sketches</hi>–were, with some exceptions, written at Rydal Mount in 1821, and printed in 1822.]</note></l>
+              <l>Piercing the Papal darkness from afar!<note type="footnote">Note in Spurgeon: [The <hi rend="italic">Ecclesiastical Sonnets</hi>—previously <hi rend="italic">Ecclesiastical Sketches</hi>—were, with some exceptions, written at Rydal Mount in 1821, and printed in 1822.]</note></l>
             </lg>
           </seg>
         </ab>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1837, Hippisley, John Henry.. Chapters on Early English Literature.</title>
+        <title>1837, Hippisley, John Henry. Chapters on Early English Literature.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -75,12 +75,12 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#evolution"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#realism"/>
         <catRef scheme="#criticism" target="#refiningEnglish"/>
         <catRef scheme="#criticism" target="#obsoleteRude"/>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -91,199 +91,244 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="212"/>
-        <ab type="imprint">1837. Hippisley, John Henry. Chapters on Early English Literature. Introduction, pp. ix-xii, ch. i, English Language and Literature previous to Chaucer-Character of Chaucer's earlier poems–Literary taste during the reign of Edward III; ch. ii, Reputation of Chaucer in various ages; ch. iii, Remarks on the biography of Chaucer; ch. iv, Observations on some of Chaucer's earlier poems; ch. v, The Canterbury Pilgrimage; ch. vi, Prose Works of Chaucer and his contemporaries; ch. vii, English Literature from Chaucer to Spenser; ch. viii, English Literature in the age of Shakespeare [numerous Chaucer references]; Appendix, Specimens of Chaucer's poetry.</ab>
+        
+        <ab type="imprint">1837. Hippisley, John Henry. <hi rend="italic">Chapters on Early English Literature</hi>. Introduction, pp. ix-xii, ch. i, English Language and Literature previous to Chaucer-Character of Chaucer's earlier poems–Literary taste during the reign of Edward III; ch. ii, Reputation of Chaucer in various ages; ch. iii, Remarks on the biography of Chaucer; ch. iv, Observations on some of Chaucer's earlier poems; ch. v, The Canterbury Pilgrimage; ch. vi, Prose Works of Chaucer and his <milestone unit="page" n="213"/> contemporaries; ch. vii, English Literature from Chaucer to Spenser; ch. viii, English Literature in the age of Shakespeare [numerous Chaucer references]; Appendix, Specimens of Chaucer's poetry.</ab>
+        
         <ab type="quotation">
-          <seg>[p. ix] [Chaucer gives the best picture in early literature of con¬
-temporary manners and is most valuable to students of the
-[p. x] [Difficulty of Chaucer's language easily surmounted.]
-intellectual and moral conditions of man.]
-[Chapter II. Admiration for Canterbury Tales, which open
-to us the true character of his genius, not evinced till com¬
-paratively late period doubtless because of the satire they
-contain on the Catholic Clergy.]
-[p. 42] But the neglect which this great work experienced at the
-hands of critics, extends beyond the period of the Reforma¬
-tion. Fox, the martyrologist, eulogises Chaucer, not for his
-comic and satiric powers, but for "his true Wicklevian spirit;"
-and, with the exception of Beaumont's apology [1602 edition
-of Chaucer], for the ribaldry of the comic tales, and a
-passage in Puttenham's Arte of English Poetrie, there is
-scarcely any distinct recognition of the poetical merits of the
-Canterbury Pilgrimage anterior to Dryden.
-[p. 45] [Chaucer affords a wonderful contrast of pathos and humour
-and in neither was he understood previous to the days of
-Puttenham and Spenser.]
-The earliest successors of Chaucer, John the Chaplain,
-[p. 46] Occleve, and Lydgate, in celebrating the praises, or lamenting
-the death, of their "greate maister," all harp upon one theme:
-the eloquence, or "rhetoricke," as they usually style it, of the
-departed poet.
-[p. 49] [Chaucer compared to Petrarch. Leland and Thynne
-praise Chaucer for his style and learning, not for his poetry.]
-This practical and philosophical view of the merits of
-Chaucer continued in force till the latter years of the sixteenth
-century. Webbe, in his “Discourse of English Poetry,”
-praises the poet in the spirit of Fox, Bale, or the most zealous
-Protestants.
-Puttenham, a contemporary of Webbe, is the first critic
-who seems in any degree to understand either the history of
-our author's works, or their poetical merits.
-[p. 50] [Puttenham is then quoted; see above, vol. i, p. 125.]
-This passage, though it does not display any very deep
-knowledge in literary history, may, considering the age in
-which it was written, be regarded as a masterly outline of
-the poetical character of our author, and forms a striking
-[p. 51] contrast to the vagueness with which Sidney, in his "Defence
-of Poesie," characterized the poet, "as seeing clearly in a
-mystic [sic for 'mystie'] time,” and as “beautifying our mother
-tongue."...
-Up to the days of Leland and William Thynne, there was, as
-we have seen, but one opinion on this subject. Chaucer was
-the “floure of rhetoricke," the “garnisher of Englishe rude."
-Webbe first ventures to hint that “the manner of his style may
-seeme blunt and course to many fine English eares at these days."
-In the days of which Webbe speaks, the English tongue, besides
-the natural polish which it had acquired from the labours of
-[p. 52] successive writers, was also affectedly interlarded with artificial
-ornaments, borrowed chiefly from the Spanish and Italian
-languages. These “ink-horn terms," as they were called, form
-a frequent theme of ridicule in the comedies of Ben Jonson
-and Shakspeare.  ... [Prevalence of Euphuism, and Spenser's
-preference for Chaucer’s speech.] The genuine English style
-of this age lay between the obsolete diction of Chaucer, and
-the affectations above-mentioned. This is accurately felt,
-and sensibly pointed out, by an old writer somewhat senior to
-Spenser. [Ashton is then quoted; see above, vol. i, p. 87.]
-[p. 53] Verstegan, in his Restitution of Decayed Intelligence
-[q. v. above, vol. i, p. 176], and Skinner, in the preface to his
-Etymologicon Anglicanum [q. v. above, vol. i, p. 243], have
-censured Chaucer for what formed the constant argument in
-his praise, up to the Elizabethan period of our literature:
-namely, for the introduction of French terms into English.
-[p. 54] Rymer [q. v. above, vol. i, p. 265], in a passage which shows
-that he has reaped the full advantage of the philological
-labours of our poet, first introduces him to us as a recruiting
-officer of our language; and afterwards, proceeding more
-scientifically to explain the chemical process, by which that
-tongue was formed, he represents Chaucer as a skilful brewer
-of English.  ...
-[On the increase of expressions from a foreign tongue, as a
-nation becomes more literary.]
-Amongst those who first "employed themselves to the
-beautifying and bettering of the English tongue" (to use the
-words of his oldest editor, William Thynne), was "that noble
-and famous clerke, Geffray Chaucer."
-[p. 55] But in the interval which had elapsed between the days of
-"Old Dan Geffrey, in whose gentle spright
-The pure well-head of poetry did dwell,"
-and those of his illustrious successor, who thus characterises
-him, the innovations which Verstegan and Skinner charge
-solely upon Chaucer, had been so far increased, that his
-language had become obsolete; and the adoption of it by
-Spenser is only to be justified, on the ground of its being in
-harmony with his theme.  ...
-[From Spenser to the present day, only Cowley of English
-poets did not imitate or extol Chaucer. Spenser’s indebtedness
-to Chaucer is here pointed out in detail.]
-. . . . . . . . . .
-[p. 58] Judging from Spenser's imitations of Chaucer, we might
-conclude that his favourite works were The Dutchesse, The
-Parliament of Fowles, and The Squier's Tale: but, perhaps,
-(as also in the case of Milton's well-known and pathetic
-allusion to the latter poem) these imitations are rather to
-be received as evidence of the general admiration of Spenser
-[p. 59] for the works of his predecessor, than of his partiality for
-any particular passages.  ... It seems, that during the life¬
-time of Spenser... the poetical character of Chaucer was
-rather viewed in reference to his pathetic, than to his comic
-powers.  ...
-[p. 60] Amongst the pathetic poems, the Knight’s Tale, and the
-"Troilus and Cresseide" have always maintained a prece¬
-dency. The latter especially seems to have been a favourite
-in the age of Spenser. Puttenham and Sidney, the former
-in his Art of Poetrie, the latter in his Defence of Poesie,
-both select this work as especially worthy of praise: and
-Sidney indeed scarcely mentions any other. With Beaumont
-also this was a favourite work. Shakspeare, although there
-can scarcely exist any doubt that he was an admirer of the
-beauties of this work, has, in the plot of his Midsummer
-Night's Dream, given us yet clearer proof of his acquaintance
-with the Knight's Tale.  ...
-[The Fairies of Chaucer, Spenser and Shakespeare.]
-[p. 72] From the days of Shakspeare, the comic powers of Chaucer
-have been the constant theme of admiration both with critics
-and poets. In allegorical description he may have been
-excelled by Spenser, in pathos by Shakspeare, in sublimity by
-Milton; but in true comic humour, and more especially in the
-delineation of professional characters, he has few equals, no
-superiors.
-[p. 78] On a general review of the history of Chaucer's reputa¬
-tion, we may say that his language, which seems chiefly to
-have attracted the notice of his immediate successors, rude
-[p. 79] as it now appears, was with reference to his own age in itself
-a marvel. How just were the grounds upon which the critics
-of the days of Henry the Eighth extolled his learning, will
-be more fully shown in the following chapter. His pathetic
-powers, which engaged the admiration of the poets and critics
-of the age of Elizabeth, continue even now to rival his genuine
-comic humour... The vigorous yet finished painting¬
-both of scenes and characters, serious as well as ludicrous
-–with which his works abound, are still, notwithstanding
-the roughness of their clothing, beauties of a highly
-poetical nature. The ear may not always be satisfied,
-[p. 80] but the mind of the reader is always filled; and even the
-roughness of his verse, which may offend some readers, is in
-many instances–at least in the case of his earlier poems–
-rather to be attributed to the errors of transcribers (that
-mis-writing and “misse-metring" against which he warns his
-copyists) than to his own negligence.
-[p. 111] [Chapter IV.] Chaucer, like Ariosto and Spenser, is
-essentially a descriptive rather than a dramatic poet.  ... But
-his descriptive powers are of every kind; satirical, pathetic,
-picturesque...
-[p. 112] The most striking instances of the poetical powers of
-Chaucer, under all the three above-mentioned heads, are cer¬
-tainly to be found in his great work. But, if we take into
-consideration that of that great work, the general prologue,
-and the ludicrous tales, are the most original portions, while
-the serious stories are, without any exceptions, either imita¬
-tions or translations, perhaps we shall be inclined to admit
-that the minor or earlier poems of our author, afford the best
-instances of those of his pathetic or picturesque descriptions
-which may be strictly called his own. In these poems, the
-playful satire which, on a general view of Chaucer's works,
-seems to form the leading characteristic of his mind, scarcely
-appears at all.   ...
-[p. 124] Chaucer is a picturesque poet in the narrowest and strictest
-sense of the term. [The Book of the Duchesse, Parlement
-of Foules, Complaint of the Black Knight, etc., instanced.]
-[p. 133] The difference between the earlier poems of Chaucer, and
-his "Canterbury Pilgrimage," as regards the portraiture of
-manners, consists in this:–that, in the former, the tastes,
-habits, and opinions of the court are represented to us: in
-the latter, the habits of middle and low life. The total change
-of theme, spirit, and style, observable in the general prologue,
-and in the comic portions of Chaucer's principal and later
-[p. 139] works, is perhaps to be attributed to his political disgraces,
-by which he must necessarily have been estranged from the
-court, in which many of his earlier years had been spent, and
-re-united in habits and interests with those classes of society
-in which his birth and parentage seem originally to have
-placed him.
-[p. 180] [Chapter V.] In the choice of the occasion; in the
-variety and delicate discrimination of the characters, and
-in the vivacity and dramatic effect with which the whole
-plot is conducted; in all these respects, Boccaccio, when com¬
-pared with Chaucer, is but a mere shadow. As a lively and
-agreeable fabulist, the Italian, especially in his serious tales,
-has the advantage. Prolixity, a fault common to all our old
-poets, is one of the principal blemishes of Chaucer's serious
-productions.  ...
-[p. 200] The interest to be derived from the prose works of Chaucer
-is twofold; first, as they illustrate his own life, or afford a
-comment on his poetry; secondly, as they throw a light upon
-the spirit and taste of the age.</seg>
-          <note type="footnote">Note in Spurgeon: [There is a long and appreciative review of Hippisley in the Gentleman's Magazine, March 1839, new series, vol. xi, pp. 278-9, q. v. below.]</note>
+          <seg type="editorial"><note place="margin">[p. ix]</note>[Chaucer gives the best picture in early literature of
+            contemporary manners and is most valuable to students of the
+            intellectual and moral conditions of man.]</seg>
+          
+          <seg type="editorial"><note place="margin">[p. x]</note>[Difficulty of Chaucer's language easily surmounted.]</seg>
+            
+          <seg type="editorial">[Chapter II. Admiration for <hi rend="italic">Canterbury Tales</hi>, which open
+            to us the true character of his genius, not evinced till
+            comparatively late period doubtless because of the satire they
+            contain on the Catholic Clergy.]</seg>
+            
+          <seg><note place="margin">[p. 42]</note>But the neglect which this great work experienced at the
+            hands of critics, extends beyond the period of the Reformation.
+            Fox, the martyrologist, eulogises Chaucer, not for his
+            comic and satiric powers, but for "his true Wicklevian spirit;"
+            and, with the exception of Beaumont's apology <add>[1602 edition
+            of Chaucer]</add>, for the ribaldry of the comic tales, and a
+            passage in Puttenham's Arte of English Poetrie, there is
+            scarcely any distinct recognition of the poetical merits of the
+            Canterbury Pilgrimage anterior to Dryden.</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 45]</note>[Chaucer affords a wonderful contrast of pathos and humour
+            and in neither was he understood previous to the days of Puttenham and Spenser.]</seg>
+            
+          <seg>The earliest successors of Chaucer, John the Chaplain,
+            <note place="margin">[p. 46]</note>Occleve, and Lydgate, in celebrating the praises, or lamenting
+            the death, of their "greate maister," all harp upon one theme:
+            the eloquence, or "rhetoricke," as they usually style it, of the
+            departed poet.</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 49]</note>[Chaucer compared to Petrarch. Leland and Thynne
+            praise Chaucer for his style and learning, not for his poetry.]</seg>
+            
+          <seg>This practical and philosophical view of the merits of
+            Chaucer continued in force till the latter years of the sixteenth
+            century. Webbe, in his “Discourse of English Poetry,”
+            praises the poet in the spirit of Fox, Bale, or the most zealous
+            Protestants.</seg>
+            
+          <seg>Puttenham, a contemporary of Webbe, is the first critic
+            who seems in any degree to understand either the history of
+            our author's works, or their poetical merits.</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 50]</note>[Puttenham is then quoted; see above, vol. i, p. 125.]</seg>
+            
+          <seg>This passage, though it does not display any very deep
+            knowledge in literary history, may, considering the age in
+            which it was written, be regarded as a masterly outline of
+            
+            <milestone unit="page" n="214"/>
+            
+            the poetical character of our author, and forms a striking
+            <note place="margin">[p. 51]</note>contrast to the vagueness with which Sidney, in his "Defence
+            of Poesie," characterized the poet, "as seeing clearly in a
+            mystic <add>[sic for 'mystie']</add> time,” and as “beautifying our mother
+            tongue."...</seg>
+            
+          <seg>Up to the days of Leland and William Thynne, there was, as
+            we have seen, but one opinion on this subject. Chaucer was
+            the "floure of rhetoricke," the “garnisher of Englishe rude."
+            Webbe first ventures to hint that “the manner of his style may
+            seeme blunt and course to many fine English eares at these days."
+            In the days of which Webbe speaks, the English tongue, besides
+            the natural polish which it had acquired from the labours of
+            <note place="margin">[p. 52]</note>successive writers, was also affectedly interlarded with artificial
+            ornaments, borrowed chiefly from the Spanish and Italian
+            languages. These “ink-horn terms," as they were called, form
+            a frequent theme of ridicule in the comedies of Ben Jonson
+            and Shakspeare. . . .</seg>
+            
+          <seg type="editorial">[Prevalence of Euphuism, and Spenser's preference for Chaucer’s speech.]</seg>
+            
+          <seg>The genuine English style
+            of this age lay between the obsolete diction of Chaucer, and
+            the affectations above-mentioned. This is accurately felt,
+            and sensibly pointed out, by an old writer somewhat senior to
+            Spenser.</seg>
+            
+          <seg type="editorial">[Ashton is then quoted; see above, vol. i, p. 87.]</seg>
+            
+          <seg><note place="margin">[p. 53]</note>Verstegan, in his Restitution of Decayed Intelligence
+            <add>[q. v. above, vol. i, p. 176]</add>, and Skinner, in the preface to his
+            Etymologicon Anglicanum <add>[q. v. above, vol. i, p. 243]</add>, have
+            censured Chaucer for what formed the constant argument in
+            his praise, up to the Elizabethan period of our literature:
+            namely, for the introduction of French terms into English.
+            <note place="margin">[p. 54]</note>Rymer <add>[q. v. above, vol. i, p. 265]</add>, in a passage which shows
+            that he has reaped the full advantage of the philological
+            labours of our poet, first introduces him to us as a recruiting
+            officer of our language; and afterwards, proceeding more
+            scientifically to explain the chemical process, by which that
+            tongue was formed, he represents Chaucer as a skilful brewer
+            of English. . . .</seg>
+            
+          <seg type="editorial">[On the increase of expressions from a foreign tongue, as a
+            nation becomes more literary.]</seg>
+            
+          <seg>Amongst those who first "employed themselves to the
+            beautifying and bettering of the English tongue" (to use the
+            words of his oldest editor, William Thynne), was "that noble
+            and famous clerke, Geffray Chaucer."</seg>
+          
+          <milestone unit="page" n="215"/>
+            
+          <seg><note place="margin">[p. 55]</note>But in the interval which had elapsed between the days of
+            <lg>
+              <l>"Old Dan Geffrey, in whose gentle spright</l>
+              <l>The pure well-head of poetry did dwell,"</l>
+            </lg>
+            and those of his illustrious successor, who thus characterises
+            him, the innovations which Verstegan and Skinner charge
+            solely upon Chaucer, had been so far increased, that his
+            language had become obsolete; and the adoption of it by
+            Spenser is only to be justified, on the ground of its being in
+            harmony with his theme. . . .</seg>
+            
+          <seg type="editorial">[From Spenser to the present day, only Cowley of English
+            poets did not imitate or extol Chaucer. Spenser’s indebtedness
+            to Chaucer is here pointed out in detail.]
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 58]</note>Judging from Spenser's imitations of Chaucer, we might
+            conclude that his favourite works were The Dutchesse, The
+            Parliament of Fowles, and The Squier's Tale: but, perhaps,
+            (as also in the case of Milton's well-known and pathetic
+            allusion to the latter poem) these imitations are rather to
+            be received as evidence of the general admiration of Spenser
+            <note place="margin">[p. 59]</note>for the works of his predecessor, than of his partiality for
+            any particular passages. . . . It seems, that during the life-
+            time of Spenser . . . the poetical character of Chaucer was
+            rather viewed in reference to his pathetic, than to his comic
+            powers. . . .</seg>
+            
+          <seg><note place="margin">[p. 60]</note>Amongst the pathetic poems, the Knight’s Tale, and the
+            "Troilus and Cresseide" have always maintained a precedency.
+            The latter especially seems to have been a favourite
+            in the age of Spenser. Puttenham and Sidney, the former
+            in his Art of Poetrie, the latter in his Defence of Poesie,
+            both select this work as especially worthy of praise: and
+            Sidney indeed scarcely mentions any other. With Beaumont
+            also this was a favourite work. Shakspeare, although there
+            can scarcely exist any doubt that he was an admirer of the
+            beauties of this work, has, in the plot of his Midsummer
+            Night's Dream, given us yet clearer proof of his acquaintance
+            with the Knight's Tale. . . .</seg>
+            
+          <seg type="editorial">[The Fairies of Chaucer, Spenser and Shakespeare.]</seg>
+            
+          <seg><note place="margin">[p. 72]</note>From the days of Shakspeare, the comic powers of Chaucer
+            have been the constant theme of admiration both with critics
+            and poets. In allegorical description he may have been
+            excelled by Spenser, in pathos by Shakspeare, in sublimity by
+            Milton; but in true comic humour, and more especially in the
+            
+            <milestone unit="page" n="216"/>
+            
+            delineation of professional characters, he has few equals, no
+            superiors.</seg>
+            
+          <seg><note place="margin">[p. 78]</note>On a general review of the history of Chaucer's
+            reputation, we may say that his language, which seems chiefly to
+            have attracted the notice of his immediate successors, rude
+            <note place="margin">[p. 79]</note>as it now appears, was with reference to his own age in itself
+            a marvel. How just were the grounds upon which the critics
+            of the days of Henry the Eighth extolled his learning, will
+            be more fully shown in the following chapter. His pathetic
+            powers, which engaged the admiration of the poets and critics
+            of the age of Elizabeth, continue even now to rival his genuine
+            comic humour . . . The vigorous yet finished painting—
+            both of scenes and characters, serious as well as ludicrous
+            —with which his works abound, are still, notwithstanding
+            the roughness of their clothing, beauties of a highly
+            poetical nature. The ear may not always be satisfied,
+            <note place="margin">[p. 80]</note>but the mind of the reader is always filled; and even the
+            roughness of his verse, which may offend some readers, is in
+            many instances–at least in the case of his earlier poems—
+            rather to be attributed to the errors of transcribers (that
+            mis-writing and “misse-metring" against which he warns his
+            copyists) than to his own negligence.</seg>
+            
+          <seg><note place="margin">[p. 111]</note><add>[Chapter IV.]</add> Chaucer, like Ariosto and Spenser, is
+            essentially a descriptive rather than a dramatic poet. . . . But
+            his descriptive powers are of every kind; satirical, pathetic,
+            picturesque . . .</seg>
+            
+          <seg><note place="margin">[p. 112]</note>The most striking instances of the poetical powers of
+            Chaucer, under all the three above-mentioned heads, are
+            certainly to be found in his great work. But, if we take into
+            consideration that of that great work, the general prologue,
+            and the ludicrous tales, are the most original portions, while
+            the serious stories are, without any exceptions, either imitations
+            or translations, perhaps we shall be inclined to admit
+            that the minor or earlier poems of our author, afford the best
+            instances of those of his pathetic or picturesque descriptions
+            which may be strictly called his own. In these poems, the
+            playful satire which, on a general view of Chaucer's works,
+            seems to form the leading characteristic of his mind, scarcely
+            appears at all. . . .</seg>
+            
+          <seg><note place="margin">[p. 124]</note>Chaucer is a picturesque poet in the narrowest and strictest
+            sense of the term.</seg>
+          
+          <seg>[<hi rend="italic">The Book of the Duchesse</hi>, <hi rend="italic">Parlement of Foules</hi>, <hi rend="italic">Complaint of the Black Knight</hi>, etc., instanced.]</seg>
+          
+          <milestone unit="page" n="217"/>
+          
+          <seg><note place="margin">[p. 133]</note>The difference between the earlier poems of Chaucer, and
+            his "Canterbury Pilgrimage," as regards the portraiture of
+            manners, consists in this:–that, in the former, the tastes,
+            habits, and opinions of the court are represented to us: in
+            the latter, the habits of middle and low life. The total change
+            of theme, spirit, and style, observable in the general prologue,
+            and in the comic portions of Chaucer's principal and later
+            <note place="margin">[p. 139]</note>works, is perhaps to be attributed to his political disgraces,
+            by which he must necessarily have been estranged from the
+            court, in which many of his earlier years had been spent, and
+            re-united in habits and interests with those classes of society
+            in which his birth and parentage seem originally to have
+            placed him.</seg>
+            
+          <seg><note place="margin">[p. 180]</note>[Chapter V.] In the choice of the occasion; in the
+            variety and delicate discrimination of the characters, and
+            in the vivacity and dramatic effect with which the whole
+            plot is conducted; in all these respects, Boccaccio, when
+            compared with Chaucer, is but a mere shadow. As a lively and
+            agreeable fabulist, the Italian, especially in his serious tales,
+            has the advantage. Prolixity, a fault common to all our old
+            poets, is one of the principal blemishes of Chaucer's serious
+            productions. . . .</seg>
+            
+          <seg><note place="margin">[p. 200]</note>The interest to be derived from the prose works of Chaucer
+            is twofold; first, as they illustrate his own life, or afford a
+            comment on his poetry; secondly, as they throw a light upon
+            the spirit and taste of the age.<note type="footnote">Note in Spurgeon: [There is a long and appreciative review of Hippisley in the Gentleman's Magazine, March 1839, new series, vol. xi, pp. 278-9, q. v. below.]</note></seg>
         </ab>
       </div>
     </body>

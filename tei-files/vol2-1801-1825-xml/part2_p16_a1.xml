@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p16_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p16_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,12 +83,15 @@
       <div type="allusion">
         <milestone unit="page" n="16"/>
         
-        <ab type="imprint">1804. Robinson, Thomas. <hi rend="italic">Letter</hi> to Henry Crabb Robinson, [dated] May 6th, 1804. (Crabb Robinson Letters [unpublished], in Dr. Williams’ Library, Gordon Square, W.C.) by reading the first vol. of Godwin's "Life of Chaucer."</ab>
+        <ab type="imprint">1804. Robinson, Thomas. <hi rend="italic">Letter</hi> to Henry Crabb Robinson, [dated] May 6th, 1804. (Crabb Robinson Letters [unpublished], in Dr. Williams’ Library, Gordon Square, W.C.)</ab>
         
         <ab type="quotation">
           <seg>Since I wrote to you I have been considerably interested
-            <add>[Here follows a detailed description of that work, not flattering
-            to Godwin, concluding:]</add> I have received many new ideas
+            by reading the first vol. of Godwin's "Life of Chaucer."</seg>
+          
+          <seg type="editorial">[Here follows a detailed description of that work, not flattering to Godwin, concluding:]</seg>
+            
+          <seg>I have received many new ideas
             and been highly delighted by some beautiful passages which
             are pointed out in works of the poet, and which I was capable
             of relishing in spite of the obsoleteness of the language.</seg>

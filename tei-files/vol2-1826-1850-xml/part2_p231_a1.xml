@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1841, Isaac D'Israeli. Amenities of Literature,</title>
+        <title>1841, Isaac Disraeli. Amenities of Literature.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/37165645">Isaac D'Israeli</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/37165645">Disraeli, Isaac</author>
             <date cert="high" when="1841">1841</date>
-            <title level="a">Amenities of Literature,</title>
+            <title level="a">Amenities of Literature.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#observationCharacter"/>
         <catRef scheme="#criticism" target="#pathos"/>
         <catRef scheme="#criticism" target="#thoughtRhythmical"/>
@@ -89,94 +89,107 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="231"/>
-        <ab type="imprint">1841. D'Israeli, Isaac. Amenities of Literature, vol. i, pp. 34, 115n. 117-19, 164, 182-3. 191n., 198, 201, 215, 217-18, 236n., 252-82 [article on Chaucer], 286, 291-4, 302-5, 308-12, 314-16n., 320, 347, 369; vol. ii, pp. 30-31, 83, 112, 114, 254, 366, 376; vol. iii, pp. 3-4.</ab>
+        
+        <ab type="imprint">1841. D'Israeli, Isaac. <hi rend="italic">Amenities of Literature</hi>, vol. i, pp. 34, 115n. 117-19, 164, 182-3. 191n., 198, 201, 215, 217-18, 236n., 252-82 [article on Chaucer], 286, 291-4, 302-5, 308-12, 314-16n., 320, 347, 369; vol. ii, pp. 30-31, 83, 112, 114, 254, 366, 376; vol. iii, pp. 3-4.</ab>
+        
         <ab type="quotation">
-          <seg>[vol. i,
-p. 265]
-The creative faculty in Chaucer had not broken forth
-in his translations, which evidently were his earliest writings.
-The native bent of his genius, the hilarity of his temper,
-betrays itself by playful strokes of raillery and concealed
-satire when least expected. His fine irony may have some¬
-times left his commendations, or even the objects of his
-[p. 266] admiration, in a very ambiguous condition... Our poet
-has stamped with his immortal ridicule the tale told in his
-own person–“The Rime of Sir Thopas."
-[p. 268] Yet humour and irony are not his only excellencies, for
-those who study Chaucer know that this great poet has
-thoughts that dissolve in tenderness; no one has more skil¬
-fully touched the more hidden springs of the heart.
-The Herculean labour of CHAUCER was the creation of a
-new style. In this he was as fortunate as he was likewise
-unhappy. He mingled with the native rudeness of our
-English, words of Provençal fancy, and some of French and
-of Latin growth. He banished the superannuated and the
-uncouth, and softened the churlish nature of our hard Anglo¬
-Saxon; but the poet had nearly endangered the novel diction
-when his artificial pedantry assumed what he called "the
-ornate style" in the “Romaunt of the Rose,” and in his
-"Troilus and Cressida."
- . . . . . . . . . . .
-[p. 269] We have, however, a glorious evidence amid this struggle
-both with a new and with a false style, of Chaucer's native good
-taste; he finally wholly abandoned this artificial diction; and
-his later productions, no longer disfigured by such tortured
-phrases and such remote words, awaken our sympathy in the
-familiar language of life and passion.
-TYRWHIT has ingeniously constructed a metrical system to
-arrange the versification to the ear of a modern reader...
-He maintained that the lines were regular decasyllables.
-But who can read this poet for any length, even the
-Canterbury Tales, in the elaborated text of Tyrwhit, without
-[p. 270] being reminded of its fallacy? Even the E final, on which our
-critic has laid such stress, though often sounded, assuredly is
-sometimes mute. Dan Chaucer makes at his pleasure words
-long or short, dissyllabic or trisyllabic; and this he has
-himself told us–
-" But for the rime is light and lewde,
-Yet make it somewhat agréable,
-Though some verse fail in a sylláble."
-in his later work, the Tales; but it is evident that Chaucer
-... The verse of Chaucer seems more carefully regulated
-trusted his cadences to his ear, and his verse is therefore
-usually rhythmical, and accidentally metrical.
- . . . . . . . . . . .
-[p. 272] Are the works of our great poet to be consigned to the literary
-dungeon of the antiquary's closet? I fear that there is more
-than one obstruction which intervenes between the poet’s
-name, which will never die, and the poet’s works, which will
-never be read. A massive tome, dark with the Gothic type,
-whose obsolete words and difficult phrases, and, for us,
-uncadenced metre, are to be conned by a glossary as obsolete
-as the text, to be perpetually referred to, to the interruption
-of all poetry and all patience, appalled even the thorough¬
-paced antiquary, Samuel Pegge, as appears by his honest
-confession [q.v. above, vol. i, p. 502]. Already a practised
-bibliosopher proclaims, alluding to the edition by Tyrwhit
-of Chaucer’s Canterbury Tales, "And who reads any
-other portion of the poet?" Yet the Canterbury Tales
-are but the smallest portion of Chaucer's works! But
-some skilful critics have perpended and decided differently;
-even among the projected labours of Johnson was an edition
-[p. 273] of Chaucer’s works, and Godwin, when diligently occupied on
-this great poet, with just severity observed that "a vulgar
-judgment had been propagated by slothful and indolent
-persons, that the Canterbury Tales are the only part of the
-works of Chaucer worthy the attention of a modern reader,
-and this has contributed to the wretched state in which his
-works are permitted to exist."
- . . . . . . . . . . .
-[p. 274] It is true that the language of Chaucer has failed, but not
-the writer. The marble which Chaucer sculptured has be¬
-trayed the noble hand of the artist; the statue was finished;
-but the grey and spotty veins came forth, clouding the lucid
-whiteness.
-For the poet or the poetical, the difficulty of the language may
-be surmounted with a reasonable portion of everyday patience.
- . . . . . . . . . . .
-[p. 277] Ogle, with others, attempted to modernise Chaucer; but it
-is as impossible to give such a version of Chaucer as to translate
-the Odes of Horace.</seg>
+          <seg><note place="margin">[vol. i, p. 265]</note>The creative faculty in Chaucer had not broken forth
+            in his translations, which evidently were his earliest writings.
+            The native bent of his genius, the hilarity of his temper,
+            betrays itself by playful strokes of raillery and concealed
+            satire when least expected. His fine irony may have sometimes
+            left his commendations, or even the objects of his
+            <note place="margin">[p. 266]</note>admiration, in a very ambiguous condition . . . Our poet
+            has stamped with his immortal ridicule the tale told in his
+            own person—"The Rime of Sir Thopas."</seg>
+            
+          <seg><note place="margin">[p. 268]</note>Yet humour and irony are not his only excellencies, for
+            those who study Chaucer know that this great poet has
+            thoughts that dissolve in tenderness; no one has more
+            skilfully touched the more hidden springs of the heart.
+            <lb/>The Herculean labour of CHAUCER was the creation of a
+            new style. In this he was as fortunate as he was likewise
+            unhappy. He mingled with the native rudeness of our
+            English, words of Provençal fancy, and some of French and
+            of Latin growth. He banished the superannuated and the
+            uncouth, and softened the churlish nature of our hard Anglo-
+            Saxon; but the poet had nearly endangered the novel diction
+            when his artificial pedantry assumed what he called "the
+            ornate style" in the “Romaunt of the Rose,” and in his
+            "Troilus and Cressida."
+             <lb/>. . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 269]</note>We have, however, a glorious evidence amid this struggle
+            both with a new and with a false style, of Chaucer's native good
+            taste; he finally wholly abandoned this artificial diction; and
+            his later productions, no longer disfigured by such tortured
+            phrases and such remote words, awaken our sympathy in the
+            familiar language of life and passion.
+            <lb/>TYRWHIT has ingeniously constructed a metrical system to
+            arrange the versification to the ear of a modern reader . . .
+            He maintained that the lines were regular decasyllables.
+            But who can read this poet for any length, even the
+            Canterbury Tales, in the elaborated text of Tyrwhit, without
+            <note place="margin">[p. 270]</note>being reminded of its fallacy? Even the E final, on which our
+            critic has laid such stress, though often sounded, assuredly is
+            
+            <milestone unit="page" n="232"/>
+            
+            sometimes mute. Dan Chaucer makes at his pleasure words
+            long or short, dissyllabic or trisyllabic; and this he has
+            himself told us—
+            <lg>
+              <l>"But for the rime is light and lewde,</l>
+              <l>Yet make it somewhat agréable,</l>
+              <l>Though some verse fail in a sylláble."</l>
+            </lg>
+            . . . The verse of Chaucer seems more carefully regulated
+            in his later work, the Tales; but it is evident that Chaucer
+            trusted his cadences to his ear, and his verse is therefore
+            usually rhythmical, and accidentally metrical.
+            <lb/>. . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 272]</note>Are the works of our great poet to be consigned to the literary
+            dungeon of the antiquary's closet? I fear that there is more
+            than one obstruction which intervenes between the poet’s
+            name, which will never die, and the poet’s works, which will
+            never be read. A massive tome, dark with the Gothic type,
+            whose obsolete words and difficult phrases, and, for us,
+            uncadenced metre, are to be conned by a glossary as obsolete
+            as the text, to be perpetually referred to, to the interruption
+            of all poetry and all patience, appalled even the thorough¬
+            paced antiquary, Samuel Pegge, as appears by his honest
+            confession <add>[q.v. above, vol. i, p. 502]</add>. Already a practised
+            bibliosopher proclaims, alluding to the edition by Tyrwhit
+            of Chaucer’s Canterbury Tales, "And who reads any
+            other portion of the poet?" Yet the Canterbury Tales
+            are but the smallest portion of Chaucer's works! But
+            some skilful critics have perpended and decided differently;
+            even among the projected labours of Johnson was an edition
+            <note place="margin">[p. 273]</note>of Chaucer’s works, and Godwin, when diligently occupied on
+            this great poet, with just severity observed that "a vulgar
+            judgment had been propagated by slothful and indolent
+            persons, that the Canterbury Tales are the only part of the
+            works of Chaucer worthy the attention of a modern reader,
+            and this has contributed to the wretched state in which his
+            works are permitted to exist."
+            <lb/>. . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 274]</note>It is true that the language of Chaucer has failed, but not
+            the writer. The marble which Chaucer sculptured has betrayed
+            the noble hand of the artist; the statue was finished;
+            but the grey and spotty veins came forth, clouding the lucid
+            whiteness.
+            
+            <milestone unit="page" n="233"/>
+            
+            <lb/>For the poet or the poetical, the difficulty of the language may
+            be surmounted with a reasonable portion of everyday patience.
+            <lb/>. . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 277]</note>Ogle, with others, attempted to modernise Chaucer; but it
+            is as impossible to give such a version of Chaucer as to translate
+            the Odes of Horace.</seg>
         </ab>
       </div>
     </body>

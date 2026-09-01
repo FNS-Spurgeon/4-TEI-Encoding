@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p140_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p140_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,7 +90,7 @@
         <ab type="quotation">
           <seg><note place="margin">[p. 201]</note>From the relation, it is equally evident that the Baron of
             Chaos <add>[Richterhausen, a quack]</add> practised one of the juggling
-            tricks of the “elvish craft" which have been so well described
+            tricks of the "elvish craft" which have been so well described
             by Dan Chaucer.</seg>
           
           <seg type="editorial">[Quotation from <hi rend="italic">Canon's Yeoman's Tale</hi>, ll. 705-29.]</seg>

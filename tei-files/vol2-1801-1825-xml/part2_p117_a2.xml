@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p117_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p117_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,11 +89,11 @@
         
         <ab type="quotation">
           <seg><note place="margin">[p. 31]</note><add>[To George and Georgiana Keats. March, 1819.]</add> Besides
-            this volume of Beaumont and Fletcher–there are on the
+            this volume of Beaumont and Fletcher—there are on the
             table two volumes of Chaucer. . . .</seg>
             
           <seg><note place="margin">[p. 67]</note><add>[To B. R. Haydon. June 17, 1819.]</add> My purpose is now
-            to make one more attempt in the Press—if that fail, “ye hear
+            to make one more attempt in the Press—if that fail, "ye hear
             no more of me" as Chaucer says.</seg>
             
           <seg><note place="margin">[p. 98]</note><add>[To J. H. Reynolds. Sept. 22.]</add> I always somehow associate

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p71_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p71_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="quotation">
           <seg><note place="margin">[p. 73]</note>We cannot go on with this splendid catalogue of foreigners
             without feeling ourselves drawn to the native glories of two of
-            our own writers . . .—we mean Chaucer and Spenser–who
+            our own writers . . .—we mean Chaucer and Spenser—who
             are now, we are afraid, as little known to the ordinary run
             of English readers as their tuneful contemporaries of the
             South . . .</seg>

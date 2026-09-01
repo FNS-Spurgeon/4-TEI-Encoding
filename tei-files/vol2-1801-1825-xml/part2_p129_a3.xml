@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p129_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p129_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +34,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/69699764">Thomas Griffiths Wainewright</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/69699764">Wainewright, Thomas Griffiths</author>
             <date cert="high" when="1820">1820</date>
             <title level="a">Sentimentalities on the Fine Arts.</title>
           </analytic>

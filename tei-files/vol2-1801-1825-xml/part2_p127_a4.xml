@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p127_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p127_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,9 +34,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Walter Scott</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95207079">Scott, Walter</author>
             <date cert="high" when="1820">1820</date>
-            <title level="a">The Abbot,</title>
+            <title level="a">The Abbot.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -88,7 +86,7 @@
         <ab type="imprint">1820. Scott, Sir Walter. <hi rend="italic">The Abbot</hi>, 3 vols., vol. iii, ch. i, p. 9. (Border Edition, ed. Andrew Lang, 1893, vol. ii, ch. vii, p. 108.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Brief reference to Chaucer's Pardoner. For references added in Intro duction and notes to later edns., see below, 1831.]</seg>
+          <seg type="editorial">[Brief reference to Chaucer's Pardoner. For references added in Introduction and notes to later edns., see below, 1831.]</seg>
         </ab>
       </div>
     </body>

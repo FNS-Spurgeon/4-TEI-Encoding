@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p31_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p31_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="imprint">1807. Douce, Francis. <hi rend="italic">Illustrations of Shakespeare and of Ancient Manners</hi>, 2 vols.; vol. i, pp. 2, 15, 43, 48, 109, 134, 177, 183, 188-9, 203-6, 215, 223, 232-3, 246, 301, 350, 407, 415-16, 474, 487, 506 ; vol. ii, pp. 7, 60, 64, 67-8, 151, 153-4, 180, 183, 213, 228, 253-4, 276, 281, 285, 351, 363, 420, 450-1.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. i, p. 15]</note>[Quotation from “Chaucer's <hi rend="italic">Testament of Creseid</hi>,” describing the Man in the Moon.]</seg>
+          <seg type="editorial"><note place="margin">[vol. i, p. 15]</note>[Quotation from "Chaucer's <hi rend="italic">Testament of Creseid</hi>,” describing the Man in the Moon.]</seg>
             
           <seg type="editorial"><note place="margin">[p.109]</note>[Quotation from Troilus, Bk. iii, ll. 1366-72.]</seg>
             
@@ -98,9 +96,10 @@
             of Chaucer were the true progenitors of Oberon and Titania."]</seg>
             
           <seg type="editorial"><note place="margin">[p. 189]</note>[Quotation from "Chaucer's <hi rend="italic">Flower and the Leafe</hi>" for the word henchman.]</seg>
-            
-          <seg><note place="margin">[p. 204]</note><add>[Quotation from Wife of Bath's Tale, ll. 863-74, to illustrate
-            fairies in Midsummer Night's Dream:]</add> The other quotation
+          
+          <seg type="editorial">[Quotation from Wife of Bath's Tale, ll. 863-74, to illustrate fairies in Midsummer Night's Dream:]</seg>
+          
+          <seg><note place="margin">[p. 204]</note>The other quotation
             which Mr. Steevens has given, is not to the present purpose.
             The fairies’ blessing was to bring peace upon the house of
             Theseus; the night-spell in the <hi rend="italic">Miller's Tale</hi>, is pronounced

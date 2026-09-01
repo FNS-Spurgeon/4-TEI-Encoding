@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p115_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p115_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +86,7 @@
         <ab type="imprint">1819. Hazlitt, William. <hi rend="italic">A Letter to William Gifford, Esq.</hi> (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. i, pp. 384, 399, 400, 401.)</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[p. 400]</note>You observe, that “Some lines I have quoted from Chaucer,
+          <seg><note place="margin">[p. 400]</note>You observe, that "Some lines I have quoted from Chaucer,
             are very pleasing—
             <lg>
               <l>—"Emilie that fayrer was to sene</l>
@@ -102,16 +100,16 @@
           <milestone unit="page" n="116"/>
             
           <seg>"But surely the beauty does not lie in the last line, though
-            it is with this that Mr. Hazlitt is chiefly struck. ‘This
+            it is with this that Mr. Hazlitt is chiefly struck. 'This
             scrupulousness,’ he observes, ‘about the literal preference, as
-            if some question of matter of fact were at issue, is remarkable.’"</seg>
+            if some question of matter of fact were at issue, is remarkable.'"</seg>
             
           <seg>That is, I am not chiefly struck with the beauty of the last
             line, but with its peculiarity as characteristic of Chaucer.
             The beauty of the former lines might be in Spenser: the
             scrupulous exactness of the latter could be found nowhere but
-            <note place="margin">[p. 401]</note>a sentiment or a simile, as if it were given in upon evidence.’
             in Chaucer. I had said just before, that this poet 'introduces
+            <note place="margin">[p. 401]</note>a sentiment or a simile, as if it were given in upon evidence.'
             I bring this simile as an instance in point, and you say I have
             not brought it to prove something else.<note type="footnote">Note in Spurgeon: [For Hazlitt’s original criticism and Gifford's comment upon it, see above, 1818.]</note></seg>
         </ab>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p85_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p85_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -151,7 +149,7 @@
             and to the accentuation of the last syllable: I would then
             venture to ask, what even in the colloquial language of
             elegant and unaffected women (who are the peculiar mistresses
-            of “pure English and undefiled")–what could we hear more
+            of "pure English and undefiled")–what could we hear more
             natural, or seemingly more unstudied, than the following
             stanzas from Chaucer's Troilus and Creseide?
             <lg>

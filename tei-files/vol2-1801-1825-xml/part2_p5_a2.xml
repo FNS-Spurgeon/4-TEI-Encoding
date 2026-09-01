@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p5_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p5_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="5"/>
         
-        <ab type="imprint">1802. Unknown. <hi rend="italic">Critique</hi> on <hi rend="italic">The Complaynt of Scotland</hi>, from the <hi rend="italic">British Critic</hi>, July 1802. Reprinted in <hi rend="italic">Critiques by Mr. David Herd and others upon the new edition of the Complaynt</hi> . . . 1829, p.18. [John de Irlandia attributed the “Orisoun to the Virgin" to Chaucer; it was more probably composed by Lydgate. See Leyden, 1801, above.]</ab>
+        <ab type="imprint">1802. Unknown. <hi rend="italic">Critique</hi> on <hi rend="italic">The Complaynt of Scotland</hi>, from the <hi rend="italic">British Critic</hi>, July 1802. Reprinted in <hi rend="italic">Critiques by Mr. David Herd and others upon the new edition of the Complaynt</hi> . . . 1829, p.18. [John de Irlandia attributed the "Orisoun to the Virgin" to Chaucer; it was more probably composed by Lydgate. See Leyden, 1801, above.]</ab>
       </div>
     </body>
   </text>

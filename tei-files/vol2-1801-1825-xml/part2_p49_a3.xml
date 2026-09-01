@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p49_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p49_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,8 +34,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M">John Henry Richman</author>
-            <date cert="low" when="1810">1810</date>
+            <author cert="high" role="M">Richman, John Henry</author>
+            <date cert="low" when="1810">[c. 1810]</date>
             <title level="a">Sequel to the Canterbury Tales.</title>
           </analytic>
           <monogr>

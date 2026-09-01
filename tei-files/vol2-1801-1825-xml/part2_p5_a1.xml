@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p5_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p5_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,9 +88,9 @@
         <ab type="quotation">
           <seg type="editorial">[Reprints of selected Scottish poems arranged in periods. The
             pieces with Chaucerian reference are :—
-            <lb/>Vol. i, pp. 157-77. Henrysoun’s “Testament of Faire Creseide."
-            <lb/>" pp. 253-63. Dunbar's “Goldin Targe."
-            <lb/>Note on “Chaucer's Cuckowe and Nightingale," vol. i, p. 183;
+            <lb/>Vol. i, pp. 157-77. Henrysoun’s "Testament of Faire Creseide."
+            <lb/>" pp. 253-63. Dunbar's "Goldin Targe."
+            <lb/>Note on "Chaucer's Cuckowe and Nightingale," vol. i, p. 183;
             reference to Wife of Bath, vol. i, p. 240; Jack Upland, described
             as Chaucer’s, ii, 31 ff.; glossarial and metrical notes, i, 209, 229-
             30, 271-2, 323, 380; ii, 6, 19, 170, 371, 390; iv, xlvi-xlviii,

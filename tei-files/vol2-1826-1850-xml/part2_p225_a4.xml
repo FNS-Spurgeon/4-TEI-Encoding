@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1839, Frederic Madden. Sir Gawayne,</title>
+        <title>1839, Frederic Madden. Sir Gawayne.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/74608937">Frederic Madden</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/74608937">Madden, Frederic</author>
             <date cert="high" when="1839">1839</date>
-            <title level="a">Sir Gawayne,</title>
+            <title level="a">Sir Gawayne.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,12 +84,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="225"/>
-        <ab type="imprint">1839. Madden, Sir Frederic. Sir Gawayne, ed. Sir F. Madden, Bannatyne Club, Introd. pp. xn., xxxix, Notes, 301, 321, 358.</ab>
+        
+        <ab type="imprint">1839. Madden, Sir Frederic. <hi rend="italic">Sir Gawayne</hi>, ed. Sir F. Madden, Bannatyne Club, Introd. pp. xn., xxxix, Notes, 301, 321, 358.</ab>
+        
         <ab type="quotation">
-          <seg>[p. xxxix] [Reference to Chaucer's lines on Sir Gawain, Squieres Tale,
-l. 75, and Rom. of the Rose, B. l. 2209.]
-[p. 358] [Bishop Percy considered that Chaucer borrowed the Wife
-of Bath’s Tale from Sir Gawain, see above, 1765, vol. i, p. 428.]</seg>
+          <seg type="editorial"><note place="margin">[p. xxxix]</note>[Reference to Chaucer's lines on Sir Gawain, <hi rend="italic">Squieres Tale</hi>,
+            l. 75, and <hi rend="italic">Rom. of the Rose</hi>, B. l. 2209.]</seg>
+            
+          <seg type="editorial"><note place="margin">[p. 358]</note>[Bishop Percy considered that Chaucer borrowed the <hi rend="italic">Wife
+            of Bath’s Tale</hi> from <hi rend="italic">Sir Gawain</hi>, see above, 1765, vol. i, p. 428.]</seg>
         </ab>
       </div>
     </body>

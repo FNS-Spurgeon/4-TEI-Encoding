@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p59_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p59_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,11 +94,12 @@
             supports the opinion of Wallis and Tyrwhitt in his Essay on
             the versification of Chaucer, that the final e which is at present
             mute, was anciently pronounced obscurely like the e feminine
-            of the French. . . . .' <add>[Quotation from <hi rend="italic">Troilus and Creseide</hi>,
-            i, 1-5, follows.]</add></seg>
+            of the French. . . . .'</seg>
+          
+          <seg type="editorial">[Quotation from <hi rend="italic">Troilus and Creseide</hi>, i, 1-5, follows.]</seg>
             
           <seg><note place="margin">[p. 255]</note><add>[136. <hi rend="italic">Troilus and Creseide</hi>.]</add>
-            It is evident from the first stanza of this poem (just quoted),
+            <lb/>It is evident from the first stanza of this poem (just quoted),
             when the narrator says 'er that I part froy,' that Chaucer
             intended it for one of his Canterbury Tales, and this seems
             to be confirmed by the 65th stanza of the first book.
@@ -108,8 +107,8 @@
               <l>For aie the nere the fire the hotter is,</l>
               <l>This (trow I) knoweth all this companie.</l>
             </lg>
-            I do not know whether this has been observed before. A com¬
-            pleat and faithful edition of the works of this great father of
+            I do not know whether this has been observed before. A compleat
+            and faithful edition of the works of this great father of
             English poetry, with an accurate verbal index, as well as
             glossary, is much to be desired.</seg>
         </ab>

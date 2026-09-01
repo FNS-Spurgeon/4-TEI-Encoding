@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p134_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p134_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +86,7 @@
         <ab type="imprint">1821. Shelley, Mary Wollstonecraft. <hi rend="italic">Journal</hi>, [printed in] Shelley and Mary, 4 vols. [privately printed, 1882], vol. iii, p. 716.</ab>
         
         <ab type="quotation">
-          <seg>Shelley reads Chaucer's "Flower and the Leaf," and then Chaucer's “Dream" to me.<note type="footnote">Note in Spurgeon: [Chaucer's "Dream" may be either the Book of the Duchess or the non-Chaucerian Isle of Ladies. <lb/>Mary Shelley says of Shelley (perhaps referring only to his earlier years), in her note to Queen Mab (Poetical Works, 1908, ed. T. Hutchinson, p. 828), "Our earlier poetry was almost unknown to him."]</note></seg>
+          <seg>Shelley reads Chaucer's "Flower and the Leaf," and then Chaucer's "Dream" to me.<note type="footnote">Note in Spurgeon: [Chaucer's "Dream" may be either the Book of the Duchess or the non-Chaucerian Isle of Ladies. <lb/>Mary Shelley says of Shelley (perhaps referring only to his earlier years), in her note to Queen Mab (Poetical Works, 1908, ed. T. Hutchinson, p. 828), "Our earlier poetry was almost unknown to him."]</note></seg>
         </ab>
       </div>
     </body>

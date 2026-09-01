@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1842, Walter Savage Landor. Southey and Porson (Second Conversa tion),</title>
+        <title>1842, Walter Savage Landor. Southey and Porson (Second Conversation).</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Walter Savage Landor</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Landor, Walter Savage</author>
             <date cert="high" when="1842">1842</date>
-            <title level="a">Southey and Porson (Second Conversa tion),</title>
+            <title level="a">Southey and Porson (Second Conversation).</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,41 +84,49 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="244"/>
-        <ab type="imprint">1842. Landor, Walter Savage. Southey and Porson (Second Conversa tion), [in] Blackwood’s Edinburgh Magazine, Dec. 1842, vol. lii, p. 710. (Works, 1846, vol. i, pp. 80-81; Imaginary Conversations, ed. C. G. Crump, 1891, 6 vols., vol. iii, pp. 250-52.)</ab>
+        
+        <ab type="imprint">1842. Landor, Walter Savage. <hi rend="italic">Southey and Porson</hi> (<hi rend="italic">Second Conversation</hi>), [in] Blackwood’s Edinburgh Magazine, Dec. 1842, vol. lii, p. 710. (Works, 1846, vol. i, pp. 80-81; Imaginary Conversations, ed. C. G. Crump, 1891, 6 vols., vol. iii, pp. 250-52.)</ab>
+        
         <ab type="quotation">
-          <seg>SOUTHEY AND PORSON.
-[vol. ii,
-p. 250]
-Porson. There is scarcely a poet of the same eminence
-[as Spenser] whom I have found it so delightful to read in, or
-so tedious to read through. Give me Chaucer in preference.
-He slaps us on the shoulder, and makes us spring up while the
-dew is on the grass, and while the long shadows play about it
-in all quarters. We feel strong with the freshness round us,
-and we return with a keener appetite, having such a companion
-in our walk. Among the English poets, both on this side and
-the other side of Milton, I place him next to Shakspeare; but
-the word next, must have nothing to do with the word near.  ...
-[p 251] I like Pietro Perugino a thousand-fold better than Carlo
-Maratta, and Giotto a thousand-fold better than Carlo Dolce.
-On the same principle, the daybreak of Chaucer is pleasanter
-to me than the hot dazzling noon of Byron.
-Southey.... His [Byron's] partisans, no one of whom prob¬
-ably ever read Chaucer, would be indignant at your preference.
-They would wonder, but hardly with the same violence of
-emotion, that he was preferred to Shakspeare. Perhaps his
-countrymen in his own age, which rarely happens to literary
-[p. 252] men overshadowingly great, had glimpses of his merit. One
-would naturally think that a personage of Camden’s gravity,
-and placed beyond the pale of poetry, might have spoken less
-contemptuously of some he lived among, in his admiration of
-Chaucer. He tells us both in prose and verse by implication,
-how little he esteemed Shakspeare. Speaking of Chaucer
-he says, “he, surpassing all others, without question, in wit,
-and leaving our smattering poetasters by many leagues behind
-him,
-‘jam monte potitus
-Ridet anhelantem dura ad fastigia turbam.’</seg>
+          <seg><note place="margin">[vol. ii, p. 250]</note>SOUTHEY AND PORSON.
+            <lb/>Porson. There is scarcely a poet of the same eminence
+            <add>[as Spenser]</add> whom I have found it so delightful to read in, or
+            so tedious to read through. Give me Chaucer in preference.
+            He slaps us on the shoulder, and makes us spring up while the
+            dew is on the grass, and while the long shadows play about it
+            in all quarters. We feel strong with the freshness round us,
+            and we return with a keener appetite, having such a companion
+            in our walk. Among the English poets, both on this side and
+            the other side of Milton, I place him next to Shakspeare; but
+            the word next, must have nothing to do with the word near. . . .</seg>
+            
+          <seg><note place="margin">[p 251]</note>I like Pietro Perugino a thousand-fold better than Carlo
+            
+            <milestone unit="page" n="245"/>
+            
+            Maratta, and Giotto a thousand-fold better than Carlo Dolce.
+            On the same principle, the daybreak of Chaucer is pleasanter
+            to me than the hot dazzling noon of Byron.</seg>
+            
+          <seg>Southey. . . . His <add>[Byron's]</add> partisans, no one of whom probably
+            ever read Chaucer, would be indignant at your preference.
+            They would wonder, but hardly with the same violence of
+            emotion, that he was preferred to Shakspeare. Perhaps his
+            countrymen in his own age, which rarely happens to literary
+            <note place="margin">[p. 252]</note>men overshadowingly great, had glimpses of his merit. One
+            would naturally think that a personage of Camden’s gravity,
+            and placed beyond the pale of poetry, might have spoken less
+            contemptuously of some he lived among, in his admiration of
+            Chaucer. He tells us both in prose and verse by implication,
+            how little he esteemed Shakspeare. Speaking of Chaucer
+            he says, “he, surpassing all others, without question, in wit,
+            and leaving our smattering poetasters by many leagues behind
+            him,
+            <lg>
+              <l>‘jam monte potitus</l>
+              <l>Ridet anhelantem dura ad fastigia turbam.’</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

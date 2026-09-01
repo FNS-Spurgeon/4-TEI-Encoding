@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p109_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p109_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,9 +86,9 @@
         <ab type="imprint">1818. Todd, Henry John. <hi rend="italic">Johnson's Dictionary</hi>, ed. by the Rev. H. J. Todd, 4 vols., vol. i, pp. liv, lxx n., lxxvi-vii.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. liv]</note>[Quotation from <hi rend="italic">Sir Thopas</hi>, giving the “romaunces of pris."]</seg>
+          <seg type="editorial"><note place="margin">[p. liv]</note>[Quotation from <hi rend="italic">Sir Thopas</hi>, giving the "romaunces of pris."]</seg>
             
-          <seg type="editorial"><note place="margin">[p.lxiii]</note>[Johnson says that “Gower calls Chaucer his disciple." On this Todd says:]</seg>
+          <seg type="editorial"><note place="margin">[p.lxiii]</note>[Johnson says that "Gower calls Chaucer his disciple." On this Todd says:]</seg>
             
           <seg>Dr. Johnson is mistaken in saying that
             Gower calls Chaucer his disciple; for it is Venus whom Gower
@@ -101,7 +99,7 @@
             after the decease of these poets, usually coupling their names
             and describing their accomplishments, place Gower before
             Chaucer; not intending precedence in respect to talents, but
-            merely to seniority. John Fox observes, that “he (Chaucer)
+            merely to seniority. John Fox observes, that "he (Chaucer)
             and Gower were both of one time; although it seemeth that
             Gower was a great deale his ancient.”</seg>
             

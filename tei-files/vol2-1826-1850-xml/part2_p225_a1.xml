@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1839, Unknown. MSS of Chaucer in the Bodleian Library,</title>
+        <title>1839, Unknown. MSS of Chaucer in the Bodleian Library.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1839">1839</date>
-            <title level="a">MSS of Chaucer in the Bodleian Library,</title>
+            <title level="a">MSS of Chaucer in the Bodleian Library.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,13 +86,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="225"/>
-        <ab type="imprint">1839. H., H. MSS of Chaucer in the Bodleian Library, [in] The Gentleman’s Magazine, January, 1839, new series, vol. xi, pp. 50-1.</ab>
+        
+        <ab type="imprint">1839. H., H. <hi rend="italic">MSS of Chaucer in the Bodleian Library</hi>, [in] The Gentleman’s Magazine, January, 1839, new series, vol. xi, pp. 50-1.</ab>
+        
         <ab type="quotation">
-          <seg>[A letter drawing attention to different readings in the
-spurious Cuckoo and Nightingale in Fairfax 16, and Arch.
-Seld. B. 24, and to the ending of the Parlement of Foules in
-Arch. Seld. B. 24, the last 11 stanzas of which differ entirely
-from the 13 stanzas which ordinarily end it.]</seg>
+          <seg type="editorial">[A letter drawing attention to different readings in the
+            spurious <hi rend="italic">Cuckoo and Nightingale</hi> in Fairfax 16, and Arch.
+            Seld. B. 24, and to the ending of the <hi rend="italic">Parlement of Foules</hi> in
+            Arch. Seld. B. 24, the last 11 stanzas of which differ entirely
+            from the 13 stanzas which ordinarily end it.]</seg>
         </ab>
       </div>
     </body>

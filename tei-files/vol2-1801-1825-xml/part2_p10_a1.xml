@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p10_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p10_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,8 +88,8 @@
         <ab type="quotation">
           <seg>Nov. 8, 1803.
             <lb/>MY DEAR SIR,—I have been sitting down for three or
-            four days successively to the review [of Godwin's Life of
-            Chaucer], which I so much wished to do well, and to your
+            four days successively to the review <add>[of Godwin's <hi rend="italic">Life of
+            Chaucer</hi>]</add>, which I so much wished to do well, and to your
             satisfaction. But I can produce nothing but absolute flatness
             and nonsense. My health and spirits are so bad, and my
             nerves so irritable, that I am sure, if I persist, I shall teaze

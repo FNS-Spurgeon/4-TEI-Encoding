@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p32_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p32_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,17 +85,17 @@
       <div type="allusion">
         <milestone unit="page" n="32"/>
         
-        <ab type="imprint">1807. Hoppner, John. <hi rend="italic">Letter to Richard Cumberland</hi>, dated May 30, 1807, [printed in] <hi rend="italic">Critical Description of... Chaucer's Pilgrims ... by Thomas Stothard</hi>, by William Carey, 1808 [q.v. below], pp. 12, 13.</ab>
+        <ab type="imprint">1807. Hoppner, John. <hi rend="italic">Letter to Richard Cumberland</hi>, dated May 30, 1807, [printed in] <hi rend="italic">Critical Description of . . . Chaucer's Pilgrims . . . by Thomas Stothard</hi>, by William Carey, 1808 [q.v. below], pp. 12, 13.</ab>
         
         <ab type="quotation">
-          <seg><add>[The letter is a critical description of Stothard’s painting of
-            Chaucer's pilgrims. The painter, says Hoppner, in delineating
-            the pilgrims, shows that he has]</add> studied the human heart with
-            as much attention, and not less successfully, than the Poet.</seg>
-            
-          <seg><add>[There follows praise of the landscape, the freshness of the
-            spring morning, of which we see the influence on]</add> the cheeks
-            of the Fair Wife of Bath, and her rosy Companions, the
+          <seg type="editorial">[The letter is a critical description of Stothard’s painting of
+            Chaucer's pilgrims. The painter, says Hoppner, in delineating the pilgrims, shows that he has]</seg>
+          
+          <seg>studied the human heart with as much attention, and not less successfully, than the Poet.</seg>
+          
+          <seg type="editorial">[There follows praise of the landscape, the freshness of the spring morning, of which we see the influence on]</seg>
+          
+          <seg>the cheeks of the Fair Wife of Bath, and her rosy Companions, the
             Monk and Friar.</seg>
             
           <seg><add>[The picture has a further peculiarity]</add> that it bears no mark

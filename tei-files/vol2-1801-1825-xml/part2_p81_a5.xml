@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p81_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p81_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +86,9 @@
         <ab type="imprint">1816. Hazlitt, William. <hi rend="italic">On Pedantry</hi>, [in] The Round Table. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. i, pp. 84-5.)</ab>
         
         <ab type="quotation">
-          <seg>Chaucer has drawn a beautiful picture of a true scholar in his Clerk of Oxenford. <add>[Prol. 285-308, is then quoted.]</add></seg>
+          <seg>Chaucer has drawn a beautiful picture of a true scholar in his Clerk of Oxenford.</seg>
+          
+          <seg type="editorial">[Prol. 285-308, is then quoted.]</seg>
         </ab>
       </div>
     </body>

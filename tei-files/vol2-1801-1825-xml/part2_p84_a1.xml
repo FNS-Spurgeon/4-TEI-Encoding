@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p84_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p84_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +88,7 @@
         <ab type="quotation">
           <seg><note place="margin">[Vol. i, p. 31]</note>It was chiefly on his books that he <add>[Mr. Oldbuck]</add> prided
             himself, repeating, with a complacent air, as he led the way to
-            the crowded and dusty shelves, the verses of old Chaucer–
+            the crowded and dusty shelves, the verses of old Chaucer—
             <lg>
               <l>For he would rather have, at his bed-head,</l>
               <l>A twenty books, clothed in black or red,</l>

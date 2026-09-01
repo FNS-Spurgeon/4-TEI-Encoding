@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p5_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p5_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -37,7 +35,7 @@
         <biblStruct>
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/8756278">Thomson, Alexander</author>
-            <date cert="low" when="1803">[a. 1803]</date>
+            <date cert="low" notAfter="1803">[a. 1803]</date>
             <title level="a">MS. Criticism on the Howlat.</title>
           </analytic>
           <monogr>
@@ -98,7 +96,7 @@
             of birds, and the personification of Nature are, both of them,
             imitations of Chaucer; but the former is inferior, in every
             
-            <milestone unit="6"/>
+            <milestone unit="page" n="6"/>
             
             respect, to the characteristic sketches of his master; and the
             latter is so little suited to the situation in which it stands,

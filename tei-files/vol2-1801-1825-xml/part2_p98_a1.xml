@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p98_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p98_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -136,7 +134,7 @@
             </lg>
             . . . . . . . .
             <lg>
-              <l>Right so Cresseide, . . .’ [etc., one stanza].</l>
+              <l>Right so Cresseide, . . .’ <add>[etc., one stanza]</add>.</l>
               <note place="right">[Troilus, Bk. iii, ll. 1283-9.]</note>
             </lg>
           </seg>
@@ -147,14 +145,14 @@
             the two things seem identified with each other. Again, it is
             said in the Knight's Tale–
             <lg>
-              <l>‘Thus passeth yere by yere, and day by day [etc., to]</l>
+              <l>‘Thus passeth yere by yere, and day by day <add>[etc., to]</add></l>
               <note place="margin">[p. 21]</note><l>I n'ot which was the finer of hem two.’</l>
               <note place="right">[Knight's Tale, ll. 175-81.]</note>
             </lg>
           </seg>
             
           <seg>This scrupulousness about the literal preference, as if some
-            question of matter of fact was at issue, is remarkable.<note type="footnote">[See Gifford's criticism of this passage, 1818, above, and Hazlitt's answer below, 1819.]</note> I
+            question of matter of fact was at issue, is remarkable.<note type="footnote">Note in Spurgeon: [See Gifford's criticism of this passage, 1818, above, and Hazlitt's answer below, 1819.]</note> I
             might mention that other, where he compares the meeting
             between Palamon and Arcite to a hunter waiting for a lion in
             a gap ;—
@@ -298,7 +296,7 @@
             subject, which enabled Chaucer to describe the grief and
             perseverance of the little child, who, going to school through
             the streets of Jewry,
-            <l>‘Oh Alma Redemptoris mater, loudly sung,’<note type="footnote">[This line, which has two syllables too many, does not occur in the <hi rend="italic">Prioresses Tale</hi>.]</note></l>
+            <l>‘Oh Alma Redemptoris mater, loudly sung,’<note type="footnote">Note in Spurgeon: [This line, which has two syllables too many, does not occur in the <hi rend="italic">Prioresses Tale</hi>.]</note></l>
             and who after his death, still triumphed in his song.
             Chaucer has more of this deep, internal, sustained sentiment,
             than any other writer, except Boccaccio. In depth of simple

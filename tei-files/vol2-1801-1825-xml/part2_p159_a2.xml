@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p159_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p159_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +89,7 @@
           <seg><note place="margin">[p. 48]</note>Chaucer . . . raised poetry from the dust. He has been
             likened to ‘the spring,’ and has been called the ‘morning
             star’ of English poetry. He was so; or rather, he was a sun
-            whom no star preceded,–who rose above our literary horizon,
+            whom no star preceded,—who rose above our literary horizon,
             dissipating the wandering lights and sullen vapours which
             hung about it; and who, by a power independent of accident
             or the time, threw out a dazzling splendour, which showed

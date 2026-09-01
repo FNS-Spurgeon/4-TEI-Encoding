@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1843, Geoffrey Chaucer. Poetical Works of Chaucer,</title>
+        <title>1843, Geoffrey Chaucer. Poetical Works of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Chaucer, Geoffrey</author>
             <date cert="high" when="1843">1843</date>
-            <title level="a">Poetical Works of Chaucer,</title>
+            <title level="a">Poetical Works of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#works" target="#"/>
+        <catRef scheme="#works" target="#editionsCompleteWorks"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,7 +86,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="246"/>
-        <ab type="imprint">1843. Chaucer, Geoffrey. Poetical Works of Chaucer, with an essay on his language, etc. by T. Tyrwhitt; Moxon. [The Canterbury Tales and essay are reprinted from Tyrwhitt's edition of 1775-8. For an account of this edn., see Chaucer, by E. P. Hammond, p. 139.]</ab>
+        
+        <ab type="imprint">1843. Poetical Works of Chaucer, with an essay on his language, etc. by T. Tyrwhitt; Moxon. [The Canterbury Tales and essay are reprinted from Tyrwhitt's edition of 1775-8. For an account of this edn., see Chaucer, by E. P. Hammond, p. 139.]</ab>
       </div>
     </body>
   </text>

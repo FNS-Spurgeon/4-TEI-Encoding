@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p17_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p17_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,10 +91,10 @@
           <seg><note place="margin">[p.55]</note>The perusal of this title excited no small surprise in our
             critical fraternity. The authenticated passages of Chaucer's
             life may be comprised in half a dozen pages; and behold two
-            voluminous quartos!</seg>
+            voluminous quartos!
+            <lb/>. . . . . . . . . .
+          </seg>
           
-          <lb/>. . . . . . . . . .
-            
           <seg><note place="margin">[p. 56]</note>The reader will learn, with admiration, that Mr. William
             <note place="margin">[p. 57]</note>Godwin’s two quarto volumes contain hardly the vestige of an
             authenticated fact concerning Chaucer, which is not to be
@@ -110,9 +108,9 @@
             receipt for half a year’s salary. These, with a few documents
             referring to John of Gaunt, make the Appendix to the book,
             and are the only original materials brought to light by the
-            labours of the author.</seg>
-            
-          <lb/>. . . . . . . . . .
+            labours of the author.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p. 65]</note>The public are indebted to Mr. Godwin for the recovery of
             <note place="margin">[p. 66]</note>Chaucer's evidence in a question about bearing arms, occurring
@@ -124,10 +122,10 @@
               are due to him.</note>; but the manner in which it
             is narrated, is a good illustration of the strained inferences
             concerning Chaucer’s temper and disposition, deduced by his
-            biographer from the most common and trivial occurrences.</seg>
-            
-          <lb/>. . . . . . . . . .
-            
+            biographer from the most common and trivial occurrences.
+            <lb/>. . . . . . . . . .
+          </seg>
+                        
           <seg><note place="margin">[p. 68]</note>Some particular passages of the life, are less fancifully and
             more correctly delineated. Mr. Godwin combats, and in our
             opinion successfully, the opinion of those who deny the
@@ -143,9 +141,9 @@
             <note place="margin">[p. 69]</note>farrago which he calls the life of Chaucer, he had given us a
             correct edition of the miscellaneous poetry of the author, upon
             the same plan with Mr. Tyrwhitt's admirable Canterbury
-            Tales.</seg>
-            
-          <lb/>. . . . . . . . . .
+            Tales.
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg>We were much surprised to find, that the Canterbury Tales,
             <note place="margin">[p 70]</note>the most important, as well as the most exquisite, of Chaucer's
@@ -179,9 +177,9 @@
             believe that he has seen and regretted his error; but it is a
             poor excuse, after writing a huge book, to tell the reader that
             it is but "superficial work," because the author "came a novice
-            to such an undertaking."</seg>
-            
-          <lb/>. . . . . . . . . .
+            to such an undertaking."  
+            <lb/>. . . . . . . . . .
+          </seg>
             
           <seg><note place="margin">[p.79]</note>But, upon the whole, the Life of Chaucer, if an uninteresting,
             <note place="margin">[p. 80]</note>is an innocent performance; and were its prolixities and

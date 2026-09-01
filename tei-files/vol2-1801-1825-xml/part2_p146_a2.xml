@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p146_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p146_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1828, David Laing. The Buke of the Howlat by Holland.</title>
+        <title>1823, David Laing. The Buke of the Howlat by Holland.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,7 +35,7 @@
         <biblStruct>
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/52470786">Laing, David</author>
-            <date cert="high" when="1828">1828</date>
+            <date cert="high" when="1823">1823</date>
             <title level="a">The Buke of the Howlat by Holland.</title>
           </analytic>
           <monogr>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="146"/>
         
-        <ab type="imprint">1828. Laing, David. <hi rend="italic">The Buke of the Howlat by Holland</hi>, ed. D. Laing, Bannatyne Club, pp. xvi, xxii, 5.</ab>
+        <ab type="imprint">1823. Laing, David. <hi rend="italic">The Buke of the Howlat by Holland</hi>, ed. D. Laing, Bannatyne Club, pp. xvi, xxii, 5.</ab>
         
         <ab type="quotation">
           <seg type="editorial">[For Laing’s print of Alexander Thomson's MS. Critique on the <hi rend="italic">Howlat</hi>, see above, a. 1803, Thomson.]</seg>

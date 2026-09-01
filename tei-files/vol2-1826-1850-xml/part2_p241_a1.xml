@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1841], Unknown. The Book of the Poets (Chaucer to Beattie),</title>
+        <title>[a. 1841], Unknown. The Book of the Poets (Chaucer to Beattie).</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,8 +37,8 @@
         <biblStruct>
           <analytic>
             <author>Unknown</author>
-            <date cert="low" when="[a. 1841]">[a. 1841]</date>
-            <title level="a">The Book of the Poets (Chaucer to Beattie),</title>
+            <date cert="low" notAfter="1841">[a. 1841]</date>
+            <title level="a">The Book of the Poets (Chaucer to Beattie).</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,10 +84,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="241"/>
-        <ab type="imprint">[a. 1841.] Unknown. The Book of the Poets (Chaucer to Beattie), pp. xvi-xviii [Essay on English Poetry; enthusiastic praise of Chaucer’s poetry], 2 [biographical sketch of Chaucer], 3-7.</ab>
+        
+        <ab type="imprint">[a. 1841.] Unknown. <hi rend="italic">The Book of the Poets</hi> (<hi rend="italic">Chaucer to Beattie</hi>), pp. xvi-xviii [Essay on English Poetry; enthusiastic praise of Chaucer’s poetry], 2 [biographical sketch of Chaucer], 3-7.</ab>
+        
         <ab type="quotation">
-          <seg>[Extracts, un modernized, from the Knightes Tale, Prologue and Sir Thopas, and the Good Counsail. On p. 3 is an engraving of the inter ruption by Theseus of the duel between Palamon and Arcite. For the serial review by Elizabeth Barrett, see below, 1842].</seg>
-          <note type="footnote">Note in Spurgeon: [The "new edition" of this book, 1841, is the first in the English Catalogue; that of 1846, with steel engravings after Corbould, is the first in B.M. The references given above are to this edn.]</note>
+          <seg type="editorial">[Extracts, unmodernized, from the <hi rend="italic">Knightes Tale</hi>, <hi rend="italic">Prologue</hi> and <hi rend="italic">Sir Thopas</hi>, and the <hi rend="italic">Good Counsail</hi>. On p. 3 is an engraving of the interruption by Theseus of the duel between Palamon and Arcite. For the serial review by Elizabeth Barrett, see below, 1842].<note type="footnote">Note in Spurgeon: [The "new edition" of this book, 1841, is the first in the English Catalogue; that of 1846, with steel engravings after Corbould, is the first in B.M. The references given above are to this edn.]</note></seg>
         </ab>
       </div>
     </body>

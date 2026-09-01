@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">William Wordsworth</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35723133">Wordsworth, William</author>
             <date cert="high" when="1835">1835</date>
             <title level="a">Postscript to the Poetical Works.</title>
           </analytic>
@@ -84,12 +84,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="201"/>
-        <ab type="imprint">1835. Wordsworth, William. Postscript to the Poetical Works. (Prose Works, 2 vols., 1896, vol. ii, p. 364.)</ab>
+        
+        <ab type="imprint">1835. Wordsworth, William. <hi rend="italic">Postscript to the Poetical Works</hi>. (Prose Works, 2 vols., 1896, vol. ii, p. 364.)</ab>
+        
         <ab type="quotation">
           <seg>How agreeable to picture to one's self, as has been done by
-poets and romance-writers, from Chaucer down to Goldsmith,
-a man devoted to his ministerial office, with not a wish or a
-thought ranging beyond the circuit of its cares!</seg>
+            poets and romance-writers, from Chaucer down to Goldsmith,
+            a man devoted to his ministerial office, with not a wish or a
+            thought ranging beyond the circuit of its cares!</seg>
         </ab>
       </div>
     </body>

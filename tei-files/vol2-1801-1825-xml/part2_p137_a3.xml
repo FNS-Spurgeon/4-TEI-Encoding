@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p137_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p137_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -105,8 +103,8 @@
             <note place="margin">[p. 404]</note>great wagons that travel into Kent . . . An inscription
             over the gateway proclaimed it to be the inn where Chaucer's
             pilgrims slept on the night previous to their departure, and
-            at the bottom of the yard was a magnificent sign, repre¬
-            senting them in the act of sallying forth. I was pleased too
+            at the bottom of the yard was a magnificent sign, representing
+            them in the act of sallying forth. I was pleased too
             at noticing, that though the present inn was comparatively
             modern, yet the form of the old inn was preserved. There
             were galleries round the yard, as in old times, on which

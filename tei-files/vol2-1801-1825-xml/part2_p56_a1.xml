@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p56_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p56_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,7 +94,7 @@
             
           <seg><note place="margin">[p. 425]</note>The days and evenings were now <add>[1806]</add> devoted to reading
             <add>[aloud to Fox]</add> <hi rend="italic">Palamon and Arcite</hi> improved by Dryden,
-            Johnson's lives of the poets,—the Æneid,–and Swift's Poetry.<note type="footnote">Note in Spurgeon: [See also below, App. A., 1800.]</note></seg>
+            Johnson's lives of the poets,—the Æneid,—and Swift's Poetry.<note type="footnote">Note in Spurgeon: [See also below, App. A., 1800.]</note></seg>
         </ab>
       </div>
     </body>

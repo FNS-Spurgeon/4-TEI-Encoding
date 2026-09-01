@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p64_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p64_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -101,8 +99,11 @@
           <seg><note place="margin">[Notes][pp. 121, 122]</note>Of the studious disposition of all our greatest poets we
             'have complete evidence. Chaucer's eagle in the House of
             Fame accuses him of being so desperate a student, that he
-            takes no heed of anybody, and reads till he looks stupid;
-            <lb/><add>[Here follows a quotation, beginning:]</add>
+            takes no heed of anybody, and reads till he looks stupid;</seg>
+            
+          <seg type="editorial"><lb/>[Here follows a quotation, beginning:]</seg>
+          
+          <seg>
             <lg>
               <l>. . . No tidinges comin to the, . . .</l>
               <l><add>[and ending]</add> And al so dombe as any stone</l>

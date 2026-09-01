@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p143_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p143_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -95,7 +93,7 @@
             jacket or sleeveless coat."</seg>
             
           <seg>The witty poet of "olden time" notices at length the
-            accommodation afforded in “Southwerk, at the Tabard."</seg>
+            accommodation afforded in "Southwerk, at the Tabard."</seg>
             
           <seg type="editorial">[Quotations, Prol., ll. 24-5, 28-9, 718-21 (i. e. 716-19).]</seg>
         </ab>

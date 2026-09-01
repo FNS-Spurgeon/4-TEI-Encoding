@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p89_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p89_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -100,8 +98,8 @@
           
           <seg><note place="margin">[p. 186]</note>It is not one of the least curious instances of the native
             spirit of this country, that three out of its four greatest poets
-            — Chaucer, Spenser, and Milton–have been men of busy
-            action in the political world,–that two out of the three were
+            —Chaucer, Spenser, and Milton—have been men of busy
+            action in the political world,—that two out of the three were
             unequivocally on the side of freedom, and helped to procure
             us our present enjoyments. . . . Thomson was of a cheerful
             temperament . . . and so was Chaucer, till he got into prison

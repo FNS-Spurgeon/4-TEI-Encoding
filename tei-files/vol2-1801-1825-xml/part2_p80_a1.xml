@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p80_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p80_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,10 +86,10 @@
         <ab type="imprint">1815. Turner, Sharon. <hi rend="italic">History of England</hi>, vol. ii.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Part V, containing five chapters, is a “History of English
+          <seg type="editorial">[Part V, containing five chapters, is a "History of English
             Poetry, from the twelfth century to the middle of the fifteenth."
-            Of these chapters, no. iv (pp. 499-538) concerns the “Life and Poems
-            of Chaucer,” and is based principally on Godwin and a study of the
+            Of these chapters, no. iv (pp. 499-538) concerns the "Life and Poems
+            of Chaucer," and is based principally on Godwin and a study of the
             text. There are many quotations, principally from the Testament,
             Dream, Legende, Troilus, Assemble of Fowles, Complaint of the
             Black Knight. A general account of the works is given. Other

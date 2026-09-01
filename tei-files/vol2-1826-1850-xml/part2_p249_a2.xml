@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n.a. 1843], Robert Southey. Commonplace</title>
+        <title>[n.a. 1843], Robert Southey. Commonplace Book.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/61576896">Robert Southey</author>
-            <date cert="low" when="[n.a. 1843]">[n.a. 1843]</date>
-            <title level="a">Commonplace</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/61576896">Southey, Robert</author>
+            <date cert="low" notAfter="1843">[n.a. 1843]</date>
+            <title level="a">Commonplace Book.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,35 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="249"/>
-        <ab type="imprint">[n.a. 1843.] Southey, Robert. Commonplace Book, ed. J. W. Warter, 1849-51, 4 vols., vol. i, p. 438 [quotes Habington's Castara, q. v. above, 1635, vol. i, p. 216]; vol. ii, pp. 315-16 [quotations from Rom. Rose for Primitive Dance, Idilnesse, Yellow Hair, Wall Painting, Fastening on of Clothes with a Needle, the Undress of Avarice, and the Game of Bilbo-Catch, the last with a quotation from the French original], 333 [Frankeleyn's Prol. quoted for borel]; vol. iii, pp. 227 [see above, c. 1810], 544 [Pinkerton pro posed to J. Nichols to publish the select works of Chaucer, 1783 (q. v. above, vol. i, p. 473)]; vol. iv, p. 259 [we have no language into which to translate the early (i. e. the Anglo-Saxon ?) poets; "that of Chaucer is too rugged, and almost as difficult"], 310 [quotations from Jackson (q.v. below, App. A., 1657) : “our pos terity within few years will hardly understand some passages in ... Chaucer, better known at this day to old courtiers than to young students"], 322-3 [Malcolm’s account of Chaucer, taken from Stowe (q.v. above, 1803), Lane’s Squire's Tale (q. v. above, 1614, vol. i, p. 189), Dryden’s account of Cowley's distaste for Chaucer (q. v. above, 1700, vol. i, p. 281, and below, App. A. [a. 1667] Cowley), and other references, quoted], 326 [Ben Jonson, in The Golden Age Restored, calls up Gower and Lydgate with Chaucer and Spenser (q. v. above, 1615, vol. i, p. 190)], 331 [quota tions from the Monthly Review (q.v. below, App. A., 1761), that "Spenser, Jonson, Beaumont, Fletcher... are now almost as little known or read as Chaucer, Lydgate, Gower..."], 634 [Gavin Douglas' reference to Chaucer quoted (q.v. above, 1501, vol. i, p. 65)].</ab>
-        <ab type="quotation">
-          <seg>Book, ed. J. W. Warter,
-1849-51, 4 vols., vol. i, p. 438 [quotes Habington's Castara, q. v.
-above, 1635, vol. i, p. 216]; vol. ii, pp. 315-16 [quotations from
-Rom. Rose for Primitive Dance, Idilnesse, Yellow Hair, Wall¬
-Painting, Fastening on of Clothes with a Needle, the Undress of
-Avarice, and the Game of Bilbo-Catch, the last with a quotation
-from the French original], 333 [Frankeleyn's Prol. quoted for
-borel]; vol. iii, pp. 227 [see above, c. 1810], 544 [Pinkerton pro¬
-posed to J. Nichols to publish the select works of Chaucer, 1783
-(q. v. above, vol. i, p. 473)]; vol. iv, p. 259 [we have no language
-into which to translate the early (i. e. the Anglo-Saxon ?) poets;
-"that of Chaucer is too rugged, and almost as difficult"], 310
-[quotations from Jackson (q.v. below, App. A., 1657) : “our pos¬
-terity within few years will hardly understand some passages in
-... Chaucer, better known at this day to old courtiers than to
-young students"], 322-3 [Malcolm’s account of Chaucer, taken
-from Stowe (q.v. above, 1803), Lane’s Squire's Tale (q. v. above,
-1614, vol. i, p. 189), Dryden’s account of Cowley's distaste for
-Chaucer (q. v. above, 1700, vol. i, p. 281, and below, App. A.
-[a. 1667] Cowley), and other references, quoted], 326 [Ben Jonson,
-in The Golden Age Restored, calls up Gower and Lydgate with
-Chaucer and Spenser (q. v. above, 1615, vol. i, p. 190)], 331 [quota¬
-tions from the Monthly Review (q.v. below, App. A., 1761), that
-"Spenser, Jonson, Beaumont, Fletcher... are now almost as little
-known or read as Chaucer, Lydgate, Gower..."], 634 [Gavin
-Douglas' reference to Chaucer quoted (q.v. above, 1501, vol. i, p. 65)].</seg>
-        </ab>
+        
+        <ab type="imprint">[n.a. 1843.] Southey, Robert. <hi rend="italic">Commonplace Book</hi>, ed. J. W. Warter, 1849-51, 4 vols., vol. i, p. 438 [quotes Habington's <hi rend="italic">Castara</hi>, q. v. above, 1635, vol. i, p. 216]; vol. ii, pp. 315-16 [quotations from <hi rend="italic">Rom. Rose</hi> for Primitive Dance, Idilnesse, Yellow Hair, Wall Painting, Fastening on of Clothes with a Needle, the Undress of Avarice, and the Game of Bilbo-Catch, the last with a quotation from the French original], 333 [<hi rend="italic">Frankeleyn's Prol.</hi> quoted for borel]; vol. iii, pp. 227 [see above, c. 1810], 544 [Pinkerton proposed to J. Nichols to publish the select works of Chaucer, 1783 (q. v. above, vol. i, p. 473)]; vol. iv, p. 259 [we have no language into which to translate the early (i. e. the Anglo-Saxon ?) poets; "that of Chaucer is too rugged, and almost as difficult"], 310 [quotations from Jackson (q.v. below, App. A., 1657): "our pos terity within few years will hardly understand some passages in . . . Chaucer, better known at this day to old courtiers than to young students"], 322-3 [Malcolm’s account of Chaucer, taken from Stowe (q.v. above, 1803), Lane’s <hi rend="italic">Squire's Tale</hi> (q. v. above, 1614, vol. i, p. 189), Dryden’s account of Cowley's distaste for Chaucer (q. v. above, 1700, vol. i, p. 281, and below, App. A. <milestone unit="page" n="250"/> [a. 1667] Cowley), and other references, quoted], 326 [Ben Jonson, in <hi rend="italic">The Golden Age Restored</hi>, calls up Gower and Lydgate with Chaucer and Spenser (q. v. above, 1615, vol. i, p. 190)], 331 [quotations from the Monthly Review (q.v. below, App. A., 1761), that "Spenser, Jonson, Beaumont, Fletcher . . . are now almost as little known or read as Chaucer, Lydgate, Gower . . ."], 634 [Gavin Douglas' reference to Chaucer quoted (q.v. above, 1501, vol. i, p. 65)].</ab>
       </div>
     </body>
   </text>

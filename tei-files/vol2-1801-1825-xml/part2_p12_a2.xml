@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p12_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p12_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -98,11 +96,12 @@
             was a young man he must have heard the minstrels: so
             Chaucer and the minstrels are the fifth chapter. . . .
             Chaucer must have seen castles and cathedrals and palaces:
-            so the eighth chapter is upon Gothic architecture. . . .
-            <note place="margin">[p. 472]</note>By attempting too many things in this work, the author
+            so the eighth chapter is upon Gothic architecture. . . .</seg>
+            
+          <seg><note place="margin">[p. 472]</note>By attempting too many things in this work, the author
             has failed in all.</seg>
             
-          <seg>[The merits of the work are: a good
+          <seg type="editorial">[The merits of the work are: a good
             account is given of the reign of Richard II, much light is
             thrown upon the minor poems of Chaucer, and some facts
             respecting his life have been recovered from public records.]</seg>

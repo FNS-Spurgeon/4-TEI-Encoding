@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p109_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p109_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="109"/>
         
-        <ab type="imprint">1818. Unknown. <hi rend="italic">Notice of Hazlitt's 2nd Lecture on English Poetry—Chaucer and Spenser</hi>–[in] Blackwood’s Edinburgh Magazine, vol. ii, February, pp. 558-60. [For Hazlitt see above, 1818.]</ab>
+        <ab type="imprint">1818. Unknown. <hi rend="italic">Notice of Hazlitt's 2nd Lecture on English Poetry—Chaucer and Spenser</hi>—[in] Blackwood’s Edinburgh Magazine, vol. ii, February, pp. 558-60. [For Hazlitt see above, 1818.]</ab>
         
         <ab type="quotation">
           <seg type="editorial">[The Notice is a general account of Hazlitt’s lecture, devoid of any real critical examination.]</seg>

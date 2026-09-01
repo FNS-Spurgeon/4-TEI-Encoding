@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p131_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p131_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -108,7 +106,7 @@
             used to refresh himself largely at the same fountain <add>[French
             poetry]</add>, we cannot but look upon it as a source of hallowed waters.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 212]</note>[Ros's translation of  “La Belle Dame sans Merci," mistakenly attributed to Chaucer.]</seg>
+          <seg type="editorial"><note place="margin">[p. 212]</note>[Ros's translation of  "La Belle Dame sans Merci," mistakenly attributed to Chaucer.]</seg>
         </ab>
       </div>
     </body>

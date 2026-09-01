@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1837, Leigh Hunt. Blue Stocking Revels; or the Feast of the Violets. Canto III. Of the supper that Apollo gave his Visitors and with what sort of spectacle and of after Course he amazed them,</title>
+        <title>1837, Leigh Hunt. Blue Stocking Revels; or the Feast of the Violets.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
             <date cert="high" when="1837">1837</date>
-            <title level="a">Blue Stocking Revels; or the Feast of the Violets. Canto III. Of the supper that Apollo gave his Visitors and with what sort of spectacle and of after Course he amazed them,</title>
+            <title level="a">Blue Stocking Revels; or the Feast of the Violets.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,20 +84,29 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="217"/>
-        <ab type="imprint">1837. Hunt, James Henry Leigh. Blue Stocking Revels; or the Feast of the Violets. Canto III. Of the supper that Apollo gave his Visitors and with what sort of spectacle and of after Course he amazed them, [in] The Monthly Repository, 1837, new ser., vol. i, p. 53. (Poetical Works, Boston, 1866, vol. i, pp. 276-7.)</ab>
+        
+        <ab type="imprint">1837. Hunt, James Henry Leigh. <hi rend="italic">Blue Stocking Revels; or the Feast of the Violets.</hi> Canto III. <hi rend="italic">Of the supper that Apollo gave his Visitors and with what sort of spectacle and of after Course he amazed them</hi>, [in] The Monthly Repository, 1837, new ser., vol. i, p. 53. (Poetical Works, Boston, 1866, vol. i, pp. 276-7.)</ab>
+        
         <ab type="quotation">
-          <seg>Then Petrarch appear'd
-. . . . . . . . .
-Him follow’d, still modestly keeping behind,
-. . . . . . . . .
-Boccaccio, with faces a martyr might bless,
-Griselda’s among them, the patient excess.
-Her look was the sweetest that never knew laughter;
-And backward she turn'd tow'rds the shape that came after,
-Great Chaucer. As humbly as maiden went he.
-Young queens held their diadems of him in fee;
-Young mothers and beauties, clear angels of earth;
-I know not which grac’d them most, sorrow or mirth.</seg>
+          <seg>
+            <l>Then Petrarch appear'd</l>
+            . . . . . . . . .
+            <l>Him follow’d, still modestly keeping behind,</l>
+            . . . . . . . . .
+            <lg>
+              <l>Boccaccio, with faces a martyr might bless,</l>
+              <l>Griselda’s among them, the patient excess.</l>
+              <l>Her look was the sweetest that never knew laughter;</l>
+              <l>And backward she turn'd tow'rds the shape that came after,</l>
+              
+              <milestone unit="page" n="218"/>
+              
+              <l>Great Chaucer. As humbly as maiden went he.</l>
+              <l>Young queens held their diadems of him in fee;</l>
+              <l>Young mothers and beauties, clear angels of earth;</l>
+              <l>I know not which grac’d them most, sorrow or mirth.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

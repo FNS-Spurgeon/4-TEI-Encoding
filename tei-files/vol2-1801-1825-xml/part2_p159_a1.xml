@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p159_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p159_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -111,7 +109,7 @@
             exploded, it was thought expedient, upwards of two centuries
             after its publication, to translate it into Latin. . . .</seg>
           
-          <seg><note place="margin">[p. 110]</note>[Kynaston’s version more universally intelligible than the original.]</seg>
+          <seg type="editorial"><note place="margin">[p. 110]</note>[Kynaston’s version more universally intelligible than the original.]</seg>
             
           <seg>Considering the difficulties of his task, Sir Francis
             must be allowed to have acquitted himself with much dexterity;

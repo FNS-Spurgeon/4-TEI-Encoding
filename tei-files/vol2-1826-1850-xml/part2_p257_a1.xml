@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1844, William Thoms. The History of Reynard the Fox,</title>
+        <title>1844, William Thoms. The History of Reynard the Fox.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/74635028">William Thoms</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/74635028">Thoms, William</author>
             <date cert="high" when="1844">1844</date>
-            <title level="a">The History of Reynard the Fox,</title>
+            <title level="a">The History of Reynard the Fox.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,7 +86,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="257"/>
-        <ab type="imprint">1844. Thoms, William John. The History of Reynard the Fox, Percy Soc, Preface, p. i, Introd., p. lxxiii [Chaucer’s Nonnes Prestes Tale a Reynard history], Notes, pp. 173, 176-8, 180, 182, 184-6, 190-1, 193.</ab>
+        
+        <ab type="imprint">1844. Thoms, William John. <hi rend="italic">The History of Reynard the Fox</hi>, Percy Soc, Preface, p. i, Introd., p. lxxiii [Chaucer’s <hi rend="italic">Nonnes Prestes Tale</hi> a Reynard history], Notes, pp. 173, 176-8, 180, 182, 184-6, 190-1, 193.</ab>
       </div>
     </body>
   </text>

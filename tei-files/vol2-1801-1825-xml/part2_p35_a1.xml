@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p35_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p35_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +86,7 @@
         <ab type="imprint">1807. Wordsworth, William. <hi rend="italic">Note</hi> to the second poem <hi rend="italic">To the Daisy</hi> (1802). [Dated 1807 by Prof. Knight.] (Poetical Works, ed. W. Knight, 1896, vol. ii, p. 357 n.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Resemblance to Mr. Montgomery's poem entitled “A Field Flower":]</seg>
+          <seg type="editorial">[Resemblance to Mr. Montgomery's poem entitled "A Field Flower":]</seg>
             
           <seg>Mr. Montgomery will not think any apology due to him; I
             cannot, however, help addressing him in the words of the

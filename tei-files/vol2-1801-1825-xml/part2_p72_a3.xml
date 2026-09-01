@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p72_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p72_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -101,7 +99,7 @@
             aside, I am not sure that I don't prefer him to almost any
             writer in the circle of English poetry. I speak, of course, of
             his best works, and not of his poems en masse; but two or
-            three of his “Canterbury Tales,” and some select passages from
+            three of his "Canterbury Tales,” and some select passages from
             his other productions, are worth all that the age of Queen
             Anne, our Augustan age as it has been called, ever produced.</seg>
             

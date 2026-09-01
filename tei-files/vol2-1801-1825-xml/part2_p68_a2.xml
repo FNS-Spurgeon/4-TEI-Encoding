@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p68_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p68_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -89,10 +87,10 @@
         
         <ab type="quotation">
           <seg type="editorial">[Comparison is made between a line in Gray, and a line from the Reve’s Prologue:
-            <l>“Even in our ashes live their wonted fires.”</l>
+            <l>"Even in our ashes live their wonted fires.”</l>
             <note place="right"><hi rend="italic">Gray, Mason's ed.</hi> p. 67.</note>
-            <l>“Even in our ashen cold is fire ywreken.”</l>
-            <note place="right"><hi rend="italic">Chauc. Reve’s Tale, ed. Tyrwhitt</hi>, l. 3180.</note>]
+            <l>"Even in our ashen cold is fire ywreken.”</l>
+            <note place="right"><hi rend="italic">Chauc. Reve’s Tale, ed. Tyrwhitt</hi>, l. 3180.]</note>
           </seg>
             
           <seg type="editorial">[For this old comparison see above, vol. i, p. 465, 1782, Dodsley.]</seg>

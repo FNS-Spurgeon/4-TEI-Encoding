@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1843, Elizabeth Barrett Browning. Letter to Mrs. Martin,</title>
+        <title>1843, Elizabeth Barrett Browning. Letter to Mrs. Martin.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/66464493">Elizabeth Barrett Browning</author>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/66464493">Browning, Elizabeth Barrett</author>
             <date cert="high" when="1843">1843</date>
-            <title level="a">Letter to Mrs. Martin,</title>
+            <title level="a">Letter to Mrs. Martin.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,12 +84,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="246"/>
-        <ab type="imprint">1843. Barrett, afterwards Browning, Elizabeth Barrett. Letter to Mrs. Martin, [dated] May 26, 1843, [in] Letters of Elizabeth Barrett Browning, 1897, vol. i, p. 143.</ab>
+        
+        <ab type="imprint">1843. Barrett, afterwards Browning, Elizabeth Barrett. <hi rend="italic">Letter to Mrs. Martin</hi>, [dated] May 26, 1843, [in] Letters of Elizabeth Barrett Browning, 1897, vol. i, p. 143.</ab>
+        
         <ab type="quotation">
-          <seg>No, you would certainly never recognise my prison if you
-were to see it. [Here follows description of alterations in her
-bedroom]... And Chaucer's and Homer's busts on guard
-over those two departments of English and Greek poetry.</seg>
+          <seg>No, you would certainly never recognise my prison if you were to see it.</seg>
+          
+          <seg>[Here follows description of alterations in her <milestone unit="page" n="247"/> bedroom]</seg>
+          
+          <seg>. . . And Chaucer's and Homer's busts on guard over those two departments of English and Greek poetry.</seg>
         </ab>
       </div>
     </body>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p119_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p119_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +86,7 @@
         <ab type="imprint">1819. Scott, Sir Walter. <hi rend="italic">The Bride of Lammermoor</hi>, vol. i, ch. xi, p. 289. (Border Edition, ed. Andrew Lang, 1893, vol. i, ch. xii, p. 166.)</ab>
         
         <ab type="quotation">
-          <seg>[Chapter heading.]
+          <seg><add>[Chapter heading.]</add>
             <lb/>"Now dame," quoth he, "Je vous dis sans doute
             <lb/><add>[and five following lines]</add>.
             <note place="right">Chaucer, <hi rend="italic">Sumner's Tale</hi> [ll. 130-5].</note>

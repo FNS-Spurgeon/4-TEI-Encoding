@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p136_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p136_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -89,8 +87,8 @@
         
         <ab type="quotation">
           <seg type="editorial">[The references in the Introduction are brief allusions to
-            words and grammatical forms in Chaucer. Booth’s Introduction
-            to an Analytical Dictionary of the English Language,
+            words and grammatical forms in Chaucer. Booth’s <hi rend="italic">Introduction
+            to an Analytical Dictionary of the English Language</hi>,
             1806, contains only two slight references.]</seg>
         </ab>
       </div>

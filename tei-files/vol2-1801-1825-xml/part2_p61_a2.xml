@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p61_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p61_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,11 @@
       <div type="allusion">
         <milestone unit="page" n="61"/>
         
-        <ab type="imprint">1814. Cary, Henry Francis. <hi rend="italic">The Vision . . . of Dante</hi>, translated by H. F. Cary. 3 vols., 1814. [First complete edition.] Vol. i, notes, pp. 156, 157, 160, 179, 182, 211, 214, 216; vol. ii, notes, pp. 159, 172, 174, 194, 212; vol. iii, notes, pp. 157, 158, 187, 190, 202. [Mainly illustrative quotations from Chaucer; for the earlier edition of the Inferno alone (with the Italian text) see above, 1805-6.]</ab>
+        <ab type="imprint">1814. Cary, Henry Francis. <hi rend="italic">The Vision . . . of Dante</hi>, translated by H. F. Cary. 3 vols., 1814. [First complete edition.] Vol. i, notes, pp. 156, 157, 160, 179, 182, 211, 214, 216; vol. ii, notes, pp. 159, 172, 174, 194, 212; vol. iii, notes, pp. 157, 158, 187, 190, 202.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorial">[Mainly illustrative quotations from Chaucer; for the earlier edition of the Inferno alone (with the Italian text) see above, 1805-6.]</seg>
+        </ab>
       </div>
     </body>
   </text>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p47_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p47_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="47"/>
         
-        <ab type="imprint">1809. Scott, Sir Walter. <hi rend="italic">Reliques of Burns... collected and published by R. H. Cromek</hi>, [in] The Quarterly Review, vol. i, pp. 35-6. (Miscellaneous Prose Works of Sir Walter Scott, Edinburgh, 1834-71, 30 vols. vol. xvii, p. 266.)</ab>
+        <ab type="imprint">1809. Scott, Sir Walter. <hi rend="italic">Reliques of Burns . . . collected and published by R. H. Cromek</hi>, [in] The Quarterly Review, vol. i, pp. 35-6. (Miscellaneous Prose Works of Sir Walter Scott, Edinburgh, 1834-71, 30 vols. vol. xvii, p. 266.)</ab>
         
         <ab type="quotation">
           <seg>We know not whether the family of the poet will derive

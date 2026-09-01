@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p22_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p22_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +34,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/305995175">Wharton, Richard.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/305995175">Wharton, Richard</author>
             <date cert="high" from="1804" to="1805">1804-5</date>
             <title level="a">Fables: consisting of Select parts from Dante, Berni, Chaucer, and Ariosto, imitated in English Heroic Verse.</title>
           </analytic>
@@ -104,10 +102,9 @@
               <l>Extends his wings and farewell! he is gone.</l>
               <l>Love is a thing as any spirit free</l>
               <l>Lost by restraint and gained by liberty.</l>
-            </lg>
+            </lg> 
+            . . . . . . . . . . .
           </seg>
-            
-          <lb/>. . . . . . . . . . .
           
           <seg>Mr. Pope's imitation,
             <l>Spreads his light wings and in a moment flies,</l>

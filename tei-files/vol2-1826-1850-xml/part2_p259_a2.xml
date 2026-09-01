@@ -37,7 +37,7 @@
         <biblStruct>
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/69202953">Ford Madox Brown</author>
-            <date cert="high" when="1845-51">1845-51</date>
+            <date cert="high" from="1845" to="1851">1845-51</date>
             <title level="a">Chaucer at the Court of Edward III.</title>
           </analytic>
           <monogr>
@@ -86,7 +86,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="259"/>
-        <ab type="imprint">1845-51. Brown, Ford Madox. Chaucer at the Court of Edward III. </ab>
+        
+        <ab type="imprint">1845-51. Brown, Ford Madox. <hi rend="italic">Chaucer at the Court of Edward III</hi>.<note>[A painting on a large scale, now in the Municipal Gallery, Sydney. It was only finished in time for exhibition at the Academy in 1851, but Brovn conceived and began work for it in the autumn of 1845, taking the first suggestion from a passing reference in Sir James Mackintosh's <hi rend="italic">History of England</hi>. He at once read the life (Godwin's) and the works of Chaucer, apparently for the first time. Chaucer (whose figure was painted from D. G. Rossetti) stands on a daïs and reads at a lectern to the Court assembled below him the lines from the <hi rend="italic">Tale of the Man of Lawe</hi>, ll. 834-40:—<lg><l>Hire litel child lay weping on hire arm . . .</l><l>And unto the heven hire eyen up she cast.</l></lg>See Brown's Diary in <hi rend="italic">Præraphaelite Diaries and Letters</hi>, ed. Wm. Rossetti, 1900, passim, his own Exhibition Catalogue, 1865, and F. M. Hueffer's Ford Madox Brown, 1896, where the picture is reproduced, to face p. 71. The Chaucer is said by W. M. Rossetti (<hi rend="italic">Dante Gabriel Rossetti; his Family Letters</hi>, 1895, 2 vols, vol. i, p. 170) to be 'a very fair portrait of Rossetti,' in whom, as well as in Morris and R. W. Dixon (q. v. below, bath 1855), their friands found a resemblance to the Occleve portrait.]</note></ab>
       </div>
     </body>
   </text>

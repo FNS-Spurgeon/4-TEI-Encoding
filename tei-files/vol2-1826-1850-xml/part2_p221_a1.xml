@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1837, Wade, Thomas.. The Contention of Death and Love,</title>
+        <title>1837, Thomas Wade. The Contention of Death and Love.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Wade, Thomas.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Wade, Thomas</author>
             <date cert="high" when="1837">1837</date>
-            <title level="a">The Contention of Death and Love,</title>
+            <title level="a">The Contention of Death and Love.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,19 +84,26 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="221"/>
-        <ab type="imprint">1837. Wade, Thomas. The Contention of Death and Love, [printed in] W. R. Nicoll and T. J. Wise’s Literary Anecdotes of the Nine teenth Century, 1895, 2 vols., vol. i, p. 132.</ab>
+        
+        <ab type="imprint">1837. Wade, Thomas. <hi rend="italic">The Contention of Death and Love</hi>, [printed in] W. R. Nicoll and T. J. Wise’s Literary Anecdotes of the Nine teenth Century, 1895, 2 vols., vol. i, p. 132.</ab>
+        
         <ab type="quotation">
-          <seg>[Death speaks of the dying poet:]
-Thinkst thou that I, whose strong decree
-Swept Homer from Ionian air
-When his allotted years were run,
-And Dante from Italia's Sun
-When all his griefs accomplished were,
-Down-looking Chaucer from his theme,
-And Spenser from his Faery dream,
-. . . . . . . .
-Thinkst thou that I...
-... can pause for him?</seg>
+          <seg><add>[Death speaks of the dying poet:]</add>
+            <lg>
+              <l>Thinkst thou that I, whose strong decree</l>
+              <l>Swept Homer from Ionian air</l>
+              <l>When his allotted years were run,</l>
+              <l>And Dante from Italia's Sun</l>
+              <l>When all his griefs accomplished were,</l>
+              <l>Down-looking Chaucer from his theme,</l>
+              <l>And Spenser from his Faery dream,</l>
+            </lg>
+            . . . . . . . .
+            <lg>
+              <l>Thinkst thou that I . . .</l>
+              <l>. . . can pause for him?</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

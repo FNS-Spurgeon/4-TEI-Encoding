@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p2_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p2_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,7 +90,7 @@
         <ab type="quotation">
           <seg>Friday, 4th <add>[Dec. 1801]</add>. . . . Wm. translating <hi rend="italic">The Prioress's Tale</hi>.</seg>
           
-          <seg>Saturday, 5th. . . . Wm. finished <hi rend="italic">The Prioress's Tale</hi>, and after tea, Mary and he wrote it out.  ...</seg>
+          <seg>Saturday, 5th. . . . Wm. finished <hi rend="italic">The Prioress's Tale</hi>, and after tea, Mary and he wrote it out. . . .</seg>
             
           <seg>Sunday, 6th. . . . Wm. worked a while at Chaucer, then
             <note place="margin">[p. 68]</note> we set forward to walk into Easedale. . . . In the afternoon

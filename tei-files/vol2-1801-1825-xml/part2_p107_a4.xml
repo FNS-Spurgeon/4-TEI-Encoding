@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p107_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p107_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -114,7 +112,7 @@
             of the <hi rend="italic">Millar of Trompington</hi>, or of <hi rend="italic">Absalom the Gentle Clerk</hi>,
             in the same series of narrations with the <hi rend="italic">Knight’s Tale</hi>.</seg>
             
-          <seg><note place="margin">[p. 56]</note>In the words of Chaucer, describing the Character of the Squire–
+          <seg><note place="margin">[p. 56]</note>In the words of Chaucer, describing the Character of the Squire—
             <lg>
               <l>Curteis, he was, lowly and servisable,</l>
               <l>And carf before his fader at the table.</l>
@@ -122,7 +120,7 @@
             . . . . . . .
           </seg>
          
-          <seg>Chaucer's Squire, besides that he was “singing and fluting all the day"—
+          <seg>Chaucer's Squire, besides that he was "singing and fluting all the day"—
             <lg>
               <l>Could songs make and well indite</l>
               <l>Joust, and eke dance, and well pourtray and write.</l>

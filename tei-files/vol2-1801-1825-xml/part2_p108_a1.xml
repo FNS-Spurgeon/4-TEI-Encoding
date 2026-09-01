@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p108_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p108_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,7 +91,7 @@
             were civilly received.</seg>
             
           <seg><add>[Chapter heading.]</add>
-            <note place="margin">[Vol. ii, p. 98]</note>So stands the Thracian herdsman with his spear
+            <lb/><note place="margin">[Vol. ii, p. 98]</note>So stands the Thracian herdsman with his spear
             <lb/><add>[and five following lines]</add>.
             <lb/><add>[Dryden's]</add> Palamon and Arcite.</seg>
         </ab>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p114_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p114_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,13 +88,13 @@
         <ab type="quotation">
           <seg><note place="margin">[p. 296]</note>Found Mr. G<add>[illman]</add> with Hartley in the garden, attempting
             to explain to himself and to Hartley a feeling of a something
-            not present in Milton's works, that is, in “Paradise Lost,”
-            “Paradise Regained,” and “Samson Agonistes,” which he did
-            feel delightedly in the “Lycidas.” . . . And this appeared to
+            not present in Milton's works, that is, in "Paradise Lost,"
+            "Paradise Regained," and "Samson Agonistes," which he did
+            feel delightedly in the "Lycidas." . . . And this appeared to
             me to be the poet appearing and wishing to appear as the poet,
             and likewise as the man, as much as, though more rare than,
             the father, the brother, the preacher, and the patriot. Compare
-            with Milton, Chaucer's “Fall of the Leaf” <add>[sic]</add> and Spenser
+            with Milton, Chaucer's "Fall of the Leaf" <add>[sic]</add> and Spenser
             throughout, and you cannot but feel what Gillman meant to
             convey.</seg>
         </ab>

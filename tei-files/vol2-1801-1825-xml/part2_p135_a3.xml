@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p135_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p135_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="135"/>
         
-        <ab type="imprint">1821. Unknown. <hi rend="italic">Review</hi> of Scott's <hi rend="italic">Rob Roy . . . Heart of Mid lothian, etc.</hi>, [in] The Quarterly Review, Oct., vol. xxvi, p. 116.</ab>
+        <ab type="imprint">1821. Unknown. <hi rend="italic">Review</hi> of Scott's <hi rend="italic">Rob Roy . . . Heart of Midlothian, etc.</hi>, [in] The Quarterly Review, Oct., vol. xxvi, p. 116.</ab>
         
         <ab type="quotation">
           <seg>But when the author paints a peasant, a cowfeeder, or a
