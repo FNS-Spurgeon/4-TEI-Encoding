@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/9155042642972400278">John Saunders</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/9155042642972400278">Saunders, John</author>
             <date cert="high" when="1845">1845</date>
             <title level="a">Cabinet Pictures of English Life: Chaucer.</title>
           </analytic>
@@ -84,30 +84,37 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="263"/>
-        <ab type="imprint">1845. Saunders, John. Cabinet Pictures of English Life: Chaucer. [One of "Knight's Weekly Volumes." Revised and enlarged from the Penny Magazine and Knight's London, q.v. above, both 1841. This and the same author's Canterbury Tales from Chaucer (q.v. below) were reprinted together, revised, in 1889; this volume forms the first half of the reprint.]</ab>
+        
+        <ab type="imprint">1845. Saunders, John. <hi rend="italic">Cabinet Pictures of English Life: Chaucer</hi>. [One of "Knight's Weekly Volumes." Revised and enlarged from the Penny Magazine and Knight's <hi rend="italic">London</hi>, q.v. above, both 1841. This and the same author's <hi rend="italic">Canterbury Tales</hi> from Chaucer (q.v. below) were reprinted together, revised, in 1889; this volume forms the first half of the reprint.]</ab>
+        
         <ab type="quotation">
-          <seg>[The contents of the volume are:
-1. Introduction, with a general discussion of Chaucerian
-matters, language, versification, and Dryden’s criticism.
-2. Section L. “A Visit to the Tabard,” with notes on the
-Tabard from without and within, and its locality, and a
-general description of the pilgrims, with quotations
-(revised, not from the Penny Magazine, but from
-Knight's London, 1841, q.v. above).
-3. Section II. "Chivalry."—The Knight, Squire and Yeoman.
-4. Section III. "Religion,"—The Monk, Friar, Prioress,
-Sumpnour, Pardoner, and Parson.
-5. Section IV. "Domestic Life : Professional Men." The
-Sergeant at law, Doctor of Physic, Alchemist, Clerk of
-6. Section V. "Domestic Life—Agriculture": The Franklin,
-Oxenford.
-7. Section VI. "Domestic Life: Trade and Commerce."
-Miller, Reeve and Ploughman.
-The Merchant, Shipman, Haberdasher, etc., Prentice,
-The book illustrates social and political conditions in
-Cook, and Wife of Bath.
-Chaucer's times by means of general discussion and the
-examination of his characters. Each chapter has a woodcut.]</seg>
+          <seg type="editorial">[The contents of the volume are:
+            <list>
+              <item>1. Introduction, with a general discussion of Chaucerian
+              matters, language, versification, and Dryden’s criticism.</item>
+              <item>2. Section L. “A Visit to the Tabard,” with notes on the
+              Tabard from without and within, and its locality, and a
+              general description of the pilgrims, with quotations
+              (revised, not from the <hi rend="italic">Penny Magazine</hi>, but from
+              Knight's <hi rend="italic">London</hi>, 1841, q.v. above).</item>
+            
+              <milestone unit="page" n="264"/>
+            
+              <item>3. Section II. "Chivalry."—The Knight, Squire and Yeoman.</item>
+              <item>4. Section III. "Religion,"—The Monk, Friar, Prioress,
+              Sumpnour, Pardoner, and Parson.</item>
+              <item>5. Section IV. "Domestic Life : Professional Men." The
+              Sergeant at law, Doctor of Physic, Alchemist, Clerk of
+              Oxenford.</item>
+              <item>6. Section V. "Domestic Life—Agriculture": The Franklin,
+              Miller, Reeve and Ploughman.</item>
+              <item>7. Section VI. "Domestic Life: Trade and Commerce."
+              The Merchant, Shipman, Haberdasher, etc., Prentice,
+              Cook, and Wife of Bath.</item>
+            </list>
+            The book illustrates social and political conditions in
+            Chaucer's times by means of general discussion and the
+            examination of his characters. Each chapter has a woodcut.]</seg>
         </ab>
       </div>
     </body>

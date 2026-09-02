@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[1847-8], Charles Knight. Half Hours with the Best Authors,</title>
+        <title>[1847-8], Charles Knight. Half Hours with the Best Authors.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/22279835">Charles Knight</author>
-            <date cert="medium" when="[1847-8]">[1847-8]</date>
-            <title level="a">Half Hours with the Best Authors,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/22279835">Knight, Charles</author>
+            <date cert="medium" from="1847" to="1848">[1847-8]</date>
+            <title level="a">Half Hours with the Best Authors.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,20 +84,20 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="275"/>
-        <ab type="imprint">[1847-8.] Knight, Charles. Half Hours with the Best Authors, 4 vols., vol. i, p. 235 [Flowers]; vol. ii, p. 34 [Griselda]; vol. iii, p. 180 [Chaucer gave our literature a more popular and national character] ; pp. 318-23 [Godwin]; vol. iv, pp. 514-17 ["Dryden’s Good Parson"].</ab>
+        
+        <ab type="imprint">[1847-8.] Knight, Charles. <hi rend="italic">Half Hours with the Best Authors</hi>, 4 vols., vol. i, p. 235 [Flowers]; vol. ii, p. 34 [Griselda]; vol. iii, p. 180 [Chaucer gave our literature a more popular and national character] ; pp. 318-23 [Godwin]; vol. iv, pp. 514-17 ["Dryden’s Good Parson"].</ab>
+        
         <ab type="quotation">
-          <seg>[vol. i,
-p. 235]
-The exquisite simplicity of our first great poet's account of
-his love for the daisy may well follow Shakspere's spring¬
-garland. Rarely could he move from his books; no game
-could attract him; but when the flowers begin to spring,
-"Farewell my book and my devotion."
-[L. G. W., Prol. l. 39.]
-Above all the flowers in the mead he loves most
-"... these flowres white and red...[to]
-Of it, to doen it all réverence.
-[Ib., ll. 42-53.]</seg>
+          <seg><note place="margin">[vol. i, p. 235]</note>The exquisite simplicity of our first great poet's account of
+            his love for the daisy may well follow Shakspere's spring-
+            garland. Rarely could he move from his books; no game
+            could attract him; but when the flowers begin to spring,
+            <l>"Farewell my book and my devotion."</l>
+            <note place="right">[<hi rend="italic">L. G. W.</hi>, <hi rend="italic">Prol.</hi> l. 39.]</note>
+            Above all the flowers in the mead he loves most
+            <l>". . . these flowres white and red . . . <add>[to]</add></l>
+            <l>Of it, to doen it all réverence."</l>
+            <note place="right">[<hi rend="italic">Ib.</hi>, ll. 42-53.]</note></seg>
         </ab>
       </div>
     </body>

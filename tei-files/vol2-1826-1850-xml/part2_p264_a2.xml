@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1845-7, John Saunders. Canterbury Tales from Chaucer,</title>
+        <title>1845-7, John Saunders. Canterbury Tales from Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/9155042642972400278">John Saunders</author>
-            <date cert="high" when="1845-7">1845-7</date>
-            <title level="a">Canterbury Tales from Chaucer,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/9155042642972400278">Saunders, John</author>
+            <date cert="high" from="1845" to="1847">1845-7</date>
+            <title level="a">Canterbury Tales from Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -87,95 +87,136 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="264"/>
-        <ab type="imprint">1845-7. Saunders, John. Canterbury Tales from Chaucer, 2 vols. Vol. i is one of "Knight's Weekly Volumes"; vol. ii, 1847, was published by C. Cox. The series which appeared in the Penny Magazine, 1845 (q.v. immediately above), only contains a few sentences of the preface, and the extracts and prose summaries differ throughout. Of the contents of vol. ii, 1847, only the 1st-4th Tales had appeared in the Penny Magazine. For the revised edn. of 1889, see above, the same author’s Cabinet Pictures of English Life: Chaucer, 1845.]</ab>
+        
+        <ab type="imprint">1845-7. Saunders, John. <hi rend="italic">Canterbury Tales from Chaucer</hi>, 2 vols. Vol. i is one of "Knight's Weekly Volumes"; vol. ii, 1847, was published by C. Cox. The series which appeared in the <hi rend="italic">Penny Magazine</hi>, 1845 (q.v. immediately above), only contains a few sentences of the preface, and the extracts and prose summaries differ throughout. Of the contents of vol. ii, 1847, only the 1st-4th Tales had appeared in the <hi rend="italic">Penny Magazine</hi>. For the revised edn. of 1889, see above, the same author’s <hi rend="italic">Cabinet Pictures of English Life: Chaucer</hi>, 1845.]</ab>
+        
         <ab type="quotation">
-          <seg>[vol. i,  Three different modes have been adopted by the lovers of
-p. 5]
-Chaucer in their attempts to popularize his works.
-First, they have modernized his poetry; that is to say,
-re-written it, as poetry. Now, whenever a man shall arise
-possessing exactly the same powers, views, tastes, and individual
-characteristics as the great father of our literature, and will
-undertake to give us a new version of the Canterbury Tales,
-we have no doubt the task may be satisfactorily accomplished,
-and not till then.  ...
-[p. 6]  Secondly, the poetical has been transformed into a prose
-narration; and thus the story, at least, has been freed from
-the difficulties and hindrances caused by antiquated words or
-pronunciations; but then it has necessarily been relieved at
-the same time from all the subtler elements of the poetry.  ...
-Thirdly, Chaucer's poetry has been presented in its own
-proper form, with a modernized spelling, and an accented
-pronunciation. Eventually, perhaps, this will be the method
-permanently adopted for all popular editions of the poet; but,
-at present, such books attract neither the student nor the
-general reader: too lax for the one, they still remain¬
-apparently—too irksome for the other.
-In the following pages we have endeavoured to combine the
-peculiar advantages offered by the two methods last named,
-and to get rid of their drawbacks. We have proposed to
-ourselves to make the whole course of the story clear by
-resolving inconvenient or difficult passages of the poetry into
-[p. 7] constantly refreshing himself from the "well of English
-prose; but, at the same time, to allow the reader to be
-undefiled," by leaving all the remainder, including the finest
-portions of the poetry, in its own nervous and beautiful
-language...
-[p. 11] [Specimen of the rendering of the Knightes Tale:]
-Once, as old stories tell, there was a duke named Theseus,
-the lord and governor of Athens, and who, in his time, was
-such a conqueror, that there was not a greater under the sun.
-He had won many a rich country. With his wisdom and
-his chivalry, he conquered all the realm of the Amazons that
-was formerly called Scythia,—
-And wedded the freshe queen Hypolita,
-and brought her, and also her young sister Emily, home with
-him to his own country, with much glory and great solemnity.
-. . . . . . . . . .
-[p. 15] When that this worthy duke, this Theseus, hath slain Creon
-and won Thebes,
-Still in the field he took all night his rest.
-[p. 16] And he did as he pleased with all the country. After the
-battle and discomfiture, the pillers did their business; they
-ransacked the heap of dead bodies, in order to strip them of
-their armour and garments. And it so befell that they found
-in the heap, pierced through with many a bloody grievous
-wound, two young knights, lying by each other, in the same
-kind of armour, which was full richly wrought. Of these two,
-one was named Arcite, the other Palamon,
-Not fully quick nor fully dead they were;
-But by their coat armóur, and by their gear,
-the heralds knew them well, as those who were of the royal
-blood of Thebes, and born of two sisters. [&amp;c., &amp;e.]
-[Then follow:
-The Man of Law's Tale,
-The Wife of Bath's Tale,
-The Freres Tale,
-The Clerkes Tale,
-with "Remarks" on each at the end.
-Vol. II:
-The Squieres Tale,
-The Frankeleyns Tale,
-The Second Nonnes Tale,
-The Pardoners Tale
-The Chanouns Yemannes
-The Prioresses Tale,
-The Nonne Prestes Tale,
-The Maunciples Tale,
-Tale,
-The Phisiciens Tale;
-and selections from:
-The Milleres Tale,
-The Reves Tale,
-The Marchantes Tale,
-The Shipmannes Tale.
-Concluding remarks on Chaucer's essential morality, with
-special reference to the Frankeleyns Tale, and on his achieve¬
-ment as restorer of learning and founder of our language and
-literature.]
-Each Tale is also followed by "Remarks," and is illustrated
-by the woodcut which appeared in The Penny Magazine, q.v.
-above, 1845, Saunders.]</seg>
+          <seg><note place="margin">[vol. i, p. 5]</note>Three different modes have been adopted by the lovers of
+            Chaucer in their attempts to popularize his works.
+            <lb/>First, they have modernized his poetry; that is to say,
+            re-written it, as poetry. Now, whenever a man shall arise
+            possessing exactly the same powers, views, tastes, and individual
+            characteristics as the great father of our literature, and will
+            undertake to give us a new version of the Canterbury Tales,
+            we have no doubt the task may be satisfactorily accomplished,
+            and not till then. . . .</seg>
+            
+          <seg><note place="margin">[p. 6]</note>Secondly, the poetical has been transformed into a prose
+            narration; and thus the story, at least, has been freed from
+            the difficulties and hindrances caused by antiquated words or
+            pronunciations; but then it has necessarily been relieved at
+            the same time from all the subtler elements of the poetry. . . .</seg>
+          
+          <milestone unit="page" n="265"/>
+            
+          <seg>Thirdly, Chaucer's poetry has been presented in its own
+            proper form, with a modernized spelling, and an accented
+            pronunciation. Eventually, perhaps, this will be the method
+            permanently adopted for all popular editions of the poet; but,
+            at present, such books attract neither the student nor the
+            general reader: too lax for the one, they still remain—
+            apparently—too irksome for the other.
+            <lb/>In the following pages we have endeavoured to combine the
+            peculiar advantages offered by the two methods last named,
+            and to get rid of their drawbacks. We have proposed to
+            ourselves to make the whole course of the story clear by
+            resolving inconvenient or difficult passages of the poetry into
+            <note place="margin">[p. 7]</note>constantly refreshing himself from the "well of English
+            prose; but, at the same time, to allow the reader to be
+            undefiled," by leaving all the remainder, including the finest
+            portions of the poetry, in its own nervous and beautiful
+            language. . .</seg>
+          
+          <seg type="editorial"><note place="margin">[p. 11]</note>[Specimen of the rendering of the <hi rend="italic">Knightes Tale</hi>:]</seg>
+            
+          <seg>Once, as old stories tell, there was a duke named Theseus,
+            the lord and governor of Athens, and who, in his time, was
+            such a conqueror, that there was not a greater under the sun.
+            He had won many a rich country. With his wisdom and
+            his chivalry, he conquered all the realm of the Amazons that
+            was formerly called Scythia,—
+            <l>And wedded the freshe queen Hypolita,</l>
+            and brought her, and also her young sister Emily, home with
+            him to his own country, with much glory and great solemnity.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 15]</note>When that this worthy duke, this Theseus, hath slain Creon
+            and won Thebes,
+            <l>Still in the field he took all night his rest.</l>
+            <note place="margin">[p. 16]</note>And he did as he pleased with all the country. After the
+            battle and discomfiture, the pillers did their business; they
+            ransacked the heap of dead bodies, in order to strip them of
+            their armour and garments. And it so befell that they found
+            in the heap, pierced through with many a bloody grievous
+            wound, two young knights, lying by each other, in the same
+            kind of armour, which was full richly wrought. Of these two,
+            one was named Arcite, the other Palamon,
+            <lg>
+              <l>Not fully quick nor fully dead they were;</l>
+              <l>But by their coat armóur, and by their gear,</l>
+            </lg>
+            
+            <milestone unit="page" n="266"/>
+            
+            the heralds knew them well, as those who were of the royal
+            blood of Thebes, and born of two sisters. <add>[&amp;c., &amp;e.]</add></seg>
+            
+          <seg type="editorial">[Then follow:
+            <table>
+              <row>
+                <cell>The Man of Law's Tale,</cell>
+                <cell>The Wife of Bath's Tale,</cell>
+              </row>
+              <row>
+                <cell>The Freres Tale,</cell>
+                <cell>The Clerkes Tale,</cell>
+              </row>
+            </table>
+            
+            with "Remarks" on each at the end.
+            <lb/>Vol. II:
+            <table>
+              <row>
+                <cell>The Squieres Tale,</cell>
+                <cell>The Second Nonnes Tale,</cell>
+              </row>
+              <row>
+                <cell>The Frankeleyns Tale,</cell>
+                <cell>The Chanouns Yemannes Tale,</cell>
+              </row>
+              <row>
+                <cell>The Pardoners Tale</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>The Prioresses Tale,</cell>
+                <cell>The Maunciples Tale,</cell>
+              </row>
+              <row>
+                <cell>The Nonne Prestes Tale,</cell>
+                <cell>The Phisiciens Tale;</cell>
+              </row>
+            </table>
+            
+            and selections from:
+            <table>
+              <row>
+                <cell>The Milleres Tale,</cell>
+                <cell>The Marchantes Tale,</cell>
+              </row>
+              <row>
+                <cell>The Reves Tale,</cell>
+                <cell>The Shipmannes Tale.</cell>
+              </row>
+            </table>
+            
+            Concluding remarks on Chaucer's essential morality, with
+            special reference to the <hi rend="italic">Frankeleyns Tale</hi>, and on his achievement
+            as restorer of learning and founder of our language and literature.]</seg>
+            
+          <seg type="editorial">[Each Tale is also followed by "Remarks," and is illustrated
+            by the woodcut which appeared in <hi rend="italic">The Penny Magazine</hi>, q.v.
+            above, 1845, Saunders.]</seg>
         </ab>
       </div>
     </body>

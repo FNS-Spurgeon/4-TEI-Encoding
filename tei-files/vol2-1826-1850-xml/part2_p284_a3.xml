@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1850], Noble, T.. Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love</title>
+        <title>[c. 1850], T. Noble. Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,8 +37,8 @@
         <biblStruct>
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/">Noble, T.</author>
-            <date cert="low" when="[c. 1850]">[c. 1850]</date>
-            <title level="a">Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love</title>
+            <date cert="low" when="1850">[c. 1850]</date>
+            <title level="a">Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="284"/>
-        <ab type="imprint">[c. 1850.] Noble, T. Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love [Maynwaring's version], etc., London, T. Noble.</ab>
+        
+        <ab type="imprint">[c. 1850.] Noble, T. <hi rend="italic">Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love</hi> [Maynwaring's version], etc., London, T. Noble.<note type="footnote">Note in Spurgeon: [A reprint of the original edn. of 1709, q.v. above, vol. i, p. 310. The Chaucerian authorship of the <hi rend="italic">Court of Love</hi> is nowhere questioned in the little book, which is a plain reprint without notes.]</note></ab>
       </div>
     </body>
   </text>

@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1850, Bruce, John, and Others. (Committee for the Repair of the
-Tomb of Geoffrey Chaucer.). Advertisement,</title>
+        <title>1850, Bruce, John, and Others. Advertisement.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,10 +36,9 @@ Tomb of Geoffrey Chaucer.). Advertisement,</title>
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Bruce, John, and Others. (Committee for the Repair of the
-Tomb of Geoffrey Chaucer.)</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/10200954">Bruce, John</author>
             <date cert="high" when="1850">1850</date>
-            <title level="a">Advertisement,</title>
+            <title level="a">Advertisement.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,27 +84,39 @@ Tomb of Geoffrey Chaucer.)</author>
     <body>
       <div type="allusion">
         <milestone unit="page" n="283"/>
-        <ab type="imprint">1850. Bruce, John, and Others. (Committee for the Repair of the
-Tomb of Geoffrey Chaucer.) Advertisement, [on the cover of] The Gentleman’s Magazine, Aug. 1850, new ser., vol. xxxiv, also in Notes and Queries, Feb. 22, and May 10, 1851, 1st ser., vol. iii, pp. 159, 383.</ab>
+        
+        <ab type="imprint">1850. Bruce, John, and Others. (Committee for the Repair of the Tomb of Geoffrey Chaucer.) <hi rend="italic">Advertisement</hi>, [on the cover of] The Gentleman’s Magazine, Aug. 1850, new ser., vol. xxxiv, also in Notes and Queries, Feb. 22, and May 10, 1851, 1st ser., vol. iii, pp. 159, 383.</ab>
+        
         <ab type="quotation">
-          <seg>[The names of the Committee are–
-John Bruce, Esq., Treasurer
-Sir Frederick Madden, K.H.
-S.A.
-John G. Nichols, Esq., F.S.A.
-J. Payne Collier, Esq. V.P.S.A.
-Henry Shaw, Esq., F.S.A.
-Peter Cunningham, Esq., F. S.A.
-Samuel Shepherd, Esq., F.S.A.
-W. Richard Drake, Esq., F.S.A.
-William J. Thoms, Esq., F.S.A.
-Thomas W. King, Esq., F.S.A.
-A statement follows that the tomb "is fast mouldering into
-irretrievable decay," and that £100 "will effect a perfect
-repair;" with an appeal for this sum.
-On pp. 182-3, 293, 632 of vol. xxxiii, and on pp. 75,
-280-2, 485 of vol. xxxiv, of The Gentleman’s Magazine, are
-further notes, articles and appeals.]</seg>
+          <seg type="editorial">[The names of the Committee are—
+            <table>
+              <row>
+                <cell>John Bruce, Esq., Treasurer S.A.</cell>
+                <cell>Sir Frederick Madden, K.H.</cell>
+              </row>
+              <row>
+                <cell>John G. Nichols, Esq., F.S.A.</cell>
+                <cell>J. Payne Collier, Esq. V.P.S.A.</cell>
+              </row>
+              <row>
+                <cell>Henry Shaw, Esq., F.S.A.</cell>
+                <cell>Peter Cunningham, Esq., F. S.A.</cell>
+              </row>
+              <row>
+                <cell>Samuel Shepherd, Esq., F.S.A.</cell>
+                <cell>W. Richard Drake, Esq., F.S.A.</cell>
+              </row>
+              <row>
+                <cell>William J. Thoms, Esq., F.S.A.</cell>
+                <cell>Thomas W. King, Esq., F.S.A.</cell>
+              </row>
+            </table>
+            A statement follows that the tomb "is fast mouldering into
+            irretrievable decay," and that £100 "will effect a perfect
+            repair;" with an appeal for this sum.
+            <lb/>On pp. 182-3, 293, 632 of vol. xxxiii, and on pp. 75,
+            280-2, 485 of vol. xxxiv, of <hi rend="italic">The Gentleman’s Magazine</hi>, are
+            further notes, articles and appeals.]</seg>
         </ab>
       </div>
     </body>

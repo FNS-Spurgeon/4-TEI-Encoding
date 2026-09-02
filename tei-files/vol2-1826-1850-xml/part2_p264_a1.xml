@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1845, John Saunders. Chaucer's, Canterbury Tales,</title>
+        <title>1845, [John Saunders]. Chaucer's, Canterbury Tales.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/9155042642972400278">John Saunders</author>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/9155042642972400278">Saunders, John</author>
             <date cert="high" when="1845">1845</date>
-            <title level="a">Chaucer's, Canterbury Tales,</title>
+            <title level="a">Chaucer's, Canterbury Tales.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="264"/>
-        <ab type="imprint">1845. [Saunders, John.] Chaucer's, Canterbury Tales, [in] The Penny Magazine, vol. xiv, [Knightes Tale] pp. 65-7, 81-3, 110-12, 118-20; [Man of Law’s Tale] 137-9, 146-8; [Wife of Bath’s Tale] 185-6, 235-6; [Freres Tale] 241-2, 258-9; [Clerkes Tale] 300-2, 310-11, 323-4; [Squieres Tale] 361-2, 406-7 : [Frankeleyns Tale] 437-8, 455-6; [Pardoneres Tale] 461-2; [Nonne Prestes Tale] 481-3; Chanouns Yemannes Tale] 497-8. [Epitomes interspersed with extracts from the Tales. For the revised edn. in 2 vols., see immediately below.]</ab>
+        
+        <ab type="imprint">1845. [Saunders, John.] <hi rend="italic">Chaucer's, Canterbury Tales</hi>, [in] The Penny Magazine, vol. xiv, [<hi rend="italic">Knightes Tale</hi>] pp. 65-7, 81-3, 110-12, 118-20; [<hi rend="italic">Man of Law’s Tale</hi>] 137-9, 146-8; [<hi rend="italic">Wife of Bath’s Tale</hi>] 185-6, 235-6; [<hi rend="italic">Freres Tale</hi>] 241-2, 258-9; [<hi rend="italic">Clerkes Tale</hi>] 300-2, 310-11, 323-4; [<hi rend="italic">Squieres Tale</hi>] 361-2, 406-7 : [<hi rend="italic">Frankeleyns Tale</hi>] 437-8, 455-6; [<hi rend="italic">Pardoneres Tale</hi>] 461-2; [<hi rend="italic">Nonne Prestes Tale</hi>] 481-3; [<hi rend="italic">Chanouns Yemannes Tale</hi>] 497-8. [Epitomes interspersed with extracts from the Tales. For the revised edn. in 2 vols., see immediately below.]</ab>
       </div>
     </body>
   </text>

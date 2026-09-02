@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1846, Leigh Hunt. Stories from the Italian Poets: with Lives of the Writers,</title>
+        <title>1846, Leigh Hunt. Stories from the Italian Poets: with Lives of the Writers.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
             <date cert="high" when="1846">1846</date>
-            <title level="a">Stories from the Italian Poets: with Lives of the Writers,</title>
+            <title level="a">Stories from the Italian Poets: with Lives of the Writers.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,25 +86,34 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="268"/>
-        <ab type="imprint">1846. Hunt, James Henry Leigh. Stories from the Italian Poets: with Lives of the Writers, 2 vols., vol. i, pp. 5, 55, 407n. ; vol. ii, pp. 21, 72, 88, 170.</ab>
+        
+        <ab type="imprint">1846. Hunt, James Henry Leigh. <hi rend="italic">Stories from the Italian Poets: with Lives of the Writers</hi>, 2 vols., vol. i, pp. 5, 55, 407n. ; vol. ii, pp. 21, 72, 88, 170.</ab>
+        
         <ab type="quotation">
-          <seg>[vol.1, Chaucer has told the greater part of this story [Ugolino]
-p. 407 n.]
-beautifully in his “Canterbury Tales;" but he had not the
-heart to finish it. He refers for the conclusion to his original
-hight “Dant," the "grete poete of Itaille;" adding, that
-Dante will not fail his readers a single word–that is to say,
-not an atom of the cruelty.
-Our great gentle-hearted countryman, who tells Fortune
-that it was
-"great cruelte
-Such birdès for to put in such a cage,"
-adds a touch of pathos in the behaviour of one of the children,
-which Dante does not seem to have thought of :
-"There day by day this child began to cry,
-Till in his father's barme (lap) adown he lay;
-And said, ‘Farewell, father, I muste die,’
-And kissed his father, and died the same day."</seg>
+          <seg><note place="margin">[vol.1, p. 407 n.]</note>Chaucer has told the greater part of this story <add>[Ugolino]</add>
+            beautifully in his “Canterbury Tales;" but he had not the
+            heart to finish it. He refers for the conclusion to his original
+            hight "Dant," the "grete poete of Itaille;" adding, that
+            Dante will not fail his readers a single word—that is to say,
+            not an atom of the cruelty.</seg>
+          
+          <milestone unit="page" n="269"/>
+            
+          <seg>Our great gentle-hearted countryman, who tells Fortune
+            that it was
+            <lg>
+              <l>"great cruelte</l>
+              <l>Such birdès for to put in such a cage,"</l>
+            </lg>
+            adds a touch of pathos in the behaviour of one of the children,
+            which Dante does not seem to have thought of :
+            <lg>
+              <l>"There day by day this child began to cry,</l>
+              <l>Till in his father's barme (lap) adown he lay;</l>
+              <l>And said, ‘Farewell, father, I muste die,’</l>
+              <l>And kissed his father, and died the same day."</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

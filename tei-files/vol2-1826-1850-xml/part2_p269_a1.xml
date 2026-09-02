@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
             <date cert="high" when="1846">1846</date>
             <title level="a">Wit and Humour, Selected from the English Poets.</title>
           </analytic>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
         <catRef scheme="#criticism" target="#humourWit"/>
         <catRef scheme="#works" target="#criticism"/>
       </textClass>
@@ -88,111 +88,126 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="269"/>
-        <ab type="imprint">1846. Hunt, James Henry Leigh. Wit and Humour, Selected from the English Poets. With an Illustrative Essay, and Critical Com ments, pp. 12, 18-19, 63, 73-121.</ab>
+        
+        <ab type="imprint">1846. Hunt, James Henry Leigh. <hi rend="italic">Wit and Humour, Selected from the English Poets</hi>. With an Illustrative Essay, and Critical Comments, pp. 12, 18-19, 63, 73-121.</ab>
+        
         <ab type="quotation">
-          <seg>[p.12.] Humour... deals in incongruities of character and
-circumstance,... Such is the melting together... of
-the professional and the individual, or the accidental and the
-permanent, in the Canterbury Pilgrims...
-[pp. 18,
-19]
-[The Cock's address to the Hen:
-For also siker as in principio...
-etc. (Nonne Prestes Tale), quoted as an example of irony.]
-[p.63] [Chaucer famous for the humours of nations and classes.]
-[p. 74] I wish I could have given more than one comic story out
-of Chaucer; but the change of manners renders it difficult at
-any time, and impossible in a book like the present.
- . . . . . . . . .
-[p. 75] When Chaucer is free from this taint of his age [i.e.
-coarseness], his humour is of a description the most thoroughly
-delightful; for it is at once entertaining, profound, and good¬
-natured. If this last quality be thought a drawback by some,
-as wanting the relish of personality, they may supply even
-that (as some have supplied it), by supposing that he drew
-his characters from individuals, and that the individuals were
-very uncomfortable accordingly. I confess I see no ground
-for the supposition beyond what the nature of the case
-demands. Classes must of course be drawn, more or less,
-from the individuals composing them; but the unprofessional
-particulars added by Chaucer to his characters (such as the
-Merchant's uneasy marriage, and the Franklin's prodigal son)
-are only such as render the portraits more true, by including
-them in the general category of human kind. The gangrene
-which the Cook had on his shin, and which has been con¬
-sidered as a remarkable instance of the gratuitous, is, on the
-contrary (besides its masterly intimation of the perils of luxury
-in general), painfully in character with a man accustomed to
-breathe an unhealthy atmosphere, and to be encouraging bad
-humours with tasting sauces and syrups. Besides, the Cook
-turns out to be a drunkard.
-[p. 76] Chaucer's comic genius is so perfect, that it may be said to
-include prophetic intimations of all that followed it...
-One of its characteristics is a certain tranquil detection of
-particulars, expressive of generals; as in the instance just
-mentioned of the secret infirmity of the Cook. Thus the
-Prioress speaks French; but it is "after the school of Stratford
-at Bow." Her education was altogether more showy than
-substantial. The Lawyer was the busiest man in the world,
-and yet he "seemed busier than he was." He made something
-out of nothing, even in appearances.
-Another characteristic is his fondness for seeing the spiritual
-in the material; the mind in the man's aspect. He is as
-studious of physiognomy as Lavater, and far truer. Observe,
-too, the poetry that accompanies it,–the imaginative sympathy
-in the matter of fact. His Yeoman, who is a forester, has a
-head "like a nut." His Miller is as brisk and healthy as the
-air of the hill on which he lives, and as hardy and as coarse¬
-grained as his conscience. We know, as well as if we had
-ridden with them, his oily-faced Monk; his lisping Friar (who
-was to make confession easy to the ladies); his carbuncled
-[p. 77] Summoner or Church-Bailiff, the grossest form of ecclesiastical
-sensuality; and his irritable money-getting Reve or Steward,
-with his cropped head and calf-less legs, who shaves his beard
-as closely as he reckons with his master's tenants.
-The third great quality of Chaucer's humour is its fair
-play;—the truth and humanity which induces him to see
-justice done to good and bad, to the circumstances which
-moke men what they are, and the mixture of right and wrong,
-of wisdom and of folly, which they consequently exhibit.
-His worst characters have some little saving grace of good¬
-nature, or at least of joviality and candour. Even the Pardoner,
-however impudently, acknowledges himself to be a “vicious
-man." His best people, with one exception, betray some
-infirmity. The good Clerk of Oxford, for all his simplicity
-and singleness of heart, has not escaped the pedantry and
-pretension of the college. The Good Parson seems without
-a blemish, even in his wisdom; yet when it comes to his turn
-to relate a story, he announces it as a "little" tale, and then
-tells the longest and most prosing in the book, —a whole
-sermonizing volume. ...
-[p. 78] The only character in Chaucer which seems faultless,
-is that of the Knight; and he is a man who has been all over
-the world, and bought experience with hard blows. The poet
-does not spare his own person. He describes himself as a fat,
-heavy man, with an "elvish" (wildish?) countenance, shy,
-and always "staring on the ground.  ..
-This self-knowledge is a part of Chaucer's greatness;
-and these modest proofs of it distinguish him from every
-other poet in the language. Shakespeare may have had as
-much, or more. It is difficult to suppose otherwise.  ...
-His sonnets are not without intimations of personal and other
-defects; but they contain no such candid talking as Chaucer.
-[p. 79] The father of English poetry was essentially a modest man.
-He sits quietly in a corner, looking down for the most part
-and meditating; at other times eyeing everything that passes,
-and sympathising with everything; chuckling heartily at a
-jest, feeling his eyes fill with tears at sorrow, reverencing
-virtue, and not out of charity with vice. When he ventures
-to tell a story himself, it is as much under correction of the
-Host as the humblest man in the company; and it is no
-sooner objected to, than he drops it for one of a different
-description.
-[Here follow selections, each with a modernized version
-printed below, and notes: Characters of Pilgrims (Prologue).
-The Friar's Tale. The Pardoner's way of Preaching. The
-Merchant's Opinion of Wives. Gallantry of Translation (Cock
-and the Fox). The Disappearance of the Fairies.]</seg>
+          <seg><note place="margin">[p.12.]</note>Humour . . . deals in incongruities of character and
+            circumstance, . . . Such is the melting together . . . of
+            the professional and the individual, or the accidental and the
+            permanent, in the Canterbury Pilgrims . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 18, 19]</note>[The Cock's address to the Hen:
+            <l>For also siker as in principio...</l>
+            etc. (<hi rend="italic">Nonne Prestes Tale</hi>), quoted as an example of irony.]</seg>
+            
+          <seg type="editorial"><note place="margin">[p.63]</note>[Chaucer famous for the humours of nations and classes.]</seg>
+            
+          <seg><note place="margin">[p. 74]</note>I wish I could have given more than one comic story out
+            of Chaucer; but the change of manners renders it difficult at
+            any time, and impossible in a book like the present.
+            <lb/>. . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 75]</note>When Chaucer is free from this taint of his age [i.e.
+            coarseness], his humour is of a description the most thoroughly
+            delightful; for it is at once entertaining, profound, and good-
+            natured. If this last quality be thought a drawback by some,
+            as wanting the relish of personality, they may supply even
+            that (as some have supplied it), by supposing that he drew
+            his characters from individuals, and that the individuals were
+            very uncomfortable accordingly. I confess I see no ground
+            for the supposition beyond what the nature of the case
+            demands. Classes must of course be drawn, more or less,
+            from the individuals composing them; but the unprofessional
+            particulars added by Chaucer to his characters (such as the
+            Merchant's uneasy marriage, and the Franklin's prodigal son)
+            are only such as render the portraits more true, by including
+            
+            <milestone unit="page" n="270"/>
+            
+            them in the general category of human kind. The gangrene
+            which the Cook had on his shin, and which has been considered
+            as a remarkable instance of the gratuitous, is, on the
+            contrary (besides its masterly intimation of the perils of luxury
+            in general), painfully in character with a man accustomed to
+            breathe an unhealthy atmosphere, and to be encouraging bad
+            humours with tasting sauces and syrups. Besides, the Cook
+            turns out to be a drunkard.</seg>
+            
+          <seg><note place="margin">[p. 76]</note>Chaucer's comic genius is so perfect, that it may be said to
+            include prophetic intimations of all that followed it . . .
+            One of its characteristics is a certain tranquil detection of
+            particulars, expressive of generals; as in the instance just
+            mentioned of the secret infirmity of the Cook. Thus the
+            Prioress speaks French; but it is "after the school of Stratford
+            at Bow." Her education was altogether more showy than
+            substantial. The Lawyer was the busiest man in the world,
+            and yet he "seemed busier than he was." He made something
+            out of nothing, even in appearances.
+            <lb/>Another characteristic is his fondness for seeing the spiritual
+            in the material; the mind in the man's aspect. He is as
+            studious of physiognomy as Lavater, and far truer. Observe,
+            too, the poetry that accompanies it,—the imaginative sympathy
+            in the matter of fact. His Yeoman, who is a forester, has a
+            head "like a nut." His Miller is as brisk and healthy as the
+            air of the hill on which he lives, and as hardy and as coarse-
+            grained as his conscience. We know, as well as if we had
+            ridden with them, his oily-faced Monk; his lisping Friar (who
+            was to make confession easy to the ladies); his carbuncled
+            <note place="margin">[p. 77]</note>Summoner or Church-Bailiff, the grossest form of ecclesiastical
+            sensuality; and his irritable money-getting Reve or Steward,
+            with his cropped head and calf-less legs, who shaves his beard
+            as closely as he reckons with his master's tenants.
+            <lb/>The third great quality of Chaucer's humour is its fair
+            play;—the truth and humanity which induces him to see
+            justice done to good and bad, to the circumstances which
+            moke men what they are, and the mixture of right and wrong,
+            of wisdom and of folly, which they consequently exhibit.
+            His worst characters have some little saving grace of good-
+            nature, or at least of joviality and candour. Even the Pardoner,
+            however impudently, acknowledges himself to be a "vicious
+            man." His best people, with one exception, betray some
+            infirmity. The good Clerk of Oxford, for all his simplicity
+            
+            <milestone unit="page" n="271"/>
+            
+            and singleness of heart, has not escaped the pedantry and
+            pretension of the college. The Good Parson seems without
+            a blemish, even in his wisdom; yet when it comes to his turn
+            to relate a story, he announces it as a "little" tale, and then
+            tells the longest and most prosing in the book,—a whole
+            sermonizing volume. . . .</seg>
+            
+          <seg><note place="margin">[p. 78]</note>The only character in Chaucer which seems faultless,
+            is that of the Knight; and he is a man who has been all over
+            the world, and bought experience with hard blows. The poet
+            does not spare his own person. He describes himself as a fat,
+            heavy man, with an "elvish" (wildish?) countenance, shy,
+            and always "staring on the ground. . .</seg>
+            
+          <seg>This self-knowledge is a part of Chaucer's greatness;
+            and these modest proofs of it distinguish him from every
+            other poet in the language. Shakespeare may have had as
+            much, or more. It is difficult to suppose otherwise. . . .
+            His sonnets are not without intimations of personal and other
+            defects; but they contain no such candid talking as Chaucer.</seg>
+            
+          <seg><note place="margin">[p. 79]</note>The father of English poetry was essentially a modest man.
+            He sits quietly in a corner, looking down for the most part
+            and meditating; at other times eyeing everything that passes,
+            and sympathising with everything; chuckling heartily at a
+            jest, feeling his eyes fill with tears at sorrow, reverencing
+            virtue, and not out of charity with vice. When he ventures
+            to tell a story himself, it is as much under correction of the
+            Host as the humblest man in the company; and it is no
+            sooner objected to, than he drops it for one of a different
+            description.</seg>
+            
+          <seg type="editorial">[Here follow selections, each with a modernized version
+            printed below, and notes: Characters of Pilgrims (Prologue).
+            The Friar's Tale. The Pardoner's way of Preaching. The
+            Merchant's Opinion of Wives. Gallantry of Translation (Cock
+            and the Fox). The Disappearance of the Fairies.]</seg>
         </ab>
       </div>
     </body>

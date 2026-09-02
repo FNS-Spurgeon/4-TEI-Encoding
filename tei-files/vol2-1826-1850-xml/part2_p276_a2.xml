@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n.a. 1848], Hartley Coleridge. Notes on Shakespeare,</title>
+        <title>[n.a. 1848], Hartley Coleridge. Notes on Shakespeare.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/40220624">Hartley Coleridge</author>
-            <date cert="low" when="[n.a. 1848]">[n.a. 1848]</date>
-            <title level="a">Notes on Shakespeare,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/40220624">Coleridge, Hartley</author>
+            <date cert="low" notAfter="1848">[n.a. 1848]</date>
+            <title level="a">Notes on Shakespeare.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,14 +86,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="276"/>
-        <ab type="imprint">[n.a. 1848.] Coleridge, Hartley. Notes on Shakespeare, [written in a copy of Stockdale's edition of the Plays, printed in] Essays and Marginalia, ed. Derwent Coleridge, 1851, p. 189.</ab>
+        
+        <ab type="imprint">[n.a. 1848.] Coleridge, Hartley. <hi rend="italic">Notes on Shakespeare</hi>, [written in a copy of Stockdale's edition of the Plays, printed in] Essays and Marginalia, ed. Derwent Coleridge, 1851, p. 189.</ab>
+        
         <ab type="quotation">
-          <seg>It is remarkable that he [Shakespeare] has scarce adopted a
-single expression from the “Troilus and Cresseide" of Chaucer,
-the most beautiful diary of love ever written. The work of
-Lollius is not to be found. I am disposed to think that
-Chaucer, in disowning the invention of this sweet poem, only
-followed the common practice of the minstrels.</seg>
+          <seg>It is remarkable that he <add>[Shakespeare]</add> has scarce adopted a
+            single expression from the "Troilus and Cresseide" of Chaucer,
+            the most beautiful diary of love ever written. The work of
+            Lollius is not to be found. I am disposed to think that
+            Chaucer, in disowning the invention of this sweet poem, only
+            followed the common practice of the minstrels.</seg>
         </ab>
       </div>
     </body>

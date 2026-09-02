@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1850, Charles Dickens. David Copperfield,</title>
+        <title>1850, Charles Dickens. David Copperfield.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/88666393">Charles Dickens</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/88666393">Dickens, Charles</author>
             <date cert="high" when="1850">1850</date>
-            <title level="a">David Copperfield,</title>
+            <title level="a">David Copperfield.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,17 +84,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="283"/>
-        <ab type="imprint">1850. Dickens, Charles. David Copperfield, chap. xxvii, lii, pp. 287, 536. (Works, Gadshill Edition, ed. Andrew Lang, 1892-1908, 36 vols., vol. xiv, David Copperfield 2 vols., vol. i, pp. 487-8; vol. ii, p. 386.)</ab>
+        
+        <ab type="imprint">1850. Dickens, Charles. <hi rend="italic">David Copperfield</hi>, chap. xxvii, lii, pp. 287, 536. (Works, Gadshill Edition, ed. Andrew Lang, 1892-1908, 36 vols., vol. xiv, David Copperfield 2 vols., vol. i, pp. 487-8; vol. ii, p. 386.)</ab>
+        
         <ab type="quotation">
-          <seg>[p. 287]
-"It was at Canterbury where we last met. Within the
-shadow, I may figuratively say, of that religious edifice,
-immortalized by Chaucer, which was anciently the resort of
-Pilgrims from the remotest corners of-in short" said Mr.
-Micawber, “in the immediate neighbourhood of the cathedral."
-[p. 536] [Mr. Micawber is again speaking:] “So be it! For myself,
-my Canterbury Pilgrimage has done much; imprisonment on
-civil process, and want, will soon do more."</seg>
+          <seg><note place="margin">[p. 287]</note>"It was at Canterbury where we last met. Within the
+            shadow, I may figuratively say, of that religious edifice,
+            
+            <milestone unit="page" n="284"/>
+            
+            immortalized by Chaucer, which was anciently the resort of
+            Pilgrims from the remotest corners of-in short" said Mr.
+            Micawber, “in the immediate neighbourhood of the cathedral."</seg>
+          
+          <seg><note place="margin">[p. 536]</note><add>[Mr. Micawber is again speaking:]</add> "So be it! For myself,
+            my Canterbury Pilgrimage has done much; imprisonment on
+            civil process, and want, will soon do more."</seg>
         </ab>
       </div>
     </body>

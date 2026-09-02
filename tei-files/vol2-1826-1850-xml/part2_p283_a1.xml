@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/69003330">John Bright</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/69003330">Bright, John</author>
             <date cert="high" when="1850">1850</date>
             <title level="a">Speech on abolition of capital punishment.</title>
           </analytic>
@@ -84,17 +84,21 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="283"/>
-        <ab type="imprint">1850. Bright, John. Speech on abolition of capital punishment. The Life and Speeches of John Bright, 2 vols. 1881, by George Barnett Smith, vol. i, p. 307.</ab>
+        
+        <ab type="imprint">1850. Bright, John. <hi rend="italic">Speech on abolition of capital punishment</hi>. The Life and Speeches of John Bright, 2 vols. 1881, by George Barnett Smith, vol. i, p. 307.</ab>
+        
         <ab type="quotation">
           <seg>If you wish to teach the people to reverence human nature,
-you must first show them that you reverence it yourselves.
-An old English writer, Chaucer, says of his "Parson"—
-"Christ’s lore, and his Apostles twelve
-He preached, but first he followed it himself;"
-[Prol. ll. 527-8.]
-and if we would teach men to reverence the lives of their
-fellow-men the first and most powerful step we could take
-would be to abandon the halter and the scaffold.</seg>
+            you must first show them that you reverence it yourselves.
+            An old English writer, Chaucer, says of his "Parson"—
+            <lg>
+              <l>"Christ’s lore, and his Apostles twelve</l>
+              <l>He preached, but first he followed it himself;"</l>
+              <note place="right">[<hi rend="italic">Prol.</hi> ll. 527-8.]</note>
+            </lg>
+            and if we would teach men to reverence the lives of their
+            fellow-men the first and most powerful step we could take
+            would be to abandon the halter and the scaffold.</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1845, John Wilson. Specimens of the British Critics,</title>
+        <title>1845, John Wilson. Specimens of the British Critics.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/47566585">John Wilson</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/47566585">Wilson, John</author>
             <date cert="high" when="1845">1845</date>
-            <title level="a">Specimens of the British Critics,</title>
+            <title level="a">Specimens of the British Critics.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +75,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#general"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,45 +86,53 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="262"/>
-        <ab type="imprint">1845. North, Christopher [ps., i. e. John Wilson]. Specimens of the British Critics, [in] Blackwood’s Edinburgh Magazine, April 1845, vol. lvii, pp. 503, 508; May, pp. 617-46; June, pp. 771-93; July, vol. lviii, pp. 114-28. [Published in volume form in 1846; the references are: pp. 63-4, 66, 77, 95, 111, 120, 157-266.]</ab>
+        
+        <ab type="imprint">1845. North, Christopher [ps., i. e. John Wilson]. <hi rend="italic">Specimens of the British Critics</hi>, [in] Blackwood’s Edinburgh Magazine, April 1845, vol. lvii, pp. 503, 508; May, pp. 617-46; June, pp. 771-93; July, vol. lviii, pp. 114-28. [Published in volume form in 1846; the references are: pp. 63-4, 66, 77, 95, 111, 120, 157-266.]</ab>
+        
         <ab type="quotation">
-          <seg>[p. 617] Nothing is gained by attempting to deny or to disguise a
-known and plain fact, simply because it happens to be a dis¬
-tasteful one–Time has estranged us from Chaucer. Dryden
-and Pope we read with easy, unearned pleasure. Their speech,
-their manner of mind, and their facile verse, are of our age,
-almost of our own day. The two excellent, graceful, and
-masterly poets belong, both of them, to THIS NEW WORLD.
-Go back a little, step over an imperceptible line, to the con¬
-temporary of Dryden, Milton, and you seem to have overleaped
-some great chronological boundary; you have transported
-yourself into THAT OLD WORLD...
-We call Chaucer the Father of our Poetry, or its Morn¬
-ing Star. The poetical memory of the country stretches up to
-him, and not beyond. The commanding impression which he
-has made upon the minds of his people dates from his own
-day. The old poets of England and Scotland constantly and
-unanimously acknowledge him for their master. Greatest
-names, Dunbar, Douglas, Spenser, Milton, carry on the
-tradition of his renown and his reign.
-In part he belongs to, and in part he lifts himself out of, his
-age. The vernacular poetry of reviving Europe took a strong
-stamp from one principal feature in the manners of the times.
-The wonderful political institution of Chivalry-turned into a
-romance in the minds of those in whose persons the thing
-itself subsisted–raised up a fanciful adoration of women
-[p. 615] into a law of courtly life; or, at the least, of courtly verse, to
-which there was nothing answerable in the annals of the old
-world.  .../
-This exaggeration of an immense natural power, Love–
-making, one might almost say, man's worship of woman the
-great religion of the universe, and which was the "amabilis
-insania" of the new poetry-long exercised an unlimited
-monarchy in the poetical mind of the reasonable Chaucer.
-See the longest and most desperate of his Translations–which
-Tyrwhitt supposes him to have completed, though we have
-[p. 619] only two fragments– seven thousand verses in place of twenty¬
-two thousand–the "ROMAUNT OT THE ROSE"...</seg>
+          <seg><note place="margin">[p. 617]</note>Nothing is gained by attempting to deny or to disguise a
+            known and plain fact, simply because it happens to be a
+            distasteful one—Time has estranged us from Chaucer. Dryden
+            and Pope we read with easy, unearned pleasure. Their speech,
+            their manner of mind, and their facile verse, are of our age,
+            almost of our own day. The two excellent, graceful, and
+            masterly poets belong, both of them, to THIS NEW WORLD.
+            Go back a little, step over an imperceptible line, to the
+            
+            <milestone unit="page" n="263"/>
+            
+            contemporary of Dryden, Milton, and you seem to have overleaped
+            some great chronological boundary; you have transported
+            yourself into THAT OLD WORLD . . .</seg>
+            
+          <seg>We call Chaucer the Father of our Poetry, or its Morning
+            Star. The poetical memory of the country stretches up to
+            him, and not beyond. The commanding impression which he
+            has made upon the minds of his people dates from his own
+            day. The old poets of England and Scotland constantly and
+            unanimously acknowledge him for their master. Greatest
+            names, Dunbar, Douglas, Spenser, Milton, carry on the
+            tradition of his renown and his reign.</seg>
+            
+          <seg>In part he belongs to, and in part he lifts himself out of, his
+            age. The vernacular poetry of reviving Europe took a strong
+            stamp from one principal feature in the manners of the times.
+            The wonderful political institution of Chivalry—turned into a
+            romance in the minds of those in whose persons the thing
+            itself subsisted–raised up a fanciful adoration of women
+            <note place="margin">[p. 615]</note>into a law of courtly life; or, at the least, of courtly verse, to
+            which there was nothing answerable in the annals of the old
+            world. . . .</seg>
+            
+          <seg>This exaggeration of an immense natural power, Love—
+            making, one might almost say, man's worship of woman the
+            great religion of the universe, and which was the "amabilis
+            insania" of the new poetry-long exercised an unlimited
+            monarchy in the poetical mind of the reasonable Chaucer.
+            See the longest and most desperate of his Translations—which
+            Tyrwhitt supposes him to have completed, though we have
+            <note place="margin">[p. 619]</note>only two fragments—seven thousand verses in place of twenty-
+            two thousand—the "ROMAUNT OT THE ROSE"...</seg>
         </ab>
       </div>
     </body>

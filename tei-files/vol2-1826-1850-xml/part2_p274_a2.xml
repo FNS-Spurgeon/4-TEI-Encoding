@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1847, Deshler, C. D.. Selections from the Poetical Works of Geoffrey Chaucer.</title>
+        <title>1847, C. D. Deshler. Selections from the Poetical Works of Geoffrey Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -87,22 +87,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="274"/>
-        <ab type="imprint">1847. Deshler, C. D. Selections from the Poetical Works of Geoffrey Chaucer. With a concise life of that Poet... by C. D. Deshler, London. [Wiley and Putnam’s Library of American Books.]</ab>
+        
+        <ab type="imprint">1847. Deshler, C. D. <hi rend="italic">Selections from the Poetical Works of Geoffrey Chaucer</hi>. With a concise life of that Poet . . . by C. D. Deshler, London. [Wiley and Putnam’s Library of American Books.]</ab>
+        
         <ab type="quotation">
-          <seg>[The volume contains an Introduction, notes on pronuncia¬
-tion, and five chapters of biography and criticism (vitiated
-through the usual acceptance of the Court of Love, Testament
-of Love, etc.), discussing the condition of the language and
-Chaucer’s effect on it, characteristics of his poetry, estimate of
-women, omission to celebrate the great personages of his age,
-&amp;c. The selections which follow are divided into five
-categories : I. Rural Descriptions; II. Paintings-Female
-Characters; III. Paintings-Masculine Characters; IV. Nar¬
-rative Poetry; V. Miscellaneous. Among these are extracts
-from the non-Chaucerian Complaint of the Black Knight,
-Cuckoo and Nightingale, &amp;c. An Appendix gives some
-information on and extracts from Gower, Lydgate, Gavin
-Douglas, Story of Cockaygne, and Herrick.]</seg>
+          <seg type="editorial">[The volume contains an Introduction, notes on
+            pronunciation, and five chapters of biography and criticism (vitiated
+            through the usual acceptance of the <hi rend="italic">Court of Love</hi>, <hi rend="italic">Testament
+            of Love</hi>, etc.), discussing the condition of the language and
+            Chaucer’s effect on it, characteristics of his poetry, estimate of
+            women, omission to celebrate the great personages of his age,
+            &amp;c. The selections which follow are divided into five
+            categories : I. Rural Descriptions; II. Paintings—Female
+            Characters; III. Paintings—Masculine Characters; IV.
+            Narrative Poetry; V. Miscellaneous. Among these are extracts
+            from the non-Chaucerian <hi rend="italic">Complaint of the Black Knight</hi>,
+            <hi rend="italic">Cuckoo and Nightingale</hi>, &amp;c. An Appendix gives some
+            information on and extracts from Gower, Lydgate, Gavin
+            Douglas, <hi rend="italic">Story of Cockaygne</hi>, and Herrick.]</seg>
         </ab>
       </div>
     </body>

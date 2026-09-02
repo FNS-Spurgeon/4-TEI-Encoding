@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1845, Nicholas Harris Nicolas. Memoir of Chaucer</title>
+        <title>1845, Nicholas Harris Nicolas. Memoir of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/64156745">Nicholas Harris Nicolas</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/64156745">Nicolas, Nicholas Harris</author>
             <date cert="high" when="1845">1845</date>
-            <title level="a">Memoir of Chaucer</title>
+            <title level="a">Memoir of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -87,30 +87,32 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="262"/>
-        <ab type="imprint">1845. Nicolas, Sir Nicholas Harris. Memoir of Chaucer [prefixed to the Aldine edition of the Works, q.v. above], pp. 9-107, Notes, pp. 119-144.</ab>
+        
+        <ab type="imprint">1845. Nicolas, Sir Nicholas Harris. <hi rend="italic">Memoir of Chaucer</hi> [prefixed to the Aldine edition of the Works, q.v. above], pp. 9-107, Notes, pp. 119-144.</ab>
+        
         <ab type="quotation">
-          <seg>[This very carefully written memoir is the first 'Life' of
-Chaucer to be based entirely on documentary evidence, and it
-is consequently a valuable addition to Chaucer biography.
-Nicolas prints many more documents than Godwin had done.
-He disposes of the story (built up on the spurious Testament
-of Love) of Chaucer's flight and exile in 1384, the return to
-England in 1386, and imprisonment in the Tower till 1389,
-by showing that Chaucer must have been in London from
-1380 to May 1388, for during that period he regularly re¬
-ceived his pension at the Exchequer with his own hands
-(Issue Rolls from Easter, 3 Ric. II to Easter, 11 Ric. II).
-Also at the very time when he was supposed to have been
-a prisoner, he was sitting in Parliament as a knight of the
-shire of Kent. Nicolas, however, does not doubt the authen¬
-ticity of the Testament of Love, but regards it as an allegorical
-composition.
-This 'Life' must have been published in 1843, probably
-in a limited edition, before it was issued with the Aldine
-Poets; for it is reviewed in the Athenœum, Feb. 10, 1844
-(as 'about to be published in the Aldine edition'), in the
-Monthly Review, March, 1844, and the Gentleman’s Magazine,
-Jan. 1844; for the first and last see above.]</seg>
+          <seg type="editorial">[This very carefully written memoir is the first 'Life' of
+            Chaucer to be based entirely on documentary evidence, and it
+            is consequently a valuable addition to Chaucer biography.
+            Nicolas prints many more documents than Godwin had done.
+            He disposes of the story (built up on the spurious <hi rend="italic">Testament
+            of Love</hi>) of Chaucer's flight and exile in 1384, the return to
+            England in 1386, and imprisonment in the Tower till 1389,
+            by showing that Chaucer must have been in London from
+            1380 to May 1388, for during that period he regularly
+            received his pension at the Exchequer with his own hands
+            (Issue Rolls from Easter, 3 Ric. II to Easter, 11 Ric. II).
+            Also at the very time when he was supposed to have been
+            a prisoner, he was sitting in Parliament as a knight of the
+            shire of Kent. Nicolas, however, does not doubt the authenticity
+            of the <hi rend="italic">Testament of Love</hi>, but regards it as an allegorical
+            composition.
+            <lb/>This 'Life' must have been published in 1843, probably
+            in a limited edition, before it was issued with the Aldine
+            Poets; for it is reviewed in the <hi rend="italic">Athenœum</hi>, Feb. 10, 1844
+            (as 'about to be published in the Aldine edition'), in the
+            <hi rend="italic">Monthly Review</hi>, March, 1844, and the <hi rend="italic">Gentleman’s Magazine</hi>,
+            Jan. 1844; for the first and last see above.]</seg>
         </ab>
       </div>
     </body>

@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Leigh Hunt</author>
-            <date cert="low" when="[n.a. 1849]">[n.a. 1849]</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
+            <date cert="low" notAfter="1849">[n.a. 1849]</date>
             <title level="a">Sonnet.</title>
           </analytic>
           <monogr>
@@ -86,12 +86,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="279"/>
-        <ab type="imprint">[n.a. 1849.] Hunt, James Henry Leigh. Sonnet. [Quoted by C. Day in Notes and Queries, 22 Dec. 1849, vol. i, p. 122.]</ab>
+        
+        <ab type="imprint">[n.a. 1849.] Hunt, James Henry Leigh. <hi rend="italic">Sonnet</hi>. [Quoted by C. Day in Notes and Queries, 22 Dec. 1849, vol. i, p. 122.]</ab>
+        
         <ab type="quotation">
-          <seg>Were I to name out of the times gone by,
-The poets dearest to me, I should say,
-Pulci for spirits, and a fine, free way,
-Chaucer for manners, and a close, silent eye...</seg>
+          <seg>
+            <lg>
+              <l>Were I to name out of the times gone by,</l>
+              <l>The poets dearest to me, I should say,</l>
+              <l>Pulci for spirits, and a fine, free way,</l>
+              <l>Chaucer for manners, and a close, silent eye . . .</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[n.a. 1848], Hartley Coleridge. Chaucer, [printed in] Poems,</title>
+        <title>[n.a. 1848], Hartley Coleridge. Chaucer, [printed in] Poems.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/40220624">Hartley Coleridge</author>
-            <date cert="low" when="[n.a. 1848]">[n.a. 1848]</date>
-            <title level="a">Chaucer, [printed in] Poems,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/40220624">Coleridge, Hartley</author>
+            <date cert="low" notAfter="1848">[n.a. 1848]</date>
+            <title level="a">Chaucer, [printed in] Poems.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,35 +86,40 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="276"/>
-        <ab type="imprint">[n.a. 1848.] Coleridge, Hartley. Chaucer, [printed in] Poems, 1851, 2 vols., vol. ii, pp. 289-91. (Complete Poetical Works, Muses' Library, [1907,] pp. 317-8.)</ab>
+        
+        <ab type="imprint">[n.a. 1848.] Coleridge, Hartley. <hi rend="italic">Chaucer</hi>, [printed in] <hi rend="italic">Poems</hi>, 1851, 2 vols., vol. ii, pp. 289-91. (Complete Poetical Works, Muses' Library, [1907,] pp. 317-8.)<note type="footnote">Note in Spurgeon: [According to information kindly given by Mr. E. H. Coleridge, the copy ot Anderson’s Poets in which this was written probably did not come into Hartley Coleridge's possession (though nominally given to him by his father in 1803) till the death of his uncle Southey in 1843. These lines must therefore have been written between that year and the end of 1848, as Hartley Coleridge died 6 Jan. 1849.]</note></ab>
+        
         <ab type="quotation">
-          <seg>How wayward oft appears the poet's fate,
-Who still is born too early or too late!...
-The fleeting language, to its trust untrue,
-Vext by the jarring claims of old and new,
-Defeats his beauty, makes his sense the fee
-Of a blind, guessing, blundering glossary.
-Thus Chaucer, quaintly clad in antique guise,
-With unfamiliar mien scares modern eyes.
-No doubt he well invented–nobly felt¬
-But O ye Powers! how monstrously he spelt.
-His syllables confound our critic men,
-Who strive in vain to find exactly ten...
-His language too, unpolished and-unfixt,
-Of Norman, Saxon, Latin, oddly mixt–
-Such words might please th' uneducated ears
-That hail'd the blaring trumpets of Poictiers...
-Yet, thou true Poet! let no judgment wrong
-Thy rich, spontaneous, many-coloured song;
-Just mirror of a bold, ambitious age
-In passion furious, in reflection sage!...
-When every beast, and bird, and flower, and tree,
-Convey'd a meaning and a mystery;
-And men in all degrees, sorts, ranks, and trades,
-Knights, Palmers, Scholars, Wives, devoted Maids,
-In garb, and speech, and manners, stood confest...
-And told their state and calling by their vest.</seg>
-          <note type="footnote">Note in Spurgeon: [According to information kindly given by Mr. E. H. Coleridge, the copy ot Anderson’s Poets in which this was written probably did not come into Hartley Coleridge's possession (though nominally given to him by his father in 1803) till the death of his uncle Southey in 1843. These lines must therefore have been written between that year and the end of 1848, as Hartley Coleridge died 6 Jan. 1849.]</note>
+          <seg>
+            <lg>
+              <l>How wayward oft appears the poet's fate,</l>
+              <l>Who still is born too early or too late! . . .</l>
+              <l>The fleeting language, to its trust untrue,</l>
+              <l>Vext by the jarring claims of old and new,</l>
+              <l>Defeats his beauty, makes his sense the fee</l>
+              <l>Of a blind, guessing, blundering glossary.</l>
+              <l>Thus Chaucer, quaintly clad in antique guise,</l>
+              <l>With unfamiliar mien scares modern eyes.</l>
+              <l>No doubt he well invented—nobly felt—</l>
+              <l>But O ye Powers! how monstrously he spelt.</l>
+              <l>His syllables confound our critic men,</l>
+              <l>Who strive in vain to find exactly ten . . .</l>
+              <l>His language too, unpolished and-unfixt,</l>
+              <l>Of Norman, Saxon, Latin, oddly mixt—</l>
+              <l>Such words might please th' uneducated ears</l>
+              <l>That hail'd the blaring trumpets of Poictiers . . .</l>
+              <l>Yet, thou true Poet! let no judgment wrong</l>
+              <l>Thy rich, spontaneous, many-coloured song;</l>
+              <l>Just mirror of a bold, ambitious age</l>
+              <l>In passion furious, in reflection sage! . . .</l>
+              <l>When every beast, and bird, and flower, and tree,</l>
+              <l>Convey'd a meaning and a mystery;</l>
+              <l>And men in all degrees, sorts, ranks, and trades,</l>
+              <l>Knights, Palmers, Scholars, Wives, devoted Maids,</l>
+              <l>In garb, and speech, and manners, stood confest . . .</l>
+              <l>And told their state and calling by their vest.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

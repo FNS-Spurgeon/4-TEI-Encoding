@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1850?], John Ruskin. Letter on his early poem, The Last Song of Arion,</title>
+        <title>[a. 1850?], John Ruskin. Letter on his early poem, The Last Song of Arion.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
-            <date cert="low" when="[a. 1850?]">[a. 1850?]</date>
-            <title level="a">Letter on his early poem, The Last Song of Arion,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
+            <date cert="low" notAfter="1850">[a. 1850?]</date>
+            <title level="a">Letter on his early poem, The Last Song of Arion.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,13 +84,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="286"/>
-        <ab type="imprint">[a. 1850?] Ruskin, John. Letter on his early poem, The Last Song of Arion, to W. H. Harrison. (Works, Library edition, ed. E. T. Cook and A. Wedderburn, 1903-12, 39 vols., vol. ii, p. 123.)</ab>
+        
+        <ab type="imprint">[a. 1850?] Ruskin, John. <hi rend="italic">Letter</hi> on his early poem, <hi rend="italic">The Last Song of Arion</hi>, to W. H. Harrison. (Works, Library edition, ed. E. T. Cook and A. Wedderburn, 1903-12, 39 vols., vol. ii, p. 123.)<note type="footnote">Note in Spurgeon: [The editors state that this letter is undated but was probably written before 1850.]</note></ab>
+        
         <ab type="quotation">
-          <seg>[Writers comparing their mistresses to the sun:] Only
-one man has done that rightly, in the pure way—Chaucer.
-‘Up rose the Sonne, and up rose Emilie!’
-[Knightes T., l. 1415.]</seg>
-          <note type="footnote">Note in Spurgeon: [The editors state that this letter is undated but was probably written before 1850.]</note>
+          <seg type="editorial">[Writers comparing their mistresses to the sun:]</seg>
+            
+          <seg>Only one man has done that rightly, in the pure way—Chaucer.
+            <l>‘Up rose the Sonne, and up rose Emilie!’</l>
+            <note place="right">[<hi rend="italic">Knightes T.</hi>, l. 1415.]</note>
+          </seg>
         </ab>
       </div>
     </body>

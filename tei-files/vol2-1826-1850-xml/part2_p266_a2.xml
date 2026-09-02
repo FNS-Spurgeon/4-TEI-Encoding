@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1845], Walter William Skeat. </title>
+        <title>[c. 1845], Walter William Skeat. {Untitled}.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Walter William Skeat</author>
-            <date cert="low" when="[c. 1845]">[c. 1845]</date>
-            <title level="a"/>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
+            <date cert="low" when="1845">[c. 1845]</date>
+            <title level="a">{Untitled}.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,7 +84,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="266"/>
-        <ab type="imprint">[c. 1845.] Skeat, Walter William.  See below, App. A, 1823, Markham.</ab>
+        
+        <ab type="imprint">[c. 1845.] Skeat, Walter William. See below, App. A, 1823, Markham.</ab>
       </div>
     </body>
   </text>

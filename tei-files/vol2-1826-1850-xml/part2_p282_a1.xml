@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1849, John Greenleaf Whittier. Margaret Smith’s Journal,</title>
+        <title>1849, John Greenleaf Whittier. Margaret Smith’s Journal.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19723987">John Greenleaf Whittier</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19723987">Whittier, John Greenleaf</author>
             <date cert="high" when="1849">1849</date>
-            <title level="a">Margaret Smith’s Journal,</title>
+            <title level="a">Margaret Smith’s Journal.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,12 +84,17 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="282"/>
-        <ab type="imprint">1849. Whittier, John Greenleaf. Margaret Smith’s Journal, Boston, 1859 [not in B.M.]. (Writings, Riverside Edn., 1888-89, 7 vols., vol. v, Prose, vol. i, p. 51.)</ab>
+        
+        <ab type="imprint">1849. Whittier, John Greenleaf. <hi rend="italic">Margaret Smith’s Journal</hi>, Boston, 1859 [not in B.M.]. (Writings, Riverside Edn., 1888-89, 7 vols., vol. v, Prose, vol. i, p. 51.)</ab>
+        
         <ab type="quotation">
           <seg>I think old Chaucer hath it right in his Pardoner's Tale
-[ll. 549-55]:—
-A likerous thing is wine, and drunkenness
-Is full of striving and of wretchedness [etc.].</seg>
+            <add>[ll. 549-55]</add>:—
+            <lg>
+              <l>A likerous thing is wine, and drunkenness</l>
+              <l>Is full of striving and of wretchedness <add>[etc.]</add>.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1849, Unknown. The Times and Poetry of Chaucer,</title>
+        <title>1849, Unknown. The Times and Poetry of Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1849">1849</date>
-            <title level="a">The Times and Poetry of Chaucer,</title>
+            <title level="a">The Times and Poetry of Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,25 +84,33 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="280"/>
-        <ab type="imprint">1849. Unknown. The Times and Poetry of Chaucer, by a New Con tributor, [in] The Knickerbocker Magazine, New York, Sept. and Oct. 1849, vol. xxxiv, pp. 236-41, 292-98.</ab>
+        
+        <ab type="imprint">1849. Unknown. <hi rend="italic">The Times and Poetry of Chaucer</hi>, by a New Con tributor, [in] The Knickerbocker Magazine, New York, Sept. and Oct. 1849, vol. xxxiv, pp. 236-41, 292-98.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 238] He who shall study the poetry of this father of English
-verse, will not be a dull, dry, dead piece of humanity; but if
-he read with deep attention, he will feel that he is in the
-presence of a master spirit, who is striking every chord that
-vibrates in harmony with truth and nature in his soul.  ...
-[p. 296] Few poets have equalled Chaucer in word painting. In one
-bold, though antiquated expression, he shows us the character
-of a "Doctour of Phisicke."
-"For gold in phisike is a cordial,
-Therefore he loved gold in special."
-[Prol. ll. 443-4.]
-Such are a few samples of his manner of describing his
-heroes and heroines: he gives us an outline cap-à-pie; un¬
-covers the mind and shows us the very heart. Like Shakspeare
-he had an intellect which rose far above all competition in
-its power of judging character.  ... For conciseness and energy
-united, come to the Tales of Chaucer.</seg>
+          <seg><note place="margin">[p. 238]</note>He who shall study the poetry of this father of English
+            verse, will not be a dull, dry, dead piece of humanity; but if
+            he read with deep attention, he will feel that he is in the
+            presence of a master spirit, who is striking every chord that
+            vibrates in harmony with truth and nature in his soul. . . .</seg>
+            
+          <seg><note place="margin">[p. 296]</note>Few poets have equalled Chaucer in word painting. In one
+            
+            <milestone unit="page" n="281"/>
+            
+            bold, though antiquated expression, he shows us the character
+            of a "Doctour of Phisicke."
+            <lg>
+              <l>"For gold in phisike is a cordial,</l>
+              <l>Therefore he loved gold in special."</l>
+              <note place="margin">[<hi rend="italic">Prol.</hi> ll. 443-4.]</note>
+            </lg>
+            Such are a few samples of his manner of describing his
+            heroes and heroines: he gives us an outline cap-à-pie;
+            uncovers the mind and shows us the very heart. Like Shakspeare
+            he had an intellect which rose far above all competition in
+            its power of judging character. . . . For conciseness and energy
+            united, come to the Tales of Chaucer.</seg>
         </ab>
       </div>
     </body>

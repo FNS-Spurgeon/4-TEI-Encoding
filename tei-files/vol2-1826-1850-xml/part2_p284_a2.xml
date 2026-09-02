@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1850], Walter Savage Landor. James I of Scotland,</title>
+        <title>[c. 1850], Walter Savage Landor. James I of Scotland.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Walter Savage Landor</author>
-            <date cert="low" when="[c. 1850]">[c. 1850]</date>
-            <title level="a">James I of Scotland,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46796707">Landor, Walter Savage</author>
+            <date cert="low" when="1850">[c. 1850]</date>
+            <title level="a">James I of Scotland.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,12 +84,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="284"/>
-        <ab type="imprint">[c. 1850.] Landor, Walter Savage. James I of Scotland, [lines printed in] Letters and other Unpublished writings of Walter Savage Landor, ed. Stephen Wheeler, 1897, p. 205.</ab>
+        
+        <ab type="imprint">[c. 1850.] Landor, Walter Savage. <hi rend="italic">James I of Scotland</hi>, [lines printed in] <hi rend="italic">Letters and other Unpublished writings of Walter Savage Landor</hi>, ed. Stephen Wheeler, 1897, p. 205.</ab>
+        
         <ab type="quotation">
-          <seg>James! I will never call thy fortunes hard,
-A happy lover and unrival’d bard.
-For Chaucer, Britain's firstborn, was no more,
-And the Muse panted after heavy Gower.</seg>
+          <seg>
+            <lg>
+              <l>James! I will never call thy fortunes hard,</l>
+              <l>A happy lover and unrival’d bard.</l>
+              <l>For Chaucer, Britain's firstborn, was no more,</l>
+              <l>And the Muse panted after heavy Gower.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>
