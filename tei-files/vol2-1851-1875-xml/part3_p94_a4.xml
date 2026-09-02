@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1867, Unknown. [Furnivall, Frederick James?]. Note.</title>
+        <title>1867, [Furnivall, Frederick James?]. Note.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -31,7 +31,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="low" role="M">Unknown. [Furnivall, Frederick James?]</author>
+            <author cert="low" role="M" ref="http://viaf.org/viaf/71467450">Furnivall, Frederick James?</author>
             <date cert="high" when="1867">1867</date>
             <title level="a">Note.</title>
           </analytic>
