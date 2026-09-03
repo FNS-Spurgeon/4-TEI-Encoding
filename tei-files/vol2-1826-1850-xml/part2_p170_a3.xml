@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p170_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p170_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +90,7 @@
           <seg><note place="margin">[p. 84]</note>"How now, Sir Leech!" said the Dominican. "Do you
             call prayers for the dead juggling tricks? I know that
             Chaucer, the English maker, says of you mediciners that your
-            study is but little on the Bible."<note place="margin">[<hi rend="italic">Prologue</hi>, l. 433.]</note></seg>
+            study is but little on the Bible."<note place="right">[<hi rend="italic">Prologue</hi>, l. 433.]</note></seg>
             
           <seg><note place="margin">[p. 147]</note><add>[Chapter Heading]</add>
             <lb/>"This Austin humbly did."—"Did he?" quoth he.

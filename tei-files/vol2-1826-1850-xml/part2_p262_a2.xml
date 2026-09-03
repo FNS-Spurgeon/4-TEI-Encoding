@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p262_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p262_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -132,7 +131,7 @@
             See the longest and most desperate of his Translations—which
             Tyrwhitt supposes him to have completed, though we have
             <note place="margin">[p. 619]</note>only two fragments—seven thousand verses in place of twenty-
-            two thousand—the "ROMAUNT OT THE ROSE"...</seg>
+            two thousand—the "ROMAUNT OT THE ROSE" . . .</seg>
         </ab>
       </div>
     </body>

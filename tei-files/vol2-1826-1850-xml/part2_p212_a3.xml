@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p212_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p212_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -297,7 +296,7 @@
           <seg><note place="margin">[p. 124]</note>Chaucer is a picturesque poet in the narrowest and strictest
             sense of the term.</seg>
           
-          <seg>[<hi rend="italic">The Book of the Duchesse</hi>, <hi rend="italic">Parlement of Foules</hi>, <hi rend="italic">Complaint of the Black Knight</hi>, etc., instanced.]</seg>
+          <seg type="editorial">[<hi rend="italic">The Book of the Duchesse</hi>, <hi rend="italic">Parlement of Foules</hi>, <hi rend="italic">Complaint of the Black Knight</hi>, etc., instanced.]</seg>
           
           <milestone unit="page" n="217"/>
           

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p169_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p169_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,10 +84,10 @@
       <div type="allusion">
         <milestone unit="page" n="169"/>
         
-        <ab type="imprint">1828. Hazlitt, William. <hi rend="italic">A Farewell to Essay-Writing</hi>, [in] The Lon don Weekly Review, March 29. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols, vol. xii, p. 327.)</ab>
+        <ab type="imprint">1828. Hazlitt, William. <hi rend="italic">A Farewell to Essay-Writing</hi>, [in] The London Weekly Review, March 29. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols, vol. xii, p. 327.)</ab>
         
         <ab type="quotation">
-          <seg>[Praise of "Chaucer's <hi rend="italic">Flower and Leaf</hi>."]</seg>
+          <seg type="editorial">[Praise of "Chaucer's <hi rend="italic">Flower and Leaf</hi>."]</seg>
         </ab>
       </div>
     </body>

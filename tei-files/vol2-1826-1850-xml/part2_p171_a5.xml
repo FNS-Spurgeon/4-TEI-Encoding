@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p171_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p171_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,7 +37,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1828">1828</date>
-            <title level="a">The Worthies of the United Kingdom; or Biographi cal Accounts of the Lives of the most illustrious Men, in Arts, Arms, Literature, and Science, connected with Great Britain.</title>
+            <title level="a">The Worthies of the United Kingdom; or Biographical Accounts of the Lives of the most illustrious Men, in Arts, Arms, Literature, and Science, connected with Great Britain.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -87,7 +86,7 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="171"/>
-        <ab type="imprint">1828. Unknown. <hi rend="italic">The Worthies of the United Kingdom; or Biographi cal Accounts of the Lives of the most illustrious Men, in Arts, Arms, Literature, and Science, connected with Great Britain.</hi></ab>
+        <ab type="imprint">1828. Unknown. <hi rend="italic">The Worthies of the United Kingdom; or Biographical Accounts of the Lives of the most illustrious Men, in Arts, Arms, Literature, and Science, connected with Great Britain.</hi></ab>
         
         <ab type="quotation">
           <seg type="editorial">[No. 4. Geoffrey Chaucer, the Father of English Poetry,

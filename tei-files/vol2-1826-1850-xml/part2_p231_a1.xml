@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p231_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p231_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -157,8 +156,8 @@
             whose obsolete words and difficult phrases, and, for us,
             uncadenced metre, are to be conned by a glossary as obsolete
             as the text, to be perpetually referred to, to the interruption
-            of all poetry and all patience, appalled even the thorough¬
-            paced antiquary, Samuel Pegge, as appears by his honest
+            of all poetry and all patience, appalled even the thoroughpaced
+            antiquary, Samuel Pegge, as appears by his honest
             confession <add>[q.v. above, vol. i, p. 502]</add>. Already a practised
             bibliosopher proclaims, alluding to the edition by Tyrwhit
             of Chaucer’s Canterbury Tales, "And who reads any

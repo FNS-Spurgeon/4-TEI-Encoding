@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p179_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p179_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +87,7 @@
         <ab type="imprint">1830. Scott, Sir Walter. <hi rend="italic">Letters on Demonology and Witchcraft</hi>, John Murray’s edition, 1830, pp. 173-75, 178; Reprint in Morley’s Universal Library, 1884, pp. 144-5, 148. (Miscellaneous Prose Works, Edinburgh, 1834-71, 30 vols., vol. xxix, pp. 168-70, 173.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[<hi rend="italic">Wife of Bath's Tale</hi>, ll. 1-25; Chaucer ascribes the exile of fairies to the prayers of the "limitours" and “freres."]</seg>
+          <seg type="editorial">[<hi rend="italic">Wife of Bath's Tale</hi>, ll. 1-25; Chaucer ascribes the exile of fairies to the prayers of the "limitours" and "freres."]</seg>
         </ab>
       </div>
     </body>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p165_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p165_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +90,7 @@
         
         <ab type="quotation">
           <seg>I think I have hit on a subject for you, but can't swear it
-            was never executed–I never heard of its being–"Chaucer
+            was never executed—I never heard of its being—"Chaucer
             
             <milestone unit="page" n="166"/>
             

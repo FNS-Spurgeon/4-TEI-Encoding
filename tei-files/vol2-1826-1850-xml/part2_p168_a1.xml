@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p168_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p168_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,12 +89,12 @@
         <ab type="quotation">
           <seg type="editorial">[A modernization of Chaucer's poems much needed; Dryden
             departs too much from his text. A version of the Friar from
-            the <hi rend="italic">Prologue</hi> (ll. 223-26) is given as a “very fair specimen
+            the <hi rend="italic">Prologue</hi> (ll. 223-26) is given as a "very fair specimen
             of what is wanted."]</seg>
           
           <seg>
             <lg>
-              <l>The penance he imposed was never hard–</l>
+              <l>The penance he imposed was never hard—</l>
               <l>Whereby he gained a plentiful reward;</l>
               <l>And in such cases an abundant gift</l>
               <l>Was proof enough of an effectual shrift <add>[etc.]</add>.</l>

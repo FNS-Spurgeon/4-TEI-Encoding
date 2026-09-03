@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p196_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p196_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,8 +87,8 @@
         <ab type="imprint">1835. Hunt, James Henry Leigh. <hi rend="italic">Review</hi> [of] <hi rend="italic">Three New Books</hi>, [including Cowden Clarke’s <hi rend="italic">Riches of Chaucer</hi>, in] Leigh Hunt's London Journal, March 25, 1835, p. 89.</ab>
         
         <ab type="quotation">
-          <seg>We have also to express a doubt, whether Chaucer's versi¬
-            fication is so invariably regular in its construction as Mr.
+          <seg>We have also to express a doubt, whether Chaucer's
+            versification is so invariably regular in its construction as Mr.
             Clarke supposes; a doubt which we express with the less
             willingness, because we have done something in our day
             towards spreading the contrary notion. But we must own, it
@@ -98,7 +97,7 @@
             melodious, his lines are now and then short, or superfluous, of
             a syllable or so, and his time marked only by quantity . . .
             Here is a sample in Chaucer, from the very first page that we
-            have opened at random–
+            have opened at random—
             <lg>
               <l>"The hand was knowen that the letter wrote,</l>
               <l>And all the venom of this cursed deed,</l>
@@ -121,7 +120,7 @@
             
             <milestone unit="page" n="197"/>
             
-          <seg>[Then follows the account of Keats writing his Sonnet on
+          <seg type="editorial">[Then follows the account of Keats writing his Sonnet on
             <hi rend="italic">The Flower and the Leaf</hi> in Cowden Clarke’s Chaucer, q.v.
             above, 1817.]</seg>
         </ab>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p167_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p167_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -105,7 +104,7 @@
               <l>Ou Rommant de Plaisant Penser.</l>
             </lg>
             It is scarcely conceivable that Mr. Taylor, the editor of the
-            Roxburghe Club print, read the “pancer" of the MS. as
+            Roxburghe Club print, read the "pancer" of the MS. as
             "Chaucer," but, at any rate, he renders (without comment)
             the above passage as follows:
             <lg>

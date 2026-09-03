@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p257_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p257_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -115,7 +114,7 @@
             
           <seg type="editorial">[Text of Deschamps' ballade; q.v. below, App. B. [1386?].]</seg>
             
-          <seg><note place="margin">[pp. 14-15]</note>[Chaucer's stories probably not taken from Boccaccio, but
+          <seg type="editorial"><note place="margin">[pp. 14-15]</note>[Chaucer's stories probably not taken from Boccaccio, but
             from earlier French fabliaux. The text of the Miller of
             <note place="margin">[p. 23]</note>Trumpington, from MS. Berne, no. 354, follows. Tyrwhitt's
             text very corrupt: “there is perhaps not a single line in

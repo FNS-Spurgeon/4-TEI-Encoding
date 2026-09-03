@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p169_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p169_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1828, Leigh Hunt. Lord Byron and Some of his Con temporaries.</title>
+        <title>1828, Leigh Hunt. Lord Byron and Some of his Contemporaries.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +37,7 @@
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/54166412">Hunt, Leigh</author>
             <date cert="high" when="1828">1828</date>
-            <title level="a">Lord Byron and Some of his Con temporaries.</title>
+            <title level="a">Lord Byron and Some of his Contemporaries.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -85,7 +84,7 @@
       <div type="allusion">
         <milestone unit="page" n="169"/>
         
-        <ab type="imprint">1828. Hunt, James Henry Leigh. <hi rend="italic">Lord Byron and Some of his Con temporaries</hi>, pp. 376, 398-9 [also a few passing references].</ab>
+        <ab type="imprint">1828. Hunt, James Henry Leigh. <hi rend="italic">Lord Byron and Some of his Contemporaries</hi>, pp. 376, 398-9 [also a few passing references].</ab>
         
         <ab type="quotation">
           <seg><note place="margin">[p. 376]</note>Chaucer, one of my best friends, I was not acquainted with

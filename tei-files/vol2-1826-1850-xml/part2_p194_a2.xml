@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p194_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p194_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -94,8 +93,8 @@
         <ab type="quotation">
           <seg type="editorial">[These are selections from the poems, prefaced by a life of
             Chaucer, pp. 1-57. The book was re-edited, in 1870, with a
-            new short prefatory note, the life of Chaucer remaining un¬
-            altered, in which the <hi rend="italic">Court of Love</hi>, <hi rend="italic">the Plowman's Tale</hi>, <hi rend="italic">Jack
+            new short prefatory note, the life of Chaucer remaining
+            unaltered, in which the <hi rend="italic">Court of Love</hi>, <hi rend="italic">the Plowman's Tale</hi>, <hi rend="italic">Jack
             Upland</hi>, the <hi rend="italic">Testament of Love</hi> and other spurious poems
             are ascribed to him, and the fictitious story of his exile and
             imprisonment is given in full.]</seg>

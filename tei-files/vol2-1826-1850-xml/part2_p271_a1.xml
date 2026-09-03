@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p271_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p271_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -106,7 +105,7 @@
             animated and pathetic. Keats, in his <hi rend="italic">Endymion</hi>, is richer in
             imagery than either.<note type="footnote">Note in Spurgeon: [This passage is not in the 1st edn. of 1829.]</note></seg>
             
-          <seg><note place="margin">[vol. iv, pp. 66-108]</note>[Chaucer, Boccaccio, and Petrarca, slightly enlarged from the first edition of 1829.]</seg>
+          <seg type="editorial"><note place="margin">[vol. iv, pp. 66-108]</note>[Chaucer, Boccaccio, and Petrarca, slightly enlarged from the first edition of 1829.]</seg>
             
              
           <seg>SOUTHEY AND LANDOR.
@@ -129,7 +128,7 @@
             <note place="margin">[p. 275]</note>bland skies which had warmed the congenial breasts of
             Chaucer and Boccaccio.</seg>
           
-          <seg>[Chaucer's and Shakespeare’s powers of imagination greater than Spenser's.]</seg>
+          <seg type="editorial">[Chaucer's and Shakespeare’s powers of imagination greater than Spenser's.]</seg>
             
           <seg type="editorial">[Some brief remarks follow on Dryden’s criticism of Chaucer's
             metre and his comparison of Chaucer with Boccaccio.]</seg>

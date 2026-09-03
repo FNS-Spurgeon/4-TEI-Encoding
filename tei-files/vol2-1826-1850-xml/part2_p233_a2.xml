@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p233_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p233_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +84,7 @@
       <div type="allusion">
         <milestone unit="page" n="233"/>
         
-        <ab type="imprint">1841. Emerson, Ralph Waldo. <hi rend="italic">History, and The Over-Soul</hi>, [in] <hi rend="italic">Essays, First Series</hi>, London, 1841, pp. 25, 238. (Works, Centenary edition, 1903, vol. ii, pp. 29-30, 288.)<note type="footnote">Note in Spurgeon: [The Essays first appeared at Boston in 1841; the first edn. in B.M. is the London reprint of the same year.]</note></ab>
+        <ab type="imprint">1841. Emerson, Ralph Waldo. <hi rend="italic">History</hi>, and <hi rend="italic">The Over-Soul</hi>, [in] <hi rend="italic">Essays, First Series</hi>, London, 1841, pp. 25, 238. (Works, Centenary edition, 1903, vol. ii, pp. 29-30, 288.)<note type="footnote">Note in Spurgeon: [The Essays first appeared at Boston in 1841; the first edn. in B.M. is the London reprint of the same year.]</note></ab>
         
         <ab type="quotation">
           <seg><note place="margin">[p. 29]</note>The advancing man discovers how deep a property he has in

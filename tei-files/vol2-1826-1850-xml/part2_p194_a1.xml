@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p194_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p194_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +87,7 @@
         <ab type="imprint">1834. Willmott, Robert Aris. <hi rend="italic">Lives of Sacred Poets</hi>, 2 vols, 1834, Introduction, vol i, pp. 1-91; vol. ii, pp. 48, 73, 78, 306, 364. (2nd edn., 1839, vol. i, pp. 2-3, 5-9, 24, 27-8, 77; vol. ii, as in 1st edn.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. i. p. 1]</note>It should never be forgotten, in speaking of Chaucer, that
+          <seg><note place="margin">[vol. i. p. 1]</note>It should never be forgotten, in speaking of Chaucer, that
             he was among the first to resort to that precious fountain
             which his contemporary Wickliffe had opened, and that he
             drank of the "water springing up to everlasting life."</seg>

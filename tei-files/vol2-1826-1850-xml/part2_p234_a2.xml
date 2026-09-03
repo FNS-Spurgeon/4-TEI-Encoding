@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p234_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p234_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -79,7 +78,7 @@
         <catRef scheme="#criticism" target="#evolution"/>
         <catRef scheme="#modernizations" target="#browning"/>
         <catRef scheme="#modernizations" target="#bell"/>
-        <catRef scheme="#modernizations" target="#hunt"/>
+        <catRef scheme="#modernizations" target="#hunt-modern"/>
         <catRef scheme="#modernizations" target="#wordsworth"/>
         <catRef scheme="#modernizations" target="#horne"/>
         <catRef scheme="#modernizations" target="#powell"/>
@@ -88,7 +87,7 @@
         <catRef scheme="#works" target="#troilus"/>
         <catRef scheme="#works" target="#legendGoodWomen"/>
         <catRef scheme="#works" target="#anelidaArcite"/>
-        <catRef scheme="#works" target="#modernizations"/>
+        <catRef scheme="#works" target="#modernizations-tales"/>
         <catRef scheme="#works" target="#mancipleTale"/>
         <catRef scheme="#works" target="#cuckooNightingale"/>
       </textClass>
@@ -102,7 +101,7 @@
       <div type="allusion">
         <milestone unit="page" n="234"/>
         
-        <ab type="imprint">1841. Horne, Richard Hengist, Wordsworth , William, etc. <hi rend="italic">The Poems of Geoffrey Chaucer modernised</hi>. [Selections from the Canterbury Tales and other works modernized in verse, by R. H. Horne, W. Wordsworth, Leigh Hunt, E. B. Barrett, T. Powell, and R. Bell. Preceded by a life of Chaucer by L. Schmitz. See, for an account of this book, above, Introduction, pp. I-lii; for Wordsworth’s contributions to it see above, 1801 and 1840; and, for Powell’s, below, 1841.]</ab>
+        <ab type="imprint">1841. Horne, Richard Hengist, Wordsworth , William, etc. <hi rend="italic">The Poems of Geoffrey Chaucer modernised</hi>. [Selections from the Canterbury Tales and other works modernized in verse, by R. H. Horne, W. Wordsworth, Leigh Hunt, E. B. Barrett, T. Powell, and R. Bell. Preceded by a life of Chaucer by L. Schmitz. See, for an account of this book, above, Introduction, pp. l-lii; for Wordsworth’s contributions to it see above, 1801 and 1840; and, for Powell’s, below, 1841.]</ab>
         
         <ab type="quotation">
           <seg><add>[Contents:]</add>
@@ -140,7 +139,7 @@
             <lb/>The Franklin’s Tale, by R. H. Horne, pp. 290-331.</seg>
             
           <seg><add>[From Horne’s Introduction, we print the following:]</add>
-            <note place="margin">[p. v]</note>The present publication does not result from an antiquarian
+            <lb/><note place="margin">[p. v]</note>The present publication does not result from an antiquarian
             feeling about Chaucer, as the Father of English Poetry, highly
             interesting as he must always be in that character alone; but
             from the extraordinary fact, to which there is no parallel in
@@ -186,10 +185,10 @@
             folks of Chaucer's time, as well as the poet himself, could
             never have contemplated, it is not necessary to determine.
             Such an antipathy to the study of his language does exist;
-            and-while we, curiously enough, find Chaucer sometimes
+            and—while we, curiously enough, find Chaucer sometimes
             apologizing, with meek humility and gentilesse, for using
             some expressions which are now in common use, but which
-            were considered very improper in his day-it is undeniable
+            were considered very improper in his day—it is undeniable
             that various passages and expressions occur here and there,
             <note place="margin">[p. viii]</note>in his works, which are calculated to startle a modern reader,
             and make him doubt his eyes. Howbeit, this great fact is
@@ -283,9 +282,9 @@
             furnished by Mr. Boyce; at all events they are the most
             ambitious. He renders the "Squire's Tale" in stanzas. The
             opening, it must be acknowledged, is high and imposing :—
-            "Where peopled Scythia’s verdant plains extend"
+            <l>"Where peopled Scythia’s verdant plains extend"</l>
             <add>[and six following lines]</add>.
-            Many readers may perhaps admire the lofty tone of this opening
+            <lb/>Many readers may perhaps admire the lofty tone of this opening
             stanza–but why associate it with the name of Chaucer?</seg>
             
           <seg type="editorial"><note place="margin">[pp. xii-xxxi]</note>[A review in more detail of previous modernisations, in

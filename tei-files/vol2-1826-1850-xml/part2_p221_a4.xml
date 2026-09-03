@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p221_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p221_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1838-9, [Thomas De Quincey]. A Brief Appraisal of the Greek Litera ture in its Foremost Pretensions.</title>
+        <title>1838-9, [Thomas De Quincey]. A Brief Appraisal of the Greek Literature in its Foremost Pretensions.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +37,7 @@
           <analytic>
             <author cert="medium" role="M" ref="http://viaf.org/viaf/14768427">De Quincey, Thomas</author>
             <date cert="high" from="1838" to="1839">1838-9</date>
-            <title level="a">A Brief Appraisal of the Greek Litera ture in its Foremost Pretensions.</title>
+            <title level="a">A Brief Appraisal of the Greek Literature in its Foremost Pretensions.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>

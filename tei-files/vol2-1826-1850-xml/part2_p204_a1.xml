@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p204_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p204_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -110,8 +109,8 @@
             succeeded him scarcely ever speak of his style but in terms of
             enthusiastic rapture. When we consider, indeed, how greatly
             superior to his contemporaries was the mechanism of his
-            versification, which, though from change of accent unaccom¬
-            modated to a modern ear, was, in the then construction of the
+            versification, which, though from change of accent unaccommodated
+            to a modern ear, was, in the then construction of the
             language, beyond all example harmonious and correct . . .
             the admiration of his disciples, however warmly expressed,
             seems justly his due. It may, in short, be affirmed, that even

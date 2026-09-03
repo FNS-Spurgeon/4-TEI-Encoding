@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p165_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p165_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,9 +86,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="165"/>
-        <ab type="imprint">1827. Johnstone, John. Specimens of Sacred and Serious Poetry, from Chaucer to the Present Day, pp. 175-87.</ab>
+        
+        <ab type="imprint">1827. Johnstone, John. <hi rend="italic">Specimens of Sacred and Serious Poetry, from Chaucer to the Present Day</hi>, pp. 175-87.</ab>
+        
         <ab type="quotation">
-          <seg>[The Prioresses Tale and Character of a Good Parson, modernised, with a brief account of Chaucer prefixed.]</seg>
+          <seg type="editorial">[The Prioresses Tale and Character of a Good Parson, modernised, with a brief account of Chaucer prefixed.]</seg>
         </ab>
       </div>
     </body>

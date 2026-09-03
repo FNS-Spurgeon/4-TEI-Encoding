@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p218_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p218_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,8 +91,8 @@
             us, never kill singing birds nor swallows.
             <lb/>Boccaccio. Musick and hospitality are sweet and sacred
             things with them . . .
-            <lb/><note place="margin">[p. 93]</note>Petrarca. Ser Geoffreddo felt more pleasure in the gener¬
-            osity and humanity of his countrymen, than in the victories
+            <lb/><note place="margin">[p. 93]</note>Petrarca. Ser Geoffreddo felt more pleasure in the generosity
+            and humanity of his countrymen, than in the victories
             they had recently won, with incredibly smaller numbers, over
             their boastful enemy.
             <lb/>Boccaccio. I know not of what nation I could name so

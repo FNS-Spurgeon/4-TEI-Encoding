@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p246_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p246_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +89,7 @@
         <ab type="quotation">
           <seg>No, you would certainly never recognise my prison if you were to see it.</seg>
           
-          <seg>[Here follows description of alterations in her <milestone unit="page" n="247"/> bedroom]</seg>
+          <seg type="editorial">[Here follows description of alterations in her <milestone unit="page" n="247"/> bedroom]</seg>
           
           <seg>. . . And Chaucer's and Homer's busts on guard over those two departments of English and Greek poetry.</seg>
         </ab>

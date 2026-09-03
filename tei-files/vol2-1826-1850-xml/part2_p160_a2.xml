@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p160_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p160_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,7 +91,7 @@
             last foot (supposing the last foot to be an iambus) produces
             an agreeable relief from the monotony of the usual heroic
             structure. The following examples from Chaucer's Knight's
-            Tale are among the most melodious I can recollect–
+            Tale are among the most melodious I can recollect—
             <lg>
               <l>"And sōlĭtāire hĕ wās ēvĕr ălōne</l>
               <l>And wāīlĭng āll thĕ night mākĭng hĭs mōne."</l>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p249_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p249_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +87,7 @@
         <ab type="imprint">1843. Shaw, Henry. <hi rend="italic">Dresses and Decorations of the Middle Ages</hi>, vol. i. [No pagination.]</ab>
         
         <ab type="quotation">
-          <seg>[Vol. i, sig. B4, b: Quotations from Prologue. Chaucer's
+          <seg type="editorial">[Vol. i, sig. B4, b: Quotations from Prologue. Chaucer's
             description of the pilgrims our best authority for dresses in the
             time of Richard II. There are various other brief references.
             Vol. i concludes with a coloured portrait of Chaucer, from

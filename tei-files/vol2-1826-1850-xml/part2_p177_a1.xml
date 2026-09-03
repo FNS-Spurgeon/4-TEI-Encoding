@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p177_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p177_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,7 +91,7 @@
         
         <ab type="quotation">
           <seg type="editorial">[A long and very appreciative article, echoing in parts the
-            author's Essay of 1819, q. v. above. The earlier and biographical 
+            author's <hi rend="italic">Essay</hi> of 1819, q. v. above. The earlier and biographical 
             part is careful, and describes Godwin's <hi rend="italic">Life</hi> as "a
             series of suppositions," but the story of Chaucer’s exile and
             imprisonment is treated as certain. Campbell notes that the
@@ -126,7 +125,7 @@
             
             <milestone unit="page" n="178"/>
             
-            virtues inferior to this; his incongruities, e.g. the “cooke
+            virtues inferior to this; his incongruities, e.g. the "cooke
             scalded for all his longe ladle." The great architect of our
             versification, but not an importer of French words. His
             prolixity, like his coarseness, a fault of his time.]</seg>

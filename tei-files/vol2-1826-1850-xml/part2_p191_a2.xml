@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p191_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p191_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -103,7 +102,7 @@
             jest upon them, which has become famous.
             <l>In olde dayes of the Kinge Artour</l>
             <add>[and 23 following lines]</add>.
-            In another poem, we meet with Pluto and Proserpine as
+            <lb/>In another poem, we meet with Pluto and Proserpine as
             the King and Queen of Faerie; where they sing and dance
             
             <milestone unit="page" n="192"/>

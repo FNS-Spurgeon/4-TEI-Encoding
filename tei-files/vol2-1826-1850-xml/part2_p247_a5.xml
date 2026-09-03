@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p247_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p247_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -121,7 +120,7 @@
             Chaucer.)</seg>
             
           <seg><note place="margin">[p. 68]</note>p. 119-46 <add>[of the MS.]</add>. <hi rend="italic">Griselde</hi>.
-            This poem on the subject of Patient Griseldis has no
+            <lb/>This poem on the subject of Patient Griseldis has no
             title, but is in fact Chaucer's Griselde, or The Clerke of
             Oxenfordes Tale, which, as the Clerke declares in his prologue,
             he learned of Petrark at Padua.</seg>

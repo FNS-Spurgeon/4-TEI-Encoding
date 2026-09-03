@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p178_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p178_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,14 +89,14 @@
         <ab type="quotation">
           <seg>After a few minutes general conversation he <add>[Goethe]</add>
             pointed to a large volume lying before him on the table,
-            and said–
+            and said—
             <lb/>"It is curious that when your visit was announced to me,
             I was engaged in making a few notes on your Old English
             literature. Is that a subject that has ever engaged your
             attention?" To this I was fortunately able to make an
             affirmative reply, as I had not long before, when at Oxford,
-            spent some time in the study of Anglo-Saxon, and was, more¬
-            over, well up in Chaucer, which enabled me to elucidate a
+            spent some time in the study of Anglo-Saxon, and was, moreover,
+            well up in Chaucer, which enabled me to elucidate a
             few old words and phrases which he had marked as requiring
             explanation.</seg>
         </ab>

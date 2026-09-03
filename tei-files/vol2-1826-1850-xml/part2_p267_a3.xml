@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p267_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p267_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -91,7 +90,7 @@
           <seg>
             <lg>
               <note place="margin">[p. 51]</note><l>In Richard's reign SIDE-SADDLES first, came into English use,</l>
-              <l>And GOWER with merry CHAUCER, too, their rhapsodies produce...</l>
+              <l>And GOWER with merry CHAUCER, too, their rhapsodies produce . . .</l>
             </lg>
           </seg>
             

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p179_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p179_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -89,7 +88,7 @@
         
         <ab type="quotation">
           <seg><note place="margin">[p. xxii]</note>There are evenings when the spectator might believe, with
-            Father Chaucer, that the–</seg>
+            Father Chaucer, that the—</seg>
             
           <seg>
             <lg>

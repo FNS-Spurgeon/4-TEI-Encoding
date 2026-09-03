@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p163_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p163_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -98,9 +97,9 @@
           <seg><note place="margin">[vol. ii, p.278]</note>"Dreams, dreams, dreams, my simple Colonel," said
             Bletson . . . "Old Chaucer, sir, hath told us the real moral
             on't–He was an old frequenter of the forest of Woodstock,
-            here–"
+            here—"
             <lb/>"Chaser?" said Desborough; “some huntsman belike, by
-            his name–Does he walk, like Hearne at Windsor?"</seg>
+            his name—Does he walk, like Hearne at Windsor?"</seg>
           
           <milestone unit="page" n="164"/>
             
@@ -110,7 +109,7 @@
             haunt our ears after their bones are long mouldered in the dust."
             <lb/>"Ay, ay! well <add>[answered Desborough, to whom this description 
             of the old poet was unintelligible, (later edd.)]</add>, I for one
-            desire his room rather than his company–one of your conjurers,
+            desire his room rather than his company—one of your conjurers,
             I warrant him. But what says he to the matter?"
             <lb/>"Only a slight spell, which I will take the freedom to repeat
             to Colonel Everard," said Bletson; “but which would be as bad
@@ -120,7 +119,7 @@
             
           <seg>While he was thus declaiming . . . Everard saw a book
             sticking out from beneath the pillow . . . "Is that Chaucer?"
-            he said, making for the volume–I would like to look at the
+            he said, making for the volume—I would like to look at the
             <note place="margin">[p. 230]</note>"No, that is Lucretius . . .</seg>
             
           <seg type="editorial">[Everard finds it to be the Bible,

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p221_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p221_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,7 +87,9 @@
         <ab type="imprint">1837. Wade, Thomas. <hi rend="italic">The Contention of Death and Love</hi>, [printed in] W. R. Nicoll and T. J. Wise’s Literary Anecdotes of the Nine teenth Century, 1895, 2 vols., vol. i, p. 132.</ab>
         
         <ab type="quotation">
-          <seg><add>[Death speaks of the dying poet:]</add>
+          <seg type="editorial">[Death speaks of the dying poet:]</seg>
+          
+          <seg>
             <lg>
               <l>Thinkst thou that I, whose strong decree</l>
               <l>Swept Homer from Ionian air</l>

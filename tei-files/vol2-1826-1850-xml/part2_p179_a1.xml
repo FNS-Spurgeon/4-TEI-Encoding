@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p179_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p179_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +84,7 @@
       <div type="allusion">
         <milestone unit="page" n="179"/>
         
-        <ab type="imprint">1830. Nicolas, Sir Nicholas Harris. <hi rend="italic">Privy Purse Expenses of Elizabeth of York.</hi> Index and Notes, [Illustrative quotations under] Gray ling, p. 198; Housell, p. 202; Pardon, p. 214; Purfle, p. 217; Stations, p. 224; Combe Coverchiefs, pp. 241-2.</ab>
+        <ab type="imprint">1830. Nicolas, Sir Nicholas Harris. <hi rend="italic">Privy Purse Expenses of Elizabeth of York.</hi> Index and Notes, [Illustrative quotations under] Grayling, p. 198; Housell, p. 202; Pardon, p. 214; Purfle, p. 217; Stations, p. 224; Combe Coverchiefs, pp. 241-2.</ab>
       </div>
     </body>
   </text>

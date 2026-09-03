@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p186_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p186_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -92,7 +91,7 @@
             later editions read "meek as a maid" and "pattern."]</seg>
             
           <seg>As to the first <add>[his looks]</add> he <add>[Aymer de Valence]</add> was mild,
-            gentle, and “modest as a maid," and possessed exactly of the
+            gentle, and "modest as a maid," and possessed exactly of the
             courteous manners ascribed by our father Chaucer to the
             young élève of chivalry whom he describes upon his pilgrimage
             to Canterbury.</seg>

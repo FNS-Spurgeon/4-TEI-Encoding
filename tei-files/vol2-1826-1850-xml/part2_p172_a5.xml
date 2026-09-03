@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p172_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p172_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,7 +92,7 @@
         <ab type="quotation">
           <seg type="editorial">[There are various changes in the language between the
             editions of 1829 and 1846. In the opening speech, for
-            instance, after '<hi rend="italic">Decameron</hi>,' the 1829 edition reads “which
+            instance, after '<hi rend="italic">Decameron</hi>,' the 1829 edition reads "which
             I shewed to you in his manuscript, you expressed so ardently
             your admiration," &amp;c. The speech of Petrarca (p. 403), in
             reply to Chaucer's remarks on the cataract of Terni, is a later
@@ -179,7 +178,7 @@
             both at home and abroad. In the approach to the eternal
             city, she seems to have surrendered much of her wildness,
             and to have assumed all her stateliness and sedateness, all her
-            awfulness and severity.....</seg>
+            awfulness and severity. . . . .</seg>
             
           <seg><note place="margin">[p. 70]</note>Boccaccio. If Ser Geoffreddo felt in honest truth any
             pleasure at reading my Decameron, he owes me a tithe at least

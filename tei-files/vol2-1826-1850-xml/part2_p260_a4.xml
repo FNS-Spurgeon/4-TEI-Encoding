@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p260_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p260_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,11 +92,11 @@
         <milestone unit="page" n="261"/>
         
         <ab type="quotation">
-          <seg><note type="editorial">[pp. 15 and 16]</note>PHILIP : . . . You must put no faith at all in any idea
+          <seg><note place="margin">[pp. 15 and 16]</note>PHILIP : . . . You must put no faith at all in any idea
             you may have got of Chaucer from Dryden or Pope. Dryden
             appreciated his original better than Pope; but neither of them
             had a particle of his humor, nor of the simplicity of his
-            pathos.  ... Pope was not a man to understand the quiet
+            pathos. . . . Pope was not a man to understand the quiet
             tenderness of Chaucer, where you almost seem to hear the
             hot tears falling, and the simple, choking words sobbed out.
             I know no author so tender as he, not even Shakspeare.</seg>

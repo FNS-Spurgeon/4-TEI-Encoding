@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p160_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p160_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +86,7 @@
       <div type="allusion">
         <milestone unit="page" n="160"/>
         
-        <ab type="imprint">1826. Dallaway, James. <hi rend="italic">Anecdotes of Painting in England... by... Horace Walpole, with... additions by the Rev. James Dallaway</hi>, vol. i, pp. 56, 57 n. ; vol. v, pp. 304-5 [list of Vertue’s Works, in the Catalogue of Engravers, q.v. above, vol. i, 1763, p. 424].</ab>
+        <ab type="imprint">1826. Dallaway, James. <hi rend="italic">Anecdotes of Painting in England . . . by . . . Horace Walpole, with . . . additions by the Rev. James Dallaway</hi>, vol. i, pp. 56, 57 n. ; vol. v, pp. 304-5 [list of Vertue’s Works, in the Catalogue of Engravers, q.v. above, vol. i, 1763, p. 424].</ab>
         
         <ab type="quotation">
           <seg><note place="margin">[vol. i, pp. 56, 57 n.]</note>This portrait of Chaucer <add>[on his tomb at Westminster]</add>

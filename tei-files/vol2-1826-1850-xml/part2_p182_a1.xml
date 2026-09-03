@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p182_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part2_p182_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,7 +95,7 @@
             the lines of Chaucer:
             <l>And as for me, though that I can but lite,</l>
             <l>On bokis for to read I me delite,</l>
-            ..... <add>[to]</add>
+            . . . . . <add>[to]</add>
             <l>Farewell my boke and my devocion.</l>
             <note place="right">[<hi rend="italic">Legend of Good Women</hi>, Prol., ll. 29-39.]</note>
           </seg>
