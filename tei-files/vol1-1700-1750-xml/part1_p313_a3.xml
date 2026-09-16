@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p313_a3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1710|11, Elijah Fenton. An Epistle to Mr. Southerne from Mr. El. Fenton.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/47705399">Fenton, Elijah</author>
+            <date cert="high" when="1711" when-custom="1710">1710|11</date>
+            <title level="a">An Epistle to Mr. Southerne from Mr. El. Fenton.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=505">313-314</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass/>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="313"/>
+        
+        <ab type="imprint">1710|11. Fenton, El[ijah]. <hi rend="italic">An Epistle to Mr. Southerne from Mr. El. Fenton</hi>, From Kent, Jan. 28, 1710|11, p. 14. (Works of the English Poets, ed. Dr. S. Johnson, additional lives by A. Chalmers, vol. x, 1810, p. 401.)</ab>
+        
+        <ab type="quotation">
+          <seg>
+            <lg>
+              <l>Chaucer had all that Beauty cou'd inspire,</l>
+              <l>And Surry's Numbers glow’d with warm Desire:</l>
+            
+              <milestone unit="page" n="314"/>
+              
+              <l>Both now are priz'd by few, unknown to most,</l>
+              <l>Because the Thoughts are in the Language lost;</l>
+              <l>Ev'n Spencer's Pearls in muddy Waters lye,</l>
+              <l>Rarely discover'd by the Diver's Eye:</l>
+              <l>Rich was their Imag’ry, till Time defac'd</l>
+              <l>The curious Works; but Waller came at last.</l>
+              <l>Waller the Muse with Heavenly Verse supplies . . .<note type="footnote">Note in Spurgeon: [Quoted by Samuel Pegge (the Elder) in Anonymiana, 1778, pr. 1809, pp. 344-5, see below, 1778, p. 451; and by Dr. George Sewell, in his Memoirs prefixed to the Poems of Henry Howard, Earl of Surrey, 1717, pp. XV-XVI, see below, 1717, p. 346. In Chalmers the line "Rarely discover'd . . ."reads "Yet soon their beams attract the diver's eye."]</note></l>
+            </lg>
+          </seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,742 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p272_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1700, John Dryden. Fables Ancient and Modern, Translated into Verse from Homer, Ovid, Boccace &amp; Chaucer : With Original Poems. Preface.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/68937979">Dryden, John</author>
+            <date cert="high" when="1700">1700</date>
+            <title level="a">Fables Ancient and Modern, Translated into Verse from Homer, Ovid, Boccace &amp; Chaucer : With Original Poems. Preface.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=464">272-285</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#general"/>
+        <catRef scheme="#criticism" target="#observationCharacter"/>
+        <catRef scheme="#criticism" target="#learning"/>
+        <catRef scheme="#criticism" target="#indecencyFrivolity"/>
+        <catRef scheme="#criticism" target="#anticlericalism"/>
+        <catRef scheme="#criticism" target="#realism"/>
+        <catRef scheme="#criticism" target="#boccaccio"/>
+        <catRef scheme="#criticism" target="#ovid"/>
+        <catRef scheme="#criticism" target="#thoughtIrregular"/>
+        <catRef scheme="#criticism" target="#obsoleteRude"/>
+        <catRef scheme="#criticism" target="#corruptedEnglish"/>
+        <catRef scheme="#modernizations" target="#dryden"/>
+        <catRef scheme="#works" target="#nunsPriestTale"/>
+        <catRef scheme="#works" target="#knightTale"/>
+        <catRef scheme="#works" target="#wifeBathTale"/>
+        <catRef scheme="#works" target="#criticism"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="272"/>
+        
+        <ab type="imprint">1700. Dryden, [John]. <hi rend="italic">Fables Ancient and Modern, Translated into Verse from Homer, Ovid, Boccace &amp; Chaucer : With Original Poems. Preface</hi>, sign. *A 1 to *D 2 b. (Dryden’s works, ed. Sir W. Scott, revised G. Saintsbury, 1882-93, vol. xi, 1885, Preface, pp. 208-44; also Dryden's Essays, ed. W. P. Ker, 1900, vol. ii, pp. 246-73.)</ab>
+        
+        <ab type="quotation">
+          <seg><note place="margin">[sign. *A 1]</note>. . . Spencer and Fairfax both flourish’d in the Reign of
+            Queen Elizabeth : Great Masters in our Language . . . Milton
+            was the Poetical Son of Spencer, and Mr. Waller of Fairfax;
+            for we have our Lineal Descents and Clans, as well as other
+            Families: Spencer more than once insinuates, that the Soul of
+            Chaucer was transfus'd into his Body; and that he was
+            begotten by him Two Hundred years after his Decease. Milton
+            has acknowledg'd to me that Spencer was his Original; . . .</seg>
+            
+          <seg>But to return: Having done with Ovid for this time, it came
+            into my mind, that our old English poet, Chaucer, in many
+            <note place="margin">[sign. *A 1 b]</note>Things resembled him, and that with no disadvantage on the
+            Side of the Modern Author, as I shall endeavour to prove when
+            I compare them: And as I am, and always have been studious
+            to promote the Honour of my Native Country, so I soon resolv'd
+            to put their Merits to the Trial, by turning some of the <hi rend="italic">Canterbury</hi>
+            Tales into our Language, as it is now refin'd: For by this
+            Means, both the Poets being set in the same Light, and dress’d
+            in the same English habit, Story to be compared with Story, a
+            certain Judgment may be made betwixt them, by the Reader,
+            without obtruding my Opinion on him: Or if I seem partial to
+            my Country-man, and Predecessor in the Laurel, the Friends of
+            Antiquity are not few: And, besides many of the Learn’d, Ovid
+            has almost all the Beaux, and the whole Fair Sex his declar'd
+            Patrons. Perhaps I have assum’d somewhat more to my self
+            than they allow me; because I have adventur'd to sum up the
+            Evidence; but the Readers are the Jury; and their Privilege
+            remains entire to decide according to the Merits of the Cause:
+            Or, if they please, to bring it to another Hearing, before some
+            
+            <milestone unit="page" n="273"/>
+            
+            other Court. In the mean time, to follow the Thrid of my
+            Discourse (as Thoughts, according to Mr. Hobbs, have always
+            some Connexion,) so from Chaucer I was led to think on
+            Boccace, who was not only his Contemporary, but also pursu'd
+            the same Studies; wrote Novels in Prose, and many Works in
+            Verse; particularly is said to have invented the Octave Rhyme,
+            or Stanza of Eight Lines, which ever since has been maintain'd
+            by the Practice of all Italian Writers, who are, or at least
+            assume the title of <hi rend="italic">Heroick Poets</hi>: He and Chaucer, among
+            other Things, had this in common, that they refin'd their
+            Mother-Tongues; but with this difference, that Dante had
+            begun to file their Language, at least in Verse, before the time
+            of Boccace, who likewise receiv’d no little Help from his Master
+            Petrarch: But the Reformation of their Prose was wholly
+            owing to Boccace himself; who is yet the Standard of Purity
+            in the Italian Tongue, though many of his Phrases are become
+            obsolete, as in process of Time it must needs happen. Chaucer
+            (as you have formerly been told by our learn’d Mr. Rhymer)
+            first adorn’d and amplified our barren Tongue from the
+            Provençall, which was then the most polish'd of all the
+            Modern Languages : But this Subject has been copiously treated
+            by that great Critick, who deserves no little Commendation
+            from us his Countrymen. For these Reasons of Time, and
+            Resemblance of Genius, in Chaucer and Boccace, I resolv'd to
+            join them in my present Work; to which I have added some
+            Original Papers of my own; which whether they are equal or
+            inferiour to my other Poems, an Author is the most improper
+            Judge; and therefore I leave them wholly to the Mercy of the
+            Reader: I will hope the best, that they will not be con¬
+            demn'd; but if they should, I have the Excuse of an old
+            Gentleman, who, mounting on Horseback before some Ladies,
+            when I was present, got up somewhat heavily, but desir'd of
+            the Fair Spectators, that they would count Fourscore and
+            eight before they judg’d him. . . .</seg>
+             
+          <seg><note place="margin">[sign. *B1]</note>I proceed to Ovid, and Chaucer; considering the former
+            only in relation to the latter. With Ovid ended the Golden
+            Age of the Roman Tongue: From Chaucer the Purity of the
+            English Tongue began. The Manners of the Poets were not
+            unlike: Both of them were well-bred, well-natur'd, amorous,
+            and Libertine, at least in their Writings, it may be, also in their
+            Lives. Their Studies were the same, Philosophy, and Philology.
+            Both of them were knowing in Astronomy; of which Ovid’s
+            
+            <milestone unit="page" n="274"/>
+            
+            Books of the Roman Feasts, and Chaucer's Treatise of the
+            <hi rend="italic">Astrolabe</hi>, are sufficient Witnesses. But Chaucer was likewise
+            an Astrologer, as were Virgil, Horace, Persius, and Manilius.
+            Both writ with wonderful Facility and Clearness; neither were
+            great Inventors: For Ovid only copied the Grecian Fables; and
+            most of Chaucer's Stories were taken from his Italian
+            Contemporaries, or their Predecessors: Boccace his <hi rend="italic">Decameron</hi> was
+            first publish’d, and from thence our Englishman has borrow'd
+            many of his <hi rend="italic">Canterbury</hi> Tales: Yet that of Palamon and
+            Arcite was written in all probability by some Italian Wit, in
+            a former Age; as I shall prove hereafter: The tale of Grizild
+            was the Invention of Petrarch; by him sent to Boccace; from
+            whom it came to Chaucer: <hi rend="italic">Troilus</hi> and <hi rend="italic">Cressida</hi> was also
+            written by a Lombard Author; but much amplified by our
+            <note place="margin">[sign. *B1b]</note>English Translatour, as well as beautified; the Genius of our
+            Countrymen, in general, being rather to improve an Invention
+            than to invent themselves; as is evident not only in our Poetry,
+            but in many of our Manufactures. I find I have anticipated
+            already, and taken up from Boccace before I come to him: But
+            there is so much less behind; and I am of the Temper of most
+            Kings, who love to be in Debt, are all for present Money, no
+            matter how they pay it afterwards: Besides, the Nature of a
+            Preface is rambling; never wholly out of the Way, nor in it.
+            This I have learn’d from the Practice of honest Montaign,
+            and return at pleasure to Ovid and Chaucer, of whom I have
+            little more to say. Both of them built on the Inventions of
+            other Men; yet since Chaucer had something of his own, as The
+            <hi rend="italic">Wife of Baths Tale</hi>, <hi rend="italic">The Cock and the Fox</hi>, which I have
+            translated, and some others, I may justly give our Countryman the
+            Precedence in that Part; since I can remember nothing of
+            Ovid which was wholly his. Both of them understood the
+            Manners; under which Name I comprehend the Passions, and,
+            in a larger Sense, the Descriptions of Persons, and their very
+            Habits: For an Example, I see Baucis and Philemon as perfectly
+            before me, as if some ancient Painter had drawn them; and all the
+            Pilgrims in the <hi rend="italic">Canterbury</hi> Tales, their Humours, their Features,
+            and the very Dress, as distinctly as if I had supp'd with them
+            at the Tabard in Southwark: Yet even there, too, the Figures of
+            Chaucer are much more lively, and set in a better Light: Which
+            though I have not time to prove; yet I appeal to the Reader,
+            and am sure he will clear me from Partiality. The Thoughts
+            and Words remain to be consider'd, in the Comparison of the
+            
+            <milestone unit="page" n="275"/>
+            
+            two Poets; and I have sav'd my self one half of that Labour, by
+            owning that Ovid liv'd when the Roman Tongue was in its
+            Meridian; Chaucer, in the Dawning of our Language: Therefore
+            that Part of the Comparison stands not on an equal
+            Foot, any more than the Diction of Ennius and Ovid; or of
+            Chaucer and our present English. The Words are given up
+            as a Post not to be defended in our Poet, because he wanted
+            the Modern Art of Fortifying. The Thoughts remain to be
+            consider'd: And they are to be measur'd only by their
+            Propriety; that is, as they flow more or less naturally from the
+            Persons describ'd, on such and such Occasions. The Vulgar
+            Judges, which are Nine Parts in Ten of all Nations, who call
+            Conceits and Jingles Wit, who see Ovid full of them, and
+            Chaucer altogether without them, will think me little less than
+            mad for preferring the Englishman to the Roman: Yet, with
+            their leave, I must presume to say, that the Things they admire
+            are only glittering Trifles, and so far from being Witty, that in
+            a serious Poem they are nauseous, because they are unnatural.
+            Wou'd any Man, who is ready to die for Love, describe his
+            Passion like Narcissus? Wou’d he think of inopem me copia
+            fecit, and a Dozen more of such Expressions, pour'd on the
+            Neck of one another, and signifying all the same Thing? If
+            this were Wit, was this a Time to be witty, when the poor
+            Wretch was in the Agony of Death? This is just John Littlewit,
+            in <hi rend="italic">Bartholomew Fair</hi>, who had a Conceit (as he tells you)
+            left him in his Misery; a miserable Conceit. On these
+            Occasions the Poet shou’d endeavour to raise Pity : But, instead
+            <note place="margin">[sign. *B2]</note>of this, Ovid is tickling you to laugh. Virgil never made use
+            of such Machines when he was moving you to commiserate the
+            Death of Dido: He would not destroy what he was building.
+            Chaucer makes Arcite violent in his Love, and unjust in the
+            Pursuit of it: Yet, when he came to die, he made him think
+            more reasonably: He repents not of his Love, for that had
+            alter'd his Character; but acknowledges the Injustice of his
+            Proceedings, and resigns Emilia to Palamon. What would
+            Ovid have done on this Occasion? He would certainly have
+            made Arcite witty on his Death-bed. He had complain'd he was
+            further off from Possession, by being so near, and a thousand
+            such Boyisms, which Chaucer rejected as below the Dignity of
+            the Subject. They who think otherwise, would by the same
+            Reason, prefer Lucan and Qvid to Homer and Virgil, and
+            Martial to all Four of them. As for the Turn of Words, in
+            
+            <milestone unit="page" n="276"/>
+            
+            which Ovid particularly excels all Poets; they are sometimes a
+            Fault, and sometimes a Beauty, as they are us'd properly or
+            improperly; but in strong Passions always to be shunn’d,
+            because Passions are serious, and will admit no Playing. The
+            French have a high Value for them; and, I confess, they are
+            often what they call Delicate, when they are introduc'd with
+            Judgment; but Chaucer writ with more Simplicity, and follow’d
+            Nature more closely, than to use them. I have thus far, to the
+            best of my Knowledge, been an upright Judge betwixt the
+            Parties in Competition, not medling with the Design nor the
+            Disposition of it; because the Design was not their own; and
+            in the disposing of it they were equal. It remains that I say
+            somewhat of Chaucer in particular.</seg>
+            
+          <seg>In the first place, as he is the Father of English Poetry, so
+            I hold him in the same Degree of Veneration as the Grecians
+            held Homer, or the Romans Virgil: He is a perpetual
+            Fountain of good Sense; learn'd in all Sciences; and, therefore
+            speaks properly on all Subjects: As he knew what to
+            say, so he knows also when to leave off; a Continence which
+            is practis'd by few Writers, and scarcely by any of the
+            Ancients, excepting Virgil and Horace. One of our late
+            great Poets is sunk in his Reputation, because he cou'd never
+            forgive any Conceit which came in his way; but swept like
+            a Drag-net, great and small. There was plenty enough, but
+            the Dishes were ill sorted; whole Pyramids of Sweet-meats
+            for Boys and Women; but little of solid Meat for Men: All
+            this proceeded not from any want of Knowledge, but of
+            Judgment; neither did he want that in discerning the Beauties
+            and Faults of other Poets; but only indulg'd himself in the
+            Luxury of Writing; and perhaps knew it was a Fault, but
+            hoped the Reader would not find it. For this Reason, though
+            he must always be thought a great Poet, he is no longer
+            esteemed a good Writer: And for Ten Impressions, which his
+            Works have had in so many successive Years, yet at present a
+            hundred Books are scarcely purchased once a Twelvemonth:
+            For, as my last Lord Rochester said, though somewhat profanely,
+            Not being of God, he could not stand.</seg>
+            
+          <seg>Chaucer follow’d Nature every where, but was never so bold
+            to go beyond her: And there is a great Difference of being
+            Poeta and nimis Poeta, if we may believe Catullus, as much as
+            betwixt a modest Behaviour and Affectation. The Verse of
+            <note place="margin">[sign. *B2b]</note>Chaucer, I confess, is not Harmonious to us; but ’tis like the
+            
+            <milestone unit="page" n="277"/>
+            
+            Eloquence of one whom Tacitus commends, it was auribus
+            istius temporis accommodata: They who liv'd with him, and
+            some time after him, thought it Musical; and it continues so
+            even in our Judgment, if compar'd with the Numbers of
+            Lidgate and Gower, his Contemporaries: There is the rude
+            Sweetness of a Scotch Tune in it, which is natural and pleasing,
+            though not perfect. 'Tis true, I cannot go so far as he who
+            publish'd the last Edition of him; for he would make us
+            believe the Fault is in our Ears, and that there were really
+            Ten Syllables in a Verse where we find but Nine: But this
+            Opinion is not worth confuting; 'tis so gross and obvious an
+            Errour, that common Sense (which is a Rule in everything
+            but Matters of Faith and Revelation) must convince the Reader,
+            that Equality of Numbers, in every Verse which we call
+            Heroick, was either not known, or not always practis'd, in
+            Chaucer's Age. It were an easie Matter to produce some
+            thousands of his Verses, which are lame for want of half a
+            Foot, and sometimes a whole one, and which no Pronunciation
+            can make otherwise. We can only say, that he liv’d in the
+            Infancy of our Poetry, and that nothing is brought to
+            Perfection at the first. We must be Children before we grow
+            Men. There was an Ennius, and in process of Time a Lucilius,
+            and a Lucretius, before Virgil and Horace; even after Chaucer
+            there was a Spencer, a Harrington, a Fairfax, before Waller
+            and Denham were in being: And our Numbers were in their
+            Nonage till these last appear'd. I need say little of his
+            Parentage, Life, and Fortunes: They are to be found at large
+            in all the Editions of his Works. He was employ'd abroad,
+            and favour'd by Edward the Third, Richard the Second,
+            and Henry the Fourth, and was Poet, as I suppose, to all
+            Three of them. In Richard’s Time, I doubt, he was a little
+            dipt in the Rebellion of the Commons; and being Brother-
+            in-Law to John of Ghant, it was no wonder if he follow'd the
+            Fortunes of that Family; and was well with Henry the Fourth
+            vhen he depos'd his Predecessor. Neither is it to be admir'd,
+            that Henry, who was a wise as well as a valiant Prince, who
+            claim’d by Succession, and was sensible that his Title was not
+            sound, but was rightfully in Mortimer, who had married the
+            Heir of York; it was not to be admir'd, I say, if that great
+            Politician should be pleas'd to have the greatest Wit of those
+            Times in his Interests, and to be the Trumpet of his Praises.
+            Augustus had given him the Example, by the Advice of
+            
+            <milestone unit="page" n="278"/>
+            
+            Mecænas, who recommended Virgil and Horace to him; whose
+            Praises helped to make him Popular while he was alive, and
+            after his Death have made him Precious to Posterity. As
+            for the Religion of our Poet, he seems to have some little
+            Byas towards the Opinions of Wicliff, after John of Ghant
+            his Patron; somewhat of which appears in the Tale of <hi rend="italic">Piers
+            Plowman</hi>: Yet I cannot blame him for inveighing so sharply
+            against the Vices of the Clergy in his Age: Their Pride,
+            their Ambition, their Pomp, their Avarice, their Worldly
+            Interest, deserv'd the Lashes which he gave them, both in
+            that, and in most of his <hi rend="italic">Canterbury Tales</hi>: Neither has his
+            Contemporary Boccace, spar'd them. Yet both those Poets
+            liv'd in much esteem, with good and holy Men in Orders:
+            For the Scandal which is given by particular Priests reflects
+            <note place="margin">[sign. *C1]</note>not on the Sacred Function. Chaucer's Monk, his Chanon,
+            and his Fryar, took not from the Character of his Good
+            Parson. A Satyrical Poet is the Check of the Laymen on bad
+            Priests. . . . . .</seg>
+            
+          <seg>I have followed Chaucer, in his Character of a Holy Man,
+            and have enlarg'd on that Subject with some Pleasure,
+            reserving to myself the Right, if I shall think fit hereafter, to
+            describe another sort of Priests, such as are more easily to
+            be found than the Good Parson; such as have given the
+            last Blow to Christianity in this Age, by a Practice so contrary
+            to their Doctrine. But this will keep cold till another time.
+            In the mean while, I take up Chaucer where I left him.
+            He must have been a Man of a most wonderful comprehensive
+            Nature, because, as it has been truly observ'd of him, he
+            has taken into the Compass of his <hi rend="italic">Canterbury Tales</hi> the
+            various Manners and Humours (as we now call them) of the
+            whole English Nation, in his Age. Not a single Character has
+            escap’d him. All his Pilgrims are severally distinguish'd from
+            each other; and not only in their Inclinations, but in their
+            <note place="margin">[sign. *C1]</note>very Phisiognomies and Persons. Baptista Porta could not
+            have describ'd their Natures better, than by the Marks which
+            the Poet gives them. The Matter and Manner of their Tales,
+            and of their Telling, are so suited to their different Educations,
+            Humours, and Callings, that each of them would be improper
+            in any other Mouth. Even the grave and serious Characters
+            aro distinguish'd by their several sorts of Gravity: Their
+            Discourses are such as belong to their Age, their Calling, and
+            their Breeding; such as are becoming of them, and of them
+            
+            <milestone unit="page" n="279"/>
+            
+            only. Some of his Persons are Vicious, and some Virtuous;
+            some are unlearn’d, or (as Chaucer calls them) Lewd, and
+            some are Learn'd. Even the Ribaldry of the Low Characters
+            is different: the Reeve, the Miller, and the Cook, are several
+            Men, and are distinguish'd from each other, as much as the
+            mincing Lady-Prioress, and the broad-speaking, gap-toothed
+            Wife of Bathe. But enough of this: There is such a Variety
+            of Game springing up before me, that I am distracted in my
+            Choice, and know not which to follow. 'Tis sufficient to say
+            according to the Proverb, that here is God’s Plenty. We have
+            our Fore-fathers and Great Grand-dames all before us, as they
+            were in Chaucer's Days; their general Characters are still
+            remaining in Mankind, and even in England, though they are
+            call’d by other Names than those of Moncks, and Fryars, and
+            Chanons and Lady Abbesses, and Nuns: For Mankind is ever
+            the same, and nothing lost out of Nature, though everything
+            is alter'd. May I have leave to do myself the Justice, (since
+            my Enemies will do me none, and are so far from granting me
+            to be a good Poet, that they will not allow me so much as to
+            be a Christian, or a Moral Man), may I have leave, I say, to
+            inform my Reader, that I have confined my Choice to such
+            Tales of Chaucer as savour nothing of Immodesty. If I desir'd
+            more to please than to instruct, the Reve, the Miller, the
+            Shipman, the Merchant, the Sumner, and above all, the Wife
+            of Bathe, in the Prologue to her Tale, would have procur'd me
+            as many Friends and Readers, as there are Beaux and Ladies
+            of Pleasure in the Town. But I will no more offend against
+            Good Manners: I am sensible as I ought to be of the Scandal
+            I have given by my loose Writings; and make what Reparation
+            I am able, by this Public Acknowledgment. If anything of
+            this Nature, or of Profaneness, be crept into these Poems, I
+            am so far from defending it, that I disown it. Totum hoc
+            indictum volo. Chaucer makes another manner of Apologie for
+            his broad speaking, and Boccace makes the like; but I will
+            follow neither of them. Our Country-man, in the end of his
+            Characters, before the <hi rend="italic">Canterbury Tales</hi>, thus excuses the
+            Ribaldry, which is very gross in many of his Novels.
+            <lg>
+              <l>But firste, I pray you of your courtesy,</l>
+              <l>That ye ne arrete it nought my villany,</l>
+              <l>Though that I plainly speak in this mattere, <add>[etc.]</add>.</l>
+              <note place="right">[quotes 11. 725-42 of Prologue.]</note>
+            </lg>
+            <note place="margin">[sign. *C2]</note>Yet if a Man should have enquir'd of Boccace or of Chaucer,
+            
+            <milestone unit="page" n="280"/>
+            
+            what need they had of introducing such Characters, when
+            obscene Words were proper in their Mouths, but very undecent
+            to be heard; I know not what Answer they could have made:
+            For that Reason, such Tales shall be left untold by me. You
+            have here a Specimen of Chaucer's Language, which is so
+            obsolete, that his Sense is scarce to be understood; and you
+            have likewise more than one Example of his unequal Numbers,
+            which were mention'd before. Yet many of his Verses consist
+            of Ten Syllables, and the Words not much behind our present
+            English: as for Example, these two Lines, in the Description of
+            the Carpenter's Young Wife:
+            <lg>
+              <l>Wincing she was, as is a jolly Colt,</l>
+              <l>Long as a Mast, and upright as a Bolt.</l>
+            </lg>
+            I have almost done with Chaucer, when I have answer'd some
+            Objections relating to my present Work. I find some People
+            are offended that I have turn'd these Tales into modern
+            English; because they think them unworthy of my Pains,
+            and look on Chaucer as a dry, old-fashion'd Wit, not worth
+            receiving <add>[edn. of 1723 'reviving']</add>. I have often heard the
+            late Earl of Leicester say, that Mr. Cowley himself was of that
+            opinion; who, having read him over at my Lord’s Request,
+            declared he had no Taste of him. I dare not advance my
+            Opinion against the Judgment of so great an Author: But I
+            think it fair, however, to leave the Decision to the Publick.
+            Mr. Cowley, was too modest to set up for a Dictatour; and,
+            being shock’d perhaps with his old Style, never examin'd
+            into the depth of his good Sense. Chaucer, I confess, is
+            a rough Diamond, and must first be polish’d, e’er he shines.
+            I deny not likewise, that, living in our early Days of Poetry,
+            he writes not always of a piece; but sometimes mingles
+            trivial Things with those of greater Moment. Sometimes also,
+            though not often, he runs riot, like Ovid, and knows not
+            when he has said enough. But there are more great Wits
+            besides Chaucer, whose Fault is their Excess of Conceits, and
+            those ill sorted. An Author is not to write all he can, but
+            only all he ought. Having observ’d this Redundancy in
+            Chaucer, (as it is an easie Matter for a Man of ordinary
+            Parts to find a Fault in one of greater,) I have not ty'd
+            my self to a Literal Translation; but have often omitted what
+            I judg'd unnecessary, or not of Dignity enough to appear in
+            the Company of better Thoughts. I have presum'd farther
+            in some Places, and added somewhat of my own where I
+            
+            <milestone unit="page" n="281"/>
+            
+            <note place="margin">[sign. *C 2b]</note>thought my Author was deficient, and had not given his
+            Thoughts their true Lustre, for want of Words in the Beginning
+            of our Language. And to this I was the more embolden'd,
+            because, (if I may be permitted to say it of my self) I found I
+            had a Soul congenial to his, and that I had been conversant in
+            the same Studies. Another Poet, in another Age, may take the
+            same Liberty with my Writings; if at least they live long
+            enough to deserve Correction. It was also necessary sometimes
+            to restore the Sense of Chaucer, which was lost or
+            mangled in the Errors of the Press: Let this Example suffice
+            at present in the Story of Palamon and Arcite, where the
+            temple of Diana is describ’d, you find these Verses in all the
+            Editions of our Author:
+            <lg>
+              <l>There saw I Danè turned unto a Tree,</l>
+              <l>I mean not the goddess Diane,</l>
+              <l>But Venus Daughter, which that hight Danè.</l>
+            </lg>
+            Which, after a little Consideration, I knew was to be reform'd
+            into this Sense, that Daphne, the daughter of Peneus, was
+            turn'd into a Tree. I durst not make thus free with Ovid,
+            lest some future Milbourn should arise, and say, I varied from
+            my Author, because I understood him not.</seg>
+            
+          <seg>But there are other Judges, who think I ought not to have
+            translated Chaucer into English, out of a quite contrary Notion:
+            They suppose there is a certain Veneration due to his old
+            Language; and that it is little less than Profanation and
+            Sacrilege to alter it. They are farther of opinion, that some¬
+            what of his good Sense will suffer in this Transfusion, and
+            much of the Beauty of his Thoughts will infallibly be lost,
+            which appear with more Grace in their old Habit. Of this
+            Opinion was that excellent Person, whom I mention’d, the
+            late Earl of Leicester, who valued Chaucer as much as Mr.
+            Cowley despis’d him. My Lord dissuaded me from this
+            Attempt, (for I was thinking of it some Years before his Death,)
+            and his Authority prevail’d so far with me, as to defer my
+            Undertaking while he liv’d, in deference to him: Yet my
+            Reason was not convinc’d with what he urg’d against it. If
+            the first End of a Writer be to be understood, then, as his
+            Language grows obsolete, his Thoughts must grow obscure,
+            multa renascuntur, quæ nunc cecidere; cadentque quæ nunc
+            sunt in honore vocabula, si volet usus, quem penes arbitrium est
+            et jus et norma loquendi. When an ancient Word for
+            
+            <milestone unit="page" n="282"/>
+            
+            its Sound and Significancy, deserves to be reviv'd, I have
+            that reasonable Veneration for Antiquity, to restore it. All
+            beyond this is Superstition. Words are not like Land-marks,
+            so sacred as never to be remov'd: Customs are chang’d, and
+            even Statutes are silently repeal’d, when the Reason ceases
+            for which they were enacted. As for the other Part of the
+            Argument, that his Thoughts will lose of their original Beauty
+            by the innovation of Words; in the first place, not only their
+            Beauty, but their Being is lost, when they are no longer
+            understood, which is the present Case. I grant that something
+            must be lost in all Transfusion, that is, in all Translations; but
+            the Sense will remain, which would otherwise be lost, or at
+            least be maim’d, where it is scarce intelligible; and that but to
+            a few. How few are they who can read Chaucer, so as to
+            <note place="margin">[sign. *D1]</note>understand him perfectly? And if imperfectly, then with
+            less Profit, and no Pleasure. 'Tis not for the Use of some old
+            Saxon Friends, that I have taken these Pains with him: Let
+            them neglect my Version, because they have no need of it. I
+            made it for their sakes, who understand Sense and Poetry, as
+            well as they; when that Poetry and Sense is put into Words
+            which they understand. I will go farther, and dare to add,
+            that what Beauties I lose in some Places, I give to others
+            which had them not originally : But in this I may be partial to
+            my self; let the Reader judge, and I submit to his Decision.
+            Yet I think I have just Occasion to complain of them, who
+            because they understand Chaucer, would deprive the greater part
+            of their Countrymen of the same Advantage, and hoord him up,
+            as Misers do their Grandam Gold, only to look on it themselves,
+            and hinder others from making use of it. In sum, I seriously
+            protest, that no Man ever had, or can have, a greater Veneration
+            for Chaucer than my self. I have translated some part
+            of his Works, only that I might perpetuate his Memory, or at
+            least refresh it, amongst my Countrymen. If I have alter’d
+            him anywhere for the better, I must at the same time acknowledge,
+            that I could have done nothing without him : Facile est
+            inventis addere, is no great Commendation; but I am not so
+            vain to think I have deserv’d a greater. I will conclude
+            what I have to say of him singly, with this one Remark:
+            A Lady of my acquaintance, who keeps a kind of Correspondence
+            with some Authors of the Fair Sex in France, has been
+            inform'd by them, that Mademoiselle de Scudery, who is as old
+            as Sibyl, and inspir'd like her by the same God of Poetry, is at
+            
+            <milestone unit="page" n="283"/>
+            
+            this time translating Chaucer into modern French. From which
+            I gather, that he has been formerly translated into the old
+            Provençall; (for, how she should come to understand Old English,
+            I know not). But the Matter of Fact being true, it makes
+            me think that there is something in it like Fatality; that, after
+            certain Periods of Time, the Fame and Memory of Great Wits
+            should be renew’d, as Chaucer is both in France and England.
+            If this be wholly Chance, 'tis extraordinary; and I dare not
+            call it more, for fear of being tax'd with Superstition.</seg>
+            
+          <seg>Boccace comes last to be consider'd, who, living in the
+            same Age with Chaucer, had the same Genius, and followed
+            the same Studies: Both writ Novels, and each of them cultivated
+            his Mother-Tongue: But the greatest Resemblance of
+            our two Modern Authors being in their familiar Style, and
+            pleasing way of relating Comical Adventures, I may pass it
+            over, because I have translated nothing from Boccace of that
+            Nature. In the serious part of Poetry, the Advantage is wholly
+            on Chaucer's Side; for though the Englishman has borrow'd
+            many Tales from the Italian, yet it Appears, that those of Boccace
+            were not generally of his own making, but taken from Authors
+            of former ages, and by him only modell’d: So that what there
+            was of Invention, in either of them, may be judg'd equal.
+            But Chaucer has refin'd on Boccace, and has mended the
+            Stories, which he has borrow’d, in his way of telling; though
+            Prose allows more Liberty of Thought, and the Expression is
+            more easie, when unconfin'd by Numbers. Our Countryman
+            carries Weight, and yet wins the Race at disadvantage. I
+            desire not the Reader should take my Word; and, therefore, I
+            <note place="margin">[sign. *D1b]</note>will set two of their Discourses, on the same Subject, in the
+            same Light, for every Man to judge betwixt them. I translated
+            Chaucer first, and amongst the rest, pitch'd on The Wife
+            of Bath's Tale; not daring, as I have said, to advance on her
+            Prologue, because 'tis too licentious: There Chaucer introduces
+            an old Woman of mean Parentage, whom a youthful
+            Knight of Noble Blood, was forc’d to marry, and consequently
+            loath'd her: The Crone being in bed with him on the
+            wedding Night, and finding his Aversion, endeavours to win
+            his Affection by Reason, and speaks a good Word for herself,
+            (as who could blame her?) in hope to mollifie the sullen Bridegroom.
+            She takes her Topiques from the Benefits of Poverty,
+            the Advantages of old Age and Ugliness, the Vanity of Youth,
+            and the silly Pride of Ancestry and Titles, without inherent
+            
+            <milestone unit="page" n="284"/>
+            
+            Vertue, which is the true Nobility. When I had clos’d
+            Chaucer, I return’d to Ovid, and translated some more of his
+            Fables; and, by this time, had so far forgotten The Wife of
+            Bath's Tale, that when I took up Boccace, unawares I fell
+            on the same Argument of preferring Virtue to Nobility of
+            Blood, and Titles, in the Story of Sigismonda; which I had
+            certainly avoided for the Resemblance of the two Discourses,
+            if my Memory had not fail’d me. Let the Reader weigh both;
+            and if he thinks me partial to Chaucer, 'tis in him to right
+            Boccace.</seg>
+            
+          <seg>I prefer in our Countryman, far above all his other Stories,
+            the Noble Poem of Palamon and Arcite, which is of the
+            Epique kind, and perhaps not much inferior to the Ilias or
+            the Æneis: the Story is more pleasing than either of them, the
+            Manners as perfect, the Diction as poetical, the Learning as
+            deep and various; and the Disposition full as artful: only it
+            includes a greater length of time; as taking up seven years at
+            least; but Aristotle has left undecided the Duration of the
+            Action; which yet is easily reduc'd into the Compass of a
+            year, by a Narration of what preceded the Return of Palamon
+            to Athens. I had thought for the Honour of our Nation,
+            and more particularly for his, whose Laurel, tho' unworthy,
+            I have worn after him, that this Story was of English Growth,
+            and Chaucer's own : But I was undeceiv'd by Boccace; for
+            casually looking on the End of his seventh Giornata, I found
+            Dioneo, (under which name he shadows himself,) and Fiametta,
+            (who represents his Mistress, the natural Daughter of Robert,
+            King of Naples) of whom these Words are spoken. Dioneo e
+            Fiametta gran pezza cantarono insieme d’Arcita, e di Palemone:
+            by which it appears, that this Story was written before the
+            time of Boccace; but the Name of its Author being wholly
+            lost, Chaucer is now become an Original; and I question not
+            but the Poem has receiv’d many Beauties, by passing through
+            his Noble Hands. Besides this Tale, there is another of his
+            own Invention, after the manner of the Provençalls, call’d <hi rend="italic">The
+            Flower and the Leaf</hi>; with which I was so particularly pleas'd,
+            both for the Invention and the Moral, that I cannot hinder
+            myself from recommending it to the Reader.
+            . . . . . . . . . . .</seg>
+            
+          <seg>
+            <lg>
+              <head><note place="margin">[sign. A1]</note><add>[Poem]</add> To Her Grace The Dutchess of Ormond.</head>
+              <l>Madam,</l>
+              <l>The Bard who first adorn’d our Native Tongue</l>
+              <l>Tun'd to his British Lyre this ancient Song:</l>
+              
+              <milestone unit="page" n="285"/>
+              
+              <l>Which Homer might without a Blush reherse,</l>
+              <l>And leaves a doubtful Psalm in Virgil's Verse:</l>
+              <l>He match’d their Beauties, where they most excell;</l>
+              <l>Of Love sung better, and of Arms as well.</l>
+              <note place="margin">[sign. A1b]</note><l>Vouchsafe, Illustrious Ormond, to behold</l>
+              <l>What Pow'r the Charms of Beauty had of old;</l>
+              <l>Nor wonder if such Deeds of Arms were done,</l>
+              <l>Inspir'd by two fair Eyes, that sparkled like your own.</l>
+              <l>If Chaucer by the best Idea wrought,</l>
+              <l>And Poets can divine each others Thought,</l>
+              <l>The fairest Nymph before his Eyes he set;</l>
+              <l>And then the fairest was Plantagenet;</l>
+              <l>Who three contending Princes made her Prize,</l>
+              <l>And rul’d the Rival-Nations with her Eyes:</l>
+            </lg>
+            . . . . . . . .
+            <lg>
+              <l>Thus, after length of Ages, she returns,</l>
+              <l>Restor'd in you, and the same Place adorns;</l>
+              <note place="margin">[sign. A 2]</note><l>Or you perform her Office in the Sphere,</l>
+              <l>Born of her Blood, and make a new Platonick Year.</l>
+              <l>O true Plantagenet, O Race Divine,</l>
+              <l>(For Beauty still is fatal to the Line,)</l>
+              <l>Had Chaucer liv’d that Angel-Face to view,</l>
+              <l>Sure he had drawn his Emily from You;</l>
+              <l>Or had You liv’d to judge the doughtful Right;</l>
+              <l>Your noble Palamon had been the Knight:</l>
+              <l>And Conqu’ring Theseus from his Side had sent</l>
+              <l>Your Gen’rous Lord, to guide the Theban Government.</l>
+              <l>Time shall accomplish that; and I shall see</l>
+              <l>A Palamon in Him, in You an Emily.</l>
+            </lg>
+          </seg>
+          
+          <seg>. . . . . . . . . . .
+            <lb/>Palamon and Arcite, or the Knight's Tale from Chaucer.<note place="right">[pp. 1-90.]</note>
+            The Cock and the Fox; or The Tale of the Nun's Priest from Chaucer.<note place="right">[pp. 223-53.]</note>
+            The Flower and the Leaf; or The Lady in the Arbour. A Vision.<note place="right">[pp. 383-405.]</note>
+            The Wife of Bath Her Tale.<note place="right">[pp. 477-99.]</note>
+            The Character of a Good Parson. Imitated from Chaucer and Inlarg'd.<note place="right">[pp. 531-36.]</note></seg>
+            
+          <seg type="editorial">[Chaucer's original versions of the above Tales are given later, on pp. 567 to 646.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

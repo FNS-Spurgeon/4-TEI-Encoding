@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p350_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1720, George Sewell. A Defence of Women of [sic] the Proclamation of Cupid, a poem from Chaucer. The Preface to the Proclamation of Cupid. Preface to The Song of Troilus, and The Song of Troilus</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/54200956">George Sewell</author>
+            <date cert="high" when="1720">1720</date>
+            <title level="a">A Defence of Women of [sic] the Proclamation of Cupid, a poem from Chaucer. The Preface to the Proclamation of Cupid. Preface to The Song of Troilus, and The Song of Troilus</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=542">350-352</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#works" target="#troilus"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="350"/>
+        <ab type="imprint">1720. [Sewell, George.] A Defence of Women of [sic] the Proclamation of Cupid, a poem from Chaucer. The Preface to the Proclamation of Cupid. Preface to The Song of Troilus, and The Song of Troilus [in] A New Collection of original Poems, never before printed in any Miscellany, by the Author of Sir Walter Raleigh. London, 1720, pp. 16-22, 43 n., 44 n., 82-5.</ab>
+        <ab type="quotation">
+          <seg>[The first poem here referred to, and the prefatory verses
+and Preface, are an exact reprint from The Proclamation of
+Cupid, 1718. See above, p. 347.]
+[p. 82] Preface [to the Song of Troilus].
+I have often wonder'd that Chaucer, the Father of our
+English Poetry, generally acknowledged as such, and frequently
+applauded for his Excellence, should be so little read, as
+appears from most of our Modern Compositions. His Fame
+is taken upon Credit, from the Recommendations of others;
+and they who speak of him, rather pay a blind Veneration
+to his Antiquity than his intrinsic Worth, which perhaps
+may bear a Competition with the Refiners of Poetry in
+any other Language. They who seem most to have studied
+him, are our incomparable Spenser, Milton, and Dryden;
+others have but mimick'd his Garb, without hitting his Air
+and Mien. An old Word, or Phrase or two, accidentally
+thrown among twenty modern and fashionable ones, have given
+an unjust Repute to some Imitations of Chaucer. In the mean
+time, the Boldness of his Imagery, the natural Beauty of his
+Similitudes, and the Delicacy of his Thoughts, are generally
+neglected, though his best Ornaments: They have rubb'd of
+his Rust for their own Use, and left the Steel in the Posses¬
+sion of the right Owner. Mr. Dryden indeed stands an
+exception to this Accusation, he never missing, but improving
+[p. 83] every noble Hint of this Author; regardless of the Expres¬
+sion, his view is at the Sense, the Spirit, the Figures of
+his Predecessor. Before ever he undertook to dress him in
+Modern English, it is plain to me, that he was an early
+Admirer of him, and transferr'd many of his Beauties into
+his own Poems; as commendable a Design, as Virgil’s in
+borrowing from Ennius, and Lucretius. I could give many
+instances of this; but let one general, and one particular
+be sufficient. The manner of reasoning in Verse, which
+Mr. Dryden so artfully introduced into his Heroic Plays,
+is entirely Chaucer’s, as may be seen even by this little Piece
+following. That he used his Images and Thoughts, be this
+a Testimony. In the Description of Absalom's Beauty, he
+summs up all with this Line;
+And Paradise was open'd in his Face.
+Chaucer in his Cresseide, says,
+That Paradise stood formed in her Eyen.
+The Thought in this Song has been used, and diversified a
+hundred times since Chaucer's Days; and yet he seems to
+have said more, and that more pathetically than any of his
+Imitators. It is taken from the First Book of Troilus and
+Cresseide; and the Reader by a Comparison may see how
+little Variation there is from the Original, and give his
+Judgment at Pleasure. I only wish that so excellent a Poet
+as Chaucer may be no longer admir'd at a Distance, but
+brought into the Acquaintance of the Polite World; and it
+it is to be hoped the New Edition of his Works [Urry's
+Chaucer, 1721] will compleat that Wish.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

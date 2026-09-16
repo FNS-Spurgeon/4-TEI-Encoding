@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p356_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1721, Timothy Thomas. Preface and Glossary to The Works of Chaucer...</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73730392">Timothy Thomas</author>
+            <date cert="high" when="1721">1721</date>
+            <title level="a">Preface and Glossary to The Works of Chaucer...</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=548">356-358</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#praised"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="356"/>
+        <ab type="imprint">1721. Thomas, Timothy. Preface and Glossary to The Works of Chaucer... printed by John Urry... London, 1721. [MS, note in margin: “by T. T. with corrections and additions by W. T."] also copious MS. notes to edn. of Urry’s Chaucer [B. M. pr. m. 643. m. 4.]</ab>
+        <ab type="quotation">
+          <seg>[sign. i 2] The Reader will meet with no more interruption here, than
+will be necessary to acquaint him in some measure with Mr.
+Urry's Design in this Edition.... As for my self, I was
+equally a stranger to Mr. Urry and his Undertaking, till some
+time after his Death; when a Person [in a MS. note in
+margin ‘Dr. Smalridge, then Dean of Christ Church’] whose
+Commands I was in all Duty bound to obey, put the Works of
+Chaucer into my hands, with his Instructions to assist in
+carrying on this Edition, and to prepare Matter for a Glossary
+to it. Mr. Thomas Ainsworth of Christ-Church had been em¬
+ployed by Mr. Urry in transcribing part of the Work for the
+Press, and was therefore thought qualified to proceed in
+preparing the rest for my perusal. This Gentleman likewise
+dyed in August 1719, soon after the whole Text of Chaucer
+was printed off.  . . .
+About the latter end of the year 1711, some Persons well
+acquainted with Mr. Urry's Qualifications [MS. note :— ‘Dr.
+Atterbury, Dean of Ch. Ch.'] (who, he thought, had a right to
+command him) proposed to him to put out a new Edition of
+Chaucer; which he was perswaded to undertake, though much
+against his inclination: “For, though (as he says) his skill in
+the Northern Language spoken in the Lowlands of Scotland
+qualified him to read this Poet with more ease and pleasure
+than one altogether bred be-South Trent could do without
+more than common Application, yet he assures us, he had not
+the least thought of publishing his private Diversions.
+Having thus undertaken the Work, he proposed to proceed
+in this Method, viz. to correct the Text of Chaucer, and add
+what he could find of his Works in MSS. which had not been
+printed; to make some Observations upon the Author, and
+among other things to shew where he had imitated or borrowed
+from the Greek or Latin Poets; to add a more copious
+Glossary than had been printed before; to write a fuller
+Account of his Life than had been yet published; and to
+acquaint the Reader in a Preface what he should have
+performed in this Edition.  ....
+[sign. i 2b] His chief business was to make the Text more correct and
+compleat than before. He found it was the opinion of some
+learned Men that Chaucer's Verses originally consisted of an
+equal number of Feet; and he himself was perswaded that
+Chaucer made them exact Metre, and therefore he proposed in
+this Edition to restore him (to use his own Expression) to his
+feet again, which he thought might be performed by a careful
+Collation of the best printed Editions and good MSS.
+He had observed that several Initial and Final Syllables in
+use in Chaucer's time, and since, had been omitted or added at
+pleasure in the MSS. by unskilful Transcribers, from whence
+the same Errors crept into the Printed Editions, whereby
+many Verses were rendered unjust in their Measure; so that
+the lameness of many of them might easily be remedied by the
+discreet Addition or Omission of such Syllables.
+The Initial Syllables were chiefly a, i, and y.  ... The
+Final Syllables... the chiefest of which... was the
+Final è, which he always marked with an accent when he
+judged it necessary to pronounce it;.... Whether the
+assistance of this Final è be not here too frequently, and
+sometimes unnecessarily, called in, is not my business at
+present to enquire into.  ... [Other methods used by Urry
+of lengthening the words were the pronounciation of the
+terminations ed and id in the past tenses of verbs, &amp;c., of en and
+in as terminations of verbs, nouns and adverbs, and of the
+[sign. k1] plural endings es and is] And in short I find it acknowledged
+by him, “That whenever he could by no other way help a
+Verse to a Foot, which he was perswaded it had when it came
+from the Maker's hands, but lost by the Ignorance of
+Transcribers, or Negligence of Printers, he made no scruple to
+supply it with some Word or Syllable that serv’d for an
+Expletive": But I find at the same time that he had once a
+design of enclosing such words in hooks thus[ ] to distinguish
+them from what he found justified by the authority of MSS.,
+but how it came to pass that so just, useful and necessary
+a Design was not executed, I cannot satisfy the curious
+Reader.  ...
+[Then follows a complete list and description of the various
+MSS. and the printed editions of Chaucer consulted.]</seg>
+          <note type="footnote">Note in Spurgeon: [For some account of T. Thomas, and appreciation of his work, see Tyrwhitt's Preface to the Canterbury Tales, vol. i, 1775, p. xx and note, also Advertisement to Glossary, vol. v, 1778, p. ii, partially reprinted here in the note to Urry's edition, p. 354 above.]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p315_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1711, Thomas Hearne. Extracts from his Diary.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/29543710">Hearne, Thomas</author>
+            <date cert="high" when="1711">1711</date>
+            <title level="a">Extracts from his Diary.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=507">315-317</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#biography" target="#original"/>
+        <catRef scheme="#others" target="#bibliography"/>
+        <catRef scheme="#others" target="#manuscripts"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="315"/>
+        
+        <ab type="imprint">1711. Hearne, Thomas. <hi rend="italic">Extracts from his Diary</hi>, April 28, Aug. 27, Sept. 20, Nov. 16, Dec. 5, 1711, [in] Remarks and Collections of Thomas Hearne, ed. C. E. Doble, Oxford Hist. Soc., vol. iii, pp. 155-6, 217, 234, 264, 274.</ab>
+        
+        <ab type="quotation">
+          <seg><note place="margin">[p.155]</note>April 28 (Sat.) . . . . Note out of Sʳ Fra. Kinaston of
+            Oatly in Salop his Comments on Chaucer's Troilus &amp; Cresida
+            <add>[see above, 1635, p. 207]</add>. (The said Sʳ. Fr. turn'd that piece
+            into Latin Rhyme, &amp; writ also Latin Notes upon it.)</seg>
+            
+          <seg>For Chaucer's Personage it appears by an excellent piece
+            of him, limm'd by the Life by Thomas Occleve his Schollar
+            and now remaining as a high priz'd Jewell in the Hands of
+            my honoured Friend Sʳ. Thomas Cotton Kᵗ. and Bart. that
+            Chaucer was a Man of an even Stature, neither too high
+            nor too low, his Complection sanguine, His Face fleshie, but
+            pale, his Forehead broad, but comly smooth and even.
+            His Eyes rather little than great cast most part downward,
+            with a grave Aspect, His Lipps plump and ruddy &amp; both
+            of an equal thickness, the hair on the upper being thin and
+            short ot a wheat Colour, on his Chin 2 thin forked Tuffs.
+            His Cheeks of like coller with the rest of his Face being
+            either shaved or wanting Hair. All which considered
+            together with his Witt and Education in yᵉ Cort, and his
+            Favour among Great Ladys one of whose Women he married:
+            it was his Modesty made him speake of his Unlikeliness to
+            be a Lover.
+            <lb/>This Note I took out of a Book of Mr. Urry of Xᵗ. Church,
+            who transcrib'd several things of the English Comment from
+            the MS. in the Dean of Xᵗ. Church (Dr. Aldrich’s) Study.
+            . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 156]</note>Ibid. <add>[i.e. Kinaston’s Comments]</add> 157. passed prime.
+            <lb/>Our Ancestours in Chaucer's time and before divided their
+            Morning Devotions into two Space 1° fr. 6 of the Morning
+            ’till nine &amp; it was called Spacium orationum primarum. The
+            other from 9 o’ clock 'till twelve, wᶜʰ was call’d Spacium
+            Orationum nonarum &amp; hence we have our word NOON. . . .
+            <lb/>. . . . . . . . . .</seg>
+          
+          <milestone unit="page" n="316"/>
+            
+          <seg>Ibid.] 159. Game in mine hood.]
+            In Chaucer's time they had but found out the Invention of
+            Felt &amp; Beaver Hatts. Before that time they either wore
+            Knitt Capps or Silk, or Cloath Hoods, as you may see in the
+            prologues. The Invention of Hatts there you may see (in the
+            Description of the Merchant, who wore a Flanders Bever
+            Hatt <add>[l. 272]</add>). His Meaning is that Cresid should find in or
+            under his Hood some Waggery or Merry Conceits.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 216]</note>Aug. 27 (Mon.). . . . Mr. Wᵐ. Lambard writ a Saxon
+            Dictionarie [see above, p. 104], wᶜʰ we have in MS. in Bodley,
+            inter Codd. Seld. supra n. 63, at yᵉ Beginning of wᶜʰ he hath
+            this Note:
+            <lb/>For the Degrees of the Declination of the old Inglishe, or
+            Saxon tongue, reade 1. The Lawes before the Conquest.
+            2. The Saxon Chron. of Peterborough, after the Conquest.
+            3. The Saxon Writte of H. 3. to Oxfordshyre : in the litle
+            Booke of olde Lawes, fo. 4. The Pater nostre, &amp; Crede, of
+            Rob. Grosted: in the Booke of Patrices Purgatiorie &amp;c.
+            <note place="margin">[p. 217]</note>5. The Rythme of Jacob: in the Booke called flos florum.
+            6. The Chronicles called Brute: Gower, Chaucier, &amp;c.
+            By the wᶜʰ, and such like it may appeare, how, and by what
+            Stepe, our Language is fallen from the old Inglishe, and
+            drawen nearer to the Frenche. This may vell be lightened
+            by shorte Examples, taken from theise Bookes, and is meete to
+            be discover'd when this Dictionarie shal be emprinted.
+            <lb/>W. Lambarde 1570.
+            <lb/>Seld supra 57. Romanz de la Rose in French. Wᶜʰ hath
+            been translated by Chaucer &amp; is to be found in his Works.
+            In this MSᵗ. are abundance of Pictures, from one of wᶜʰ it
+            appears yᵗ women rid astride when 'twas written.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 234]</note>Sept. 20 (Th.). Mr. Urry tells me that he saw a MS.
+            Chaucer in the Study of the Lᵈ. Treasurer Harley, written,
+            he believes, in, or very near, the time in which Chaucer liv'd,
+            and that several things of the Cooks Tale are in this MSᵗ.
+            that are not in the common Editions.
+            <lb/>. . . . . . . . . .</seg>
+            
+           <seg><note place="margin">[p. 264]</note>Nov. 16 (Fri.). . . . De re literaria promovenda valde est
+            sollicitus, &amp; ut Ædis Xᵗᶦ, alumni bonæ notæ scriptores
+            recenseant, notisque brevibus, sed necessarijs, illustrent sæpe
+            
+            <milestone unit="page" n="317"/>
+            
+            monet atque incitat. Quin &amp; D. Joannem Urrium, amicum
+            nostrum probum integrumque ut novam Galfridi Chauceri
+            operum Editionem aggrediatur hortatus est. Ut Urrius opus
+            istud in se suscipiat ideo optandum esse puto, quod linguæ
+            Anglo-Saxonicæ &amp; vocum obsoletarum nostrarum apprime sit
+            peritus, &amp; in hisce studijs non mediocriter versatus. Unus
+            porro ex intimis Hickesij est familiaribus, qui proculdubio
+            consilijs commodis Urrium sublevabit, &amp; locos paullo
+            difficiliores pro virili elucidabit.—
+            <lb/>. . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 273]</note>Dec. 5 (Wed.). Yesterday Mʳ. Urry came to the Bodlejan
+            Library on purpose to look over Junius's MSS. he having had
+            <note place="margin">[p. 274]</note>Matter) that an Edition of Chaucer was there in great measure
+            a Letter from Dʳ. Hickes (whose Advice he ask’d about the
+            done to his Hands. Num. 9ᵗʰ of those MSS. is a printed
+            Chaucer in Folio, with divers MSS. Notes throughout by
+            Junius's own Hand, &amp; divers of his other Books will be of
+            signal Service in the Work, especially the Etymologicon of the
+            English Tongue, &amp; the Original of old English Words, wᶜʰ
+            are distinctly handled in three Volumes, wᶜʰ Mr. Urry designs
+            carefully to read over. . . . <add>[see above, 1677, p. 253]</add>.<note type="footnote">Note in Spurgeon: [See above, p. 292, 1705, Wanley, Humphrey.]</note>
+          </seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

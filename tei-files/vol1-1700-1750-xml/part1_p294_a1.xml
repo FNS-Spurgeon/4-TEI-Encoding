@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p294_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[c. 1707], Jabez Hughes. [Verses] Upon Reading Mr. Dryden's Fables.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/31861053">Hughes, Jabez</author>
+            <date cert="low" when="1707">[c. 1707]</date>
+            <title level="a">[Verses] Upon Reading Mr. Dryden's Fables.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=486">294</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#criticism" target="#ennius"/>
+        <catRef scheme="#criticism" target="#obsoleteRude"/>
+        <catRef scheme="#modernizations" target="#dryden"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="294"/>
+        
+        <ab type="imprint">c. 1707.] Hughes, Jabez. [<hi rend="italic">Verses</hi>] <hi rend="italic">Upon Reading Mr. Dryden's Fables</hi> [printed in] Miscellanies in Verse and Prose, by Mr. Jabez Hughes, 1737, pp. 95-97. (Appendix A, No. ix, in G. Saintsbury's revision of Sir Walter Scott's edition of the Works of John Dryden, 1893, vol xviii, p. 237.)</ab>
+        
+        <ab type="quotation">
+          <seg>
+            <lg>
+              <head>Upon Reading
+              <lb/>Mr. Dryden's Fables.</head>
+              
+              <l>Our great Forefathers in Poetic Song,</l>
+              <l>Were rude in Diction, tho' their Sense was strong;</l>
+              <l>Well-measur'd Verse they knew not how to frame,</l>
+              <l>Their Words ungraceful, and the Cadence lame:</l>
+              <l>Too far they wildly rang'd to start the Prey,</l>
+              <l>And did too much of Fairy Land display;</l>
+              <l>And in their rugged Dissonance of Lines,</l>
+              <l>True manly thought debas'd with Trifles shines.</l>
+            </lg>
+              . . . . . . . . .
+            <lg>
+              <l>Such was the Scene, when Dryden came to found</l>
+              <l>More perfect Lays, with Harmony of Sound:</l>
+              <l>What lively Colours glow on ev'ry Draught!</l>
+              <l>How bright his Images, how rais'd his Thought! . . .</l>
+            </lg>
+              . . . . . . . . .
+            <lg>
+              <l><note place="margin">[p. 97]</note>Revolving Time has injur'd Chaucer's Name,</l>
+              <l>And dimm'd the brilliant Lustre of his Fame;</l>
+              <l>Deform'd his Language, and his Wit depress'd,</l>
+              <l>His serious Sense oft sinking to a Jest;</l>
+              <l>Almost a Stranger ev'n to British Eyes,</l>
+              <l>We scarcely knew him in the rude Disguise:</l>
+              <l>But cloath'd by Thee, the burnish'd Bard appears</l>
+              <l>In all his Glory, and new Honours wears.</l>
+              <l>Thus Ennius was by Virgil chang'd of old;</l>
+              <l>He found him Rubbish, and he left him Gold.</l>
+            </lg>
+          </seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

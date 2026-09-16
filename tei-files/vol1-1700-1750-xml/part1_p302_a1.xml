@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p302_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[1709], Thomas Hearne. A Letter to Mr. Bagford, containing some Remarks upon Geffry Chaucer and his Writings.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/29543710">Hearne, Thomas</author>
+            <date cert="medium" when="1709">[1709]</date>
+            <title level="a">A Letter to Mr. Bagford, containing some Remarks upon Geffry Chaucer and his Writings.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=494">302-309</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#others" target="#bibliography"/>
+        <catRef scheme="#criticism" target="#anticlericalism"/>
+        <catRef scheme="#others" target="#manuscripts"/>
+        <catRef scheme="#works" target="#parsonTale"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="302"/>
+        
+        <ab type="imprint">[1709.] Hearne, Thomas. A Letter to Mr. Bagford, containing some Remarks upon Geffry Chaucer and his Writings [in] Robert of Gloucester’s Chronicle, ed. Thomas Hearne, 1724, vol. ii, Appendix iv, pp. 596-606.</ab>
+        
+        <ab type="quotation">
+          <seg>
+            <note place="margin">§1. A laudable Undertaking, to endeavour to give
+            an Account of the Life and Writings of Geffry Chaucer.</note> Sir,
+            I cannot but highly commend your Industry,
+            in being so inquisitive into the Life
+            and Writings of Geffry Chaucer, the Prince
+            of our English Poëts; and I am extremely
+            oblig’d to you, for the Account you sent me
+            of the Editions of him, that you have hitherto met with.
+            Would others but imitate your Diligence, we should understand
+            this excellent Poët much better than we do, and be
+            able to give a far more correct Edition of him than has hitherto
+            appear’d. Such an Undertaking will derive great Honour
+            upon those, that shall ingage in it, and will be gratefully
+            receiv’d by all true Scholars and Antiquaries. For Chaucer
+            was not only an excellent Poët, but was admirably well
+            
+            <milestone unit="page" n="303"/>
+            
+            vers’d in most Parts of Learning. And besides his profound
+            Learning, he was a compleat Gentleman, &amp; skill’d in all the
+            Arts of Address. These Qualifications made him belov’d and
+            honour’d, and his Conversation &amp; Acquaintance were courted
+            by the Greatest Personages, insomuch that he was sent
+            Ambassadour into Forreign Parts, where he came of <add>[sic]</add> with
+            as much Applause, as he did in any of his Performances in his
+            own Native Country. This does not seem to be at all owing
+            to his Birth, his Father, not withstanding wealthy, being, in
+            all probability, only  a Merchant; tho’ I know, that Leland,
+            in which he is follow’d by Bale, tells us, that he was nobili
+            loco natus, which seems to be a mistake, there being no
+            Evidence now remaining, that we know of, to confirm such an
+            <note place="margin">[p. 597]</note>Assertion, unless it be that from the Roll of Battle-Abbey we
+            learn, that the Chaucers came with the Conqueror into
+            England, and that Pitts tells us, that his Father was a Knight.
+            Nor are we uncertain only as to his Ancestors, and his Quality,
+            but there are a great many other Particulars relating to him,
+            which, at present, we know nothing of, which I am perswaded
+            we might be satisfied in by a diligent Inspection into antient
+            Records. I have not time myself to assist in any such
+            Attempt: and therefore I leave it to your self and others, who
+            have both leisure and opportunity of going through so desirable
+            a Work.</seg>
+            
+          <seg><note place="margin">§2. In which we have William Caxton, and
+            several other eminent Persons for Precedents.</note>We have several eminent Persons for
+            Precedents in this usefull Inquiry, which
+            cannot but add Life and Vigour to those
+            who concern themselves in it. For soon
+            after Printing was established in this Island,
+            William Caxton, besides divers other good Books, set himself
+            carefully about searching out and publishing the several
+            Pieces of Geffry Chaucer; but I much question whether he
+            printed divers of them together. For tho’ Stow and some
+            others inform us that he was the first that publish’d his
+            Works, yet I believe they are to be understood of some Pieces
+            printed by him in distinct and small Volumes, and not after
+            the Method that was follow’d by Successors. For Richard
+            Pynson, in his Preface to his Edition of the <hi rend="italic">Canterbury Tales</hi>
+            (which we have amongst Mr. Selden’s MSS., and contains
+            nothing else) acquaints us, that he printed them from a Copy,
+            that was prepar’d for the Press by his Master William Caxton,
+            but gives not the least Hint that they had been before
+            
+            <milestone unit="page" n="304"/>
+            
+            printed. Caxton and Pynson having spent their time so
+            successfully upon Chaucer, and so much to the Content and
+            Approbation of learned Men, others were soon animated to
+            <note place="margin">[p. 598]</note>advance and promote what they had begun; and accordingly
+            several Editions follow’d with Improvements, as you have
+            particularly specify’d in your Paper: but Caxton and Pynson
+            were exceeded in their Labours by William Botevil, alias
+            Thinne, Esq., who having collected all the old Copies of
+            Chaucer that he could any ways procure, and having with great
+            Exactness corrected a vast number of Places, and made
+            considerable Additions, amongst which must not be passed by his
+            Notes and Explications, publish’d the Work in one Volume in
+            Folio in the Year<note type="footnote">See Stow’s Annals Edit. fol. p. 326, and Mr. Leland de Scriptorib.
+              in vita <hi rend="italic">Chauceri</hi>.</note> MDXL. (not in MDXLII. as Mr. Wood insinuates<note type="footnote"><hi rend="italic">Athenæ Oxon.</hi>, vol. i, col. 53.</note>)
+            which was printed at London by Thomas Bertholet <add>[sic]</add>,
+            as is noted by Mr. Leland,<note type="footnote">Loco citato.</note> and dedicated to K. H. VIII.
+            Twenty Years after this John Stow<note type="footnote">See his Annals loc. cit.</note> the Antiquary collated
+            this edition with several MSS. (some of which, I suppose,
+            are part of those that had been collected a great many Years
+            before by John Shirley Esq., who died in the Year MCCCCLVI<note type="footnote">See <hi rend="italic">Stow’s Survey of London</hi>, p. 416.</note>
+            and not in MCCCCLXV. as you mistake) added some Pieces not
+            printed before, and in the Year MDXCVII. joyn’d to him divers
+            Poëms of Lidgate; which being done, he drew up an Account
+            of Chaucer’s Life, of his Prefermentc, Issue and Death, collected
+            out of Records in the Tower and other Places, which he at
+            length communicated to Thomas Speght, who publish’d him
+            the same Year, with the said Improvements of Stow and his
+            own, and methodiz’d his Life according to his own Judgement.
+            After this Francis Thinne, Lancaster-Herald at Arms, a
+            Person very well vers’d in Antiquities, and descended, as it
+            seems,<note type="footnote">See <hi rend="italic">Wood’s Athenæ Oxon.</hi>, vol. i, col. 320.</note> from the before mentioned William Thinne, but not
+            <note place="margin">[p. 599]</note>his Son as is affirm’d by Speght in his Life of Chaucer, corrected
+            this Edition in abundance of Places, drew up several Notes to
+            it, and put them into the Hands of the said Mr. Speght, who
+            remitted them into another Edition of Chaucer printed in
+            Folio in MDCII. which is the most compleat Edition we have
+            yet, and, besides the Explication of old and obscure Words,
+            contains great Variety of Improvements, that were not in
+            former Impressions. But I shall not trouble you with a
+            Catalogue of the Editions of Chaucer, which you are acquainted
+            
+            <milestone unit="page" n="305"/>
+            
+            with far better than I can pretend to. I shall, however, if I
+            meet with any Edition, that you have not specify’d, let you
+            know of it; and in the mean time I must take notice, that I
+            have seen some Pieces of him printed separately that you
+            have not mention’d, and ’tis likely I may meet with others
+            hereafter in my Searches. Amongst Mr. Selden’s printed
+            Books in the Bodleian Library is a Quarto Collection of old
+            Romantick Pieces, the first of which is, <hi rend="italic">The story of the noble
+            Kynge Richard Cure de Lyon</hi>, pr. at London by Wynkyn de
+            Worde an. MDXXVIII.  The Author’s name is not added, and
+            therefore ’tis put down in Dr. Hyde’s Catalogue as an
+            anonymous Tract; but, upon consulting the Book, I find, that
+            some body, perhaps one that was formerly Owner of it, has
+            writ the following Words at the Beginning, By Jeffree Charsher
+            Pooet Laret. What Authority he had for this, I will not
+            pretend to guess; but I thought fit to give you an account of
+            it, that you may, at your leisure, examine into it. In the
+            same Library we have another Collection of old English Pieces,
+            which was also Mr. Selden’s, in which is the <hi rend="italic">Ploughman’s
+            Tale</hi>, with a short Exposition of the Words and Matters, pr.
+            at Lond, MDCVI. Quarto. This Exposition is very usefull, and
+            the Author, who, it may be, was the said Francis Thinne,
+            [p. 600] shews himself to be a Man of Skill, and to have been a Master
+            of Chaucer. Besides these two Pieces, I must hint to you,
+            that the famous Mr. Elias Ashmole has printed, <hi rend="italic">The Tale of
+            the Chanon’s Yeoman</hi>, in his <hi rend="italic">Theatrum Chem</hi>.<note type="footnote">Pag. 227.</note> <add>[see above, 1652,
+            p. 227]</add> (before which he has put Chaucer’s Picture and
+            Epitaph from Westminster-Abbey) and that in his Museum
+            at Oxford is <hi rend="italic">The Miller’s Tale</hi>, and <hi rend="italic">The Tale of the Wife of
+            Bath</hi>, with Comments, pr. at London in MDCLXV. <add>[see ante, 1665,
+            p. 242]</add> which last I have not yet seen; but I shall take the
+            first opportunity to do it, and I will not fail to let you
+            know the Issue of my Inquiry.</seg>
+            
+          <seg><note place="margin">§3. Whonevertheless have not been so exact in their Editions,
+            but that they might be still corrected and supply’d from MSS.
+            and some Tracts added that were never yet publish’d.</note>But notwithstanding these excellent
+            Persons Labours were so successfull, as that
+            they may seem, perhaps, to some to have
+            superseded all future Attempts, yet I may
+            with Modesty assert, that a much more
+            correct and compleat Edition of Chaucer
+            might be given than any that has hitherto
+            appear’d. I have consulted some of our
+            Oxford MSS. and find that the Print is in a
+            
+            <milestone unit="page" n="306"/>
+            
+            great many Places corrupted, that in other Places whole Verses
+            are wanting, which might by these Helps be supply’d, that
+            sometimes the Titles of the Tales are chang’d, and that, lastly,
+            intire Tracts might be added, that were never yet made publick.
+            I took more particular notice of one MS. there,<note type="footnote">Inter Codd. <hi rend="italic">Fairfaxii</hi>, num. 16.</note> which is a
+            Collection of Poëms, some whereof bear Chaucer’s name, and
+            others have no name at all, which, nevertheless, I take to
+            have been written by him, as being in the same Style, and all
+            in the same Hand, which I guess to have been of the very
+            Age of Chaucer. From this Collection, from those that were
+            in Mr. Stow’s Library, from that mention’d by Mr. Edw.
+            Philips in his <hi rend="italic">Theatrum Poëtarum</hi> <add>[see above, 1675, p. 250]</add>,
+            <note place="margin">[p. 601]</note>and from a multitude of others, we might, in all likelyhood,
+            make another intire Volume of Chaucer in Folio.</seg>
+            
+          <seg><note place="margin">§4. A Fragment of <hi rend="italic">The Squire’s Tale</hi>, with a Passage at the End
+            of <hi rend="italic">The Parson’s Tale</hi>, by which Chaucer revokes some of his Works.</note>
+            I shall not give myself the Trouble of
+            multiplying Instances, to confirm what is
+            before asserted, since those cannot but be
+            obvious to every one, that shall have the
+            Curiosity to inspect and examine a little the
+            MSS. Yet I think it proper at present to
+            inform you, that as the Prologue of <hi rend="italic">the
+            Squire’s Tale</hi>, in an excellent MS. of Mr. Selden’s,<note type="footnote">Arch. B. 30, in Bibl. Bodl.</note> is quite
+            different from that in the Print, so there are eight Verses in
+            the Tale itself, which are not in the Common Editions. For
+            whereas we have receiv’d as yet but two Verses of the third
+            Part, with a Note signifying, that none of the rest, notwith¬
+            standing diligently sought after, could be recover’d, we have
+            here the following ones, which immediately precede the two
+            already printed, viz.
+            <lg>
+              <l>But I here now wol maken a knotte,</l>
+              <l>To the tome it come nexte to my lotte.</l>
+              <l>for here ben felawes behynde an hepe truly,</l>
+              <l>That wolden talke fnl besily,</l>
+              <l>And habe here sporte, as wel as I,</l>
+              <l>And the day passith certeynly.</l>
+              <l>Therefore Oste taketh now good hede,</l>
+              <l>Who shal nexte telle, and late him spede.</l>
+            </lg>
+            And whereas you mention a Passage, intit’led <hi rend="italic">Penitentia ut
+            dicitur pro fabula Rectoris</hi>, by which Chaucer revok’d several
+            
+            <milestone unit="page" n="307"/>
+            
+            of his Books, that you found printed in an Edition of his
+            Poëms with Mr. Tanner, which you have not seen in any
+            other, I must, withall, acquaint you, that I have found the
+            <note place="margin">[p. 602]</note>same Revocation in a<note type="editorial">Inter Codd. <hi rend="italic">Caroli Hattoni</hi>, num. 1.</note> MS. in the Bodleian Library, which
+            because it is fuller than that you mention, and somewhat
+            different, I shall transcribe at large. How prey I to hem
+            all, that herken this litul tretise or reden, that if ther be
+            any thing in it, that liketh hem, that thereof thei thanken
+            our Lorde Ihesu Crist, of whom procedeth alle witte and
+            all goodenesse. And if there be anything, that displese
+            hem, I prey hem also, that thei arrecte it to the defante of
+            myn unkonnyng, and not to my will, that wold fayne habe
+            seid better, if I hadde konnyng: for our boke seith, that
+            al that is written for oure doctrine, &amp; that is myn entent.</seg>
+            
+          <seg type="editorial">. . . [Here the whole passage is given which is printed at the
+            end of the <hi rend="italic">Persones Tale</hi>, ll. 1082-92.]</seg>
+            
+          <seg>This Passage immediately follows these words, And the
+            rest by trabaile and the life by deth and mortification of
+            <note place="margin">[p. 603]</note>Syn, and is so continued with the Tale, as if it were part of
+            it; but tho’ this Revocation be also extant in the above men¬
+            tion’d MS. of Mr. Selden, yet it is written as distinct from the
+            Tales, which conclude with that of <hi rend="italic">the Parson</hi>. For thus
+            it is brought in, Here enden the Talis of Caunturbury, and
+            next thautour taketh leue.—How preye I to hem alle &amp;c.
+            So that it begins just as that which I have transcrib’d
+            above; but however is much shorter, ending with the Booke
+            of Seint Valenty.</seg>
+            
+          <seg>Besides the Tracts said in this Revocation to have been
+            <note place="margin">§ 5. This Revocation seems not genuine, but to
+            have been added by the Monks.</note> written by Chaucer, and the Difference of
+            the three Copies, viz. our two, and that in
+            Mr. Tanner’s Book, we may observe, that
+            the Scribe has intit’led himself to a share in
+            the Petition: whence I begin to think,
+            that the Revocation is not genuine, but that it was made
+            by the Monks. For not only the Regular, but Secular,
+            Clergy were exasperated against Chaucer, for the Freedom he
+            had taken to expose their Lewdness and Debauchery; but
+            nothing gave them so much offense, as the <hi rend="italic">Plowman’s Tale</hi>,
+            in which he has, in lively Colours, describ’d their Pride,
+            Covetousness, and abominable Lusts, and shew’d that the
+            
+            <milestone unit="page" n="308"/>
+            
+            Pope is Anti-Christ, and they his Ministers. Such a Satyr,
+            made by a Person of his Note and Distinction, and so much
+            celebrated for his wonderfull fine Parts and exquisite Learning
+            and Judgement, could not but work mightily upon them,
+            especially when many of them had arriv’d at so high a Pitch
+            of Wickedness, and were, as it were, drown’d in Sloath and
+            Luxury, being much worse now than their Predecessors above
+            three hundred Years before, when most of even the Bishops
+            themselves were illiterate, tho’ ador’d and flatter’d upon
+            account of their Dignity and unbounded Wealth, and attended
+            <note place="margin">[p. 604]</note>upon by an amazing Number of Servants and Sycophants.
+            <lb/>. . . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">§6. If it be suppos’d to be authentick, ’tis likely
+            ’twas written by Chaucer towards the latter end of Richard the
+            second’s Reign, he being then old and in disgrace, for striking in
+            with the Multitude in some dangerous Enterprize.</note>But if, notwithstanding, what has been
+            alleg’d, it be suppos’d, that this Revocation
+            is authentick, and that ’twas penn’d by
+            Chaucer himself, we may then conjecture,
+            that ’twas done by him towards the latter
+            end of the Reign of Richard II. when
+            having lost the favour of his Prince, and
+            most of his noble Friends here, and being,
+            withall, grown old, he retired himself from
+            <note place="margin">[p. 605]</note>the Pleasures of the World, and reflected
+            seriously upon the Changes and Infirmities
+            to which humane Nature is subject. This Consideration, with
+            the thoughts of a future State, could not but make him
+            renounce the Vanities of this Life, and retract those Passages,
+            which he perceiv’d, either bad <add>[done]</add> or might do Mischief to
+            Religion and Morality. After which he became quite weary
+            of this Life, and seem’d to have no relish for any thing in it;
+            tho’ that may be attributed chiefly, perhaps, to the
+            Misfortunes which happen’d to him, he and his Lands being
+            taken into the King’s Protection in the second Year of his
+            Reign, because of some danger that seem’d to threaten from
+            his favouring and striking in with the rash Attempts of
+            the common-place. Whatever this Attempt was, whether
+            Rebellion, or something bordering upon it, ’tis certain he
+            forfeited the Love of his Prince and most of his Friends,
+            and he was forced to lead afterwards a melancholy Life,
+            which often extorted from him grievous Complaints, particularly
+            of his own Rashness in following the Multitude, and
+            sometimes would wish to exchange Life for Death,<note type="footnote">This may be seen in the Complaint he made to his empty Purse, which
+            Mr. Speght found ten times larger in Mr. Stow’s MS. than in the Print.</note> which
+            
+            <milestone unit="page" n="309"/>
+            
+            Misery, however, was fortunate in this, that it prepar’d him
+            the better for Eternity, and influenced him to retract all the
+            loose Things in his Writings.</seg>
+            
+          <seg>Now the <hi rend="italic">Plough-man’s Tale</hi> having given<note place="margin">§7. The reason why the Ploughman’s Tale is found but in few
+            MSS. Some think ’twas not Chaucer’s, but if his, it is improperly call’d a Tale.</note>
+            more offence than all the rest of Chaucer’s
+            Works, perhaps that is the reason why it
+            appears in so few MSS. I have not
+            found it in one of those I have consulted at
+            Oxford, which has made some think, that
+            ’tis not Chaucer’s, and this they believe
+            confirm’d from the Style, which is different
+            from his other Poëms. Mr. Pitts confounds it with the
+            Satyr, that is call’d <hi rend="italic">Piers Plowman</hi>; but the Publishers have
+            skillfully ascrib’d it to him, being warranted from a MS. in
+            Mr. Stow’s Library; tho’ it must be confessed, that ’tis not
+            properly term’d a Tale, and it does not seem to have been put
+            as one of the Tales by the Author himself: for they were
+            suppos’d<note place="margin">See a Note at the Beginning of the Tales in MS. (in Bibl. Bodl. inter Codd.
+            <hi rend="italic">Laud.</hi> K. 50) by John Barcham. <add>[See above, 1642, pp. 221-2.]</add></note> to have been spoken and not written, as this is
+            plainly said to be, the Plowman concluding thus:
+            <lg>
+              <l>To holy Church I will me bow,</l>
+              <l>Each man to amend him Christ send space:</l>
+              <l>And for my writing me allow</l>
+              <l>He, that is almighty, for his Grace.</l>
+            </lg>
+            The same word of writing is there made use of several
+            times: as, for my writing if I habe blame—and,
+            Of my writing have me excused: which seems to me an
+            undeniable Argument, that it was not delivered as all the
+            rest were.
+            <lb/>I might from this occasion insist upon divers others Particulars,
+            but I have already exceeded the Bounds of a Letter,
+            and I am afraid I have quite tired your Patience. I hope,
+            however, you will take what I have said as an instance of my
+            Readiness to serve you, being, with all sincerity,
+            <lb/>Sir,
+            <lb/>Your very humble Servant,
+            <lb/>Tho. Hearne.<note type="footnote">Note in Spurgeon: [A MS. note by W. Thomas in Urry’s edn. of Chaucer’s Works, 1721, B.M. pr. m.
+            643. m. 4, on blank leaf to f. p. 32, states that this letter was written in 1709.]</note>
+          </seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

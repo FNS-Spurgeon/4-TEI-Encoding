@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p325_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1712, John Urry. Letter to Lord Harley.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/25743892">Urry, John</author>
+            <date cert="high" when="1712">1712</date>
+            <title level="a">Letter to Lord Harley.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=517">325-326</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#others" target="#manuscripts"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="325"/>
+        
+        <ab type="imprint">1712. Urry, John. <hi rend="italic">Letter to Lord Harley</hi>, [printed in] Report on the Manuscripts of his Grace the Duke of Portland, preserved ath Welbeck Abbey, vol. v (Historical MSS. Commission), 1899, pp. 247-8.</ab>
+        
+        <ab type="quotation">
+          <seg><note place="margin">[p. 247]</note>1712, November 24—Mr. Dean of Christ Church tells me
+            from Mr. Broxholm, your honour has found out another Tale
+            <note place="margin">[p. 248]</note>of Chaucer’s, that never was in print. I need not tell you I
+            shall be glad to see it, and hope you will favour me with a
+            sight of it when I come to Christ Church, which will be very
+            soon. . . . Last week the Honourable Mrs. Thynn of Cawston
+            sent me a MS. Chaucer, which she has lately purchased; it
+            belonged to Mr. Long, Prebendary of Exeter Church. ’Tis all
+            unbound and wants several leaves, and some whole Tales, but
+            yet there are two in it that I have not met with anywhere
+            else. The one is what passed at the inn at Canterbury,
+            and how the Pilgrims disposed of themselves, and the Pardoner's
+            misadventure with the Tapster of that inn <add>[Prologue
+            to Beryn]</add>. The other is the Merchant's tale as they return
+            from Canterbury; 'tis long; I have not read it, but after it
+            are these two lines in the same hand with the rest of the
+            MS—
+            <lg>
+              <l>Nomen autoris presentis cronica Romæ</l>
+              <l>Et translatoris filius Ecclesiæ Thomæ.</l>
+            </lg>
+            If what you have discovered is one of these, I shall be the
+            better enabled to put it forth from two MSS., but if it is
+            different from these, I shall thereby enlarge my collection of
+            Chaucer’s works, and that will be some commendation to the
+            edition I am preparing. I transcribe every line, so that I,
+            that am not a swift penman, find I have set myself a tedious
+            task. I am advanced a great way in the Tales, and have
+            taken as great care of the versification as I can, being
+            persuaded Chaucer made them exact metre, but the transcribers
+            have much injured them. In his Troilus and Creseide he says
+            to his book—
+            <lg>
+              <l>And for there is so great diversitie</l>
+              <l>In English and in writing of our tonge,</l>
+              <l>So pray I God, that none miswrite the</l>
+              <l>Ne the mismetre for default of tonge.</l>
+            </lg>
+            So that if I, by the help of MSS. and several printed editions
+            can restore him to his feet again, I shall have done, though
+            no great matter, as much as I am able to do, and that in a
+            good measure I think I shall do.</seg>
+          
+          <milestone unit="page" n="326"/>
+            
+          <seg>I shall make no complaints of the difficulties I meet with in
+            this trifling business. I shall reserve them to a paragraph in
+            the preface, and there I'll magnify my labours and talk as big,
+            though but a paltry editor, as if I were the very author
+            himself. But Chaucer was a modest man, and boasting will not
+            become me. However, you will give me leave, I hope, to
+            mention how much I am beholden to you in procuring me
+            that valuable MS. from my Lord Treasurer's library, and
+            promising to get me the habits of the pilgrims, and finding
+            out a new Tale to grace the edition, and many other favours,
+            for all which I most humbly thank your Lordship, and with
+            all respect kiss your hands.<note type="footnote">Note in Spurgeon: [Mrs. Thynne's MS. afterwards passed to the Northumberland Collection at Alnwick. See below, Horwood and Martin, 1872.]</note></seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

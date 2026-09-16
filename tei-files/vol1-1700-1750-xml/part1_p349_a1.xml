@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p349_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1720, Giles Jacob. An Historical Account of the Lives and Writings of our most Considerable English Poets</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46785838">Giles Jacob</author>
+            <date cert="high" when="1720">1720</date>
+            <title level="a">An Historical Account of the Lives and Writings of our most Considerable English Poets</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=541">349-350</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#biography" target="#education"/>
+        <catRef scheme="#biography" target="#other-episodes"/>
+        <catRef scheme="#criticism" target="#observationCharacter"/>
+        <catRef scheme="#criticism" target="#humourWit"/>
+        <catRef scheme="#works" target="#criticism"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="349"/>
+        <ab type="imprint">1720. Jacob, Giles. An Historical Account of the Lives and Writings of our most Considerable English Poets [being the 2nd vol. of the] Poetical Register, 1719, pp. v, 26-30, 36, 55, 66, 93-4, 148-9, 191, 203, 277. [Opposite the title page are the pictures of Milton, Butler, Chaucer, Cowley, Waller; Chaucer's picture, in the middle, is the largest and most prominent.]</ab>
+        <ab type="quotation">
+          <seg>[p. v] [Dedication to the Duke of Buckingham.]
+If all the Poets, whose writings I have enumerated,...
+were yet living, they would approve my choice in Addressing
+to Your Grace as to the most proper Patron for a Work of
+this Nature: they would all jointly and unanimously trust
+the Decision of their Fame to Your Grace's Judgment; and
+Chaucer, Spenser, and Milton would stand by the Determina¬
+tion of the Duke ot Buckingham.
+[pp 26-30] [Life of Chaucer.]
+[The usual account of Chaucer, educated at both Univer¬
+sities, his Travels, position at Court, &amp;c.]... His liberal
+Education at the Universities, and his Improvements in
+foreign Countries, rendered him both fit for the Court at
+home, and also for the greatest Employments abroad; but it
+does not appear that he had any other Preferment than that
+of Poet Laureat in the Reigns of Henry the Fourth and
+Henry the Fifth. This he obtained by the Interest of John
+of Gaunt, the Great Earl of Lancaster (to whom he was allied
+by Marriage), and Knighted upon that occasion.  ...
+Some Authors, for the sweetness of his Poetry, compare
+him to Stesichorus; and as Cethegue was called, Suadœ
+Medulla, so Chaucer may be esteemed the Sinews of Eloquence,
+and the very Life of all Mirth and Pleasantry in Writing.
+He had one Excellency above all other Poets, and wherein,
+none, since his time, but the famous Shakespear, has come
+near him, viz. Such a lively Description of Persons and
+Things, that it seems to surpass Imagination, and you see
+everything before your Eyes which you only Read: And
+herein his Canterbury Tales are most valued and esteemed.
+[Here follow appreciations by Sir Henry Savile, Spenser,
+Sidney, Sir John Denham, Sir Richard Baker, Camden,
+[p. 29] Leland.] He died in the year 1400 after he had lived above
+Seventy two Years...
+[p. 36] [Life of Mr. Samuel Cobb, who wrote the Miller's Tale,
+from Chaucer. See above, 1712, p. 319.]
+[p. 55] [Life of Elijah Fenton, and Works. He wrote A Tale in
+the manner of Chaucer. See above 1717, p. 345.]
+[p. 66]
+[Life of Gower.]
+[pp. 93-4] [Life of Lydgate.]... He justly acquired the Reputa¬
+tion of the best Author of the Age, wherein he lived; and
+if Chaucer's Works had greater Learning, Lydgate's were
+superior for Language. His Poetry is so pure, and so easie,
+that one might mistake him for a Modern writer.
+[pp. 148-9] [Life of Pope. List of his Works.] The Temple of Fame.
+... The Hint of this Piece was taken from Chaucer's House
+of Fame.
+January and May... from Chaucer. The Wife of Bath,
+from Chaucer.
+[p. 191]
+[Life of John Skelton.] During his Restraint, either to
+amuse his solitude, or at the Request of the Abbot, he adorn’d
+the Monuments of Several great Personages in Westminster
+Abbey with Tables and Epitaphs; as those of Sigebert the
+Saxon, Henry VII, Chaucer, and others; some of which
+still remain, tho' most of them were destroy'd in the grand
+Rebellion.
+[p. 203]
+[p. 277]
+[Life of Spenser, buried near Chaucer.]
+[Life of N. Rowe, buried near Chaucer.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

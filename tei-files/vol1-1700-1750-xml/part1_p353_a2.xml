@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p353_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1721, Geoffrey Chaucer. The Works of Geoffrey Chaucer, compared with the Former Editions and many valuable MSS.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100185203">Geoffrey Chaucer</author>
+            <date cert="high" when="1721">1721</date>
+            <title level="a">The Works of Geoffrey Chaucer, compared with the Former Editions and many valuable MSS.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=545">353-356</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#manuscripts" target="#"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="353"/>
+        <ab type="imprint">1721. Chaucer, Geoffrey. The Works of Geoffrey Chaucer, compared with the Former Editions and many valuable MSS. Out of which, Three Tales are added which were never before Printed; By John Urry, Student of Christ-Church, Oxon, Deceased: Together with a Glossary, By a Student of the same College. To the Whole is prefixed The Author’s Life, newly written, and a Preface, giving an Account of this Edition. London, Printed for Bernard Lintot, between the Temple Gates. 1721.</ab>
+        <ab type="quotation">
+          <seg>CONTENTS: [To face title page, engraved portrait of Urry.]
+[Title page, as above, with engraved picture of Chaucer's
+tomb.]
+[An engraved oval portrait of Chaucer, written above
+"Geoffrey Chaucer, our Antient &amp; Learned English Poet,
+died 1400, Æta. 72.", and underneath:
+”Anglia Chaucerum veneratur nostra Poetam,
+Cui veneres debet patria lingua suas.”
+Tho. Occleve Contemporar. &amp; discipulus ejusdem Chauceriad
+viv. delin. Geo. Vertue sculp. 1717.]
+[sign. a-f2] The Life of Geoffrey Chaucer. [By Dart, corrected by
+W. Thomas, see below, pp. 358-61.]
+[sign. f 2b  Testimonies of Learned Men concerning Chaucer and his
+-i 1ᵇ.]
+Works. [By W. Thomas.]
+[Testimonies from Gower, Lidgate, Occleve, Anonymous
+verses taken by Speght from a book of Stow’s, Gawin Douglas,
+Leland, Wm. Thynne, the publisher of Lidgate's Trojan war
+1555, Roger Ascham, Sir Philip Sidney, Puttenham, Fox,
+Surigonius, Camden, Spenser, Verstegan, Francis Beaumont,
+Sir Henry Savil, Selden, Sir John Denham, Milton, Sprat,
+Skinner, Sir Richard Baker, Peacham, Will. Winstanley,
+Edw. Philips, Sir Thos. Pope Blount, Rymer, Dryden—and in
+MS. added by W. Thomas, the Description of Chaucer out of
+Greene’s Vision c. 1592, Skelton's Phillyp Sparrow, Lilius
+Gyraldus Dialogi de Poetis &amp; Flor. 1551, p. 72, Caxton at end
+of his edn. of Chaucer’s Boethius, Addison, Alex. Gil, Strype,
+and Hearne’s Letter to Bagford.]
+[sign. i 2ᵃ-m 2ᵃ]  The Preface. [By T. Thomas, revised by W. Thomas.]
+[sign. m 2ᵇ -n 1ᵃ] The Contents [of the Text].
+[sign. n 1ᵇ-n 2ᵃ] Eight godely Questions with their Answeres.
+[sign 2nᵇ] [The Licence, dated 20 July 1714, q.v. below, App. A, 1714.]
+[sign. B (p. 1)
+[The text.]
+-p. 626]
+A Glossary explaining the obsolete and difficult words in
+Chaucer [by T. Thomas].
+[sign. 8 Q³ to end]
+A Short Account of some of the Authors cited by Chaucer.
+[Description of an interleaved and annotated copy of the
+above edition bound in two volumes [ordinary copies are
+in one volume], notes by T. and W. Thomas, in the British
+Museum, 643. m. 4.]
+[vol. i]
+[Inserted at the beginning an Agreement for the printing of
+Chaucer, in MS., dated 1715. See above, pp. 333-4.]
+Proposals [for printing Chaucer by subscription, two pages
+printed folio, dated June 30, 1716. See above, pp. 344-5].
+[Title page as above, with engraved picture of Chaucer's
+tomb.]
+[Inserted between portrait of Urry and title page, two copies
+of Urry's epitaph (1714, see above, p. 332), one in Urry's
+writing, the other a copy.]
+Testimonies of Learned Men concerning Chaucer and his
+Works, sign. f 2 b.-i 1 b. [MS. note “collected by W. T.
+1720."]
+The Preface, [MS. note “by T. T. with corrections and
+additions by W. T."] sign. i 2-m 2.
+description of three MS. copies of the Canterbury Tales
+[MS. leaf inserted between sign. 1 ₁ b and 1₂, containing a
+belonging to the Earl of Oxford.]
+letter from Mr. Wotton, May 5, 1722. See below, p. 363.]
+[On blank page before the Glossary extract in MS. from a
+[vol. ii] A Glossary explaining the obsolete and difficult words in
+Chaucer [MS. note “By Timothy Thomas"], sign. 7 U 2-
+8 Q 1.
+[Copious MS. notes all through by Timothy Thomas and
+by W. Thomas.]</seg>
+          <note type="footnote">Note in Spurgeon: [This edition is, from the point ot view of the text, the worst ever issued. Urry altered, respelt and even added words to Chaucer's text with the greatest freedom, without giving any indication that he had done so–see Preface by Timothy Thomas. Urry apparently did all the work of preparing the text for the press, and then died, on March 18, 1714-15, before the prefaces, glossary &amp;c. were written. The rights of printing the edition were handed over by Urry to his executor Mr. Brome and the Dean and Chapter of Christ-Church and Bernard Lintot, bookseller, and proposals to print the book by subscription were issued in 1716 [q. v., p. 344]. It was not, however, published till 1721, being then completed with Preface, Glossary, etc., by Timothy Thomas, which were revised for press by William Thomas. (See below for W. Thomas' annotated copy.) Urry included in this edition two spurious Tales, which had never before been printed: viz. : The Coke’s Tale of Gamelyn, pp. 36-48, and the Mery Adventure of the Pardonere and Tapstere and Tale of Beryn, one piece, pp. 594-626. For an account of Urry, see extract here given from the diary of Thomas Hearne, Mar. 17, 1714-15, pp. 331-2 above, and also the whole entry in Remarks and Collections of Thomas Hearne, Oxford Hist. Soc., vol. v, ed. D.W. Rannie, 1901, pp. 33-6. See also the account of Urry’s will given by Hearne, May 13, 1715, ibid., p. 58, also pp. 72 and 105. For further information about Urry and the production of this edition, see Literary Anecdotes of the 18th century, by John Nichols, 1812, vol. i, pp. 196-9, where he says, amongst much else, "About the latter end of the year 1711, it was proposed to Mr. Urry, who was a native of Scotland, by some persons well acquainted with his qualifications (who he thought, had a right to command him) to put out a new edition of Chaucer; which he was persuaded to undertake, though much against his inclinations. This recommendation was, probably, from Dean Aldrich, who well knew the talents of his pupil." Then follows a full account of the production of the book, Urry's application for a patent, his death, and epitaph, his character, the Agreement for the printing of Chaucer (see under 1715), the Proposals (see under 1716), and the Glossary; also a reference to the copy of Urry's Chaucer annotated by T. Thomas, then in the possession of Mr. A. Chalmers (now in the British Museum, see below), in which Thomas says that Bishop Atterbury was the chief person who proposed to Urry to undertake an edition of Chaucer. Mr. Thomas adds, that the Bishop (then Dean of Christ-Church) "did by no means judge rightly of Mr. Urry’s talents in this case; who, though in many respects a most worthy person, was not qualifled for a work of this nature." See also Tyrwhitt, in his Appendix to the Preface to the Canterbury Tales, vol. i, 1776, pp. xix, xx and note. "I shall say but little of that [Urry's] edition, as a very fair and full account of it is to be seen in the modest and sensible Preface prefxed to it by Mr. Timothy Thomas, upon whom the charge of publishing Chaucer devolved, or rather was imposed, after Mr. Urry's death. The strange licence, in which Mr. Urry appears to have indulged himself, of lengthening and shortening Chaucer's words according to his own fancy, and of even adding words of his own, without giving his readers the least notice, has made the text of Chaucer in his Edition by far the worst that was ever published." Tyrwhitt adds, in a footnote to p. xx, that he learns Timothy Thomas wrote the preface "from a MS. note in an interleaved copy of Urry's Chaucer, presented to the British Museum by Mr. William Thomas, a brother, as I apprehend, of Mr. T. Thomas. T. Thomas was of Christ-Church, Oxford, and died in 1757, aged LIX. ... Mr. W. Thomas has taken a great deal of unnecessary pains in collating that copy of Urry's Edit. with several MSS. The best part of the various readings serves only to correct the arbitrary innovations, which Mr. Urry had introduced into the text. He has employed himself to better purpose upon the Glossary, where he has made many emendations and additions, which may be of considerable use, if ever a new Glossary to Chaucer shall be compiled." In Tyrwhitt's Advertisement to his Chaucer Glossary, published 1778, vol. v. of the Canterbury Tales, p. ii, he acknowledges his debt to T. Thomas, saying he has "built upon his foundations, and often with his materials."]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

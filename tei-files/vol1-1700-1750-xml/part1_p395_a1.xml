@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p395_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1748, Unknown. Biographia Britannica,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author>Unknown</author>
+            <date cert="high" when="1748">1748</date>
+            <title level="a">Biographia Britannica,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=587">395-396</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#biography" target="#english"/>
+        <catRef scheme="#criticism" target="#importationMinimised"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="395"/>
+        <ab type="imprint">1748. Unknown. Biographia Britannica, vol. ii, pp. 1026 [account of W. Bullein, Dialogue, see above, 1564, p. 98], 1229, 1240-1, 1245-6 [Caxton], 1293-1308 [a long article on Chaucer]. For later volumes see below, App. A., 1757 and 1760.</ab>
+        <ab type="quotation">
+          <seg>CHAUCER (Geoffrey) the Father of our English Poets, and
+the first great improver and reformer of our language...
+as he justly obtained the highest admiration amongst his
+contemporaries, so his memory has ever since been highly
+honoured. [Here follow the events of his life in great detail,
+and a statement of the difficulties of getting at the facts about
+it. Sprat, Pits, Leyland, Speght, Dart, Hearne, Ashmole,
+Bale, and others are quoted.]...
+[p. 1305] If we look upon him as an author, he may truly be
+stiled the Father of English Poetry, and perhaps the Prince
+of it, for except the unavoidable defects of language, his
+Works have still all the beauties that can be wished for
+or expected, in every kind of composition. He was not
+unacquainted with the antient rules of Poetry, nor was he
+incapable of writing up to them, as very clearly appears by
+the Knight's Tale, which, as Mr. Dryden very justly says,
+is a finished Epick Poem, but he did not always judge this
+exactness necessary.   . . .
+[p. 1307] We are not however to suppose, that with all these great
+qualifications ['true genius, extensive learning, and a free
+spirit'], Chaucer could entirely escape the fang of false
+criticks... Those who have attacked Chaucer have not
+presumed to question his wit, for of this perhaps no writer of
+our nation ever had more, neither have they disputed his
+poetical abilities, which certainly set his on a level with the
+greatest names in antiquity; nor have they dared to throw
+any aspersion on his learning, the extent of which is not
+greater than the masterly degree of propriety with which it is
+everywhere applied : but the point to which they object, is, his
+changing, debasing, or corrupting our language, by introducing
+foreign words, as if the worth of all languages did not arise
+from their being thus enlarged and compounded...
+. . . . . . . . . . .
+[p. 1308] It is however just to observe, that this reflection never made
+any great impression, and that with the best and most elegant
+writers in our tongue, Chaucer passes not only for a great
+improver, but for the very Father and Founder of it; and it
+is not a little to his honour, that amongst those who are of
+this opinion we may reckon one of the soundest of our Critics
+[Rymer], and one of the correctest writers in our language
+[Sprat].</seg>
+          <note type="footnote">Note in Spurgeon: [See above, 1692, p. 265, Rymer, and 1667, p. 244, Sprat.]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

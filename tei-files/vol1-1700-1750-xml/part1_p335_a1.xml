@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p335_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1715, Hans Sloane. Three Letters to Thomas Hearne.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/77959">Sloane, Hans</author>
+            <date cert="high" when="1715">1715</date>
+            <title level="a">Three Letters to Thomas Hearne.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=527">335</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#others" target="#manuscripts"/>
+        <catRef scheme="#works" target="#editionCompleteWorks"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="335"/>
+        
+        <ab type="imprint">1715. Sloane, Sir Hans. <hi rend="italic">Three Letters to Thomas Hearne</hi>, dated respectively May 5, June 30, and Oct. 29, 1715. MS. Rawlinson, Lett. 16, ff. 71, 75, 77 [abstracts of them in] Remarks and Collections of Thomas Hearne, Oxford Hist. Soc., vol. v, ed. D. W. Rannie, 1901, pp. 54, 72, 130.</ab>
+        
+        <ab type="quotation">
+          <seg>May 5, 1715. . . . I am to begg yoʳ favour in another
+            matter which is the getting for me some MSS. &amp; printed
+            copies of Chaucer I lent Mʳ. Urry for forwarding his edition
+            of that author. He had one in his own handwriting or at
+            least said to be so, another of the Astrolabe fitted for the
+            presse in folio &amp; some more. You may find them out by
+            2 marks either MSS. or a letter of the alphabet in the under
+            part of the back and a number on the upper. The same
+            marks are generally on the inside. I should be glad to hear
+            one of yoʳ qualifications would undertake the publication of
+            so usefull a work even for the language. I begg pardon for
+            this trouble and remain. . . .</seg>
+            
+          <seg>June 30, 1715. . . . As to my MSS. of Chaucer, I shall
+            only desire, as occasion offers, that you would (if you can
+            easily) gett my books.</seg>
+            
+          <seg>Oct. 29, 1715. . . . I have at last found the list of my books
+            in Mr. Urry's hands, viz.:
+            <lb/>The works of G. Chaucer London, 1518. in fol., markd
+            P. 150.
+            <lb/>The conclusion of the astrolabe by G. Chaucer mark'd
+            MS. 324 in fol.
+            <lb/>Tractatus Astrologico Magicus wᵗ. a discourse written by
+            Sʳ. G. Chaucers own hand of the astrolabe mark'd MS. 378.
+            in 4°.
+            <lb/>You will do me a great favour to gett these books for me
+            from Mʳ. Brome or any body may have the looking into
+            Mʳ. Urry's papers. . . .<note type="footnote">Note in Spurgeon: [Sir Hans Sloane had some difficulty in getting back the books he had lent to Urry, Mr. Brome on being applied to says <add>[Brome to Hearne, c., Nov. 1, 1715, MS. Rawl. Lett. 18, f. 139]</add> that all MSS. and printed books lent to Urry which came into his <add>[Brome’s]</add> possession were delivered to Dr. Terry, Subdean of Ch: Ch: Next follows Hearne's letter to Sloane, Nov. 13, 1715, q.v., and Sloane to Hearne, Nov. 15, 1715 <add>[MS. Rawl. Lett. 9, f. 74, and Remarks, etc., ed. Rannie, v. p. 139]</add>. The MS. was finally found with Dr. Keil <add>[see Hearne’s letter to Brome, Nov. 20, 1715]</add>, but Sir Hans Sloane did not get all his Chaucers back until Feb. 29, 1716|17, when he writes to Hearne in acknowledgment of them, q.v. Mar. 1, 1716|17. See Remarks and Collections of T. Hearne, vol. v, pp. 130-2, 138-40, 152, 175, 178-9. For present nos. of these MSS. see Skeat's Chaucer, vol. iii, p. lx.]</note></seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

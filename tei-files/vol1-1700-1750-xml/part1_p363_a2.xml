@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p363_a2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1723, John Dart. Westmonasterium,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/283156923">John Dart</author>
+            <date cert="high" when="1723">1723</date>
+            <title level="a">Westmonasterium,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015016921887"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+            <biblScope unit="part">I</biblScope>
+            <biblScope unit="page" source="https://hdl.handle.net/2027/mdp.39015016921887?urlappend=%3Bseq=555">363-366</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <catRef scheme="#biography" target="#tomb-epitath"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-15" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="363"/>
+        <ab type="imprint">1723. Dart, John. Westmonasterium, or the History and Antiquities of the Abbey Church of St. Peter's, Westminster, 2 vols., 1723, [another edn.], 1742, vol. i, pp. 82-4, 86-9.</ab>
+        <ab type="quotation">
+          <seg>[p.82]
+Next adjoining to Mr. Drayton's, and between that and
+Chaucer's Monument, is a curious Cenotaph of White¬
+Marble...
+[p. 83] ... Adjoining to this of Mr. Philips, is an antient Monu¬
+ment of grey Marble in the Wall, erected to the Memory of
+the Father of our English Poets, Geoffrey Chaucer, of whom I
+have given a large Account in his Life; printed before the
+last Edition of his Works; and shall therefore in this Place
+give only some Hints of him.
+[Here follows the usual description of Chaucer's life, followed
+by one of his tomb.]
+... His stone of broad Grey Marble, as I take it, was not
+long since remaining; but was taken up when Mr. Dryden’s
+Monument was erected, and sawn to mend the pavement..
+[p. 86]... While I am speaking of Chaucer, give me the Liberty
+of one Digression, (for I think I shall not trouble you with
+many,) and that is to clear this great Man’s Character, and at
+a long Distance — my own. It has been for many Years
+believ’d, that Chaucer was the Author of that scandalous
+railing Ballad, The Ploughman's Tale, and, I think, it has not
+been contested. This, I know, makes him obnoxious to many
+Men of Letters, especially those who are Roman Catholicks.
+But their Resentment will cease to appear, when I almost
+evidently prove to them, that this Piece came from a Quarter
+of less Learning, and more ill Manners; and that Chaucer,
+who was a fine Gentleman, and one who had a Value for, and
+was valu'd by the better Sort of the Clergy of that Time,
+would never have fallen so rudely foul on the whole Order,
+when his Practice was only to lash those who were obnoxious
+to the rest. First then, we must observe, that this Tale is
+in none of the antient Manuscripts of Chaucer, not in any one
+I have seen, neither in that curious one of my Lord Harley,
+nor in those in the King's Library, which were borrow'd for
+Mr. Urry: But after the verse, By this the Manciple had his
+Tale I ended, &amp;c., comes on The Parson's Prologue and Tale;
+whereas they have in the printed Copies thrust this in
+between, and, to favour the Deceit, chang’d the very Verse,
+and made it, By this the Ploughman had his Tale y ended,
+&amp;c. And, indeed, the Tale it self seems to be of a different
+Piece, having no Introduction; and this Ploughman seems
+abruptly to have fallen in with them by the way, and to be
+a different sort of a Creature from that modest, quiet, good
+Parishoner, that came with his Parson to them at Southwark;
+they are not more different in their Dresses, than in their
+Manners and Characters. The first came upon a Horse:
+This Fellow is presented with a Pilgrim’s Staff, a cumbersome
+Utensil for one that rides. Chaucer has taken care to give
+his Farmer the Character of a quiet useful Man to others,
+and one that chearfully paid his Tithes; or else indeed I think
+he would have been strangely out, to have brought the Parson
+with him : But this ill-bred, saucy Fellow minds nothing but
+the satisfaction of Gain, having left his Cattle in Grass up to
+the Chin; and indeed we may perceive him to be a covetous
+[p. 87] Hog, by his railing against Tithes, the too common Cry of
+those sordid Wretches. Now if, having set these two Men
+before you, you can still think them the same, I'Il tell you
+the very Places they came from; and tho' I believe (with
+Mr. Stow) that they were both born at a time, yet they had
+very different Originals; one had to his Father our learned,
+I may safely say, religious, and well-bred Poet, (for the
+Obscenity of his Writings, I have sufficiently spoke of both
+Prose and ¹Verse, tho' the first, I think, is left out in the
+printed Copy of the Life:) The other was the Son of one
+1 Poem on Chaucer and his Writings, Lond. 1722
+of his Name, a hot warm Incendary, as (pity it is, too many
+Creatures of the State-Faction pretending Wickliff's Opinions
+were) one Pierse Ploughman. And, I think, this will need
+no other Proof than what this Fellow says in his Tale of
+another of his Performances, Of Freers I have spoken before
+in a making of a Creed, &amp;c. Now this same Pierse Plough¬
+man wrote that very thing which is at the end of his Book, and
+call’d a Creed of Fryers, which I have by me: For Mr. Fox,
+who thinks Jack Upland must be it, or none, has mistaken a
+Catechism for a Creed. Mr. Stow is more modest, as he was
+more calm, and says, he had seen it in an antient Manu¬
+script about Chaucer's Time, and (tho' he believes) does not
+positively assert it to be his. These Arguments, or to the
+like Purpose, I have laid down in the Life of Chaucer, which
+lately was printed before the Christ-Church Edition, the Copy
+of which was submitted to their Perusal, or some deputed by
+them; and upon the Queries mark’d, I submitted to such
+corrections as they thought proper. After which, when the
+Book had been some time out, I found upon perusing it, that
+all these Arguments were entirely omitted, and I am barely
+made to assert, by my own Authority, that Chaucer never
+wrote this Piece: Yet the Alterer has made me so modest
+(without my knowledge, I am sure,) to refer to the Preface.
+Upon which, at least, I expected the ingenious Gentleman
+who wrote it, (and, I believe, knew nothing of what was said
+in the Life,) had some better Arguments for what I had said.
+But suddenly, to my Suprize, old Mr. Fox was set there
+to stare me in the Face, and give the Lye, by no more
+Authority, than what they allow’d me; and one, who, I
+believe, was willing to make all the great Names he could
+oppose the Innovations of the Times, and whose Zeal,
+Passion, laborious Search, and Hurry, made him (I'm sorry
+to say it) guilty of too many errors. This Usage was such
+as, I hope, will influence the Reader to excuse my leading
+him out of the way. The Life was in other Places alter'd,
+as concerning Mr. Packer's Estate at Donington, and some
+few other Places, which I cannot now remember: For the
+Book I have never seen but upon a Bookseller’s Compter, not
+being willing to buy it, when my old one, with my own written
+Notes, serv’d me as well. This Usage, I think undeserv'd,
+having spar'd no Pains, and was at a very extraordinary
+Expence to collect Records, and write as particular and full a
+Life as possible, of a Name I ever reverenc’d, and for a Body
+of Men who have been always remark'd for a distinguishing
+Taste: A Life, which I have been told by no mean Judges,
+has not displeas’d. This I here mention to vindicate my self
+from those Mistakes of which I am not guilty; and this
+indeed was the chief Motive to my Conclusion of a Poem
+upon this Man and his Works, with which I shall likewise
+close this Account of his Tomb.
+Industrious thus to do my Master right,
+And save his Actions Time — conceal’d from Night;
+Long on the dusty Roll and mould’ring File,
+I urg'd the intricate laborious Toil;
+Toil ill return'd by this ungenerous Age,
+Unthank'd the Labour, and defac'd the Page.
+[p. 89]
+Yet not discouraged thus, with grateful Fire,
+I try at Verse, and reassume the Lyre:
+Suspend, great Bard, this Tablet at thy Shrine,
+And bribe the World to Fame, by sounding thine.</seg>
+          <note type="footnote">Note in Spurgeon: [There is no copy of the 1st edn. at the B. M. ; Westminster Abbey, a Poem, is prefixed to the edn. of 1742 (see above, 1721, Dart, J., p. 361). The "Poem on Chaucer and his Writings, 1722," is not in the B. M. or Bodl., nor have we been able to trace it. The edn. of 1742 contains also a full-page engraving of Chaucer’s monument.]</note>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

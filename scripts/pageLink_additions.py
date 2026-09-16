@@ -2,10 +2,10 @@ from openpyxl import load_workbook
 import xml.etree.ElementTree as eT
 import os
 
-xmlFiles = "../tei-files/vol2-1826-1850-xml"
+xmlFiles = "../tei-files/vol1-1700-1750-xml"
 
 wb = load_workbook(filename='../../3-DataExtraction/pages/hathitrustLinks.xlsx')
-pages = wb['Part2']
+pages = wb['Part1']
 
 list_pages = []
 for row in pages.iter_rows(min_row=2, max_row=pages.max_row, values_only=True):
