@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p384_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p384_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1739, George Ogle. Gualtherus and Griselda:</title>
+        <title>1739, George Ogle. Gualtherus and Griselda.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54476382">George Ogle</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54476382">Ogle, George</author>
             <date cert="high" when="1739">1739</date>
-            <title level="a">Gualtherus and Griselda:</title>
+            <title level="a">Gualtherus and Griselda.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -88,62 +87,78 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="384"/>
-        <ab type="imprint">1739. Ogle, George. Gualtherus and Griselda: or the Clerk of Oxford’s Tale. From Boccace, Petrarch, and Chaucer. To which are added, A Letter to a Friend, with the Clerk of Oxford’s Character, &amp;c. The Clerk of Oxford’s Prologue from Chaucer. The Clerk of Oxford’s Conclusion, from Petrarch. The Declaration, or L’envoy de Chaucer a les Maris de notre Temps, from Chaucer. The Words of our Host, from Chaucer. A Letter in Latin, from Petrarch to Boccace. By George Ogle, Esq.; London: Printed for R. Dodsley, at Tully's-Head, Pall-Mall. M. D. CC. XXXIX. (Price Three Shillings.)</ab>
+        
+        <ab type="imprint">1739. Ogle, George. <hi rend="italic">Gualtherus and Griselda</hi>: or the Clerk of Oxford’s Tale. From Boccace, Petrarch, and Chaucer. To which are added, A Letter to a Friend, with the Clerk of Oxford’s Character, &amp;c. The Clerk of Oxford’s Prologue from Chaucer. The Clerk of Oxford’s Conclusion, from Petrarch. The Declaration, or L’envoy de Chaucer a les Maris de notre Temps, from Chaucer. The Words of our Host, from Chaucer. A Letter in Latin, from Petrarch to Boccace. By George Ogle, Esq.; London: Printed for R. Dodsley, at Tully's-Head, Pall-Mall. M. D. CC. XXXIX. (Price Three Shillings.)</ab>
+        
         <ab type="quotation">
-          <seg>[p.vi] [In his “Letter to a Friend,” Ogle contends that Chaucer
-[p. vii] was one of Petrarch's friends, and conjectures that] the Person
-of so much Humanity, whom Petrarch mentions [in his Latin
-letter of 1373 to Boccaccio about Grisild] to have seen at
-Padua, may be taken for our very Chaucer.
-This Tale [of Griselda]... has already pass’d thro' the
-Hands of BOCCACE, PETRARCH and CHAUCER; that is, thro' the
-Hands of three Men of as great Genius as ever appear’d in one
-Age. BOCCACE may be suppos'd to have improv’d on Those He
-follow'd; PETRARCH most certainly improv’d on Him; and
-our Countryman undeniably improv’d on them Both. ...
-[p. viii] I hold Mr. DRYDEN to have been the first Who put the Merit
-of CHAUCER into its full and true Light, by Turning Some
-of the Canterbury Tales into our Language, as it is now refin’d,
-or rather as He himself refin'd it. ...
-Treating of CHAUCER (Whom He puts on a Footing of
-Comparison in some Instances with Ovid) He observes; that,
-among other Excellencies, He was perfect Master of the
-Manners....
-[p. ix] As to the Point of Characterizing, at which CHAUCER was
-most singularly happy; You can name no Author even of
-Antiquity, whether in the Comic or in the Satiric Way, equal,
-at least superior, to Him. Give Me Leave, only to throw
-together a few Touches taken from his Descriptions of the
-Pilgrims. [Here follow a large number of quotations in this
-style]... The Squire; with Locks curl’d, just fresh from the
-Press!. . . The Lady Prioress; Who wept if She saw a Mouse
-taken in a Trap!... To conclude, the Doctor of Physic;
-whose Study was little in the Bible! And the Serjeant at Law;
-Who seemed much busier than he was! All these, I say, are
-the Strokes of no common Genius, but of a Man perfectly
-conversant in the Turns and Foibles of human Nature.
-Observe but his Manner of Throwing Them in, and You will
-not think I exaggerate, it I say, these Turns of Satire, are not
-unworthy of PERSIUS, JUVENAL, or HORACE himself. Before I
-cool upon this Subject, I shall venture (as far as the Ludicrous
-may hold Comparison with the Serious) to rank our CHAUCER
-with whatever We have of greatest Perfection in this Character
-of Painting; I shall venture to Rank Him (making this
-Allowance) either with SALUST [sic] or CLARENDON....
-[p. x] For it was not to the Distinguishing of Character from
-Character, that the Excellence of CHaucer was confin'd; He
-was equally Master of Introducing them properly on the
-Stage; and after having introduced them, of Supporting them
-agreeably to the Part They were formed to personate. In This,
-He claims equal Honour with the best Comedians; there is no
-Admirer of PLAUTUS, TERENCE, or ARISTOPHANES, that will
-pretend to say, CHAUCER has not equally, thro' his Canterbury
-Tales, supported his Characters. And all must allow, that the
-Plan, by which He connects and unites his Tales, one with
-another, is well designed, and well executed. [Here Ogle
-gives a sketch of the plan of the Canterbury Tales, with long
-quotations.]</seg>
-          <note type="footnote">Note in Spurgeon: [A later edn. of the above appeared in 1741, 12mo, the same year as the Canterbury Tales, with the Title as above, except the place, and publisher, which are “Dublin: Printed for George Faulkner in Essex Street. 1741." The "Letter to a Friend " was reprinted in extenso in Ogle's edn. of the modernised "Canterbury Tales," 1741, see below, pp. 389-90.]</note>
+          <seg><note place="margin">[p.vi]</note><add>[In his “Letter to a Friend,” Ogle contends that Chaucer
+            <note place="margin">[p. vii]</note>was one of Petrarch's friends, and conjectures that]</add> the Person
+            of so much Humanity, whom Petrarch mentions <add>[in his Latin
+            
+            <milestone unit="page" n="385"/>
+            
+            letter of 1373 to Boccaccio about Grisild]</add> to have seen at
+            Padua, may be taken for our very Chaucer.</seg>
+            
+          <seg>This Tale <add>[of Griselda]</add> . . . has already pass’d thro' the
+            Hands of BOCCACE, PETRARCH and CHAUCER; that is, thro' the
+            Hands of three Men of as great Genius as ever appear’d in one
+            Age. BOCCACE may be suppos'd to have improv’d on Those He
+            follow'd; PETRARCH most certainly improv’d on Him; and
+            our Countryman undeniably improv’d on them Both. . . .</seg>
+            
+          <seg><note place="margin">[p. viii]</note>I hold Mr. DRYDEN to have been the first Who put the Merit
+            of CHAUCER into its full and true Light, by Turning Some
+            of the Canterbury Tales into our Language, as it is now refin’d,
+            or rather as He himself refin'd it. . . .</seg>
+            
+          <seg>Treating of CHAUCER (Whom He puts on a Footing of
+            Comparison in some Instances with Ovid) He observes; that,
+            among other Excellencies, He was perfect Master of the
+            Manners. . . .</seg>
+            
+          <seg><note place="margin">[p. ix]</note>As to the Point of Characterizing, at which CHAUCER was
+            most singularly happy; You can name no Author even of
+            Antiquity, whether in the Comic or in the Satiric Way, equal,
+            at least superior, to Him. Give Me Leave, only to throw
+            together a few Touches taken from his Descriptions of the
+            Pilgrims.</seg>
+            
+          <seg type="editorial">[Here follow a large number of quotations in this style]</seg>
+            
+          <seg>. . . The Squire; with Locks curl’d, just fresh from the
+            Press!. . . The Lady Prioress; Who wept if She saw a Mouse
+            taken in a Trap! . . . To conclude, the Doctor of Physic;
+            whose Study was little in the Bible! And the Serjeant at Law;
+            Who seemed much busier than he was! All these, I say, are
+            the Strokes of no common Genius, but of a Man perfectly
+            conversant in the Turns and Foibles of human Nature.
+            Observe but his Manner of Throwing Them in, and You will
+            not think I exaggerate, it I say, these Turns of Satire, are not
+            unworthy of PERSIUS, JUVENAL, or HORACE himself. Before I
+            cool upon this Subject, I shall venture (as far as the Ludicrous
+            may hold Comparison with the Serious) to rank our CHAUCER
+            with whatever We have of greatest Perfection in this Character
+            of Painting; I shall venture to Rank Him (making this
+            Allowance) either with SALUST <add>[sic]</add> or CLARENDON. . . .</seg>
+            
+          <seg><note place="margin">[p. x]</note>For it was not to the Distinguishing of Character from
+            Character, that the Excellence of CHaucer was confin'd; He
+            was equally Master of Introducing them properly on the
+            Stage; and after having introduced them, of Supporting them
+            agreeably to the Part They were formed to personate. In This,
+            
+            <milestone unit="page" n="386"/>
+            
+            He claims equal Honour with the best Comedians; there is no
+            Admirer of PLAUTUS, TERENCE, or ARISTOPHANES, that will
+            pretend to say, CHAUCER has not equally, thro' his <hi rend="italic">Canterbury
+            Tales</hi>, supported his Characters. And all must allow, that the
+            Plan, by which He connects and unites his Tales, one with
+            another, is well designed, and well executed.</seg>
+            
+          <seg type="editorial">[Here Ogle gives a sketch of the plan of the <hi rend="italic">Canterbury Tales</hi>,
+            with long quotations.]<note type="footnote">Note in Spurgeon: [A later edn. of the above appeared in 1741, 12mo, the same year as the Canterbury Tales, with the Title as above, except the place, and publisher, which are "Dublin: Printed for George Faulkner in Essex Street. 1741." The "Letter to a Friend " was reprinted in extenso in Ogle's edn. of the modernised "Canterbury Tales," 1741, see below, pp. 389-90.]</note></seg>
         </ab>
       </div>
     </body>

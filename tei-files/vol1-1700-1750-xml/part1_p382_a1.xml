@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p382_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p382_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/61551003">Alexander Pope</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/61551003">Pope, Alexander</author>
             <date cert="high" when="1737">1737</date>
             <title level="a">The Second Book of the Epistles of Horace. Imitated by Mr. Pope.</title>
           </analytic>
@@ -86,18 +85,25 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="382"/>
-        <ab type="imprint">1737. Pope, Alexander. The Second Book of the Epistles of Horace. Imitated by Mr. Pope. Printed for T. Cooper.—Epistle i, To Augustus, p. 3. (Works, 1871, vol. iii, p. 351.)</ab>
+        
+        <ab type="imprint">1737. Pope, Alexander. <hi rend="italic">The Second Book of the Epistles of Horace. Imitated by Mr. Pope</hi>. Printed for T. Cooper.—Epistle i, To Augustus, p. 3. (Works, 1871, vol. iii, p. 351.)</ab>
+        
         <ab type="quotation">
-          <seg>[l. 31]
-Just in one instance, be it yet confest
-Your People, Sir, are partial in the rest.
-Foes to all living worth except your own,
-[l. 35]
-And Advocates for Folly dead and gone.
-Authors, like Coins, grow dear as they grow old;
-It is the rust we value, not the gold.
-Chaucer’s worst ribaldry is learn'd by rote,
-And beastly Skelton Heads of Houses quote.</seg>
+          <seg>
+            <lg>
+              <note place="margin">[l. 31]</note><l>Just in one instance, be it yet confest</l>
+              <l>Your People, Sir, are partial in the rest.</l>
+              <l>Foes to all living worth except your own,</l>
+              <note place="margin">[l. 35]</note><l>And Advocates for Folly dead and gone.</l>
+              
+              <milestone unit="page" n="383"/>
+              
+              <l>Authors, like Coins, grow dear as they grow old;</l>
+              <l>It is the rust we value, not the gold.</l>
+              <l>Chaucer’s worst ribaldry is learn'd by rote,</l>
+              <l>And beastly Skelton Heads of Houses quote.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

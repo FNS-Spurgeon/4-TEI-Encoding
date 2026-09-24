@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p392_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p392_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1745], William Thompson. In Chaucer's Boure,</title>
+        <title>[c. 1745], William Thompson. In Chaucer's Boure.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27926279">William Thompson</author>
-            <date cert="low" when="[c. 1745]">[c. 1745]</date>
-            <title level="a">In Chaucer's Boure,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27926279">Thompson, William</author>
+            <date cert="low" when="1745">[c. 1745]</date>
+            <title level="a">In Chaucer's Boure.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,32 +85,40 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="392"/>
-        <ab type="imprint">[c. 1745.] Thompson, William. In Chaucer's Boure, Garden Inscriptions no. vii, [in] The Poetical Calendar... by Francis Fawkes and William Woty, vol. viii, ed. 2, 1763, p. 103. [also in] Poetical Works of William Thompson, ed. Park, British Poets, vol. 26, 1807. p. 181.</ab>
+        
+        <ab type="imprint">[c. 1745.] Thompson, William. <hi rend="italic">In Chaucer's Boure</hi>, Garden Inscriptions no. vii, [in] The Poetical Calendar . . . by Francis Fawkes and William Woty, vol. viii, ed. 2, 1763, p. 103. [also in] Poetical Works of William Thompson, ed. Park, British Poets, vol. 26, 1807. p. 181.</ab>
+        
         <ab type="quotation">
-          <seg>In Chaucer's Boure.
-Who is this thilke old bard which wonneth here?
-This thilke old bard, sirs, is Dan Chaucer:
-Full gentle knight was he, in very sooth,
-Albee a little japepish [sic] in his youth.
-He karoll’d deftly to his new psautry,
-And eke couth tellen tales of jollity.
-And sangs of solace, all the livelong day,
-Soote as the ouzle or throstell in May.
-Withouten words mo, a merie maker he,
-Ne hopen I his permagall ¹ to see.
-Ne Johnny Gay, perdie, ne Matthew Prior,
-In diting tales of pleasaunce couth go higher.
-Here in this gardyn full of flowers gend,
-Betwixt this elder-tree and fresh woodbend,
-He hearkeneth the foules' assemblie,
-That fro the twigs maken their melodie.
-Ye pied daisies, spring neath his feet,
-Who sung so sootly, “The daisy is so sweet:"
-¹ His equal.
-And whilest, “benedicite," he sings,
-Ryn little beck, in silver murmurings,
-O pleasaunt poete, thyselven solace here,
-And merie be thy heart, old Dan Chaucer.</seg>
+          <seg>
+            <lg>
+              <head>In Chaucer's Boure.</head>
+              <l>Who is this thilke old bard which wonneth here?</l>
+              <l>This thilke old bard, sirs, is Dan Chaucer:</l>
+              <l>Full gentle knight was he, in very sooth,</l>
+              <l>Albee a little japepish <add>[sic]</add> in his youth.</l>
+              <l>He karoll’d deftly to his new psautry,</l>
+              <l>And eke couth tellen tales of jollity.</l>
+              <l>And sangs of solace, all the livelong day,</l>
+              <l>Soote as the ouzle or throstell in May.</l>
+              <l>Withouten words mo, a merie maker he,</l>
+              <l>Ne hopen I his permagall<note type="footnote">His equal.</note> to see.</l>
+              <l>Ne Johnny Gay, perdie, ne Matthew Prior,</l>
+              <l>In diting tales of pleasaunce couth go higher.</l>
+              <l>Here in this gardyn full of flowers gend,</l>
+              <l>Betwixt this elder-tree and fresh woodbend,</l>
+              <l>He hearkeneth the foules' assemblie,</l>
+              <l>That fro the twigs maken their melodie.</l>
+              <l>Ye pied daisies, spring neath his feet,</l>
+              <l>Who sung so sootly, “The daisy is so sweet:"</l>
+              
+              <milestone unit="page" n="393"/>
+              
+              <l>And whilest, "benedicite," he sings,</l>
+              <l>Ryn little beck, in silver murmurings,</l>
+              <l>O pleasaunt poete, thyselven solace here,</l>
+              <l>And merie be thy heart, old Dan Chaucer.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

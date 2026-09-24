@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p322_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p322_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/36927739">William King</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/36927739">King, William</author>
             <date cert="low" notAfter="1712">[a. 1712]</date>
             <title level="a">Adversaria; or Occasional remarks on men, manners, &amp; books.</title>
           </analytic>

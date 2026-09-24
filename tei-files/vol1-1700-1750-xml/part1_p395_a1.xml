@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p395_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p395_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1748, Unknown. Biographia Britannica,</title>
+        <title>1748, Unknown. Biographia Britannica.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +37,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1748">1748</date>
-            <title level="a">Biographia Britannica,</title>
+            <title level="a">Biographia Britannica.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -87,50 +86,59 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="395"/>
-        <ab type="imprint">1748. Unknown. Biographia Britannica, vol. ii, pp. 1026 [account of W. Bullein, Dialogue, see above, 1564, p. 98], 1229, 1240-1, 1245-6 [Caxton], 1293-1308 [a long article on Chaucer]. For later volumes see below, App. A., 1757 and 1760.</ab>
+        
+        <ab type="imprint">1748. Unknown. <hi rend="italic">Biographia Britannica</hi>, vol. ii, pp. 1026 [account of W. Bullein, Dialogue, see above, 1564, p. 98], 1229, 1240-1, 1245-6 [Caxton], 1293-1308 [a long article on Chaucer]. For later volumes see below, App. A., 1757 and 1760.</ab>
+        
         <ab type="quotation">
           <seg>CHAUCER (Geoffrey) the Father of our English Poets, and
-the first great improver and reformer of our language...
-as he justly obtained the highest admiration amongst his
-contemporaries, so his memory has ever since been highly
-honoured. [Here follow the events of his life in great detail,
-and a statement of the difficulties of getting at the facts about
-it. Sprat, Pits, Leyland, Speght, Dart, Hearne, Ashmole,
-Bale, and others are quoted.]...
-[p. 1305] If we look upon him as an author, he may truly be
-stiled the Father of English Poetry, and perhaps the Prince
-of it, for except the unavoidable defects of language, his
-Works have still all the beauties that can be wished for
-or expected, in every kind of composition. He was not
-unacquainted with the antient rules of Poetry, nor was he
-incapable of writing up to them, as very clearly appears by
-the Knight's Tale, which, as Mr. Dryden very justly says,
-is a finished Epick Poem, but he did not always judge this
-exactness necessary.   . . .
-[p. 1307] We are not however to suppose, that with all these great
-qualifications ['true genius, extensive learning, and a free
-spirit'], Chaucer could entirely escape the fang of false
-criticks... Those who have attacked Chaucer have not
-presumed to question his wit, for of this perhaps no writer of
-our nation ever had more, neither have they disputed his
-poetical abilities, which certainly set his on a level with the
-greatest names in antiquity; nor have they dared to throw
-any aspersion on his learning, the extent of which is not
-greater than the masterly degree of propriety with which it is
-everywhere applied : but the point to which they object, is, his
-changing, debasing, or corrupting our language, by introducing
-foreign words, as if the worth of all languages did not arise
-from their being thus enlarged and compounded...
-. . . . . . . . . . .
-[p. 1308] It is however just to observe, that this reflection never made
-any great impression, and that with the best and most elegant
-writers in our tongue, Chaucer passes not only for a great
-improver, but for the very Father and Founder of it; and it
-is not a little to his honour, that amongst those who are of
-this opinion we may reckon one of the soundest of our Critics
-[Rymer], and one of the correctest writers in our language
-[Sprat].</seg>
-          <note type="footnote">Note in Spurgeon: [See above, 1692, p. 265, Rymer, and 1667, p. 244, Sprat.]</note>
+            the first great improver and reformer of our language . . .
+            as he justly obtained the highest admiration amongst his
+            contemporaries, so his memory has ever since been highly
+            honoured.</seg>
+            
+          <seg type="editorial">[Here follow the events of his life in great detail,
+            and a statement of the difficulties of getting at the facts about
+            it. Sprat, Pits, Leyland, Speght, Dart, Hearne, Ashmole,
+            Bale, and others are quoted.] . . .</seg>
+            
+          <seg><note place="margin">[p. 1305]</note>If we look upon him as an author, he may truly be
+            stiled the Father of English Poetry, and perhaps the Prince
+            of it, for except the unavoidable defects of language, his
+            Works have still all the beauties that can be wished for
+            or expected, in every kind of composition. He was not
+            unacquainted with the antient rules of Poetry, nor was he
+            incapable of writing up to them, as very clearly appears by
+            the <hi rend="italic">Knight's Tale</hi>, which, as Mr. Dryden very justly says,
+            is a finished Epick Poem, but he did not always judge this
+            exactness necessary. . . .</seg>
+            
+          <seg><note place="margin">[p. 1307]</note>We are not however to suppose, that with all these great
+            qualifications <add>['true genius, extensive learning, and a free
+            spirit']</add>, Chaucer could entirely escape the fang of false
+            criticks . . . Those who have attacked Chaucer have not
+            presumed to question his wit, for of this perhaps no writer of
+            our nation ever had more, neither have they disputed his
+            poetical abilities, which certainly set his on a level with the
+            greatest names in antiquity; nor have they dared to throw
+            any aspersion on his learning, the extent of which is not
+            greater than the masterly degree of propriety with which it is
+            everywhere applied : but the point to which they object, is, his
+            changing, debasing, or corrupting our language, by introducing
+            
+            <milestone unit="page" n="396"/>
+            
+            foreign words, as if the worth of all languages did not arise
+            from their being thus enlarged and compounded . . .
+            <lb/>. . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 1308]</note>It is however just to observe, that this reflection never made
+            any great impression, and that with the best and most elegant
+            writers in our tongue, Chaucer passes not only for a great
+            improver, but for the very Father and Founder of it; and it
+            is not a little to his honour, that amongst those who are of
+            this opinion we may reckon one of the soundest of our Critics
+            <add>[Rymer]</add>, and one of the correctest writers in our language
+            <add>[Sprat]</add>.<note type="footnote">Note in Spurgeon: [See above, 1692, p. 265, Rymer, and 1667, p. 244, Sprat.]</note></seg>
         </ab>
       </div>
     </body>

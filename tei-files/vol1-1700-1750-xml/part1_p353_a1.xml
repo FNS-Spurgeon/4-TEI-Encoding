@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p353_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p353_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1720, Unknown. Article on and reprint of the Cuckow and the Nightingale,</title>
+        <title>1720, Unknown. Article on and reprint of the Cuckow and the Nightingale.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +37,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1720">1720</date>
-            <title level="a">Article on and reprint of the Cuckow and the Nightingale,</title>
+            <title level="a">Article on and reprint of the Cuckow and the Nightingale.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,31 +85,32 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="353"/>
-        <ab type="imprint">1720. Unknown. Article on and reprint of the Cuckow and the Nightingale, [in] The Free-Thinker, May 24 and May 27, 1720. Nos. ccxxvii &amp; ccxxviii.</ab>
+        
+        <ab type="imprint">1720. Unknown. <hi rend="italic">Article on and reprint of the Cuckow and the Nightingale</hi>, [in] The Free-Thinker, May 24 and May 27, 1720. Nos. ccxxvii &amp; ccxxviii.</ab>
+        
         <ab type="quotation">
-          <seg>[in] The Free-Thinker, May 24 and May 27, 1720. Nos.
-cexxvii &amp; coxxviii.
-I was not willing to let the present Month, the fairest in
-the whole Circle of the Year, pass over, without entertaining
-my youthful Readers of either Sex, with something suitable
-to the Gayety of the Season. And yet, I should have been
-greatly at a Loss for a proper Entertainment, had not a
-Gentleman whose Knowledge of the Polite Writers in every
-Language is the least of his Commendations, obliged me with
-a Piece of fine Invention out of Chaucer, which is properly a
-very elegant May-poem....
-It is hard to say, whether the copiousness of Chaucer's
-Invention, or the Liveliness of his Imagination, is most to
-be admired throughout his Writings. He flourished above
-Three Hundred Years ago: and yet through the Cloud of
-his antiquated Language, his Images still shine out with
-greater Brightness than those which appear in any of our
-succeeding Poets, if we except Spencer, and Shakespear, and
-Milton. He was a great Master of Perspicuity and Sim¬
-plicity, in all his Narrations; and his Expression is always
-precise to the Justness of his Ideas... Chaucer is, likewise,
-a diligent observer of Nature, whether he deals in Realitie
-or in Fables.</seg>
+          <seg>I was not willing to let the present Month, the fairest in
+            the whole Circle of the Year, pass over, without entertaining
+            my youthful Readers of either Sex, with something suitable
+            to the Gayety of the Season. And yet, I should have been
+            greatly at a Loss for a proper Entertainment, had not a
+            Gentleman whose Knowledge of the Polite Writers in every
+            Language is the least of his Commendations, obliged me with
+            a Piece of fine Invention out of Chaucer, which is properly a
+            very elegant <hi rend="italic">May-poem</hi> . . . .</seg>
+            
+          <seg>It is hard to say, whether the copiousness of Chaucer's
+            Invention, or the Liveliness of his Imagination, is most to
+            be admired throughout his Writings. He flourished above
+            Three Hundred Years ago: and yet through the Cloud of
+            his antiquated Language, his Images still shine out with
+            greater Brightness than those which appear in any of our
+            succeeding Poets, if we except Spencer, and Shakespear, and
+            Milton. He was a great Master of Perspicuity and Simplicity,
+            in all his Narrations; and his Expression is always
+            precise to the Justness of his Ideas . . . Chaucer is, likewise,
+            a diligent observer of Nature, whether he deals in Realitie
+            or in Fables.</seg>
         </ab>
       </div>
     </body>

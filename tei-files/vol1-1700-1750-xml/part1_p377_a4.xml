@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p377_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p377_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1736, John Byrom. Shorthand Journal</title>
+        <title>1736, John Byrom. Shorthand Journal.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/52488399">John Byrom</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/52488399">Byrom, John</author>
             <date cert="high" when="1736">1736</date>
-            <title level="a">Shorthand Journal</title>
+            <title level="a">Shorthand Journal.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,11 +83,13 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="377"/>
-        <ab type="imprint">1736. Byrom, John. Shorthand Journal [for May 22, 1736, printed in] The Private Journal and Literary Remains of John Byrom... ed. Richard Parkinson, Chetham Soc., 1856, vol. ii, part i, pp.48-9.</ab>
+        
+        <ab type="imprint">1736. Byrom, John. <hi rend="italic">Shorthand Journal</hi> [for May 22, 1736, printed in] The Private Journal and Literary Remains of John Byrom . . . ed. Richard Parkinson, Chetham Soc., 1856, vol. ii, part i, pp.48-9.</ab>
+        
         <ab type="quotation">
-          <seg>... Went with Taylor White to his room, where he
-desired me to write out of Chaucer the character of a good
-parson, which I did, and he desired I would put it into verse.</seg>
+          <seg>. . . Went with Taylor White to his room, where he
+            desired me to write out of Chaucer the character of a good
+            parson, which I did, and he desired I would put it into verse.</seg>
         </ab>
       </div>
     </body>

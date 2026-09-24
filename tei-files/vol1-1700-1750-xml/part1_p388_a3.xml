@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p388_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p388_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1740, Vorio, pseud.. Verses occasioned by the Translation of Chaucer in your last Magazine</title>
+        <title>1740, Vorio, pseud. Verses occasioned by the Translation of Chaucer in your last Magazine.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +37,7 @@
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/">Vorio, pseud.</author>
             <date cert="high" when="1740">1740</date>
-            <title level="a">Verses occasioned by the Translation of Chaucer in your last Magazine</title>
+            <title level="a">Verses occasioned by the Translation of Chaucer in your last Magazine.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,20 +83,26 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="388"/>
-        <ab type="imprint">1740. Vorio, pseud. Verses occasioned by the Translation of Chaucer in your last Magazine [in] The Gentleman’s Magazine, Sept. 1740, vol. x, p. 463. [Cambuscan, see above, 1740, Alcaeus, p. 387.]</ab>
+        
+        <ab type="imprint">1740. Vorio, pseud. <hi rend="italic">Verses occasioned by the Translation of Chaucer in your last Magazine</hi> [in] The Gentleman’s Magazine, Sept. 1740, vol. x, p. 463. [Cambuscan, see above, 1740, Alcaeus, p. 387.]</ab>
+        
         <ab type="quotation">
-          <seg>Æson (says Ovid in his book)
-Medea takes in hand to cook,
-Him in a kettle first she fixes,
-Then powerful charms and juices mixes,
-Till warm’d all over up he sprung,
-Danc'd with his daughter and was young!
-Such Chaucer seems.— The Muse ordains
-This fate should mark his endless strains:
-That future bards who read his page,
-Shall spread his praise from age to age,
-Not by their own inferior thought,
-But by restoring what he wrote!</seg>
+          <seg>
+            <lg>
+              <l>Æson (says Ovid in his book)</l>
+              <l>Medea takes in hand to cook,</l>
+              <l>Him in a kettle first she fixes,</l>
+              <l>Then powerful charms and juices mixes,</l>
+              <l>Till warm’d all over up he sprung,</l>
+              <l>Danc'd with his daughter and was young!</l>
+              <l>Such Chaucer seems.—The Muse ordains</l>
+              <l>This fate should mark his endless strains:</l>
+              <l>That future bards who read his page,</l>
+              <l>Shall spread his praise from age to age,</l>
+              <l>Not by their own inferior thought,</l>
+              <l>But by restoring what he wrote!</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

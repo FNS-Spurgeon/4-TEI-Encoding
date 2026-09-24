@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p326_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p326_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +86,7 @@
       <div type="allusion">
         <milestone unit="page" n="326"/>
         
-        <ab type="imprint">1713. Gay, John. <hi rend="italic">The Wife of Bath, a comedy</hi>,... by Mr. Gay. 1713.</ab>
+        <ab type="imprint">1713. Gay, John. <hi rend="italic">The Wife of Bath, a comedy</hi>, . . . by Mr. Gay. 1713.</ab>
         
         <ab type="quotation">
           <seg>
@@ -110,20 +109,31 @@
           <milestone unit="page" n="327"/>
           
           <seg>Dramatis Personæ.
-            <lb/>Men.
-            <lb/>Chaucer.
-            <lb/>Doggrell.
-            <lb/>Franklyn, a Rich Yeoman of Kent.
-            <lb/>Doublechin, a Monk.
-            <lb/>Merit in Love with Florinda.
-            <lb/>Astrolabe, an Astrologer.
-            <lb/>Antony, William, Servants to Franklyn.
-            <lb/>A Drawer.
-            <lb/>Women.
-            <lb/>Myrtilla, a Lady of Quality.
-            <lb/>Florinda, Franklyn’s Daughter.
-            <lb/>Alison, the Wife of Bath.
-            <lb/>Busie, Myrtilla's Woman.
+            <list>
+              <item>
+                Men.
+                <list>
+                  <item>Chaucer.</item>
+                  <item>Doggrell.</item>
+                  <item>Franklyn, a Rich Yeoman of Kent.</item>
+                  <item>Doublechin, a Monk.</item>
+                  <item>Merit in Love with Florinda.</item>
+                  <item>Astrolabe, an Astrologer.</item>
+                  <item>Antony, William, Servants to Franklyn.</item>
+                  <item>A Drawer.</item>
+                </list>
+              </item>
+            
+              <item>
+                Women.
+                <list>
+                  <item>Myrtilla, a Lady of Quality.</item>
+                  <item>Florinda, Franklyn’s Daughter.</item>
+                  <item>Alison, the Wife of Bath.</item>
+                  <item>Busie, Myrtilla's Woman.</item>
+                </list>
+              </item>
+            </list>
             <lb/>Scene, an Inn lying in the Road between London and Canterbury.</seg>
             
           <seg><note place="margin">[Act i, sc. 1, sign. B 2]</note>Frank. You must know, Sir, that we came thus far with

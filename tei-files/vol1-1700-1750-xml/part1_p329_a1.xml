@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p329_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p329_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,9 +87,9 @@
         <ab type="imprint">1713. [Oldmixon, John?] <hi rend="italic">Note to The Salisbury Ballad: with curious, learned and critical notes by Dr. Walter Pope</hi>. London. Printed in the year 1713 [in] Poems and translations by Several Hands . . . printed for J. Pemberton . . . 1714, p. 8. [The sub-title runs] The Salisbury Ballad With the Learned Commentaries of a friend to the Author's memory. [The dedication to the whole collection is signed by John Oldmixon, who was probably the author of these notes.]</ab>
         
         <ab type="quotation">
-          <seg><add>[Text]</add>With a Cup of Old Sack he'll wind up his *Jack.
+          <seg><add>[Text]</add> With a Cup of Old Sack he'll wind up his *Jack.
             
-          <seg><add>[Note]</add>*His Engine wherewith he makes Verses. So CHAUCER.</seg>
+          <seg><add>[Note]</add> *His Engine wherewith he makes Verses. So CHAUCER.</seg>
             <lg>
               <l>‘As Winding up makes a Jack go,</l>
               <l>So good Wine makes good Verses flow.’</l>

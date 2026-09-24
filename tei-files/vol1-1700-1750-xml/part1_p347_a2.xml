@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p347_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p347_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1718, George Sewell. The Proclamation of Cupid, or, a Defence of Women, a poem from Chaucer,</title>
+        <title>1718, George Sewell. The Proclamation of Cupid, or, a Defence of Women, a poem from Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54200956">George Sewell</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/54200956">Sewell, George</author>
             <date cert="high" when="1718">1718</date>
-            <title level="a">The Proclamation of Cupid, or, a Defence of Women, a poem from Chaucer,</title>
+            <title level="a">The Proclamation of Cupid, or, a Defence of Women, a poem from Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,68 +85,84 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="347"/>
-        <ab type="imprint">1718. Sewell, George. The Proclamation of Cupid, or, a Defence of Women, a poem from Chaucer, by Mr. Sewell. London.. 1718 [a folio pamphlet of 20 pp.]. Sign. *ab., a and ab.</ab>
+        
+        <ab type="imprint">1718. Sewell, George. <hi rend="italic">The Proclamation of Cupid, or, a Defence of Women, a poem from Chaucer</hi>, by Mr. Sewell. London.. 1718 [a folio pamphlet of 20 pp.]. Sign. *ab., a and ab.</ab>
+        
         <ab type="quotation">
-          <seg>To the LADIES.
-To You, bright British Fair, whom she defends,
-The Muse her undesigning Verse commends:
-Smile, while She makes old Chaucer plead your Cause;
-It is no Crime to give the Dead Applause,
-For never Man, nor even Woman yet
-Made lewd Constructions on a buried Wit.
-If Graves and Tombstones don't offend your Ears,
-He has been shrowded–full three hundred Years;
-And now returns to shame this graceless Age,
-Who Libel Woman from the Press, and Stage:...
- . . . . . . . . .
-Our Bard, who if from Picture we may trace,
-Had Strength, and Vigour, and an English Face,
-Scorn'd the Design of Nature’s Gifts to spoil,
-And damn his comely Person by his Stile.
-He knew, whate’er might be his secret Thoughts
-The Sex too well, to tell them half their Faults,
-Not that he flatter'd them, and gave Pretence
-To those he courted, to suspect his Sense.
- . . . . . . . . .
-Chaucer, who shuns the Folly of Extremes,
-With Wit and Truth records these common Themes;
-Not wholly to the Fair devotes his Pen,
-But wisely turns the Satyr on the Men:
-Their Arts, their Stratagems at large displays,
-And telling them, gives Woman silent Praise.
-. . . . . . . . .
-The Preface.
-[sign. a] This Poem is generally admired by those who can taste it
-in the obsolete Language of the Author, which inclin'd me to
-believe it would not be unpleasing in a Modern Dress, the
-Subject being adapted to all Times, Humours, and almost every
-Stage of Life:...
-Chaucer knew the State of the Case between the Sexes as
-well as the best Poets of any Age, and in this Piece has
-plainly shewn what a Master he was of Human Nature:...
-[sign. a b] I must not dissemble that in some Editions of Chaucer this
-Work is attributed to Thomas Occleve a Scholar of his, and is
-said to have bore [sic] this Title, A Treatise of the Conversation
-of Men and Women in the little Island of Albion. But this in
-all Probability is a mere Fiction; the Title indeed might be
-added by Occleve, but Leland positively ascribes Epistolam
-Cupidinis to Chaucer, and reckons it among his genuine Pieces.
-What makes this more probable is, that Chaucer refers to his
-Legend of Good Women in this Poem, and to the Romaunt of
-the Rose, which he translated from the French of John de
-Mohun. I know the common Story of Occleve's Recantation,
-but I believe this Authority enough to overballance that;
-beside that Chaucer in his Praise of Woman has much the
-Same Thoughts, and goes upon the same Topicks as in this
-Letter of Cupid’s.
-I cannot call this Attempt of Mine an Imitation, for though
-I have commonly had the Poet’s Scheme in my Eye, yet I
-have very often taken the Liberty of grafting upon his Stock,
-where I fancied it would bear it without forcing Nature too
-much. As to the Design, No one ought to be offended since
-the Satyr is pretty equally dealt on each Hand; there is
-Severity, but the Severity of a Court-Poet; much Wit and
-more good Manners. This I speak of the Original...</seg>
+          <seg>
+            <lg>
+              <head>To the LADIES.</head>
+              <l>To You, bright British Fair, whom she defends,</l>
+              <l>The Muse her undesigning Verse commends:</l>
+              <l>Smile, while She makes old Chaucer plead your Cause;</l>
+              <l>It is no Crime to give the Dead Applause,</l>
+              <l>For never Man, nor even Woman yet</l>
+              <l>Made lewd Constructions on a buried Wit.</l>
+              <l>If Graves and Tombstones don't offend your Ears,</l>
+              <l>He has been shrowded—full three hundred Years;</l>
+              <l>And now returns to shame this graceless Age,</l>
+              <l>Who Libel Woman from the Press, and Stage: . . .</l>
+            </lg>
+            . . . . . . . . .
+            <lg>
+              <l>Our Bard, who if from Picture we may trace,</l>
+              <l>Had Strength, and Vigour, and an English Face,</l>
+              <l>Scorn'd the Design of Nature’s Gifts to spoil,</l>
+              <l>And damn his comely Person by his Stile.</l>
+              <l>He knew, whate’er might be his secret Thoughts</l>
+              <l>The Sex too well, to tell them half their Faults,</l>
+              
+              <milestone unit="page" n="348"/>
+              
+              <l>Not that he flatter'd them, and gave Pretence</l>
+              <l>To those he courted, to suspect his Sense.</l>
+            </lg>
+            . . . . . . . . .
+            <lg>
+              <l>Chaucer, who shuns the Folly of Extremes,</l>
+              <l>With Wit and Truth records these common Themes;</l>
+              <l>Not wholly to the Fair devotes his Pen,</l>
+              <l>But wisely turns the Satyr on the Men:</l>
+              <l>Their Arts, their Stratagems at large displays,</l>
+              <l>And telling them, gives Woman silent Praise.</l>
+            </lg>
+            . . . . . . . . .
+          </seg>
+            
+          <seg>The Preface.
+              <note place="margin">[sign. a]</note><lb/>This Poem is generally admired by those who can taste it
+              in the obsolete Language of the Author, which inclin'd me to
+              believe it would not be unpleasing in a Modern Dress, the
+              Subject being adapted to all Times, Humours, and almost every
+              Stage of Life: . . .</seg>
+            
+          <seg>Chaucer knew the State of the Case between the Sexes as
+            well as the best Poets of any Age, and in this Piece has
+            plainly shewn what a Master he was of Human Nature: . . .</seg>
+            
+          <seg><note place="margin">[sign. a b]</note>I must not dissemble that in some Editions of Chaucer this
+            Work is attributed to Thomas Occleve a Scholar of his, and is
+            said to have bore [sic] this Title, <hi rend="italic">A Treatise of the Conversation
+            of Men and Women in the little Island of Albion</hi>. But this in
+            all Probability is a mere Fiction; the Title indeed might be
+            added by Occleve, but Leland positively ascribes <hi rend="italic">Epistolam
+            Cupidinis</hi> to Chaucer, and reckons it among his genuine Pieces.
+            What makes this more probable is, that Chaucer refers to his
+            Legend of Good Women in this Poem, and to the <hi rend="italic">Romaunt of
+            the Rose</hi>, which he translated from the French of John de
+            Mohun. I know the common Story of Occleve's Recantation,
+            but I believe this Authority enough to overballance that;
+            beside that Chaucer in his <hi rend="italic">Praise of Woman</hi> has much the
+            Same Thoughts, and goes upon the same Topicks as in this
+            <hi rend="italic">Letter of Cupid’s</hi>.
+            <lb/>I cannot call this Attempt of Mine an Imitation, for though
+            I have commonly had the Poet’s Scheme in my Eye, yet I
+            have very often taken the Liberty of grafting upon his Stock,
+            where I fancied it would bear it without forcing Nature too
+            much. As to the Design, No one ought to be offended since
+            the Satyr is pretty equally dealt on each Hand; there is
+            Severity, but the Severity of a Court-Poet; much Wit and
+            more good Manners. This I speak of the Original . . .</seg>
         </ab>
       </div>
     </body>

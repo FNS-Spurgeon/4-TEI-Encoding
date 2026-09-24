@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p376_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p376_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1735, Thomas Hearne. Appendix ad Præfationem. The Publishers Addition to the Account of Dr. Borde in Athenæ Oxon:</title>
+        <title>1735, Thomas Hearne. Appendix ad Præfationem. The Publishers Addition to the Account of Dr. Borde in Athenæ Oxon.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/29543710">Thomas Hearne</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/29543710">Hearne, Thomas</author>
             <date cert="high" when="1735">1735</date>
-            <title level="a">Appendix ad Præfationem. The Publishers Addition to the Account of Dr. Borde in Athenæ Oxon:</title>
+            <title level="a">Appendix ad Præfationem. The Publishers Addition to the Account of Dr. Borde in Athenæ Oxon.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,15 +83,20 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="376"/>
-        <ab type="imprint">1735. Hearne, Thomas. Appendix ad Præfationem. The Publishers Addition to the Account of Dr. Borde in Athenæ Oxon: [in] Benedictus Abbas Petroburgensis, De Vita et Gestis Henrici II et Ricardi I [ed. T. Hearne], vol. i, pp. lv-lvi. Robert Burton being so curious and diligent in collecting judicious and merry little pieces, 'tis no wonder, that he procured likewise Dʳ Borde’s right pleasant and merry history of the Mylner of Abington. ... ’Tis probable Dʳ Borde took the hint of this merry piece from Chaucer's Reve's Tale, with which it ought by such as have opportunity to be compared, to see, whether it be not, in great measure, the same.</ab>
+        
+        <ab type="imprint">1735. Hearne, Thomas. <hi rend="italic">Appendix ad Præfationem. The Publishers Addition to the Account of Dr. Borde in Athenæ Oxon</hi>: [in] Benedictus Abbas Petroburgensis, De Vita et Gestis Henrici II et Ricardi I [ed. T. Hearne], vol. i, pp. lv-lvi.</ab>
+        
         <ab type="quotation">
           <seg>Robert Burton being so curious and diligent in collecting
-judicious and merry little pieces, 'tis no wonder, that he pro¬
-cured likewise Dʳ Borde’s right pleasant and merry history of
-the Mylner of Abington.  ... ’Tis probable Dʳ Borde took
-the hint of this merry piece from Chaucer's Reve's Tale, with
-which it ought by such as have opportunity to be compared,
-to see, whether it be not, in great measure, the same.</seg>
+            judicious and merry little pieces, 'tis no wonder, that he
+            procured likewise Dʳ Borde’s right pleasant and merry history of
+            
+            <milestone unit="page" n="377"/>
+            
+            the Mylner of Abington. . . . ’Tis probable Dʳ Borde took
+            the hint of this merry piece from <hi rend="italic">Chaucer's Reve's Tale</hi>, with
+            which it ought by such as have opportunity to be compared,
+            to see, whether it be not, in great measure, the same.</seg>
         </ab>
       </div>
     </body>

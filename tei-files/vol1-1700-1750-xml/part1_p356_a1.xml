@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p356_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p356_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/34497937">Nathan Bailey</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/34497937">Bailey, Nathan</author>
             <date cert="high" when="1721">1721</date>
             <title level="a">An Universal Etymological Dictionary.</title>
           </analytic>
@@ -84,11 +83,12 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="356"/>
-        <ab type="imprint">1721. Bailey, Nathan. An Universal Etymological Dictionary. </ab>
+        
+        <ab type="imprint">1721. Bailey, Nathan. <hi rend="italic">An Universal Etymological Dictionary</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>[Occasional references to Chaucer, e. g. Abedge. Chatterton
-is known to have used Bailey’s Dictionary; see below, a. 1770,
-p. 433.]</seg>
+          <seg type="editorial">[Occasional references to Chaucer, e. g. Abedge. Chatterton
+            is known to have used Bailey’s Dictionary; see below, a. 1770, p. 433.]</seg>
         </ab>
       </div>
     </body>

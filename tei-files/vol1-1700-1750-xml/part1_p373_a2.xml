@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p373_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p373_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1730, Edward Young. Two Epistles to Mr. Pope.</title>
+        <title>[c. 1730, Edward Young]. Two Epistles to Mr. Pope.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,8 +35,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/49252592">Edward Young</author>
-            <date cert="low" when="[c. 1730">[c. 1730</date>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/49252592">Young, Edward</author>
+            <date cert="low" when="1730">[c. 1730]</date>
             <title level="a">Two Epistles to Mr. Pope.</title>
           </analytic>
           <monogr>
@@ -84,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="373"/>
-        <ab type="imprint">[c. 1730. Young, Edward.] Two Epistles to Mr. Pope. See below, App.A.</ab>
+        
+        <ab type="imprint">[c. 1730. Young, Edward.] <hi rend="italic">Two Epistles to Mr. Pope</hi>. See below, App.A.</ab>
       </div>
     </body>
   </text>

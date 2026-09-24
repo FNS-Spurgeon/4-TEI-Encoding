@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p402_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p402_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1750], Unknown. Verses [in] Holkham MS. 667, Canterbury Tales,</title>
+        <title>[c. 1750], Unknown. Verses [in] Holkham MS. 667, Canterbury Tales.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,8 +36,8 @@
         <biblStruct>
           <analytic>
             <author>Unknown</author>
-            <date cert="low" when="[c. 1750]">[c. 1750]</date>
-            <title level="a">Verses [in] Holkham MS. 667, Canterbury Tales,</title>
+            <date cert="low" when="1750">[c. 1750]</date>
+            <title level="a">Verses [in] Holkham MS. 667, Canterbury Tales.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,12 +83,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="402"/>
-        <ab type="imprint">[c. 1750.] Unknown. Verses [in] Holkham MS. 667, Canterbury Tales, imperfect. In the blank 2nd column of fol. 42 (which has its back blank too) is written in an 18th century text hand:</ab>
+        
+        <ab type="imprint">[c. 1750.] Unknown. <hi rend="italic">Verses</hi> [in] <hi rend="italic">Holkham MS. 667, Canterbury Tales</hi>, imperfect. In the blank 2nd column of fol. 42 (which has its back blank too) is written in an 18th century text hand:</ab>
+        
         <ab type="quotation">
-          <seg>Poetes haue licence, tis no matter what they write
-be it good or bad for both they doe recite
-Old Chaucer here hath kept as even a straine
-twixt good and bad that alle comend his vaine.</seg>
+          <seg>
+            <lg>
+              <l>Poetes haue licence, tis no matter what they write</l>
+              <l>be it good or bad for both they doe recite</l>
+              <l>Old Chaucer here hath kept as even a straine</l>
+              <l>twixt good and bad that alle comend his vaine.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

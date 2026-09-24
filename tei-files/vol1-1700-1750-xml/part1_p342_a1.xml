@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p342_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p342_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1715-16, Thomas Hearne. Letters (1) to William Brome</title>
+        <title>1715|16, Thomas Hearne. Letters.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/29543710">Thomas Hearne</author>
-            <date cert="high" when="1715-16">1715-16</date>
-            <title level="a">Letters (1) to William Brome</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/29543710">Hearne, Thomas</author>
+            <date cert="high" when="1716" when-custom="1715">1715|16</date>
+            <title level="a">Letters.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,39 +83,47 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="342"/>
-        <ab type="imprint">1715-16. Hearne, Thomas. Letters (1) to William Brome (MS. Rawl. Lett. 13, f. 141), (2) to Hans Sloane (MS. Rawl. Lett. 39, f. 80), both dated Feb. 28, 1715-16, (3) to James Sotheby (MS. Rawl. Lett. 16, f. 92) dated March 1, 1715-16, (4) to Thomas Rawlinson, (MS. Rawl. Lett. 33, f. 16), dated March 13, 1715-16, [abstracts in] Remarks and Collections of T. Hearne, Oxford Hist. Soc., vol. v, ed. D. W. Rannie, 1901, pp. 178-9, 182.</ab>
+        
+        <ab type="imprint">1715|16. Hearne, Thomas. <hi rend="italic">Letters</hi> (1) to William Brome (MS. Rawl. Lett. 13, f. 141), (2) to Hans Sloane (MS. Rawl. Lett. 39, f. 80), both dated Feb. 28, 1715|16, (3) to James Sotheby (MS. Rawl. Lett. 16, f. 92) dated March 1, 1715|16, (4) to Thomas Rawlinson, (MS. Rawl. Lett. 33, f. 16), dated March 13, 1715-16, [abstracts in] Remarks and Collections of T. Hearne, Oxford Hist. Soc., vol. v, ed. D. W. Rannie, 1901, pp. 178-9, 182.</ab>
+        
         <ab type="quotation">
-          <seg>[To W. Brome] Feb. 28 ... Sir, I recᵈ yesterday Dʳ.
-Sloane’s two MSS. that were in Dʳ. Terry's Hands, and have
-left a note of them with Him. I have sent them this day to
-Dʳ. Sloane. At the same time Dʳ. Terry deliver'd me Mʳ.
-Bagford’s Copy of Caxton’s Ed... Dʳ. Terry hath not Mʳ.
-[Thomas] Rawlinson’s Copy, at least he does not find it. I
-remember yᵗ it was a small old MS: but I did not take down
-the Title, and have no other note abᵗ it then this, viz. June
-16ᵗʰ (Mond.) 1712. Recᵈ, of Mʳ. Rawlinson a Chaucer for
-Mʳ Urry, wᶜʰ I delivered to Mʳ. Urry the same day. I
-took no note for it of Mʳ. Urry. I hope you will be able
-to find it. I will write abᵗ it to Mʳ. Rawlinson himself, who
-perhaps can recover the Title. I am, Sir,...
-[To H. Sloane] Feb. 28... Honʳᵈ, Sir, I have at last
-heard from Mʳ. Brome, and yesterday Dʳ. Terry delivered me
-your two Chaucers, viz. (1) The works of G. Chaucer Lond.
-1598. in fol. mark’d P. 150. (2) Tractatus Astrologico
-Magicus, with a discourse written by Sʳ. G. Chaucers own
-hand of the Astrolabe mark’d MS. 378. in 4°.—I sent them to
-you by this day's waggon yᵗ sets up at yᵉ Oxford Arms. I
-formerly sent you the Conclusion of yᵉ Astrolabe by G.
-Chaucer mark'd MS. 324. in fol. so yᵗ now you have all yᵗ
-you was pleased to lend Mʳ. Urry. I hope the two I now
-send may come safe, and I am,...
-[To James Sotheby] Mar. 1.  ... Tell Mʳ. Bagford I have
-procured his Copy of Chaucer of Caxton's Ed.
-[To Thomas Rawlinson] Mar. 13.  . . . Be pleased to send
-me the Title of the little MS. that you lent Mʳ. Urry, I cannot
-otherwise procure it for you. I did not put it down. And I
-do not find yᵗ they are very ready to return Books unless the
-Titles can be given them distinctly.</seg>
+          <seg><add>[To W. Brome]</add> Feb. 28 . . . Sir, I recᵈ yesterday Dʳ.
+            Sloane’s two MSS. that were in Dʳ. Terry's Hands, and have
+            left a note of them with Him. I have sent them this day to
+            Dʳ. Sloane. At the same time Dʳ. Terry deliver'd me Mʳ.
+            Bagford’s Copy of Caxton’s Ed. . . Dʳ. Terry hath not Mʳ.
+            <add>[Thomas]</add> Rawlinson’s Copy, at least he does not find it. I
+            remember yᵗ it was a small old MS: but I did not take down
+            the Title, and have no other note abᵗ it then this, viz. June
+            16ᵗʰ (Mond.) 1712. Recᵈ, of Mʳ. Rawlinson a Chaucer for
+            Mʳ Urry, wᶜʰ I delivered to Mʳ. Urry the same day. I
+            took no note for it of Mʳ. Urry. I hope you will be able
+            to find it. I will write abᵗ it to Mʳ. Rawlinson himself, who
+            perhaps can recover the Title. I am, Sir, . . .</seg>
+            
+          <seg><add>[To H. Sloane]</add> Feb. 28 . . . Honʳᵈ, Sir, I have at last
+            heard from Mʳ. Brome, and yesterday Dʳ. Terry delivered me
+            your two Chaucers, viz. (1) The works of G. Chaucer Lond.
+            1598. in fol. mark’d P. 150. (2) Tractatus Astrologico
+            Magicus, with a discourse written by Sʳ. G. Chaucers own
+            hand of the Astrolabe mark’d MS. 378. in 4°.—I sent them to
+            you by this day's waggon yᵗ sets up at yᵉ Oxford Arms. I
+            formerly sent you the Conclusion of yᵉ Astrolabe by G.
+            Chaucer mark'd MS. 324. in fol. so yᵗ now you have all yᵗ
+            you was pleased to lend Mʳ. Urry. I hope the two I now
+            send may come safe, and I am, . . .</seg>
+            
+          <seg><add>[To James Sotheby]</add> Mar. 1. . . . Tell Mʳ. Bagford I have
+            procured his Copy of Chaucer of Caxton's Ed.</seg>
+            
+          <seg><add>[To Thomas Rawlinson]</add> Mar. 13. . . . Be pleased to send
+            me the Title of the little MS. that you lent Mʳ. Urry, I cannot
+            
+            <milestone unit="page" n="343"/>
+            
+            otherwise procure it for you. I did not put it down. And I
+            do not find yᵗ they are very ready to return Books unless the
+            Titles can be given them distinctly.</seg>
         </ab>
       </div>
     </body>

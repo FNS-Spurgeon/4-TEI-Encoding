@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p374_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p374_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1732], Thomas Herbert, 8th Earl of Pembroke. MS. Notes</title>
+        <title>[a. 1732], Thomas Herbert Earl of Pembroke. MS. Notes.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/64332676">Thomas Herbert, 8th Earl of Pembroke</author>
-            <date cert="low" when="[a. 1732]">[a. 1732]</date>
-            <title level="a">MS. Notes</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/64332676">Pembroke, Thomas Herbert, Earl of.</author>
+            <date cert="low" notAfter="1732">[a. 1732]</date>
+            <title level="a">MS. Notes.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,15 +83,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="374"/>
-        <ab type="imprint">[a. 1732]. Herbert, Thomas, 8th Earl of Pembroke [d. 1733]. MS. Notes [in] The Book of Miscellanies, [printed at S. Albans].</ab>
+        
+        <ab type="imprint">[a. 1732]. Herbert, Thomas, 8th Earl of Pembroke [d. 1733]. <hi rend="italic">MS. Notes</hi> [in] The Book of Miscellanies, [printed at S. Albans].</ab>
+        
         <ab type="quotation">
-          <seg>[In a second edn. of this book, printed by Winkyn de
-Worde in 1529, there is] the Nut brown maid, suppos'd by
-Chaucer, as Skelton confirms, by having had a copy given him
-by Lidgate... Mr. Prior has made a paraphrase on it, and
-has also printed it from the old English but knew not that
-it was by Chaucer. [Quoted by Samuel Palmer, q.v., imme¬
-diately below.]</seg>
+          <seg><add>[In a second edn. of this book, printed by Winkyn de
+            Worde in 1529, there is]</add> the <hi rend="italic">Nut brown maid</hi>, suppos'd by
+            Chaucer, as Skelton confirms, by having had a copy given him
+            by Lidgate . . . Mr. Prior has made a paraphrase on it, and
+            has also printed it from the old English but knew not that
+            it was by Chaucer.</seg>
+          
+          <seg type="editorial">[Quoted by Samuel Palmer, q.v., immediately below.]</seg>
         </ab>
       </div>
     </body>

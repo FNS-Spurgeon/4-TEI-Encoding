@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p333_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p333_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -101,13 +100,13 @@
             <lb/>The Dean &amp; Chapter and Mʳ. Brome to Deliver to Lintot
             a Compleat Copy of Chaucer &amp; Glossary &amp; to Correct yᵉ same
             or get a person to Correct it at their Charge.
-            <lb/><note>R.P. 250<lb/>S.P.1000<lb/>1250</note>Mʳ. Lintot to print off 1250 Copys on Royal papʳ &amp; Demy
+            <lb/><note place="margin">R.P. 250<lb/>S.P.1000<lb/>1250</note>Mʳ. Lintot to print off 1250 Copys on Royal papʳ &amp; Demy
             the No of each papʳ to be determined by yᵉ parties before
             the Printing begins. Mʳ. L. to be at the Charge of printing
             Proposals and Recᵗˢ and if the Subscription exceed 1250,
             He is at his Charge to furnish Copys so they do not exceed
-            1500, Mr. L. being to have of the produce of the Subscrip¬
-            tion Books.
+            1500, Mr. L. being to have of the produce of the Subscription
+            Books.
             <lb/>If the Subscriptions do not amount to 1250 Then such
             Books are <add>[as?]</add> remain to be Disposed of to Booksellers &amp; the
             Produce to be equally Divided between the Three partys.
@@ -127,8 +126,8 @@
             nor wittingly or willingly suffer to be printed any more than
             1500 Copys as above without Consent of the rest of the
             Partys, nor print or suffer to be printed the sᵈ Work, or any
-            part thereof in any manner then as aforesᵈ, untill this Agree¬
-            ment be in all respects fulfilled &amp; Compleated.
+            part thereof in any manner then as aforesᵈ, untill this
+            Agreement be in all respects fulfilled &amp; Compleated.
             <lb/>If any Difference arise, the parties to be Determined by
             Mʳ. Arthur Trevor &amp; Dʳ. Henry Levet.
             

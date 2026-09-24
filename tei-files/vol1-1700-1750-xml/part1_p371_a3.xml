@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p371_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p371_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1780], Wotyx, W.. A Familiar Epistle from the Shades below giving an Account of the Station of the Poets</title>
+        <title>[a. 1730], W. Wotyx. A Familiar Epistle from the Shades below giving an Account of the Station of the Poets.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,8 +36,8 @@
         <biblStruct>
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/">Wotyx, W.</author>
-            <date cert="low" when="[a. 1780]">[a. 1780]</date>
-            <title level="a">A Familiar Epistle from the Shades below giving an Account of the Station of the Poets</title>
+            <date cert="low" notAfter="1730">[a. 1730]</date>
+            <title level="a">A Familiar Epistle from the Shades below giving an Account of the Station of the Poets.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,23 +83,34 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="371"/>
-        <ab type="imprint">[a. 1780.] Wotyx, W. A Familiar Epistle from the Shades below giving an Account of the Station of the Poets [in] The Shrubs of Parnassus ... by J. Copywell, of Lincoln’s Inn Esq., 1760, pp. 129-130 [The above poem is preceded by this note:] The three following [poems] were written many years since by — Esq; (lately deceased). [It is signed] Parnassus, Sept. 7,1730. [See below, c. 1833, Haslewood’s Collections.]</ab>
+        
+        <ab type="imprint">[a. 1730.] Wotyx, W. <hi rend="italic">A Familiar Epistle from the Shades below giving an Account of the Station of the Poets</hi> [in] The Shrubs of Parnassus . . . by J. Copywell, of Lincoln’s Inn Esq., 1760, pp. 129-130 [The above poem is preceded by this note:] The three following [poems] were written many years since by—Esq; (lately deceased). [It is signed] Parnassus, Sept. 7,1730. [See below, c. 1833, Haslewood’s Collections.]</ab>
+        
         <ab type="quotation">
-          <seg>The Poets, both Grecian and Roman of old,
-Of whom we so many fine things have been told,
-Live here in great state, are Grandees of the Court
-To whom all the Moderns most humbly resort.
-Yet few find admittance, or favour with those,
-So poor their appearance, so shabby their cloaths:
-Some, indeed, a small pittance, or place, may obtain;
-But the rest are a sad ragged crew in the main:
- . . . . . . . . .
-Old Chaucer and Drayton I found in good plight,
-And Shakespear and Spencer appear pretty tight,
-They ve each a small freehold, tho' troth bounded in sore,
-And live not unlike to our poor Knights of Windsor.
-Ben Johnson sells ale on the side o' the hill,
-And Beaumont and Fletcher go halves in a mill.</seg>
+          <seg>
+            <lg>
+              <l>The Poets, both Grecian and Roman of old,</l>
+              <l>Of whom we so many fine things have been told,</l>
+              <l>Live here in great state, are Grandees of the Court</l>
+              <l>To whom all the Moderns most humbly resort.</l>
+            
+              <milestone unit="page" n="372"/>
+            
+              <l>Yet few find admittance, or favour with those,</l>
+              <l>So poor their appearance, so shabby their cloaths:</l>
+              <l>Some, indeed, a small pittance, or place, may obtain;</l>
+              <l>But the rest are a sad ragged crew in the main:</l>
+            </lg>
+             . . . . . . . . .
+            <lg>
+              <l>Old Chaucer and Drayton I found in good plight,</l>
+              <l>And Shakespear and Spencer appear pretty tight,</l>
+              <l>They ve each a small freehold, tho' troth bounded in sore,</l>
+              <l>And live not unlike to our poor Knights of Windsor.</l>
+              <l>Ben Johnson sells ale on the side o' the hill,</l>
+              <l>And Beaumont and Fletcher go halves in a mill.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

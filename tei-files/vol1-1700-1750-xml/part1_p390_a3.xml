@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p390_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p390_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/59225563">Franciscus Junius</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/59225563">Junius, Franciscus</author>
             <date cert="high" when="1743">1743</date>
             <title level="a">Etymologicum Anglicanum.</title>
           </analytic>
@@ -84,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="390"/>
-        <ab type="imprint">1743. Junius, Franciscus, the younger. Etymologicum Anglicanum. [Continual references to Chaucer. Amongst others] ARSENICKE, sig. E.2. BALE, sig. G. WARRY, sig. H h h h h h 1b. WENDE, sig. K k k k k k l.</ab>
+        
+        <ab type="imprint">1743. Junius, Franciscus, the younger. <hi rend="italic">Etymologicum Anglicanum</hi>. [Continual references to Chaucer. Amongst others] ARSENICKE, sig. E.2. BALE, sig. G. WARRY, sig. H h h h h h 1b. WENDE, sig. K k k k k k 1.</ab>
       </div>
     </body>
   </text>

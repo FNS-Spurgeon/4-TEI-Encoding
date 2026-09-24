@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p297_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p297_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -168,7 +167,7 @@
           
           <seg>[Here follow some remarks, with quotation from Plowman’s Tale, as
               at end of Hearne’s Letter to Bagford q.v below, p. 309] . . .
-              . . . . . . . . . .</seg>
+              <lb/>. . . . . . . . . .</seg>
             
           <seg>At the Beginning of the Astrolabe of the last Ed.—
             <lb/>This Booke (written to his Sonne in the year of our Lord

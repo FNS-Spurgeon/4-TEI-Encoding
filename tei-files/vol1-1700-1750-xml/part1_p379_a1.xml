@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p379_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p379_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1737, Hugh Tootell. The Church History of England from the year 1500 to the year 1688.</title>
+        <title>1737, Charles Dodd. The Church History of England from the year 1500 to the year 1688.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/39400690">Hugh Tootell</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/39400690">Dodd, Charles</author>
             <date cert="high" when="1737">1737</date>
             <title level="a">The Church History of England from the year 1500 to the year 1688.</title>
           </analytic>
@@ -86,28 +85,32 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="379"/>
-        <ab type="imprint">1737. Dodd, Charles. The Church History of England from the year 1500 to the year 1688. Brussels. Printed in the year MDCCXXXVII, vol. i, Book i, Art i, p. 61; Book ii, Art iii, p. 369.</ab>
+        
+        <ab type="imprint">1737. Dodd, Charles. <hi rend="italic">The Church History of England from the year 1500 to the year 1688</hi>. Brussels. Printed in the year MDCCXXXVII, vol. i, Book i, Art i, p. 61; Book ii, Art iii, p. 369.</ab>
+        
+        <milestone unit="page" n="380"/>
+        
         <ab type="quotation">
-          <seg>The courtiers indeed, at this time [the reign of Edward III]
-were disposed to buzz many thing[s] in the king’s ear, that were
-prejudicial to the Church; in which they were encouraged by
-a flattering divine called John Wickliff, and the witty satires
-of sir Geoffrey Chaucer, who took all occasions to lessen the
-power of churchmen, and ridicule their character... As for
-sir Geoffrey Chaucer, he was, according to the stile of those
-days, esteemed an excellent poet, and being infected by
-Wickliff, could not fail of being acceptable to the libertines of
-the court.
-[p. 369] Nicholas Brigham... having a natural genius for poetry,
-he sported away some of his youthful hours in that way; but
-quickly laying that passion asleep, he followed the more useful
-studies of law and history. However, the regard he had for
-poetry, and particularly for sir Geoffrey Chaucer's memory,
-engaged him to be at the expense of beautifying the monu¬
-ment of that celebrated person, in the year 1556, and removing
-it to a more conspicuous place, in Westminster church, as we
-now find it.</seg>
-          <note type="footnote">Note in Spurgeon: [See above, 1556, p. 94.]</note>
+          <seg>The courtiers indeed, at this time <add>[the reign of Edward III]</add>
+            were disposed to buzz many thing<add>[s]</add> in the king’s ear, that were
+            prejudicial to the Church; in which they were encouraged by
+            a flattering divine called John Wickliff, and the witty satires
+            of sir Geoffrey Chaucer, who took all occasions to lessen the
+            power of churchmen, and ridicule their character . . . As for
+            sir Geoffrey Chaucer, he was, according to the stile of those
+            days, esteemed an excellent poet, and being infected by
+            Wickliff, could not fail of being acceptable to the libertines of
+            the court.</seg>
+            
+          <seg><note place="margin">[p. 369]</note>Nicholas Brigham . . . having a natural genius for poetry,
+            he sported away some of his youthful hours in that way; but
+            quickly laying that passion asleep, he followed the more useful
+            studies of law and history. However, the regard he had for
+            poetry, and particularly for sir Geoffrey Chaucer's memory,
+            engaged him to be at the expense of beautifying the monument
+            of that celebrated person, in the year 1556, and removing
+            it to a more conspicuous place, in Westminster church, as we
+            now find it.<note type="footnote">Note in Spurgeon: [See above, 1556, p. 94.]</note></seg>
         </ab>
       </div>
     </body>

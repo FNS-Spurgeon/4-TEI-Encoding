@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p393_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p393_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1747, William Mason. Musæus, a monody to the memory of Mr. Pope, in imitation of Milton’s Lycidas,</title>
+        <title>1747, William Mason. Musæus, a monody to the memory of Mr. Pope, in imitation of Milton’s Lycidas.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95718679">William Mason</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95718679">Mason, William</author>
             <date cert="high" when="1747">1747</date>
-            <title level="a">Musæus, a monody to the memory of Mr. Pope, in imitation of Milton’s Lycidas,</title>
+            <title level="a">Musæus, a monody to the memory of Mr. Pope, in imitation of Milton’s Lycidas.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,38 +85,45 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="393"/>
-        <ab type="imprint">1747. Mason, William. Musæus, a monody to the memory of Mr. Pope, in imitation of Milton’s Lycidas, pp. 8-10.</ab>
+        
+        <ab type="imprint">1747. Mason, William. <hi rend="italic">Musæus, a monody to the memory of Mr. Pope, in imitation of Milton’s Lycidas</hi>, pp. 8-10.</ab>
+        
         <ab type="quotation">
-          <seg>First, sent from Cam’s fair banks, like Palmer old,
-Came TITYRUS¹ slow, with head all silver'd o’er,
-And in his hand an oaken crook he bore,
-And thus in antique guise short talk did hold.
-‘Grete clerk of Fame’is house, whose excellence
-Maie wele befitt thilk place of eminence,
-Mickle of wele betide thy houres last,
-For mich gode wirkè to me don and past.
-For syn the daies whereas my Iyre ben strongen,
-And deftly many a mery laie I songen,
-Old Time, which alle things don maliciously,
-Gnawen with rusty tooth continually,
-Gnattrid my lines, that they all cancrid ben,
-Till at the last thou smoothen ’hem hast again;
-Sithence full semely gliden my rymes rude,
-As, (if fitteth thilk similitude),
-Whannè shallow brooke yrenneth hobling on,
-Ovir rough stones it maken full rough song;
-But, them stones removen, this lite rivere
-Stealen forth by, making plesaunt murmere :
-So my sely rymes, whoso may them note,
-Thou maken everichone to ren right sote;
-¹ i.e. CHAUCER, a name frequently given him by Spenser. [Note by Mason.]
-And in thy verse entuneth so fetisely,
-That men sayen I make trewe melody,
-And speaken every dele to myne honoure,
-Mich wele, grete clerk, betide thy parting houre!’
-He ceas’d his homely rhyme.
-[After Chaucer come Colin Clout (Spenser) and Thyrsis
-(Milton).]</seg>
+          <seg>
+            <lg>
+              <l>First, sent from Cam’s fair banks, like Palmer old,</l>
+              <l>Came TITYRUS<note type="footnote">i.e. CHAUCER, a name frequently given him by Spenser. [Note by Mason.]</note> slow, with head all silver'd o’er,</l>
+              <l>And in his hand an oaken crook he bore,</l>
+              <l>And thus in antique guise short talk did hold.</l>
+              <l>‘Grete clerk of Fame’is house, whose excellence</l>
+              <l>Maie wele befitt thilk place of eminence,</l>
+              <l>Mickle of wele betide thy houres last,</l>
+              <l>For mich gode wirkè to me don and past.</l>
+              <l>For syn the daies whereas my Iyre ben strongen,</l>
+              <l>And deftly many a mery laie I songen,</l>
+              <l>Old Time, which alle things don maliciously,</l>
+              <l>Gnawen with rusty tooth continually,</l>
+              <l>Gnattrid my lines, that they all cancrid ben,</l>
+              <l>Till at the last thou smoothen ’hem hast again;</l>
+              <l>Sithence full semely gliden my rymes rude,</l>
+              <l>As, (if fitteth thilk similitude),</l>
+              <l>Whannè shallow brooke yrenneth hobling on,</l>
+              <l>Ovir rough stones it maken full rough song;</l>
+              <l>But, them stones removen, this lite rivere</l>
+              <l>Stealen forth by, making plesaunt murmere :</l>
+              <l>So my sely rymes, whoso may them note,</l>
+              <l>Thou maken everichone to ren right sote;</l>
+              
+              <milestone unit="page" n="294"/>
+              
+              <l>And in thy verse entuneth so fetisely,</l>
+              <l>That men sayen I make trewe melody,</l>
+              <l>And speaken every dele to myne honoure,</l>
+              <l>Mich wele, grete clerk, betide thy parting houre!’</l>
+              <l>He ceas’d his homely rhyme.</l>
+            </lg>
+          </seg>
+          <seg type="editorial">[After Chaucer come Colin Clout (Spenser) and Thyrsis (Milton).]</seg>
         </ab>
       </div>
     </body>

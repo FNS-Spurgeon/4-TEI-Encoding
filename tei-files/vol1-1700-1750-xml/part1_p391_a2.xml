@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p391_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p391_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/39437154">William Whitehead</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/39437154">Whitehead, William</author>
             <date cert="high" when="1744">1744</date>
             <title level="a">On Nobility.</title>
           </analytic>
@@ -84,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="391"/>
-        <ab type="imprint">1744. Whitehead, William. On Nobility. See below, App. A., 1744.</ab>
+        
+        <ab type="imprint">1744. Whitehead, William. <hi rend="italic">On Nobility</hi>. See below, App. A., 1744.</ab>
       </div>
     </body>
   </text>

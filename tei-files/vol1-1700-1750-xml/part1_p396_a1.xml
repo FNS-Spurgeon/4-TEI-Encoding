@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p396_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p396_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1748, John Upton. Critical Observations on Shakespeare,</title>
+        <title>1748, John Upton. Critical Observations on Shakespeare.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/61902317">John Upton</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/61902317">Upton, John</author>
             <date cert="high" when="1748">1748</date>
-            <title level="a">Critical Observations on Shakespeare,</title>
+            <title level="a">Critical Observations on Shakespeare.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -75,7 +74,7 @@
         <language ident="en">English</language>
       </langUsage>
       <textClass>
-        <catRef scheme="#criticism" target="#"/>
+        <catRef scheme="#criticism" target="#influence"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,92 +85,105 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="396"/>
-        <ab type="imprint">1748. Upton, John. Critical Observations on Shakespeare, the second edition, with Alterations and Additions. Preface, pp. xvi-xxii, xxiv-v, xxvii, 136 note, 184 note, 185 note, 226 note, 232-3, 241 note, 253, 277 note, 297 and note, 298, 327 note, 329 note, 336 note, 346 note, 347 note, 362 note, 363, [Additional notes at end] 403-4, 410. [See above, 1746, p. 393, for 1st edn.]</ab>
+        
+        <ab type="imprint">1748. Upton, John. <hi rend="italic">Critical Observations on Shakespeare</hi>, the second edition, with Alterations and Additions. Preface, pp. xvi-xxii, xxiv-v, xxvii, 136 note, 184 note, 185 note, 226 note, 232-3, 241 note, 253, 277 note, 297 and note, 298, 327 note, 329 note, 336 note, 346 note, 347 note, 362 note, 363, [Additional notes at end] 403-4, 410. [See above, 1746, p. 393, for 1st edn.]</ab>
+        
         <ab type="quotation">
-          <seg>[Preface, There is an English author, which was much studied by
-p. xvi]
-[p. xvii] Shakespeare, but very superficially by Shakespeare’s editors
-now lying before me. ’Tis well known that the Coke’s Tale
-of Gamelyn was the original of the play called As You Like It.
-A Midsummer Night's Dream had its origin from The Knight’s
-Tale; which I don't remember to have seen, as yet, taken
-notice of. There are some passages of Chaucer's Troilus and
-Creseide in a play of the same name by our Tragedian; and
-several imitations there are likewise, very elegantly inter¬
-spersed, in other plays, which some time or other may be
-pointed out: at present I shall content myself with the
-following in King Lear, Act III. Where the Fool thus
-speaks,
-"I'll speak a prophecy or ere I go."
-... [Upton then quotes the prophecy, ending:]
-[p. xix.] “This prophecy Merlin shall make, for I live before his
-time."
-This Merlin is the prophet Dan Geoffrey Chaucer. Among
-some verses prefixed to the prologues of the Canterbury tales
-are the following, intitled
-"When faith faylith in Priest'is sawes,
-Chaucer's Prophecie.
-And lordes hestes are holde for lawes,
-And robberie is holde purchace,
-And letcherie is holde solace;
-Then shall the lond of Albion
-Be brought to great confusion."
-Shakespeare has taken this prophecy; but to make it more
-resemble the oracular responses of antiquity, and the prophet¬
-ical stile, he has artfully involved it in a seeming confusion:
-’Tis ONE prophecy consisting of two parts; the former part
-having a relation to what now is; the latter to what never
-shall be. The fool to the two lines of Chaucer, has humor¬
-ously added two lines of his own, which properly can be
-referred only to the former part of the prophecy...
-[Upton next points out that in the expression "bold beating
-[p. xx]
-oaths" used by Falstaff in The Merry Wives II; beating is
-from the A.S. betan, excitare, as used by Chaucer in the
-Reve's Tale, v. 828—
-"He was a Markit beter at the full,"
-[A, l. 3936.]
-or in the Knight's Tale,
-"I will don sacrifice, and firis bete."
-[p. xxi] Again, “alder lievest" as used by Shakespeare in Hen. VI. 2. I,
-has the same meaning as in Chaucer's Tr. and Cress. III. v.
-240. So with overcome, meaning overcast, and Child Rowland
-(K. Lear III) meaning prince; as in Tale of Gamelyn, 225].
-. . . . . . . . . . .
-[pp. 184
-n., 185 n.] [A long note on the use of “fere" by Chaucer.]
-. . . . . . . . . . .
-[p. 282]
-In Troilus and Cressida. Act I.
-"They say he is a very MAN PER SE
-And stands alone."
-As plausible as this reading appears, it seems to me originally
-to come from the corrector of the press. For our poet I
-imagine made use of Chaucer's expression, from whom he
-borrowed so many circumstances in this play.  ...
-"O faire Creseide the floure and A PER SE
-[p. 233]
-Of Troie and Greece." [Test, of Creseide, v. 78.]
-Douglas in his preface calls Virgil, The A PER SE, i. e. as the
-glossary explains it, an extraordinary or incomparable person,
-like the letter A by itself...I would therefore thus read
-in Shakespeare,
-"They say he is a very A PER SE
-And stands alone.”
-[Notes,
-[Errors in transcription in old writers.] In the Legende of
-p. 408]
-Hypsipyle and Medæa, l. 308,
-"And of thy tongue the infynite graciousnesse?"
-Can it be doubted then that Chaucer wrote yfained or
-ifained, i. e. feigned, dissembled...? There is another
-blunder... in line 381 of the Prologue,
-"And pouder Marchant, tarte and galingale,"
-[p. 404] I would read
-"And purveigh Manchet,"
-i. e. They had a cook with them whose business 'twas to boil,
-&amp;c., and to provide Manchet, &amp;c.</seg>
-          <note type="footnote">Note in Spurgeon: [The phrases in italics are in black letter in the original.]</note>
+          <seg><note place="margin">[Preface, p. xvi]</note>There is an English author, which was much studied by
+            <note place="margin">[p. xvii]</note>Shakespeare, but very superficially by Shakespeare’s editors
+            now lying before me. ’Tis well known that the <hi rend="italic">Coke’s Tale
+            of Gamelyn</hi> was the original of the play called <hi rend="italic">As You Like It</hi>.
+            <hi rend="italic">A Midsummer Night's Dream</hi> had its origin from <hi rend="italic">The Knight’s
+            Tale</hi>; which I don't remember to have seen, as yet, taken
+            notice of. There are some passages of Chaucer's <hi rend="italic">Troilus and
+            Creseide</hi> in a play of the same name by our Tragedian; and
+            several imitations there are likewise, very elegantly
+            interspersed, in other plays, which some time or other may be
+            pointed out: at present I shall content myself with the
+            following in King Lear, Act III. Where the Fool thus
+            speaks,
+            <l>"I'll speak a prophecy or ere I go."</l></seg>
+            
+          <seg type="editorial">. . .[Upton then quotes the prophecy, ending:]</seg>
+          
+          <seg><note place="margin">[p. xix.]</note>"This prophecy Merlin shall make, for I live before his time."
+            <lb/>This Merlin is the prophet Dan Geoffrey Chaucer. Among
+            some verses prefixed to the prologues of the Canterbury tales
+            are the following, intitled
+            <lg>
+              <head>Chaucer's Prophecie.</head>
+              <l>"When faith faylith in Priest'is sawes,</l>
+              <l>And lordes hestes are holde for lawes,</l>
+              
+              <milestone unit="page" n="397"/>
+              
+              <l>And robberie is holde purchace,</l>
+              <l>And letcherie is holde solace;</l>
+              <l>Then shall the lond of Albion</l>
+              <l>Be brought to great confusion."</l>
+            </lg>
+            Shakespeare has taken this prophecy; but to make it more
+            resemble the oracular responses of antiquity, and the prophetical
+            stile, he has artfully involved it in a seeming confusion:
+            ’Tis ONE prophecy consisting of two parts; the former part
+            having a relation to what now is; the latter to what never
+            shall be. The fool to the two lines of Chaucer, has humorously
+            added two lines of his own, which properly can be
+            referred only to the former part of the prophecy . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[p. xx]</note>[Upton next points out that in the expression "bold beating
+            oaths" used by Falstaff in <hi rend="italic">The Merry Wives</hi> II; beating is
+            from the A.S. betan, excitare, as used by Chaucer in the
+            Reve's Tale, v. 828—
+            <l>"He was a Markit beter at the full,"</l>
+            <note place="right">[A, l. 3936.]</note>
+            or in the Knight's Tale,
+            <l>"I will don sacrifice, and firis bete."</l>
+            <note place="margin">[p. xxi]</note>Again, “alder lievest" as used by Shakespeare in Hen. VI. 2. I,
+            has the same meaning as in Chaucer's Tr. and Cress. III. v.
+            240. So with overcome, meaning overcast, and Child Rowland
+            (K. Lear III) meaning prince; as in Tale of Gamelyn, 225].
+            <lb/>. . . . . . . . . . .</seg>
+            
+          <seg type="editorial"><note place="margin">[pp. 184 n., 185 n.]</note>[A long note on the use of “fere" by Chaucer.]
+            <lb/>. . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. 282]</note>In Troilus and Cressida. Act I.
+            <lg>
+              <l>"They say he is a very MAN PER SE</l>
+              <l>And stands alone."</l>
+            </lg>
+            As plausible as this reading appears, it seems to me originally
+            to come from the corrector of the press. For our poet I
+            imagine made use of Chaucer's expression, from whom he
+            borrowed so many circumstances in this play. . . .</seg>
+            
+          <seg>
+            <lg>
+              <note place="margin">[p. 233]</note><l>"O faire Creseide the floure and A PER SE</l>
+              <l>Of Troie and Greece."</l> <note place="right">[Test, of Creseide, v. 78.]</note>
+            </lg>
+            Douglas in his preface calls Virgil, The A PER SE, i. e. as the
+            glossary explains it, an extraordinary or incomparable person,
+            like the letter A by itself . . . I would therefore thus read
+            in Shakespeare,
+            <lg>
+              <l>"They say he is a very A PER SE</l>
+              <l>And stands alone."</l>
+            </lg>
+          </seg>
+            
+          <seg><note place="margin">[Notes, p. 403]</note><add>[Errors in transcription in old writers.]</add> In the Legende of
+            Hypsipyle and Medæa, l. 308,
+            <l>"And of thy tongue the infynite graciousnesse?"</l>
+            Can it be doubted then that Chaucer wrote yfained or
+            ifained, i. e. feigned, dissembled . . .? There is another
+            blunder . . . in line 381 of the Prologue,
+            <l>"And pouder Marchant, tarte and galingale,"</l>
+            <note place="margin">[p. 404]</note>I would read
+            <l>"And purveigh Manchet,"</l>
+            i. e. They had a cook with them whose business 'twas to boil,
+            &amp;c., and to provide Manchet, &amp;c.<note type="footnote">Note in Spurgeon: [The phrases in italics are in black letter in the original.]</note></seg>
         </ab>
       </div>
     </body>

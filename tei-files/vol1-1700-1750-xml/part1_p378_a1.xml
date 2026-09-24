@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p378_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p378_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1736-7, Bernard, John Peter. Birch, Thomas. Lockman, John.. A general Dictionary... in which a New and Accurate Translation of that of the celebrated Mr. Bayle. ... is included [by the above] and other Hands.</title>
+        <title>1736-7, John Peter Bernard, Thomas Birch and John Lockman. A general Dictionary . . . in which a New and Accurate Translation of that of the celebrated Mr. Bayle. . . . is included [by the above] and other Hands.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,11 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Bernard, John Peter. Birch, Thomas. Lockman, John.</author>
-            <date cert="high" when="1736-7">1736-7</date>
-            <title level="a">A general Dictionary... in which a New and Accurate Translation of that of the celebrated Mr. Bayle. ... is included [by the above] and other Hands.</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/305236461">Bernard, John Peter</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4956694">Birch, Thomas</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/46934917">Lockman, John</author>
+            <date cert="high" from="1736" to="1737">1736-7</date>
+            <title level="a">A general Dictionary . . . in which a New and Accurate Translation of that of the celebrated Mr. Bayle. . . . is included [by the above] and other Hands.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,7 +85,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="378"/>
-        <ab type="imprint">1736-7. Bernard, John Peter. Birch, Thomas. Lockman, John. A general Dictionary... in which a New and Accurate Translation of that of the celebrated Mr. Bayle. ... is included [by the above] and other Hands. 10 vols., 1734-41; vol. iv, 1736, pp. 292-9 [an ordinary life, followed by eulogies from Ascham, Sidney, Beaumont, Milton, etc.]; vol. v, 1737, p. 494 [Gower contemporary with Chaucer.]</ab>
+        
+        <ab type="imprint">1736-7. Bernard, John Peter. Birch, Thomas. Lockman, John. <hi rend="italic">A general Dictionary . . . in which a New and Accurate Translation of that of the celebrated Mr. Bayle. . . . is included</hi> [by the above] <hi rend="italic">and other Hands</hi>. 10 vols., 1734-41; vol. iv, 1736, pp. 292-9 [an ordinary life, followed by eulogies from Ascham, Sidney, Beaumont, Milton, etc.]; vol. v, 1737, p. 494 [Gower contemporary with Chaucer.]</ab>
       </div>
     </body>
   </text>

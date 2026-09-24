@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p272_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p272_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +89,7 @@
         <catRef scheme="#works" target="#nunsPriestTale"/>
         <catRef scheme="#works" target="#knightTale"/>
         <catRef scheme="#works" target="#wifeBathTale"/>
-        <catRef scheme="#works" target="#criticism"/>
+        <catRef scheme="#works" target="#criticisms"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -165,8 +164,8 @@
             Original Papers of my own; which whether they are equal or
             inferiour to my other Poems, an Author is the most improper
             Judge; and therefore I leave them wholly to the Mercy of the
-            Reader: I will hope the best, that they will not be con¬
-            demn'd; but if they should, I have the Excuse of an old
+            Reader: I will hope the best, that they will not be
+            condemn'd; but if they should, I have the Excuse of an old
             Gentleman, who, mounting on Horseback before some Ladies,
             when I was present, got up somewhat heavily, but desir'd of
             the Fair Spectators, that they would count Fourscore and
@@ -682,7 +681,7 @@
             Flower and the Leaf</hi>; with which I was so particularly pleas'd,
             both for the Invention and the Moral, that I cannot hinder
             myself from recommending it to the Reader.
-            . . . . . . . . . . .</seg>
+            <lb/>. . . . . . . . . . .</seg>
             
           <seg>
             <lg>

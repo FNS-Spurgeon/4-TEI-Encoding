@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p318_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p318_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +89,7 @@
         <ab type="imprint">1711. Pope, Alexander. <hi rend="italic">The Temple of Fame: A Vision.</hi> Printed for Bernard Lintot 1715, p. 5, sign. A 3, advertisement, p. 46 Notes. The Works of Alexander Pope, Esq. Printed for H. Lintot, 1736. <hi rend="italic">The Temple of Fame</hi>, vol. iii, pp. 1-35. [In this edn. another sentence is added to the Advertisement and also on each page there are numerous passages drawn from Chaucer. In the 1717 edn. of Pope’s Works, and in several subsequent ones, the remark, "written in 1711" is placed under the Title "The Temple of Fame."] (Works, 1871, vol. i, pp. 185-230.)</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[Works, p.187]</note>Advertisement. The hint of the following piece was taken
+          <seg><note place="margin">[Works, p. 187]</note>Advertisement. The hint of the following piece was taken
             from Chaucer's House of Fame. The design is in a manner
             entirely altered, the descriptions and most of the particular
             thoughts my own: yet I could not suffer it to be printed

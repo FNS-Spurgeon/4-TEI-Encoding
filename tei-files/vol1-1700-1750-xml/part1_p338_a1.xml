@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p338_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p338_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1715, Elizabeth Elstob. The Rudiments of Grammar for the EnglishSaxon Tongue, first given in English: with an Apology for the study of Northern Antiquities.</title>
+        <title>1715, Elizabeth Elstob. The Rudiments of Grammar for the English-Saxon Tongue, first given in English: with an Apology for the study of Northern Antiquities.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +37,7 @@
           <analytic>
             <author cert="high" role="F" ref="http://viaf.org/viaf/47117288">Elstob, Elizabeth</author>
             <date cert="high" when="1715">1715</date>
-            <title level="a">The Rudiments of Grammar for the EnglishSaxon Tongue, first given in English: with an Apology for the study of Northern Antiquities. Being very useful toward the understanding our ancient English Poets, and other Writers.</title>
+            <title level="a">The Rudiments of Grammar for the English-Saxon Tongue, first given in English: with an Apology for the study of Northern Antiquities. Being very useful toward the understanding our ancient English Poets, and other Writers.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -87,7 +86,7 @@
       <div type="allusion">
         <milestone unit="page" n="338"/>
         
-        <ab type="imprint">1715. Elstob, Elizabeth. <hi rend="italic">The Rudiments of Grammar for the EnglishSaxon Tongue, first given in English: with an Apology for the study of Northern Antiquities. Being very useful toward the understanding our ancient English Poets, and other Writers.</hi> By Elizabeth Elstob . . . London . . . 1715. Preface, pp. xvi-xviii, note, xix, xxiv, xxviii-ix.</ab>
+        <ab type="imprint">1715. Elstob, Elizabeth. <hi rend="italic">The Rudiments of Grammar for the English-Saxon Tongue, first given in English: with an Apology for the study of Northern Antiquities. Being very useful toward the understanding our ancient English Poets, and other Writers.</hi> By Elizabeth Elstob . . . London . . . 1715. Preface, pp. xvi-xviii, note, xix, xxiv, xxviii-ix.</ab>
         
         <ab type="quotation">
           <seg type="editorial">[Paraphrase of pp. xi-xiii. An Examination of (1) whether
@@ -120,9 +119,9 @@
               <note place="margin">[p. xvii]</note><l>Again,</l>
               <l>Alas, what is this wonder Maladye:</l>
               <l>For heate of colde, for colde of heate I dye.</l>
-              <note place="right">Chaucer's first Book of <hi rend="italic">Troylus</hi>, fol. 159, b. [ll. 419-20]</note>
             </lg>
-            . . . . . . . .</seg>
+            Chaucer's first Book of <hi rend="italic">Troylus</hi>, fol. 159, b. <note place="margin">[ll. 419-20]</note>
+            <lb/>. . . . . . . .</seg>
             
           <seg>But before, at least contemporary with Chaucer, we find
             Sir John Gower, not baulking Monosyllables; . .

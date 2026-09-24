@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p290_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p290_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -104,7 +103,7 @@
             Good Shakespear himself is not so frequently Cited in the
             following Pages, as he would otherwise deserve to be. . . . . .</seg>
             
-          <seg type="editorial"><note place="margin">[p. 25]</note>Thus the <hi rend="italic">Troilus</hi> and <hi rend="italic">Cressida</hi> of Chaucer is compos’d in
+          <seg><note place="margin">[p. 25]</note>Thus the <hi rend="italic">Troilus</hi> and <hi rend="italic">Cressida</hi> of Chaucer is compos’d in
             Stanzas consisting of 7 Verses.</seg>
         </ab>
       </div>

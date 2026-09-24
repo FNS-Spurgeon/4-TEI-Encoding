@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p386_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p386_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1739, Vinegar, Tim., pseud.. Letter to Captain Vinegar,</title>
+        <title>1739, Tim. Vinegar, pseud. Letter to Captain Vinegar.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +37,7 @@
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/">Vinegar, Tim., pseud.</author>
             <date cert="high" when="1739">1739</date>
-            <title level="a">Letter to Captain Vinegar,</title>
+            <title level="a">Letter to Captain Vinegar.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,14 +83,16 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="386"/>
-        <ab type="imprint">1739. Vinegar, Tim., pseud. Letter to Captain Vinegar, November 24, 1739, from Tim. Vinegar [in] The Champion, containing a series of papers humourous, moral... London, 1741, vol. i, p. 29.</ab>
+        
+        <ab type="imprint">1739. Vinegar, Tim., pseud. <hi rend="italic">Letter to Captain Vinegar</hi>, November 24, 1739, from Tim. Vinegar [in] The Champion, containing a series of papers humourous, moral . . . London, 1741, vol. i, p. 29.</ab>
+        
         <ab type="quotation">
-          <seg>... No one City in the Universe has produc’d so many
-Ornaments of polite Learning as this [London]: and when I
-mention the great Names of Chaucer, Spencer, Donne, Milton
-and Cowley, with those of Mr. Pope, and Mr. Glouer, all Natives
-of London; no Body will presume to treat the Word Citizen,
-as a Term of Reproach any more.</seg>
+          <seg>. . . No one City in the Universe has produc’d so many
+            Ornaments of polite Learning as this <add>[London]</add>: and when I
+            mention the great Names of Chaucer, Spencer, Donne, Milton
+            and Cowley, with those of Mr. Pope, and Mr. Glouer, all Natives
+            of London; no Body will presume to treat the Word Citizen,
+            as a Term of Reproach any more.</seg>
         </ab>
       </div>
     </body>

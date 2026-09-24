@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p391_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p391_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/27926279">William Thompson</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/27926279">Thompson, William</author>
             <date cert="high" when="1745">1745</date>
             <title level="a">Sickness, a Poem in Three Books.</title>
           </analytic>
@@ -86,35 +85,43 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="391"/>
+        
         <ab type="imprint">1745. Thompson, William. Sickness, a Poem in Three Books. London, 1745. Book I, p. 18, and Notes p. 43.</ab>
+        
         <ab type="quotation">
-          <seg>[l. 275]
-Father of fancy, of descriptive verse,
-And shadowy beings, gentle Edmund, hight
-Spenser! the sweetest of the tuneful throng,
-Or recent, or of eld.
-[p. 43]
-[Note to above, wrongly printed ver. 267.] The date of
-our English poetry may with great justice begin with Spenser.
-It is true, Chaucer, Gower, and Lydgate were masters of
-uncommon beauties, considering the age they lived in, and
-have described the humours, passions &amp;c. with great discern¬
-ment. Yet none of them seem to have been half so well
-acquainted with the very life and being of poetry, inven¬
-tion, painting, and design, as Spenser. Chaucer was the
-best before him; but then he borrowed most of his poems,
-either from the ancients, or from Boccace, Petrarch, or the
-Provençal writers, &amp;c. Thus his Troilus and Cressida, the
-largest of his works, was taken from Lollius; and the Romant
-of the Rose, was translated from the French of John Noon,
-[sic] an Englishman, who flourished in the reign of Richard II.
-and so of the rest. As for those who follow'd him, such as
-Heywood, Scogan, Skelton, &amp;c. they seem to be wholly ignorant
-of either numbers, language, propriety, or even decency itself.
-I must be understood to except the Earl of Surry, Sir Thomas
-Wiat, Sir Philip Sidney, several pieces in the mirror of
-magistrates, and a few parts of Mr. G. Gascoign’s and
-Turbervill's works.</seg>
+          <seg>
+            <lg>
+              <note place="margin">[l. 275]</note><l>Father of fancy, of descriptive verse,</l>
+              <l>And shadowy beings, gentle Edmund, hight</l>
+              <l>Spenser! the sweetest of the tuneful throng,</l>
+              <l>Or recent, or of eld.</l>
+            </lg>
+          </seg>
+            
+          <seg><note place="margin">[p. 43]</note><add>[Note to above, wrongly printed ver. 267.]</add>The date of
+            our English poetry may with great justice begin with Spenser.
+            It is true, Chaucer, Gower, and Lydgate were masters of
+            uncommon beauties, considering the age they lived in, and
+            
+            <milestone unit="page" n="392"/>
+            
+            have described the humours, passions &amp;c. with great discernment.
+            Yet none of them seem to have been half so well
+            acquainted with the very life and being of poetry,
+            invention, painting, and design, as Spenser. Chaucer was the
+            best before him; but then he borrowed most of his poems,
+            either from the ancients, or from Boccace, Petrarch, or the
+            Provençal writers, &amp;c. Thus his Troilus and Cressida, the
+            largest of his works, was taken from Lollius; and the Romant
+            of the Rose, was translated from the French of John Noon,
+            <add>[sic]</add> an Englishman, who flourished in the reign of Richard II.
+            and so of the rest. As for those who follow'd him, such as
+            Heywood, Scogan, Skelton, &amp;c. they seem to be wholly ignorant
+            of either numbers, language, propriety, or even decency itself.
+            I must be understood to except the Earl of Surry, Sir Thomas
+            Wiat, Sir Philip Sidney, several pieces in the mirror of
+            magistrates, and a few parts of Mr. G. Gascoign’s and
+            Turbervill's works.</seg>
         </ab>
       </div>
     </body>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p394_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p394_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,10 +83,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="394"/>
-        <ab type="imprint">1747. Unknown. An Account of Barkshire or Berkshire. [Article in] Universal Magazine, June 1747, vol. i, p. 15.</ab>
+        
+        <ab type="imprint">1747. Unknown. <hi rend="italic">An Account of Barkshire or Berkshire</hi>. [Article in] Universal Magazine, June 1747, vol. i, p. 15.</ab>
+        
         <ab type="quotation">
-          <seg>[The reference is to Chaucer's connection with Donnington
-Castle.]</seg>
+          <seg type="editorial">[The reference is to Chaucer's connection with Donnington Castle.]</seg>
         </ab>
       </div>
     </body>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p401_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p401_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,28 +83,40 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="401"/>
-        <ab type="imprint">1750. Unknown. A Panegyrick on the Ladies. Being Chaucer's Recantation for ¹ The blind eat many a fly. As it is sung at the Spring Gardens, Vaux Hall, with great applause, [in] The Student, or the Oxford and Cambridge Monthly Miscellany, vol. i, no. vi, June 30, 1750, p. 230.</ab>
+        
+        <ab type="imprint">1750. Unknown. <hi rend="italic">A Panegyrick on the Ladies</hi>. Being Chaucer's Recantation for<note type="footnote"><add>[Footnote, p. 230.]</add> A song moderniz’d from the old English of Chaucer.</note> The blind eat many a fly. As it is sung at the Spring Gardens, Vaux Hall, with great applause, [in] The Student, or the Oxford and Cambridge Monthly Miscellany, vol. i, no. vi, June 30, 1750, p. 230.</ab>
+        
         <ab type="quotation">
-          <seg>Recitative
-Old Chaucer once to this re-ecchoing [sic] grove
-Sung “of the sweet bewitching tricks of love";
-But soon he found, he’d sullied his renown,
-And arm’d each charming hearer with a frown;
-¹ [Footnote, p. 230.] A song moderniz’d from the old English of Chaucer.
-Then self-condemn'd anew his lyre he strung,
-And in repentant strains this recantation sung .
-Air
-I
-Long since unto her native sky
-Fled heav'n-descended Constancy;
-Nought now that's stable's to be had,
-The world's grown mutable and mad:
-Save WOMEN-They, we must confess,
-Are miracles of stedfastness,
-And every witty, pretty dame
-Bears for her motto-Still the same.
-[3 more Stanzas, and Chorus.]</seg>
-          <note type="footnote">Note in Spurgeon: [The above poem was reprinted in The London Magazine , August, 1750 , p. 376.]</note>
+          <seg>
+            <lg>
+              <head>Recitative</head>
+              <l>Old Chaucer once to this re-ecchoing <add>[sic]</add> grove</l>
+              <l>Sung "of the sweet bewitching tricks of love";</l>
+              <l>But soon he found, he’d sullied his renown,</l>
+              <l>And arm’d each charming hearer with a frown;</l>
+              
+              <milestone unit="page" n="402"/>
+              
+              <l>Then self-condemn'd anew his lyre he strung,</l>
+              <l>And in repentant strains this recantation sung.</l>
+            </lg>
+            
+            <lg>
+              <head>Air
+                <lb/>I
+              </head>
+              <l>Long since unto her native sky</l>
+              <l>Fled heav'n-descended Constancy;</l>
+              <l>Nought now that's stable's to be had,</l>
+              <l>The world's grown mutable and mad:</l>
+              <l>Save WOMEN-They, we must confess,</l>
+              <l>Are miracles of stedfastness,</l>
+              <l>And every witty, pretty dame</l>
+              <l>Bears for her motto-Still the same.</l>
+            </lg>
+           </seg> 
+           
+          <seg type="editorial">[3 more Stanzas, and Chorus.]<note type="footnote">Note in Spurgeon: [The above poem was reprinted in The London Magazine , August, 1750 , p. 376.]</note></seg>
         </ab>
       </div>
     </body>

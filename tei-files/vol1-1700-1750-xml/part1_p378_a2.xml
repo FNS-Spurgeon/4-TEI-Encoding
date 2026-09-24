@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p378_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p378_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -84,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="378"/>
-        <ab type="imprint">1737. Unknown. Amatory Poetry selected from Chaucer, Lidgate, Skelton, Surrey, Wyatt Nash, Daniel, etc. </ab>
+        
+        <ab type="imprint">1737. <hi rend="italic">Amatory Poetry selected from Chaucer, Lidgate, Skelton, Surrey, Wyatt Nash, Daniel, etc.</hi><note type="footnote">Note in Spurgeon: [Not in B. M. or Bodl. Known from a dealer's list.]</note></ab>
       </div>
     </body>
   </text>

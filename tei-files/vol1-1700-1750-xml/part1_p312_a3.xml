@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p312_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p312_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -99,7 +98,7 @@
             printed by Caxton in the year I think 1515, &amp; I believe 'tis
             not express’d in our Catalogue. Quære. At the End is a large
             Memorandum, about Chaucer by Caxton, &amp; his Epitaph. . . .
-            . . . . . . . . . .</seg>
+            <lb/>. . . . . . . . . .</seg>
             
           <seg>Aug. 11 (Fri.). . . . 4ᵗᵒ H. 24. Art. Chaucer's Troilus and
             Cresseida, in Latin &amp; English. The Latin is a Translation by

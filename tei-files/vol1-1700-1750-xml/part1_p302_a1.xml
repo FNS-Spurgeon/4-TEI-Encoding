@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p302_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p302_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -278,8 +277,8 @@
             different from that in the Print, so there are eight Verses in
             the Tale itself, which are not in the Common Editions. For
             whereas we have receiv’d as yet but two Verses of the third
-            Part, with a Note signifying, that none of the rest, notwith¬
-            standing diligently sought after, could be recover’d, we have
+            Part, with a Note signifying, that none of the rest, notwithstanding
+            diligently sought after, could be recover’d, we have
             here the following ones, which immediately precede the two
             already printed, viz.
             <lg>
@@ -318,8 +317,8 @@
           <seg>This Passage immediately follows these words, And the
             rest by trabaile and the life by deth and mortification of
             <note place="margin">[p. 603]</note>Syn, and is so continued with the Tale, as if it were part of
-            it; but tho’ this Revocation be also extant in the above men¬
-            tion’d MS. of Mr. Selden, yet it is written as distinct from the
+            it; but tho’ this Revocation be also extant in the above
+            mention’d MS. of Mr. Selden, yet it is written as distinct from the
             Tales, which conclude with that of <hi rend="italic">the Parson</hi>. For thus
             it is brought in, Here enden the Talis of Caunturbury, and
             next thautour taketh leue.—How preye I to hem alle &amp;c.

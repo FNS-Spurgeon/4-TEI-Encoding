@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p311_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p311_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1709-10, Richard Steele. The Tatler.</title>
+        <title>1709|10, Richard Steele. The Tatler.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -37,7 +36,7 @@
         <biblStruct>
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/22167754">Steele, Richard</author>
-            <date cert="high" when="1709-10">1709-10</date>
+            <date cert="high" when="1710" when-custom="1709">1709|10</date>
             <title level="a">The Tatler.</title>
           </analytic>
           <monogr>
@@ -85,7 +84,7 @@
       <div type="allusion">
         <milestone unit="page" n="311"/>
         
-        <ab type="imprint">1709-10. Steele, Richard. <hi rend="italic">The Tatler</hi>, No. 132, Feb. 11, 1709. (The Tatler, ed. George A. Aitken, vol. iii, 1899, p. 102.)</ab>
+        <ab type="imprint">1709|10. Steele, Richard. <hi rend="italic">The Tatler</hi>, No. 132, Feb. 11, 1709. (The Tatler, ed. George A. Aitken, vol. iii, 1899, p. 102.)</ab>
         
         <ab type="quotation">
           <seg>I must own, it makes me very melancholy in Company

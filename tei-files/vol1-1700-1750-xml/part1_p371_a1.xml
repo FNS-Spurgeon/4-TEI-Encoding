@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p371_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p371_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/47147105">Elizabeth Thomas</author>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/47147105">Thomas, Elizabeth</author>
             <date cert="high" when="1729">1729</date>
             <title level="a">Account of John Dryden's funeral.</title>
           </analytic>
@@ -84,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="371"/>
-        <ab type="imprint">1729. Thomas, Elizabeth. Account of John Dryden's funeral. [printed by Malone in] Prose Works of Dryden, 1800, vol. i, pt. i, p. 362.</ab>
+        
+        <ab type="imprint">1729. Thomas, Elizabeth. <hi rend="italic">Account of John Dryden's funeral</hi>. [printed by Malone in] Prose Works of Dryden, 1800, vol. i, pt. i, p. 362.</ab>
       </div>
     </body>
   </text>

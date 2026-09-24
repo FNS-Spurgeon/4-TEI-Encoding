@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p378_a3">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p378_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1737, Elizabeth Cooper. The Muses Library; or a Series of English Poetry from the Saxons, to the Reign of King Charles II. ...</title>
+        <title>1737, [Elizabeth Cooper]. The Muses Library; or a Series of English Poetry from the Saxons, to the Reign of King Charles II.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="F" ref="http://viaf.org/viaf/117805353">Elizabeth Cooper</author>
+            <author cert="medium" role="F" ref="http://viaf.org/viaf/117805353">Cooper, Elizabeth</author>
             <date cert="high" when="1737">1737</date>
-            <title level="a">The Muses Library; or a Series of English Poetry from the Saxons, to the Reign of King Charles II. ...</title>
+            <title level="a">The Muses Library; or a Series of English Poetry from the Saxons, to the Reign of King Charles II.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,55 +83,62 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="378"/>
-        <ab type="imprint">1737. [Cooper, Elizabeth.] The Muses Library; or a Series of English Poetry from the Saxons, to the Reign of King Charles II. ... Preface, pp. viii, xi, xii, pp. 1, 7, 8, 19, 23, 24-33, 140.</ab>
+        
+        <ab type="imprint">1737. [Cooper, Elizabeth.] <hi rend="italic">The Muses Library; or a Series of English Poetry from the Saxons, to the Reign of King Charles II</hi>. . . . Preface, pp. viii, xi, xii, pp. 1, 7, 8, 19, 23, 24-33, 140.</ab>
+        
         <ab type="quotation">
-          <seg>[p. viii]
-Those, who read the ensuing Volume with Attention, will
-be convinc’d that Sense, and Genius have been of long stand¬
-ing in this Island; and ’tis not so much the Fault of our
-Writers, as the Language it self, that they are not read with
-Pleasure at this Day. This, naturally, provokes an Enquiry,
-whether  'tis in the same Vagrant Condition still; or whether
-the Fame of our most admir'd Moderns, is not almost as
-precarious, as that of their now obsolete Predecessors has
-prov'd to be; agreable to that Line in the celebrated Essay on
-Criticism,
-And what now Chaucer is, shall Dryden be.
-[p. xi] Chaucer, not the next Writer, [to Langland] tho' the next
-. . . . . . . . . . .
-[See above, 1709, pp. 310-11, and pp. 315, 367, 369, and below, p. 383.]
-extraordinary Genius, encountered the Follies of Mankind, as
-well as their Vices, and blended the acutest Raillery, with
-the most insinuating Humour. By his Writings, it plainly
-appears that Poetry, and Politeness grew up together; and had
-like to have been bury’d in his Grave. ...
-. . . . . . . . . . .
-[p. xii] ’Tis certain, very Few of these great Men are generally
-known to the present Age: And tho' Chaucer, and Spencer
-are ever nam’d with much Respect, not many are intimately
-acquainted with their Beauties.
-[p. 23]
-Chaucer, The Morning-Star of the English Poetry!..
-[short account of his life]. All agree he was the first Master
-of his Art among us, and that the Language, in general, is
-much oblig'd to him for Copiousness, Strength and Ornament.
-It would be endless, almost, to enumerate the Compliments
-that have been paid to his Merit, by the Gratitude of those
-Writers, who have enrich’d themselves so much by his
-inestimable Legacies.—But his own Works, are his best
-Monument. In those appear a real Genius, as capable of
-inventing, as improving; equally suited to the Gay, and the
-Sublime; soaring in high Life, and pleasant in low:...
-[p. 24] Ever both entertaining, and instructive! All which is so well
-known, ’tis, in a Manner, needless to repeat:... it is not a
-little difficult to chuse one [a quotation] that will do him
-Justice: Most of his principal Tales have been already
-exhausted by the Moderns, and consequently, neither of them
-would appear to Advantage in their antiquated, original
-Dress... [The Pardoner’s Prologue is then given.]
-[p. 31]
-[Occleve] To his Care and Affection is owing the Original
-of that Print, which is now so common of Chaucer.</seg>
+          <seg><note place="margin">[p. viii]</note>Those, who read the ensuing Volume with Attention, will
+            be convinc’d that Sense, and Genius have been of long standing 
+            in this Island; and ’tis not so much the Fault of our
+            Writers, as the Language it self, that they are not read with
+            Pleasure at this Day. This, naturally, provokes an Enquiry,
+            
+            <milestone unit="page" n="379"/>
+            
+            whether 'tis in the same Vagrant Condition still; or whether
+            the Fame of our most admir'd Moderns, is not almost as
+            precarious, as that of their now obsolete Predecessors has
+            prov'd to be; agreable to that Line in the celebrated <hi rend="italic">Essay on
+            Criticism</hi>,
+            <l>And what now Chaucer is, shall Dryden be.<note type="footnote">Note in Spurgeon: [See above, 1709, pp. 310-11, and pp. 315, 367, 369, and below, p. 383.]</note></l>
+            . . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. xi]</note>Chaucer, not the next Writer, <add>[to Langland]</add> tho' the next
+            extraordinary Genius, encountered the Follies of Mankind, as
+            well as their Vices, and blended the acutest Raillery, with
+            the most insinuating Humour. By his Writings, it plainly
+            appears that Poetry, and Politeness grew up together; and had
+            like to have been bury’d in his Grave. . . .
+            <lb/>. . . . . . . . . . .</seg>
+            
+          <seg><note place="margin">[p. xii]</note>’Tis certain, very Few of these great Men are generally
+            known to the present Age: And tho' Chaucer, and Spencer
+            are ever nam’d with much Respect, not many are intimately
+            acquainted with their Beauties.</seg>
+            
+          <seg><note place="margin">[p. 23]</note>Chaucer, The Morning-Star of the English Poetry! . .
+            <add>[short account of his life]</add>. All agree he was the first Master
+            of his Art among us, and that the Language, in general, is
+            much oblig'd to him for Copiousness, Strength and Ornament.
+            It would be endless, almost, to enumerate the Compliments
+            that have been paid to his Merit, by the Gratitude of those
+            Writers, who have enrich’d themselves so much by his
+            inestimable Legacies.—But his own Works, are his best
+            Monument. In those appear a real Genius, as capable of
+            inventing, as improving; equally suited to the Gay, and the
+            Sublime; soaring in high Life, and pleasant in low: . . .
+            <note place="margin">[p. 24]</note>Ever both entertaining, and instructive! All which is so well
+            known, ’tis, in a Manner, needless to repeat: . . . it is not a
+            little difficult to chuse one <add>[a quotation]</add> that will do him
+            Justice: Most of his principal Tales have been already
+            exhausted by the Moderns, and consequently, neither of them
+            would appear to Advantage in their antiquated, original
+            Dress . . .</seg>
+          
+          <seg type="editorial">[The Pardoner’s Prologue is then given.]</seg>
+            
+          <seg><note place="margin">[p. 31]</note><add>[Occleve]</add> To his Care and Affection is owing the Original
+            of that Print, which is now so common of Chaucer.</seg>
         </ab>
       </div>
     </body>

@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p373_a5">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p373_a5">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1731, Unknown. [A Newspaper cutting</title>
+        <title>1731, Unknown. [A Newspaper cutting].</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +37,7 @@
           <analytic>
             <author>Unknown</author>
             <date cert="high" when="1731">1731</date>
-            <title level="a">[A Newspaper cutting</title>
+            <title level="a">[A Newspaper cutting].</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,19 +83,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="373"/>
-        <ab type="imprint">1731. Unknown. [A Newspaper cutting inserted by Haslewood in his annotated edn. of Giles Jacob’s Historical Account of the Lives and Writings of our most considerable English Poets, B. M. (pr. m. C. 45. d. 18.) to face p. 26. Sce below, c. 1833, Haslewood.]</ab>
+        
+        <ab type="imprint">1731. Unknown. [<hi rend="italic">A Newspaper cutting</hi> inserted by Haslewood in his annotated edn. of Giles Jacob’s Historical Account of the Lives and Writings of our most considerable English Poets, B. M. (pr. m. C. 45. d. 18.) to face p. 26. Sce below, c. 1833, Haslewood.]</ab>
+        
         <ab type="quotation">
-          <seg>From the PEGASUS in Grub-Street [Haslewood has added
-in writing] Journal, 11 Mar. 1731.
-Mr. T. D. Attorney, who wrote the Letter to a Member of
-Parliament, printed in the Courant of Tuesday, Mar. 4, is
-desired to consult that accurate Work of our learned Brother
-Mr. GILES JACOB, The Poetical Register, Vol. I, where he will
-find himself under a great mistake, in asserting that CHAUCER
-and GOWER are (as he expresses it) not much above two hundred
-years old : the former of whom died in 1400, and the latter
-in 1402.</seg>
-          <note type="footnote">Note in Spurgeon: [The Grubstreet Journal is not in the B. M., and this extract is not in the Memoirs of the Society of Grub Street, 2 vols., 1737, a collection of the best pieces from the Journal. The Courant, or The Daily Courant, is also not in the B.M.]</note>
+          <seg>From the PEGASUS in Grub-Street <add>[Haslewood has added
+            in writing]</add> Journal, 11 Mar. 1731.</seg>
+            
+            <milestone unit="page" n="374"/>
+            
+          <seg>Mr. T. D. Attorney, who wrote the <hi rend="italic">Letter to a Member of
+            Parliament</hi>, printed in the <hi rend="italic">Courant</hi> of Tuesday, Mar. 4, is
+            desired to consult that accurate Work of our learned Brother
+            Mr. GILES JACOB, <hi rend="italic">The Poetical Register</hi>, Vol. I, where he will
+            find himself under a great mistake, in asserting that CHAUCER
+            and GOWER are (as he expresses it) not much above two hundred
+            years old: the former of whom died in 1400, and the latter
+            in 1402.<note type="footnote">Note in Spurgeon: [The Grubstreet Journal is not in the B. M., and this extract is not in the Memoirs of the Society of Grub Street, 2 vols., 1737, a collection of the best pieces from the Journal. The Courant, or The Daily Courant, is also not in the B.M.]</note></seg>
         </ab>
       </div>
     </body>

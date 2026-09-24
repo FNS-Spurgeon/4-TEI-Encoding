@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p390_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p390_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/283156923">John Dart</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/283156923">Dart, John</author>
             <date cert="high" when="1742">1742</date>
             <title level="a">Westmonasterium.</title>
           </analytic>
@@ -84,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="390"/>
-        <ab type="imprint">1742. Dart, John. Westmonasterium. See above, 1721, p. 361; 1723, p. 363.</ab>
+        
+        <ab type="imprint">1742. Dart, John. <hi rend="italic">Westmonasterium</hi>. See above, 1721, p. 361; 1723, p. 363.</ab>
       </div>
     </body>
   </text>

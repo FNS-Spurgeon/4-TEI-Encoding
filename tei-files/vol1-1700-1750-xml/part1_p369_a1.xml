@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p369_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p369_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1727, Walter Harte. To a Young Lady, with Mr. Fenton's Miscellany, and Notes upon the Sixth Thebaid of Statius,</title>
+        <title>1727, Walter Harte. To a Young Lady, with Mr. Fenton's Miscellany, and Notes upon the Sixth Thebaid of Statius.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/34803552">Walter Harte</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/34803552">Harte, Walter</author>
             <date cert="high" when="1727">1727</date>
-            <title level="a">To a Young Lady, with Mr. Fenton's Miscellany, and Notes upon the Sixth Thebaid of Statius,</title>
+            <title level="a">To a Young Lady, with Mr. Fenton's Miscellany, and Notes upon the Sixth Thebaid of Statius.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,21 +83,27 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="369"/>
-        <ab type="imprint">1727. Harte, Walter. To a Young Lady, with Mr. Fenton's Miscellany, and Notes upon the Sixth Thebaid of Statius, [in] Poems on Several Occasions. ... London, Printed for Bernard Lintot, pp. 97, 98, 189-90, 195. (The Works of the English Poets, by Dr. Samuel Johnson, additional lives by A. Chalmers, 1810, vol. xvi, p. 330.) For the text of the Notes, see below, App. A., 1727.</ab>
+        
+        <ab type="imprint">1727. Harte, Walter. <hi rend="italic">To a Young Lady, with Mr. Fenton's Miscellany, and Notes upon the Sixth Thebaid of Statius</hi>, [in] <hi rend="italic">Poems on Several Occasions</hi>. . . . London, Printed for Bernard Lintot, pp. 97, 98, 189-90, 195. (The Works of the English Poets, by Dr. Samuel Johnson, additional lives by A. Chalmers, 1810, vol. xvi, p. 330.) For the text of the Notes, see below, App. A., 1727.</ab>
+        
         <ab type="quotation">
-          <seg>Here Spenser’s thoughts in solemn numbers roll,
-Here lofty Milton seems to lift the soul.
-There sprightly Chaucer charms our hours away
-With stories queint, and gentle roundelay.
-Muse! at that name each thought of pride recall,
-Ah, think how soon the wise and glorious fall!
-. . . .   . . .
-[p. 98]
-Not Chaucer’s beauties could survive the rage
-Of wasting envy, and devouring age:
-One mingled heap of ruin now we see;
-Thus Chaucer is, and Fenton thus shall be!</seg>
-          <note type="footnote">Note in Spurgeon: [Cf. Pope, Essay on Criticism, 1709, "And such as Chaucer is, shall Dryden be." See above, pp. 310-11, 315, 367, and below, pp. 379, 383, 468.]</note>
+          <seg>
+            <lg>
+              <l>Here Spenser’s thoughts in solemn numbers roll,</l>
+              <l>Here lofty Milton seems to lift the soul.</l>
+              <l>There sprightly Chaucer charms our hours away</l>
+              <l>With stories queint, and gentle roundelay.</l>
+              <l>Muse! at that name each thought of pride recall,</l>
+              <l>Ah, think how soon the wise and glorious fall!</l>
+            </lg>
+            . . . . . . .
+            <lg>
+              <note place="margin">[p. 98]</note><l>Not Chaucer’s beauties could survive the rage</l>
+              <l>Of wasting envy, and devouring age:</l>
+              <l>One mingled heap of ruin now we see;</l>
+              <l>Thus Chaucer is, and Fenton thus shall be!<note type="footnote">Note in Spurgeon: [Cf. Pope, <hi rend="italic">Essay on Criticism</hi>, 1709, <l>"And such as Chaucer is, shall Dryden be."</l> See above, pp. 310-11, 315, 367, and below, pp. 379, 383, 468.]</note></l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

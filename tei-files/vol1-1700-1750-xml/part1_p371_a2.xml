@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p371_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p371_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1729-30, Lewis Theobald. Letters to [William] Warburton,</title>
+        <title>1729|30, Lewis Theobald. Letters to [William] Warburton.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/2479987">Lewis Theobald</author>
-            <date cert="high" when="1729-30">1729-30</date>
-            <title level="a">Letters to [William] Warburton,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/2479987">Theobald, Lewis</author>
+            <date cert="high" from="1729" to="1730">1729|30</date>
+            <title level="a">Letters to [William] Warburton.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -86,25 +85,27 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="371"/>
-        <ab type="imprint">1729-30. Theobald, Lewis. Letters to [William] Warburton, March 6, 1729-30, March 31 and Sept. 15, 1730, [in] Illustrations of the Literary History of the 18th century, by John Nichols, 1817, vol. ii, pp. 540, 591, 608.</ab>
+        
+        <ab type="imprint">1729|30. Theobald, Lewis. <hi rend="italic">Letters to</hi> [William] <hi rend="italic">Warburton</hi>, March 6, 1729-30, March 31 and Sept. 15, 1730, [in] Illustrations of the Literary History of the 18th century, by John Nichols, 1817, vol. ii, pp. 540, 591, 608.</ab>
+        
         <ab type="quotation">
-          <seg>March 6. [Notes on Shakespeare’s Troilus and Cressida]
-And to this old Treatise it is, [viz. The Recuyles and Sieges
-of Troy, printed by W. de Worde, 1503] (and not to Lollius,
-or Chaucer, as the Editors imagine) that our Author owes his
-subject, for hence only could he derive the name of Hector's
-horse, Galathe...
-
-March 31. [Speaking of Shakespeare’s use of "affects" for
-affections] In this he is an imitator of his two great masters,
-Chaucer and Spenser.
-Sept. 15. [Speaking of Shakespeare’s use of "gemell" in
-Midsummer Night's Dream “found Demetrius like a gemell."]
-This is so finely guessed, and gives so natural a sense where
-before there was none at all, that I wish heartily the word had
-ever been used again by Shakespeare; or that I could meet with
-it either in Spenser, Chaucer, or any of the old Glossaries.</seg>
-          <note type="footnote">Note in Spurgeon: [See Theobald’s edn. of Shakespeare's Works, 1733, vol. vii, p. 114, where this reference is given, in slightly different words, in a note. See below, p. 375. J. O. Halliwell-Phillipps in his Memoranda on Shakespeare's Tragedy of Troilus and Cressida, 1880, quotes Theobald’s letter of March 6, slightly altering the words.]</note>
+          <seg>March 6. <add>[Notes on Shakespeare’s Troilus and Cressida]</add>
+            And to this old Treatise it is, <add>[viz. The Recuyles and Sieges
+            of Troy, printed by W. de Worde, 1503]</add> (and not to Lollius,
+            or Chaucer, as the Editors imagine) that our Author owes his
+            subject, for hence only could he derive the name of Hector's
+            horse, Galathe . . .<note type="footnote">Note in Spurgeon: [See Theobald’s edn. of Shakespeare's Works, 1733, vol. vii, p. 114, where this reference is given, in slightly different words, in a note. See below, p. 375. <lb/>J. O. Halliwell-Phillipps in his Memoranda on Shakespeare's Tragedy of Troilus and Cressida, 1880, quotes Theobald’s letter of March 6, slightly altering the words.]</note></seg>
+            
+          <seg>March 31. <add>[Speaking of Shakespeare’s use of "affects" for
+            affections]</add> In this he is an imitator of his two great masters,
+            Chaucer and Spenser.</seg>
+            
+          <seg>Sept. 15. <add>[Speaking of Shakespeare’s use of "gemell" in
+            Midsummer Night's Dream "found Demetrius like a gemell."]</add>
+            This is so finely guessed, and gives so natural a sense where
+            before there was none at all, that I wish heartily the word had
+            ever been used again by Shakespeare; or that I could meet with
+            it either in Spenser, Chaucer, or any of the old Glossaries.</seg>
         </ab>
       </div>
     </body>

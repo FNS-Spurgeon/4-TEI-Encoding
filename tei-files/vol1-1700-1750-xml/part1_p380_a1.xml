@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p380_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p380_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1737, Lewis, John.. Life of Mayster Wyllyam Caxton.</title>
+        <title>1737, John Lewis. Life of Mayster Wyllyam Caxton.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Lewis, John.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939150">Lewis, John</author>
             <date cert="high" when="1737">1737</date>
             <title level="a">Life of Mayster Wyllyam Caxton.</title>
           </analytic>
@@ -86,44 +85,53 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="380"/>
-        <ab type="imprint">1737. Lewis, John. Life of Mayster Wyllyam Caxton. p. xix. (Testimonies concerning Wylliam Caxton. Joannes Pits. 1600, see below, App. A); pp. 60, 80-1, 92, 102-8, 114, 122-4.</ab>
+        
+        <ab type="imprint">1737. Lewis, John. <hi rend="italic">Life of Mayster Wyllyam Caxton</hi>. p. xix. (Testimonies concerning Wylliam Caxton. Joannes Pits. 1600, see below, App. A); pp. 60, 80-1, 92, 102-8, 114, 122-4.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 60] ... Now it was but an hundred and twenty four Years
-since that Translation [Trevisa's of the Polychronicon] was
-made; whereas Archbishop Parker noted it as very strange,
-that our Language should be so changed in four hundred
-Years from his time, the Manuscript Book of the Lives of the
-Saints, written about A.D. 1200, in old English Verse, now
-in Bennet College Library, was so written, that People could
-not understand it. This seems owing to the generous
-Endeavours of those two great Genius's, Chaucer and Gower,
-to polish and improve their Mother-tongue.
-[pp. 80-1] He [John Gower] was an intimate Friend and Acquaintance
-of that eminent Poet Geoffery Chaucer, as he shews in this Book,
-[Confessio Amantis] and used to submit his Lucrubrations [sic]
-to his Judgment, as Chaucer did his Loves of Troilus, to the
-Censure and Correction of Gower and Strode.
-[p. 122] Of all our English Writers, Mʳ. Caxton most admired our
-Poet Geoffrey Chaucer. "In all his works, he sayd, he
-excelled, in his opinion, all other writers in our English."
-[Here Lewis quotes Caxton’s Epilogue to the Book of Fame,
-see above, 1483, p. 61.]
-Accordingly, as a Proof of the Respect which Mr. Caxton
-had for this great and worthy Man’s Memory and Writings,
-and his Desire to preserve and perpetuate them, one of his
-most early Performances was his collecting and printing as
-many of his Works as he could get. He likewise procured,
-as has been hinted before, an Elegy to be made for him in
-Latin Verse, and caused two of the Verses, there being in
-all thirty four, to be inscribed on Chaucer's Monument in
-Westminster Abby, viz.
-Galfridus Chaucer vates et fama Poesis
-Materne, hac sacra sum tumulatus humo.
-[See above, 1479, p. 59.]
-Lastly, Mʳ Caxton desired his Readers, according to the
-[p. 124] Superstition of his Time, that of their charite they would
-pray for the said worshipful Geffery Chaucer.</seg>
-          <note type="footnote">Note in Spurgeon: [On pp. 102-8 are references to Caxton's edns. of Chaucer's works; on pp. 92, 114 are alight allusions to Chaucer by Lewis.]</note>
+          <seg><note place="margin">[p. 60]</note>. . . Now it was but an hundred and twenty four Years
+            since that Translation <add>[Trevisa's of the Polychronicon]</add> was
+            made; whereas Archbishop Parker noted it as very strange,
+            that our Language should be so changed in four hundred
+            Years from his time, the Manuscript Book of <hi rend="italic">the Lives of the
+            Saints</hi>, written about A.D. 1200, in old English Verse, now
+            in Bennet College Library, was so written, that People could
+            not understand it. This seems owing to the generous
+            Endeavours of those two great Genius's, Chaucer and Gower,
+            to polish and improve their Mother-tongue.</seg>
+            
+          <seg><note place="margin">[pp. 80-1]</note>He <add>[John Gower]</add> was an intimate Friend and Acquaintance
+            of that eminent Poet Geoffery Chaucer, as he shews in this Book,
+            <add>[Confessio Amantis]</add> and used to submit his Lucrubrations <add>[sic]</add>
+            to his Judgment, as Chaucer did his Loves of <hi rend="italic">Troilus</hi>, to the
+            Censure and Correction of Gower and Strode.</seg>
+            
+          <seg><note place="margin">[p. 122]</note>Of all our English Writers, Mʳ. Caxton most admired our
+            Poet Geoffrey Chaucer. "In all his works, he sayd, he
+            excelled, in his opinion, all other writers in our English."</seg>
+          
+          <milestone unit="page" n="381"/>
+            
+          <seg type="editorial">[Here Lewis quotes Caxton’s Epilogue to the Book of Fame,
+            see above, 1483, p. 61.]</seg>
+            
+          <seg>Accordingly, as a Proof of the Respect which Mr. Caxton
+            had for this great and worthy Man’s Memory and Writings,
+            and his Desire to preserve and perpetuate them, one of his
+            most early Performances was his collecting and printing as
+            many of his Works as he could get. He likewise procured,
+            as has been hinted before, an Elegy to be made for him in
+            Latin Verse, and caused two of the Verses, there being in
+            all thirty four, to be inscribed on Chaucer's Monument in
+            Westminster Abby, viz.
+            <lg>
+              <l>Galfridus Chaucer vates et fama Poesis</l>
+              <l>Materne, hac sacra sum tumulatus humo.</l>
+              <note place="right">[See above, 1479, p. 59.]</note>
+            </lg>
+            Lastly, Mʳ Caxton desired his Readers, according to the
+            <note place="margin">[p. 124]</note>Superstition of his Time, that of their charite they would
+            pray for the said worshipful Geffery Chaucer.<note type="footnote">Note in Spurgeon: [On pp. 102-8 are references to Caxton's edns. of Chaucer's works; on pp. 92, 114 are alight allusions to Chaucer by Lewis.]</note></seg>
         </ab>
       </div>
     </body>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p296_a4">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p296_a4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,15 +87,19 @@
         <ab type="imprint">1708. Prior, Matthew. <hi rend="italic">The Turtle and Sparrow. An Elegiac Tale Occasioned by the Death of Prince George</hi>, 1708. (Prior's Poetical Works, ed. R. Brimley Johnson (Aldine edn.), 1892, vol. ii, p. 209.)</ab>
         
         <ab type="quotation">
-          <seg>Those fowl who seem alive to sit,
-            Assembled by Dan Chaucer's wit,
-            In prose have slept three hundred years:
-            Exempt from worldly hopes and fears,
+          <seg>
+            <lg>
+              <l>Those fowl who seem alive to sit,</l>
+              <l>Assembled by Dan Chaucer's wit,</l>
+              <l>In prose have slept three hundred years:</l>
+              <l>Exempt from worldly hopes and fears,</l>
             
-            <milestone unit="page" n="297"/>
+              <milestone unit="page" n="297"/>
             
-            And, laid in state upon their hearse,
-            Are truly but embalm'd in verse.<note type="footnote">Note in Spurgeon: [This poem was printed separately in 1723 as "The turtle and the sparrow, a poem by the late Matthew Prior." It did not appear in the 1718 edn. of his poems, but the title given is in the edn. of 1892.]</note></seg>
+              <l>And, laid in state upon their hearse,</l>
+              <l>Are truly but embalm'd in verse.<note type="footnote">Note in Spurgeon: [This poem was printed separately in 1723 as "The turtle and the sparrow, a poem by the late Matthew Prior." It did not appear in the 1718 edn. of his poems, but the title given is in the edn. of 1892.]</note></l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

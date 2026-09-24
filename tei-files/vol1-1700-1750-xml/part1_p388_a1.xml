@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p388_a1">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p388_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1740?], William Clarke. An Impromptu on some of the English Poets,</title>
+        <title>[c. 1740?], William Clarke. An Impromptu on some of the English Poets.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/229030241">William Clarke</author>
-            <date cert="low" when="[c. 1740?]">[c. 1740?]</date>
-            <title level="a">An Impromptu on some of the English Poets,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/229030241">Clarke, William</author>
+            <date cert="low" when="1740">[c. 1740?]</date>
+            <title level="a">An Impromptu on some of the English Poets.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,15 +83,20 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="388"/>
-        <ab type="imprint">[c. 1740?] Clarke, William. An Impromptu on some of the English Poets, [first printed by John Nichols in] Literary Anecdotes of the 18th century, vol. iv, 1812, p. 376.</ab>
+        
+        <ab type="imprint">[c. 1740?] Clarke, William. <hi rend="italic">An Impromptu on some of the English Poets</hi>, [first printed by John Nichols in] Literary Anecdotes of the 18th century, vol. iv, 1812, p. 376.</ab>
+        
         <ab type="quotation">
-          <seg>See the Fathers of Verse,
-In their rough uncouth dress,
-Old Chaucer and Gower array'd
-And that Fairy-led Muse,
-Which in Spenser we lose,
-By Fashion’s false power bewray’d.</seg>
-          <note type="footnote">Note in Spurgeon: [Five more verses, on Shakespeare, Fletcher, Beaumont, Ben Jonson, Milton Cowley, Butler, Waller, Dryden, Prior, Addison and Pope.]</note>
+          <seg>
+            <lg>
+              <l>See the Fathers of Verse,</l>
+              <l>In their rough uncouth dress,</l>
+              <l>Old Chaucer and Gower array'd</l>
+              <l>And that Fairy-led Muse,</l>
+              <l>Which in Spenser we lose,</l>
+              <l>By Fashion’s false power bewray’d.<note type="footnote">Note in Spurgeon: [Five more verses, on Shakespeare, Fletcher, Beaumont, Ben Jonson, Milton Cowley, Butler, Waller, Dryden, Prior, Addison and Pope.]</note></l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p329_a2">
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="part1_p329_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,7 +89,7 @@
         <ab type="imprint">[1713-14.] Montagu, Lady Mary Wortley. <hi rend="italic">Unfinished Sketches of a larger poem</hi>, [in] The Letters and Works of Lady Mary Wortley Montagu, ed. Lord Wharncliffe, 1837, vol. iii, p. 391.</ab>
         
         <ab type="quotation">
-          <seg>[Dulness is speaking:]</seg>
+          <seg type="editorial">[Dulness is speaking:]</seg>
           
           <seg>
             <lg>
