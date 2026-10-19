@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1710, Geo[rge] Bubb. The Laurel and the Olive.</title>
+        <title>1710, George Bubb Dodington. The Laurel and the Olive.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Bubb, Geo[rge]</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/36909450">Dodington, George Bubb</author>
             <date cert="high" when="1710">1710</date>
             <title level="a">The Laurel and the Olive.</title>
           </analytic>

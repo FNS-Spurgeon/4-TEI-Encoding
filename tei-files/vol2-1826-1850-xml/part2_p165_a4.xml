@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1827, Malcolm Laing. The Knightly tale of Golagrus and Gawane, and other ancient poems.</title>
+        <title>1827, David Laing. The Knightly tale of Golagrus and Gawane, and other ancient poems.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Laing, Malcolm</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/52470786">Laing, David</author>
             <date cert="high" when="1827">1827</date>
             <title level="a">The Knightly tale of Golagrus and Gawane, and other ancient poems. Printed at Edinburgh by W. Chepman and A. Myllar in the year MDVIIJ.</title>
           </analytic>
@@ -84,7 +84,7 @@
       <div type="allusion">
         <milestone unit="page" n="165"/>
         
-        <ab type="imprint">1827. Laing, Malcolm. <hi rend="italic">The Knightly tale of Golagrus and Gawane, and other ancient poems. Printed at Edinburgh by W. Chepman and A. Myllar in the year MDVIIJ</hi>, ed. by M. Laing.</ab>
+        <ab type="imprint">1827. Laing, {David}. <hi rend="italic">The Knightly tale of Golagrus and Gawane, and other ancient poems. Printed at Edinburgh by W. Chepman and A. Myllar in the year MDVIIJ</hi>, ed. by {D.} Laing.</ab>
         
         <ab type="quotation">
           <seg type="editorial">[Poem No. viii is <hi rend="italic">The Maying or Disport of Chaucer</hi>,

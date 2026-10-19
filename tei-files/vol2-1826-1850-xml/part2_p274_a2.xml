@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1847, C. D. Deshler. Selections from the Poetical Works of Geoffrey Chaucer.</title>
+        <title>1847, Charles Dunham Deshler. Selections from the Poetical Works of Geoffrey Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Deshler, C. D.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/16310884">Deshler, Charles Dunham</author>
             <date cert="high" when="1847">1847</date>
             <title level="a">Selections from the Poetical Works of Geoffrey Chaucer.</title>
           </analytic>

@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1841, Smith, John. The Life, Journal and Correspondence of Samuel Pepys, Esq.</title>
+        <title>1841, John Smith. The Life, Journal and Correspondence of Samuel Pepys, Esq.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Smith, John</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/30154074376311740291">Smith, John</author>
             <date cert="high" when="1841">1841</date>
             <title level="a">The Life, Journal and Correspondence of Samuel Pepys, Esq.</title>
           </analytic>

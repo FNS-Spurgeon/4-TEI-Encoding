@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1721, [Julia Madan]. The Progress of Poetry.</title>
+        <title>1721, [Judith Madan]. The Progress of Poetry.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,9 +35,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="F" ref="http://viaf.org/viaf/">Madan, Julia</author>
+            <author cert="medium" role="F" ref="http://viaf.org/viaf/44171182">Madan, Judith</author>
             <date cert="high" when="1721">1721</date>
-            <title level="a">The Progress of Poetry,</title>
+            <title level="a">The Progress of Poetry.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>

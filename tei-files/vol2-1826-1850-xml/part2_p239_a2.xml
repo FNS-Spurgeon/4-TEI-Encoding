@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1841, Powell, Thomas [or Hunt, James Henry Leigh ?]. The Nun's Priest's Tale; or, the Cock and the Fox. Modernised from Chaucer.</title>
+        <title>1841, Thomas Powell. The Nun's Priest's Tale; or, the Cock and the Fox. Modernised from Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Powell, Thomas [or Hunt, James Henry Leigh ?].</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/40217171">Powell, Thomas</author>
             <date cert="high" when="1841">1841</date>
             <title level="a">The Nun's Priest's Tale; or, the Cock and the Fox. Modernised from Chaucer.</title>
           </analytic>
@@ -86,7 +86,7 @@
       <div type="allusion">
         <milestone unit="page" n="239"/>
         
-        <ab type="imprint">1841. Powell, Thomas [or Hunt, James Henry Leigh?]. <hi rend="italic">The Nun's Priest's Tale; or, the Cock and the Fox. Modernised from Chaucer</hi>, [in] The Monthly Chronicle, Feb. 1841, vol. vii, pp. 119-33.</ab>
+        <ab type="imprint">1841. Powell, Thomas. <hi rend="italic">The Nun's Priest's Tale; or, the Cock and the Fox. Modernised from Chaucer</hi>, [in] The Monthly Chronicle, Feb. 1841, vol. vii, pp. 119-33.</ab>
         
         <ab type="quotation">
           <seg>

@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[a. 1730], W. Wotyx. A Familiar Epistle from the Shades below giving an Account of the Station of the Poets.</title>
+        <title>[a. 1730], William Woty. A Familiar Epistle from the Shades below giving an Account of the Station of the Poets.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Wotyx, W.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Woty, William</author>
             <date cert="low" notAfter="1730">[a. 1730]</date>
             <title level="a">A Familiar Epistle from the Shades below giving an Account of the Station of the Poets.</title>
           </analytic>

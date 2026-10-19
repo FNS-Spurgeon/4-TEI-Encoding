@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1740, Alcæus, pseud. Letter.</title>
+        <title>1740, Samuel Boyse. Letter.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Alcæus, pseud.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/52045161">Boyse, Samuel</author>
             <date cert="high" when="1740">1740</date>
             <title level="a">Letter.</title>
           </analytic>

@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1739, Tim. Vinegar, pseud. Letter to Captain Vinegar.</title>
+        <title>1739, Henry Fielding. Letter to Captain Vinegar.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Vinegar, Tim., pseud.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/61545697">Fielding, Henry</author>
             <date cert="high" when="1739">1739</date>
             <title level="a">Letter to Captain Vinegar.</title>
           </analytic>
@@ -84,7 +84,7 @@
       <div type="allusion">
         <milestone unit="page" n="386"/>
         
-        <ab type="imprint">1739. Vinegar, Tim., pseud. <hi rend="italic">Letter to Captain Vinegar</hi>, November 24, 1739, from Tim. Vinegar [in] The Champion, containing a series of papers humourous, moral . . . London, 1741, vol. i, p. 29.</ab>
+        <ab type="imprint">1739. Vinegar, Tim. {pseud. i.e. Fielding, Henry}. <hi rend="italic">Letter to Captain Vinegar</hi>, November 24, 1739, from Tim. Vinegar [in] The Champion, containing a series of papers humourous, moral . . . London, 1741, vol. i, p. 29.</ab>
         
         <ab type="quotation">
           <seg>. . . No one City in the Universe has produc’d so many
