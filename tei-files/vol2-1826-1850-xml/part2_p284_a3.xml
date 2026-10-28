@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>[c. 1850], T. Noble. Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love.</title>
+        <title>[c. 1850], Theophilus Noble. Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -35,7 +35,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M">Noble, T.</author>
+            <author cert="high" role="M">Noble, Theophilus</author>
             <date cert="low" when="1850">[c. 1850]</date>
             <title level="a">Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love.</title>
           </analytic>

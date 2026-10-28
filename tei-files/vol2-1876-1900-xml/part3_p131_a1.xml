@@ -90,10 +90,11 @@
         <ab type="imprint">1880. Swinburne, Algernon Charles. <hi rend="italic">Short Notes on English Poets</hi>, Chaucer, Spenser, the Sonnets of Shakespeare, Milton, [in] The Fortnightly Review, 1880, pp. 708-10. [Reprinted in <hi rend="italic">Miscellanies</hi>, 1886, pp. 2-6, 88, 150, 152, 175.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Mr. W. Rossetti, in his <hi rend="italic">Lives of Famous Poets</hi>, has selected
+          <seg type="gloss">[Mr. W. Rossetti, in his <hi rend="italic">Lives of Famous Poets</hi>, has selected
               four of our poets "as composing the supreme quadrilateral of
               English song."]</seg>
-              <seg><note place="margin">[p.2]</note> It is through no lack of love and reverence for the name of
+              
+          <seg><note place="margin">[p.2]</note> It is through no lack of love and reverence for the name of
               Chaucer that I must question his right, though the first
               narrative poet of England, to stand on that account beside
               her first dramatic, her first epic, or her first lyric poet. But,
@@ -104,7 +105,8 @@
               inferior to the Iyrical or the dramatic form of poetry; and
               the finer line of distinction which marks it off from the epic
               marks it also thereby as inferior.</seg>
-              <seg>Of all whose names may claim anything like equality of
+              
+          <seg>Of all whose names may claim anything like equality of
               rank on the roll of national poets—not even excepting Virgil—
               we may say that Chaucer borrowed most from abroad, and did
               most to improve whatever he borrowed. I believe it would
@@ -142,7 +144,8 @@
               class in England had less to suffer and to sing than the
               theosophic aristocrat of Italy, or the hunted and hungry
               vagabond. . . .</seg>
-              <seg><note place="margin">[p. 5]</note> But in happy perfection of manhood the great and
+              
+          <seg><note place="margin">[p. 5]</note> But in happy perfection of manhood the great and
               fortunate Englishman almost more exceeds his great and
               unfortunate fellow-singers than he is exceeded by them in
               depth of passion and height of rapture, in ardour and intensity
@@ -150,14 +153,16 @@
               exception of Sophocles, he seems to me the happiest of all
               great poets on record; their standing type and sovereign
               example of noble and manly happiness.</seg>
-              <seg type="editorial"><note place="margin">[p. 152]</note> [Comparison between Chaucer and Wordsworth. Chaucer
+              
+          <seg type="gloss"><note place="margin">[p. 152]</note> [Comparison between Chaucer and Wordsworth. Chaucer
               superior in breadth of human interest, in simplicity of varied
               sympathies, in straightforward and superb command of his
               materials as an artist, in warmth and wealth of humour, in
               consummate power of narrative and in childlike manfulness of
               compassionate or joyous emotion; but Wordsworth’s sublimity
-              is worth all the rest put together.]
-              <note type="footnote">Note in Spurgeon: [This last paragraph was added in 1886.]</note></seg>
+              is worth all the rest put together.]</seg>
+          
+          <seg type="editorialNote">[This last paragraph was added in 1886.]</seg>
         </ab>
       </div>
     </body>
