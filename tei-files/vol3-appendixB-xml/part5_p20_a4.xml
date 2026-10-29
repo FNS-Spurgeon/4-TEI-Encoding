@@ -83,13 +83,13 @@
         <ab type="imprint">1707. Unknown. [Article '<hi rend="italic">Chaucer</hi>' in] <hi rend="italic">Grand dictionnaire historique</hi> [de Moréri], 1707.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The article is a little shorter than that in the edition of 1681.]</seg>
+          <seg type="gloss">[The article is a little shorter than that in the edition of 1681.]</seg>
           
           <seg>. . . Il <add>[Chaucer]</add> fut surnommé l’Homere Anglois
             à cause de ses poësies. Il donna au public divers Ouvrages
             &amp;c. . . .</seg>
           
-          <seg type="editorial">[Leland’s epigram and the epitaph on Chaucer's tomb are both omitted.]</seg>
+          <seg type="gloss">[Leland’s epigram and the epitaph on Chaucer's tomb are both omitted.]</seg>
         </ab>
       </div>
     </body>

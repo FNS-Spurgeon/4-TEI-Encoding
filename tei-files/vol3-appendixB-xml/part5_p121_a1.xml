@@ -85,7 +85,7 @@
         <ab type="imprint">1910. Legouis, Emile. <hi rend="italic">Geoffroy Chaucer</hi> [in the series <hi rend="italic">Les Grands Écrivains Étrangers</hi>], Bloud, Paris, 1910.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[This is the first book written in French on Chaucer as
+          <seg type="gloss">[This is the first book written in French on Chaucer as
             man and artist, giving an account of his environment and his
             poetical development, with a detailed study of the poems.
             The following is a table of the contents.]</seg>
@@ -140,7 +140,7 @@
                 <list>
                   <item>I. A l’auberge du Tabard.</item>
                   <item>II. Première journée de route :
-                  <seg type="editorial">[Here follows a detailed examination and criticism of all
+                  <seg type="gloss">[Here follows a detailed examination and criticism of all
                   the Canterbury Tales, illustrated with charming translations
                   into French verse of portions of the poems.]</seg></item>
                 </list>

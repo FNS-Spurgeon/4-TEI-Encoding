@@ -78,7 +78,12 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="125"/>
-        <ab type="imprint">1881. Beljame, Alexandre. <hi rend="italic">Le Public et les hommes de lettres en Angleterre au xviiie siècle</hi>.<note type="footnote">[Entered above from 2nd edn., 1883, which is identical.]</note></ab>
+        
+        <ab type="imprint">1881. Beljame, Alexandre. <hi rend="italic">Le Public et les hommes de lettres en Angleterre au xviiie siècle</hi>.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[Entered above from 2nd edn., 1883, which is identical.]</seg>
+        </ab>        
       </div>
     </body>
   </text>

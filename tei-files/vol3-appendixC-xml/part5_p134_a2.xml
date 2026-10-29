@@ -87,7 +87,7 @@
         <ab type="imprint">1793. [Eschenburg, J. J.?] <hi rend="italic">Gottfried Chaucer</hi>, [in] <hi rend="italic">Charaktere der vornehmsten Dichter aller Nationen; nebst kritischen und historischen Abhandlungen über Gegenstände der schönen Künste und Wissenschaften, von einer Gesellschaft von Gelehrten</hi>, Leipzig, 1793, vol. ii, pp. 113-139.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[This long and careful essay (27 pp.) is, so far as I know,
+          <seg type="gloss">[This long and careful essay (27 pp.) is, so far as I know,
             by far the best eighteenth-century account of Chaucer
             written by any foreign writer. It is written with evident
             knowledge of Chaucer's work at first hand, and is no mere
@@ -128,7 +128,7 @@
             welches sich der Vortrag des neuern Dichters nun um so
             leichter erwerben konnte. . . . </seg>
           
-          <seg type="editorial">[Romaunt of the Rose, sources and characteristics.]
+          <seg type="gloss">[Romaunt of the Rose, sources and characteristics.]
             <lb/>. . . . . . . . . .
           </seg>
             
@@ -139,7 +139,7 @@
             und er zeigte hier vornämlich seine Stärke in lebhafter
             Erregung des Mitgefühls. . . .</seg>
             
-          <seg type="editorial">[<hi rend="italic">The Hous of Fame</hi>. Pope's rendering is inferior.]</seg>
+          <seg type="gloss">[<hi rend="italic">The Hous of Fame</hi>. Pope's rendering is inferior.]</seg>
             
           <seg>[p. 123] Am berühmtesten indess von allen Werken unsers
             
@@ -148,7 +148,7 @@
             Dichters sind seine <hi rend="italic">Canterbury-Tales</hi>. Die Veranlassung zu
             diesen Erzahlüngen ist ganz sinnreich ausgesonnen.</seg>
           
-          <seg type="editorial">[Description of the setting, and the improvement on Boccaccio's
+          <seg type="gloss">[Description of the setting, and the improvement on Boccaccio's
             Decameron, in that Chaucer’s personages are drawn from
             many different parts of the country, and from different
             classes and trades.]</seg>
@@ -188,7 +188,7 @@
             sind überaus treffend; und er ist beinahe eben das, was der
             Chor auf der griechischen Bühne war. . . .</seg>
             
-          <seg type="editorial">[Chaucer's language and verse is then discussed.]</seg>
+          <seg type="gloss">[Chaucer's language and verse is then discussed.]</seg>
         </ab>
       </div>
     </body>

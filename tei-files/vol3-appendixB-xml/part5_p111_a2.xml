@@ -79,9 +79,11 @@
       <div type="allusion">
         <milestone unit="page" n="111"/>
         
-        <ab type="imprint">1908. <hi rend="italic">Les Contes de Canterbury de Geoffroy Chaucer. Traduction française, avec une introduction et des notes.</hi> . . . Paris, Félix Alcan, 1908.<note type="foonote">Note in Spurgeon: [This appeared as No. 4 bis of the <hi rend="italic">Revue Germanique</hi> for Sept. 1906, 1907 and 1908, and was re-issued in 1 vol. in 1908.]</note></ab>
+        <ab type="imprint">1908. <hi rend="italic">Les Contes de Canterbury de Geoffroy Chaucer. Traduction française, avec une introduction et des notes.</hi> . . . Paris, Félix Alcan, 1908.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[This appeared as No. 4 bis of the <hi rend="italic">Revue Germanique</hi> for Sept. 1906, 1907 and 1908, and was re-issued in 1 vol. in 1908.]</seg>
+          
           <seg>
             <note place="margin">[p. v]</note>La traduction a été ainsi répartie entre les professeurs
             agrégés d’anglais dont les noms suivent :

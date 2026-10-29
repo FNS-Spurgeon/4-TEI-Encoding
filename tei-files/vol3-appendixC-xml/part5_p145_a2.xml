@@ -82,14 +82,16 @@
       <div type="allusion">
         <milestone unit="page" n="145"/>
         
-        <ab type="imprint">1860. Pauli, Reinhold. <hi rend="italic">Bilder aus Alt-England</hi>, Gotha, 1860, chap. vii, <hi rend="italic">Zwei Dichter, Gower und Chaucer</hi>.<note type="footnote">Note in Spurgeon: [An English translation of this book was published in 1861.]</note></ab>
+        <ab type="imprint">1860. Pauli, Reinhold. <hi rend="italic">Bilder aus Alt-England</hi>, Gotha, 1860, chap. vii, <hi rend="italic">Zwei Dichter, Gower und Chaucer</hi>.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[pp. 184-188. Chaucer's Life.]</seg>
+          <seg type="editorialNote">[An English translation of this book was published in 1861.]</seg>
+          
+          <seg type="gloss">[pp. 184-188. Chaucer's Life.]</seg>
             
-          <seg type="editorial">[pp. 193-196. His early poems.]</seg>
+          <seg type="gloss">[pp. 193-196. His early poems.]</seg>
             
-          <seg type="editorial">[pp. 196-208. <hi rend="italic">The Canterbury Tales</hi>, a detailed account.]</seg>
+          <seg type="gloss">[pp. 196-208. <hi rend="italic">The Canterbury Tales</hi>, a detailed account.]</seg>
             
           <seg><add>[p. 208. Conclusion.]</add> Auf dem Gebiete, das er sich so
             köstlich abgesteckt und mit lebendigen Gestalten auszufüllen

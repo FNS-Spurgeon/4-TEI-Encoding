@@ -82,10 +82,10 @@
         <ab type="imprint">1859. Ebert, Adolf. <hi rend="italic">Die Englischen Mysterien</hi> [in] Jahrbuch für romanische und englische Sprache und Litteratur, Berlin, Jan. 1859, pp. 150, 155, 166.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 150]</note>[The national originality of the characters in the mystery
+          <seg type="gloss"><note place="margin">[p. 150]</note>[The national originality of the characters in the mystery
             plays is remarkable, as in Chaucer’s <hi rend="italic">Milleres Tale</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[p.155]</note>[The individual character drawing in the mysteries reminds
+          <seg type="gloss"><note place="margin">[p.155]</note>[The individual character drawing in the mysteries reminds
             one of the creations of the great master Chaucer.]</seg>
         </ab>
       </div>

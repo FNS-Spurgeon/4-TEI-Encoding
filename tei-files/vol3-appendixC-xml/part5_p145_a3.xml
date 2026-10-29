@@ -84,10 +84,10 @@
         <ab type="imprint">1866. Hertzberg, Wilhelm. <hi rend="italic">Chaucer's Canterbury-Geschichten</hi> übersetzt in den Versmassen der Urschrift und durch Einleitung und Anmerkungen erläutert von Wilhelm Hertzberg, Bibliothek ausländischer Klassiker, 41, Hildburghausen, 1866.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A good and close translation of the whole of the Canterbury
+          <seg type="gloss">[A good and close translation of the whole of the Canterbury
             Tales, with the exception of Melibœus and the Parson's Tale.]</seg>
           
-          <seg type="editorial">Vorwort, pp. 5-10. [Dated Bremen, 1865. The writer's
+          <seg type="gloss">Vorwort, pp. 5-10. [Dated Bremen, 1865. The writer's
             object and method in doing this translation is stated, with
             some account of earlier work on Chaucer in England and in
             Germany.]</seg>
@@ -97,7 +97,7 @@
           <seg>Einleitung. Geoffrey Chaucer's Zeitalter, Leben und
             schriftstellerischer Charakter, pp. 13-64.</seg>
             
-          <seg type="editorial">[A good account of Chaucer's times and life, he is shown
+          <seg type="gloss">[A good account of Chaucer's times and life, he is shown
             definitely not to be the author of the <hi rend="italic">Testament of Love</hi>,
             therefore that poem can not be accepted as a biographical
             source (pp. 36, 37). There follows a good deal of interesting
@@ -105,7 +105,7 @@
             which had already been printed in the <hi rend="italic">Deuteches Museum</hi>
             Feb. 21, 1856, and is here quoted under that date.]</seg>
             
-          <seg type="editorial">[Here are two specimens of the translation. Prologue, ll. 447-57.]</seg>
+          <seg type="gloss">[Here are two specimens of the translation. Prologue, ll. 447-57.]</seg>
             
           <lg>
             <note place="margin">[p. 79]</note><l>Ein gutes Weib war da; sie war nicht weit</l>

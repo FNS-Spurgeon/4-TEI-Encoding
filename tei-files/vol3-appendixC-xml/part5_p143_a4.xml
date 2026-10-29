@@ -87,7 +87,7 @@
         <ab type="imprint">1856. Hertzberg, Wilhelm. <hi rend="italic">Die Erzählung des Weibes von Bath</hi>, aus Gottfried Chaucer’s ‘Canterbury-Erzählungen.’ Translated into German heroic verse, [in] Deutsches Museum, hrsg. von Robert Prutz, No. 6, Feb. 7, 1856, pp. 193-202. <lb/><hi rend="italic">Geoffrey Chaucer's Leben und Schriftstellerischer Charakter</hi> [in] Deutsches Museum, No. 8, Feb. 21, 1856, pp. 271-89.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A very good account of Chaucer’s life and work.]</seg>
+          <seg type="gloss">[A very good account of Chaucer’s life and work.]</seg>
           
           <seg><note place="margin">[p. 288]</note>Chaucer's Charakteristiken lösen eins der schwerigsten
             Probleme der Kunst: sie sind individuell und typisch zugleich;
@@ -129,7 +129,7 @@
             englischen Volks-charakters geworden ist: Chaucer ist der
             erste Humorist.</seg>
             
-          <seg type="editorial">[The above excellent criticism is embodied in the
+          <seg type="gloss">[The above excellent criticism is embodied in the
             ‘Einleitung' to Hertzberg’s translation of the Canterbury
             Tales which was published ten years later. See below, 1866.]</seg>
         </ab>

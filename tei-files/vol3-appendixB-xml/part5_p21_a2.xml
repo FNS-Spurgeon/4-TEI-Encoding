@@ -82,7 +82,7 @@
         <ab type="imprint">1717. Unknown. <hi rend="italic">Dissertation sur la Poësie Angloise</hi>, [article in the] <hi rend="italic">Journal Litéraire</hi> de l’année 1717, à la Haye, tome ix, pt. i, p. 216.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A long detailed article on English poetry, with comparison
+          <seg type="gloss">[A long detailed article on English poetry, with comparison
             between French and English poets. These words come at
             the end]:</seg>
             
@@ -94,7 +94,7 @@
             nouvelle Edition de ses Œuvres, que nous avons déjà annoncée
             paroîtra.</seg>
             
-          <seg type="editorial">[Other authors not mentioned for lack of space are
+          <seg type="gloss">[Other authors not mentioned for lack of space are
             Beaumont and Fletcher, Lord Orrery, Ben Jonson, Suckling,
             Sedley, Denham, Etherige, Cowley, Waller, Otway, Wicherly
             and Congreve.]</seg>

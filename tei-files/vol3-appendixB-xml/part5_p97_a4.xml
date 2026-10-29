@@ -85,7 +85,7 @@
         <ab type="imprint">1894. Jusserand, J. J. <hi rend="italic">Histoire littéraire du peuple anglais</hi>. Paris, 1894, tom. 1, pp. 124, 165-6, 220, 226, 232, 240, 245, 246 [chapter ii, CHAUCER], pp. 269-349, pp. 351, 354, 355, 360, 362, 363, 367, 371, 373, 374, 379, 380, 382, 383, 384, 385, 390, 393, 399, 400, 401, 403, 404, 411, 412, 413, 414, 423, 424, 435, 464, 478, 487, 488, 496, 513, 514, 515, 516, 517, 518, 519, 521, 522, 523, 524, 525, 528, 529, 530, 542.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[pp. 269-349, a lengthy sketch of Chaucer's life and
+          <seg type="gloss">[pp. 269-349, a lengthy sketch of Chaucer's life and
             works, more especially of the <hi rend="italic">House of Fame</hi>, <hi rend="italic">Troilus</hi> and
             the <hi rend="italic">Canterbury Tales</hi>.]</seg>
             
@@ -172,7 +172,7 @@
             songer à Swift et à Fielding ; et l’on peut d’autant mieux en
             effet songer à Fielding qu’il a consacré tout son roman de
             <hi rend="italic">Jonathan Wild-le-Grand</hi> à développer exactement la même
-            thèse.<note type="footnote">
+            thèse.<note type="footnote" n="1">
               <lg>
                 <l>But, for the tiraunt is of greter might</l>
                 <l>By force of meyné for to sle doun right,</l>

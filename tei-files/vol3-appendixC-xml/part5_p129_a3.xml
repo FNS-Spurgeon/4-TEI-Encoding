@@ -94,9 +94,11 @@
             Id est:
             <lg>
               <l>Sie war ein würdig Weib in allem ihrem Leben</l>
-              <l>Der Männer fünff bekam sie für der Kirch Thür eben.<note type="footnote">Note in Spurgeon: [For the Selden reference see above, pt. i, 1646.]</note></l>
+              <l>Der Männer fünff bekam sie für der Kirch Thür eben.</l>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[For the Selden reference see above, pt. i, 1646.]</seg>
         </ab>
       </div>
     </body>

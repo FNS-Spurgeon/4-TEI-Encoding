@@ -91,7 +91,7 @@
         <ab type="quotation">
           <seg>Discours sur les Contes. <add>[pp. 4, 5.]</add></seg>
             
-          <seg type="editorial"><add>[Chaucer imitated the Italians and also the 'Conteurs' of Provence.]</add>
+          <seg type="gloss"><add>[Chaucer imitated the Italians and also the 'Conteurs' of Provence.]</add>
             Ainsi ne cherchez pas plus d’inventions dans
             les Poëmes de Chaucer que dans ceux de la Fontaine, mais
             si l’invention du fond leur manque, elle est suppléée dans l’un
@@ -143,7 +143,7 @@
             Il est sublime quelquefois, mais il ne l’est pas aussi souvent
             qu’Homère.</seg>
             
-          <seg type="editorial">[Chaucer imitated the <hi rend="italic">Teseide</hi> of Boccaccio in 1400. Yart
+          <seg type="gloss">[Chaucer imitated the <hi rend="italic">Teseide</hi> of Boccaccio in 1400. Yart
             then quotes the description of this poem by Dryden: 'Ce
             <note place="margin">[pp. 29-30]</note> Poème est du genre épique &amp;c. . . .]</seg>
             
@@ -155,7 +155,7 @@
             that Dryden had to say on this subject in his Preface to
             the <hi rend="italic">Fables</hi>; see above, pt. i, pp. 282-3]</add>.</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 33-81]</note>[Translation of the <hi rend="italic">Palamon and Arcite</hi> of Dryden.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 33-81]</note>[Translation of the <hi rend="italic">Palamon and Arcite</hi> of Dryden.]</seg>
             
           <seg><note place="margin">[note. p. 78]</note>Etait-ce faute de goût ou par amour-propre, que Dryden
             <note place="margin">[p. 79]</note>mettoit ce Poëme vis-à-vis de l’Iliade &amp; de l’Enéide. J’ai

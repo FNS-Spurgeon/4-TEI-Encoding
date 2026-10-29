@@ -129,7 +129,7 @@
             science et réflexion; ce sont, Speght, Godwin, et John
             Urry. . . .</seg>
             
-          <seg type="editorial">[Here follows a short life of the poet, written with care.
+          <seg type="gloss">[Here follows a short life of the poet, written with care.
             <hi rend="italic">The Testament of Love</hi> is given as the foundation for the
             story of Chaucer's flight. Next comes a collection of
             
@@ -160,7 +160,7 @@
             <note place="margin">[p. 39]</note>un défaut de plan bien sensible, et par des répétitions, des
             redondances qui en rendent la lecture difficile et fatigante.</seg>
           
-          <seg type="editorial">[A detailed account of the poem follows, pp. 39-48.]<lb/>. . . . . . . . . .</seg>
+          <seg type="gloss">[A detailed account of the poem follows, pp. 39-48.]<lb/>. . . . . . . . . .</seg>
             
           <seg><note place="margin">[p. 49]</note><hi rend="italic">Le livre de la duchesse</hi>. <add>[An account of the poem with long quotations in French, pp. 49-54.]</add></seg>
             
@@ -181,7 +181,7 @@
             
           <milestone unit="page" n="57"/>
             
-          <seg type="editorial">[The author gives an abridgement of the Prologue in
+          <seg type="gloss">[The author gives an abridgement of the Prologue in
             French, up to the end of the description of the Prioress.]</seg>
             
           <seg><note place="margin">[p. 81]</note>. . . Cette galerie de personnages se continue de la
@@ -276,7 +276,7 @@
             
           <milestone unit="page" n="59"/>
           
-          <seg type="editorial">[The description of the monk follows.]</seg>
+          <seg type="gloss">[The description of the monk follows.]</seg>
             
           <seg><note place="margin">[p. 88]</note>. . . L’indignité du frère prêcheur a pour pendant l’avarice
             et la fourberie de l’huissier épiscopal et du porteur d’indulgences.
@@ -313,7 +313,7 @@
             <note place="margin">[p. 91]</note>aussi aux hommes de Dieu la pauvreté et l’innocence des
             premiers temps du christianisme.</seg>
             
-          <seg type="editorial">[Comparison with the <hi rend="italic">Decamerone</hi> of Boccaccio] . . .</seg>
+          <seg type="gloss">[Comparison with the <hi rend="italic">Decamerone</hi> of Boccaccio] . . .</seg>
             
           <seg><note place="margin">[p. 93]</note>Exception faite du récit du chevalier qui tient un rang
             tout à fait hors ligne, les contes enchâssés dans le pèlerinage
@@ -343,11 +343,11 @@
             davantage la qualité d’originale accordée si souvent, et à juste
             titre, aux autres imitations de notre poète. . . .</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 101-204]</note>[Prose translation of the <hi rend="italic">Knightes Tale</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 101-204]</note>[Prose translation of the <hi rend="italic">Knightes Tale</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 207-247]</note> [Analysis of the Prologues and Tales and extracts from them.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 207-247]</note> [Analysis of the Prologues and Tales and extracts from them.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 251-271]</note> [Brief examination of the shorter poems and prose translations of some ot them.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 251-271]</note> [Brief examination of the shorter poems and prose translations of some ot them.]</seg>
         </ab>
       </div>
     </body>

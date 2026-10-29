@@ -87,9 +87,9 @@
         <ab type="imprint">1859. Sandras, E. G. <hi rend="italic">Étude sur Chaucer considéré comme imitateur des Trouvères</hi>, Paris, 1859.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Table of contents.]</seg>
+          <seg type="gloss">[Table of contents.]</seg>
             
-          <seg type="editorial">[Introduction, pp. 1-7. 1re Partie. BIOGRAPHIE ET
+          <seg type="gloss">[Introduction, pp. 1-7. 1re Partie. BIOGRAPHIE ET
             POÈMES ALLÉGORIQUES, chap. i, Biographie, pp. 11-29;
             chap. ii, Roman de la Rose, pp. 31-40; chap. iii, Étude des
             poëmes de source italienne et française, i.e., <hi rend="italic">Troïlus et Cresséide</hi>,
@@ -147,7 +147,7 @@
             ou, si l’on veut, altéré; c’est à l’école de Jean du Meung que
             s’est façonné son esprit.</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 41-50]</note> [Sandras shows that <hi rend="italic">Troylus</hi>, although translated from
+          <seg type="gloss"><note place="margin">[pp. 41-50]</note> [Sandras shows that <hi rend="italic">Troylus</hi>, although translated from
             the <hi rend="italic">Filostrato</hi> of Boccaccio, owes something to Benoît de
             Sainte-Maure, and that this love-tale was first related by
             him, and subsequently re-told by Boccaccio, Chaucer and
@@ -180,7 +180,7 @@
             G. de Machault, et peut-être quelque Volucraire qui a
             échappé à mes recherches. . . .</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 71-72]</note>[Sandras prints the first lines of the rondeau which is sung
+          <seg type="gloss"><note place="margin">[pp. 71-72]</note>[Sandras prints the first lines of the rondeau which is sung
             by the birds <add>[<hi rend="italic">Parl. of Foules</hi>]</add>, 'Qui bien aime a tart oublie,'
             and which he finds at the beginning of one of the two poems
             by Machaut called <hi rend="italic">Le Lay de plour</hi>.]</seg>
@@ -190,9 +190,9 @@
             <lb/>. . . . . . . . . .
           </seg>
             
-          <seg type="editorial"><note place="margin">[pp. 81-89]</note>[Chaucer's debt to G. de Machaut in the <hi rend="italic">Dream of Chaucer</hi> (<hi rend="italic">Dit du Lyon</hi>) and to Marie de France (<hi rend="italic">Lai d'Eliduc</hi>).]</seg>
+          <seg type="gloss"><note place="margin">[pp. 81-89]</note>[Chaucer's debt to G. de Machaut in the <hi rend="italic">Dream of Chaucer</hi> (<hi rend="italic">Dit du Lyon</hi>) and to Marie de France (<hi rend="italic">Lai d'Eliduc</hi>).]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 89-95]</note>[His debt to the <hi rend="italic">Roman de la Rose</hi>, to Machaut, and to Froissart in the <hi rend="italic">Boke of the Duchesse</hi>.]
+          <seg type="gloss"><note place="margin">[pp. 89-95]</note>[His debt to the <hi rend="italic">Roman de la Rose</hi>, to Machaut, and to Froissart in the <hi rend="italic">Boke of the Duchesse</hi>.]
             <lb/>. . . . . . . . . .
           </seg>
             
@@ -274,7 +274,7 @@
             des personnages, il est inventeur . . . il a surtout pour
             <note place="margin">[p. 140]</note> modèle la réalité qui l’entoure.</seg>
             
-           <seg type="editorial"><note place="margin">[pp 142-194]</note>[Description ot the pilgrims.]</seg>
+           <seg type="gloss"><note place="margin">[pp 142-194]</note>[Description ot the pilgrims.]</seg>
             
            <seg><note place="margin">[pp. 194-195]</note>On serait amené à cette conviction qu’en ce siècle, où
             religieux et laïcs jouaient dans les églises des farces grossières,
@@ -288,14 +288,14 @@
             nos trouvères ont tracé les premiers linéaments des portraits
             qu’il achève si bien.</seg>
             
-           <seg type="editorial"><note place="margin">[pp. 197-251]</note>[The sources of the Tales.]</seg>
+           <seg type="gloss"><note place="margin">[pp. 197-251]</note>[The sources of the Tales.]</seg>
             
            <seg><note place="margin">[p. 197]</note>Le résultat de ces investigations laborieuses <add>[de plusieurs
             écrivains]</add> a été de constater que le poëte anglais ne doit
             rien au Décaméron, et qu’il a puisé, comme Boccace, à des
             sources françaises.</seg>
           
-          <seg type="editorial">[This point is dealt with in detail.
+          <seg type="gloss">[This point is dealt with in detail.
             (1) Legends, The Prioresses Tale, seconde Nonnes T. (Jacques
             de Voragine), Man of Lawes T. ; (2) Breton lays, Clerkes T.
             W. of Bathes T., Franklin's T.; (3) fabliaux, Phisiciens T.

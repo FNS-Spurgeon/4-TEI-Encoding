@@ -82,7 +82,9 @@
         <ab type="imprint">[n. a. 1857?] Comte, Auguste. <hi rend="italic">Calendrier Positiviste</hi>.</ab>
         
         <ab type="quotation">
-          <seg>8° mois (Dante, l’Épopée moderne) 2 <add>[July 17]</add> Boccace, Chaucer.<note type="footnote">Note in Spurgeon: [Not in 1st edn., 1849. Comte died in 1857.]</note></seg>
+          <seg>8° mois (Dante, l’Épopée moderne) 2 <add>[July 17]</add> Boccace, Chaucer.</seg>
+          
+          <seg type="editorialNote">[Not in 1st edn., 1849. Comte died in 1857.]</seg>
         </ab>
       </div>
     </body>

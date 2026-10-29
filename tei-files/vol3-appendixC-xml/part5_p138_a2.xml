@@ -84,7 +84,7 @@
         <ab type="imprint">1812. Breyer, Carl Wilhelm Friedrich. <hi rend="italic">Leben Geoffrey Chaucer's des Vaters der englischen Dichtkunst</hi>. Nach dem Englischen Herrn William Godwins frey bearbeitet, Jena, 1812.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[This is an admirably done paraphrase of Godwin’s <hi rend="italic">Life
+          <seg type="gloss">[This is an admirably done paraphrase of Godwin’s <hi rend="italic">Life
             of Chaucer</hi> (1803), retaining all the essentials relating to
             Chaucer and his work, and omitting the superfluous, as
             Breyer indicates in his preface. Some twenty-one irrelevant
@@ -102,7 +102,7 @@
             Form, in welcher der berühmte Verfasser dies Geschenk
             darbrachte, müssen wir unsern Beyfall versagen.</seg>
           
-          <seg type="editorial">[It is not only a life of Chaucer, but an historical account
+          <seg type="gloss">[It is not only a life of Chaucer, but an historical account
             of the fourteenth century in England, there are too many
             long digressions in it.] . . .</seg>
             

@@ -79,7 +79,11 @@
       <div type="allusion">
         <milestone unit="page" n="125"/>
         
-        <ab type="imprint">1888. Paris, Gaston. <hi rend="italic">La Littérature française au moyen âge</hi>.<note type="footnote">[The Chaucer references in this, the 1st, edn. are identical with those in the 2nd 1890, entered above.]</note></ab>
+        <ab type="imprint">1888. Paris, Gaston. <hi rend="italic">La Littérature française au moyen âge</hi>.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[The Chaucer references in this, the 1st, edn. are identical with those in the 2nd 1890, entered above.]</seg>
+        </ab>
       </div>
     </body>
   </text>

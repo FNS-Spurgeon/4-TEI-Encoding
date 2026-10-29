@@ -82,7 +82,7 @@
         <ab type="imprint">1796. Blankenburg, Friedrichs von. <hi rend="italic">Litterarische Zusätze zu J. G. Sulzers allgemeiner Theorie der schönen Künste</hi>, 3 vols., Leipzig, 1796-1798, vol. i, pp. 53, 54, 498, 510, 541, vol. ii, pp. 58, 65, vol. iii, p. 54.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[This is a kind of Dictionary or Encyclopedia of the Fine
+          <seg type="gloss">[This is a kind of Dictionary or Encyclopedia of the Fine
             Arts, with bibliographies. The Romaunt of the Rose and
             House of Fame are mentioned under ‘Allegorie’; the C.
             Tales under ‘Erzählung'; the Knight's Tale, Squire’s Tale,
@@ -95,7 +95,7 @@
             Chaucer (†1400. Seine Erzählungen sind unter dem
             Nahmen der Canterbury Tales bekannt.</seg>
           
-          <seg type="editorial">[List of Tales follows, with references to Tyrwhitt, Bell, Warton, etc.]</seg>
+          <seg type="gloss">[List of Tales follows, with references to Tyrwhitt, Bell, Warton, etc.]</seg>
         </ab>
       </div>
     </body>

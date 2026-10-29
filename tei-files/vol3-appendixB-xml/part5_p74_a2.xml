@@ -89,12 +89,12 @@
             
           <milestone unit="page" n="75"/>
             
-          <seg type="editorial">
+          <seg type="gloss">
             <note place="margin">[pp. 400-401]</note>[Chaucer's prioress, and the French which she speaks.]
             <lb/>. . . . . . . . . . .
           </seg>
             
-          <seg type="editorial">
+          <seg type="gloss">
             <note place="margin">[pp. 500-501]</note>[Chaucer satirises chivalry in <hi rend="italic">Sir Thopas</hi>.]
             <lb/>. . . . . . . . . . .
           </seg>
@@ -109,7 +109,7 @@
             Lydgate, il avait mis à profit les poëtes des deux pays : on ne
             croit pas qu’il eût étudié ceux de la Provence.</seg>
             
-          <seg type="editorial">[A list follows of his translations and imitations, pp. 506-7.]</seg>
+          <seg type="gloss">[A list follows of his translations and imitations, pp. 506-7.]</seg>
             
           <seg><note place="margin">[p. 507]</note> On sait que plusieurs nouvelles des autres pèlerins, comme
             celle de Griselidis . . . viennent réellement de Boccace;

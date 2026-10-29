@@ -85,7 +85,7 @@
         <ab type="imprint">1755. Unknown. <hi rend="italic">Journal Étranger</hi>, [Periodical founded in Paris in 1754, and directed by l’Abbé Prévost from January to August, 1755]. Vies des Poëtes Anglois, par M. Colley Cibber, in the article <hi rend="italic">Philologie</hi>, May, 1755, pp. 156-172; August, p. 125.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The first ot these articles on the <hi rend="italic">Lives</hi> of Cibber is printed
+          <seg type="gloss">[The first ot these articles on the <hi rend="italic">Lives</hi> of Cibber is printed
             in the March number, 1755, and deals with Eustace Budgell,
             the <hi rend="italic">Tatler</hi>, <hi rend="italic">Spectator</hi>, and <hi rend="italic">Guardian</hi>.]</seg>
           
@@ -171,7 +171,7 @@
             rendre que par comparaison. C’est un stile, auquel celui de
             Villon et de Marot ressemble assez dans notre Langue. . . .</seg>
           
-          <seg type="editorial">
+          <seg type="gloss">
             [A translation follows of part of the Prologue of the Pardoner.]
             <lb/>. . . . . . . . . . .
           </seg>

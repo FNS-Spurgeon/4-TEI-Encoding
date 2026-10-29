@@ -84,7 +84,7 @@
         <ab type="imprint">1674. Moréri, Louis. [Article '<hi rend="italic">Geofroy</hi>' in the] <hi rend="italic">Grand dictionnaire historique</hi> . . . première édition. [This work was revised and reprinted in 1681 (q. v.), and many times afterwards.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[No article under Chaucer. But under Geofroy or Godefroy de Viterbe there is a second paragraph which begins:]</seg>
+          <seg type="gloss">[No article under Chaucer. But under Geofroy or Godefroy de Viterbe there is a second paragraph which begins:]</seg>
           
           <milestone unit="page" n="19"/>
           
@@ -102,7 +102,7 @@
             
           <seg>. . . Geoffroy de Ville Hardouin. <add>[4 lines.]</add></seg>
           
-          <seg type="editorial">[These five men are described in this one paragraph, whereas a little earlier 16 lines are given to Geofroy de Monmouth.]</seg>
+          <seg type="gloss">[These five men are described in this one paragraph, whereas a little earlier 16 lines are given to Geofroy de Monmouth.]</seg>
         </ab>
       </div>
     </body>

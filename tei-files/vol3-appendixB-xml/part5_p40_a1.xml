@@ -86,7 +86,7 @@
         <ab type="imprint">1813. Suard, Jean-Baptiste-Antoine. [Article on <hi rend="italic">Chaucer</hi> in the] <hi rend="italic">Biographie Universelle, ancienne et moderne</hi>. . . . ouvrage entièrement neuf, redigé par une société de gens de lettres. Paris, 1813, tome viii, pp. 286-89.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A long biography, with the usual errors due to the
+          <seg type="gloss">[A long biography, with the usual errors due to the
             acceptance of the <hi rend="italic">Testament of Love</hi>, but written with care,
             and indicating some knowledge of the poems of Chaucer.]</seg>
             
@@ -146,7 +146,7 @@
             poésie de l’esprit et des fictions chevaleresques. Son conte
             de <hi rend="italic">Sir Topaz</hi> est dans le goût de <hi rend="italic">Don Quichotte</hi>.</seg>
           
-          <seg type="editorial">[Suard’s article, much abridged, and containing hardly anything of the passages quoted above, was reprinted in the <hi rend="italic">Biographie universelle</hi> of 1833 (6 vols.), of 1838 (6 vols.) and of 1843-7 (Brussels, 21 vols.); and also in the <hi rend="italic">Biographie universelle classique</hi>, 1829.]</seg>
+          <seg type="gloss">[Suard’s article, much abridged, and containing hardly anything of the passages quoted above, was reprinted in the <hi rend="italic">Biographie universelle</hi> of 1833 (6 vols.), of 1838 (6 vols.) and of 1843-7 (Brussels, 21 vols.); and also in the <hi rend="italic">Biographie universelle classique</hi>, 1829.]</seg>
         </ab>
       </div>
     </body>

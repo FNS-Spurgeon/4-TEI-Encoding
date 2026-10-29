@@ -83,9 +83,11 @@
       <div type="allusion">
         <milestone unit="page" n="35"/>
         
-        <ab type="imprint">1775. Unknown. [Article on <hi rend="italic">Chaucer</hi> in the] <hi rend="italic">Journal anglais</hi>, contenant les découvertes dans les sciences, les arts libéraux, etc., No. 1, Oct. 15, 1775, pp. 11-18.<note type="footnote">Note in Spurgeon: [This article is mentioned in <hi rend="italic">l’Année Littéraire</hi>, 1775, tome v., p. 279.]</note></ab>
+        <ab type="imprint">1775. Unknown. [Article on <hi rend="italic">Chaucer</hi> in the] <hi rend="italic">Journal anglais</hi>, contenant les découvertes dans les sciences, les arts libéraux, etc., No. 1, Oct. 15, 1775, pp. 11-18.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[This article is mentioned in <hi rend="italic">l’Année Littéraire</hi>, 1775, tome v., p. 279.]</seg>
+          
           <seg><add>[A life of Chaucer.]</add> Il paraît que son père était chevalier,
             . . . Le jeune Chaucer reçut un accueil favorable à la cour,
             après avoir quitté l’Université et le collège des Loix. . . .
@@ -94,7 +96,7 @@
             son goût pour la poésie, dont il avait déjà donné des preuves
             à Cambridge par sa <hi rend="italic">Cour d’Amour</hi>. . . .</seg>
             
-          <seg type="editorial">[The poet then travelled in France, in Holland and the Low Countries, and
+          <seg type="gloss">[The poet then travelled in France, in Holland and the Low Countries, and
             at this period composed his imitation of the <hi rend="italic">Roman de la Rose</hi>.]</seg>
             
           <seg>Quand les premiers feux de l’âge commencèrent à se
@@ -109,7 +111,7 @@
             Courtisan accompli. Il fut fait d’abord Page du Roi, place
             surtout alors, très honorable.</seg>
           
-          <seg type="editorial">[The author proceeds to enumerate the favours bestowed on Chaucer by different
+          <seg type="gloss">[The author proceeds to enumerate the favours bestowed on Chaucer by different
             monarchs and then (following Cibber) refers to the patronage
             of the great court ladies. See le <hi rend="italic">Journal Étranger</hi>, 1755, above.]</seg>
             
@@ -117,7 +119,7 @@
             pas réduit à travailler pour vivre. Il suivit son goût, il
             écrivit pour la gloire.</seg>
           
-          <seg type="editorial">[Chaucer was appointed Comptroller of the Customs, became the brother-in law of the Duke of
+          <seg type="gloss">[Chaucer was appointed Comptroller of the Customs, became the brother-in law of the Duke of
               Lancaster, and was forced to leave England]</seg>
             
           <seg>Il y retourna ensuite, et il y fut quelque tems dans une situation très
