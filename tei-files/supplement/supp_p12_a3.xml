@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p12_a3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1870, John Ruskin. Lectures on Art.</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
+            <date cert="high" when="18">1870</date>
+            <title level="a">Lectures on Art.</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">Supplement</biblScope>
+            <biblScope unit="part"></biblScope>
+            <biblScope unit="page">12-13</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-10-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="12"/>
+        <ab type="imprint">1870. Ruskin, John. Lectures on Art. Lecture I, Inaugural. Works of Ruskin, Library edn., ed. E. T. Cook and A. Wedderburn, 1905, vol. xx, pp. 23, 29, 30.</ab>
+        <ab type="quotation">
+          <seg>[p. 23] [A note pointing an additional passage in an early draft.]
+The best poetry has been done for no salary at all; but
+for casual alms, as the Iliad; or bitter bread, as the Divina
+Commedia. Chaucer, indeed,—"well of English undefiled"
+—had salary, thirteen pounds a year and a pitcher of wine
+daily; but when he was seventy years old, was borrowing
+a few shillings from week to week in advance of his pension.
+[With a brief note by the editors on the passage.]
+[p. 29] I think the most perfect type of a true English mind in
+its best possible temper, is that of Chaucer; and you will
+find that, while it is for the most part full of thoughts of
+beauty, pure and wild like that of an April morning,1 there
+are, even in the midst of this, sometimes momentarily jesting
+passages which stoop to play with evil—while the power of
+listening to and enjoying the jesting of entirely gross persons,
+whatever the feeling may be which permits it, afterwards
+degenerates into forms of humour which render some of
+quite the greatest, wisest, and most moral of English writers
+now almost useless for our youth. And yet you will find that
+whenever Englishmen are wholly without this instinct, their
+genius is comparatively weak and restricted.
+Ibid., Lecture III, The Relation of Art to Morals, Library
+edn., vol. xx, p. 77.
+"Never elated, while one man's oppress'd;
+Never dejected, while another's bless'd."2
+I wish you also to remember these lines of Pope, and to
+make yourselves entirely masters of his system of ethics;
+because, putting Shakespeàre aside as rather the world's
+than ours, I hold Pope to be the most perfect representative
+we have, since Chaucer, of the true English mind; and I
+think the Dunciad is the most absolutely chiselled and
+monumental work "exacted" in our country.
+1 Footnote by editors: A reference to the first line of the Canterbury Tales: "When that
+Aprile with his schowres swoote."
+2 Footnote by editors: Essay on Man, iv 323-4.</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

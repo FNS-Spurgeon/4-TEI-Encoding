@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p144_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1895, Thomas R. Price. Troilus and Criseyde: a Study on Chaucer's Method of Narrative Construction</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/78623549">Thomas R. Price</author>
+            <date cert="high" when="1895">1895</date>
+            <title level="a">Troilus and Criseyde: a Study on Chaucer's Method of Narrative Construction</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">p</biblScope>
+            <biblScope unit="part"></biblScope>
+            <biblScope unit="page">144-145</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-10-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="144"/>
+        <ab type="imprint">1895. Price, Thomas R. Troilus and Criseyde: a Study on Chaucer's Method of Narrative Construction (read at Annual Meeting of Modern Language Association, Yale, New Haven, Conn., Dec. 1875; Modern Language Notes, Feb. 1896, p. 40), [in] Publications Modern Language Association, Baltimore, 1896, vol. xv (new series, vol. iv), pp. 307-322.</ab>
+        <ab type="quotation">
+          <seg>[p. 309] In thus dealing with his characters and his situations,
+Chaucer was "the first of modern poets to tell an extended
+story on a dramatic plan" ([Courthope’s] History of English
+Poetry, i, 307). Here, in this right use of the term dramatic,
+we have for the first time the full greatness of this poem
+recognized. . .
+[p. 310] The term "dramatic" that Mr. Courthope has used in
+describing this poem is... just the term that expresses its
+essential excellence. And yet, to be taken as true, this term
+has to be used, not in its vulgar sense, but in its true and
+scientific sense.  ... Chaucer's poem is not only the first
+example in our literature of the story developed on the
+dramatic plan. It is the discovery, and the brilliant applica-
+tion, by the poet of the fourteenth century, of the principles
+of literary art that form in the drama and the romance alike
+the special glory of the nineteenth.
+It is plain from passages in the poem itself, that Chaucer
+has pondered deeply on the artistic problem of emotion and
+action, that is, on the theory of human motives, and on the
+connected problem of artistic construction.
+[Chaucer's deterministic view of life, p. 311. Arrangement
+of the poem into 50 dramatic scenes with link passages,
+p. 312. Of these 50 scenes, 32 have the artistic structure
+of the dialogue (p. 313), each progressive stage of the action
+being attained by the action of mind on mind through dialogue
+(p. 314). Nine monologues, four given to Criseyde, and five
+to Troylus, in some of them the utterance of passion being
+carried to the highest point of lyrical force, p. 314. Only two
+trio scenes, Chaucer having an aversion to these, and using
+them with sensuous imaginativeness to give brilliant pictures
+of life and natural scenery, p. 315. Fourteen persons in the
+action, six women and eight men; ten of whom are of
+secondary importance, pp. 315-6. The poet's art concentrated
+on four characters, p. 316. The main characters, pp. 316-18.
+Criseyde the permanent centre of greatest interest, p. 318.
+The five parts of the dramatic scheme; minute revelation of
+motive in 37 scenes, the climax in a single scene, and the
+results of the climax, Criseyde's degradation under the influ¬
+ence of Diomed in twelve scenes: postponement of the climax
+to within one-fourth of the end, pp. 318-9. In 266 lines the
+protasis of the drama; then, in 5486 lines the fully developed
+epitasis, from the scene in the temple, opening the action, to
+the beginning of the climax-scene; next in 619 lines, climax
+and solution of the dramatic problem; and in 1820 lines, the
+fourth stage, the seduction of Criseyde and Death of Troylus;
+last of all, in 50 lines, the soul of Troylus, looking down from
+Paradise on the baseness of earthly life.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

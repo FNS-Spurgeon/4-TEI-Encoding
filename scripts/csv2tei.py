@@ -186,8 +186,8 @@ with open(file, 'r', encoding='utf-8') as f:
             seg.text = row[14]
 
         if row[15] != "":
-            footnote = etree.SubElement(ab_Quotation, 'note', type="footnote")
-            footnote.text = "Note in Spurgeon: " + row[15]
+            footnote = etree.SubElement(ab_Quotation, 'seg', type="editorialNote")
+            footnote.text = row[15]
 
         # print(etree.tostring(div, xml_declaration=True, encoding='UTF-8', pretty_print=True))
 

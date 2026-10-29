@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p41_a3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1873, Frederick James Furnivall. Notices of recent Chaucer discoveries,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="low" role="M" ref="http://viaf.org/viaf/71467450">Frederick James Furnivall</author>
+            <date cert="high" when="1873">1873</date>
+            <title level="a">Notices of recent Chaucer discoveries,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">Supplement</biblScope>
+            <biblScope unit="part"></biblScope>
+            <biblScope unit="page">41-42</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-10-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="41"/>
+        <ab type="imprint">1873. Furnivall, Fredk. James (?). Notices of recent Chaucer discoveries, [in] Athenæum, London, 1873, pp. 598, 663, 698-9, 733, 722, 816.</ab>
+        <ab type="quotation">
+          <seg>[NOV. 8.
+[Furnivall's discovery of Chaucer's name among the
+p. 598/2.] 'Esquires' of Edward III, 1366.
+[Nov. 22, Furnivall's discovery of the entry of the 16l. paid towards
+p. 663/1.]
+Chaucer's ransom in France, 1360, and of the black mourning
+clothes for Philippa Chaucer, etc.
+[Nov. 29, Furnivall's discovery of Chaucer's relcase of his father's
+pp. 698/3,
+699/1.] house in Thames Street to Henry Sherbury, 1380; his dis¬
+covery that Chaucer was in a second invasion of France,
+1369-70; and Mr. Floyd's discovery in the Close Roll of
+Cecilia Chaumpaigne's release of the poet, de raptu meo.
+[Dec. 6,
+Note from the Master of the Rolls promising help to
+p. 733/1.] Furnival in Chaucer research.
+[Dec. 13, Furnivall's discovery of the wife of Chaucer's father in 1354,
+p. 772/3.]
+(Chaucer's mother?).
+[Dec. 20, Article: Fresh Facts in Chaucer's Life. A statement con¬
+p. 816/1
+cerning recent discoveries by Furnivall, Selby, and Stevens in
+&amp; 2.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

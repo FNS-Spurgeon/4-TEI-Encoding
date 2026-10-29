@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p39_a1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1872, John Ruskin. Fors Clavigera,</title>
+        <respStmt>
+          <name xml:id="DS">Devani Singh</name>
+          <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Data modelling, OCR correction, text encoding and uploading in the database.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="JS">Jordan Skinner</name>
+          <resp>Corpus enhacement and verification of data accuracy. Control of data quality.</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="MA">Miranda Althaus</name>
+          <resp>Transcriptions proofreading.</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project SNSF "Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities" (n°225925)</publisher>
+        <authority>Department of English Language and Literature, Faculty of Humanities, University of Geneva</authority>
+        <address>
+          <addrLine>12, boulevard des Philosophes</addrLine>
+          <addrLine>1205 Genève</addrLine>
+        </address>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
+            <date cert="high" when="1872">1872</date>
+            <title level="a">Fors Clavigera,</title>
+          </analytic>
+          <monogr>
+            <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
+            <author>Spurgeon, Caroline</author>
+            <note>We used the digitizations made by Google for the University of Michigan (Public Domain, Google-Digitized). The facsimile can be found on HathiTrust.<ptr target="https://hdl.handle.net/2027/mdp.39015066184931"/></note>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>University Press</publisher>
+              <date>1925</date>
+            </imprint>
+            <biblScope unit="volume">Supplement</biblScope>
+            <biblScope unit="part"></biblScope>
+            <biblScope unit="page">39-40</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The digital part of the SNSF project 'Caroline Spurgeon: Chaucer Allusions, Shakespeare's Imagery, and the Digital Humanities' aims to create the first open-access database dedicated to the criticism and reception of Chaucer throughout history. It draws on the compilation and cataloguing work carried out by Professor Caroline Spurgeon (1869–1942) and collected in 'Five Hundred Years of Chaucer Criticism and Allusion'. This work consists of three volumes and a supplement, which will be systematically transcribed, corrected, enriched, encoded and published online, in order to facilitate future research and bring new perspectives to light.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The original spelling and punctuation are retained. Meaningful layouts are reproduced, i.e. verses, printed marginalia, dots lines, tables, etc. However, we do not consider, the line breaks for prose, the columns or the curly brackets. The same rules apply for special characters and glyphs. Otiose letters are normalised, as well as spaces before punctuation marks.</p>
+      </editorialDecl>
+      <appInfo>
+        <application ident="FoNDUE" version="0.1">
+          <label>FoNDUE</label>
+          <ptr target="https://fondue.unige.ch/"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-10-29" who="#EL">Creation of the TEI file and enrichment of data</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="allusion">
+        <milestone unit="page" n="39"/>
+        <ab type="imprint">1872. Ruskin, John. Fors Clavigera, vol. ii, Letters 18, 23, 24 (June, November, December). Works of Ruskin, ed. E. T. Cook and A. Wedderburn, 1907, vol. xxvii, pp. 311-2, 402, 405, 408, 433.</ab>
+        <ab type="quotation">
+          <seg>[p. 311] If one thinks of it, the two kinds of edipies on the hill¬
+tops may be shortly described as those of the Pillager and
+Pardoner, or Pardonere, Chaucer's word being classical in
+spelling, and the best general one for the clergy of the two
+great Evangelical and Papal sects.
+[p. 312] . . . and, by the way, remember at once, that her [Flor¬
+ence's] florin in the fourteenth century was of such pure
+gold that when in Chaucer's "Pardonere's Tale" Death
+puts himself into the daintiest dress he can, it is into a
+[p. 402] [Letter 23, November: a reference to Chaucer's Ariadne
+heap of "floreines faire and bright."
+[p. 405] Nay, in this very tale of Theseus, as Chaucer tells it,—
+(Legende of Good Women)].
+[p. 406] having got hold, by ill luck, only of the later and columnious
+notion that Theseus deserted his saviour-mistress, he wishes
+him Devil-speed instead of God-speed, and that energetically:
+"A twenty-divel way the wind him drive."
+For which, indeed, Chaucer somewhat deserved (for he
+ought not to have believed such things of Theseus) the God
+of Love's anger at his drawing too near the daisy. I will
+write the pretty lines partly in modern spelling for you, that
+you may get the sense better—
+"I, kneeling by this flower, in good intent,
+Above, to know what all the people meant ...
+And thou my foe, and all my folk worriest.3
+And of mine old servants thou missayest.
+[3 Note by Ruskin :] Chaucer's real word means "warrest with all my folk;" but
+[Prof. to Legende, 308-20.]
+it was so closely connected with "weary" and "worry" in association of sound in
+his days, that I take the last as nearest the sense.]
+But it is only for evil speaking of ladies that Chaucer felt
+his conscience, thus pricked,—chiefly of Cressida; whereas,
+I have written the lines for you because it is the very curse
+ot this age that we speak evil alike of ladies and knights,
+and all that made them noble in past days ...
+[p. 408] [Quotation of "and, for the house is crenkled to and fro."—
+Legende, Adriane, l. 127.]
+[p. 433] Letter 24, December:
+We are fast losing our old skill in carolling. There is a
+different tone in Chaucer's notion of it (though this carol
+of his is in spring-time indeed, not at Christmas):—
+"Then went I forth on my right hand, . . .
+No craft had she so lefe to do."
+Romaunt, ll. 719-721, 723-48.]
+[Further references and quotations, pp. 434, 435, 436. A
+brief reference to Chaucer in the same letter, p. 421.]</seg>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
