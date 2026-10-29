@@ -92,7 +92,7 @@
         <ab type="imprint">1831. Southey, Robert. <hi rend="italic">Select Works of the British Poets, from Chaucer to Jonson, with biographical Sketches by Robert Southey</hi>, 1831, Preface; biography of Chaucer, p. 1, poems, pp. 2-60.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The selected poems of Chaucer are : <hi rend="italic">The Prologue to the
+          <seg type="gloss">[The selected poems of Chaucer are : <hi rend="italic">The Prologue to the
             Canterbury Tales</hi>, the <hi rend="italic">Knightes</hi>, the <hi rend="italic">Man of Law's</hi>, the
             <hi rend="italic">Clerkes</hi> and the <hi rend="italic">Squieres Tales</hi>, <hi rend="italic">The Parlement of Foules</hi>, <hi rend="italic">The
             Cuckoo and the Nightingale</hi> (not by Chaucer), <hi rend="italic">The Flower
@@ -124,7 +124,9 @@
             aspires to a lasting name among the English poets must get
             the writings of Chaucer, and drink at the well-head. . . .</seg>
             
-          <seg type="editorial">[Then follow the selected poems, as above.]<note type="footnote">Note in Spurgeon: [For a more expanded expression of Southey's opinion that Chancer's verse is rhythmical rather than metrical, see below, 1833-6. For Nott, see above, 1815-16.]</note></seg>
+          <seg type="gloss">[Then follow the selected poems, as above.]</seg>
+          
+          <seg type="editorialNote">[For a more expanded expression of Southey's opinion that Chancer's verse is rhythmical rather than metrical, see below, 1833-6. For Nott, see above, 1815-16.]</seg>
         </ab>
       </div>
     </body>

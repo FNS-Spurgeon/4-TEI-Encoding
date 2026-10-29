@@ -86,10 +86,12 @@
       <div type="allusion">
         <milestone unit="page" n="225"/>
         
-        <ab type="imprint">1839. Unknown. <hi rend="italic">Review of Chapters on Early English Literature</hi>, by J. H. Hippisley, [in] The Gentleman’s Magazine, March, 1839, new series, vol. ii, pp. 278-9.<note type="footnote">Note in Spurgeon: [For Hippisley, see above, 1837.]</note></ab>
+        <ab type="imprint">1839. Unknown. <hi rend="italic">Review of Chapters on Early English Literature</hi>, by J. H. Hippisley, [in] The Gentleman’s Magazine, March, 1839, new series, vol. ii, pp. 278-9.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The review begins with a favourable notice of Hippisley's
+          <seg type="editorialNote">[For Hippisley, see above, 1837.]</seg>
+          
+          <seg type="gloss">[The review begins with a favourable notice of Hippisley's
             book and concludes with the correction of some errors; the
             main part is occupied by an estimate of Chaucer:]</seg>
             

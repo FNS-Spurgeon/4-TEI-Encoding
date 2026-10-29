@@ -84,9 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="293"/>
         
-        <ab type="imprint">1706. Unknown. <hi rend="italic">The British Warrior, a poem addressed to Lord Cutts</hi>, Oct. 30, 1706.<note type="footnote">Note in Spurgeon: [The beginning of this poem is written by J. Haslewood in his interleaved copy of Winstanley's Lives of the Poets, to face p. 23. See below, c. 1833.]</note></ab>
+        <ab type="imprint">1706. Unknown. <hi rend="italic">The British Warrior, a poem addressed to Lord Cutts</hi>, Oct. 30, 1706.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[The beginning of this poem is written by J. Haslewood in his interleaved copy of Winstanley's Lives of the Poets, to face p. 23. See below, c. 1833.]</seg>
+          
           <seg>
             <lg>
               <l>The British muse in Chaucer first began,</l>

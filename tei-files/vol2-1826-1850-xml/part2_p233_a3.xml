@@ -100,7 +100,9 @@
             </lg>
           </seg>
 
-          <seg type="editorial">[Then follows a paraphrase of ‘Fle fro the pres.’]<note type="footnote">Note in Spurgeon: [See <hi rend="italic">Notes and Queries</hi>, June 12, 1852, vol. v, p. 574; also E. Garnett's Life of W. J. Fox, 1910, pp. 218-21. The 1845 edn. is the first in B.M.]</note></seg>
+          <seg type="gloss">[Then follows a paraphrase of ‘Fle fro the pres.’]</seg>
+          
+          <seg type="editorialNote">[See <hi rend="italic">Notes and Queries</hi>, June 12, 1852, vol. v, p. 574; also E. Garnett's Life of W. J. Fox, 1910, pp. 218-21. The 1845 edn. is the first in B.M.]</seg>
         </ab>
       </div>
     </body>

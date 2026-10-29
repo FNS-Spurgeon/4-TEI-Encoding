@@ -86,15 +86,15 @@
         <ab type="imprint">1820. [Wainewright, Thomas Griffiths.] <hi rend="italic">Sentimentalities on the Fine Arts</hi>, by Janus Weathercock, Esq., nos. ii, iii, [in] The London Magazine, March and April, pp. 285, 287, 402-3. (Essays and Criticisms, 1880, pp. 23, 29, 38.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial">
+          <seg type="gloss">
             <note place="margin">[p. 23]</note>[Quotation for heading:
             <l>Through the trees the Sunné shone</l><add>[to]</add>
             <l>Ne in all the welkin was no cloud.</l>
           </seg>
             
-          <seg type="editorial"><note place="margin">[p. 29]</note>[Quotations, Prol., l. 81, and Rom. Rose, l. 826.]</seg>
+          <seg type="gloss"><note place="margin">[p. 29]</note>[Quotations, Prol., l. 81, and Rom. Rose, l. 826.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 38]</note>[Quotation, Legend of Good Women, ll. 31 sqq.]</seg>
+          <seg type="gloss"><note place="margin">[p. 38]</note>[Quotation, Legend of Good Women, ll. 31 sqq.]</seg>
         </ab>
       </div>
     </body>

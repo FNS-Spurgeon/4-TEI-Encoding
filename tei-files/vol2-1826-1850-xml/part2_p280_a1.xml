@@ -87,7 +87,7 @@
         <ab type="imprint">1849. Ruskin, John. <hi rend="italic">The Seven Lampe of Architecture</hi>, Note to chapter ii, §10, p. 202. (Works, Library edition, ed. E. T. Cook and A. Wedderburn, 39 vols., 1903-12, vol. viii, pp. 269-70.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 269]</note>[On the lines: "It may be perhaps permitted me to assume
+          <seg type="gloss"><note place="margin">[p. 269]</note>[On the lines: "It may be perhaps permitted me to assume
             that true architecture does not admit iron as a constructive material," Ruskin says:]</seg>
             
           <seg>Except in Chaucer's noble temple of Mars:
@@ -110,7 +110,7 @@
             </lg>
           </seg>
             
-          <seg type="editorial">[This note was reprinted as it stands in the second edition
+          <seg type="gloss">[This note was reprinted as it stands in the second edition
             of 1855; in the third edition of 1880, however, it was altered
             somewhat, the spelling of the lines quoted being modernised
             and explanatory notes added.]</seg>

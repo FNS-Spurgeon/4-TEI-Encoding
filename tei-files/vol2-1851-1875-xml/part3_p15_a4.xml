@@ -88,11 +88,11 @@
         <ab type="imprint">1854. Case, M. P. <hi rend="italic">Chaucer and his Times</hi>, [in] Bibliotheca Sacra, Andover, Mass., April, 1854, art. viii, 2nd series, vol. xi, pp. 394-416.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Chaucer "a dim and shadowy figure." An account of the
+          <seg type="gloss">[Chaucer "a dim and shadowy figure." An account of the
             age of Chaucer, Wiclif's religious reform, Edward III and his
             Queen Philippa, &amp;c.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 404]</note> [Remarks on the 'foreign air' of Chaucer's language at a cursory glance.]</seg>
+          <seg type="gloss"><note place="margin">[p. 404]</note> [Remarks on the 'foreign air' of Chaucer's language at a cursory glance.]</seg>
             
           <seg>The English tongue . . . was a rude mass, rudis indigestaque
             moles, a material the most unpromising possible for
@@ -114,7 +114,7 @@
             and conceptions, but, in some sense, the language also, with
             which to clothe them . . .</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 406-7]</note> [Remarks on the uncertainty of the chronology of Chaucer's
+          <seg type="gloss"><note place="margin">[pp. 406-7]</note> [Remarks on the uncertainty of the chronology of Chaucer's
             life and writings, followed by a criticism of 'the two capital
             allegories of Chaucer, the <hi rend="italic">Hous of Fame</hi>, and the <hi rend="italic">Flour and
             the Lefe</hi>.]</seg>
@@ -124,7 +124,7 @@
             us persons and scenes of the most matter-of-fact kind possible.
             This was his last and greatest work; the labor of his old age.</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 409-14]</note> [Here follows a detailed criticism of the characters in the <hi rend="italic">Prologue</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 409-14]</note> [Here follows a detailed criticism of the characters in the <hi rend="italic">Prologue</hi>.]</seg>
             
           <seg><note place="margin">[p. 414]</note> In seeking for Chaucer's prominent characteristics, we
             recognize at once his great descriptive power. Every scene
@@ -135,7 +135,7 @@
             of the zephyrs, and the flowers. He is no weak nor lazy
             copyist; he takes nothing at second hand.</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 414-15]</note> [Chaucer contrasted with Byron.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 414-15]</note> [Chaucer contrasted with Byron.]</seg>
             
           <seg><note place="margin">[p. 415]</note> The popularity of Chaucer has experienced various vicissitudes.
             In the age of Queen Elisabeth <add>[sic]</add>, he was truly
@@ -144,7 +144,7 @@
             honor, to be buried near his tomb. At other periods he has
             not been so generally read. . . .</seg>
             
-          <seg type="editorial">[Hindrances to his popularity, the grossness of the times,
+          <seg type="gloss">[Hindrances to his popularity, the grossness of the times,
             and the obsoleteness of the language; the latter easily surmountable.]</seg>
           
           <milestone unit="page" n="17"/>

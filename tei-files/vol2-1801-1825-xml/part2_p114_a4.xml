@@ -83,7 +83,9 @@
       <div type="allusion">
         <milestone unit="page" n="114"/>
         
-        <ab type="imprint">1819. Dibdin, Thomas Frognall. <hi rend="italic">Typographical Antiquities</hi> . . . begun by Joseph Ames and augmented by William Herbert, and now enlarged with copious notes, vol. iv, pp. 371 n., 469-70 [Chaucer's Works, 1561].<note type="footnote">Note in Spurgeon: [For vols. i, ii, and iii, see above, 1810, 1812 and 1816. For Ames's original edn. of 1749, see vol. i, p. 398; for Herbert's intermediate edn. see vol. i, 1785, p. 477; 1756, p. 488; 1790, p. 491.]</note></ab>
+        <ab type="imprint">1819. Dibdin, Thomas Frognall. <hi rend="italic">Typographical Antiquities</hi> . . . begun by Joseph Ames and augmented by William Herbert, and now enlarged with copious notes, vol. iv, pp. 371 n., 469-70 [Chaucer's Works, 1561].</ab>
+        
+        <ab type="quotation"><seg type="editorialNote">[For vols. i, ii, and iii, see above, 1810, 1812 and 1816. For Ames's original edn. of 1749, see vol. i, p. 398; for Herbert's intermediate edn. see vol. i, 1785, p. 477; 1756, p. 488; 1790, p. 491.]</seg></ab>
       </div>
     </body>
   </text>

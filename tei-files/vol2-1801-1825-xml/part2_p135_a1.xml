@@ -83,10 +83,10 @@
       <div type="allusion">
         <milestone unit="page" n="135"/>
         
-        <ab type="imprint">1821. Unknown. <hi rend="italic">Criticism of Poems, Songs and Sonnets . . . by Thomas Carew</hi>, [by] The Book Worm, no. vii, [in] The European Magazine, June 1821, p. 514.<note type="footnote">Note in Spurgeon: [See also below, c. 1833, Haslewood, J., <hi rend="italic">Collections for the Lives of English Poets</hi>.]</note></ab>
+        <ab type="imprint">1821. Unknown. <hi rend="italic">Criticism of Poems, Songs and Sonnets . . . by Thomas Carew</hi>, [by] The Book Worm, no. vii, [in] The European Magazine, June 1821, p. 514.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Headed by an extract :]</seg>
+          <seg type="gloss">[Headed by an extract :]</seg>
           
           <seg>
             <lg>
@@ -97,6 +97,8 @@
               <note place="right">[<hi rend="italic">Legend of Good Women</hi>, Prologue, 25-8, Text B.]</note>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[See also below, c. 1833, Haslewood, J., <hi rend="italic">Collections for the Lives of English Poets</hi>.]</seg>
         </ab>
       </div>
     </body>

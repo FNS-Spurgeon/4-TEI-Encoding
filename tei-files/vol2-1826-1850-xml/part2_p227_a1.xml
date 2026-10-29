@@ -89,14 +89,16 @@
         <ab type="imprint">1840. Halliwell, afterwards Halliwell-Phillipps, James Orchard. <hi rend="italic">The Volvelle, and on Chaucer's Treatise of the Astrolabe</hi>, [in] Archæologia, vol. xxix, 1842, pp. 374-5. [Communicated to the Society, 19th March, 1840.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A vellum volvelle exhibited; its use explained from
+          <seg type="gloss">[A vellum volvelle exhibited; its use explained from
             Ashmole MS. 191, The Rewle of the Volvelle; Chaucer's
             <hi rend="italic">Astrolabe</hi> a translation ultimately from a Sanscrit original;
             this fact discovered by Reuben Burrow (reference to Professor
             Davies' <hi rend="italic">History of Magnetical Discovery</hi>, p. 257); Nicholas
             Strode was tutor to Chaucer's son at Oxford, as shown by
             the colophon to a Cambridge MS. (Dd. iii. 53) of Chaucer’s
-            <hi rend="italic">Astrolabe</hi>.]<note type="footnote">Note in Spurgeon: [We have not been able to trace the reference to Davies.]</note></seg>
+            <hi rend="italic">Astrolabe</hi>.]</seg>
+          
+          <seg type="editorialNote">[We have not been able to trace the reference to Davies.]</seg>
         </ab>
       </div>
     </body>

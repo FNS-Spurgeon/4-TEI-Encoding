@@ -89,7 +89,7 @@
         <ab type="imprint">1804-5. Wharton, Richard. <hi rend="italic">Fables: consisting of Select parts from Dante, Berni, Chaucer, and Ariosto, imitated in English Heroic Verse</hi>, by Richard Wharton, 2 vols. <lb/>Vol. i, pp. 70-99. [The Franklein’s Tale from Chaucer.] <lb/>Vol. ii, pp. i-xvi, 1-199. Fables, containing Cambuscan, an Heroic Poem in six books, founded upon and comprising a free imitation of Chaucer's fragment on that subject, 1805.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Wharton's version of the celebrated lines on love may
+          <seg type="gloss">[Wharton's version of the celebrated lines on love may
             serve as a specimen of his modernization:]</seg>
             
           <seg>
@@ -116,7 +116,7 @@
             preserve as much of Chaucer's line as was consistent with
             modern idiom.</seg>
           
-          <seg type="editorial">[Introductory Advertisement. The author defends his use of Dryden's heroic couplet:]</seg>
+          <seg type="gloss">[Introductory Advertisement. The author defends his use of Dryden's heroic couplet:]</seg>
           
           <seg><note place="margin">[vol. ii, p. iv]</note>Chaucer, had he lived at a later
             period, though he would have preserved his nice discrimination

@@ -86,7 +86,11 @@
       <div type="allusion">
         <milestone unit="page" n="148"/>
         
-        <ab type="imprint">1823. Thurlow, Edward Hovell, Lord. <hi rend="italic">The Flower and the Leaf after Geoffrey Chaucer</hi>, London, J. Warwick, Brooke St., Holborn, 1823, 8ᵒ.<note type="footnote">Note in Spurgeon: [There is a notice of this book in A Bibliographical Catalogue of privately printed books, by John Martin, 2nd edn., 1854, p. 313; a reference is given to Catalogue of the Sale of P. A. Hanrott’s Library, 1823, part iv, p. 28, No. 541—"Thurlow's <add>[Lord]</add> Select Poems, <hi rend="italic">Chiswick</hi>, 1821, Odes to Anacreon, by Lord Thurlow, 1823, <hi rend="italic">The Flower and the Leaf</hi>, 1823, 3 vols. in 1, all privately printed."]</note></ab>
+        <ab type="imprint">1823. Thurlow, Edward Hovell, Lord. <hi rend="italic">The Flower and the Leaf after Geoffrey Chaucer</hi>, London, J. Warwick, Brooke St., Holborn, 1823, 8ᵒ.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[There is a notice of this book in A Bibliographical Catalogue of privately printed books, by John Martin, 2nd edn., 1854, p. 313; a reference is given to Catalogue of the Sale of P. A. Hanrott’s Library, 1823, part iv, p. 28, No. 541—"Thurlow's <add>[Lord]</add> Select Poems, <hi rend="italic">Chiswick</hi>, 1821, Odes to Anacreon, by Lord Thurlow, 1823, <hi rend="italic">The Flower and the Leaf</hi>, 1823, 3 vols. in 1, all privately printed."]</seg>
+        </ab>
       </div>
     </body>
   </text>

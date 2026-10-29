@@ -92,7 +92,7 @@
           <seg>
             <lg>
               <l>First, sent from Cam’s fair banks, like Palmer old,</l>
-              <l>Came TITYRUS<note type="footnote">i.e. CHAUCER, a name frequently given him by Spenser. [Note by Mason.]</note> slow, with head all silver'd o’er,</l>
+              <l>Came TITYRUS<note type="footnote" n="1">i.e. CHAUCER, a name frequently given him by Spenser. [Note by Mason.]</note> slow, with head all silver'd o’er,</l>
               <l>And in his hand an oaken crook he bore,</l>
               <l>And thus in antique guise short talk did hold.</l>
               <l>‘Grete clerk of Fame’is house, whose excellence</l>
@@ -123,7 +123,7 @@
               <l>He ceas’d his homely rhyme.</l>
             </lg>
           </seg>
-          <seg type="editorial">[After Chaucer come Colin Clout (Spenser) and Thyrsis (Milton).]</seg>
+          <seg type="gloss">[After Chaucer come Colin Clout (Spenser) and Thyrsis (Milton).]</seg>
         </ab>
       </div>
     </body>

@@ -92,7 +92,7 @@
           
           <milestone unit="page" n="30"/>
           
-          <seg type="editorial"><note place="margin">[p. 210]</note> [In later editions of <hi rend="italic">Salámán and Absal</hi>, on the lines
+          <seg type="gloss"><note place="margin">[p. 210]</note> [In later editions of <hi rend="italic">Salámán and Absal</hi>, on the lines
             <lg>
               <l>Yearn, as is likely, to my Mother Earth,</l>
               <l>Upon whose bosom I shall cease to weep,</l>
@@ -101,7 +101,9 @@
             FitzGerald added the note:] </seg>
             
           <seg>The same figure is found in Chaucer's "Pardoner's Tale," and, I think, in other Western
-            poems of that era.<note type="footnote">Note in Spurgeon: [FitzGerald quoted this passage from the Pardoner's Tale in his Calderon, q.v. above, 1853.]</note></seg>
+            poems of that era.</seg>
+          
+          <seg type="editorialNote">[FitzGerald quoted this passage from the Pardoner's Tale in his Calderon, q.v. above, 1853.]</seg>
         </ab>
       </div>
     </body>

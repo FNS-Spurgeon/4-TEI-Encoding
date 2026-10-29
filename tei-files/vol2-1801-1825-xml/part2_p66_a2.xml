@@ -83,9 +83,11 @@
       <div type="allusion">
         <milestone unit="page" n="66"/>
         
-        <ab type="imprint">1814. [Southey, Robert?] <hi rend="italic">Review</hi> of Chalmers' <hi rend="italic">English Poets</hi>, [in] The Quarterly Review, July 1814, vol. xi, pp. 482-4; Oct., vol. xii, pp. 61, 64, 65, 67, 69, 73, 82-4.<note type="footnote">Note in Spurgeon: [The passage on Chaucer's rejection of the ornate style at the end of the following extract echoes Southey's words in his <hi rend="italic">Specimens</hi>, q.v. above, 1807, closely enough to warrant the provisional attribution of this review to him.]</note></ab>
+        <ab type="imprint">1814. [Southey, Robert?] <hi rend="italic">Review</hi> of Chalmers' <hi rend="italic">English Poets</hi>, [in] The Quarterly Review, July 1814, vol. xi, pp. 482-4; Oct., vol. xii, pp. 61, 64, 65, 67, 69, 73, 82-4.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[The passage on Chaucer's rejection of the ornate style at the end of the following extract echoes Southey's words in his <hi rend="italic">Specimens</hi>, q.v. above, 1807, closely enough to warrant the provisional attribution of this review to him.]</seg>
+          
           <seg><note place="margin">[vol xi, p. 482]</note>Chaucer himself was a star of the first magnitude: no
             man ever did so much with a language in so rude a state, and
             only Shakespeare has surpassed him in his intuitive knowledge

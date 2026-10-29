@@ -103,7 +103,7 @@
             his other productions, are worth all that the age of Queen
             Anne, our Augustan age as it has been called, ever produced.</seg>
             
-          <seg type="editorial">[Enclosed in this letter was the following Sonnet:]</seg>
+          <seg type="gloss">[Enclosed in this letter was the following Sonnet:]</seg>
             
           <seg>
             <lg>
@@ -126,9 +126,11 @@
               <l>The 'half-told' tale would sound still sweeter here.</l>
               <l>Oh for some sprite to hide with ivy spray</l>
               <l>War's ravages, and chase the meaner themes</l>
-              <l>Of King and State, Roundhead and Cavalier.<note type="footnote">Note in Spurgeon: [See below, 1852, for a passage in Miss Mitford’s <hi rend="italic">Recollections</hi>.]</note></l>
+              <l>Of King and State, Roundhead and Cavalier.</l>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[See below, 1852, for a passage in Miss Mitford’s <hi rend="italic">Recollections</hi>.]</seg>
         </ab>
       </div>
     </body>

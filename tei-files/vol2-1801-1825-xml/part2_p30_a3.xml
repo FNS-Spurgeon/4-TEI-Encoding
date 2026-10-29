@@ -90,11 +90,13 @@
             Dibdin, on the rise and progress of English literature, was
             devoted entirely to the life and writings of Chaucer.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 127]</note>[Doubts as to Gower's chronological priority to Chaucer;
+          <seg type="gloss"><note place="margin">[p. 127]</note>[Doubts as to Gower's chronological priority to Chaucer;
             events of Chaucer's life; his works discussed, especially the
             <note place="margin">[p. 128]</note>'Canterbury Tales'; the testimony of English authors, from
             Ascham to Warton, in praise of Chaucer; and the need of an
-            improved edition of his poems.]<note type="footnote">Note in Spurgeon: [Dibdin's Lectures appear never to have been published in full.]</note></seg>
+            improved edition of his poems.]</seg>
+          
+          <seg type="editorial">[Dibdin's Lectures appear never to have been published in full.]</seg>
         </ab>
       </div>
     </body>

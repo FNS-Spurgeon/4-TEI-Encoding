@@ -86,14 +86,14 @@
         <ab type="imprint">1862. Child, Francis James. <hi rend="italic">Observations on the Language of Chaucer</hi> [in the] Memoirs of the American Academy, new ser., vol. viii, 1863, pp. 445-502. [Rearranged and reprinted by A. J. Ellis in <hi rend="italic">Early English Pronunciation</hi>, 1869-75, q.v., below.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[This is the first minute and scholarly analysis of Chaucer's
+          <seg type="gloss">[This is the first minute and scholarly analysis of Chaucer's
             language, and it marks an epoch in the study of the poet, for
             it made possible the full solution of the question of the right
             scansion of the Canterbury Tales. It consists of classified
             lists of Chaucer’s vocabulary and grammatical forms, and is
             preceded by an introductory note:]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 445-6]</note> [Wright’s edn. of the <hi rend="italic">Canterbury Tales</hi> employed, as being
+          <seg type="gloss"><note place="margin">[pp. 445-6]</note> [Wright’s edn. of the <hi rend="italic">Canterbury Tales</hi> employed, as being
             based on a single good MS. and fairly accurate. The prevalent
             ignorance of the English language of that period.]</seg>
             
@@ -125,7 +125,7 @@
             his verses was a thousand times justified by the course of
             events.</seg>
             
-          <seg type="editorial">[The copyists and editors. Tyrwhitt's textual principle 
+          <seg type="gloss">[The copyists and editors. Tyrwhitt's textual principle 
             his weak point. A new edition undesirable until an
             editor arises who will make thorough work with the MSS.
             Bell’s edition likely to block the way for a good while.]</seg>
@@ -138,7 +138,7 @@
             vhich the text is now loaded are undoubtedly of later origin,
             and there is no reason why, (if we are allowed only to take for
             granted that Chaucer had an ear, and meant to write good
-            metre,)<note type="footnote" n="‡"><note place="margin">[p.449 n.]</note>[Child’s note.] Of course, unless Chaucer wrote good metre, there
+            metre,)<note type="footnote" n="‡"><note place="margin">[p.449 n.]</note><add>[Child’s note.]</add> Of course, unless Chaucer wrote good metre, there
             is an end to all inquiry into the forms of his language. Nothing can
             be more absurd than Dr. Nott’s theory upon this point. . . or more
             <note place="margin">[p. 450 n.]</note> just than Tyrwhitt’s remarks. . . Is it not surprising. . . that a man

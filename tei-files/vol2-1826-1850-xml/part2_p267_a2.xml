@@ -88,7 +88,11 @@
       <div type="allusion">
         <milestone unit="page" n="267"/>
         
-        <ab type="imprint">1846. Chaucer's Romaunt of the Rose, Troilus and Creseide, and the Minor Poems, with the life of the poet, by Sir N. H. Nicolas. Pickering, 3 vols.<note type="footnote">Note in Spurgeon: [A reprint of vols. iv-vi of Pickering's 1845 Aldine edn., with Nicolas's "Life" only.]</note></ab>
+        <ab type="imprint">1846. Chaucer's Romaunt of the Rose, Troilus and Creseide, and the Minor Poems, with the life of the poet, by Sir N. H. Nicolas. Pickering, 3 vols.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[A reprint of vols. iv-vi of Pickering's 1845 Aldine edn., with Nicolas's "Life" only.]</seg>
+        </ab>
       </div>
     </body>
   </text>

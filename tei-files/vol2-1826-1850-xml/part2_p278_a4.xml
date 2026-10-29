@@ -84,9 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="278"/>
         
-        <ab type="imprint">1848. Macaulay, Thomas Babington, Lord. <hi rend="italic">History of England</hi>, 1849-61, 5 vols., vol. i, pp. 20, 342. (Works, 1898, 12 vols., vol. i, pp. 21, 358.)<note type="footnote">Note in Spurgeon: [Vols. i and ii were published in November 1848 (<hi rend="italic">D. N. B.</hi>).]</note></ab>
+        <ab type="imprint">1848. Macaulay, Thomas Babington, Lord. <hi rend="italic">History of England</hi>, 1849-61, 5 vols., vol. i, pp. 20, 342. (Works, 1898, 12 vols., vol. i, pp. 21, 358.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[Vols. i and ii were published in November 1848 (<hi rend="italic">D. N. B.</hi>).]</seg>
+          
           <seg><note place="margin">[p. 21]</note>Nor were the arts of peace neglected by our fathers during
             that stirring period <add>[the fourteenth century]</add>. . . . A copious
             and forcible language, formed by an infusion of French into

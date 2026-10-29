@@ -87,7 +87,7 @@
         <ab type="imprint">1722. [De la Roche, Michel? editor.] <hi rend="italic">Memoirs of Literature</hi>, containing a large account of many valuable books . . . &amp;c. 2nd edn., 1722, vol. iv, Art. 70, p. 422.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The writer is reviewing "De Literis Inventis Libri Sex,"
+          <seg type="gloss">[The writer is reviewing "De Literis Inventis Libri Sex,"
             by William Nicols, 1711 (see above, p. 317), and says]</seg>
             
           <seg>Mr.Nicols having observed, That our Modern Languages are liable
@@ -98,7 +98,9 @@
             . . . . . . . . . .
             <l>Eloquio condas, secula cuncta legent.</l>
             Mr. Waller expresses himself to the same Purpose in the
-            following Verses.<note type="footnote">Note in Spurgeon: [Here follow Waller's verses without the Chaucer reference. See above, 1668, p. 244.]</note></seg>
+            following Verses.</seg>
+          
+          <seg type="editorialNote">[Here follow Waller's verses without the Chaucer reference. See above, 1668, p. 244.]</seg>
         </ab>
       </div>
     </body>

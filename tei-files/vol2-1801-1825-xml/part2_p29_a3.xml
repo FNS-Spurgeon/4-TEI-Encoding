@@ -85,8 +85,11 @@
       <div type="allusion">
         <milestone unit="page" n="29"/>
         
-        <ab type="imprint">1807. Poetical Works of Chaucer, 16°.<note type="footnote">Note in Spurgeon: [No copy of this has been found in a public library, nor is it mentioned by Miss
-            Hammond in <hi rend="italic">Chaucer, a bibliographical manual</hi>. The title is taken from a dealer's list.]</note></ab>
+        <ab type="imprint">1807. Poetical Works of Chaucer, 16°.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[No copy of this has been found in a public library, nor is it mentioned by Miss Hammond in <hi rend="italic">Chaucer, a bibliographical manual</hi>. The title is taken from a dealer's list.]</seg>
+        </ab>
       </div>
     </body>
   </text>

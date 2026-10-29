@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="329"/>
         
-        <ab type="imprint">1714. Fortescue-Aland, John. <hi rend="italic">The Difference between an Absolute and Limited Monarchy . . . . being A Treatise Written by Sir John Fortescue. Kt. . . . . Publish’d with some Remarks by John Fortescue-Aland</hi>, Preface, pp. lxxviii-ix, pp. 2-4, 15, 18, 23, 56, 90.<note type="footnote">[The above references (except those to the Preface) are to notes on the pages indicated, and are chiefly on similarities of words and expressions between Sir John Fortescue and Chaucer.]</note></ab>
+        <ab type="imprint">1714. Fortescue-Aland, John. <hi rend="italic">The Difference between an Absolute and Limited Monarchy . . . . being A Treatise Written by Sir John Fortescue. Kt. . . . . Publish’d with some Remarks by John Fortescue-Aland</hi>, Preface, pp. lxxviii-ix, pp. 2-4, 15, 18, 23, 56, 90.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[The above references (except those to the Preface) are to notes on the pages indicated, and are chiefly on similarities of words and expressions between Sir John Fortescue and Chaucer.]</seg>
+        </ab>
       </div>
     </body>
   </text>

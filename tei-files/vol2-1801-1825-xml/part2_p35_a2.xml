@@ -88,13 +88,13 @@
         <ab type="imprint">1808. Carey, William (Picture Dealer). <hi rend="italic">Critical Description of the Procession of Chaucer's Pilgrims to Canterbury</hi>, painted by Thomas Stothard.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[This is a pamphlet of 77 pp., prefaced by a letter from Carey
+          <seg type="gloss">[This is a pamphlet of 77 pp., prefaced by a letter from Carey
             to John Leigh Philips, and followed by a critical description
             of the picture, which gives a detailed account of each pilgrim.
             There are Chaucer allusions all through the pamphlet; the
             following are the most interesting:]</seg>
           
-          <seg type="editorial"><note place="margin">[p.9]</note>[Opening of the 'Critical Description.']</seg>
+          <seg type="gloss"><note place="margin">[p.9]</note>[Opening of the 'Critical Description.']</seg>
             
           <seg>Many have expressed a surprise that the Procession of
             Chaucer's Pilgrims was not earlier selected by some of our
@@ -108,9 +108,9 @@
           
           <milestone unit="page" n="36"/>
           
-          <seg type="editorial">[Here follows a letter from Hoppner to Richard Cumberland, 1807, q. v. above.]</seg>
+          <seg type="gloss">[Here follows a letter from Hoppner to Richard Cumberland, 1807, q. v. above.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 15]</note>[The Miller that 'for dronken was all pale' is next described,
+          <seg type="gloss"><note place="margin">[p. 15]</note>[The Miller that 'for dronken was all pale' is next described,
             <note place="margin">[p. 16]</note> and his dogs; the Host with quotation from the Prologue
             <note place="margin">[p. 18]</note> describing him, and so on.]</seg>
             
@@ -119,7 +119,7 @@
             the minute accuracy of Albert Durer's <hi rend="italic">St. Hubert</hi> with the
             fine colouring and dignity of Holbein in his most Tizianesque portraits. . . .</seg>
             
-          <seg type="editorial"><note place="margin">[p. 30]</note>[Description of the Squire.]</seg>
+          <seg type="gloss"><note place="margin">[p. 30]</note>[Description of the Squire.]</seg>
             
           <seg>Chaucer, when in Italy, was introduced to Petrarch, the
             friend of Contemporary Art. But whether the British Bard
@@ -132,7 +132,7 @@
             their own portraits is a common practice among painters and
             poets.]</add></seg>
             
-          <seg type="editorial"><note place="margin">[pp. 43-4]</note>[Carey does not agree with Tyrwhitt when he says that the
+          <seg type="gloss"><note place="margin">[pp. 43-4]</note>[Carey does not agree with Tyrwhitt when he says that the
             Yeoman belongs to the Knight, and not to the Squire, as
             Chaucer would never have given the son an attendant when
             the father had none. The Yeoman was young, and so probably
@@ -146,7 +146,7 @@
             did not lift him above the commission of error and oversight
             in composition.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 57]</note>[Description of Chaucer.]</seg>
+          <seg type="gloss"><note place="margin">[p. 57]</note>[Description of Chaucer.]</seg>
             
           <seg>The countenance of Chaucer is designed from that in the
             British Museum, painted by Thomas Occleve, the Poet's
@@ -161,8 +161,10 @@
             <milestone unit="page" n="37"/>
             
             . . . It appears to me, however, an interesting question: Who
-            taught Thomas Occleve to paint?<note type="footnote">Note in Spurgeon: [This pamphlet was re-issued in 1818 with the addition of dedicatory and other letters, in which there are further brief but unimportant references to Chaucer.]</note>
+            taught Thomas Occleve to paint?
           </seg>
+          
+          <seg type="editorialNote">[This pamphlet was re-issued in 1818 with the addition of dedicatory and other letters, in which there are further brief but unimportant references to Chaucer.]</seg>
         </ab>
       </div>
     </body>

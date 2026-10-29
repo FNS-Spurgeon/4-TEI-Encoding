@@ -88,7 +88,10 @@
         <ab type="quotation">
           <seg><add>[This poem]</add> unquestionably bears a still stronger resemblance
             to Chaucer than to his immediate followers in Italy.</seg>
-          <seg type="editorial">[The descriptions, diction and characterization resemble Chaucer's.]<note type="footnote">Note in Spurgeon: [For the evidence for Hazlitt's authorship of this review, see Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 18 vols., vol. x, p. 407.]</note></seg>
+          
+          <seg type="gloss">[The descriptions, diction and characterization resemble Chaucer's.]</seg>
+          
+          <seg type="editorialNote">[For the evidence for Hazlitt's authorship of this review, see Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 18 vols., vol. x, p. 407.]</seg>
         </ab>
       </div>
     </body>

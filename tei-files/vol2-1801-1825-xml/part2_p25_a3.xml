@@ -89,18 +89,18 @@
         <ab type="imprint">1805. Whitaker, Thomas Dunham. <hi rend="italic">History and Antiquities of . . . Craven in the County of York</hi>, pp. 195, 227, 286, 289, 307, 335, 336-9, 345-8, 350-2, 362, 423, 424. [The references in the second edition, 1812, are pp. 207, 254, 326, 329 (wrongly numbered 366), 348, 394, 395, 396, 397, 405-7, 412 (the reference to lytel Lowys being excised), 493-4. In the third edition, ed. A. W. Morant, 1878, the references are, pp. 269, 325, 399, 401, 419, 464, 473-5 (with the suppression noted above), 496, 574, 575.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 195 n.]</note>[Reference to gore in <hi rend="italic">C. Tales.</hi>]</seg>
+          <seg type="gloss"><note place="margin">[p. 195 n.]</note>[Reference to gore in <hi rend="italic">C. Tales.</hi>]</seg>
           
-          <seg type="editorial"><note place="margin">[p. 227]</note>[Reference to "the canon’s yeoman in Chaucer, whose tale
+          <seg type="gloss"><note place="margin">[p. 227]</note>[Reference to "the canon’s yeoman in Chaucer, whose tale
             is perhaps the finest satire upon chemical jugglers to be found in any language."]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 286]</note>[Quotation from <hi rend="italic">Milleres Tale</hi>, ll. 134-5, on waget.]</seg>
+          <seg type="gloss"><note place="margin">[p. 286]</note>[Quotation from <hi rend="italic">Milleres Tale</hi>, ll. 134-5, on waget.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 289 n.]</note>[References to <hi rend="italic">Knight's Tale</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[p. 289 n.]</note>[References to <hi rend="italic">Knight's Tale</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 335 n.]</note>[Quotation from <hi rend="italic">Knight's Tale</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[p. 335 n.]</note>[Quotation from <hi rend="italic">Knight's Tale</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 336 n.]</note>[Quotation from <hi rend="italic">Legend of Good Women</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[p. 336 n.]</note>[Quotation from <hi rend="italic">Legend of Good Women</hi>.]</seg>
             
           <seg><note place="margin">[p. 345]</note>The English language underwent no very considerable change
             from the reign of Edward the Third to that of Edward the
@@ -112,7 +112,7 @@
           <seg><add>[A footnote to this reads:]</add> Skinner's remark on the elder
             Bard is well known: "Integra verborum plaustra invexit."</seg>
             
-          <seg type="editorial">[Whitaker then proceeds to quote from a MS. at Bolton,
+          <seg type="gloss">[Whitaker then proceeds to quote from a MS. at Bolton,
             vhich he ascribes to the Canons, and which begins:
             <l>Why artt thow soo poure man, and I ame soo ryche?</l>
             The quotation is given "as a commentary on some parts of
@@ -123,7 +123,7 @@
             
             pretended science." Extracts follow, pp. 347-8.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 350-2]</note>[Whitaker gives an excerpt from a Latin treatise on astronomy, ascribed to the same source, and proceeds:]</seg>
+          <seg type="gloss"><note place="margin">[pp. 350-2]</note>[Whitaker gives an excerpt from a Latin treatise on astronomy, ascribed to the same source, and proceeds:]</seg>
             
           <seg>This treatise is evidently one of those many conclusions on
             the subject of Astronomy spoken of by Chaucer as extant in
@@ -134,11 +134,11 @@
             wonder lyght Rules, and naked Wordes in Englysh, for Latyn
             ne canst thou but smale, my sonne.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 362]</note>[Quotation from <hi rend="italic">Legend of Good Women</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[p. 362]</note>[Quotation from <hi rend="italic">Legend of Good Women</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 423]</note>[Reference to the <hi rend="italic">Romaunt of the Rose</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[p. 423]</note>[Reference to the <hi rend="italic">Romaunt of the Rose</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 424]</note>[Quotation from <hi rend="italic">Reeves Tale</hi> with remarks which imply that
+          <seg type="gloss"><note place="margin">[p. 424]</note>[Quotation from <hi rend="italic">Reeves Tale</hi> with remarks which imply that
             the two scholars of Soleres Hall (of a town highte Strother)
             came from Longstrother, their dialect "being precisely the
             modern dialect of Craven."]</seg>

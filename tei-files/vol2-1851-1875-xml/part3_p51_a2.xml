@@ -80,8 +80,10 @@
       <div type="allusion">
         <milestone unit="page" n="51"/>
         
-        <ab type="imprint">1859. [Riley, Henry Thomas?]. <hi rend="italic">Lease of the 'mansio' over Aldgate to Chaucer</hi>, extracted from Guildhall, Letter Book G., in] The Gentleman’s Magazine, March 1859, new ser., vol. vi, p. 243.
-          <note type="footnote">[See above, 1374, May 10, vol i, p. 3.]</note>
+        <ab type="imprint">1859. [Riley, Henry Thomas?]. <hi rend="italic">Lease of the 'mansio' over Aldgate to Chaucer</hi>, extracted from Guildhall, Letter Book G., in] The Gentleman’s Magazine, March 1859, new ser., vol. vi, p. 243.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[See above, 1374, May 10, vol i, p. 3.]</seg>
         </ab>
       </div>
     </body>

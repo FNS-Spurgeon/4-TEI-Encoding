@@ -84,18 +84,20 @@
       <div type="allusion">
         <milestone unit="page" n="227"/>
         
-        <ab type="imprint">1840. Lawrance, Hannah. <hi rend="italic">Historical Memoirs of the Queens of England</hi>, 2 vols., 1838-40; vol. ii, 1840, pp. 9, 22, 24-5, 36, 150, 154-5, 176, 238-41, 254, 264-8, 270-3, 454n.<note type="footnote">Note in Spurgeon: [Vol. i, 1838, only contains two unimportant references, on pp. 281, 441.]</note></ab>
+        <ab type="imprint">1840. Lawrance, Hannah. <hi rend="italic">Historical Memoirs of the Queens of England</hi>, 2 vols., 1838-40; vol. ii, 1840, pp. 9, 22, 24-5, 36, 150, 154-5, 176, 238-41, 254, 264-8, 270-3, 454n.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. ii, pp. 24-5]</note>[Beauty of many of Chaucer's female characters. He must
+          <seg type="editorialNote">[Vol. i, 1838, only contains two unimportant references, on pp. 281, 441.]</seg>
+          
+          <seg type="gloss"><note place="margin">[vol. ii, pp. 24-5]</note>[Beauty of many of Chaucer's female characters. He must
             have seen such women among "the gentle company that
             adorned the court of the noble-minded Philippa, and of the
             gracious lady . . . Anne of Bohemia."]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 238-41]</note>[Anne of Bohemia, a friend and patroness of Chaucer; some
+          <seg type="gloss"><note place="margin">[pp. 238-41]</note>[Anne of Bohemia, a friend and patroness of Chaucer; some
             account of him and of his relations to her is given.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 264-68]</note>[An account of Chaucer. Interesting and admirable though
+          <seg type="gloss"><note place="margin">[pp. 264-68]</note>[An account of Chaucer. Interesting and admirable though
             the <hi rend="italic">Canterbury Tales</hi> are, full justice cannot be done to his
             poetical character unless we turn to his allegorical poems,
             
@@ -106,7 +108,7 @@
             <hi rend="italic">Flower and the Leaf</hi> and <hi rend="italic">Complaint of the Black Knight</hi>.
             His description of natural scenery is highly praised.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 270-8]</note>[Occleve, Lydgate and Chaucer.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 270-8]</note>[Occleve, Lydgate and Chaucer.]</seg>
         </ab>
       </div>
     </body>

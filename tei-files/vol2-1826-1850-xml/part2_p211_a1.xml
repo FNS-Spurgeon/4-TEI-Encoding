@@ -88,7 +88,7 @@
         <ab type="imprint">1887. [Craik, George Lillie, and Macfarlane, Charles.] <hi rend="italic">The Pictorial History of England</hi> [published by Charles Knight and, with The Pictorial History of England during the reign of George the Third, 4 vols. 1841-4, commonly called “Knight's Pictorial History of England"], 4 vols., 1837-41, vol. i, 1837, pp. 604, 812, 850-1, 862, 865-6, 868-71, 873, 880; vol. ii, pp. 203-4, 206, 209-10, 217-18, 222, 824, 837-9.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. i, p. 851]</note>[Chaucer distances Langland, and compared with his
+          <seg type="gloss"><note place="margin">[vol. i, p. 851]</note>[Chaucer distances Langland, and compared with his
             productions all that precedes is barbarism : he is the founder
             of our language and literature. Only Shakespeare surpasses
             his range of qualities, fancy and observation, tenderness and
@@ -102,9 +102,9 @@
             initiation into that smoothness and regularity of style of which
             Chaucer's writings set the first great example.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 218]</note>[Specimens of Chaucer from <hi rend="italic">Prologue</hi> and <hi rend="italic">Persones Tale</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[p. 218]</note>[Specimens of Chaucer from <hi rend="italic">Prologue</hi> and <hi rend="italic">Persones Tale</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 839]</note>[Chaucer, in spite of contentions to the contrary, as regular
+          <seg type="gloss"><note place="margin">[p. 839]</note>[Chaucer, in spite of contentions to the contrary, as regular
             as Surrey in syllabic as well as accentual metre; Surrey
             merely restored the art that had been lost since Chaucer.]</seg>
         </ab>

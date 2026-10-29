@@ -88,7 +88,7 @@
         <ab type="imprint">1814. Scott, Sir Walter. <hi rend="italic">Memoirs of Jonathan Swift, D.D.</hi> (Miscellaneous Prose Works of Sir Walter Scott, Edinburgh, 1834-71, 30 vols., vol. ii, pp. 305 n., 414.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 305n.]</note>[Reference to, and quotation from, an imitation of Chaucer
+          <seg type="gloss"><note place="margin">[p. 305n.]</note>[Reference to, and quotation from, an imitation of Chaucer
             by Dr. Arbuthnot in 'Critical Remarks on Captain Gulliver's
             Travels,' q.v. below, App. A. 1735, Arbuthnot.]</seg>
           
@@ -106,7 +106,7 @@
             was in the handwriting of Swift, I have been so unfortunate
             as to have lost . . . the document' . . . Monck Mason.</seg>
             
-          <seg type="editorial">[See below, App. A., a. 1740, Swift.]</seg>
+          <seg type="gloss">[See below, App. A., a. 1740, Swift.]</seg>
         </ab>
       </div>
     </body>

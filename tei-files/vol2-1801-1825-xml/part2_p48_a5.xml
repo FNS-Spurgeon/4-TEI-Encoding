@@ -88,8 +88,10 @@
         <ab type="quotation">
           <seg>Chaucer's Monk who ‘bore a Sheffield whittle in his hose’
             is generally admitted as a proof of the early manufacture of
-            knives in England.<note type="footnote">Note in Spurgeon: [See above, 1727, Defoe, vol. i, p. 368, and below, 1848, Macaulay. It is not the Monk, but the Reve's Miller who has the whittle (Reve’s Tale, l. 13).]</note>
+            knives in England.
           </seg>
+          
+          <seg type="editorialNote">[See above, 1727, Defoe, vol. i, p. 368, and below, 1848, Macaulay. It is not the Monk, but the Reve's Miller who has the whittle (Reve’s Tale, l. 13).]</seg>
         </ab>
       </div>
     </body>

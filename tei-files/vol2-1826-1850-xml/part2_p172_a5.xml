@@ -90,7 +90,7 @@
         <ab type="imprint">1829. Landor, Walter Savage. <hi rend="italic">Imaginary Conversations</hi>, 5 vols., 1824-9; vol. iv, 1829. pp. 209-76; <hi rend="italic">Works</hi>, 1846, vol. i, pp. 402-18. (Imaginary Conversations, ed. C. G. Crump, 1891, 6 vols., vol. iv. pp. 66-108.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[There are various changes in the language between the
+          <seg type="gloss">[There are various changes in the language between the
             editions of 1829 and 1846. In the opening speech, for
             instance, after '<hi rend="italic">Decameron</hi>,' the 1829 edition reads "which
             I shewed to you in his manuscript, you expressed so ardently
@@ -213,7 +213,7 @@
             <lb/>Chaucer. I hope I may, the story not wholly nor principally
             relating to the battle.</seg>
             
-          <seg type="editorial">[Here Chaucer tells the story of Sir Magnus Lucy of Charlecote.]</seg>
+          <seg type="gloss">[Here Chaucer tells the story of Sir Magnus Lucy of Charlecote.]</seg>
             
           <seg><note place="margin">[p.  97]</note>Now Messer Francesco, I may call upon you, having seen
             you long since throw aside your gravity, and at last spring

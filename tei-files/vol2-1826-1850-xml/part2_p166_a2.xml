@@ -87,10 +87,12 @@
       <div type="allusion">
         <milestone unit="page" n="166"/>
         
-        <ab type="imprint">1827. Neele, Henry. <hi rend="italic">Lectures on English Poetry. Delivered at the Russell Institution in</hi> . . . 1827, [in] The Literary Remains of the late Henry Neele, 1829. (3rd edn., 1839, pp. 3, 6-10, 19-20, 39, 48, 49-51, 70.)<note type="footnote">Note in Spurgeon: [The Lectures on English Poetry were reprinted separately. The third edition, 1839, is the earliest in B.M.]</note></ab>
+        <ab type="imprint">1827. Neele, Henry. <hi rend="italic">Lectures on English Poetry. Delivered at the Russell Institution in</hi> . . . 1827, [in] The Literary Remains of the late Henry Neele, 1829. (3rd edn., 1839, pp. 3, 6-10, 19-20, 39, 48, 49-51, 70.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[In the introductory lecture Neele describes Chaucer’s genius
+          <seg type="editorialNote">[The Lectures on English Poetry were reprinted separately. The third edition, 1839, is the earliest in B.M.]</seg>
+          
+          <seg type="gloss">[In the introductory lecture Neele describes Chaucer’s genius
             as 'vast, versatile, and original,' p. 7. His attainments, both
             in learning and knowledge of human nature, he declares, were
             profound. He follows Tyrwhitt's lead in his brief remarks on

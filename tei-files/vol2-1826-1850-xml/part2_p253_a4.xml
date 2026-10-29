@@ -92,7 +92,7 @@
         <ab type="imprint">1844. Hunt, James Henry Leigh. <hi rend="italic">Imagination and Fancy, or Selections from the English Poets</hi>, illustrative of those First Requisites of their Art; with markings of the best passages, critical notices of the writers. And an Essay in Answer to the Question, "What is Poetry?", pp. vii, 5-6, 15-17, 32-3, 62-3, 66, 72, 87, 141, 149, 151-2, 186-8, 213, 218-19, 253, 261-2, 278, 335.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[Preface, p. vii]</note>[The scope of the editor's intentions outlined and a reference
+          <seg type="gloss"><note place="margin">[Preface, p. vii]</note>[The scope of the editor's intentions outlined and a reference
             to the Balade “Hide, Absolon,” in <hi rend="italic">Legend of Good Women</hi>, Prol.]
             <lb/>. . . . . . . . . .</seg>
             
@@ -200,7 +200,9 @@
             <note place="margin">[p. 152]</note>for a writer to say everything that came into his head. He
             was a student of Chaucer: he beheld the living fame of
             Spenser; and his fellow-dramatists did not help to restrain
-            him.<note type="footnote">Note in Spurgeon: [The references and passages are identical in the second edition, 1845.]</note></seg>
+            him.</seg>
+          
+          <seg type="editorialNote">[The references and passages are identical in the second edition, 1845.]</seg>
         </ab>
       </div>
     </body>

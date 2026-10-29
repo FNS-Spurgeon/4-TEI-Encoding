@@ -86,14 +86,16 @@
         <ab type="imprint">[1803?] Boucher, Jonathan. <hi rend="italic">Proposals for printing by subscription in two volumes . . . Linguæ Anglicanæ Veteris Thesaurus, or a Glossary of the Ancient English Language</hi> . . . by . . . Jonathan Boucher, pp. 4, 12. [In a collection of prospectuses, 1796-1842, in Brit. Mus. (11902. bbb. 23), in 3 vols, 1 and 2 lettered <hi rend="italic">Collectio Prospectuum</hi>, vol. i, pp. [in MS.] 49 b, 53 b.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p.12]</note>[A specimen is given of the dictionary under the word
+          <seg type="gloss"><note place="margin">[p.12]</note>[A specimen is given of the dictionary under the word
             Achates, or Acates, Victuals; and a quotation from the Prologue,
             <lg>
               <l>A gentil manciple was there of a temple,</l>
               <l>Of which achatour mighten take ensemple . . . <add>[to]</add></l>
-              <l>That he was aye before in his estate.]<note type="footnote">Note in Spurgeon: [This glossary was not published until 1832, and was then edited by J. Hunter and J. Stevenson. Boucher died in 1804, see below, a. 1804.]</note></l>
+              <l>That he was aye before in his estate.]</l>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[This glossary was not published until 1832, and was then edited by J. Hunter and J. Stevenson. Boucher died in 1804, see below, a. 1804.]</seg>
         </ab>
       </div>
     </body>

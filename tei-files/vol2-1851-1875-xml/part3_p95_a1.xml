@@ -89,7 +89,7 @@
         <ab type="imprint">1868-77. A Six-Text Print of Chaucer's Canterbury Tales in Parallel Columns from the following MSS.: 1. The Ellesmere; 2. The Hengwrt 154; 3. The Cambridge Univ. Libr. Gg. 4. 27; 4. The Corpus Christi Coll., Oxford; 5. The Petworth; 6. The Lansdowne 851. Edited by F. J. Furnivall. Chaucer Society, 8 parts, 1868-77, oblong 8vo.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">
+          <seg type="gloss">
             [The six-text edition contains when complete :—
             <list>
               <item>(1) The Dedication: To Prof. Francis James Child, etc.</item>
@@ -133,18 +133,20 @@
           
           <milestone unit="page" n="96"/>
             
-          <seg type="editorial">[In 1868 Dr. Furnivall published separately (2nd ser. 3):
+          <seg type="gloss">[In 1868 Dr. Furnivall published separately (2nd ser. 3):
             <hi rend="italic">A Temporary Preface to the Six-Text Edition of Chaucer's
             Canterbury Tales, attempting to shew the true order of the
             Tales, and the days and stages of the pilgrimage, etc., etc.</hi>]</seg>
             
-          <seg type="editorial">[See Skeat's <hi rend="italic">Evolution of the Canterbury Tales</hi> for a study
+          <seg type="gloss">[See Skeat's <hi rend="italic">Evolution of the Canterbury Tales</hi> for a study
             of the sequence of the Tales as set forth in the Six-Text
             edition. Each of the texts constituting the Six-Text edition
             was printed separately, for editorial use, 1868-77: Child
             himself had conceived the idea of printing a six or eight-
             text <hi rend="italic">Chaucer</hi>. See the notice of a note on the subject in the
-            <hi rend="italic">Reader</hi>, under 1865, Furnivall (?)]<note type="footnote">Note in Spurgeon: [Later publications of the Chaucer Society have for the most part been omitted, as being generally accessible and known to members of the Society.]</note></seg>
+            <hi rend="italic">Reader</hi>, under 1865, Furnivall (?)]</seg>
+          
+          <seg type="editorialNote">[Later publications of the Chaucer Society have for the most part been omitted, as being generally accessible and known to members of the Society.]</seg>
         </ab>
       </div>
     </body>

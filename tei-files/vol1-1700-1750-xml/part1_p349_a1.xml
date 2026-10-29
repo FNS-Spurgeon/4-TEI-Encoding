@@ -93,7 +93,7 @@
         <ab type="imprint">1720. Jacob, Giles. <hi rend="italic">An Historical Account of the Lives and Writings of our most Considerable English Poets</hi> [being the 2nd vol. of the] Poetical Register, 1719, pp. v, 26-30, 36, 55, 66, 93-4, 148-9, 191, 203, 277. [Opposite the title page are the pictures of Milton, Butler, Chaucer, Cowley, Waller; Chaucer's picture, in the middle, is the largest and most prominent.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. v]</note>[Dedication to the Duke of Buckingham.]</seg>
+          <seg type="gloss"><note place="margin">[p. v]</note>[Dedication to the Duke of Buckingham.]</seg>
           
           <seg>If all the Poets, whose writings I have enumerated, . . .
             were yet living, they would approve my choice in Addressing
@@ -103,9 +103,9 @@
             Chaucer, Spenser, and Milton would stand by the Determination
             of the Duke ot Buckingham.</seg>
             
-          <seg type="editorial"><note place="margin">[pp 26-30]</note>[Life of Chaucer.]</seg>
+          <seg type="gloss"><note place="margin">[pp 26-30]</note>[Life of Chaucer.]</seg>
             
-          <seg type="editorial">[The usual account of Chaucer, educated at both
+          <seg type="gloss">[The usual account of Chaucer, educated at both
             Universities, his Travels, position at Court, &amp;c.] . . .</seg>
             
           <seg>His liberal Education at the Universities, and his Improvements in
@@ -128,21 +128,21 @@
             everything before your Eyes which you only Read: And
             herein his <hi rend="italic">Canterbury Tales</hi> are most valued and esteemed.</seg>
           
-          <seg type="editorial">[Here follow appreciations by Sir Henry Savile, Spenser,
+          <seg type="gloss">[Here follow appreciations by Sir Henry Savile, Spenser,
             Sidney, Sir John Denham, Sir Richard Baker, Camden, Leland.]</seg>
             
           <seg><note place="margin">[p. 29]</note>He died in the year 1400 after he had lived above
             Seventy two Years . . .</seg>
             
-          <seg type="editorial"><note place="margin">[p. 36]</note>[Life of Mr. Samuel Cobb, who wrote the Miller's Tale,
+          <seg type="gloss"><note place="margin">[p. 36]</note>[Life of Mr. Samuel Cobb, who wrote the Miller's Tale,
             from Chaucer. See above, 1712, p. 319.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 55]</note>[Life of Elijah Fenton, and Works. He wrote A Tale in
+          <seg type="gloss"><note place="margin">[p. 55]</note>[Life of Elijah Fenton, and Works. He wrote A Tale in
             the manner of Chaucer. See above 1717, p. 345.]</seg>
           
           <milestone unit="page" n="350"/>
             
-          <seg type="editorial"><note place="margin">[p. 66]</note>[Life of Gower.]</seg>
+          <seg type="gloss"><note place="margin">[p. 66]</note>[Life of Gower.]</seg>
             
           <seg><note place="margin">[pp. 93-4]</note><add>[Life of Lydgate.]</add> . . . He justly acquired the
             Reputation of the best Author of the Age, wherein he lived; and
@@ -164,9 +164,9 @@
             still remain, tho' most of them were destroy'd in the grand
             Rebellion.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 203]</note>[Life of Spenser, buried near Chaucer.]</seg>
+          <seg type="gloss"><note place="margin">[p. 203]</note>[Life of Spenser, buried near Chaucer.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 277]</note>[Life of N. Rowe, buried near Chaucer.]</seg>
+          <seg type="gloss"><note place="margin">[p. 277]</note>[Life of N. Rowe, buried near Chaucer.]</seg>
         </ab>
       </div>
     </body>

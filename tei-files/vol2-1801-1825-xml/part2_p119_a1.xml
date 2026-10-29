@@ -88,8 +88,10 @@
         <ab type="quotation">
           <seg><add>[Footnote.]</add> A favourite flower of mine <add>[i. e. the daisy]</add>. It
             was a favourite with Chaucer, but he did not understand its
-            moral mystery as I do.<note type="footnote">Note in Spurgeon: [This travesty of Peter Bell was published anonymously before the actual appearance of Wordsworth's poem of that name; the above footnote was quoted in a review by John Keats, which appeared in the Examiner, April 25, 1819.]</note>
+            moral mystery as I do.
           </seg>
+          
+          <seg type="editorialNote">[This travesty of Peter Bell was published anonymously before the actual appearance of Wordsworth's poem of that name; the above footnote was quoted in a review by John Keats, which appeared in the Examiner, April 25, 1819.]</seg>
         </ab>
       </div>
     </body>

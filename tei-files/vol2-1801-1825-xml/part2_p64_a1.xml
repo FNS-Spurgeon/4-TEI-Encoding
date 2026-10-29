@@ -101,7 +101,7 @@
             Fame accuses him of being so desperate a student, that he
             takes no heed of anybody, and reads till he looks stupid;</seg>
             
-          <seg type="editorial"><lb/>[Here follows a quotation, beginning:]</seg>
+          <seg type="gloss"><lb/>[Here follows a quotation, beginning:]</seg>
           
           <seg>
             <lg>
@@ -116,7 +116,9 @@
             character and description. Milton and Spenser were both
             men of learning, and, what is rarer for poets, men of
             business; and so indeed was Chaucer . . . Chaucer revels in
-            morning scenery.<note type="footnote">Note in Spurgeon: [Compare with this the text as printed in the <hi rend="italic">Reflector</hi>, 1812, above, and in the second edition, 1815, below.]</note></seg>
+            morning scenery.</seg>
+          
+          <seg type="editorialNote">[Compare with this the text as printed in the <hi rend="italic">Reflector</hi>, 1812, above, and in the second edition, 1815, below.]</seg>
         </ab>
       </div>
     </body>

@@ -84,9 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="165"/>
         
-        <ab type="imprint">1827. Hood, Eu., pseud. [i. e. Haslewood, Joseph]. <hi rend="italic">Notes</hi> on <hi rend="italic">Mayster of the Game</hi>, by Edmond de Langley, fifth son of Edward III, (Fly Leaves no. xxxvii), [in] The Gentleman's Magazine, April, 1827, p. 309.<note type="footnote">Note in Spurgeon: ["Eu. Hood" is identifed with Haslewood by his album of these Fly Leaves (B.M., 1077. g. 26).]</note></ab>
+        <ab type="imprint">1827. Hood, Eu., pseud. [i. e. Haslewood, Joseph]. <hi rend="italic">Notes</hi> on <hi rend="italic">Mayster of the Game</hi>, by Edmond de Langley, fifth son of Edward III, (Fly Leaves no. xxxvii), [in] The Gentleman's Magazine, April, 1827, p. 309.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">["Eu. Hood" is identifed with Haslewood by his album of these Fly Leaves (B.M., 1077. g. 26).]</seg>
+          
           <seg>Alauntz, or Mastiff. <add>[Quotation, <hi rend="italic">Knightes Tale</hi>, l. 1290.]</add></seg>
         </ab>
       </div>

@@ -88,9 +88,11 @@
       <div type="allusion">
         <milestone unit="page" n="42"/>
         
-        <ab type="imprint">1809. Blake, William. <hi rend="italic">Sir Jeffery Chaucer and the nine and twenty Pilgrims on their Journey to Canterbury</hi>, [in] A Descriptive Catalogue of Pictures, Poetical and Historical Inventions Painted by William Blake in water colours, London, 1809, pp. 7-34. [Printed in <hi rend="italic">Life of William Blake</hi>, by Alex. Gilchrist, enlarged edition, 1880, vol. ii, pp. 142-52.]<note type="footnote">Note in Spurgeon: [For Lamb's appreciation of this article, see p. 49 below, 1810, H. Crabb Robinson.]</note></ab>
+        <ab type="imprint">1809. Blake, William. <hi rend="italic">Sir Jeffery Chaucer and the nine and twenty Pilgrims on their Journey to Canterbury</hi>, [in] A Descriptive Catalogue of Pictures, Poetical and Historical Inventions Painted by William Blake in water colours, London, 1809, pp. 7-34. [Printed in <hi rend="italic">Life of William Blake</hi>, by Alex. Gilchrist, enlarged edition, 1880, vol. ii, pp. 142-52.]</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[For Lamb's appreciation of this article, see p. 49 below, 1810, H. Crabb Robinson.]</seg>
+          
           <seg><note place="margin">[p. 9]</note>The characters of Chaucer's Pilgrims are the characters
             which compose all ages and nations : as one age falls, another
             rises, different to mortal sight, but to immortals only the same;
@@ -255,7 +257,7 @@
             Let the Philosopher always be the Servant and Scholar of
             inspiration and all will be happy.</seg>
             
-          <seg type="editorial">[The rest of the section is devoted to a critical examination
+          <seg type="gloss">[The rest of the section is devoted to a critical examination
             of Stothard’s rival picture and the prospectus of Schiavonetti's
             engraving (q.v. above, p. 37, 1808), and Blake gives examples of
             how carelessly Stothard has read Chaucer and how little he has

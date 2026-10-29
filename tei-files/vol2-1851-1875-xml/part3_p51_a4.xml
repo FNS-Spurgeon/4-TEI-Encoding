@@ -85,7 +85,7 @@
         <ab type="imprint">1859. Unknown. <hi rend="italic">Review</hi> [of] <hi rend="italic">The Poetical Works of Geoffrey Chaucer</hi>, edited by Robert Bell . . . 1855, [in] The London Review, July 1859, vol. xii, pp. 285-303.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[pp. 285-291]</note> [A short sketch of Chaucer's life, noting the rejection by
+          <seg type="gloss"><note place="margin">[pp. 285-291]</note> [A short sketch of Chaucer's life, noting the rejection by
             Nicolas of the episodes dependent on the <hi rend="italic">Testament of Love</hi>,
             and laying stress on the substantial nature of the patronage Chaucer received.]</seg>
             
@@ -111,7 +111,7 @@
             is quite content to become a translator, if he has seen a good
             story in a foreign tongue.</seg>
             
-          <seg type="editorial">[Contrast in this between the age
+          <seg type="gloss">[Contrast in this between the age
             of Chaucer, like all great periods, and the unpoetical and
             would-be original nineteenth century. Explanation of the
             cause: loss of enjoyment. "To our forefathers every old

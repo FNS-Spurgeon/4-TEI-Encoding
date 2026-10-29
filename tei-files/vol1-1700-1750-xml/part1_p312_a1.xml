@@ -88,10 +88,12 @@
       <div type="allusion">
         <milestone unit="page" n="312"/>
         
-        <ab type="imprint">[a. 1710.] Betterton, Thomas. <hi rend="italic">Chaucer's Characters or the Introduction to the Canterbury Tales—The Miller of Trompington or the Reve’s Tale from Chaucer</hi>. [Printed in] Miscellaneous Poems and Translations by Several Hands, Printed for Bernard Lintot, 1712, pp. 245-82, and 301-20. Reprinted 1720, 1722.<note type="footnote">[Betterton died in 1710. Warton relates that Harte told him that Fenton believed this version of the Prologue to be by Pope. See below, p. 590, 1797, Warton, and also Johnson's Lives of the Poets, below, p. 459, 1779-81.]</note></ab>
+        <ab type="imprint">[a. 1710.] Betterton, Thomas. <hi rend="italic">Chaucer's Characters or the Introduction to the Canterbury Tales—The Miller of Trompington or the Reve’s Tale from Chaucer</hi>. [Printed in] Miscellaneous Poems and Translations by Several Hands, Printed for Bernard Lintot, 1712, pp. 245-82, and 301-20. Reprinted 1720, 1722.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A very free rendering of Chaucer’s Prologue and Reeve’s tale.]</seg>
+          <seg type="gloss">[A very free rendering of Chaucer’s Prologue and Reeve’s tale.]</seg>
+          
+          <seg type="editorialNote">[Betterton died in 1710. Warton relates that Harte told him that Fenton believed this version of the Prologue to be by Pope. See below, p. 590, 1797, Warton, and also Johnson's Lives of the Poets, below, p. 459, 1779-81.]</seg>
         </ab>
       </div>
     </body>

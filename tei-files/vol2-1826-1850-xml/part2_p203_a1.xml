@@ -89,7 +89,7 @@
         <ab type="imprint">1836. [Carey, William?] <hi rend="italic">Reminiscences of Stothard</hi>, [in] Blackwood's Edinburgh Magazine, May and June, 1836, vol. xxxix. pp. 681-4, 753-7, 759.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[References to Stothard’s painting, <hi rend="italic">The Canterbury Pilgrims</hi>.]</seg>
+          <seg type="gloss">[References to Stothard’s painting, <hi rend="italic">The Canterbury Pilgrims</hi>.]</seg>
           
           <seg><note place="margin">[p. 681]</note>So little conscious was he <add>[Stothard]</add> of the pecuniary value
             of his talents, that I believe I speak perfectly true when I say
@@ -99,7 +99,7 @@
             engraved . . . and had the most extensive sale of any thing
             of the kind published within the last century.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 753]</note>[No artist had previously attempted to illustrate Chaucer so
+          <seg type="gloss"><note place="margin">[p. 753]</note>[No artist had previously attempted to illustrate Chaucer so
             fully and elaborately. Indeed Chaucer had been most
             undeservedly neglected both by artists and readers. Stothard’s
             Canterbury Pilgrims owe their existence to Mr. Cromek, the
@@ -112,8 +112,10 @@
             it (pp. 753-6), with a quotation from Hoppner's letter, q.v.
             above, 1807.]</seg>
             
-            <seg><note place="margin">[p. 759]</note><add>[A reference to Stothard’s]</add> beautiful little picture of the
-            Cock and the Fox, from Chaucer.<note type="footnote">Note in Spurgeon: [These articles are most probably written by William Carey, the picture dealer, as they closely resemble much in his pamphlet, q.v. above, 1808.]</note></seg>
+          <seg><note place="margin">[p. 759]</note><add>[A reference to Stothard’s]</add> beautiful little picture of the
+            Cock and the Fox, from Chaucer.</seg>
+          
+          <seg type="editorialNote">[These articles are most probably written by William Carey, the picture dealer, as they closely resemble much in his pamphlet, q.v. above, 1808.]</seg>
         </ab>
       </div>
     </body>

@@ -142,7 +142,7 @@
             sense and kindly humour, a freshness and joyousness of
             feeling, that even Shakspeare has not surpassed.</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 229-31]</note> [Chaucer’s satire on the clerics.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 229-31]</note> [Chaucer’s satire on the clerics.]</seg>
             
           <seg><note place="margin">[p. 248]</note> Nothing brings more vividly home to us the social chasm
             which in the fourteenth century severed the rich from the
@@ -151,9 +151,9 @@
             wealth and ease and laughter through which the courtly
             Chaucer moves with eyes downcast as in a pleasant dream
             is a far-off world of wrong and of ungodliness to the gaunt
-            poet of the poor.
-            <note type="footnote">Note in Spurgeon: [The passages on Chaucer were re-bandled in Green's <hi rend="italic">History of the English People</hi>, 1877-80.]</note>
-          </seg>
+            poet of the poor.</seg>
+          
+          <seg type="editorialNote">[The passages on Chaucer were re-bandled in Green's <hi rend="italic">History of the English People</hi>, 1877-80.]</seg>
         </ab>
       </div>
     </body>

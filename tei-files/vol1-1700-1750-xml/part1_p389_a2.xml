@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="389"/>
         
-        <ab type="imprint">[1741?] Minshull, Randal. <hi rend="italic">Proposals</hi> for Printing an exact and Ample Account of all the Books Printed by William Caxton . . . with a Vocabulary of the Old English Words, and an Explanation of them, which will greatly illustrate the Ancient English Language, as it was written in the Reign of Edward III and continued down to Henry VII Kings of England, contained in the Writings of Thomas Woodstock Duke of Glocester, Anthony Woodville Earl Rivers, John Gower, Geoffry Chaucer, John Lydgate, and other famous Persons. By R. Minshull, Library-Keeper to the Right Honourable the Earl of Oxford, deceas’d.<note type="footnote">[These Proposals were apparently never carried into effect. On the back of a copy ot the Proposals inserted in the beginning of W. Herbert's interleaved copy of Typographical Antiquities <add>[B. M. pr. m. 824. k. 1-6]</add> vol. I. i, there is a receipt by Minshull to Dr. <add>[Richard]</add> Mead for one guinea, being the first half of the subscription, dated March 1, 1741.]</note></ab>
+        <ab type="imprint">[1741?] Minshull, Randal. <hi rend="italic">Proposals</hi> for Printing an exact and Ample Account of all the Books Printed by William Caxton . . . with a Vocabulary of the Old English Words, and an Explanation of them, which will greatly illustrate the Ancient English Language, as it was written in the Reign of Edward III and continued down to Henry VII Kings of England, contained in the Writings of Thomas Woodstock Duke of Glocester, Anthony Woodville Earl Rivers, John Gower, Geoffry Chaucer, John Lydgate, and other famous Persons. By R. Minshull, Library-Keeper to the Right Honourable the Earl of Oxford, deceas’d.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[These Proposals were apparently never carried into effect. On the back of a copy ot the Proposals inserted in the beginning of W. Herbert's interleaved copy of Typographical Antiquities <add>[B. M. pr. m. 824. k. 1-6]</add> vol. I. i, there is a receipt by Minshull to Dr. <add>[Richard]</add> Mead for one guinea, being the first half of the subscription, dated March 1, 1741.]</seg>
+        </ab>
       </div>
     </body>
   </text>

@@ -85,7 +85,9 @@
         <ab type="imprint">1818. Hazlitt, William. <hi rend="italic">Review of Letters of Horace Walpole</hi>, [in] The Edinburgh Review, Dec. 1818, vol. xxxi, p. 92. (Collected Works, ed. Waller and Glover, 1902-6, 13 vols., vol. x, p. 171.)</ab>
         
         <ab type="quotation">
-          <seg>The author is exceedingly amusing in his attempt at tracing his descent from Chaucer.<note type="footnote">Note in Spurgeon: [This refers to Walpole's letter to George Montagu, of Aug. 11, 1748, q.v. above, vol. i, p. 898.]</note></seg>
+          <seg>The author is exceedingly amusing in his attempt at tracing his descent from Chaucer.</seg>
+          
+          <seg type="editorialNote">[This refers to Walpole's letter to George Montagu, of Aug. 11, 1748, q.v. above, vol. i, p. 898.]</seg>
         </ab>
       </div>
     </body>

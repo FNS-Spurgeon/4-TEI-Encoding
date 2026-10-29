@@ -95,7 +95,7 @@
             Chaucer’s stories, possesses a degree of regularity which might
             satisfy the most severe critic.</seg>
           
-          <seg type="editorial">[The honour of this, says Scott, is due to Chaucer. Passages follow on Dryden's treatment of the Knight’s Tale.]
+          <seg type="gloss">[The honour of this, says Scott, is due to Chaucer. Passages follow on Dryden's treatment of the Knight’s Tale.]
             <lb/>. . . . . . . . . .
           </seg>
             
@@ -142,7 +142,7 @@
             <lb/>. . . . . . . . . .
           </seg>
                         
-          <seg type="editorial"><note place="margin">[p. 501]</note>[The French element in Chaucer's language.]</seg>
+          <seg type="gloss"><note place="margin">[p. 501]</note>[The French element in Chaucer's language.]</seg>
             
           <seg><note place="margin">[p. 502]</note>Upon the whole, in introducing these romances of Boccacio
             and Chaucer to modern readers, Dryden has necessarily
@@ -209,8 +209,10 @@
             ancient Gothic lore, which the writers of our poet’s period did
             not think proper to study; but when Dryden's learning
             failed, his native stores of fancy and numbers would have
-            helped him through the task. <note type="footnote">Note in Spurgeon: [In Cochrane's Catalogue of the Abbotsford Library, 1838, notices of Chaucer's works in the Collection will be found at pp. 42, 154-5, 172, 185, 190, 239.]</note>
+            helped him through the task.
           </seg>
+          
+          <seg type="editorialNote">[In Cochrane's Catalogue of the Abbotsford Library, 1838, notices of Chaucer's works in the Collection will be found at pp. 42, 154-5, 172, 185, 190, 239.]</seg>
         </ab>
       </div>
     </body>

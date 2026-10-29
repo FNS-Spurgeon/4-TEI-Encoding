@@ -87,18 +87,18 @@
         <ab type="imprint">1834. Planché, James Robinson. <hi rend="italic">History of British Costume</hi>, pp. 94, 96, 102 n., 113, 125, 148-9, 151, 154-5, 156-7, 161, 162, 163, 165, 166, 167, 181, 229.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 94]</note>[Queintise, in <hi rend="italic">Rom. Rose</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[p. 94]</note>[Queintise, in <hi rend="italic">Rom. Rose</hi>.]</seg>
           
-          <seg type="editorial"><note place="margin">[p. 96]</note>[Shoes "decoped with lace," <hi rend="italic">Rom. Rose</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[p. 96]</note>[Shoes "decoped with lace," <hi rend="italic">Rom. Rose</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 113]</note>[Quotations from G. de Lorris on surquayne, and mention
+          <seg type="gloss"><note place="margin">[p. 113]</note>[Quotations from G. de Lorris on surquayne, and mention
             that Chaucer translates it rockette. <hi rend="italic">Rom. Rose</hi>, 1240.]</seg>
             
           <seg><note place="margin">[p. 125]</note>The apron is seen upon a female figure of this date
             <add>[Edward II]</add>. It is afterwards mentioned by Chaucer as the
             barme, or lap-cloth. <add>[<hi rend="italic">Milleres T.</hi>, 50.]</add></seg>
             
-          <seg type="editorial"><note place="margin">[p. 148]</note>[Quotation of <hi rend="italic">Knightes T.</hi>, 2026,
+          <seg type="gloss"><note place="margin">[p. 148]</note>[Quotation of <hi rend="italic">Knightes T.</hi>, 2026,
             <hi rend="italic">Troilus</hi>, i, 109, &amp;c. on mourning garments.]</seg>
             
           <seg><note place="margin">[p. 151]</note>Chaucer, who wrote his "Canterbury Tales" towards the
@@ -106,13 +106,13 @@
             into the mouth of the parson concerning the "sinful costly
             array of clothing. . ." <add>[<hi rend="italic">Persones Tale</hi>, 415.]</add></seg>
             
-          <seg type="editorial"><note place="margin">[pp.154-7]</note>[Descriptions of the dress of the Richard II period, with
+          <seg type="gloss"><note place="margin">[pp.154-7]</note>[Descriptions of the dress of the Richard II period, with
             Chaucer quotations.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 161-3]</note>[Description of knightly accoutrements, with quotations
+          <seg type="gloss"><note place="margin">[pp. 161-3]</note>[Description of knightly accoutrements, with quotations
             from <hi rend="italic">The Knightes Tale</hi>, etc.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 165-7]</note>[Description of ladies' dress of the reign of Richard II, with
+          <seg type="gloss"><note place="margin">[pp. 165-7]</note>[Description of ladies' dress of the reign of Richard II, with
             quotations from the <hi rend="italic">Canterbury Tales</hi>.]</seg>
         </ab>
       </div>

@@ -87,7 +87,11 @@
       <div type="allusion">
         <milestone unit="page" n="370"/>
         
-        <ab type="imprint">1728. Markland, Jeremiah. <hi rend="italic">Modernisations of Canterbury Tales</hi>, [in] The Altar of Love.<note type="footnote">Note in Spurgeon: [Advertised (as "just published") in "The Velvet Coffee-woman" (Anne Rochford, 1728, as “A Collection of Love Poetry." "The Tales from Boccace to Chaucer are moderniz'd in a smooth and easy manner by Mr. Markland, of Peterhouse." The advertisement claims that Pope had “a large share in it." No copy of this book has been found. See below, p. 389, 1741, Ogle.]</note></ab>
+        <ab type="imprint">1728. Markland, Jeremiah. <hi rend="italic">Modernisations of Canterbury Tales</hi>, [in] The Altar of Love.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[Advertised (as "just published") in "The Velvet Coffee-woman" (Anne Rochford, 1728, as “A Collection of Love Poetry." "The Tales from Boccace to Chaucer are moderniz'd in a smooth and easy manner by Mr. Markland, of Peterhouse." The advertisement claims that Pope had “a large share in it." No copy of this book has been found. See below, p. 389, 1741, Ogle.]</seg>
+        </ab>
       </div>
     </body>
   </text>

@@ -99,7 +99,7 @@
             last Edition of his Works; and shall therefore in this Place
             give only some Hints of him.</seg>
             
-          <seg type="editorial">[Here follows the usual description of Chaucer's life, followed
+          <seg type="gloss">[Here follows the usual description of Chaucer's life, followed
             by one of his tomb.]</seg>
             
           <seg>. . . His stone of broad Grey Marble, as I take it, was not
@@ -156,7 +156,7 @@
             very different Originals; one had to his Father our learned,
             I may safely say, religious, and well-bred Poet, (for the
             Obscenity of his Writings, I have sufficiently spoke of both
-            Prose and<note type="footnote"><hi rend="italic">Poem on Chaucer and his Writings</hi>, Lond. 1722</note> Verse, tho' the first, I think, is left out in the
+            Prose and<note type="footnote" n="[1]">[<hi rend="italic">Poem on Chaucer and his Writings</hi>, Lond. 1722]</note> Verse, tho' the first, I think, is left out in the
             printed Copy of the Life:) The other was the Son of one
             
             <milestone unit="page" n="365"/>
@@ -224,9 +224,11 @@
               <note place="margin">[p. 89]</note><l>Yet not discouraged thus, with grateful Fire,</l>
               <l>I try at Verse, and reassume the Lyre:</l>
               <l>Suspend, great Bard, this Tablet at thy Shrine,</l>
-              <l>And bribe the World to Fame, by sounding thine.<note type="footnote">Note in Spurgeon: [There is no copy of the 1st edn. at the B. M. ; Westminster Abbey, a Poem, is prefixed to the edn. of 1742 (see above, 1721, Dart, J., p. 361). The "Poem on Chaucer and his Writings, 1722," is not in the B. M. or Bodl., nor have we been able to trace it. The edn. of 1742 contains also a full-page engraving of Chaucer’s monument.]</note></l>
+              <l>And bribe the World to Fame, by sounding thine.</l>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[There is no copy of the 1st edn. at the B. M. ; Westminster Abbey, a Poem, is prefixed to the edn. of 1742 (see above, 1721, Dart, J., p. 361). The "Poem on Chaucer and his Writings, 1722," is not in the B. M. or Bodl., nor have we been able to trace it. The edn. of 1742 contains also a full-page engraving of Chaucer’s monument.]</seg>
         </ab>
       </div>
     </body>

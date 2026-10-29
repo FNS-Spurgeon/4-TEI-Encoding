@@ -83,12 +83,14 @@
       <div type="allusion">
         <milestone unit="page" n="130"/>
         
-        <ab type="imprint">1820-21. [Hazlitt, William.] <hi rend="italic">The Plain Speaker</hi>. Vol. i. On the Pleasure of Hating, p. 321. Vol. ii. On Reading Old Books, p. 78. On Personal Character, p. 111. On Antiquity, p. 147. On the Difference between Writing and Speaking, p. 183. On a Portrait of an English Lady, p. 208. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. vii, pp. 133-4, 227, 240, 255, 270, 280.)<note type="footnote">Note in Spurgeon: [Some of the Essays appeared, as "Table Talk," in the London Magazine, 1820-21.]</note></ab>
-        
-        <milestone unit="page" n="131"/>
+        <ab type="imprint">1820-21. [Hazlitt, William.] <hi rend="italic">The Plain Speaker</hi>. Vol. i. On the Pleasure of Hating, p. 321. Vol. ii. On Reading Old Books, p. 78. On Personal Character, p. 111. On Antiquity, p. 147. On the Difference between Writing and Speaking, p. 183. On a Portrait of an English Lady, p. 208. (Collected Works of William Hazlitt, ed. Waller and Glover, 1902-6, 13 vols., vol. vii, pp. 133-4, 227, 240, 255, 270, 280.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[On the Pleasure of Hating.]</seg>
+          <seg type="editorialNote">[Some of the Essays appeared, as "Table Talk," in the London Magazine, 1820-21.]</seg>
+          
+          <milestone unit="page" n="131"/>
+          
+          <seg type="gloss">[On the Pleasure of Hating.]</seg>
           
           <seg><note place="margin">[p. 133]</note>To cry up Shakespeare as the God of our idolatry, seems
             like a vulgar national prejudice; to take down a volume of
@@ -96,7 +98,7 @@
             Marlowe, has very much like the look of pedantry and
             egotism.<lb/>. . . . . . . . . .</seg>
             
-          <seg type="editorial">[On Antiquity.]</seg>
+          <seg type="gloss">[On Antiquity.]</seg>
             
           <seg><note place="margin">[p. 255]</note>When Chaucer, in his Troilus and Cressida, makes the
             Trojan hero invoke the absence of light, in these two lines–

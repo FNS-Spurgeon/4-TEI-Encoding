@@ -89,7 +89,7 @@
         <ab type="imprint">1715. Elstob, Elizabeth. <hi rend="italic">The Rudiments of Grammar for the English-Saxon Tongue, first given in English: with an Apology for the study of Northern Antiquities. Being very useful toward the understanding our ancient English Poets, and other Writers.</hi> By Elizabeth Elstob . . . London . . . 1715. Preface, pp. xvi-xviii, note, xix, xxiv, xxviii-ix.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Paraphrase of pp. xi-xiii. An Examination of (1) whether
+          <seg type="gloss">[Paraphrase of pp. xi-xiii. An Examination of (1) whether
             the charge made against the Northern languages is true, that
             they consist of nothing but Monosyllables; and (2) whether
             the copiousness and variety of Monosyllables may be always
@@ -180,7 +180,9 @@
             least be permitted the Benefit of Mr. Dryden's Apology, for
             the Musick of old Father Chaucer's Numbers, "That there is
             the rude Sweetness of a Scotch Tune in it, which is natural
-            and pleasing, tho' not perfect.<note type="footnote">Note in Spurgeon: [All the verse quotations are in black letter.]</note></seg>
+            and pleasing, tho' not perfect.</seg>
+          
+          <seg type="editorialNote">[All the verse quotations are in black letter.]</seg>
         </ab>
       </div>
     </body>

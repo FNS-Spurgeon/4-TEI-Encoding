@@ -89,14 +89,16 @@
         <ab type="imprint">1841. Collier, John Payne. <hi rend="italic">Introduction</hi> [to] <hi rend="italic">Patient Grissil</hi>, a comedy by Thomas Dekker, Henry Chettle and William Haughton. Reprinted for Shakespeare Soc., 1841, pp. vi, vii.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. vi]</note>[Chaucer's visit to Padua.]</seg>
+          <seg type="gloss"><note place="margin">[p. vi]</note>[Chaucer's visit to Padua.]</seg>
           
           <seg>English readers first became acquainted with the story <add>[of
             Griselda]</add> by means of Chaucer's beautiful and extended
             versification of the incidents; and comparing them with those
             <note place="margin">[p. vii]</note>in Boccaccio's novel, it may be inferred that Chaucer saw
             Petrarch after he had read, if not translated, what Boccaccio
-            had sent to him.<note type="footnote">Note in Spurgeon: [There is no reference to Chaucer either in the play itself or by older editors of it.]</note></seg>
+            had sent to him.</seg>
+          
+          <seg type="editorialNote">[There is no reference to Chaucer either in the play itself or by older editors of it.]</seg>
         </ab>
       </div>
     </body>

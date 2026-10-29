@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="310"/>
         
-        <ab type="imprint">1709. [Maynwaring or Mainwaring, Arthur.] <hi rend="italic">The Court of Love. A Tale from Chaucer</hi> [in] Ovid’s Art of Love . . . . translated into English Verse by Several Eminent Hands . . . To which are added The Court of Love . . . Printed for Jacob Tonson . . . 1709, pp. 351-68.<note type="footnote">[The central idea of the poem and a few images are all that Maynwaring has given here. See below, 1715, p. 341, Oldmixon, John.]</note></ab>
+        <ab type="imprint">1709. [Maynwaring or Mainwaring, Arthur.] <hi rend="italic">The Court of Love. A Tale from Chaucer</hi> [in] Ovid’s Art of Love . . . . translated into English Verse by Several Eminent Hands . . . To which are added The Court of Love . . . Printed for Jacob Tonson . . . 1709, pp. 351-68.</ab>
+      
+        <ab type="quotation">
+          <seg type="editorialNote">[The central idea of the poem and a few images are all that Maynwaring has given here. See below, 1715, p. 341, Oldmixon, John.]</seg>
+        </ab>
       </div>
     </body>
   </text>

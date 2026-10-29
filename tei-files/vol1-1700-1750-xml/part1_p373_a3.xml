@@ -91,7 +91,9 @@
         <ab type="quotation">
           <seg>Another Difficulty started by the writer of the <hi rend="italic">Courant</hi>,
             is, the Fluctuation of our Language, whereby it may become
-            unintelligible to Posterity, as Chaucer and Gower are now.<note type="footnote">Note in Spurgeon: [For an Essay in the September No. see below, App. A.]</note></seg>
+            unintelligible to Posterity, as Chaucer and Gower are now.</seg>
+          
+          <seg type="editorialNote">[For an Essay in the September No. see below, App. A.]</seg>
         </ab>
       </div>
     </body>

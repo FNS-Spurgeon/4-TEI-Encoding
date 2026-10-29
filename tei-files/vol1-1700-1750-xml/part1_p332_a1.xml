@@ -87,7 +87,7 @@
         <ab type="imprint">[1714|15? Urry, John.] <hi rend="italic">Epitaphium Johannis Urry</hi> [in MS. on a piece of letter paper, inserted before the title page of Urry's edn. of Chaucer, with notes by T. and W. Thomas, B. M. pr. m. 643, m. 4. The following note is at the end of it : 'This is supposed to have been made by Mr. Urry himself; It was found in his Pockett after his Death (I think it was written in his own Hand). Timᵗ. Thomas, 1717.']</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The epitaph ends thus:]</seg>
+          <seg type="gloss">[The epitaph ends thus:]</seg>
           
           <seg>
             <lg>
@@ -96,9 +96,11 @@
               <l>Jussus tamen est aggressus</l>
               <l>Opus ultra vires magnum</l>
               <l>Chaucerum, nec absolvit,</l>
-              <l>Magno sed ausu excidit.<note type="footnote">Note in Spurgeon: [For the date of above epitaph, see diary of Thomas Hearne for April 1, 1715, in Remarks and Collections of Thomas Hearne, Oxford Hist. Soc., vol. v, ed. D. W. Rannie, 1901, p. 39. 'Mr. Urry made his Epitaph as 'tis supposed a little before he kept his Bed, he being up one whole Night, or at least a good part of one.' Hearne also quotes the epitaph in full, ibid. p. 36.]</note></l>
+              <l>Magno sed ausu excidit.</l>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[For the date of above epitaph, see diary of Thomas Hearne for April 1, 1715, in Remarks and Collections of Thomas Hearne, Oxford Hist. Soc., vol. v, ed. D. W. Rannie, 1901, p. 39. 'Mr. Urry made his Epitaph as 'tis supposed a little before he kept his Bed, he being up one whole Night, or at least a good part of one.' Hearne also quotes the epitaph in full, ibid. p. 36.]</seg>
         </ab>
       </div>
     </body>

@@ -87,9 +87,9 @@
         <ab type="imprint">1848. [Garnett, Richard, the Elder.] <hi rend="italic">Antiquarian Club-Books</hi>, [in] The Quarterly Review, March 1848, vol. lxxxii, pp. 323, 339. [Reprinted in <hi rend="italic">The Philological Essays</hi> of R. Garnett, edited by his Son, 1859, pp. 126, 143-4.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 323]</note>[Seriously questions Thomas Wright's qualifications for editing the Canterbury Tales.]</seg>
+          <seg type="gloss"><note place="margin">[p. 323]</note>[Seriously questions Thomas Wright's qualifications for editing the Canterbury Tales.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 339]</note>[Strong resemblance in grammar and idiom between Chaucer,
+          <seg type="gloss"><note place="margin">[p. 339]</note>[Strong resemblance in grammar and idiom between Chaucer,
             Orm, and Mannyng. Possibly Chaucer and Wyclif exercised
             the same kind of influence in England as Dante and Boccaccio
             did in Italy and Luther in Germany.]</seg>

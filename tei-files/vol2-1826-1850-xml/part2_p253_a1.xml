@@ -84,9 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="253"/>
         
-        <ab type="imprint">1844. Emerson, Ralph Waldo. <hi rend="italic">The Poet</hi>, [in] Essays, Second Series, London, 1844, pp. 20, 26. (Works, Centenary edition, 12 vols., London, 1903, vol. iii, p. 31.)<note type="footnote">Note in Spurgeon: [The Second Series of Essays appeared at Boston in 1844; the 1st edn. in B.M. is the London reprint (in the "Catholic Series") of the same year.]</note></ab>
+        <ab type="imprint">1844. Emerson, Ralph Waldo. <hi rend="italic">The Poet</hi>, [in] Essays, Second Series, London, 1844, pp. 20, 26. (Works, Centenary edition, 12 vols., London, 1903, vol. iii, p. 31.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[The Second Series of Essays appeared at Boston in 1844; the 1st edn. in B.M. is the London reprint (in the "Catholic Series") of the same year.]</seg>
+          
           <seg>When Chaucer, in his praise of ‘Gentilesse,’ compares
             good blood in mean condition to fire, which, though carried
             to the darkest house betwixt this and the mount of Caucasus,

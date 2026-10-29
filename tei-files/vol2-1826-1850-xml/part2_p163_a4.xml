@@ -87,7 +87,7 @@
         <ab type="imprint">1826. Scott, Sir Walter. <hi rend="italic">Woodstock, or the Cavalier</hi>, 3 vols., vol. i, title page, ch. i, p. 8 ; vol. ii, chap. iv, pp. 98-100. (Border Edition, ed. Andrew Lang, 1894, vol. i, ch. i, pp. 4-5, ch. xvi, pp. 278-80.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Motto, Title page (omitted in later editions):]</seg>
+          <seg type="gloss">[Motto, Title page (omitted in later editions):]</seg>
             
           <seg>He was a very perfect gentle knight.
             <lb/><note place="margin">[Vol. i, pp. 4-5.]</note>With these grave seniors sate . . . their pretty daughters,
@@ -122,7 +122,7 @@
             he said, making for the volume—I would like to look at the
             <note place="margin">[p. 230]</note>"No, that is Lucretius . . .</seg>
             
-          <seg type="editorial">[Everard finds it to be the Bible,
+          <seg type="gloss">[Everard finds it to be the Bible,
             passage—"Chaucer," said Bletson, hastening to interfere:
             and tells Bletson it may “serve him in better stead than
             Lucretius or Chaucer either."]</seg>

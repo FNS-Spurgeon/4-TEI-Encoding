@@ -83,7 +83,11 @@
       <div type="allusion">
         <milestone unit="page" n="121"/>
         
-        <ab type="imprint">[1820?] Chaucer's Canterbury Tales and Other Poems, published by John Cumberland, 2 vols.<note type="footnote">Note in Spurgeon: [See E. P. Hammond, <hi rend="italic">Chaucer</hi>, pp. 136-7. This edn. is not in the Douce Collection, as Miss Hammond states, ser in the Bodleian, nor the B. M.]</note></ab>
+        <ab type="imprint">[1820?] Chaucer's Canterbury Tales and Other Poems, published by John Cumberland, 2 vols.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[See E. P. Hammond, <hi rend="italic">Chaucer</hi>, pp. 136-7. This edn. is not in the Douce Collection, as Miss Hammond states, ser in the Bodleian, nor the B. M.]</seg>
+        </ab>
       </div>
     </body>
   </text>

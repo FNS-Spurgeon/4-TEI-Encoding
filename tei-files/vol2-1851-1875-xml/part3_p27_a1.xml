@@ -83,11 +83,11 @@
         <milestone unit="page" n="27"/>
         
         <ab type="imprint">
-          1855. Stanley, Arthur Penrhyn. <hi rend="italic">Historical Memorials of Canterbury</hi>, pp. 104n., 118, 146, 164-77, 184-7, 189, 206.
-          <note type="footnote">Note in Spurgeon: [The second and third Essays, which originally appeared in 1853 and 1852, contain only passing references.]</note>
-        </ab>
+          1855. Stanley, Arthur Penrhyn. <hi rend="italic">Historical Memorials of Canterbury</hi>, pp. 104n., 118, 146, 164-77, 184-7, 189, 206.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[The second and third Essays, which originally appeared in 1853 and 1852, contain only passing references.]</seg>
+          
           <seg><note place="margin">[p. 165]</note><add>[Canterbury Tales.]</add> In the first place we may observe that
             <note place="margin">[p. 166]</note>every element of society except the very highest and lowest
             was represented . . . These no doubt are selected as the
@@ -102,7 +102,7 @@
             was even a custom for the bands of pilgrims to be accompanied
             by hired minstrels and story-tellers. . .</seg>
             
-          <seg type="editorial">[These marvellous tales gave rise to the proverbial expression
+          <seg type="gloss">[These marvellous tales gave rise to the proverbial expression
             'a Canterbury Tale,' probably now extinct in England, but
             surviving in America in the exclamation 'What a Canterbury!'
             <lb/>The tales were in other cases probably related at the halts;

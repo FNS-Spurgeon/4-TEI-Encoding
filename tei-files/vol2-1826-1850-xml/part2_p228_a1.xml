@@ -88,7 +88,7 @@
         <ab type="imprint">1840-3. Strickland, Agnes and Elizabeth. <hi rend="italic">Lives of the Queens of England</hi>, 12 vols., 1840-3, vol. ii, pp. 359, 388, 389n., 395n.; vol. iii, pp. 177, 236 ; vol. vi, p. 17n.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. ii, p. 359]</note>[Philippa of Hainault, by Elizabeth Strickland. Chaucer
+          <seg type="gloss"><note place="margin">[vol. ii, p. 359]</note>[Philippa of Hainault, by Elizabeth Strickland. Chaucer
             Philippa’s protégé; quotation of the lines (described as his)
             on the maple—
             <lg>
@@ -98,24 +98,26 @@
             </lg>
           </seg>
             
-          <seg type="editorial"><note place="margin">[p. 388]</note>[Ibid. On Margaret, fifth daughter of Edward III, "a
+          <seg type="gloss"><note place="margin">[p. 388]</note>[Ibid. On Margaret, fifth daughter of Edward III, "a
             distinguished patroness of Chaucer."]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 389]</note>[Ibid. Philippa Chaucer's patroness, with whom the
+          <seg type="gloss"><note place="margin">[p. 389]</note>[Ibid. Philippa Chaucer's patroness, with whom the
             court favour of the father of English verse expired.]</seg>
             
-          <seg type="editorial"><note place="margin">[vol. iii, p. 177]</note>[Katherine of Valois, by Elizabeth Strickland. A note on
+          <seg type="gloss"><note place="margin">[vol. iii, p. 177]</note>[Katherine of Valois, by Elizabeth Strickland. A note on
             the royal minstrel James Stuart, who had been captive in
             England, was educated at Windsor by Henry IV, wrote
             poetry, and took Chaucer and Gower for his models.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 236]</note>[Margaret of Anjou, by Agnes Strickland. An allusion to
+          <seg type="gloss"><note place="margin">[p. 236]</note>[Margaret of Anjou, by Agnes Strickland. An allusion to
             Alice Chaucer as "the only child and heiress of Geoffrey
             Chaucer"—corrected in the edition of 1851, vol. ii, p. 178,
             to "the grand-daughter and heiress," etc.]</seg>
             
-          <seg type="editorial"><note place="margin">[vol. vi, p. 17]</note>[Elizabeth, by Agnes Strickland. A note on Donnington
-            as once belonging to Chaucer.]<note type="footnote">Note in Spurgeon: [The references in the new and revised edition, eight vols., London, 1851, are: vol. i, pp. 563, 577, 584, 588n. ; vol. ii, pp. 83, 132n, 178; vol. iv, p. 15n. One of these, vol. i, p. 577, an allusion to Philippa’s patronage of Chaucer, is not in the first edition.]</note></seg>
+          <seg type="gloss"><note place="margin">[vol. vi, p. 17]</note>[Elizabeth, by Agnes Strickland. A note on Donnington
+            as once belonging to Chaucer.]</seg>
+          
+          <seg type="editorialNote">[The references in the new and revised edition, eight vols., London, 1851, are: vol. i, pp. 563, 577, 584, 588n. ; vol. ii, pp. 83, 132n, 178; vol. iv, p. 15n. One of these, vol. i, p. 577, an allusion to Philippa’s patronage of Chaucer, is not in the first edition.]</seg>
         </ab>
       </div>
     </body>

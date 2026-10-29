@@ -89,7 +89,9 @@
         <ab type="quotation">
           <seg>He who is forced to live wholly upon those ladies' favours,
             is indeed in as precarious a condition as any He who does
-            what Chaucer says for sustenance. <add>[Cokes Tale]</add><note type="footnote">Note in Spurgeon: [This edition, known as the P. T. edition, is in 2 vols. bound together. The letters to Gay are the last in the book, and begin on p. 117; the preceding page being numbered 194.]</note></seg>
+            what Chaucer says for sustenance. <add>[Cokes Tale]</add></seg>
+          
+          <seg type="editorialNote">[This edition, known as the P. T. edition, is in 2 vols. bound together. The letters to Gay are the last in the book, and begin on p. 117; the preceding page being numbered 194.]</seg>
         </ab>
       </div>
     </body>

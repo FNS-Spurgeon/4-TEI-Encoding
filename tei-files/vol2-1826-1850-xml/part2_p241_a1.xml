@@ -87,7 +87,9 @@
         <ab type="imprint">[a. 1841.] Unknown. <hi rend="italic">The Book of the Poets</hi> (<hi rend="italic">Chaucer to Beattie</hi>), pp. xvi-xviii [Essay on English Poetry; enthusiastic praise of Chaucer’s poetry], 2 [biographical sketch of Chaucer], 3-7.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Extracts, unmodernized, from the <hi rend="italic">Knightes Tale</hi>, <hi rend="italic">Prologue</hi> and <hi rend="italic">Sir Thopas</hi>, and the <hi rend="italic">Good Counsail</hi>. On p. 3 is an engraving of the interruption by Theseus of the duel between Palamon and Arcite. For the serial review by Elizabeth Barrett, see below, 1842].<note type="footnote">Note in Spurgeon: [The "new edition" of this book, 1841, is the first in the English Catalogue; that of 1846, with steel engravings after Corbould, is the first in B.M. The references given above are to this edn.]</note></seg>
+          <seg type="gloss">[Extracts, unmodernized, from the <hi rend="italic">Knightes Tale</hi>, <hi rend="italic">Prologue</hi> and <hi rend="italic">Sir Thopas</hi>, and the <hi rend="italic">Good Counsail</hi>. On p. 3 is an engraving of the interruption by Theseus of the duel between Palamon and Arcite. For the serial review by Elizabeth Barrett, see below, 1842].</seg>
+          
+          <seg type="editorialNote">[The "new edition" of this book, 1841, is the first in the English Catalogue; that of 1846, with steel engravings after Corbould, is the first in B.M. The references given above are to this edn.]</seg>
         </ab>
       </div>
     </body>

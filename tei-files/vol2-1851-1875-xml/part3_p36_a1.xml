@@ -83,7 +83,7 @@
         <ab type="imprint">1856. Unknown. <hi rend="italic">Review of Poetical Works of Geoffrey Chaucer</hi>, ed. Robert Bell, [in] Bentley’s Miscellany, March 1856, vol. xxxix, pp. 252-9.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[pp. 252-4]</note> [Quotations from Byron, Berington, Denham, North, Tennyson,
+          <seg type="gloss"><note place="margin">[pp. 252-4]</note> [Quotations from Byron, Berington, Denham, North, Tennyson,
             and Knight on Chaucer. Reference to the modernizations
             published by Horne, 1841. On this work, following Bell,
             the writer says:]</seg>
@@ -97,11 +97,11 @@
             and that "eminent hand," and distribute unhesitatingly suum
             cuique.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 256]</note> [Praise of Bell’s edition, as making the true Chaucer known
+          <seg type="gloss"><note place="margin">[p. 256]</note> [Praise of Bell’s edition, as making the true Chaucer known
             to popular readers, with an account of Chaucer's versification
             and language and a reprint of an accented passage from Bell.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 256-9]</note> [Further quotations from De Quincey, Alexander Smith,
+          <seg type="gloss"><note place="margin">[pp. 256-9]</note> [Further quotations from De Quincey, Alexander Smith,
             Camden, Elizabeth B. Browning, Coleridge, Dryden,
             FitzGerald, Knight, Hippisley, and Bell, with a running
             commentary on the <hi rend="italic">Canterbury Tales</hi>, <hi rend="italic">Troilus</hi> and certain of

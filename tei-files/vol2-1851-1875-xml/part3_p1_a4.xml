@@ -85,7 +85,7 @@
         <ab type="imprint">1851. FitzGerald, Edward. <hi rend="italic">Euphranor, a Dialogue on Youth</hi>, pp. 63-6, 70. (Letters and Literary Remains, ed. W. A. Wright, 1902-3, 7 vols., vol. vi, pp. 237-40, 243-4, 246-7.)</ab>
         
         <ab type="quotation">
-            <seg type="editorial"><note place="margin">[p. 63]</note>
+            <seg type="gloss"><note place="margin">[p. 63]</note>
               [Quotation of <hi rend="italic">Prol.</hi>, ll. 79-100:
               <l>'With him there was his Sonn, a yongé Squire. . .</l>
               to
@@ -114,11 +114,11 @@
               cut and carried so fresh. All his poetry bespeaks a man of
               sound mind and body.'</seg>
             
-            <seg type="editorial"><note place="margin">[p. 66]</note> [Chaucer and Shakespeare men of business.]</seg>
+            <seg type="gloss"><note place="margin">[p. 66]</note> [Chaucer and Shakespeare men of business.]</seg>
             
-            <seg type="editorial"><note place="margin">[p. 70]</note> [Tenderness of Chaucer and Shakespeare.]</seg>
+            <seg type="gloss"><note place="margin">[p. 70]</note> [Tenderness of Chaucer and Shakespeare.]</seg>
             
-            <seg type="editorial">[In May, 1882, FitzGerald caused to be printed 50 copies
+            <seg type="gloss">[In May, 1882, FitzGerald caused to be printed 50 copies
               of a revised edn. of <hi rend="italic">Euphranor</hi>. In this the passage on p. 65
               of the 1851 edn., quoted above, disappears; while another
               is inserted, which concludes (p. 50) with the following
@@ -138,7 +138,7 @@
               Kentish hills they travelled over on that April morning four
               hundred years ago."</seg>
             
-            <seg type="editorial">[Corresponding to the passing allusion on p. 70 of edn. 1851
+            <seg type="gloss">[Corresponding to the passing allusion on p. 70 of edn. 1851
               to 'the whole familiar tenderness of this very Shakspeare and
               Chaucer of ours' is (pp. 53-4) the following:]</seg>
             
@@ -156,7 +156,7 @@
               <lb/>"Ask Lexilogus— Ah! I forgot that he never read
               Chaucer . . ."</seg>
             
-            <seg type="editorial">[On p. 56 is added a comparison of Sir Kenelm Digby,
+            <seg type="gloss">[On p. 56 is added a comparison of Sir Kenelm Digby,
               author of <hi rend="italic">The Broad Stone of Honour</hi>, to Chaucer’s Squire in
               physical strength, and to Chaucer himself in his eye for
               humours.]</seg>

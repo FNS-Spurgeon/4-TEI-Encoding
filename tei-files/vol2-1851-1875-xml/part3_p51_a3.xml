@@ -82,10 +82,12 @@
       <div type="allusion">
         <milestone unit="page" n="51"/>
         
-        <ab type="imprint">[1859.] Starkey, Alfred. <hi rend="italic">The Prioress' Tale, and other Poems</hi>.<note type="footnote">Note in Spurgeon: [Not in B.M.; Bodl. 280. s. 229; information kindly given by Miss K. M. Pogson.]</note></ab>
+        <ab type="imprint">[1859.] Starkey, Alfred. <hi rend="italic">The Prioress' Tale, and other Poems</hi>.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The title-poem, which is in sixty-two sesta rima stanzas,
+          <seg type="editorialNote">[Not in B.M.; Bodl. 280. s. 229; information kindly given by Miss K. M. Pogson.]</seg>
+          
+          <seg type="gloss">[The title-poem, which is in sixty-two sesta rima stanzas,
             is stated in the preface to be “founded on the same subject as
             Chaucer's of the same name. I do not think," the author
             adds, "that I can justly be accused of plagiarism. . . It is

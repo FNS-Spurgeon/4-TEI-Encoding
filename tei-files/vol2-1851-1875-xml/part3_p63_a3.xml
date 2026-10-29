@@ -83,10 +83,12 @@
       <div type="allusion">
         <milestone unit="page" n="63"/>
         
-        <ab type="imprint">1862. Marsh, George Perkins. <hi rend="italic">Origin and History of the English Language</hi> [based on lectures delivered at Boston, U.S.A., in 1860-61], London, 1862, pp. 10, 17, 19, 134-6, 138, 147, 196-8, 215-6, 284, 286-7, 297, 303, 315-7, 335, 365, 372; Lecture IX, <hi rend="italic">Chaucer and Gower</hi>, pp. 379-453, 454, 455, 456, 458, 463, 465, 482-5, 506, 511, 566, 569-70.<note type="footnote">Note in Spurgeon: [For Marsh's earlier series of lectures see above, 1858-9.]</note></ab>
+        <ab type="imprint">1862. Marsh, George Perkins. <hi rend="italic">Origin and History of the English Language</hi> [based on lectures delivered at Boston, U.S.A., in 1860-61], London, 1862, pp. 10, 17, 19, 134-6, 138, 147, 196-8, 215-6, 284, 286-7, 297, 303, 315-7, 335, 365, 372; Lecture IX, <hi rend="italic">Chaucer and Gower</hi>, pp. 379-453, 454, 455, 456, 458, 463, 465, 482-5, 506, 511, 566, 569-70.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Lecture ix begins with a general account of the English
+          <seg type="editorialNote">[For Marsh's earlier series of lectures see above, 1858-9.]</seg>
+          
+          <seg type="gloss">[Lecture ix begins with a general account of the English
             language at Chaucer's birth, pp. 379-81.]</seg>
             
           <seg><note place="margin">[p. 381]</note> Chaucer did not introduce into the English language words
@@ -100,7 +102,7 @@
             while a much larger number of Anglo-Saxon words employed
             by him have passed altogether out of use.</seg>
             
-          <seg type="editorial">[Linguistic conditions ready for Chaucer, p. 385. Chaucer's
+          <seg type="gloss">[Linguistic conditions ready for Chaucer, p. 385. Chaucer's
             introduction of Romance words less than is supposed; the
             translation of the Romaunt is used in evidence, pp. 390-1.
             

@@ -83,7 +83,7 @@
       <div type="allusion">
         <milestone unit="page" n="157"/>
         
-        <ab type="imprint">1825. [Hunt, James Henry Leigh?] <hi rend="italic">My Books</hi>, Part ii, <hi rend="italic">Originality of Milton's harmonious use of Proper Names</hi>, [in] The New Monthly Magazine, New Series, vol, xiv, p. 392.<note type="footnote">Note in Spurgeon: [Not in R. B. Johnson's edn. of Leigh Hunt's Essays.]</note></ab>
+        <ab type="imprint">1825. [Hunt, James Henry Leigh?] <hi rend="italic">My Books</hi>, Part ii, <hi rend="italic">Originality of Milton's harmonious use of Proper Names</hi>, [in] The New Monthly Magazine, New Series, vol, xiv, p. 392.</ab>
         
         <ab type="quotation">
           <seg>Chaucer, though he had a finer ear than some of his
@@ -91,6 +91,8 @@
             necessary to have recourse to it <add>[melody]</add> when he comes to a
             set of names. He takes no more heed of a list in poetry,
             than he would have taken of an Abbey roll.</seg>
+          
+          <seg type="editorialNote">[Not in R. B. Johnson's edn. of Leigh Hunt's Essays.]</seg>
         </ab>
       </div>
     </body>

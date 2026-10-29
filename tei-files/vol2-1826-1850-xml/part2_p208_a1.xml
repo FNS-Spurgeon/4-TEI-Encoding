@@ -101,7 +101,7 @@
           <seg><note place="margin">[p. 502]</note>The neglect which Chaucer has experienced, arises, perhaps,
             in a great measure, from the failings of his editors.</seg>
             
-          <seg type="editorial">[On the loss of final e, destroying the secret of Chaucer's metre, and
+          <seg type="gloss">[On the loss of final e, destroying the secret of Chaucer's metre, and
             the failure of the early printers, except Caxton, to adhere to the MSS.]</seg>
           
           <milestone unit="page" n="209"/>
@@ -122,11 +122,11 @@
             undertaken . . . His list of manuscripts, too, is a mere
             parade . . .</seg>
             
-          <seg type="editorial"><note place="margin">[p. 504]</note>[A passage in praise of Tyrwhitt's work, with some remarks
+          <seg type="gloss"><note place="margin">[p. 504]</note>[A passage in praise of Tyrwhitt's work, with some remarks
             on orthography, and some quotations from Orm, the philological
             value of whose work Tyrwhitt overlooked.]</seg>
             
-          <seg type="editorial"><note place="margin">[vol. vi, pp. 44-8]</note>[An attack on Cowden Clarke's <hi rend="italic">Riches of Chaucer</hi>,
+          <seg type="gloss"><note place="margin">[vol. vi, pp. 44-8]</note>[An attack on Cowden Clarke's <hi rend="italic">Riches of Chaucer</hi>,
             followed by eulogy of the Prologue, with extracts, descriptions
             of the characters, and quotations from <hi rend="italic">Piers Plowman</hi>.]</seg>
         </ab>

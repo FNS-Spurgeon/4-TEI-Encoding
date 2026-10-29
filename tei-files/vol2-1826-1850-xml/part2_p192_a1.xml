@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="192"/>
         
-        <ab type="imprint">1834. Laing, David. <hi rend="italic">The Poems of William Dunbar . . . with Notes and a Memoir of His Life by David Laing</hi>. Memoir, vol. i, p. 19, 22, 35, 36, 47-50, 56, 61; vol. ii, Notes, pp. 213 [quotation from Hailes], 214, 216, 221, 222 [quotation from Warton], 223 [quotation from Drake], 224, 234, 247, 259 [268, 269, 271], 273, 283, 308, 331, 339 [340, 342], 349, 357 [374, 375, 376, 377, 383, 385, 401], 450 [451, 458].<note type="footnote">Note in Spurgeon: [The references in square brackets are quotations given by Laing from other authors mentioning Chaucer.]</note></ab>
+        <ab type="imprint">1834. Laing, David. <hi rend="italic">The Poems of William Dunbar . . . with Notes and a Memoir of His Life by David Laing</hi>. Memoir, vol. i, p. 19, 22, 35, 36, 47-50, 56, 61; vol. ii, Notes, pp. 213 [quotation from Hailes], 214, 216, 221, 222 [quotation from Warton], 223 [quotation from Drake], 224, 234, 247, 259 [268, 269, 271], 273, 283, 308, 331, 339 [340, 342], 349, 357 [374, 375, 376, 377, 383, 385, 401], 450 [451, 458].</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[The references in square brackets are quotations given by Laing from other authors mentioning Chaucer.]</seg>
+        </ab>
       </div>
     </body>
   </text>

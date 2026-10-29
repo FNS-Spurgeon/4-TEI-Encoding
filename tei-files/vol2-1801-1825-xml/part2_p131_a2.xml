@@ -88,7 +88,7 @@
         <ab type="imprint">1821-4. [Cary, Henry Francis.] <hi rend="italic">The Early French Poets</hi>, [in] The London Magazine, Dec. 1821, vol. iv, pp. 588, 591; March 1822, vol. v, p. 231; Jan. 1823, vol. vii, p. 44; May, 1823, vol. vii, p. 554; Sept. 1823, vol. viii, pp. 305-6 n; April 1824, vol. ix, pp. 402-3. (Volume edn., 1846, pp. 3-4, 12, 51, 185, 212, 232-4n, 271, 273, 275.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[pp. 2-4]</note>[Marot's Temple of Cupid worthy of Chaucer.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 2-4]</note>[Marot's Temple of Cupid worthy of Chaucer.]</seg>
             
           <seg><note place="margin">[p. 12]</note>It may be seen from this view of one of his poems (the
             Temple of Cupid) how strong a resemblance Marot bears to
@@ -106,7 +106,7 @@
             used to refresh himself largely at the same fountain <add>[French
             poetry]</add>, we cannot but look upon it as a source of hallowed waters.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 212]</note>[Ros's translation of  "La Belle Dame sans Merci," mistakenly attributed to Chaucer.]</seg>
+          <seg type="gloss"><note place="margin">[p. 212]</note>[Ros's translation of  "La Belle Dame sans Merci," mistakenly attributed to Chaucer.]</seg>
         </ab>
       </div>
     </body>

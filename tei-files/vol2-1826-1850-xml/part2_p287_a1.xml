@@ -89,7 +89,7 @@
         <ab type="imprint">1850. Unknown. <hi rend="italic">History of the English Language</hi>, [in] The Edinburgh Review, Oct. 1850, vol. xcii, pp. 306, 310, 313-315, 317, 320, 323.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[pp. 313-14]</note>[Chaucer's influence on the language; he introduced a
+          <seg type="gloss"><note place="margin">[pp. 313-14]</note>[Chaucer's influence on the language; he introduced a
             large number of words from the French, and endeavoured,
             though unsuccessfully, to introduce innovations of accent and
             pronunciation.
@@ -118,12 +118,12 @@
             and of the poor parson, of whom he writes
             <lg>
               <l>'That Cristes lore and his apostles twelve</l>
-              <l>He taught–but first he followed it himselve.'<note type="footnote">[Author's Note.] The beautiful imitation by Dryden of Chaucer's description of the genuine minister of Christ is decidedly inferior, in simple force and vividness, to the original. Nor have Goldsmith or Cowper, in treating the same theme, equalled the graphic touches of our antique poet.</note></l>
+              <l>He taught–but first he followed it himselve.'<note type="footnote" n="1"><add>[Author's Note.]</add> The beautiful imitation by Dryden of Chaucer's description of the genuine minister of Christ is decidedly inferior, in simple force and vividness, to the original. Nor have Goldsmith or Cowper, in treating the same theme, equalled the graphic touches of our antique poet.</note></l>
               <note place="right">[<hi rend="italic">Prol.</hi>, ll. 527-8.]</note>
             </lg>
           </seg>
             
-          <seg type="editorial">[The other references are brief.]</seg>
+          <seg type="gloss">[The other references are brief.]</seg>
         </ab>
       </div>
     </body>

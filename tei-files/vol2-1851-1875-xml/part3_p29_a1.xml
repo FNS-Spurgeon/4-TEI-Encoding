@@ -93,7 +93,7 @@
             descriptions of every aspect of nature . . . have not been
             surpassed by any modern poet.</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 6-8]</note> [Comparison of passages from the <hi rend="italic">Parlement of Foules</hi> (ll
+          <seg type="gloss"><note place="margin">[pp. 6-8]</note> [Comparison of passages from the <hi rend="italic">Parlement of Foules</hi> (ll
             190-96 and 176-82) with Spenser, <hi rend="italic">F. Q.</hi>, Bk. ii, c. 1 and 2;
             reference to the <hi rend="italic">Flour and the Lefe</hi>.]</seg>
           
@@ -102,10 +102,10 @@
             in the later one, every rich description of natural beauty
             is connected with wantonness, voluptuousness, and debauchery. . .</seg>
           
-          <seg type="editorial"><note place="margin">[p. 24]</note> [The idea that May is the month of the Virgin Mary is as
-            old as Chaucer; quotes <hi rend="italic">Man of Law's Tale</hi>, ll. 848-54.]
-            <note type="footnote">Note in Spurgeon: [For Leigh Hunt's criticism on the passage from p. 8, see below, 1859.]</note>
-          </seg>
+          <seg type="gloss"><note place="margin">[p. 24]</note> [The idea that May is the month of the Virgin Mary is as
+            old as Chaucer; quotes <hi rend="italic">Man of Law's Tale</hi>, ll. 848-54.]</seg>
+          
+          <seg type="editorialNote">[For Leigh Hunt's criticism on the passage from p. 8, see below, 1859.]</seg>
         </ab>
       </div>
     </body>

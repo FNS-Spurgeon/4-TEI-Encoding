@@ -86,10 +86,10 @@
         <ab type="imprint">1810. Wilkes, John. <hi rend="italic">Encyclopœdia Londinensis</hi>, vol. iv, 1810, p. 130, Chaucer; vol. xiii, 1815, pp. 530, 549-50, Chaucer's tomb, 819-20, Lydgate.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. iv, p. 130]</note>[New Chaucer article in the main, but the last paragraph of
+          <seg type="gloss"><note place="margin">[vol. iv, p. 130]</note>[New Chaucer article in the main, but the last paragraph of
             the <hi rend="italic">Encyclopœdia Britannica</hi> article is reprinted (q.v. above, 1778, vol. i, p. 452).]</seg>
             
-          <seg type="editorial"><note place="margin">[vol, xiii, p. 819]</note>[Lydgate an imitator of Chaucer.]</seg>
+          <seg type="gloss"><note place="margin">[vol, xiii, p. 819]</note>[Lydgate an imitator of Chaucer.]</seg>
         </ab>
       </div>
     </body>

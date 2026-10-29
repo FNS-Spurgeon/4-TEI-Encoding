@@ -82,11 +82,11 @@
       <div type="allusion">
         <milestone unit="page" n="86"/>
         
-        <ab type="imprint">1866. Unknown. <hi rend="italic">Catalogue of the First Special Exhibition of National Portraits . . . on Loan to the South Kensington Museum</hi>, April 1866, pp. 3, 193.
-          <note type="footnote">Note in Spurgeon: [These portraits are Spielmann’s nos. VI and VII.]</note>
-        </ab>
+        <ab type="imprint">1866. Unknown. <hi rend="italic">Catalogue of the First Special Exhibition of National Portraits . . . on Loan to the South Kensington Museum</hi>, April 1866, pp. 3, 193.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[These portraits are Spielmann’s nos. VI and VII.]</seg>
+          
           <seg><note place="margin">[p. 3]</note> 8. GEOFFREY CHAUCER. Lent by Bodleian Library,
             Oxford.
             <lb/>Poet; b. in London; believed to have been partly educated
@@ -105,7 +105,7 @@
             turies in the family of Stokes of Llanshaw Court, Gloucester;
             given in 1803 to Benjamin Dyke.</seg>
             
-            <seg type="editorial"><note place="margin">[p. 193]</note> [Quotation from the <hi rend="italic">Athenæum</hi>, Ap. 14, 1866, q.v. immediately below.]</seg>
+            <seg type="gloss"><note place="margin">[p. 193]</note> [Quotation from the <hi rend="italic">Athenæum</hi>, Ap. 14, 1866, q.v. immediately below.]</seg>
         </ab>
       </div>
     </body>

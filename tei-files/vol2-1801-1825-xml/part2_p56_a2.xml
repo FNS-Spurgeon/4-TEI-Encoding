@@ -88,7 +88,7 @@
         <ab type="imprint">[n.b. 1811.] Unknown. <hi rend="italic">Chaucer's Canterbury Tales, with the Tales of Gamelyn and Beryn, modernized</hi> (unpublished).</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Specimen from the <hi rend="italic">Prioresses</hi> Tale:]</seg>
+          <seg type="gloss">[Specimen from the <hi rend="italic">Prioresses</hi> Tale:]</seg>
             
           <seg>
             <lg>
@@ -98,9 +98,11 @@
               <l>And if he chanced an image to behold</l>
               <l>Of Christ's blest mother, as he had been told</l>
               <l>He ought, he never failed to kneel and say</l>
-              <l>An Ave Maria as he past the way.<note type="footnote">Note in Spurgeon: [Vol. ii of the MS. of this modernization came into the possession of Prof. Dowden in 1880. Dr. Furnivall wrote to the Academy (q. v. below, 1880) to inquire if anything was known of the author or of vol. i, but, as far as is known, without result. The watermark of the paper is dated 1811.]</note></l>
+              <l>An Ave Maria as he past the way.</l>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[Vol. ii of the MS. of this modernization came into the possession of Prof. Dowden in 1880. Dr. Furnivall wrote to the Academy (q. v. below, 1880) to inquire if anything was known of the author or of vol. i, but, as far as is known, without result. The watermark of the paper is dated 1811.]</seg>
         </ab>
       </div>
     </body>

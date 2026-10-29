@@ -86,7 +86,7 @@
         <ab type="imprint">1804. Scott, Sir Walter. <hi rend="italic">Sir Tristrem</hi>, a Metrical Romance . . . by Thomas of Ercildoune, edited by Walter Scott, title-page and pp. xxviii, xliv, xlviii, lvi lviii, lxi, lxviii, lxxxivn.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Quotation on title-page:]</seg>
+          <seg type="gloss">[Quotation on title-page:]</seg>
           
           <seg>
             <lg>
@@ -102,10 +102,10 @@
             gradually adopting, from the rival tongue, those improvements and
             changes, which fitted it for the use of Chaucer and Gower.</seg>
             
-          <seg type="editorial"><note place="margin">[p. xliv]</note>[Chaucer's "French of Stratford atte Bowe" alludes to the
+          <seg type="gloss"><note place="margin">[p. xliv]</note>[Chaucer's "French of Stratford atte Bowe" alludes to the
             difference between proper French and Anglo-Norman.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. lvi]</note>[The 'sotherne' Persones 'rim ram ruf' points to alliteration
+          <seg type="gloss"><note place="margin">[p. lvi]</note>[The 'sotherne' Persones 'rim ram ruf' points to alliteration
             as then being a characteristic of northern poetry.]</seg>
             
           <seg><note place="margin">[p. lxi]</note>The romance of <hi rend="italic">Wade</hi>, twice alluded to by Chaucer, but

@@ -83,7 +83,11 @@
       <div type="allusion">
         <milestone unit="page" n="57"/>
         
-        <ab type="imprint">1812. Beloe, William. <hi rend="italic">Anecdotes of Literature and Scarce Books</hi>, vol. vi (1812), pp. 49, 50, 221 [quotation from Brathwaite’s <hi rend="italic">Commentary</hi>, 1665, q.v. above, vol. i, p. 242].<note type="footnote">Note in Spurgeon: [For vol. ii, see below, App. A., 1807.]</note></ab>
+        <ab type="imprint">1812. Beloe, William. <hi rend="italic">Anecdotes of Literature and Scarce Books</hi>, vol. vi (1812), pp. 49, 50, 221 [quotation from Brathwaite’s <hi rend="italic">Commentary</hi>, 1665, q.v. above, vol. i, p. 242].</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[For vol. ii, see below, App. A., 1807.]</seg>
+        </ab>
       </div>
     </body>
   </text>

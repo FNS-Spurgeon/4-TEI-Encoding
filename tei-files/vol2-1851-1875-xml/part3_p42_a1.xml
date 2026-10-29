@@ -83,13 +83,13 @@
         <ab type="imprint">1858. Cust, Katherine Isabella. <hi rend="italic">Introduction</hi> [to] <hi rend="italic">The Ancient Poem of Guillaume de Guileville entitled le Pèlerinage de l’Homme, compared vith the Pilgrim's Progress of John Bunyan; edited</hi> [by K. I. Cust] <hi rend="italic">from Notes collected by the late Mr. Nathaniel Hill</hi>, pp. ix, xi, 3-9, 11, 38-9, 41-2, appendix p. xxxv.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. ix.]</note> [Quotation from a translation in a hand of c. 1630 from
+          <seg type="gloss"><note place="margin">[p. ix.]</note> [Quotation from a translation in a hand of c. 1630 from
             Pits (q.v. below, App. A., a. 1616) in MS. Harl. 4826, on Lydgate.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 5-6]</note> [Chaucer's <hi rend="italic">A.B.C.</hi>; three stanzas of the English text side
+          <seg type="gloss"><note place="margin">[pp. 5-6]</note> [Chaucer's <hi rend="italic">A.B.C.</hi>; three stanzas of the English text side
             by side with De Guileville’s French.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 7]</note> [Chaucer’s imitation at the end of <hi rend="italic">The Book of the Duchesse</hi>,
+          <seg type="gloss"><note place="margin">[p. 7]</note> [Chaucer’s imitation at the end of <hi rend="italic">The Book of the Duchesse</hi>,
             "Right thus me mett, as I you tell," etc., of De Guileville's
             description (also quoted) of being waked by the convent-bell,—
             <lg>
@@ -99,15 +99,15 @@
             </lg>
           </seg>
             
-          <seg type="editorial"><note place="margin">[pp. 8-9]</note> [Quotation from Lydgate's <hi rend="italic">Pilgrimage</hi> of the passage
+          <seg type="gloss"><note place="margin">[pp. 8-9]</note> [Quotation from Lydgate's <hi rend="italic">Pilgrimage</hi> of the passage
             excusing himself from translating the <hi rend="italic">A.B.C.</hi>, already translated by
             Chaucer, with the proofs that the translation of the <hi rend="italic">Pilgrimage</hi>
             from De Guileville in MS. Cotton Vitellius, C. xiii, was by Lydgate.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 38-9]</note> [On the Dream Prologue in O.F. literature, with extracts
+          <seg type="gloss"><note place="margin">[pp. 38-9]</note> [On the Dream Prologue in O.F. literature, with extracts
             from De Guileville's Pèlerinage and Chaucer's <hi rend="italic">Book of the Duchesse</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 41-2]</note> [On the "Go little book" formula with which early poets
+          <seg type="gloss"><note place="margin">[pp. 41-2]</note> [On the "Go little book" formula with which early poets
             and dreamers sent forth their books, with quotation from "Chaucer's" <hi rend="italic">Flour and the Lefe</hi>.]</seg>
         </ab>
       </div>

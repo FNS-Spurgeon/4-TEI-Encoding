@@ -85,9 +85,11 @@
       <div type="allusion">
         <milestone unit="page" n="29"/>
         
-        <ab type="imprint">1807. Byron, George Gordon, Lord. <hi rend="italic">List of the different Poets, dramatic or otherwise, who have distinguished their respective languages by their productions</hi>, [in Byron’s memorandum-book, dated Nov. 30, 1807]. Life and Works of Byron, ed. Moore, edn. 1835, 17 vols., vol. i, pp. 147-8; Murray’s 1-vol. Life, by Moore, 1908, p. 49.<note type="footnote">Note in Spurgeon: [This was first printed in Moore's <hi rend="italic">Letters and Journals of Lord Byron</hi>, 1830, vol. i, pp. 100-1.]</note></ab>
+        <ab type="imprint">1807. Byron, George Gordon, Lord. <hi rend="italic">List of the different Poets, dramatic or otherwise, who have distinguished their respective languages by their productions</hi>, [in Byron’s memorandum-book, dated Nov. 30, 1807]. Life and Works of Byron, ed. Moore, edn. 1835, 17 vols., vol. i, pp. 147-8; Murray’s 1-vol. Life, by Moore, 1908, p. 49.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[This was first printed in Moore's <hi rend="italic">Letters and Journals of Lord Byron</hi>, 1830, vol. i, pp. 100-1.]</seg>
+          
           <seg>In my list of English, I have merely mentioned the greatest;
             –to enumerate the minor poets would be useless, as well as
             tedious. Perhaps Gray, Goldsmith, and Collins, might have

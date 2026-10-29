@@ -84,7 +84,7 @@
       <div type="allusion">
         <milestone unit="page" n="401"/>
         
-        <ab type="imprint">1750. Unknown. <hi rend="italic">A Panegyrick on the Ladies</hi>. Being Chaucer's Recantation for<note type="footnote"><add>[Footnote, p. 230.]</add> A song moderniz’d from the old English of Chaucer.</note> The blind eat many a fly. As it is sung at the Spring Gardens, Vaux Hall, with great applause, [in] The Student, or the Oxford and Cambridge Monthly Miscellany, vol. i, no. vi, June 30, 1750, p. 230.</ab>
+        <ab type="imprint">1750. Unknown. <hi rend="italic">A Panegyrick on the Ladies</hi>. Being Chaucer's Recantation for<note type="footnote" n="1"><add>[Footnote, p. 230.]</add> A song moderniz’d from the old English of Chaucer.</note> The blind eat many a fly. As it is sung at the Spring Gardens, Vaux Hall, with great applause, [in] The Student, or the Oxford and Cambridge Monthly Miscellany, vol. i, no. vi, June 30, 1750, p. 230.</ab>
         
         <ab type="quotation">
           <seg>
@@ -116,7 +116,9 @@
             </lg>
            </seg> 
            
-          <seg type="editorial">[3 more Stanzas, and Chorus.]<note type="footnote">Note in Spurgeon: [The above poem was reprinted in The London Magazine , August, 1750 , p. 376.]</note></seg>
+          <seg type="gloss">[3 more Stanzas, and Chorus.]</seg>
+          
+          <seg type="editorialNote">[The above poem was reprinted in The London Magazine , August, 1750 , p. 376.]</seg>
         </ab>
       </div>
     </body>

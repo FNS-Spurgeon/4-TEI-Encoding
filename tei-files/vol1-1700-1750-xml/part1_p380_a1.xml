@@ -112,7 +112,7 @@
           
           <milestone unit="page" n="381"/>
             
-          <seg type="editorial">[Here Lewis quotes Caxton’s Epilogue to the Book of Fame,
+          <seg type="gloss">[Here Lewis quotes Caxton’s Epilogue to the Book of Fame,
             see above, 1483, p. 61.]</seg>
             
           <seg>Accordingly, as a Proof of the Respect which Mr. Caxton
@@ -131,7 +131,9 @@
             </lg>
             Lastly, Mʳ Caxton desired his Readers, according to the
             <note place="margin">[p. 124]</note>Superstition of his Time, that of their charite they would
-            pray for the said worshipful Geffery Chaucer.<note type="footnote">Note in Spurgeon: [On pp. 102-8 are references to Caxton's edns. of Chaucer's works; on pp. 92, 114 are alight allusions to Chaucer by Lewis.]</note></seg>
+            pray for the said worshipful Geffery Chaucer.</seg>
+          
+          <seg type="editorialNote">[On pp. 102-8 are references to Caxton's edns. of Chaucer's works; on pp. 92, 114 are alight allusions to Chaucer by Lewis.]</seg>
         </ab>
       </div>
     </body>

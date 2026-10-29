@@ -91,16 +91,18 @@
         <milestone unit="page" n="296"/>
         
         <ab type="quotation">
-          <seg type="editorial">[The long latin inscription contains the following lines:]</seg>
+          <seg type="gloss">[The long latin inscription contains the following lines:]</seg>
             
           <seg>
             <lg>
               <l>O Poesis Anglicanæ Pater atque Conditur <add>[sic]</add> CHAUCERE</l>
               <l>Alterum Tibi latus claudere</l>
               <l>Vatum certe Cineres Tuos undique stipantium</l>
-              <l>Non dedecebit Chorum.<note type="footnote">Note in Spurgeon: [Philips died in Feb. 1708. The article under his namein D. N. B. states that this inscription has been attributed to all three of the above.]</note></l>
+              <l>Non dedecebit Chorum.</l>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[Philips died in Feb. 1708. The article under his namein D. N. B. states that this inscription has been attributed to all three of the above.]</seg>
         </ab>
       </div>
     </body>

@@ -93,14 +93,16 @@
             Tales</hi>, given us the best information connected with the costume
             of the different grades in English society during this reign.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 141-6]</note>[Account of costumes described in the <hi rend="italic">Prologue</hi>, <hi rend="italic">Milleres
+          <seg type="gloss"><note place="margin">[p. 141-6]</note>[Account of costumes described in the <hi rend="italic">Prologue</hi>, <hi rend="italic">Milleres
             Tale</hi>, <hi rend="italic">Persones Tale</hi>, and <hi rend="italic">Plowmans Tale</hi> (treated as Chaucer's),
             the last with many quotations.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 167-8]</note>[Chaucer's description of knightly costume, with quotations from <hi rend="italic">Sir Thopas</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 167-8]</note>[Chaucer's description of knightly costume, with quotations from <hi rend="italic">Sir Thopas</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 407-618]</note>[A Glossary of terms used in the description of costume from
-            the early times, contains many allusions to and quotations from Chaucer.]<note type="footnote">Note in Spurgeon: [The third edition in 2 vols, 1885, by H. A. Dillon, shows no material alteration in the above passages, except that the quotations are in some cases freed from modernization and that here and there Fairholt's text is slightly cut down.]</note></seg>
+          <seg type="gloss"><note place="margin">[pp. 407-618]</note>[A Glossary of terms used in the description of costume from
+            the early times, contains many allusions to and quotations from Chaucer.]</seg>
+          
+          <seg type="editorialNote">[The third edition in 2 vols, 1885, by H. A. Dillon, shows no material alteration in the above passages, except that the quotations are in some cases freed from modernization and that here and there Fairholt's text is slightly cut down.]</seg>
         </ab>
       </div>
     </body>

@@ -92,7 +92,7 @@
         <milestone unit="page" n="239"/>
         
         <ab type="quotation">
-          <seg type="editorial">[Horne is writing: In answer to an application from
+          <seg type="gloss">[Horne is writing: In answer to an application from
             Horne to take part in the modernisation of Chaucer, brought
             out in 1841, Landor first replied that he believed]</seg>
             
@@ -107,7 +107,9 @@
             him, arranging his shoe-strings and buttoning his doublet.
             I like even his language. I will have no hand in breaking
             his dun but rich-painted glass to put in (if clearer) much
-            thinner panes."<note type="footnote">Note in Spurgeon: [Landor afterwards changed his mind and defended Wordsworth for his share in these modernisations; see below, 1856. For Horne's comment on this letter see above, 1841. In the American edition of these letters, with a Preface and Memoir by R. H. Stoddard, New York, 1877, the reference is vol. i, pp. 78-9.]</note></seg>
+            thinner panes."</seg>
+          
+          <seg type="editorialNote">[Landor afterwards changed his mind and defended Wordsworth for his share in these modernisations; see below, 1856. For Horne's comment on this letter see above, 1841. In the American edition of these letters, with a Preface and Memoir by R. H. Stoddard, New York, 1877, the reference is vol. i, pp. 78-9.]</seg>
         </ab>
       </div>
     </body>

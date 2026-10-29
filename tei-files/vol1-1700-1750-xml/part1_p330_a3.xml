@@ -90,7 +90,7 @@
         <ab type="imprint">1714. Urry, John. <hi rend="italic">Sketch of a Preface</hi> [to] <hi rend="italic">Edition of Chaucer's Works</hi>, not published until 1721 [q.v. below, pp. 353-6], also some remarks, quoted by Timothy Thomas in his Preface to Urry's Chaucer 1721, [q. v.], also a note before the Coke’s Tale of Gamelyn, Urry's edn. of Chaucer's Works, 1721, p. 36. [For the licence for Urry's edition, dated 20 July, 1714, see below, App. A., 1714.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Quoted at end of the Preface as being Urry's own Words to the Reader:—]</seg>
+          <seg type="gloss">[Quoted at end of the Preface as being Urry's own Words to the Reader:—]</seg>
             
           <seg>If this is the First Edition of Chaucer that
             ever thou didst read, it will be to little purpose to tell thee
@@ -112,7 +112,7 @@
             an Editor, I beg truce of thee till thou art one, before thou
             censurest my Endeavours.</seg>
             
-          <seg type="editorial">[Note before Tale of Gamelyn which, in the annotated copy,
+          <seg type="gloss">[Note before Tale of Gamelyn which, in the annotated copy,
             has "Urry" in Thomas’s handwriting at foot.]</seg>
             
           <seg><note place="margin">[p. 36]</note>So many of the MSS. have this Tale, that I can hardly

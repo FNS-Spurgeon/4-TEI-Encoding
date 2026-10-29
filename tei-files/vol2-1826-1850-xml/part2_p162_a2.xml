@@ -84,9 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="162"/>
         
-        <ab type="imprint">1826. Landor, Walter Savage. <hi rend="italic">Imaginary Conversations</hi>; Johnson and Tooke, pp. 220, 245, 253, 258. (Works, ed. by Charles G. Crump, 6 vols., 1891, vol. iii, pp. 413, 426, 430, 433, 436.)<note type="footnote">Note in Spurgeon: [The Chaucer references do not occur in the first edition; the dialogue was again expanded and broken in two in the ed. of 1846; a few references appear there for the first time. For other dialogues see 1828, 1829, 1837, 1842, 1816, 1858, 1861.]</note></ab>
+        <ab type="imprint">1826. Landor, Walter Savage. <hi rend="italic">Imaginary Conversations</hi>; Johnson and Tooke, pp. 220, 245, 253, 258. (Works, ed. by Charles G. Crump, 6 vols., 1891, vol. iii, pp. 413, 426, 430, 433, 436.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[The Chaucer references do not occur in the first edition; the dialogue was again expanded and broken in two in the ed. of 1846; a few references appear there for the first time. For other dialogues see 1828, 1829, 1837, 1842, 1816, 1858, 1861.]</seg>
+          
           <seg><note place="margin">[p. 426]</note>Johnson. Who would read Chaucer and Spenser for their language?
             <lb/>Tooke. Spenser I would not, delightful as are many parts
             of his poetry; but Chaucer I would read again and again both

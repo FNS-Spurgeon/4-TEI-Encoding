@@ -87,10 +87,10 @@
         <ab type="imprint">1839. Madden, Sir Frederic. <hi rend="italic">Sir Gawayne</hi>, ed. Sir F. Madden, Bannatyne Club, Introd. pp. xn., xxxix, Notes, 301, 321, 358.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. xxxix]</note>[Reference to Chaucer's lines on Sir Gawain, <hi rend="italic">Squieres Tale</hi>,
+          <seg type="gloss"><note place="margin">[p. xxxix]</note>[Reference to Chaucer's lines on Sir Gawain, <hi rend="italic">Squieres Tale</hi>,
             l. 75, and <hi rend="italic">Rom. of the Rose</hi>, B. l. 2209.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 358]</note>[Bishop Percy considered that Chaucer borrowed the <hi rend="italic">Wife
+          <seg type="gloss"><note place="margin">[p. 358]</note>[Bishop Percy considered that Chaucer borrowed the <hi rend="italic">Wife
             of Bath’s Tale</hi> from <hi rend="italic">Sir Gawain</hi>, see above, 1765, vol. i, p. 428.]</seg>
         </ab>
       </div>

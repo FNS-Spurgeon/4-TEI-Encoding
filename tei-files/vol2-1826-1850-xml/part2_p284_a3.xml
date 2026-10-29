@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="284"/>
         
-        <ab type="imprint">[c. 1850.] Noble, T. <hi rend="italic">Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love</hi> [Maynwaring's version], etc., London, T. Noble.<note type="footnote">Note in Spurgeon: [A reprint of the original edn. of 1709, q.v. above, vol. i, p. 310. The Chaucerian authorship of the <hi rend="italic">Court of Love</hi> is nowhere questioned in the little book, which is a plain reprint without notes.]</note></ab>
+        <ab type="imprint">[c. 1850.] Noble, T. <hi rend="italic">Ovid’s Art of Love, Remedy of Love and Art of Beauty: to which is added Chaucer's Court of Love</hi> [Maynwaring's version], etc., London, T. Noble.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[A reprint of the original edn. of 1709, q.v. above, vol. i, p. 310. The Chaucerian authorship of the <hi rend="italic">Court of Love</hi> is nowhere questioned in the little book, which is a plain reprint without notes.]</seg>
+        </ab>
       </div>
     </body>
   </text>

@@ -89,7 +89,7 @@
         <ab type="imprint">1855. Milman, Henry Hart. <hi rend="italic">History of Latin Christianity</hi>, vol. vi, pp. 432, 536, 545-550; 3rd edition, 1864, vol. ix, pp. 97, 232-3, 244-50.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 224]</note> [Outlines of Chaucer's biography, with mention of the
+          <seg type="gloss"><note place="margin">[p. 224]</note> [Outlines of Chaucer's biography, with mention of the
             tradition that he was present at the wedding of Lionel and
             
             <milestone unit="page" n="24"/>
@@ -108,7 +108,7 @@
             Fabliaux, as well as the later allegorical school, which was
             then in the height of its fashion in Paris.</seg>
             
-          <seg type="editorial">[References to <hi rend="italic">Man of Law’s Tale</hi>, <hi rend="italic">Troilus</hi>, <hi rend="italic">Squieres Tale</hi>,
+          <seg type="gloss">[References to <hi rend="italic">Man of Law’s Tale</hi>, <hi rend="italic">Troilus</hi>, <hi rend="italic">Squieres Tale</hi>,
             <hi rend="italic">Knightes Tale</hi>, <hi rend="italic">Frankeleyns Tale</hi>, <hi rend="italic">Clerkes Tale</hi>, <hi rend="italic">Merchantes
             Tale</hi>, <hi rend="italic">Milleres Tale</hi>, <hi rend="italic">Reves Tale</hi>, <hi rend="italic">Sir Thopas</hi>, <hi rend="italic">Nonnes Prestes
             Tale</hi>, <hi rend="italic">Rom. Rose</hi>, <hi rend="italic">Hous of Fame</hi>.]</seg>
@@ -169,7 +169,7 @@
             Oxford . . . but the affectionate and beloved teacher of his
             humble flock. . . .</seg>
             
-          <seg type="editorial">[The rest of the Chaucerian passage refers
+          <seg type="gloss">[The rest of the Chaucerian passage refers
             to incidents and subjects connected with Chaucer only by the
             acceptance of the <hi rend="italic">Testament of Love</hi> as his.]</seg>
         </ab>

@@ -90,7 +90,7 @@
         <ab type="imprint">1803. Godwin, William. <hi rend="italic">Life of Geoffrey Chaucer</hi>, 2 vols, London, 1803.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Vol. i. ch. xv, pp. 277-297, a long analysis of <hi rend="italic">Troilus and Creseide</hi>.]</seg>
+          <seg type="gloss">[Vol. i. ch. xv, pp. 277-297, a long analysis of <hi rend="italic">Troilus and Creseide</hi>.]</seg>
             
           <seg><note place="margin">[p. 298]</note> From this analysis of the poem, it is not difficult to
             infer the degree of applause to which its author is entitled. It has
@@ -162,7 +162,7 @@
           <seg>This poem therefore, as might have been expected, long
             fixed upon itself the admiration of the English nation. . . .
             <add>[It]</add> was probably, more than any of his other works, the basis
-            of his fame, and the foundation of his fortune.<note>Note ine Spurgeon: [For Charles Lamb's remarks upon this criticism, see below, 1803.]</note></seg>
+            of his fame, and the foundation of his fortune.<note type="footnote" n="[1]">[For Charles Lamb's remarks upon this criticism, see below, 1803.]</note></seg>
             
           <seg><note place="margin">[vol. ii, p. 572]</note> This Canterbury Tales is <add>[sic]</add> the great basis of the fame of
             Chaucer, and indolent men have generally expressed themselves

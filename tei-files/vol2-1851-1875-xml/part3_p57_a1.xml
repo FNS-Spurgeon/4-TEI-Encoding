@@ -85,10 +85,11 @@
         <ab type="imprint">[c. 1861.] Landor, Walter Savage. <hi rend="italic">Chaucer</hi>.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[An unpublished prose fragment of some 50 lines, the autograph
+          <seg type="gloss">[An unpublished prose fragment of some 50 lines, the autograph
             MS. of which was sold by Messrs. Maggs, Catalogue no. 340, 1915, no. 1789].
-            <note type="footnote">Note in Spurgeon: [Messrs. Maggs have very kindly given us the following note: "The little MS. was not dated, but judging from our remembrance of the handwriting, we should think it would be of a rather late date in his carcer." Internal evidence confirms this. See iminediately above.]</note>
           </seg>
+          
+          <seg type="editorialNote">[Messrs. Maggs have very kindly given us the following note: "The little MS. was not dated, but judging from our remembrance of the handwriting, we should think it would be of a rather late date in his carcer." Internal evidence confirms this. See iminediately above.]</seg>
           
           <seg>There is no poet excepting Homer whom I have studied so
             attentively as Chaucer. They are the ablest of their respective

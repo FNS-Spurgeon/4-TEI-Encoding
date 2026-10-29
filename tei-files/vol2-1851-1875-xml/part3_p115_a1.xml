@@ -87,7 +87,7 @@
         <ab type="imprint">1873. Hales, John Wesley. <hi rend="italic">Chaucer and Shakespeare</hi>, [in] the Quarterly Review, Jan. 1873, vol. cxxxiv, pp. 225-255. (Reprinted in <hi rend="italic">Notes and Essays on Shakespeare</hi>, by John W. Hales, 1884, pp. 56-104.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 226]</note> [An account of the Chaucer Society and the work of Furnivall.]</seg>
+          <seg type="gloss"><note place="margin">[p. 226]</note> [An account of the Chaucer Society and the work of Furnivall.]</seg>
             
           <seg><note place="margin">[p. 227]</note> Chaucer and Shakespeare have much in common.
             However diverse the form of their greatest works, yet in spirit
@@ -139,9 +139,9 @@
             opinion there is not one of the Elizabethans that deserves
             that honour. . . .</seg>
             
-          <seg type="editorial"><note place="margin">[p. 234]</note> [Chaucer’s pathos contrasted with Sterne’s and Shakespeare’s.]</seg>
+          <seg type="gloss"><note place="margin">[p. 234]</note> [Chaucer’s pathos contrasted with Sterne’s and Shakespeare’s.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 236-7]</note> [Chaucer’s irony.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 236-7]</note> [Chaucer’s irony.]</seg>
             
           <seg><note place="margin">[p. 237]</note> It is because his spirit enjoyed and retained this lofty
             freedom that it was so tolerant and capacious. He, like
@@ -154,7 +154,7 @@
             a wonderful loveableness of Nature. <add>[Quotations from
             Jonson, Occleve, Lydgate, &amp;c. on this point.]</add></seg>
             
-          <seg type="editorial"><note place="margin">[pp. 240-2]</note> [On Shakespeare’s probable knowledge of Chaucer’s work,
+          <seg type="gloss"><note place="margin">[pp. 240-2]</note> [On Shakespeare’s probable knowledge of Chaucer’s work,
             a subject not yet sufficiently investigated; with remarks
             on Chaucer’s fame and accessibility in Shakespeare’s time.
             <hi rend="italic">The Two Noble Kinsmen</hi> considered, and the reason for no

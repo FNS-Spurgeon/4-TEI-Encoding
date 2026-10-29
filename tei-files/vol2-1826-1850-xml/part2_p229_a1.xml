@@ -86,7 +86,11 @@
       <div type="allusion">
         <milestone unit="page" n="229"/>
         
-        <ab type="imprint">[n.a. 1841.] <hi rend="italic">The Canterbury Tales</hi>, [in] Dove's Classics.<note type="footnote">Note in Spurgeon: [A cheap reprint, classed with that in Bell's Poets by the anonymous reviewer of <hi rend="italic">Chaucer Modernised</hi> in the Athenæum (q.v. below, 1841). Nothing is known of this series or of the edn. of the Canterbury Tales which formed part of it. The date is more probably near 1820-25, when there were many cheap series of poets like the Chiswick.]</note></ab>
+        <ab type="imprint">[n.a. 1841.] <hi rend="italic">The Canterbury Tales</hi>, [in] Dove's Classics.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[A cheap reprint, classed with that in Bell's Poets by the anonymous reviewer of <hi rend="italic">Chaucer Modernised</hi> in the Athenæum (q.v. below, 1841). Nothing is known of this series or of the edn. of the Canterbury Tales which formed part of it. The date is more probably near 1820-25, when there were many cheap series of poets like the Chiswick.]</seg>
+        </ab>
       </div>
     </body>
   </text>

@@ -80,9 +80,11 @@
       <div type="allusion">
         <milestone unit="page" n="85"/>
         
-        <ab type="imprint">1866. Swinburne, Algernon Charles. <hi rend="italic">William Blake</hi>, 1868, pp. 50, 58, 61, 89n., 137. (New edn., 1906, pp. 55, 64, 67, 97-8n., 152.)<note type="footnote">[Entered here in error ; the first edn. appeared in 1868.]</note></ab>
+        <ab type="imprint">1866. Swinburne, Algernon Charles. <hi rend="italic">William Blake</hi>, 1868, pp. 50, 58, 61, 89n., 137. (New edn., 1906, pp. 55, 64, 67, 97-8n., 152.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[Entered here in error ; the first edn. appeared in 1868.]</seg>
+          
           <seg><note place="margin">[pp. 97-8n.]</note> [A long note on "Chaucer's" <hi rend="italic">Court of Love</hi>, his "most
             beautiful of young poems," calling attention to the paganism
             of its tone, and comparing it in this respect with <hi rend="italic">Aucassin and

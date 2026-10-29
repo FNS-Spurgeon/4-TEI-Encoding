@@ -86,7 +86,11 @@
       <div type="allusion">
         <milestone unit="page" n="394"/>
         
-        <ab type="imprint">1747. Warton, Thomas, the elder. <hi rend="italic">Hereafter in English Metre ensueth a Paraphrase on the Holie Book entituled Leviticus Chap. xi, vers. 13 &amp;c. Fashioned after the Maniere of Maister Geoffery Chaucer in his Assemblie of Foules</hi>: [a poem in] Poems on Several Occasions, by the Reverend Mr. Thomas Warton . . . sometime Professor of Poetry in the University of Oxford . . . London . . . 1747.<note type="footnote">[For a specimen of this translation, see below, App. A., 1747.]</note></ab>
+        <ab type="imprint">1747. Warton, Thomas, the elder. <hi rend="italic">Hereafter in English Metre ensueth a Paraphrase on the Holie Book entituled Leviticus Chap. xi, vers. 13 &amp;c. Fashioned after the Maniere of Maister Geoffery Chaucer in his Assemblie of Foules</hi>: [a poem in] Poems on Several Occasions, by the Reverend Mr. Thomas Warton . . . sometime Professor of Poetry in the University of Oxford . . . London . . . 1747.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[For a specimen of this translation, see below, App. A., 1747.]</seg>
+        </ab>
       </div>
     </body>
   </text>

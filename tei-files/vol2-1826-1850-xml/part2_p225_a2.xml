@@ -87,7 +87,9 @@
         <ab type="imprint">1839. Hood, Thomas. <hi rend="italic">Up the Rhine</hi>, 1840, pp. 65, 256. (Works, 1869-73, 10 vols., vol. vii, pp. 56, 207.)</ab>
         
         <ab type="quotation">
-          <seg>[Likeness of Mrs. Wilmot to Chaucer’s Prioress—for her "tender heart" and her "Stratford atte Bowe" French.]<note type="footnote">Note in Spurgeon: [According to the D. N. B. <hi rend="italic">Up the Rhine</hi> was begun in 1836 and published in 1839; the imprint is dated 1840.]</note></seg>
+          <seg>[Likeness of Mrs. Wilmot to Chaucer’s Prioress—for her "tender heart" and her "Stratford atte Bowe" French.]</seg>
+          
+          <seg type="editorialNote">[According to the D. N. B. <hi rend="italic">Up the Rhine</hi> was begun in 1836 and published in 1839; the imprint is dated 1840.]</seg>
         </ab>
       </div>
     </body>

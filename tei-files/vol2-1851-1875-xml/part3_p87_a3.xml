@@ -85,7 +85,7 @@
         <ab type="imprint">1867. Collier, John Payne. <hi rend="italic">General Introduction</hi> [to] <hi rend="italic">Seven English Poetical Miscellanies</hi>, 7 vols., vol. i [Tottell], pp. i-iii.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Godfray’s 1532 edn. of Chaucer's Works really the first
+          <seg type="gloss">[Godfray’s 1532 edn. of Chaucer's Works really the first
             English miscellany. <hi rend="italic">The Testament of Love</hi>, which appears
             there first, is one of the non-Chaucerian pieces. This a
             new point, in the writer's belief, for Warton and later bio¬
@@ -100,8 +100,9 @@
             conclusion supported by a comparison of style. <hi rend="italic">The Testament
             of Love</hi> probably written by some admiring imitator of
             Chaucer's translation of Boethius.]
-            <note type="footnote">Note in Spurgeon: See also below, <hi rend="italic">Notes and Queries</hi>, 1867, Collier</note>
           </seg>
+          
+          <seg type="editorialNote">See also below, <hi rend="italic">Notes and Queries</hi>, 1867, Collier.</seg>
         </ab>
       </div>
     </body>

@@ -84,9 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="277"/>
         
-        <ab type="imprint">1848. Emerson, Ralph Waldo. <hi rend="italic">Shakspeare: or, the Poet</hi>, [in] Repre sentative Men, London, 1850, pp. 145-6,160. (Centenary Edition, London [1903], vol. iv, pp. 197-8, 216.)<note type="footnote">Note in Spurgeon: [This essay was read at a lecture in London in 1848, and was published in <hi rend="italic">Representative Men</hi>, Boston, 1850. The London reprint of the same year is the first edn. in B.M.]</note></ab>
+        <ab type="imprint">1848. Emerson, Ralph Waldo. <hi rend="italic">Shakspeare: or, the Poet</hi>, [in] Repre sentative Men, London, 1850, pp. 145-6,160. (Centenary Edition, London [1903], vol. iv, pp. 197-8, 216.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[This essay was read at a lecture in London in 1848, and was published in <hi rend="italic">Representative Men</hi>, Boston, 1850. The London reprint of the same year is the first edn. in B.M.]</seg>
+          
           <seg><note place="margin">[p.197]</note>He <add>[the great poet who appears in illiterate times]</add> knows
             the sparkle of the true stone, and puts it in high place,
             wherever he finds it. Such is the happy position of Homer

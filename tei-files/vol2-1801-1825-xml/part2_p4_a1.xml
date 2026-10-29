@@ -85,7 +85,11 @@
       <div type="allusion">
         <milestone unit="page" n="4"/>
         
-        <ab type="imprint">1802. Drake, Nathan. <hi rend="italic">Canterbury Tales</hi>.<note type="footnote">Note in Spurgeon: [Four Tales of Terror, in the style of Mrs. Radcliffe, with no connexion whatever with Chaucer except in title.]</note></ab>
+        <ab type="imprint">1802. Drake, Nathan. <hi rend="italic">Canterbury Tales</hi>.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[Four Tales of Terror, in the style of Mrs. Radcliffe, with no connexion whatever with Chaucer except in title.]</seg>
+        </ab>
       </div>
     </body>
   </text>

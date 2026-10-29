@@ -88,7 +88,7 @@
         <ab type="imprint">1808. Unknown. A Catalogue of the Harleian Manuscripts in the British Museum, 4 vols., 1808-12, vol. ii, pp. 673, 675, 682, vol. iii, pp. 97, 526. [Vol. iv only is dated 1812.]</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. i, p. 217]</note>372. [Anelida and Arcite.]</seg>
+          <seg type="gloss"><note place="margin">[vol. i, p. 217]</note>372. [Anelida and Arcite.]</seg>
             
           <seg><note place="margin">[vol. ii, p. 678]</note>2376. <add>[Note on the colophon to Piers Plowman.]</add> At the
             end is this Note, "Hic explicit visio Wilelmi de Petro Plowman." Now among the several persons to whom the Poems
@@ -100,11 +100,11 @@
             his name for fear of the Clergy, who are bitterly inveighed
             against in these Poems.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 675]</note>2382 (5, 6). [Prioress’s and Second Nun's Tales.]</seg>
+          <seg type="gloss"><note place="margin">[p. 675]</note>2382 (5, 6). [Prioress’s and Second Nun's Tales.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 682]</note>2392. [Troilus and Cressida.]</seg>
+          <seg type="gloss"><note place="margin">[p. 682]</note>2392. [Troilus and Cressida.]</seg>
             
-          <seg type="editorial"><note place="margin">[vol. iii, p. 97]</note>3943. [Troilus and Cressida.]</seg>
+          <seg type="gloss"><note place="margin">[vol. iii, p. 97]</note>3943. [Troilus and Cressida.]</seg>
             
           <seg><note place="margin">[p. 526]</note>7333 (6-27). <add>[Canterbury Tales.]</add> (29) <add>[Parliament of
             Foules.]</add> (30) A part of his Complaint of Mars &amp; Venus,
@@ -112,7 +112,7 @@
             love of Mars and Venus." (31) <add>[Anelinda [sic] and Arcite.]</add>
             (35) Ballads by Chaucer . . . and other small poems.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 526.]</note>7334. [Canterbury Tales.]</seg>
+          <seg type="gloss"><note place="margin">[p. 526.]</note>7334. [Canterbury Tales.]</seg>
             
           <seg>7335. An old and imperfect copy of Chaucer’s Canterbury Tales.</seg>
         </ab>

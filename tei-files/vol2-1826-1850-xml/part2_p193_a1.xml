@@ -86,10 +86,12 @@
       <div type="allusion">
         <milestone unit="page" n="193"/>
         
-        <ab type="imprint">1834-6. Unknown. <hi rend="italic">Bibliotheca Heberiana. Catalogue of the Library of Richard Heber, Esq.</hi>, 13 pt.<note type="footnote">Note in Spurgeon: [Different auctioneers take the parts. Edna., etc., of the 18th and 19th centuries are omitted here.]</note></ab>
+        <ab type="imprint">1834-6. Unknown. <hi rend="italic">Bibliotheca Heberiana. Catalogue of the Library of Richard Heber, Esq.</hi>, 13 pt.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Pt. iv, Dec. 1834; lots 119, Conusance d’amours (Chaucer
+          <seg type="editorialNote">[Different auctioneers take the parts. Edna., etc., of the 18th and 19th centuries are omitted here.]</seg>
+          
+          <seg type="gloss">[Pt. iv, Dec. 1834; lots 119, Conusance d’amours (Chaucer
             reference quoted); 160, Bradshaw, Lyfe of St. Werburge,
             1521 (Chaucer reference quoted); 290, Chaucer's Ghoast,
             1672; 3[4]7, Assemble of Foules, 1530 (unique, now at
@@ -105,9 +107,9 @@
             Reve’s Tale, and both are derived from the same original,
             Boccaccio."]</seg>
             
-          <seg type="editorial">[Pt. vii, May-June, 1835; lots 1271-2, Works, 1561, 1602.]</seg>
+          <seg type="gloss">[Pt. vii, May-June, 1835; lots 1271-2, Works, 1561, 1602.]</seg>
             
-          <seg type="editorial">[Pt. viii, Feb.-March, 1836; lots 396, Jack Upland;
+          <seg type="gloss">[Pt. viii, Feb.-March, 1836; lots 396, Jack Upland;
             458-9, Kynaston (2 copies); 783, Works, Toye; 784, Cant.
             Tales, Pynson, imperf., Works, frag.; 785-6, Works, 1532;
             788, Works, 1561, imperf.; 789, Works, 1602, imperf.;
@@ -115,18 +117,18 @@
             Works, imperf.; 793, Cant. Tales, Pynson, 3 copies, imperf.;
             794, Glossary to Urry’s edn., with MS. additions.]</seg>
             
-          <seg type="editorial">[Pt. ix, April, 1836; lot 682, Works, 1561.]</seg>
+          <seg type="gloss">[Pt. ix, April, 1836; lot 682, Works, 1561.]</seg>
             
-          <seg type="editorial">[Pt. x, May-June, 1836; lot 750, Works, 1602, imperf.]</seg>
+          <seg type="gloss">[Pt. x, May-June, 1836; lot 750, Works, 1602, imperf.]</seg>
             
-          <seg type="editorial">[Pt. xi, MSS., Feb. 1836; lots 495, Cant. Tales, 14th cent.;
+          <seg type="gloss">[Pt. xi, MSS., Feb. 1836; lots 495, Cant. Tales, 14th cent.;
             495*, item, 15th cent.; 496, Speght’s MS. of the ‘Dream,’
             i.e. Isle of Ladies; 1088, Spelman’s MS. containing Troilus
             and Criseyde; 1163, Occleve MS., with note of Occleve’s
             allusions to Chaucer; 1333, MS. containing the Clerkes
             Tale; 1334, MS. of poems by Chaucer, Lydgate, etc.]</seg>
             
-          <seg type="editorial">[J. T. Payne had Part iv reprinted, with purchaser's names
+          <seg type="gloss">[J. T. Payne had Part iv reprinted, with purchaser's names
             and prices, also further notes by J. P. Collier, as 'A Catalogue
             of Heber's Collection of Early English Poetry.’]</seg>
         </ab>

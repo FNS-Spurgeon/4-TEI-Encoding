@@ -124,7 +124,7 @@
             together a few Touches taken from his Descriptions of the
             Pilgrims.</seg>
             
-          <seg type="editorial">[Here follow a large number of quotations in this style]</seg>
+          <seg type="gloss">[Here follow a large number of quotations in this style]</seg>
             
           <seg>. . . The Squire; with Locks curl’d, just fresh from the
             Press!. . . The Lady Prioress; Who wept if She saw a Mouse
@@ -157,8 +157,9 @@
             Plan, by which He connects and unites his Tales, one with
             another, is well designed, and well executed.</seg>
             
-          <seg type="editorial">[Here Ogle gives a sketch of the plan of the <hi rend="italic">Canterbury Tales</hi>,
-            with long quotations.]<note type="footnote">Note in Spurgeon: [A later edn. of the above appeared in 1741, 12mo, the same year as the Canterbury Tales, with the Title as above, except the place, and publisher, which are "Dublin: Printed for George Faulkner in Essex Street. 1741." The "Letter to a Friend " was reprinted in extenso in Ogle's edn. of the modernised "Canterbury Tales," 1741, see below, pp. 389-90.]</note></seg>
+          <seg type="gloss">[Here Ogle gives a sketch of the plan of the <hi rend="italic">Canterbury Tales</hi>, with long quotations.]</seg>
+          
+          <seg type="editorialNote">[A later edn. of the above appeared in 1741, 12mo, the same year as the Canterbury Tales, with the Title as above, except the place, and publisher, which are "Dublin: Printed for George Faulkner in Essex Street. 1741." The "Letter to a Friend " was reprinted in extenso in Ogle's edn. of the modernised "Canterbury Tales," 1741, see below, pp. 389-90.]</seg>
         </ab>
       </div>
     </body>

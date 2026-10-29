@@ -85,12 +85,14 @@
       <div type="allusion">
         <milestone unit="page" n="57"/>
         
-        <ab type="imprint">1812. Brydges, Sir Samuel Egerton. <hi rend="italic">The British Bibliographer</hi>, 4 vols., 1810-14, vols. ii, iii, 1812; vol. ii, pp. vi, 1-10, 94, 200, 272, 628; vol. iii, pp. 6, 95, 180, 202 n., 205 n., 268 n., 305, 317, 376, 383.<note type="footnote">Note in Spurgeon: [The references are nearly all contained in the pieces by old writers reprinted in <hi rend="italic">The British Bibliographer</hi>, and will be found under their authors above, in vol. i, and below, in App. A. For vol. i of <hi rend="italic">The British Bibliographer</hi> see above, 1810; vol. iv contains no Chaucer reference.]</note></ab>
+        <ab type="imprint">1812. Brydges, Sir Samuel Egerton. <hi rend="italic">The British Bibliographer</hi>, 4 vols., 1810-14, vols. ii, iii, 1812; vol. ii, pp. vi, 1-10, 94, 200, 272, 628; vol. iii, pp. 6, 95, 180, 202 n., 205 n., 268 n., 305, 317, 376, 383.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. ii, pp.1-10.]</note>[Reprint of articles on Gower and Chaucer from Leland’s <hi rend="italic">Commentarii de Scriptoribus Britannicis</hi>.]</seg>
+          <seg type="editorialNote">[The references are nearly all contained in the pieces by old writers reprinted in <hi rend="italic">The British Bibliographer</hi>, and will be found under their authors above, in vol. i, and below, in App. A. For vol. i of <hi rend="italic">The British Bibliographer</hi> see above, 1810; vol. iv contains no Chaucer reference.]</seg>
+          
+          <seg type="gloss"><note place="margin">[vol. ii, pp.1-10.]</note>[Reprint of articles on Gower and Chaucer from Leland’s <hi rend="italic">Commentarii de Scriptoribus Britannicis</hi>.]</seg>
             
-          <seg type="editorial"><note place="margin">[vol. iii, p. 180.]</note>[Chaucer and Masuccio probably indebted to some one earlier fabulist for the plot of <hi rend="italic">The Milleres Tale</hi>.]</seg>
+          <seg type="gloss"><note place="margin">[vol. iii, p. 180.]</note>[Chaucer and Masuccio probably indebted to some one earlier fabulist for the plot of <hi rend="italic">The Milleres Tale</hi>.]</seg>
         </ab>
       </div>
     </body>

@@ -89,7 +89,7 @@
         <ab type="imprint">1835. T., W. I. <hi rend="italic">The Court Magazine in the Fourteenth Century</hi>, [in] The Court Magazine, vol vi, pp. 254-57.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 254]</note>[The writer entering Westminster Abbey, notices one present:]</seg>
+          <seg type="gloss"><note place="margin">[p. 254]</note>[The writer entering Westminster Abbey, notices one present:]</seg>
             
           <seg>The individual who excited this interest in me was of
             middle stature, somewhat inclined to corpulency, and
@@ -110,7 +110,7 @@
             <lb/>"Know him indeed," quoth Master Scrope, "Marry do I—
             and so shalt thou too." . . .</seg>
             
-          <seg type="editorial">[After the service the writer and Scrope follow Chaucer
+          <seg type="gloss">[After the service the writer and Scrope follow Chaucer
             to the house adjacent :]</seg>
             
           <seg><note place="margin">[p. 255]</note>"Give you good even, Master Geoffrey," said Scrope, "I
@@ -126,7 +126,7 @@
             whose muse I had so long and so earnestly admired.
             <lb/>. . . . . . . . . .</seg>
             
-          <seg type="editorial">[Chaucer provides wine, and proceeds :]</seg>
+          <seg type="gloss">[Chaucer provides wine, and proceeds :]</seg>
             
           <seg>"When I have done my reckonings in the Exchequer, I have
             gotten a copy of verses to write for my good Lord of Vere, or
@@ -168,7 +168,7 @@
             make my verses halt like Dame Jukket's dog, I must needs con
             over the manuscript before I hand it over to my royal master."</seg>
             
-          <seg type="editorial">[Chaucer shows them the volume:]</seg>
+          <seg type="gloss">[Chaucer shows them the volume:]</seg>
           
           <seg>Imprimis, was an address to His Majesty on the New Year,
             followed by a translation by Chaucer himself of Petrarch’s
@@ -239,7 +239,7 @@
             different and somewhat shorter. But it is a long job, and the
             'Romaunt de la Rose' I found a somewhat tedious undertaking. . . .</seg>
             
-          <seg type="editorial">[The writer recites a spurious verse, and asks who composed it:]</seg>
+          <seg type="gloss">[The writer recites a spurious verse, and asks who composed it:]</seg>
             
           <seg>"By my troth, I know not who composed it. . . . Let him
             translate the beautiful Romance of "<hi rend="italic">Le Chevalier au Lion</hi>,"
@@ -260,7 +260,7 @@
             Chaucer himself had commenced the task he so earnestly
             recommended to another. By his permission, I read the few
             lines which he had already executed: they were from the
-            commencement of the Poem<note type="footnote" n="*">Note in Spurgeon: Is this the long lost “Book of the Lion"?—W. I. T.</note>.
+            commencement of the Poem<note type="footnote" n="*">Is this the long lost “Book of the Lion"?—W. I. T.</note>.
             <lg>
               <l>Almightie God that made mankyn,</l>
               <l>He schilde his servandes out of syn,</l>

@@ -89,7 +89,7 @@
         <ab type="imprint">1840. [Bandinel, Bulkeley?] <hi rend="italic">Catalogue of the Printed Books and Manuscripts bequeathed by Francis Douce, Esq., to the Bodleian Library</hi>, Oxford, pt. i, p. 63, pt. ii [MSS], p. 28.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[pt.i, p. 63]</note>[Works, Pynson, n.d., 1532, 1598, 1602, 1721 (Urry);
+          <seg type="gloss"><note place="margin">[pt.i, p. 63]</note>[Works, Pynson, n.d., 1532, 1598, 1602, 1721 (Urry);
             Canterbury Tales, 1737, 1775 (Tyrwhitt), 1798; Canterbury
             Tales and other poems, n.d., 2 vols., 8°; Chaucer's ghoast,
             1673; Chaucer's incensed ghost, in Morgan's Phœnix Britannicus,
@@ -98,7 +98,7 @@
             Yeoman's Tale, p. 227 of Ashmole’s Theatr. Chem., 1652;
             Life by Singer, n.d.]</seg>
             
-          <seg type="editorial"><note place="margin">[pt. ii, p. 28]</note>[MS. clxx. John Lane’s continuation of the <hi rend="italic">Squieres Tale</hi>
+          <seg type="gloss"><note place="margin">[pt. ii, p. 28]</note>[MS. clxx. John Lane’s continuation of the <hi rend="italic">Squieres Tale</hi>
             q.v. above, 1614, vol. i, p. 189.]</seg>
         </ab>
       </div>

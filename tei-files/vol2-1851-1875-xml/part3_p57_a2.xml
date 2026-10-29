@@ -86,7 +86,7 @@
         
         <ab type="quotation">
           <seg>Milton. Frequently do I read the <hi rend="italic">Canterbury Tales</hi>, and
-            with pleasure undiminished.<note type="editorial" n="†">[Landor's note:] A Bachelor of Arts, a Mr. Pycroft, without any
+            with pleasure undiminished.<note type="gloss" n="†"><add>[Landor's note:]</add> A Bachelor of Arts, a Mr. Pycroft, without any
             authority, classes W. S. Landor with Byron and Wordsworth, as holding
             Chaucer cheap. Let this <hi rend="italic">Conversation</hi> indicate the contrary. There is
             one art-namely, the ars poctica—in which the Bachelor is unlikely to
@@ -94,9 +94,9 @@
             of life. You would hardly expect in so early a stage of our
             language such harmony as comes occasionally on the ear; it
             ceases with the verse, but we are grateful for it, shortly as
-            it stays with us.<note type="footnote">Note in Spurgeon: [For a further allusion to Pycroft by Landor see below, 1863.]</note>
-          </seg>
+            it stays with us.</seg>
           
+          <seg type="editorialNote">[For a further allusion to Pycroft by Landor see below, 1863.]</seg>
         </ab>
       </div>
     </body>

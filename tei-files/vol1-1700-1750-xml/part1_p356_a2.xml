@@ -156,7 +156,7 @@
             sometimes unnecessarily, called in, is not my business at
             present to enquire into. . . .</seg>
             
-          <seg type="editorial">[Other methods used by Urry
+          <seg type="gloss">[Other methods used by Urry
             of lengthening the words were the pronounciation of the
             terminations ed and id in the past tenses of verbs, &amp;c., of en and
             in as terminations of verbs, nouns and adverbs, and of the
@@ -178,8 +178,10 @@
             a Design was not executed, I cannot satisfy the curious
             Reader. . . .</seg>
             
-          <seg type="editorial">[Then follows a complete list and description of the various
-            MSS. and the printed editions of Chaucer consulted.]<note type="footnote">Note in Spurgeon: [For some account of T. Thomas, and appreciation of his work, see Tyrwhitt's Preface to the Canterbury Tales, vol. i, 1775, p. xx and note, also Advertisement to Glossary, vol. v, 1778, p. ii, partially reprinted here in the note to Urry's edition, p. 354 above.]</note></seg>
+          <seg type="gloss">[Then follows a complete list and description of the various
+            MSS. and the printed editions of Chaucer consulted.]</seg>
+          
+          <seg type="editorialNote">[For some account of T. Thomas, and appreciation of his work, see Tyrwhitt's Preface to the Canterbury Tales, vol. i, 1775, p. xx and note, also Advertisement to Glossary, vol. v, 1778, p. ii, partially reprinted here in the note to Urry's edition, p. 354 above.]</seg>
         </ab>
       </div>
     </body>

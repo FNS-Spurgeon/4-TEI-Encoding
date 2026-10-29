@@ -87,14 +87,16 @@
         <ab type="imprint">1828. Landor, Walter Savage. <hi rend="italic">Imaginary Conversations</hi>: Landor, English Visiter and Florentine Visiter, [in] Imaginary Conversa tions, vol. iii, 1828, p. 427. (Ed. C. G. Crump, 1891, 6 vols., vol. vi, p. 446.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 446]</note>[Verses to Keats :]</seg>
+          <seg type="gloss"><note place="margin">[p. 446]</note>[Verses to Keats :]</seg>
           
           <seg>
             <lg>
               <l>Yet I would dream to meet thee at our home</l>
-              <l>With Spenser's quiet, Chaucer's livelier ghost.<note type="footnote">Note in Spurgeon: [Printed in first and second editions only; given in the appendix of Cramp’s edition.]</note></l>
+              <l>With Spenser's quiet, Chaucer's livelier ghost.</l>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[Printed in first and second editions only; given in the appendix of Cramp’s edition.]</seg>
         </ab>
       </div>
     </body>

@@ -109,13 +109,15 @@
             exploded, it was thought expedient, upwards of two centuries
             after its publication, to translate it into Latin. . . .</seg>
           
-          <seg type="editorial"><note place="margin">[p. 110]</note>[Kynaston’s version more universally intelligible than the original.]</seg>
+          <seg type="gloss"><note place="margin">[p. 110]</note>[Kynaston’s version more universally intelligible than the original.]</seg>
             
           <seg>Considering the difficulties of his task, Sir Francis
             must be allowed to have acquitted himself with much dexterity;
             and he deserves praise for the fidelity with which he adheres
             to his original, in spite of the temptations afforded by so
-            ornamental a language as the Latin.<note type="footnote">Note in Spurgeon: [For Kynaston, see above, 1635, vol. i, p. 207.]</note></seg>
+            ornamental a language as the Latin.</seg>
+          
+          <seg type="editorialNote">[For Kynaston, see above, 1635, vol. i, p. 207.]</seg>
         </ab>
       </div>
     </body>

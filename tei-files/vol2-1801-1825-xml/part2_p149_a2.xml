@@ -86,7 +86,11 @@
       <div type="allusion">
         <milestone unit="page" n="149"/>
         
-        <ab type="imprint">1824. Chaucer's Canterbury Tales, and other Poems, with Glossary. 2 vols. <note type="footnote">Note in Spurgeon: [There is no copy of this edition in B.M. The dealer's list from which this entry is taken described it as illustrated with a portrait and engravings in Bewick's style.]</note></ab>
+        <ab type="imprint">1824. Chaucer's Canterbury Tales, and other Poems, with Glossary. 2 vols.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[There is no copy of this edition in B.M. The dealer's list from which this entry is taken described it as illustrated with a portrait and engravings in Bewick's style.]</seg>
+        </ab>
       </div>
     </body>
   </text>

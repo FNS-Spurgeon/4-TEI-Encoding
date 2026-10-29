@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="393"/>
         
-        <ab type="imprint">[17]46. Rudd, Abraham Joseph. <hi rend="italic">Two letters</hi> from S. John's College, Oxford, dated respectively April 21 and 29, [17]46, to Mr. Ames [Joseph Ames, the bibliographer and antiquary] Wapping Street, near the Hermitage, London; describing Caxton’s first edition of the Canterbury Tales [no criticism of Chaucer. These letters are now inserted in the copy of Caxton’s first edn. of the Canterbury Tales in B. M. (pr. m. 167. c. 26).]<note type="footnote">Note in Spurgeon: [See Ames's Typographical Antiquities, 1749, p. 55.]</note></ab>
+        <ab type="imprint">[17]46. Rudd, Abraham Joseph. <hi rend="italic">Two letters</hi> from S. John's College, Oxford, dated respectively April 21 and 29, [17]46, to Mr. Ames [Joseph Ames, the bibliographer and antiquary] Wapping Street, near the Hermitage, London; describing Caxton’s first edition of the Canterbury Tales [no criticism of Chaucer. These letters are now inserted in the copy of Caxton’s first edn. of the Canterbury Tales in B. M. (pr. m. 167. c. 26).]</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[See Ames's Typographical Antiquities, 1749, p. 55.]</seg>
+        </ab>
       </div>
     </body>
   </text>

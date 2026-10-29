@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="377"/>
         
-        <ab type="imprint">1735. Pope, Alexander. <hi rend="italic">Note</hi> to Letter to Henry Cromwell, [the letter dated] May 7, 1709, [in] Letters of Mr. Alexander Pope and several of his Friends. London. Printed by J. Wright, 1737, p. 43 (Works, 1871, vol. vi, p. 76).<note>[The letter contains an allusion to Jacob Tonson's 6th vol. of Poetical Miscellanies, and the note added by Pope in 1735 states that some of his versions of Homer and Chaucer were first printed there.]</note></ab>
+        <ab type="imprint">1735. Pope, Alexander. <hi rend="italic">Note</hi> to Letter to Henry Cromwell, [the letter dated] May 7, 1709, [in] Letters of Mr. Alexander Pope and several of his Friends. London. Printed by J. Wright, 1737, p. 43 (Works, 1871, vol. vi, p. 76).</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[The letter contains an allusion to Jacob Tonson's 6th vol. of Poetical Miscellanies, and the note added by Pope in 1735 states that some of his versions of Homer and Chaucer were first printed there.]</seg>
+        </ab>
       </div>
     </body>
   </text>

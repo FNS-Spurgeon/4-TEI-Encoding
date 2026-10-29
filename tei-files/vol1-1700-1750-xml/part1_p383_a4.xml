@@ -89,7 +89,9 @@
         <ab type="quotation">
           <seg>I cannot thank you too often for the noble Edition of
             Chaucer, valuable in itself, but more so for the sake of the
-            expositor, and the giver.<note type="footnote">Note in Spurgeon: [Nichols notes that this was Urry's Chaucer [1721], to which Thomas wrote the Preface and Glossary.]</note></seg>
+            expositor, and the giver.</seg>
+          
+          <seg type="editorialNote">[Nichols notes that this was Urry's Chaucer [1721], to which Thomas wrote the Preface and Glossary.]</seg>
         </ab>
       </div>
     </body>

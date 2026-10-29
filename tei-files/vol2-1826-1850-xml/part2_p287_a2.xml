@@ -84,9 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="287"/>
         
-        <ab type="imprint">[n.a. 1850.] Wordsworth, William. <hi rend="italic">Miscellaneous Memoranda</hi>, [in] Memoirs of W. Wordsworth, by Christopher Wordsworth, 1851, 2 vols, vol. ii, p. 470.<note type="footnote">Note in Spurgeon: [Wordsworth died in 1850.]</note></ab>
+        <ab type="imprint">[n.a. 1850.] Wordsworth, William. <hi rend="italic">Miscellaneous Memoranda</hi>, [in] Memoirs of W. Wordsworth, by Christopher Wordsworth, 1851, 2 vols, vol. ii, p. 470.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[Wordsworth died in 1850.]</seg>
+          
           <seg>When I began to give myself up to the profession of a poet
             for life, I was impressed with a conviction, that there were
             four English poets whom I must have continually before me
@@ -97,7 +99,7 @@
             These I must study, and equal if I could; and I need not
             think of the rest.</seg>
             
-          <seg type="editorial">[This paragraph was communicated to Christopher
+          <seg type="gloss">[This paragraph was communicated to Christopher
             Wordsworth by Crabb Robinson. The former says (vol. i, p. 27)
             that in the dining-room at Rydal Mount "are engravings
             of poets—Chaucer, Spenser, Shakespeare, Ben Jonson and

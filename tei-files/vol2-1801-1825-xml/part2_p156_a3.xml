@@ -83,9 +83,11 @@
       <div type="allusion">
         <milestone unit="page" n="156"/>
         
-        <ab type="imprint">1825. D., W. C. <hi rend="italic">On the Pronunciation of Heard, etc.</hi>, [in] The Gentle man’s Magazine, Sept. 1825, vol. xcv, pp. 219-20.<note type="footnote">Note in Spurgeon: [Reply to J. S. H., q.v. below.]</note></ab>
+        <ab type="imprint">1825. D., W. C. <hi rend="italic">On the Pronunciation of Heard, etc.</hi>, [in] The Gentle man’s Magazine, Sept. 1825, vol. xcv, pp. 219-20.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[Reply to J. S. H., q.v. below.]</seg>
+          
           <seg>[Concerning the changes in English grammar and pronunciation,
             with several references to Chaucer, and quotations from his poems.]</seg>
         </ab>

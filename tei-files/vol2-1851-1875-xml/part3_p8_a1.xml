@@ -82,11 +82,12 @@
         <ab type="imprint">1851. Unknown. <hi rend="italic">Biographical Sketches of Eminent British Poet . . . intended for teachers</hi>, Dublin, <hi rend="italic">Geoffrey Chaucer</hi>, pp. 1-11.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A very brief biography, accepting the events based on <hi rend="italic">The
+          <seg type="gloss">[A very brief biography, accepting the events based on <hi rend="italic">The
             Testament of Love</hi>, followed by quotations in praise of Chaucer
             from Campbell, Southey, Leigh Hunt, etc.]
-            <note type="footnote">Note in Spurgeon: [This book was probably intended to be a companion to the <hi rend="italic">Selections from the British Poets</hi>, Dublin, 1851, q.v. below. Both were published by direction of the Commissioners of National Education in Ireland.]</note>
           </seg>
+          
+          <seg type="editorialNote">[This book was probably intended to be a companion to the <hi rend="italic">Selections from the British Poets</hi>, Dublin, 1851, q.v. below. Both were published by direction of the Commissioners of National Education in Ireland.]</seg>
         </ab>
       </div>
     </body>

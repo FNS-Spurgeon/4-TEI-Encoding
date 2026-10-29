@@ -83,13 +83,13 @@
         <ab type="imprint">1861. Wright, Thomas. <hi rend="italic">Essays on Archæological Subjects</hi>, 2 vols., vol. ii, pp. 45, 57-60, 75-6, 259.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. ii, p. 57]</note> [While nearly all the obsolete words in the other writers are
+          <seg type="gloss"><note place="margin">[vol. ii, p. 57]</note> [While nearly all the obsolete words in the other writers are
             Anglo-Saxon, the great proportion in Chaucer are French: hence he is easier to read.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 75-6]</note> [Chaucer (<hi rend="italic">Boke of the Duchesse</hi>, ll. 434-42, quoted) shews
+          <seg type="gloss"><note place="margin">[pp. 75-6]</note> [Chaucer (<hi rend="italic">Boke of the Duchesse</hi>, ll. 434-42, quoted) shews
             that Arabic numerals were not yet in general use.]</seg>
             
-          <seg type="editorial"><note place="margin">[vol. ii, p. 259]</note> [The fabliaux of the thirteenth century, with all their
+          <seg type="gloss"><note place="margin">[vol. ii, p. 259]</note> [The fabliaux of the thirteenth century, with all their
             spirit and satire, and much of their objectionable characteristics,
             took an English form in the hands of Chaucer.]</seg>
         </ab>

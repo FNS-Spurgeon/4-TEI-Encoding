@@ -87,7 +87,7 @@
         <ab type="imprint">1841. Smith, John. <hi rend="italic">The Life, Journal and Correspondence of Samuel Pepys, Esq.</hi>, 2 vols., vol. ii, pp. 254-255n.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The Editor reprints Dryden’s Letter to Pepys of July 14,
+          <seg type="gloss">[The Editor reprints Dryden’s Letter to Pepys of July 14,
             1699 (from Scott's <hi rend="italic">Dryden</hi>, 1808, xviii, 156) and Pepys'
             answer to Dryden of same date (q. v. above, vol. i, pp. 270-71).
             He adds a few notes to the letters, and in one in vii, 254, to
@@ -97,7 +97,9 @@
             attracted. Thus, in Percy’s <hi rend="italic">Reliques</hi>, there is an original ballad
             by Chaucer, printed for the first time, from an ancient MS. in
             the Pepysian library, that contains many other poems of its
-            venerable author.<note type="footnote">Note in Spurgeon: [The 'ballad' is the Roundel of Merciles Beaute, and the MS. Pepys 2006, p. 390. See Percy’s Reliques, ed. H. B. Wheatley, 1876-7, 3 vols., vol. ii, pp. 14-16.]</note></seg>
+            venerable author.</seg>
+          
+          <seg type="editorialNote">[The 'ballad' is the Roundel of Merciles Beaute, and the MS. Pepys 2006, p. 390. See Percy’s Reliques, ed. H. B. Wheatley, 1876-7, 3 vols., vol. ii, pp. 14-16.]</seg>
         </ab>
       </div>
     </body>

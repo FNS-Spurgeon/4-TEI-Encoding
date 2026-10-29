@@ -100,9 +100,11 @@
             </lg>
           </seg>
             
-          <seg type="editorial">[Further reference to her “widowes habit" (l. 170) and "blacke wede" (l. 177).]</seg>
+          <seg type="gloss">[Further reference to her “widowes habit" (l. 170) and "blacke wede" (l. 177).]</seg>
             
-          <seg>I must look to <hi rend="italic">Filostrato</hi> and the old romance. Shakespeare does not represent her as a widow.<note type="footnote">Note in Spurgeon: [For vol ii see below, 1833.]</note></seg>
+          <seg>I must look to <hi rend="italic">Filostrato</hi> and the old romance. Shakespeare does not represent her as a widow.</seg>
+          
+          <seg type="editorialNote">[For vol ii see below, 1833.]</seg>
         </ab>
       </div>
     </body>

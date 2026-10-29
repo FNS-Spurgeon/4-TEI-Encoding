@@ -88,16 +88,16 @@
         <ab type="imprint">1807. Douce, Francis. <hi rend="italic">Illustrations of Shakespeare and of Ancient Manners</hi>, 2 vols.; vol. i, pp. 2, 15, 43, 48, 109, 134, 177, 183, 188-9, 203-6, 215, 223, 232-3, 246, 301, 350, 407, 415-16, 474, 487, 506 ; vol. ii, pp. 7, 60, 64, 67-8, 151, 153-4, 180, 183, 213, 228, 253-4, 276, 281, 285, 351, 363, 420, 450-1.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. i, p. 15]</note>[Quotation from "Chaucer's <hi rend="italic">Testament of Creseid</hi>,” describing the Man in the Moon.]</seg>
+          <seg type="gloss"><note place="margin">[vol. i, p. 15]</note>[Quotation from "Chaucer's <hi rend="italic">Testament of Creseid</hi>,” describing the Man in the Moon.]</seg>
             
-          <seg type="editorial"><note place="margin">[p.109]</note>[Quotation from Troilus, Bk. iii, ll. 1366-72.]</seg>
+          <seg type="gloss"><note place="margin">[p.109]</note>[Quotation from Troilus, Bk. iii, ll. 1366-72.]</seg>
             
-          <seg type="editorial"><note place="margin">[p 183]</note>[Tyrwhitt quoted to the effect that "the Pluto and Proserpine
+          <seg type="gloss"><note place="margin">[p 183]</note>[Tyrwhitt quoted to the effect that "the Pluto and Proserpine
             of Chaucer were the true progenitors of Oberon and Titania."]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 189]</note>[Quotation from "Chaucer's <hi rend="italic">Flower and the Leafe</hi>" for the word henchman.]</seg>
+          <seg type="gloss"><note place="margin">[p. 189]</note>[Quotation from "Chaucer's <hi rend="italic">Flower and the Leafe</hi>" for the word henchman.]</seg>
           
-          <seg type="editorial">[Quotation from Wife of Bath's Tale, ll. 863-74, to illustrate fairies in Midsummer Night's Dream:]</seg>
+          <seg type="gloss">[Quotation from Wife of Bath's Tale, ll. 863-74, to illustrate fairies in Midsummer Night's Dream:]</seg>
           
           <seg><note place="margin">[p. 204]</note>The other quotation
             which Mr. Steevens has given, is not to the present purpose.
@@ -106,7 +106,7 @@
             against the influence of elves, and those demons, or evil spirits,
             that were supposed to occasion the nightmare.</seg>
             
-          <seg type="editorial"><note place="margin">[vol. ii, p. 64]</note>[Chaucer probably borrowed the plot of Troilus and Cressida
+          <seg type="gloss"><note place="margin">[vol. ii, p. 64]</note>[Chaucer probably borrowed the plot of Troilus and Cressida
             from Boccaccio's Filostrato; what Dryden said of Lollius
             entirely destitute of proof.]</seg>
             
@@ -115,7 +115,7 @@
             work, accessible to Shakespeare, could have supplied him with
             what was necessary.</seg>
             
-          <seg type="editorial">[Most of the other references are parallel quotations from
+          <seg type="gloss">[Most of the other references are parallel quotations from
             Chaucer and illustrate the vocabulary of the plays.]</seg>
             
           <seg><note place="margin">[p. 281]</note><add>[On the anachronisms and some other incongruities of

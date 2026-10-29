@@ -88,7 +88,7 @@
         <ab type="imprint">1824. Unknown. <hi rend="italic">The Works of Chaucer</hi>, [in] The Retrospective Review, vol. ix, pp. 173-206.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Researches into old writers very creditable to modern taste,
+          <seg type="gloss">[Researches into old writers very creditable to modern taste,
             especially where, as in English, the language has undergone
             considerable changes. This may be carried to excess, and
             imitation be substituted for research.]</seg>
@@ -171,7 +171,7 @@
             is the great father of our English poetry—the venerable
             Geffrey Chaucer.</seg>
             
-          <seg type="editorial">[Here follows the life of Chaucer and some further criticism of his poetry.]</seg>
+          <seg type="gloss">[Here follows the life of Chaucer and some further criticism of his poetry.]</seg>
         </ab>
       </div>
     </body>

@@ -88,7 +88,7 @@
         <ab type="imprint">1803. Southey, Robert. <hi rend="italic">Review</hi> of Godwin's <hi rend="italic">Life of Chaucer</hi>, [in] The Annual Review, vol. ii, art. ii, pp. 462-73.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[A scathing review, pointing out the disproportion and irrelevance of the work; in this method:]</seg>
+          <seg type="gloss">[A scathing review, pointing out the disproportion and irrelevance of the work; in this method:]</seg>
           
           <seg><note place="margin">[p. 463]</note>Chaucer was born
             in London, 1328, . . . therefore the first chapter . . . is a
@@ -101,7 +101,7 @@
           <seg><note place="margin">[p. 472]</note>By attempting too many things in this work, the author
             has failed in all.</seg>
             
-          <seg type="editorial">[The merits of the work are: a good
+          <seg type="gloss">[The merits of the work are: a good
             account is given of the reign of Richard II, much light is
             thrown upon the minor poems of Chaucer, and some facts
             respecting his life have been recovered from public records.]</seg>

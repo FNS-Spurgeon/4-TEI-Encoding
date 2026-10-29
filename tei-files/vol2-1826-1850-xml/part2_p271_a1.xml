@@ -87,9 +87,11 @@
       <div type="allusion">
         <milestone unit="page" n="271"/>
         
-        <ab type="imprint">1846. Landor, Walter Savage. <hi rend="italic">Imaginary Conversations</hi>, [in] Works, 1846, vol. i, pp. 337, 402-8; vol. ii, pp. 164-7, 229. (Imaginary Conversations, ed. C. G. Crump, 1891, 6 vols., vol. iii, pp. 159, 352, 389, 394; vol. iv, pp. 66-108, 239, 274-5, 283; vol. vi, p. 45n.)<note type="footnote">Note in Spurgeon: [There was no Chaucer allusion in the 1st edn., 1824, and only a very few insignificant ones in the 2nd, 1826; for the 1st edn. of <hi rend="italic">Chaucer, Boccaccio, Petrarca</hi>, see above, 1827.]</note></ab>
+        <ab type="imprint">1846. Landor, Walter Savage. <hi rend="italic">Imaginary Conversations</hi>, [in] Works, 1846, vol. i, pp. 337, 402-8; vol. ii, pp. 164-7, 229. (Imaginary Conversations, ed. C. G. Crump, 1891, 6 vols., vol. iii, pp. 159, 352, 389, 394; vol. iv, pp. 66-108, 239, 274-5, 283; vol. vi, p. 45n.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[There was no Chaucer allusion in the 1st edn., 1824, and only a very few insignificant ones in the 2nd, 1826; for the 1st edn. of <hi rend="italic">Chaucer, Boccaccio, Petrarca</hi>, see above, 1827.]</seg>
+          
           <seg><note place="margin">[vol. vi, p. 45 n.]</note>LANDOR, ENGLISH VISITER <add>[sic]</add>, AND FLORENTINE VISITER.
             <lb/>Landor. . . . Since the time of Chaucer there have only
             
@@ -103,11 +105,12 @@
             of external nature, but equally appropriate. He has parts
             of genius which Chaucer has not in the same degree; the
             animated and pathetic. Keats, in his <hi rend="italic">Endymion</hi>, is richer in
-            imagery than either.<note type="footnote">Note in Spurgeon: [This passage is not in the 1st edn. of 1829.]</note></seg>
+            imagery than either.</seg>
             
-          <seg type="editorial"><note place="margin">[vol. iv, pp. 66-108]</note>[Chaucer, Boccaccio, and Petrarca, slightly enlarged from the first edition of 1829.]</seg>
+          <seg type="editorialNote">[This passage is not in the 1st edn. of 1829.]</seg>
+          
+          <seg type="gloss"><note place="margin">[vol. iv, pp. 66-108]</note>[Chaucer, Boccaccio, and Petrarca, slightly enlarged from the first edition of 1829.]</seg>
             
-             
           <seg>SOUTHEY AND LANDOR.
             <lb/><note place="margin">[p. 274]</note>Landor. . . . Keats is the most imaginative of our poets
             after Chaucer, Spenser, Shakspeare, and Milton.
@@ -128,9 +131,9 @@
             <note place="margin">[p. 275]</note>bland skies which had warmed the congenial breasts of
             Chaucer and Boccaccio.</seg>
           
-          <seg type="editorial">[Chaucer's and Shakespeare’s powers of imagination greater than Spenser's.]</seg>
+          <seg type="gloss">[Chaucer's and Shakespeare’s powers of imagination greater than Spenser's.]</seg>
             
-          <seg type="editorial">[Some brief remarks follow on Dryden’s criticism of Chaucer's
+          <seg type="gloss">[Some brief remarks follow on Dryden’s criticism of Chaucer's
             metre and his comparison of Chaucer with Boccaccio.]</seg>
             
           <seg><note place="margin">[p. 283]</note>Southey <add>[to Landor]</add> . . . It is hard upon Milton, and

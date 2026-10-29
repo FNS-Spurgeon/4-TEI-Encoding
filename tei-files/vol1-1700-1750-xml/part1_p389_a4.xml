@@ -104,8 +104,8 @@
             
             <milestone unit="page" n="390"/>
             
-            <seg type="editorial">
-              [Contents.—Order of the Tales, and names of modernisers.]<note type="footnote">Note in Spurgeon: [Another edn. appeared in Dublin in 1742, in 2 vols.; the names of the contributors are given on the title page (Boyse being misprinted ’Boyle’.)]</note>
+            <seg type="gloss">
+              [Contents.—Order of the Tales, and names of modernisers.]
               <list>
                 <item><note place="margin">[vol. i]</note>Prologue modernised by Ogle.</item>
                 <item>Characters of the Pilgrims | Knight to Merchant . . . . ,, ,, Betterton.</item>
@@ -138,6 +138,8 @@
                 <item>Prologue to Clerk of Oxford’s Tale | Clerk of Oxford’s Tale | Conclusion to Clerk of Oxford's Tale . . ,, ,, Ogle.</item>
               </list>
             </seg>
+          
+          <seg type="editorialNote">[Another edn. appeared in Dublin in 1742, in 2 vols.; the names of the contributors are given on the title page (Boyse being misprinted ’Boyle’.)]</seg>
         </ab>
       </div>
     </body>

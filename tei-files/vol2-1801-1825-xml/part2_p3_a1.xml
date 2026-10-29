@@ -90,7 +90,7 @@
         <ab type="imprint">1801. Wordsworth, William. <hi rend="italic">Selections from Chaucer modernised</hi>. <hi rend="italic">The Prioress's Tale</hi> (<hi rend="italic">from Chaucer</hi>). <hi rend="italic">The Cuckoo and the Nightingale</hi> (<hi rend="italic">from Chaucer</hi>) [by Clanvowe, not Chaucer]. <hi rend="italic">Troilus and Cressida</hi> (<hi rend="italic">from Chaucer</hi>) [bk. v, 11. 519-686]. (Poetical works, ed. W. Knight, 1896, 8 vols, vol. ii, pp. 238-69.)</ab>
         
         <ab type="quotation">
-            <seg type="editorial">[A prefatory note to the <hi rend="italic">Prioress's Tale</hi> reads:]</seg>
+            <seg type="gloss">[A prefatory note to the <hi rend="italic">Prioress's Tale</hi> reads:]</seg>
           
             <seg>In the following Piece I have allowed myself no farther
               deviations from the original than were necessary for the fluent
@@ -105,7 +105,9 @@
               Prioress forms a fine background for her tender-hearted
               sympathies with the Mother and Child; and the mode in
               vhich the story is told amply atones for the extravagance of
-              the miracle.<note type="footnote">Note in Spurgeon: [Of these modernizations, which were all (with the <hi rend="italic">Manciple's Tale</hi>, which has never been published) written in 1801, the first was published in 1820 (<hi rend="italic">Poems</hi>, 1815-20, vol. iii [<hi rend="italic">The River Duddon</hi>, etc.], pp. 173-86), and the second and third in 1841 (in the <hi rend="italic">Poems of Geoffrey Chaucer Modernised</hi>, by Horne, etc.). <hi rend="italic">The Prioress's Tale</hi> is preceded by Milton's lines: <lg><l>Call up him who left half told</l> <l>The story of Cambuscan bold.</l></lg> Compare Wordsworth's remarks on his modernizations with those of Leigh Hunt, printed before his <hi rend="italic">Death and the Ruffians</hi>, 1855, below. Two further letters from Wordsworth, 1840 and 1841, and Horne's Introduction to <hi rend="italic">Chaucer Modernised</hi>, 1841, are printed below.]</note></seg>
+              the miracle.</seg>
+          
+            <seg type="editorialNote">[Of these modernizations, which were all (with the <hi rend="italic">Manciple's Tale</hi>, which has never been published) written in 1801, the first was published in 1820 (<hi rend="italic">Poems</hi>, 1815-20, vol. iii [<hi rend="italic">The River Duddon</hi>, etc.], pp. 173-86), and the second and third in 1841 (in the <hi rend="italic">Poems of Geoffrey Chaucer Modernised</hi>, by Horne, etc.). <hi rend="italic">The Prioress's Tale</hi> is preceded by Milton's lines: <lg><l>Call up him who left half told</l> <l>The story of Cambuscan bold.</l></lg> Compare Wordsworth's remarks on his modernizations with those of Leigh Hunt, printed before his <hi rend="italic">Death and the Ruffians</hi>, 1855, below. Two further letters from Wordsworth, 1840 and 1841, and Horne's Introduction to <hi rend="italic">Chaucer Modernised</hi>, 1841, are printed below.]</seg>
         </ab>
       </div>
     </body>

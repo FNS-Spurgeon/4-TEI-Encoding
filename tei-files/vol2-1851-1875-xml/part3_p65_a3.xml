@@ -101,13 +101,14 @@
             
             <milestone unit="page" n="66"/>
             
-          <seg type="editorial"><note place="margin">[p. 461]</note> [Chaucer's clearness of outline justifies Hazlitt's epithet
+          <seg type="gloss"><note place="margin">[p. 461]</note> [Chaucer's clearness of outline justifies Hazlitt's epithet
             'intense.' Colour and gaiety of his world. The <hi rend="italic">Canterbury
             Tales</hi> a gathering up of tales written at different times.
             Observation shewn in the <hi rend="italic">Prologue</hi>; dramatic variety of the
             tales; pathos of the tale of Constance.]
-            <note type="footnote">Note in Spurgeon: [In <hi rend="italic">Dreamthorp</hi> the passage on the modernizers is replaced by a contrast between Chaucer and Spenser, which is extracted from an article, <hi rend="italic">Edmund Spenser</hi>, in <hi rend="italic">The Museum</hi>, July, 1862, vol. ii, p. 151. The latter part of the essay is practically rewritten, and concludes with prose summaries of the <hi rend="italic">Knightes</hi> and <hi rend="italic">Man of Law's Tales</hi>.]</note>
           </seg>
+          
+          <seg type="editorialNote">[In <hi rend="italic">Dreamthorp</hi> the passage on the modernizers is replaced by a contrast between Chaucer and Spenser, which is extracted from an article, <hi rend="italic">Edmund Spenser</hi>, in <hi rend="italic">The Museum</hi>, July, 1862, vol. ii, p. 151. The latter part of the essay is practically rewritten, and concludes with prose summaries of the <hi rend="italic">Knightes</hi> and <hi rend="italic">Man of Law's Tales</hi>.]</seg>
         </ab>
       </div>
     </body>

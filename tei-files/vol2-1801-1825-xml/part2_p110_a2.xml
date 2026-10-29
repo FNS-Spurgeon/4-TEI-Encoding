@@ -96,7 +96,7 @@
         <ab type="imprint">1819. Campbell, Thomas. <hi rend="italic">Specimens of the British Poets</hi>, vol. i. References to Chaucer’s language, p. 14; metre, p. 59; Sir Thopas, p. 60; Chaucer and Langland, pp. 62-3; Court of Love, p. 70; romance, pp. 70-71; Hous of Fame, p. 71; Flower and Leaf, p. 72; Gower, p. 73; Chaucer and his successors, pp. 79, 87-88; vol. ii, pp. 3-49 [biographical notice, followed by Prol., ll. 1-714], 50, 59-60, 67-9 [Scottish Poetry], 76, 77.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The edition consists of an Essay on English Poetry, vol. i, pp.
+          <seg type="gloss">[The edition consists of an Essay on English Poetry, vol. i, pp.
             3-271, and a general index in the same vol, followed by extracts
             from the principal poets, each preceded by a biographical notice.
             The preliminary Essay was published separately, Boston, 1819,
@@ -116,7 +116,7 @@
             Visions may be supposed to have been finished, Chaucer had
             given several compositions to the public.</seg>
             
-          <seg type="editorial">[Campbell continues that the simple old narrative romance
+          <seg type="gloss">[Campbell continues that the simple old narrative romance
             had become too familiar to invite Chaucer, and the poverty of
             English had obliged him to seek models in Latin and foreign
             tongues. Ovid, Claudian, Statius and Boethius were the
@@ -131,7 +131,7 @@
             subsequently drawn to the style of Boccaccio.]
             <lb/>. . . . . . . . . .</seg>
             
-          <seg type="editorial"><note place="margin">[vol. ii, pp. 13, 14]</note>[Tyrwhitt had vindicated Chaucer from the charge brought
+          <seg type="gloss"><note place="margin">[vol. ii, pp. 13, 14]</note>[Tyrwhitt had vindicated Chaucer from the charge brought
             against him by Verstegan, etc., of having adulterated English
             with French words. Such revolutions in language are not
             wrought by individuals; and Chaucer's style will compare

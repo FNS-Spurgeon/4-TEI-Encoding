@@ -170,10 +170,12 @@
               </row>
               <row>
                 <cell/>
-                <cell>1250<note type="footnote">Note in Spurgeon: [See, in connection with this edn., a letter from Wm. Brome to Mr. Rawlins, 1250 below, June 28, 1733, p. 375.]</note></cell>
+                <cell>1250</cell>
               </row>
             </table>
           </seg>
+          
+          <seg type="editorialNote">[See, in connection with this edn., a letter from Wm. Brome to Mr. Rawlins, 1250 below, June 28, 1733, p. 375.]</seg>
         </ab>
       </div>
     </body>

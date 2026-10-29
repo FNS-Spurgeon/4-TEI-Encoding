@@ -84,9 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="202"/>
         
-        <ab type="imprint">[c. 1836-40.] Campbell, Thomas. <hi rend="italic">Chaucer and Windsor</hi>, [in] The Pilgrim of Glencoe and other Poems, 1842, pp. 100-1. (Poetical Works, ed. J. Logie Robertson, Oxford, 1907, p. 307.)<note type="footnote">Note in Spurgeon: [Mr. Robertson places this poem between poems of 1836 and of 1840.]</note></ab>
+        <ab type="imprint">[c. 1836-40.] Campbell, Thomas. <hi rend="italic">Chaucer and Windsor</hi>, [in] The Pilgrim of Glencoe and other Poems, 1842, pp. 100-1. (Poetical Works, ed. J. Logie Robertson, Oxford, 1907, p. 307.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[Mr. Robertson places this poem between poems of 1836 and of 1840.]</seg>
+          
           <seg>
             <lg>
               <l>Long shalt thou flourish, Windsor . . .</l>

@@ -87,7 +87,9 @@
         <ab type="imprint">1838. Chappell, William. <hi rend="italic">An Essay on the Ancient Minstrelsy of England</hi>, [in] <hi rend="italic">A Collection of National English Airs</hi>, 1838-40, pp. 12-13.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Chaucer's references to music.]<note type="footnote">Note in Spurgeon: [The musical scores were published in a separate vol. in 1840. The Chaucer references are fuller in the much enlarged edn., <hi rend="italic">The Ballad Literature and Popular Music of the Olden Time</hi>, 1855-9.]</note></seg>
+          <seg type="gloss">[Chaucer's references to music.]</seg>
+          
+          <seg type="editorialNote">[The musical scores were published in a separate vol. in 1840. The Chaucer references are fuller in the much enlarged edn., <hi rend="italic">The Ballad Literature and Popular Music of the Olden Time</hi>, 1855-9.]</seg>
         </ab>
       </div>
     </body>

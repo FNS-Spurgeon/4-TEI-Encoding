@@ -89,9 +89,11 @@
           <seg>
             <table rows="2" cols="2">
               <row role="label"><cell>List of Books read January 1806.</cell><cell>vols.</cell></row>
-              <row role="data"><cell>Fourth Volume of Canterbury Tales<note type="footnote">Note in Spurgeon: [The edition must be Tyrwhitt's, 1775.]</note> . . </cell><cell>1</cell></row>
+              <row role="data"><cell>Fourth Volume of Canterbury Tales . . </cell><cell>1</cell></row>
             </table>
           </seg>
+          
+          <seg type="editorialNote">[The edition must be Tyrwhitt's, 1775.]</seg>
         </ab>
       </div>
     </body>

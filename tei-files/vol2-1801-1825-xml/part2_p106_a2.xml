@@ -85,7 +85,9 @@
         <ab type="imprint">1818. Hazlitt, William. <hi rend="italic">A View of the English Stage</hi>, p. 239. (Collected Works, ed. Waller and Glover, 1902-6, 13 vols., vol. viii, p. 284, 371.)</ab>
         
         <ab type="quotation">
-          <seg><note place="margin">[p. 284]</note>Chaucer spoke of the Monks historically, Shakespear poetically.<note type="footnote">Note in Spurgeon: [These theatrical criticisms appeared first in the <hi rend="italic">Morning Chronicle</hi>, <hi rend="italic">Champion</hi>, <hi rend="italic">Examiner</hi> and <hi rend="italic">Times</hi>, 1813-17.]</note></seg>
+          <seg><note place="margin">[p. 284]</note>Chaucer spoke of the Monks historically, Shakespear poetically.</seg>
+          
+          <seg type="editorialNote">[These theatrical criticisms appeared first in the <hi rend="italic">Morning Chronicle</hi>, <hi rend="italic">Champion</hi>, <hi rend="italic">Examiner</hi> and <hi rend="italic">Times</hi>, 1813-17.]</seg>
         </ab>
       </div>
     </body>

@@ -86,9 +86,9 @@
         <ab type="imprint">1818. Todd, Henry John. <hi rend="italic">Johnson's Dictionary</hi>, ed. by the Rev. H. J. Todd, 4 vols., vol. i, pp. liv, lxx n., lxxvi-vii.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. liv]</note>[Quotation from <hi rend="italic">Sir Thopas</hi>, giving the "romaunces of pris."]</seg>
+          <seg type="gloss"><note place="margin">[p. liv]</note>[Quotation from <hi rend="italic">Sir Thopas</hi>, giving the "romaunces of pris."]</seg>
             
-          <seg type="editorial"><note place="margin">[p.lxiii]</note>[Johnson says that "Gower calls Chaucer his disciple." On this Todd says:]</seg>
+          <seg type="gloss"><note place="margin">[p.lxiii]</note>[Johnson says that "Gower calls Chaucer his disciple." On this Todd says:]</seg>
             
           <seg>Dr. Johnson is mistaken in saying that
             Gower calls Chaucer his disciple; for it is Venus whom Gower
@@ -119,7 +119,7 @@
             hitherto unemployed materials, being there given. . . . Of
             the prose of Chaucer there has been less corruption.</seg>
             
-          <seg type="editorial"><note place="margin">[p. lxxvii]</note>[John Walton of Oseney's praise of Chaucer quoted; see
+          <seg type="gloss"><note place="margin">[p. lxxvii]</note>[John Walton of Oseney's praise of Chaucer quoted; see
             above, 1410, vol. i, pp. 20-21.]</seg>
         </ab>
       </div>

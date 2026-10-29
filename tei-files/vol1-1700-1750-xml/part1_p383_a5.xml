@@ -89,7 +89,7 @@
         <ab type="imprint">1738. [Oldys, William.] <hi rend="italic">The British Librarian</hi>; pp. 86-7 n., 88-9, 138, 218, 223, 309, 346-7, 356, 360.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 86]</note>[An account of W. Webbe’s Discourse of English Poetrie,
+          <seg type="gloss"><note place="margin">[p. 86]</note>[An account of W. Webbe’s Discourse of English Poetrie,
             see above, 1586, p. 129.]</seg>
             
            <seg>Our end of reviving here, or reviewing
@@ -104,15 +104,15 @@
             whether the Opinions held of them in those Days, and ours,
             correspond. . . .</seg>
             
-          <seg type="editorial"><note place="margin">[p. 88]</note>[Summary of Webbe's criticism of Chaucer, see above, p. 129.]</seg>
+          <seg type="gloss"><note place="margin">[p. 88]</note>[Summary of Webbe's criticism of Chaucer, see above, p. 129.]</seg>
             
-          <seg type="editorial"><note place="margin">[p.138]</note>[Account of Hakluyt’s Voyages, 1598, where there is a mention of Chaucer, see above, p. 157.]</seg>
+          <seg type="gloss"><note place="margin">[p.138]</note>[Account of Hakluyt’s Voyages, 1598, where there is a mention of Chaucer, see above, p. 157.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 218, 223]</note>[Account of Scot's Discovery of Witchcraft, 1651, with Chaucer reference, see above, 1584, p. 124.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 218, 223]</note>[Account of Scot's Discovery of Witchcraft, 1651, with Chaucer reference, see above, 1584, p. 124.]</seg>
             
-          <seg type="editorial"><note place="margin">[p. 309]</note>[Chaucer criticism in A Restitution of decay’d Intelligence in Antiquities, by R. V<add>[erstegan]</add>, 1605, see above, p. 176.]</seg>
+          <seg type="gloss"><note place="margin">[p. 309]</note>[Chaucer criticism in A Restitution of decay’d Intelligence in Antiquities, by R. V<add>[erstegan]</add>, 1605, see above, p. 176.]</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 346, 360]</note>[Chaucer references in Weever's Ancient Funeral Monuments, 1631, see above, p. 204.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 346, 360]</note>[Chaucer references in Weever's Ancient Funeral Monuments, 1631, see above, p. 204.]</seg>
         </ab>
       </div>
     </body>

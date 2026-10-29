@@ -89,9 +89,10 @@
         <ab type="imprint">1833. Collier, John Payne. <hi rend="italic">An Old Man's Diary</hi>, privately printed, 1871-2, 2 vols., vol. ii, part i, pp. 38-9, 85; part ii, 45-6, 106.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[pp. 38-9]</note>[Discussion on Sleep. Chaucer's Shipman’s Tale quoted.
-            . . . Question whether Chaucer was more gross than his age
-            "voted in the affirmative."]<note type="footnote">Note in Spurgeon: [For vol. i see above, 1832.]</note></seg>
+          <seg type="gloss"><note place="margin">[pp. 38-9]</note>[Discussion on Sleep. Chaucer's Shipman’s Tale quoted.
+            . . . Question whether Chaucer was more gross than his age "voted in the affirmative."]</seg>
+          
+          <seg type="editorialNote">[For vol. i see above, 1832.]</seg>
         </ab>
       </div>
     </body>

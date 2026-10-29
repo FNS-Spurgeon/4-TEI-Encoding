@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="374"/>
         
-        <ab type="imprint">1732. Palmer, S[amuel]. <hi rend="italic">The General History of Printing</hi>. Book III. Of English Printing and Printers, p. 136. [Extract from MS. notes by the Earl of Pembroke in The Book of Miscellanies printed at St. Albans in the Pembroke Library [see last entry], pp. 342-4, 378-9. [Edns. of Chaucer's Poems and Works, by Caxton and Winkin de Worde, Robert Toy and John Stowe.]<note type="footnote">Note in Spurgeon: [There is a flaw in the pagination of the B. M. copy; pp. 313 to 336 are wrongly numbered pp. 121 to 144; p. 136 should be p. 328.]</note></ab>
+        <ab type="imprint">1732. Palmer, S[amuel]. <hi rend="italic">The General History of Printing</hi>. Book III. Of English Printing and Printers, p. 136. [Extract from MS. notes by the Earl of Pembroke in The Book of Miscellanies printed at St. Albans in the Pembroke Library [see last entry], pp. 342-4, 378-9. [Edns. of Chaucer's Poems and Works, by Caxton and Winkin de Worde, Robert Toy and John Stowe.]</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[There is a flaw in the pagination of the B. M. copy; pp. 313 to 336 are wrongly numbered pp. 121 to 144; p. 136 should be p. 328.]</seg>
+        </ab>
       </div>
     </body>
   </text>

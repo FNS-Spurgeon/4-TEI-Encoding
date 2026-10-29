@@ -87,7 +87,9 @@
         <ab type="imprint">1746. Upton, John. <hi rend="italic">Critical Observations on Shakespeare</hi>, pp. 193, 327.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">["Fere" and "atwain," old words used by Chaucer.]<note type="footnote">Note in Spurgeon: [See the enlarged edn. of 1748, below, p. 396, for many more Chaucer allusions.]</note></seg>
+          <seg type="gloss">["Fere" and "atwain," old words used by Chaucer.]</seg>
+          
+          <seg type="editorialNote">[See the enlarged edn. of 1748, below, p. 396, for many more Chaucer allusions.]</seg>
         </ab>
       </div>
     </body>

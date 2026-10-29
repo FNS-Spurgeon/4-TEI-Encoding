@@ -86,9 +86,11 @@
       <div type="allusion">
         <milestone unit="page" n="276"/>
         
-        <ab type="imprint">[n.a. 1848.] Coleridge, Hartley. <hi rend="italic">Chaucer</hi>, [printed in] <hi rend="italic">Poems</hi>, 1851, 2 vols., vol. ii, pp. 289-91. (Complete Poetical Works, Muses' Library, [1907,] pp. 317-8.)<note type="footnote">Note in Spurgeon: [According to information kindly given by Mr. E. H. Coleridge, the copy ot Anderson’s Poets in which this was written probably did not come into Hartley Coleridge's possession (though nominally given to him by his father in 1803) till the death of his uncle Southey in 1843. These lines must therefore have been written between that year and the end of 1848, as Hartley Coleridge died 6 Jan. 1849.]</note></ab>
+        <ab type="imprint">[n.a. 1848.] Coleridge, Hartley. <hi rend="italic">Chaucer</hi>, [printed in] <hi rend="italic">Poems</hi>, 1851, 2 vols., vol. ii, pp. 289-91. (Complete Poetical Works, Muses' Library, [1907,] pp. 317-8.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[According to information kindly given by Mr. E. H. Coleridge, the copy ot Anderson’s Poets in which this was written probably did not come into Hartley Coleridge's possession (though nominally given to him by his father in 1803) till the death of his uncle Southey in 1843. These lines must therefore have been written between that year and the end of 1848, as Hartley Coleridge died 6 Jan. 1849.]</seg>
+          
           <seg>
             <lg>
               <l>How wayward oft appears the poet's fate,</l>

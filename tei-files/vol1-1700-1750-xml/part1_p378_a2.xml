@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="378"/>
         
-        <ab type="imprint">1737. <hi rend="italic">Amatory Poetry selected from Chaucer, Lidgate, Skelton, Surrey, Wyatt Nash, Daniel, etc.</hi><note type="footnote">Note in Spurgeon: [Not in B. M. or Bodl. Known from a dealer's list.]</note></ab>
+        <ab type="imprint">1737. <hi rend="italic">Amatory Poetry selected from Chaucer, Lidgate, Skelton, Surrey, Wyatt Nash, Daniel, etc.</hi></ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[Not in B. M. or Bodl. Known from a dealer's list.]</seg>
+        </ab>
       </div>
     </body>
   </text>

@@ -88,10 +88,10 @@
         <ab type="imprint">1816. Unknown. <hi rend="italic">Review</hi> of <hi rend="italic">Works of Howard and Wyatt</hi>, ed. G. F. Nott, [in] The Edinburgh Review, Dec. 1816, vol. xxvii, pp. 405, 412, 413, 415-19, 422.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 412]</note>[Chaucer the only old poet who makes reference to his
+          <seg type="gloss"><note place="margin">[p. 412]</note>[Chaucer the only old poet who makes reference to his
             sources. Debt to Boccaccio in 'Palamon and Arcite.']</seg>
             
-          <seg type="editorial"><note place="margin">[pp.415-419]</note>[Stating the difference of opinion between Tyrwhitt and
+          <seg type="gloss"><note place="margin">[pp.415-419]</note>[Stating the difference of opinion between Tyrwhitt and
             Nott on Chaucer's versification (pronunciation of final e,
             etc.), and Nott's dictum that Chaucer wrote rhythmically
             rather than metrically, the reviewer concludes that, though
@@ -100,12 +100,14 @@
             Various quotations from Chaucer (description of the 'Lawyer'
             from the <hi rend="italic">Prologue</hi>, etc.) are given in illustration.]</seg>
             
-            <seg><note place="margin">[p. 422]</note>. . . If we see not the slightest ground for depriving
+          <seg><note place="margin">[p. 422]</note>. . . If we see not the slightest ground for depriving
               Chaucer, in one respect, of his title of Father of English
               Poetry, we are heartily ready to allow that Surrey well
               deserves that of the Eldest Son, however he was surpassed
-              by the brothers that immediately followed him.<note type="footnote">Note in Spurgeon: [For Nott's edn. of Surrey and Wyatt, see above, 1815-16.]</note>
+              by the brothers that immediately followed him.
             </seg>
+          
+          <seg type="editorialNote">[For Nott's edn. of Surrey and Wyatt, see above, 1815-16.]</seg>
         </ab>
       </div>
     </body>

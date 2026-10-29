@@ -83,10 +83,12 @@
       <div type="allusion">
         <milestone unit="page" n="156"/>
         
-        <ab type="imprint">1825. H., J. S. <hi rend="italic">Critical Disquisition on the words "Heard," "Read," etc.</hi>, [in] The Gentleman's Magazine, vol. xcv, part i, suppl., pp. 584-5.<note type="footnote">Note in Spurgeon: [For a reply see above, D., W. C.]</note></ab>
+        <ab type="imprint">1825. H., J. S. <hi rend="italic">Critical Disquisition on the words "Heard," "Read," etc.</hi>, [in] The Gentleman's Magazine, vol. xcv, part i, suppl., pp. 584-5.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Quotations from the Bible; and from Chaucer (fifteen) as examples.]</seg>
+          <seg type="editorialNote">[For a reply see above, D., W. C.]</seg>
+          
+          <seg type="gloss">[Quotations from the Bible; and from Chaucer (fifteen) as examples.]</seg>
         </ab>
       </div>
     </body>

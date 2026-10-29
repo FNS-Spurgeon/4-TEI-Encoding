@@ -95,9 +95,11 @@
             
             <lg>
               <l>As noblest Metals are most soft to melt</l>
-              <l>So Pity soonest runs in gentle Minds.<note type="footnote">Note in Spurgeon: [The second line is a paraphrase of Chaucer, Knight's Tale, l. 903, Merchant's Tale. l. 742, Squire's Tale, l. 471, and Legend of Good Women, B., l. 503.]</note></l>
+              <l>So Pity soonest runs in gentle Minds.</l>
             </lg>
           </seg>
+          
+          <seg type="editorialNote">[The second line is a paraphrase of Chaucer, Knight's Tale, l. 903, Merchant's Tale. l. 742, Squire's Tale, l. 471, and Legend of Good Women, B., l. 503.]</seg>
         </ab>
       </div>
     </body>

@@ -83,22 +83,24 @@
       <div type="allusion">
         <milestone unit="page" n="116"/>
         
-        <ab type="imprint">[1819-20.] [Irving, Washington.] <hi rend="italic">The Sketch Book of Geoffrey Crayon, Gent.</hi> London, 1820, 2 vols., vol. i, pp. 129, 177, 183-4, 189, 271-2n, 282; vol. ii, p. 415. (Works, Geoffrey Crayon edn., [1880- 83], 27 vols., vol. ii, pp. 96-7, 125, 130, 134, 185-6 n, 193, 522.)<note type="footnote">Note in Spurgeon: [The papers composing the Sketch Book were written in England and published serially in America in 1819-20. The first edition in B.M. is that to which references are given above.]</note></ab>
+        <ab type="imprint">[1819-20.] [Irving, Washington.] <hi rend="italic">The Sketch Book of Geoffrey Crayon, Gent.</hi> London, 1820, 2 vols., vol. i, pp. 129, 177, 183-4, 189, 271-2n, 282; vol. ii, p. 415. (Works, Geoffrey Crayon edn., [1880- 83], 27 vols., vol. ii, pp. 96-7, 125, 130, 134, 185-6 n, 193, 522.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[The papers composing the Sketch Book were written in England and published serially in America in 1819-20. The first edition in B.M. is that to which references are given above.]</seg>
+          
           <seg>Rural life in England.</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 96-7]</note>[Reference to the <hi rend="italic">Flower and the Leaf</hi> as Chaucer's.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 96-7]</note>[Reference to the <hi rend="italic">Flower and the Leaf</hi> as Chaucer's.]</seg>
           
           <seg>A Royal Poet.</seg>
                     
-          <seg type="editorial"><note place="margin">[p. 125]</note>[King James I of Scotland read Chaucer's translation of
+          <seg type="gloss"><note place="margin">[p. 125]</note>[King James I of Scotland read Chaucer's translation of
             <note place="margin">[p. 130]</note>Boethius in prison; compared to Palamon and Arcite; his
             <note place="margin">[p. 134]</note>admiration for Chaucer; traces of similarity in their writings.]</seg>
             
           <seg>The Mutability of Literature.</seg>
             
-          <seg type="editorial"><note place="margin">[p.185 n.]</note>[Quotation from "Chaucer's Testament of Love."]</seg>
+          <seg type="gloss"><note place="margin">[p.185 n.]</note>[Quotation from "Chaucer's Testament of Love."]</seg>
             
           <seg><note place="margin">[p.186 n.]</note>Holinshed, in his Chronicle, observes, "Afterwards also, by
             diligent travell of Geffry Chaucer and John Gowre, in the time

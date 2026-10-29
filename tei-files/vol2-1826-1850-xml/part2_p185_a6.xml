@@ -87,7 +87,14 @@
         <milestone unit="page" n="185"/>
         
         <ab type="imprint">1832. Nicolas, Sir Nicholas Harris. <hi rend="italic">The Scrope and Grosvenor Controversy</hi> [edited by Sir N. H. Nicolas], 2 vols., vol. i, p. 178 [Chaucer's deposition], vol. ii, pp. 404-412 [a biography of Chaucer, based 
-          <milestone unit="page" n="186"/> on the documents, and ignoring his works. For a fuller account, fresh documents having meanwhile been discovered, see Nicolas’s Life of Chaucer, prefixed to Chaucer's Poetical Works, 1845].<note type="editorial">[The publication by Godwin of Chaucer's deposition in 1886 (q.v. above, vol. i, p. 8, vol. ii, 1803) that he was 'del aze de xl ans &amp; plus,' first led to a redating of his birth (1840 instead of 1828). Sir Harris Nicolas himself (vol. ii, p. 405) seems to lean to about the year 1831.]</note></ab>
+          
+          <milestone unit="page" n="186"/>
+          
+          on the documents, and ignoring his works. For a fuller account, fresh documents having meanwhile been discovered, see Nicolas’s Life of Chaucer, prefixed to Chaucer's Poetical Works, 1845].</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[The publication by Godwin of Chaucer's deposition in 1886 (q.v. above, vol. i, p. 8, vol. ii, 1803) that he was 'del aze de xl ans &amp; plus,' first led to a redating of his birth (1840 instead of 1828). Sir Harris Nicolas himself (vol. ii, p. 405) seems to lean to about the year 1831.]</seg>
+        </ab>
       </div>
     </body>
   </text>

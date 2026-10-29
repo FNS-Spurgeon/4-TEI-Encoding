@@ -87,7 +87,9 @@
         <ab type="imprint">1846. Ruskin, John. <hi rend="italic">Modern Painters</hi>, vol. ii, 1846, part iii, sec. ii, ch. ii, § 13, p. 149. (Works, ed. E. T. Cook and A. Wedderburn, 1903-12, 39 vols., vol. iv, p. 240.)</ab>
         
         <ab type="quotation">
-          <seg><add>[Passing reference in a simile to]</add> The grain upon the tongue of Chaucer's sainted child.<note type="footnote">Note in Spurgeon: [For the further references in <hi rend="italic">Modern Painters</hi>, see below, 1854-6.]</note></seg>
+          <seg><add>[Passing reference in a simile to]</add> The grain upon the tongue of Chaucer's sainted child.</seg>
+          
+          <seg type="editorialNote">[For the further references in <hi rend="italic">Modern Painters</hi>, see below, 1854-6.]</seg>
         </ab>
       </div>
     </body>

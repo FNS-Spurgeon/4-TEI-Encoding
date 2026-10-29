@@ -87,7 +87,11 @@
       <div type="allusion">
         <milestone unit="page" n="310"/>
         
-        <ab type="imprint">1709. Pope, Alexander. <hi rend="italic">January and May, or the Merchant’s Tale from Chaucer</hi>. [in] Poetical Miscellanies, The Sixth Part, London, Printed for Jacob Tonson, 1709, pp. 177-224. (Works of Alexander Pope, ed. Rev. Whitwell Elwin and W. J. Courthope, 1871, vol. i, pp. 115-53.)<note type="footnote">[The modern references to Pope are all to this letter edition, and are referred to in the entries below as "Works, 1871."]</note></ab>
+        <ab type="imprint">1709. Pope, Alexander. <hi rend="italic">January and May, or the Merchant’s Tale from Chaucer</hi>. [in] Poetical Miscellanies, The Sixth Part, London, Printed for Jacob Tonson, 1709, pp. 177-224. (Works of Alexander Pope, ed. Rev. Whitwell Elwin and W. J. Courthope, 1871, vol. i, pp. 115-53.)</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[The modern references to Pope are all to this letter edition, and are referred to in the entries below as "Works, 1871."]</seg>
+        </ab>
       </div>
     </body>
   </text>

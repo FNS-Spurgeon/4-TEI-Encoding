@@ -102,9 +102,11 @@
             published, beginning thus:
             <lg>
               <l>In Lincolnshire fast by a fenne</l>
-              <l>Standeth a religious house who doth it kenne.<note type="footnote">Note in Spurgeon: [The Society was founded in 1712, when Maurice Johnson junr. was among the Members, and Mr. Lyon was elected President. This introduction to the Minute books is addressed to Mr. Lyon, so possibly the date is 1712, it is certainly before 1721, when Urry's Chaucer was published. See Literary Anecdotes, vi, pp. 29, 34, 37.]</note></l>
+              <l>Standeth a religious house who doth it kenne.</l>
             </lg>
           </seg>
+          
+          <seg type="editorial">[The Society was founded in 1712, when Maurice Johnson junr. was among the Members, and Mr. Lyon was elected President. This introduction to the Minute books is addressed to Mr. Lyon, so possibly the date is 1712, it is certainly before 1721, when Urry's Chaucer was published. See Literary Anecdotes, vi, pp. 29, 34, 37.]</seg>
         </ab>
       </div>
     </body>

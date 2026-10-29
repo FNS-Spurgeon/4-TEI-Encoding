@@ -86,9 +86,11 @@
       <div type="allusion">
         <milestone unit="page" n="98"/>
         
-        <ab type="imprint">1870. [Baynes, Thomas Spencer.] <hi rend="italic">The Text of Chaucer</hi>, [in] the Edinburgh Review, July, 1870, vol. cxxxii, pp. 1-45.<note type="footnote">Note in Spurgeon: [Information as to the authorship of this article was kindly supplied by the Editor of the <hi rend="italic">Edinburgh Review</hi>.]</note></ab>
+        <ab type="imprint">1870. [Baynes, Thomas Spencer.] <hi rend="italic">The Text of Chaucer</hi>, [in] the Edinburgh Review, July, 1870, vol. cxxxii, pp. 1-45.</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[Information as to the authorship of this article was kindly supplied by the Editor of the <hi rend="italic">Edinburgh Review</hi>.]</seg>
+          
           <seg><note place="margin">[p. 1]</note> It is a national reproach that after the lapse of nearly five
             hundred years we are still without a critical and illustrative
             edition of Chaucer’s poetical works. Excepting
@@ -97,7 +99,7 @@
             characteristics of his genius, no English poet comes nearer
             to Shakspeare.</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 2, 3]</note> [Chaucer’s dramatic insight, love of nature, wide human
+          <seg type="gloss"><note place="margin">[pp. 2, 3]</note> [Chaucer’s dramatic insight, love of nature, wide human
             interest, and felicity of expression.]</seg>
             
           <milestone unit="page" n="99"/>
@@ -111,7 +113,7 @@
             constantly he was studied during the two centuries after his
             death.</seg>
             
-          <seg type="editorial">[Lydgate, Occleve, Douglas, Wilson, Puttenham, Ascham,
+          <seg type="gloss">[Lydgate, Occleve, Douglas, Wilson, Puttenham, Ascham,
             Fox, Camden, Sidney, Spenser, Milton, among his admirers.]</seg>
             
           <seg>Dryden, again, did his utmost to popularise the more
@@ -134,7 +136,7 @@
             of old standing, and many suggestions have from time to
             time been made with the view of wiping it away.</seg>
             
-          <seg type="editorial">[Quotation of Dr. Johnson’s note on his projected edition.
+          <seg type="gloss">[Quotation of Dr. Johnson’s note on his projected edition.
             A correct edition called for by Godwin and Todd.]</seg>
             
           <seg><note place="margin">[p. 5]</note> The truth is, that until the last few years the greater part
@@ -177,7 +179,7 @@
             of a special Society. With this end in view, the Chaucer
             Society was accordingly founded two years ago.</seg>
             
-          <seg type="editorial">[Account of the Chaucer Society’s aims and publications.
+          <seg type="gloss">[Account of the Chaucer Society’s aims and publications.
             <note place="margin">[p.7]</note> Value of the latter to students. Only seventy subscribers
             in England, and thirty in the United States. Readers recommended to subscribe.]</seg>
             
@@ -400,7 +402,7 @@
             poetical expressiveness of the existing text. Some, again,
             effect marked improvements in minutiæ of grammar, emphasis, and spelling.</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 16-33]</note> [Examples are given and various readings discussed.]</seg>
+          <seg type="gloss"><note place="margin">[pp. 16-33]</note> [Examples are given and various readings discussed.]</seg>
             
           <seg><note place="margin">[p.33]</note> Quite as much still remains to be done for the illustration as
             for the text of Chaucer’s poetical works. There are in his
@@ -465,7 +467,7 @@
             respects best qualified for the work, has confined his labours
             in this direction to a revision of previous glossaries. . . .</seg>
             
-          <seg type="editorial">[An examination of Morris’s Glossary follows.]</seg>
+          <seg type="gloss">[An examination of Morris’s Glossary follows.]</seg>
             
           <seg><note place="margin">[p. 40]</note> This <add>[comparison with <hi rend="italic">Piers Plowman</hi>]</add> points to an
             important means of interpreting Chaucer’s language which has not

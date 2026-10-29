@@ -83,9 +83,11 @@
       <div type="allusion">
         <milestone unit="page" n="142"/>
         
-        <ab type="imprint">1823. D'Israeli, Isaac. <hi rend="italic">Curiosities of Literature</hi>, 7th edn., 5 vols., 1823, vol. i, p. 183, vol. ii, pp. 101, 103, 104, 105, 106, 107, vol. iii, p. 204, vol. iv, pp. 7, 139, 157. (14th edn., 3 vols., 1849, vol. i, pp. 108, 249, 250, vol. ii, pp. 30, 109, 120, vol. iii, p. 487.)<note type="footnote">Note in Spurgeon: [For an earlier edn. see above, 1807.]</note></ab>
+        <ab type="imprint">1823. D'Israeli, Isaac. <hi rend="italic">Curiosities of Literature</hi>, 7th edn., 5 vols., 1823, vol. i, p. 183, vol. ii, pp. 101, 103, 104, 105, 106, 107, vol. iii, p. 204, vol. iv, pp. 7, 139, 157. (14th edn., 3 vols., 1849, vol. i, pp. 108, 249, 250, vol. ii, pp. 30, 109, 120, vol. iii, p. 487.)</ab>
         
         <ab type="quotation">
+          <seg type="editorialNote">[For an earlier edn. see above, 1807.]</seg>
+          
           <seg><note place="margin">[14th edn. vol. i, p. 108]</note>The Progress of old age in New Studies. Chaucer's Canterbury
             Tales were the composition of his latest years; they
             were begun in his fifty-fourth year, and finished in his sixty-first.</seg>
@@ -103,7 +105,7 @@
             moche dagging of sheres (cutting into slips); with the superfluitee
             in length of the gounes trailing in the dong and in themyre . . ."</seg>
           
-          <seg type="editorial">[His Parson also is bitter against the "horrible disordinat scantnesse of clothing,” etc.]</seg>
+          <seg type="gloss">[His Parson also is bitter against the "horrible disordinat scantnesse of clothing,” etc.]</seg>
             
           <seg><note place="margin">[p. 250]</note><add>[Prevalence of French fashions in Chaucer's time.]</add> In the
             Prologue to the Prioresse <add>[sic]</add> Chaucer has these humorous lines:—
@@ -127,7 +129,9 @@
               <l>"For what we may not don than wol we speken;</l>
               <l>Yet in our ashen cold is fire yreken."</l>
             </lg>
-            —Tyrwhit's Chaucer, vol. i, p. 153, v. 3879.<note type="footnote">Note in Spurgeon: [For this comparison see above, 1782, vol. i, p. 465.]</note></seg>
+            —Tyrwhit's Chaucer, vol. i, p. 153, v. 3879.</seg>
+          
+          <seg type="editorialNote">[For this comparison see above, 1782, vol. i, p. 465.]</seg>
             
           <seg><note place="margin">[vol. ii, p. 120]</note>"The laughing air." Dryden has employed this epithet
             boldly in the delightful lines, almost entirely borrowed from

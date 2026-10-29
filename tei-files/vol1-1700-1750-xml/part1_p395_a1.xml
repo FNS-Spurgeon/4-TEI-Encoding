@@ -96,7 +96,7 @@
             contemporaries, so his memory has ever since been highly
             honoured.</seg>
             
-          <seg type="editorial">[Here follow the events of his life in great detail,
+          <seg type="gloss">[Here follow the events of his life in great detail,
             and a statement of the difficulties of getting at the facts about
             it. Sprat, Pits, Leyland, Speght, Dart, Hearne, Ashmole,
             Bale, and others are quoted.] . . .</seg>
@@ -138,7 +138,9 @@
             is not a little to his honour, that amongst those who are of
             this opinion we may reckon one of the soundest of our Critics
             <add>[Rymer]</add>, and one of the correctest writers in our language
-            <add>[Sprat]</add>.<note type="footnote">Note in Spurgeon: [See above, 1692, p. 265, Rymer, and 1667, p. 244, Sprat.]</note></seg>
+            <add>[Sprat]</add>.</seg>
+          
+          <seg type="editorialNote">[See above, 1692, p. 265, Rymer, and 1667, p. 244, Sprat.]</seg>
         </ab>
       </div>
     </body>

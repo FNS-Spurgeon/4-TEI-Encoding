@@ -87,7 +87,11 @@
       <div type="allusion">
         <milestone unit="page" n="56"/>
         
-        <ab type="imprint">1812. The Prologue and Characters of Chaucer's Pilgrims, selected from his Canterbury Tales; intended to illustrate a particular design of Mr. William Blake, which is engraved by himself, and may be seen at Mr. Colnaghi's.<note type="footnote">Note in Spurgeon: [Text from Speght, 1687; translation from Ogle, 1741, pp. iv, 61.]</note></ab>
+        <ab type="imprint">1812. The Prologue and Characters of Chaucer's Pilgrims, selected from his Canterbury Tales; intended to illustrate a particular design of Mr. William Blake, which is engraved by himself, and may be seen at Mr. Colnaghi's.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[Text from Speght, 1687; translation from Ogle, 1741, pp. iv, 61.]</seg>
+        </ab>
       </div>
     </body>
   </text>

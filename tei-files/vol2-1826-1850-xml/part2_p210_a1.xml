@@ -87,7 +87,7 @@
         <ab type="imprint">[1836.] Wordsworth, William. <hi rend="italic">MS. Note</hi> on a remark of Hazlitt's in <hi rend="italic">The Spirit of the Age</hi>, [printed in] The Academy, Dec. 23, 1905, p. 1334, col. 1.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Barron Field, in his (unpublished) <hi rend="italic">Critical Memoirs on
+          <seg type="gloss">[Barron Field, in his (unpublished) <hi rend="italic">Critical Memoirs on
             the Life and Poetry of William Wordsworth</hi>, quotes Hazlitt’s
             remark in the <hi rend="italic">Spirit of the Age</hi>, 1825: "Chaucer is a prime
             favourite of his <add>[Wordsworth's]</add>, but we do not think he has
@@ -99,7 +99,9 @@
             Modesty, and a deep feeling how superfluous a thing it is to
             praise Shakespeare have kept me often—and almost habitually
             —silent on that subject. Who thinks it necessary to praise
-            the Sun?<note type="footnote">Note in Spurgeon: [The article in the <hi rend="italic">Academy</hi> is by Prof. W. Knight.]</note></seg>
+            the Sun?</seg>
+          
+          <seg type="editorialNote">[The article in the <hi rend="italic">Academy</hi> is by Prof. W. Knight.]</seg>
         </ab>
       </div>
     </body>

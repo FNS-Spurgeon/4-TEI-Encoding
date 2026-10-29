@@ -88,13 +88,13 @@
         <ab type="imprint">1708. Hearne, Thomas. <hi rend="italic">Letter to Mr. Bagford</hi>, [dated] Oxon, Dec. 20, 1708, [in] Robert of Gloucester's Chronicle, ed. T. Hearne, 1724, vol. ii, Glossary, p. 708.</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[The letter describes an edition of John Walton of Osney's translation of Boethius, 1525.]</seg>
+          <seg type="gloss">[The letter describes an edition of John Walton of Osney's translation of Boethius, 1525.]</seg>
             
           <seg>When I first saw this Book,
             I guess'd, that it might have been Chaucer's; but I presently
             recollected, that his is in Prose.</seg>
             
-          <seg type="editorial">[See above, 1410, pp. 20-1.]</seg>
+          <seg type="gloss">[See above, 1410, pp. 20-1.]</seg>
         </ab>
       </div>
     </body>

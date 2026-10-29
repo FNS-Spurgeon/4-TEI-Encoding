@@ -84,10 +84,12 @@
       <div type="allusion">
         <milestone unit="page" n="286"/>
         
-        <ab type="imprint">[a. 1850?] Ruskin, John. <hi rend="italic">Letter</hi> on his early poem, <hi rend="italic">The Last Song of Arion</hi>, to W. H. Harrison. (Works, Library edition, ed. E. T. Cook and A. Wedderburn, 1903-12, 39 vols., vol. ii, p. 123.)<note type="footnote">Note in Spurgeon: [The editors state that this letter is undated but was probably written before 1850.]</note></ab>
+        <ab type="imprint">[a. 1850?] Ruskin, John. <hi rend="italic">Letter</hi> on his early poem, <hi rend="italic">The Last Song of Arion</hi>, to W. H. Harrison. (Works, Library edition, ed. E. T. Cook and A. Wedderburn, 1903-12, 39 vols., vol. ii, p. 123.)</ab>
         
         <ab type="quotation">
-          <seg type="editorial">[Writers comparing their mistresses to the sun:]</seg>
+          <seg type="editorialNote">[The editors state that this letter is undated but was probably written before 1850.]</seg>
+          
+          <seg type="gloss">[Writers comparing their mistresses to the sun:]</seg>
             
           <seg>Only one man has done that rightly, in the pure way—Chaucer.
             <l>‘Up rose the Sonne, and up rose Emilie!’</l>

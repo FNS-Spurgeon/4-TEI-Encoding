@@ -104,7 +104,7 @@
             speaks,
             <l>"I'll speak a prophecy or ere I go."</l></seg>
             
-          <seg type="editorial">. . .[Upton then quotes the prophecy, ending:]</seg>
+          <seg type="gloss">. . .[Upton then quotes the prophecy, ending:]</seg>
           
           <seg><note place="margin">[p. xix.]</note>"This prophecy Merlin shall make, for I live before his time."
             <lb/>This Merlin is the prophet Dan Geoffrey Chaucer. Among
@@ -131,7 +131,7 @@
             added two lines of his own, which properly can be
             referred only to the former part of the prophecy . . .</seg>
             
-          <seg type="editorial"><note place="margin">[p. xx]</note>[Upton next points out that in the expression "bold beating
+          <seg type="gloss"><note place="margin">[p. xx]</note>[Upton next points out that in the expression "bold beating
             oaths" used by Falstaff in <hi rend="italic">The Merry Wives</hi> II; beating is
             from the A.S. betan, excitare, as used by Chaucer in the
             Reve's Tale, v. 828—
@@ -145,7 +145,7 @@
             (K. Lear III) meaning prince; as in Tale of Gamelyn, 225].
             <lb/>. . . . . . . . . . .</seg>
             
-          <seg type="editorial"><note place="margin">[pp. 184 n., 185 n.]</note>[A long note on the use of “fere" by Chaucer.]
+          <seg type="gloss"><note place="margin">[pp. 184 n., 185 n.]</note>[A long note on the use of “fere" by Chaucer.]
             <lb/>. . . . . . . . . . .</seg>
             
           <seg><note place="margin">[p. 282]</note>In Troilus and Cressida. Act I.
@@ -183,7 +183,9 @@
             <note place="margin">[p. 404]</note>I would read
             <l>"And purveigh Manchet,"</l>
             i. e. They had a cook with them whose business 'twas to boil,
-            &amp;c., and to provide Manchet, &amp;c.<note type="footnote">Note in Spurgeon: [The phrases in italics are in black letter in the original.]</note></seg>
+            &amp;c., and to provide Manchet, &amp;c.</seg>
+          
+          <seg type="editorialNote">[The phrases in italics are in black letter in the original.]</seg>
         </ab>
       </div>
     </body>

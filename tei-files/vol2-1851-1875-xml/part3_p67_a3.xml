@@ -83,7 +83,7 @@
         <ab type="imprint">1863-64. Chambers, Robert. <hi rend="italic">The Book of Days</hi>, a Miscellany of Popular Antiquities in connection with the Calendar, edited by R. Chambers, 2 vols ; vol. i, 1863, pp. 53, 220, 339, 472; vol ii, 1864, pp. 493-4.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[vol. i, p. 53]</note> [Chaucer's allusion to the Man in the Moon, <hi rend="italic">Troilus</hi>, i, 1024.]</seg>
+          <seg type="gloss"><note place="margin">[vol. i, p. 53]</note> [Chaucer's allusion to the Man in the Moon, <hi rend="italic">Troilus</hi>, i, 1024.]</seg>
             
           <seg><note place="margin">[p. 220]</note> In the middle ages, solemn betrothal by means of the
             ring often preceded matrimony, and was sometimes adopted
@@ -92,10 +92,10 @@
             heroine as giving her lover a ring, upon which a love-motto
             was engraved, and receiving one from him in return.</seg>
             
-          <seg type="editorial"><note place="margin">[p. 472]</note> [Reference made to Chaucer being often called
+          <seg type="gloss"><note place="margin">[p. 472]</note> [Reference made to Chaucer being often called
             poet-laureate, to the offices held by him, and to several curious grants of which he was the recipient.]</seg>
             
-          <seg type="editorial"><note place="margin">[vol. ii, p. 493-4]</note> [Biographical notice.]</seg>
+          <seg type="gloss"><note place="margin">[vol. ii, p. 493-4]</note> [Biographical notice.]</seg>
         </ab>
       </div>
     </body>

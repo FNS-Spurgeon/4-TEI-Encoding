@@ -87,7 +87,7 @@
         <ab type="imprint">1718. Gildon, Charles. <hi rend="italic">The Complete Art of Poetry</hi>, vol. i, pp. 67, 82.</ab>
         
         <ab type="quotation">
-          <seg type="editorial"><note place="margin">[p. 67]</note>[Various objections to Poetry. That it is the mother of Lies, the Nurse of Abuse]</seg>
+          <seg type="gloss"><note place="margin">[p. 67]</note>[Various objections to Poetry. That it is the mother of Lies, the Nurse of Abuse]</seg>
           
           <seg>’Tis farther urged, that Chaucer says, that
             before Boers <add>[sic for Poets]</add> had soften'd us, we were full of
@@ -102,7 +102,9 @@
             and Lydgate, were the first who made any tolerable Figure in
             that Dress; of whom Chaucer is the only one who may justly
             claim the Name of a Poet. After him, English Poetry was
-            totally neglected. . . .<note type="footnote">Note in Spurgeon: [The first part of this book is an essay on Poetry, and the second part a collection of extracts from various poets on different subjects, of the same nature as Bysshe's Art of Poetry, 1702. In vol. ii, to face title page, Chaucer is among the list of "Authors cited in this Book," but all quotations are from Dryden's versions.]</note></seg>
+            totally neglected. . . .</seg>
+          
+          <seg type="editorialNote">[The first part of this book is an essay on Poetry, and the second part a collection of extracts from various poets on different subjects, of the same nature as Bysshe's Art of Poetry, 1702. In vol. ii, to face title page, Chaucer is among the list of "Authors cited in this Book," but all quotations are from Dryden's versions.]</seg>
         </ab>
       </div>
     </body>

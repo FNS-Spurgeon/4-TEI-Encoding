@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="346"/>
         
-        <ab type="imprint">1717. [Sewell, George.] <hi rend="italic">Memoirs</hi> [prefixed to] Poems of Henry Howard Earl of Surrey, pp. xv-xvi.<note>Note in Spurgeon: [Sewell quotes Fenton's lines on Chaucer. See above, 1710-11, p. 313.]</note></ab>
+        <ab type="imprint">1717. [Sewell, George.] <hi rend="italic">Memoirs</hi> [prefixed to] Poems of Henry Howard Earl of Surrey, pp. xv-xvi.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[Sewell quotes Fenton's lines on Chaucer. See above, 1710-11, p. 313.]</seg>
+        </ab>
       </div>
     </body>
   </text>

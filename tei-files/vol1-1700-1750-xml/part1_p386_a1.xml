@@ -84,7 +84,11 @@
       <div type="allusion">
         <milestone unit="page" n="386"/>
         
-        <ab type="imprint">1739. Unknown. <hi rend="italic">Review</hi> of John Lewis's The Life of Mayster Wyllyam Caxton, 1737, [in] The History of the Works of the Learned . . . containing Impartial Accounts and Accurate Abstracts of the Most Valuable Books published in <hi rend="italic">Great Britain</hi> and Foreign Parts, 1739, vol. i, pp. 269-70, article xviii [reference to Chaucer’s Works printed by Caxton, see above, 1737, Lewis, pp. 380-1].<note type="footnote">Note in Spurgeon: [In 1736 "The Literary Magazine or the History of the Works of the Learned," ed. by Ephraim Chambers, and "The Present state of the Republick of Letters," ed. by Andrew Reid, were converted into "The History of the Works of the Learned."]</note></ab>
+        <ab type="imprint">1739. Unknown. <hi rend="italic">Review</hi> of John Lewis's The Life of Mayster Wyllyam Caxton, 1737, [in] The History of the Works of the Learned . . . containing Impartial Accounts and Accurate Abstracts of the Most Valuable Books published in <hi rend="italic">Great Britain</hi> and Foreign Parts, 1739, vol. i, pp. 269-70, article xviii [reference to Chaucer’s Works printed by Caxton, see above, 1737, Lewis, pp. 380-1].</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[In 1736 "The Literary Magazine or the History of the Works of the Learned," ed. by Ephraim Chambers, and "The Present state of the Republick of Letters," ed. by Andrew Reid, were converted into "The History of the Works of the Learned."]</seg>
+        </ab>
       </div>
     </body>
   </text>

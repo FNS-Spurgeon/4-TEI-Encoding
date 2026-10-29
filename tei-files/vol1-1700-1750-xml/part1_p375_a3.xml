@@ -108,11 +108,13 @@
             <hi rend="italic">Knight's Tale</hi> <add>[l. 2025]</add>. . . . But I own I suspect this not to
             have been our Author's Word.</seg>
           
-          <seg type="editorial">[Theobald in the text emended the word to smithied.]</seg>
+          <seg type="gloss">[Theobald in the text emended the word to smithied.]</seg>
             
           <seg><note place="margin">[p. 114]</note><add>[Theobald refers to the Destruction of Troy printed by
             Caxton,]</add> from which Book our Poet has borrow'd more
-            Circumstances of this Play, than from Lollius or Chaucer.<note type="footnote">Note in Spurgeon: [The Shakespeare references are to the edn., of W. G. Clark and W. A. Wright, vol. xxv, 1893.]</note></seg>
+            Circumstances of this Play, than from Lollius or Chaucer.</seg>
+          
+          <seg type="editorialNote">[The Shakespeare references are to the edn., of W. G. Clark and W. A. Wright, vol. xxv, 1893.]</seg>
         </ab>
       </div>
     </body>
