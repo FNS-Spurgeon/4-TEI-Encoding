@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
-            <date cert="high" when="18">1870</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
+            <date cert="high" when="1870">1870</date>
             <title level="a">Lectures on Art.</title>
           </analytic>
           <monogr>
@@ -83,43 +83,53 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="12"/>
-        <ab type="imprint">1870. Ruskin, John. Lectures on Art. Lecture I, Inaugural. Works of Ruskin, Library edn., ed. E. T. Cook and A. Wedderburn, 1905, vol. xx, pp. 23, 29, 30.</ab>
+        
+        <ab type="imprint">1870. Ruskin, John. <hi rend="italic">Lectures on Art</hi>. Lecture I, <hi rend="italic">Inaugural. Works of Ruskin</hi>, Library edn., ed. E. T. Cook and A. Wedderburn, 1905, vol. xx, pp. 23, 29, 30.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 23] [A note pointing an additional passage in an early draft.]
-The best poetry has been done for no salary at all; but
-for casual alms, as the Iliad; or bitter bread, as the Divina
-Commedia. Chaucer, indeed,—"well of English undefiled"
-—had salary, thirteen pounds a year and a pitcher of wine
-daily; but when he was seventy years old, was borrowing
-a few shillings from week to week in advance of his pension.
-[With a brief note by the editors on the passage.]
-[p. 29] I think the most perfect type of a true English mind in
-its best possible temper, is that of Chaucer; and you will
-find that, while it is for the most part full of thoughts of
-beauty, pure and wild like that of an April morning,1 there
-are, even in the midst of this, sometimes momentarily jesting
-passages which stoop to play with evil—while the power of
-listening to and enjoying the jesting of entirely gross persons,
-whatever the feeling may be which permits it, afterwards
-degenerates into forms of humour which render some of
-quite the greatest, wisest, and most moral of English writers
-now almost useless for our youth. And yet you will find that
-whenever Englishmen are wholly without this instinct, their
-genius is comparatively weak and restricted.
-Ibid., Lecture III, The Relation of Art to Morals, Library
-edn., vol. xx, p. 77.
-"Never elated, while one man's oppress'd;
-Never dejected, while another's bless'd."2
-I wish you also to remember these lines of Pope, and to
-make yourselves entirely masters of his system of ethics;
-because, putting Shakespeàre aside as rather the world's
-than ours, I hold Pope to be the most perfect representative
-we have, since Chaucer, of the true English mind; and I
-think the Dunciad is the most absolutely chiselled and
-monumental work "exacted" in our country.
-1 Footnote by editors: A reference to the first line of the Canterbury Tales: "When that
-Aprile with his schowres swoote."
-2 Footnote by editors: Essay on Man, iv 323-4.</seg>
+          <seg type="editorialNote"><note place="margin">[p. 23]</note>[A note pointing an additional passage in an early draft.]</seg>
+          
+          <milestone unit="page" n="13"/>
+            
+          <seg>The best poetry has been done for no salary at all; but
+            for casual alms, as the Iliad; or bitter bread, as the Divina
+            Commedia. Chaucer, indeed,—"well of English undefiled"
+            —had salary, thirteen pounds a year and a pitcher of wine
+            daily; but when he was seventy years old, was borrowing
+            a few shillings from week to week in advance of his pension.</seg>
+            
+          <seg type="gloss">[With a brief note by the editors on the passage.]</seg>
+            
+          <seg><note place="margin">[p. 29]</note>I think the most perfect type of a true English mind in
+            its best possible temper, is that of Chaucer; and you will
+            find that, while it is for the most part full of thoughts of
+            beauty, pure and wild like that of an April morning,<note type="footnote" n="1">Footnote by editors: A reference to the first line of the <hi rend="italic">Canterbury Tales</hi>: "When that
+              Aprile with his schowres swoote."</note> there
+            are, even in the midst of this, sometimes momentarily jesting
+            passages which stoop to play with evil—while the power of
+            listening to and enjoying the jesting of entirely gross persons,
+            whatever the feeling may be which permits it, afterwards
+            degenerates into forms of humour which render some of
+            quite the greatest, wisest, and most moral of English writers
+            now almost useless for our youth. And yet you will find that
+            whenever Englishmen are wholly without this instinct, their
+            genius is comparatively weak and restricted.</seg>
+            
+          <seg><hi rend="italic">Ibid.</hi>, Lecture III, <hi rend="italic">The Relation of Art to Morals</hi>, Library
+            edn., vol. xx, p. 77.
+            <lg>
+              <l>"Never elated, while one man's oppress'd;</l>
+              <l>Never dejected, while another's bless'd."<note type="footnote" n="2">Footnote by editors: <hi rend="italic">Essay on Man</hi>, iv 323-4.</note></l>
+            </lg>
+          </seg>
+            
+          <seg>I wish you also to remember these lines of Pope, and to
+            make yourselves entirely masters of his system of ethics;
+            because, putting Shakespeàre aside as rather the world's
+            than ours, I hold Pope to be the most perfect representative
+            we have, since Chaucer, of the true English mind; and I
+            think the <hi rend="italic">Dunciad</hi> is the most absolutely chiselled and
+            monumental work "exacted" in our country.</seg>
         </ab>
       </div>
     </body>

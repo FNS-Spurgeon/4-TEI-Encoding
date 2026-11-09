@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
             <date cert="high" when="1872">1872</date>
             <title level="a">The Eagle's Nest, Lecture III. Wise Art and Wise Science.</title>
           </analytic>
@@ -83,38 +83,51 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="37"/>
-        <ab type="imprint">1872. Ruskin, John. The Eagle's Nest, Lecture III. Wise Art and Wise Science. Works of Ruskin, Library edn., ed. E. T. Cook and A. Wedderburn, vol. xxii, pp. 160-2.</ab>
+        
+        <ab type="imprint">1872. Ruskin, John. <hi rend="italic">The Eagle's Nest</hi>, Lecture III. <hi rend="italic">Wise Art and Wise Science. Works of Ruskin</hi>, Library edn., ed. E. T. Cook and A. Wedderburn, vol. xxii, pp. 160-2.</ab>
+        
         <ab type="quotation">
           <seg>I gave you, in a former lecture, the Skylark as a type of
-mastership in music; and remembering—some of you, I
-suppose, are not likely soon to forget,—the saint to whom
-yesterday was dedicated. [St. Valentine] let me read you
-to-day some of the prettiest English words in which our
-natural feeling about such song is expressed.1
-1 Footnote by editors: The Cuckow and the Nightingale. For other notes on the
-birds of Chaucer, see Munera Pulveris, § 149n., vol. xvii, p. 278 n.]
-"And anone, as I the day espide [to]
-And held the way downe by a brook side."
-[And four following stanzas. ]
-You recollect, perhaps, the dispute that follows between
-the cuckoo and the nightingale, and the promise which the
-sweet singer makes to Chaucer for rescuing her.
-"And then came the Nightingale to me [to]
-The next May, if I be not affraied."
-"If I be not affraied." Would she not put the "if" more
-timidly now, in making the same promise to any of you,
-or in asking for the judgment between her and her enemy,
-which was to be passed, do you remember, on this very day
-of the year, so many years ago, and within eight miles of
-this very spot?
-"And this shall be without any Nay" [to]
-"And there she sate, and sang upon that tree
-'Terme of life Love hath withheld me'
-So loud, that I with that song awoke."
-57. "Terme of life love hath withheld me !" Alas, how
-have we men reversed this song of the nightingale! so that
-our words must be "Terme of life—hatred hath withheld
-me."</seg>
+            mastership in music; and remembering—some of you, I
+            suppose, are not likely soon to forget,—the saint to whom
+            yesterday was dedicated. <add>[St. Valentine]</add> let me read you
+            to-day some of the prettiest English words in which our
+            natural feeling about such song is expressed.<note type="footnote" n="1">Footnote by editors: <hi rend="italic">The Cuckow and the Nightingale</hi>. [For other notes on the
+            birds of Chaucer, see <hi rend="italic">Munera Pulveris</hi>, § 149n., vol. xvii, p. 278 n.]</note>
+            <lg>
+              <l>"And anone, as I the day espide <add>[to]</add></l>
+              <l>And held the way downe by a brook side."</l>
+            </lg>
+            <add>[And four following stanzas.]</add>
+          </seg>
+            
+          <seg>You recollect, perhaps, the dispute that follows between
+            the cuckoo and the nightingale, and the promise which the
+            sweet singer makes to Chaucer for rescuing her.
+            <lg>
+              <l>"And then came the Nightingale to me <add>[to]</add></l>
+              <l>The next May, if I be not affraied."</l>
+            </lg>
+          </seg>
+            
+          <seg>"If I be not affraied." Would she not put the "if" more
+            timidly now, in making the same promise to any of you,
+            or in asking for the judgment between her and her enemy,
+            which was to be passed, do you remember, on this very day
+            of the year, so many years ago, and within eight miles of
+            this very spot?
+            <l>"And this shall be without any Nay" <add>[to]</add></l>
+            <l>"And there she sate, and sang upon that tree</l>
+            <l>'Terme of life Love hath withheld me'</l>
+            <l>So loud, that I with that song awoke."</l>
+          </seg>
+          
+          <milestone unit="page" n="38"/>
+            
+          <seg>57. "Terme of life love hath withheld me !" Alas, how
+            have we men reversed this song of the nightingale! so that
+            our words must be "Terme of life—hatred hath withheld
+            me."</seg>
         </ab>
       </div>
     </body>

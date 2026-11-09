@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1873, John Ruskin. Fors Clavigera,</title>
+        <title>1873, John Ruskin. Fors Clavigera.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
             <date cert="high" when="1873">1873</date>
-            <title level="a">Fors Clavigera,</title>
+            <title level="a">Fors Clavigera.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,43 +83,47 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="47"/>
-        <ab type="imprint">1873. Ruskin, John. Fors Clavigera, Vol. III., Letter 28, 31, 34 (April, July, October, 1873). Works of Ruskin, ed. E. T. Cook and A. Wedderburn, 1907, vol. xxvii, pp. 516-7, 624-6, 626, 631.</ab>
+        
+        <ab type="imprint">1873. Ruskin, John. <hi rend="italic">Fors Clavigera</hi>, Vol. III., Letter 28, 31, 34 (April, July, October, 1873). <hi rend="italic">Works of Ruskin</hi>, ed. E. T. Cook and A. Wedderburn, 1907, vol. xxvii, pp. 516-7, 624-6, 626, 631.</ab>
+        
         <ab type="quotation">
-          <seg>[pp. 516-7] It [the word "menial"] comes from a beautiful old
-Chaucerian word, "meinie," or many. . . . Chaucer says
-the God of Love came, in the garden of the Rose, with "his
-many";—in the court of the King of Persia spoke a Lord
-one "of his many."
-[p. 567] [Letter 31, July: note on pencil, a flag hanging down, with
-a reference to Chaucer's translation of O.F. pennons as
-feathers].
-[pp. 624-6] [Letter 34, October: Two passages on the two kinds of
-noble love from the Romaunt, the first from the Chaucerian
-translation, 4706-51, and the second from the O.F. 4505-
-45]:
-[p. 626] Chaucer translated the first, and I have partly again
-translated his translation into more familiar English. . . .
-but they should not be separated, being among the most
-interesting expressions extant of the sentiment of the dark
-ages.
-[pp. 630-1] 9. It is one of the most curious problems respecting mental
-government to determine how far this fimetic taint must
-necessarily affect intellects in which the reasoning and
-imaginative powers are equally balanced, and both of them
-at high levels—as in Aristophanes, Shakespeare, Chaucer,
-Molière, Cervantes, and Fielding; but it always indicates
-the side of character which is unsympathetic, and therefore
-unkind, . . . but which, in men of noble nature, is their
-safeguard against weak enthusiasms and ideals. It is im¬
-possible, however, that the highest conditions of tenderness
-in affectionate virginal intellect. Shakespeare and Chaucer
-throw off, at noble work, the lower part of their natures as
-they would a rough dress; and you may also notice this,
-that the power of conceiving personal, as opposed to general
-character, depends on this purity of heart and sentiment.
-The men who cannot quit themselves of the impure taint,
-never invent character, properly so called; they only invent
-symbols of common humanity.</seg>
+          <seg><note place="margin">[pp. 516-7]</note>It <add>[the word "menial"]</add> comes from a beautiful old
+            Chaucerian word, "meinie," or many. . . . Chaucer says
+            the God of Love came, in the garden of the Rose, with "his
+            many";—in the court of the King of Persia spoke a Lord
+            one "of his many."</seg>
+            
+          <seg type="gloss"><note place="margin">[p. 567]</note>[Letter 31, July: note on pencil, a flag hanging down, with
+            a reference to Chaucer's translation of O.F. pennons as feathers].</seg>
+            
+          <seg type="gloss"><note place="margin">[pp. 624-6]</note>[Letter 34, October: Two passages on the two kinds of
+            noble love from the <hi rend="italic">Romaunt</hi>, the first from the Chaucerian
+            translation, 4706-51, and the second from the O.F. 4505-45]:</seg>
+            
+          <seg><note place="margin">[p. 626]</note>Chaucer translated the first, and I have partly again
+            translated his translation into more familiar English. . . .
+            but they should not be separated, being among the most
+            interesting expressions extant of the sentiment of the dark
+            ages.</seg>
+            
+          <seg><note place="margin">[pp. 630-1]</note>9. It is one of the most curious problems respecting mental
+            government to determine how far this fimetic taint must
+            necessarily affect intellects in which the reasoning and
+            imaginative powers are equally balanced, and both of them
+            at high levels—as in Aristophanes, Shakespeare, Chaucer,
+            Molière, Cervantes, and Fielding; but it always indicates
+            the side of character which is unsympathetic, and therefore
+            unkind, . . . but which, in men of noble nature, is their
+            safeguard against weak enthusiasms and ideals. It is im¬
+            possible, however, that the highest conditions of tenderness
+            in affectionate virginal intellect. Shakespeare and Chaucer
+            throw off, at noble work, the lower part of their natures as
+            they would a rough dress; and you may also notice this,
+            that the power of conceiving personal, as opposed to general
+            character, depends on this purity of heart and sentiment.
+            The men who cannot quit themselves of the impure taint,
+            never invent character, properly so called; they only invent
+            symbols of common humanity.</seg>
         </ab>
       </div>
     </body>

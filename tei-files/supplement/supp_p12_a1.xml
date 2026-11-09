@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/58065850">David Laing Purves</author>
-            <date cert="high" when="18">1870</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/58065850">Purves, David Laing</author>
+            <date cert="high" when="1870">1870</date>
             <title level="a">The Canterbury Tales and Fairie Queene: with Other Poems of Chaucer and Spenser.</title>
           </analytic>
           <monogr>
@@ -83,13 +83,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="12"/>
-        <ab type="imprint">1870. Purves, D. Laing. The Canterbury Tales and Fairie Queene: with Other Poems of Chaucer and Spenser. Edited for Popular Perusal (Edinburgh, 1870).</ab>
+        
+        <ab type="imprint">1870. Purves, D. Laing. <hi rend="italic">The Canterbury Tales and Fairie Queene</hi>: with <hi rend="italic">Other Poems of Chaucer and Spenser</hi>. Edited for Popular Perusal (Edinburgh, 1870).</ab>
+        
         <ab type="quotation">
-          <seg>[Preceded by a Preface, mentioning that the object of the
-volume is to place before the general reader the Canterbury
-Tales and Fairie Queene in a way that will render their
-"popular perusal" easy. Followed by a Life of Chaucer and
-some remarks on his poems.]</seg>
+          <seg type="gloss">[Preceded by a Preface, mentioning that the object of the
+            volume is to place before the general reader the Canterbury
+            Tales and Fairie Queene in a way that will render their
+            "popular perusal" easy. Followed by a Life of Chaucer and
+            some remarks on his poems.]</seg>
         </ab>
       </div>
     </body>

@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/14792182">Richard Morris</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/14792182">Morris, Richard</author>
             <date cert="high" when="1872">1872</date>
             <title level="a">Old English Miscellany.</title>
           </analytic>
@@ -83,20 +83,25 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="34"/>
-        <ab type="imprint">1872. Morris, Richard. Old English Miscellany. Ed. R. Morris, E.E.T.S., pp. vii, ix.</ab>
+        
+        <ab type="imprint">1872. Morris, Richard. <hi rend="italic">Old English Miscellany</hi>. Ed. R. Morris, E.E.T.S., pp. vii, ix.</ab>
+        
+        <milestone unit="page" n="35"/>
+        
         <ab type="quotation">
-          <seg>p. vii] [Chaucer's quotation in the Nonne Preestes T. from the
-Bestiary, probably from the Latin version.]
-[p. ix] The vocabulary [of the Old Kentish Sermons] is sometimes
-remarkably modern, and such phrases as This is si GLORIUS
-MIRACLE; this is si SIGNEFIANCE of the MIRACLE, have a very
-quaint appearance on account of their composite character;
-but at the same time they clearly indicate the influence that
-Norman French exercised upon the vocabulary of the Southern
-dialect toward the end of the thirteenth century. They also
-show that Chaucer was not the sinner he has been represented
-to be, and that he did not inundate the language with French
-words that had not been in common use previous to his time.</seg>
+          <seg type="gloss"><note place="margin">[p. vii]</note>[Chaucer's quotation in the <hi rend="italic">Nonne Preestes T.</hi> from the
+            <hi rend="italic">Bestiary</hi>, probably from the Latin version.]</seg>
+            
+          <seg><note place="margin">[p. ix]</note>The vocabulary <add>[of the <hi rend="italic">Old Kentish Sermons</hi>]</add> is sometimes
+            remarkably modern, and such phrases as This is si GLORIUS
+            MIRACLE; this is si SIGNEFIANCE of the MIRACLE, have a very
+            quaint appearance on account of their composite character;
+            but at the same time they clearly indicate the influence that
+            Norman French exercised upon the vocabulary of the Southern
+            dialect toward the end of the thirteenth century. They also
+            show that Chaucer was not the sinner he has been represented
+            to be, and that he did not inundate the language with French
+            words that had not been in common use previous to his time.</seg>
         </ab>
       </div>
     </body>

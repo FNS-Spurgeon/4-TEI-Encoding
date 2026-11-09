@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/29549920">James Russell Lowell</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/29549920">Lowell, James Russell</author>
             <date cert="high" when="1871">1871</date>
             <title level="a">Pope.</title>
           </analytic>
@@ -83,12 +83,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="30"/>
-        <ab type="imprint">1871. Lowell, James Russell. Pope. Riverside edn. of Works, London 1890, vol. iv, p. 25.</ab>
+        
+        <ab type="imprint">1871. Lowell, James Russell. <hi rend="italic">Pope</hi>. Riverside edn. of Works, London 1890, vol. iv, p. 25.</ab>
+        
         <ab type="quotation">
           <seg>Thus far, among the great English poets who preceded him
-[Pope], we have seen actual life represented by Chaucer,
-imaginative by Spenser, ideal life by Shakespeare, the interior
-life by Milton.</seg>
+            <add>[Pope]</add>, we have seen actual life represented by Chaucer,
+            imaginative by Spenser, ideal life by Shakespeare, the interior
+            life by Milton.</seg>
         </ab>
       </div>
     </body>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1872, Alfred John Horwood. Report [in] Third Report of the Royal Commission on Historical Manuscripts,</title>
+        <title>1872, Alfred John Horwood. Report [in] Third Report of the Royal Commission on Historical Manuscripts.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/7470435">Alfred John Horwood</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/7470435">Horwood, Alfred John</author>
             <date cert="high" when="1872">1872</date>
-            <title level="a">Report [in] Third Report of the Royal Commission on Historical Manuscripts,</title>
+            <title level="a">Report [in] Third Report of the Royal Commission on Historical Manuscripts.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,40 +83,48 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="33"/>
-        <ab type="imprint">1872. Horwood, Alfred Report [in] Third Report of the Royal Commission on Historical Manuscripts, Appendix, London, 1872, pp. 181, 188-9, 198.</ab>
+        
+        <ab type="imprint">1872. Horwood, Alfred J. <hi rend="italic">Report</hi> [in] <hi rend="italic">Third Report of the Royal Commission on Historical Manuscripts</hi>, Appendix, London, 1872, pp. 181, 188-9, 198.</ab>
+        
         <ab type="quotation">
           <seg>The manuscripts of the Most Honourable the Marquis of
-Bath, at Longleat, Co. Wilts. . . .
-[p. 181] A 4to volume, vellum, 15th century . . . [containing
-with other non-Chaucerian pieces, The Parsones Tales].
-This, in the Table, is called the three parties of Penance. . .
-[p. 188] Folio, paper, 16th century.—The Temple of Glasse, by
-Chaucer.
-Folio, vellum, c. 1400.
-The Sege of Thebes; by John Lydgate.
-The Knight's Tale; by Chaucer.
-Grisild; by Chaucer.
-Ipomedar.
-Small folio, paper, 15th century. The outside leaves of
-each quire are vellum. This volume contains minor poems
-[p. 189] of Lydgate and Chaucer. Sixteen leaves are wanting,
-containing, as appears by the table of contents, the Flower
-and the leaf,1 and part of the Complaint of Mars, of which
-only the last 32 stanzas are here.
-The Declaration of deth of pite. . .
-The assemble of ladyes.
-The complaint of Annelada against Arcile [sic], the fals
-Theban Knight (43 stanzas) ...
-The assemble of foules.
-The ye and the hert ...
-The chorle and the birde—
-Envoy ot 8, beginning, "Go little quayer."
-Folio, paper, 15th century.—The Temple of Glasse.
-[p. 198] 1709, May 28. Oxford. Thomas Hearne to Lord Oxford:
-concerning Chaucer. [See above, 1709, Hearne. The letter
-was to John Bagford, not Lord Oxford. Oxford sub-
-sequently acquired Bagford's collections.]
-1 [Footnote] Mr. Furnivall says that no manuscript of this poem is known to exist.</seg>
+            Bath, at Longleat, Co. Wilts. . . .</seg>
+            
+          <seg><note place="margin">[p. 181]</note>A 4to volume, vellum, 15th century . . . <add>[containing
+            with other non-Chaucerian pieces, <hi rend="italic">The Parsones Tales</hi>]</add>.This, in the Table,
+            is called the three parties of Penance. . .</seg>
+            
+          <seg><note place="margin">[p. 188]</note>Folio, paper, 16th century.—The Temple of Glasse, by Chaucer.
+            
+            <milestone unit="page" n="34"/>
+            
+            <lb/>Folio, vellum, c. 1400.
+            <lb/>The Sege of Thebes; by John Lydgate.
+            <lb/>The Knight's Tale; by Chaucer.
+            <lb/>Grisild; by Chaucer.
+            <lb/>Ipomedar.
+            <lb/>Small folio, paper, 15th century. The outside leaves of
+            each quire are vellum. This volume contains minor poems
+            <note place="margin">[p. 189]</note>of Lydgate and Chaucer. Sixteen leaves are wanting,
+            containing, as appears by the table of contents, the Flower
+            and the leaf,<note type="footnote" n="1">[Footnote] Mr. Furnivall says that no manuscript of this poem is known to exist.</note> and part of the Complaint of Mars, of which
+            only the last 32 stanzas are here.
+            <lb/>The Declaration of deth of pite. . .
+            <lb/>The assemble of ladyes.
+            <lb/>The complaint of Annelada against Arcile [sic], the fals
+            <lb/>Theban Knight (43 stanzas) . . .
+            <lb/>The assemble of foules.
+            <lb/>The ye and the hert . . .
+            <lb/>The chorle and the birde—
+            <lb/>Envoy ot 8, beginning, "Go little quayer."
+            <lb/>Folio, paper, 15th century.—The Temple of Glasse.</seg>
+            
+          <seg><note place="margin">[p. 198]</note>1709, May 28. Oxford. Thomas Hearne to Lord Oxford:
+            concerning Chaucer.</seg>
+            
+          <seg type="gloss">[See above, 1709, Hearne. The letter
+            was to John Bagford, not Lord Oxford. Oxford
+            subsequently acquired Bagford's collections.]</seg>
         </ab>
       </div>
     </body>

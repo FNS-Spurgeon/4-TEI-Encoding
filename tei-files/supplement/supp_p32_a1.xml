@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1871, John Ruskin. Lectures on Landscape,</title>
+        <title>1871, John Ruskin. Lectures on Landscape.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
             <date cert="high" when="1871">1871</date>
-            <title level="a">Lectures on Landscape,</title>
+            <title level="a">Lectures on Landscape.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,20 +83,21 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="32"/>
-        <ab type="imprint">1871. Ruskin, John. Lectures on Landscape, Lecture III, Colour, (delivered 1871, published 1897). Works of Ruskin, Library edn., ed. E. T. Cook and A. Wedderburn, 1906, vol. xxii, pp. 64-5.</ab>
+        
+        <ab type="imprint">1871. Ruskin, John. <hi rend="italic">Lectures on Landscape</hi>, Lecture III, <hi rend="italic">Colour</hi>, (delivered 1871, published 1897). <hi rend="italic">Works of Ruskin</hi>, Library edn., ed. E. T. Cook and A. Wedderburn, 1906, vol. xxii, pp. 64-5.</ab>
+        
         <ab type="quotation">
           <seg>Exquisite order, and universal, with eternal, life and light,
-this is the faith and effort of the schools of Crystal; and you
-may describe and complete their work quite literally by
-taking any verses of Chaucer in his tender mood, and observ¬
-ing how he insists on the clearness and brightness first, and
-then on the order. Thus in Chaucer's "Dream":
-"Within an yle me thought I was,
-Where wall and yate was all of glasse, ...
-[to]
-That never been none seene in May."1
-1 Footnote by editors: Lines 72-85 of the poem called Chauceres Dreme, no longer,
-generally attributed to Chaucer.</seg>
+            this is the faith and effort of the schools of Crystal; and you
+            may describe and complete their work quite literally by
+            taking any verses of Chaucer in his tender mood, and observing
+            how he insists on the clearness and brightness first, and
+            then on the order. Thus in Chaucer's "Dream":
+            <l>"Within an yle me thought I was,</l>
+            <l>Where wall and yate was all of glasse, . . .</l>
+            <add>[to]</add>
+            <l>That never been none seene in May."<note type="footnote" n="1">Footnote by editors: Lines 72-85 of the poem called <hi rend="italic">Chauceres Dreme</hi>, no longer,
+            generally attributed to Chaucer.</note></l></seg>
         </ab>
       </div>
     </body>

@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/100177040">John Earle</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/100177040">Earle, John</author>
             <date cert="high" when="1871">1871</date>
             <title level="a">The Philology of the English Tongue.</title>
           </analytic>
@@ -83,36 +83,37 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="28"/>
-        <ab type="imprint">1871. Earle, John. The Philology of the English Tongue. Fourth edition, revised throughout and re-written in parts, 1887. Paragraphs 67, 73, 93, 125, 144, 155, 169, 177, 179, 200, 201, 232, 254, 264, 269, 280, 283, 292, 323, 326, 328, 336, 338, 395, 409, 423, 483, 489, 492, 535, 577, 647.</ab>
+        
+        <ab type="imprint">1871. Earle, John. <hi rend="italic">The Philology of the English Tongue</hi>. Fourth edition, revised throughout and re-written in parts, 1887. <lb/>Paragraphs 67, 73, 93, 125, 144, 155, 169, 177, 179, 200, 201, 232, 254, 264, 269, 280, 283, 292, 323, 326, 328, 336, 338, 395, 409, 423, 483, 489, 492, 535, 577, 647.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 74, par. 74]
-But it is in the writings of Chaucer and Gower that we have
-for the first time a full display of King's English. These two
-names have been coupled together all through the whole course
-of English literature. Skelton . . . joins the two names
-together. So does our literary king, James I. So have all
-writers who have had occasion to speak of the fourteenth
-century, down to the present day. . . . Thus these two names
-have grown together, and their connection is soldered by
-habit and tradition. One is apt to imagine, previous to a
-study of their works, that they were a par nobile fratrum,
-brothers and equals in poetry and genius, and that they had
-[p. 75] English literature. But this is very far from being the case.
-contributed equally, or nearly so, towards the making of
-That which united them at first, and which continues to be
-the sole ground of coupling their names together, is just this,—
-that they wrote in the same general strain and in the same
-language. By this is meant, first, that they were both versed
-in the learning then most prized, and delivered what they had
-had to say in the terms then most admired; and secondly,
-that both wrote the English of the court. If affinity of
-genius had been the basis of classification, the author of Piers
-Plowman had more right to rank with Chaucer than the
-prosaic Gower. But Chaucer and Gower are united inasmuch
-as they both wrote the particular form of English which
-became more and more established as the standard form of the
-national language, and their books were classics of the best
-society down to the opening of a new era under Elizabeth.</seg>
+          <seg><note place="margin">[p. 74, par. 74]</note>But it is in the writings of Chaucer and Gower that we have
+            for the first time a full display of King's English. These two
+            names have been coupled together all through the whole course
+            of English literature. Skelton . . . joins the two names
+            together. So does our literary king, James I. So have all
+            writers who have had occasion to speak of the fourteenth
+            century, down to the present day. . . . Thus these two names
+            have grown together, and their connection is soldered by
+            habit and tradition. One is apt to imagine, previous to a
+            study of their works, that they were a par nobile fratrum,
+            brothers and equals in poetry and genius, and that they had
+            <note place="margin">[p. 75]</note>English literature. But this is very far from being the case.
+            contributed equally, or nearly so, towards the making of
+            That which united them at first, and which continues to be
+            the sole ground of coupling their names together, is just this,—
+            that they wrote in the same general strain and in the same
+            language. By this is meant, first, that they were both versed
+            in the learning then most prized, and delivered what they had
+            had to say in the terms then most admired; and secondly,
+            that both wrote the English of the court. If affinity of
+            genius had been the basis of classification, the author of <hi rend="italic">Piers
+            Plowman</hi> had more right to rank with Chaucer than the
+            prosaic Gower. But Chaucer and Gower are united inasmuch
+            as they both wrote the particular form of English which
+            became more and more established as the standard form of the
+            national language, and their books were classics of the best
+            society down to the opening of a new era under Elizabeth.</seg>
         </ab>
       </div>
     </body>
