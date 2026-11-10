@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Frederick James Furnivall</author>
-            <date cert="high" when="1876-85">1876-85</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Furnivall, Frederick James</author>
+            <date cert="high" from="1876" to="1885">1876-85</date>
             <title level="a">Autotype Specimens of the Chief Chaucer MSS.</title>
           </analytic>
           <monogr>
@@ -83,10 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="58"/>
-        <ab type="imprint">1876-85. Furnivall, F. J. Autotype Specimens of the Chief Chaucer MSS. IV Parts, ed. for the Chaucer Society, London.</ab>
-        <ab type="quotation">
-          <seg>MSS. IV Parts, ed. for the Chaucer Society, London.</seg>
-        </ab>
+        
+        <ab type="imprint">1876-85. Furnivall, F. J. <hi rend="italic">Autotype Specimens of the Chief Chaucer MSS</hi>. IV Parts, ed. for the Chaucer Society, London.</ab>
       </div>
     </body>
   </text>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1877, Walford Dakin Selby. Two Chaucer Documents</title>
+        <title>1877, Walford Dakin Selby. Two Chaucer Documents.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/69871808">Walford Dakin Selby</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/69871808">Selby, Walford Dakin</author>
             <date cert="high" when="1877">1877</date>
-            <title level="a">Two Chaucer Documents</title>
+            <title level="a">Two Chaucer Documents.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,19 +83,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="63"/>
-        <ab type="imprint">1877. Selby, Walford D. Two Chaucer Documents [in] The Academy. Oct. 13, 1877, pp. 364-5.</ab>
+        
+        <ab type="imprint">1877. Selby, Walford D. <hi rend="italic">Two Chaucer Documents</hi> [in] <hi rend="italic">The Academy</hi>. Oct. 13, 1877, pp. 364-5.</ab>
+        
         <ab type="quotation">
-          <seg>[The discovery by Floyd of the conveyances passing the
-quit-rent of the tenement in St. Botolph Without Aldgate, by
-John and Agnes Chaucer, and Bartholomew atte Chapel and
-Agnes, to Nicholas Long, and releasing to him all right of
-dower; with the text of the documents. The chief points
-deduced are—
-1. The date of John Chaucer's death, to within a year.
-2. The re-marriage of Agnes Chaucer.
-3. A Chaucer seal different from any seal hitherto found.
-Ou the documents see A. A. Kern: The Ancestry of Chaucer,
-pp. 95, 97.]</seg>
+          <seg type="gloss">[The discovery by Floyd of the conveyances passing the
+            quit-rent of the tenement in St. Botolph Without Aldgate, by
+            John and Agnes Chaucer, and Bartholomew atte Chapel and
+            Agnes, to Nicholas Long, and releasing to him all right of
+            dower; with the text of the documents. The chief points
+            deduced are—
+            <list>
+              <item>1. The date of John Chaucer's death, to within a year.</item>
+              <item>2. The re-marriage of Agnes Chaucer.</item>
+              <item>3. A Chaucer seal different from any seal hitherto found.</item>
+            </list>
+            On the documents see A. A. Kern: <hi rend="italic">The Ancestry of Chaucer</hi>, pp. 95, 97.]</seg>
         </ab>
       </div>
     </body>

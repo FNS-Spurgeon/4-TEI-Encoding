@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/20046552">William Davenport Adams</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/20046552">Adams, William Davenport</author>
             <date cert="high" when="1878">1878</date>
             <title level="a">[in] Dictionary of English Literature: a Comprehensive Guide to English Authors and their Works.</title>
           </analytic>
@@ -83,13 +83,15 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="64"/>
-        <ab type="imprint">1878. Adams, William Davenport [in] Dictionary of English Literature: a Comprehensive Guide to English Authors and their Works. </ab>
+        
+        <ab type="imprint">1878. Adams, William Davenport [in] <hi rend="italic">Dictionary of English Literature</hi>: a Comprehensive Guide to English Authors and their Works. </ab>
+        
         <ab type="quotation">
-          <seg>[Contains certain biographical particulars, the titles of
-Chaucer's leading works, notices of standard biography and
-criticism, and critical extracts illustrative of the distinctive
-characteristics of the works which appear under their relative
-alphabetical letter.]</seg>
+          <seg type="gloss">[Contains certain biographical particulars, the titles of
+            Chaucer's leading works, notices of standard biography and
+            criticism, and critical extracts illustrative of the distinctive
+            characteristics of the works which appear under their relative
+            alphabetical letter.]</seg>
         </ab>
       </div>
     </body>

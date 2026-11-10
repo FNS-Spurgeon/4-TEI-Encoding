@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1878, Frederick James Furnivall. Letter [in] Academy,</title>
+        <title>1878, [Frederick James Furnivall?]. Letter [in] Academy.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="low" role="M" ref="http://viaf.org/viaf/71467450">Frederick James Furnivall</author>
+            <author cert="low" role="M" ref="http://viaf.org/viaf/71467450">Furnivall, Frederick James</author>
             <date cert="high" when="1878">1878</date>
-            <title level="a">Letter [in] Academy,</title>
+            <title level="a">Letter [in] Academy.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="64"/>
-        <ab type="imprint">1878. Furnivall, F. J. (?) Letter [in] Academy, Jan. 19 (dated Jan. 12), on "The Date of the Flower and the Leaf."</ab>
+        
+        <ab type="imprint">1878. Furnivall, F. J. (?) <hi rend="italic">Letter</hi> [in] <hi rend="italic">Academy</hi>, Jan. 19 (dated Jan. 12), on "The Date of the <hi rend="italic">Flower and the Leaf</hi>."</ab>
       </div>
     </body>
   </text>

@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/4951293">Alfred William Pollard</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4951293">Pollard, Alfred William</author>
             <date cert="high" when="1875">1875</date>
             <title level="a">Chaucer. An Account of his Lief and Work.</title>
           </analytic>
@@ -83,7 +83,12 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="56"/>
-        <ab type="imprint">1875. Pollard, Alfred William. Chaucer. An Account of his Lief and Work. [Literature Primers, general editor, J. R. Green.].</ab>
+        
+        <ab type="imprint">1875. Pollard, Alfred William. <hi rend="italic">Chaucer. An Account of his Lief and Work.</hi></ab>
+        
+        <ab type="quotation">
+          <seg type="gloss">[Literature Primers, general editor, J. R. Green.].</seg>
+        </ab>
       </div>
     </body>
   </text>

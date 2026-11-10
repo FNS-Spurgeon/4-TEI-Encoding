@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Frederick James Furnivall</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/71467450">Furnivall, Frederick James</author>
             <date cert="high" when="1877">1877</date>
-            <title level="a">Criticism in Academy,</title>
+            <title level="a">Criticism in Academy.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="60"/>
-        <ab type="imprint">1877. Furnivall, F. J. Criticism in Academy, Dec. 8, pp. 525-6, of F. G. Fleay's Guide to Chaucer and Spenser.</ab>
+        
+        <ab type="imprint">1877. Furnivall, F. J. <hi rend="italic">Criticism</hi> in <hi rend="italic">Academy</hi>, Dec. 8, pp. 525-6, of F. G. Fleay's <hi rend="italic">Guide to Chaucer and Spenser</hi>.</ab>
       </div>
     </body>
   </text>

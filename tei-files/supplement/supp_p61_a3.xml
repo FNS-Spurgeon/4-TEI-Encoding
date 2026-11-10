@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19804263">Thomas Lounsbury</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19804263">Lounsbury, Thomas</author>
             <date cert="high" when="1877">1877</date>
             <title level="a">The Parlament of Foules by Geoffrey Chaucer.</title>
           </analytic>
@@ -83,6 +83,7 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="61"/>
+        
         <ab type="imprint">1877. Lounsbury, T. R. The Parlament of Foules by Geoffrey Chaucer. Edited, with Introduction, Notes, and Glossary, by T. R. Lounsbury. Boston, 1877.</ab>
       </div>
     </body>
