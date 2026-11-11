@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/14867502">Francis Turner Palgrave</author>
-            <date cert="high" when="18">1880</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/14867502">Palgrave, Francis Turner</author>
+            <date cert="high" when="1880">1880</date>
             <title level="a">The Visions of England.</title>
           </analytic>
           <monogr>
@@ -83,75 +83,114 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="80"/>
-        <ab type="imprint">1880. Palgrave, Francis Turner. The Visions of England. Fifty copies printed, 1880, pp. 36-39.</ab>
+        
+        <ab type="imprint">1880. Palgrave, Francis Turner. <hi rend="italic">The Visions of England</hi>. Fifty copies printed, 1880, pp. 36-39.</ab>
+        
         <ab type="quotation">
-          <seg>THE PILGRIM AND THE PLOUGHMAN:
-[stanza 3] Beyond the bridge a mazy forest swims,
-1382 . . .
-Great sails and spars and flame-tongued flags on high,
-Wedged ronnd the quays, a-throng with ruddy limbs
-And faces bronzed beneath another sky:
-And 'mid the press sits one with aspect shy
-And downcast eyes of watching, and, the while,
-The deep observance of an inward smile.
-In hooded mantle gray he smiled and sate,
-With ink-horn at his knees and scroll and pen,
-And took the toll and register'd the freight,
-'Mid noise of clattering cranes and strife of men:
-And all that moved and spoke was in his ken,
-In hues and lines like Nature's own design'd
-Within the magic mirror of his mind.
-Thence oft, returning homeward, on the book,—
-His of Certaldo, or the bard whose lays
-Were lost to love in Scythia,—he would look
-Till his fix'd eyes the dancing letters daze:
-Then forth to the near fields, and feed his gaze
-On one fair flower in starry myriads spread,
-And in her graciousness be comforted:—
-Then, joyous with a poet's joy, to draw
-With genial touch, and strokes of patient skill,
-The very image of each thing he saw :—
-He limn'd the man all round, for good or ill,
-Having both sighs and laughter at his will;
-And picture-like his soul the world survey'd,
-Yet stood outside the picture that he made.
-—Man's inner passions in their conscience-strife,
-The conflicts of the heart against the heart,
-The mother yearning o'er the infant's life,
-The maiden wrong'd by wealth and lecherous art,
-The leper's loathsome cell from man apart
-War's savage lust and fire, the village woe,
-The tinsel chivalry veiling shame below,—
-Not his to draw,—to see, perhaps:—Our eyes
-Hold bias with our humour:— His, to paint
-With Nature's freshness, what before him lies:
-The knave, the fool; the frolicsome, the quaint:
-His the broad jest, the laugh without restraint,
-The ready tears, the spirit lightly moved;
-Loving his world, and by his world beloved.
-So forth fared Chaucer on his pilgrimage
-Through England's humours; in immortal song
-Bodying the form and pressure of his age,
-Tints gay as pure, and delicate as strong;
-Still to the Tabard the blithe travellers throng,
-Seen in his mind so vividly, that we
-Know them more nearly than the men we see.
-Fair France, bright Italy those numbers train'd;
-First in his pages Nature wedding Art
-Of all our sons of song ; yet he remain'd
-True English of the English at his heart:—
-He stood between two worlds, yet had no part
-In that new order of the dawning day
-Which swept his realm of chivalry away.
-. . . . . . . . . .
-[stanza 14, Then on the mead in vision Langland saw
-p. 38]
-A pilgrim throng; not missal-bright as those
-Whom Chaucer's hand surpass'd itself to draw,
-Gay as the lark, and brilliant as the rose;—
-But such as dungeon foul or spital shows,
-Or the serf's fever-den, or field of fight,
-When festering sunbeams on the wounded smite.</seg>
+          <seg>
+            <lg>
+              <head>
+                THE PILGRIM AND THE PLOUGHMAN:
+                <lb/>1382 . . .
+              </head>
+              
+              <lg>
+                <note place="margin">[stanza 3]</note><l>Beyond the bridge a mazy forest swims,</l>
+                <l>Great sails and spars and flame-tongued flags on high,</l>
+                <l>Wedged ronnd the quays, a-throng with ruddy limbs</l>
+                <l>And faces bronzed beneath another sky:</l>
+                <l>And 'mid the press sits one with aspect shy</l>
+                <l>And downcast eyes of watching, and, the while,</l>
+                <l>The deep observance of an inward smile.</l>
+              </lg>
+              
+              <lg>
+                <l>In hooded mantle gray he smiled and sate,</l>
+                <l>With ink-horn at his knees and scroll and pen,</l>
+                <l>And took the toll and register'd the freight,</l>
+                <l>'Mid noise of clattering cranes and strife of men:</l>
+                <l>And all that moved and spoke was in his ken,</l>
+                <l>In hues and lines like Nature's own design'd</l>
+                <l>Within the magic mirror of his mind.</l>
+              </lg>
+              
+              <lg>
+                <l>Thence oft, returning homeward, on the book,—</l>
+                <l>His of Certaldo, or the bard whose lays</l>
+                <l>Were lost to love in Scythia,—he would look</l>
+                <l>Till his fix'd eyes the dancing letters daze:</l>
+                <l>Then forth to the near fields, and feed his gaze</l>
+                <l>On one fair flower in starry myriads spread,</l>
+                <l>And in her graciousness be comforted:—</l>
+              </lg>
+              
+              <milestone unit="page" n="81"/>
+              
+              <lg>
+                <l>Then, joyous with a poet's joy, to draw</l>
+                <l>With genial touch, and strokes of patient skill,</l>
+                <l>The very image of each thing he saw :—</l>
+                <l>He limn'd the man all round, for good or ill,</l>
+                <l>Having both sighs and laughter at his will;</l>
+                <l>And picture-like his soul the world survey'd,</l>
+                <l>Yet stood outside the picture that he made.</l>
+              </lg>
+              
+              <lg>
+                <l>—Man's inner passions in their conscience-strife,</l>
+                <l>The conflicts of the heart against the heart,</l>
+                <l>The mother yearning o'er the infant's life,</l>
+                <l>The maiden wrong'd by wealth and lecherous art,</l>
+                <l>The leper's loathsome cell from man apart</l>
+                <l>War's savage lust and fire, the village woe,</l>
+                <l>The tinsel chivalry veiling shame below,—</l>
+              </lg>
+              
+              <lg>
+                <l>Not his to draw,—to see, perhaps:—Our eyes</l>
+                <l>Hold bias with our humour:— His, to paint</l>
+                <l>With Nature's freshness, what before him lies:</l>
+                <l>The knave, the fool; the frolicsome, the quaint:</l>
+                <l>His the broad jest, the laugh without restraint,</l>
+                <l>The ready tears, the spirit lightly moved;</l>
+                <l>Loving his world, and by his world beloved.</l>
+              </lg>
+              
+              <lg>
+                <l>So forth fared Chaucer on his pilgrimage</l>
+                <l>Through England's humours; in immortal song</l>
+                <l>Bodying the form and pressure of his age,</l>
+                <l>Tints gay as pure, and delicate as strong;</l>
+                <l>Still to the Tabard the blithe travellers throng,</l>
+                <l>Seen in his mind so vividly, that we</l>
+                <l>Know them more nearly than the men we see.</l>
+              </lg>
+              
+              <lg>
+                <l>Fair France, bright Italy those numbers train'd;</l>
+                <l>First in his pages Nature wedding Art</l>
+                <l>Of all our sons of song ; yet he remain'd</l>
+                <l>True English of the English at his heart:—</l>
+                <l>He stood between two worlds, yet had no part</l>
+                <l>In that new order of the dawning day</l>
+                <l>Which swept his realm of chivalry away.
+                  <lb/>. . . . . . . . . .</l>
+              </lg>
+              
+              <lg>
+                <note place="margin">[stanza 14, p. 38]</note><l>Then on the mead in vision Langland saw</l>
+                <l>A pilgrim throng; not missal-bright as those</l>
+                <l>Whom Chaucer's hand surpass'd itself to draw,</l>
+                <l>Gay as the lark, and brilliant as the rose;—</l>
+                
+                <milestone unit="page" n="82"/>
+                
+                <l>But such as dungeon foul or spital shows,</l>
+                <l>Or the serf's fever-den, or field of fight,</l>
+                <l>When festering sunbeams on the wounded smite.</l>
+              </lg>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

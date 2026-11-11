@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1880, Frederick James Furnivall. Note under Notes and News,</title>
+        <title>1880, [Frederick James Furnivall]. Note under Notes and News.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="M" ref="http://viaf.org/viaf/71467450">Frederick James Furnivall</author>
-            <date cert="high" when="18">1880</date>
-            <title level="a">Note under Notes and News,</title>
+            <author cert="medium" role="M" ref="http://viaf.org/viaf/71467450">Furnivall, Frederick James</author>
+            <date cert="high" when="1880">1880</date>
+            <title level="a">Note under Notes and News.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,15 +83,17 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="78"/>
-        <ab type="imprint">1880. [Furnivall, F. J.] Note under Notes and News, [in] The Academy, London, 26th June, vol. xvii, p. 472.</ab>
+        
+        <ab type="imprint">1880. [Furnivall, F. J.] <hi rend="italic">Note under Notes and News</hi>, [in] <hi rend="italic">The Academy</hi>, London, 26th June, vol. xvii, p. 472.</ab>
+        
         <ab type="quotation">
-          <seg>[Referring to a quarto volume of MS. acquired by Prof.
-Dowden, lettered "Chaucer's Canterbury Tales Modernised,
-Vol. 2." Neither the writer's name nor that of any former
-owner appears in the volume. The water-mark of the paper
-is 1811. An extract given from the "Prioresse Tale" is
-given. Query: Where is the first volume of this nineteenth
-century Chaucer to be found ?]</seg>
+          <seg type="gloss">[Referring to a quarto volume of MS. acquired by Prof.
+            Dowden, lettered "Chaucer's Canterbury Tales Modernised,
+            Vol. 2." Neither the writer's name nor that of any former
+            owner appears in the volume. The water-mark of the paper
+            is 1811. An extract given from the "Prioresse Tale" is
+            given. Query: Where is the first volume of this nineteenth
+            century Chaucer to be found ?]</seg>
         </ab>
       </div>
     </body>

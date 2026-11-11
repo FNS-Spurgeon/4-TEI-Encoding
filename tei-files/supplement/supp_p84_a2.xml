@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1880, Unknown.. Chaucer and his Circle</title>
+        <title>1880, Unknown. Chaucer and his Circle.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author>Unknown.</author>
-            <date cert="high" when="18">1880</date>
-            <title level="a">Chaucer and his Circle</title>
+            <author>Unknown</author>
+            <date cert="high" when="1880">1880</date>
+            <title level="a">Chaucer and his Circle.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,42 +83,52 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="84"/>
-        <ab type="imprint">1880. Unknown. Chaucer and his Circle [in] The Catholic World, August 1880, vol. xxxi, pp. 695-710.</ab>
+        
+        <ab type="imprint">1880. Unknown. <hi rend="italic">Chaucer and his Circle</hi> [in] <hi rend="italic">The Catholic World</hi>, August 1880, vol. xxxi, pp. 695-710.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 686] Chaucer's eternal freshness is a relief after the faded
-studio properties of the modern school [Morris, Swinburne
-and Rossetti], and a ramble in his fields,
-"All full of freshest flowers, white and red,"
-the best remedy for the poetical scarlet-fever that has
-afflicted us. . . .
-[p. 697] An impartial examination of the portions ot his writings
-which induced even the amiable Miss Mitford to applaud
-him for his Protestant tendencies will show that Chaucer,
-like all true Catholics of his time, saw that pride and luxury
-sloth and simony, hiding under the desecrated cloak of
-religion, were separating the threads of the sacred garment. ...
-Like most poets, Chaucer demanded more of the ideal
-from the world than he was willing to give himself. His
-airy ridicule often played about abuses more for wanton¬
-ness than from any desire to mend them. Vice was
-picturesque, and, while deploring it, he could not help
-enjoying, from an art point of view, its colors and half-tints. ...
-[More showing that Chaucer was not Protestant.]
-[p. 700] Although Chaucer, as well as Dante, shaped his language
-—beat and crushed gold out of the ore—yet the rich cadences
-of the Florentine cause the Englishman's lines to seem weak
-and rugged. It is a bagpipe to an organ. The English of
-Tennyson—refined by five centuries—has gained much, and
-[p. 701] the Italian of Dante will never gain more than he gave it;
-but, in spite of the roughness of Chaucer's medium, there is
-a purity and melody in it which has never been successfully
-imitated. It is liquid, translucent. There is a directness
-and simplicity about Chaucer to which the higher and more
-serious poet never attained. . . .
-[Instances from Troilus. On Chaucer's pathos; his
-indebtedness to trouvères and Italians; the modernizations
-of Pope and Dryden inferior to him, p. 704. Then follow
-accounts of Gower, Lydgate, Occleve, Henryson, and James I.]</seg>
+          <seg><note place="margin">[p. 686]</note>Chaucer's eternal freshness is a relief after the faded
+            studio properties of the modern school <add>[Morris, Swinburne
+            and Rossetti]</add>, and a ramble in his fields,
+            "All full of freshest flowers, white and red,"
+            the best remedy for the poetical scarlet-fever that has
+            afflicted us. . . .</seg>
+            
+          <seg><note place="margin">[p. 697]</note>An impartial examination of the portions ot his writings
+            which induced even the amiable Miss Mitford to applaud
+            him for his Protestant tendencies will show that Chaucer,
+            like all true Catholics of his time, saw that pride and luxury
+            sloth and simony, hiding under the desecrated cloak of
+            religion, were separating the threads of the sacred garment. . . .</seg>
+            
+          <seg>Like most poets, Chaucer demanded more of the ideal
+            from the world than he was willing to give himself. His
+            airy ridicule often played about abuses more for wantonness
+            than from any desire to mend them. Vice was
+            picturesque, and, while deploring it, he could not help
+            
+            <milestone unit="page" n="85"/>
+            
+            enjoying, from an art point of view, its colors and half-tints. . . .</seg>
+            
+          <seg type="gloss">[More showing that Chaucer was not Protestant.]</seg>
+            
+          <seg><note place="margin">[p. 700]</note>Although Chaucer, as well as Dante, shaped his language
+            —beat and crushed gold out of the ore—yet the rich cadences
+            of the Florentine cause the Englishman's lines to seem weak
+            and rugged. It is a bagpipe to an organ. The English of
+            Tennyson—refined by five centuries—has gained much, and
+            <note place="margin">[p. 701]</note>the Italian of Dante will never gain more than he gave it;
+            but, in spite of the roughness of Chaucer's medium, there is
+            a purity and melody in it which has never been successfully
+            imitated. It is liquid, translucent. There is a directness
+            and simplicity about Chaucer to which the higher and more
+            serious poet never attained. . . .</seg>
+            
+          <seg type="gloss">[Instances from <hi rend="italic">Troilus</hi>. On Chaucer's pathos; his
+            indebtedness to trouvères and Italians; the modernizations
+            of Pope and Dryden inferior to him, p. 704. Then follow
+            accounts of Gower, Lydgate, Occleve, Henryson, and James I.]</seg>
         </ab>
       </div>
     </body>

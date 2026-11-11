@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/59947497">Mary Eliza Haweis</author>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/59947497">Haweis, Mary Eliza</author>
             <date cert="high" when="1881">1881</date>
             <title level="a">Chaucer for Schools.</title>
           </analytic>
@@ -83,20 +83,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="87"/>
-        <ab type="imprint">1881. Haweis, Mrs. H. R. Chaucer for Schools. London, 1881.</ab>
+        
+        <ab type="imprint">1881. Haweis, Mrs. H. R. <hi rend="italic">Chaucer for Schools</hi>. London, 1881.</ab>
+        
         <ab type="quotation">
-          <seg>[Contents:—Forewords. Glimpses in Chaucer. Accent of
-Chaucer. Table of Historical Events. Principal Authorities
-Consulted. Chaucer the Tale-teller:—Chaucer's Time, Work,
-Home, London, Appearance, Court Life, Position, Prosperity,
-Adversity, Politics, Life-work, Speech. Canterbury Tales:—
-Chaucer's Pilgrims, Chaucer's Prologue, The Knight's Tale,
-The Clerk's Tale, The Monk's Tale, The Nun's Priest's
-Tale, The Man of Law's Tale, The Pardoner's Tale. Minor
-Poems:—Good Counsel of Chaucer, A Balade of Gentilnesse,
-Two Rondeaux, Proverbs of Chaucer, Virelai, Complaint of
-Chaucer to his Purse. Fragments:—The Daisy, A Vision of
-a Garden, The Sea-Fight, Antony and Cleopatra.]</seg>
+          <seg type="gloss">[Contents:—<hi rend="italic">Forewords</hi>. Glimpses in Chaucer. Accent of
+            Chaucer. <hi rend="italic">Table of Historical Events</hi>. <hi rend="italic">Principal Authorities
+            Consulted</hi>. <hi rend="italic">Chaucer the Tale-teller</hi>:—Chaucer's Time, Work,
+            Home, London, Appearance, Court Life, Position, Prosperity,
+            Adversity, Politics, Life-work, Speech. <hi rend="italic">Canterbury Tales</hi>:—
+            Chaucer's Pilgrims, Chaucer's Prologue, The Knight's Tale,
+            The Clerk's Tale, The Monk's Tale, The Nun's Priest's
+            Tale, The Man of Law's Tale, The Pardoner's Tale. <hi rend="italic">Minor
+            Poems</hi>:—Good Counsel of Chaucer, A Balade of Gentilnesse,
+            Two Rondeaux, Proverbs of Chaucer, Virelai, Complaint of
+            Chaucer to his Purse. <hi rend="italic">Fragments</hi>:—The Daisy, A Vision of
+            a Garden, The Sea-Fight, Antony and Cleopatra.]</seg>
         </ab>
       </div>
     </body>

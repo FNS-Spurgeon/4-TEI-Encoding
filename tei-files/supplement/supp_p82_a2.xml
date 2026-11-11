@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
-            <date cert="high" when="18">1880</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
+            <date cert="high" when="1880">1880</date>
             <title level="a">Note to Chapter II, § 10 of The Seven Lamps of Architecture.</title>
           </analytic>
           <monogr>
@@ -83,38 +83,47 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="82"/>
-        <ab type="imprint">1880. Ruskin, John. Note to Chapter II, § 10 of The Seven Lamps of Architecture. Works of Ruskin, Library edn., ed. E. T. Cook and A. Wedderburn, 1903, vol. viii, pp. 67, 269-70.</ab>
+        
+        <ab type="imprint">1880. Ruskin, John. Note to Chapter II, § 10 of <hi rend="italic">The Seven Lamps of Architecture. Works of Ruskin</hi>, Library edn., ed. E. T. Cook and A. Wedderburn, 1903, vol. viii, pp. 67, 269-70.</ab>
+        
         <ab type="quotation">
-          <seg>[On the lines: "It may be perhaps permitted me to
-assume that true architecture does not admit iron as a con¬
-structive material," Ruskin says:]
-[p. 269] — Except in Chaucer's noble temple of Mars.
-. . . . . . . . . .
-In the former editions, a note on the structural use of iron
-quoted Chaucer's description of the temple of Mars; but only
-in the Chaucer English, which few readers quite understand,
-and which I certainly do not always myself. I re-write it now
-in as familiar spelling as may be, with a little bit of needful
-explanation.
-"And downward from a hill under a bent
-There stood the temple of Mars armipotent,
-Wrought all of burnëd steel . . .
-Every pillar, the temple to sustene,
-[p. 270]
-14. Was tun-great, of iron bright and sheene.
-(The Knight's Tale, l. 1983 of "The Canterbury Tales."
-[Some verbal annotations follow, the last of which is :]
-Note, finally, the absolute carelessness of all great poets,
-whether their images be common or not,—so only they be
-clear.
-There is, by-the-bye, an exquisite piece of architectural
-colour just before:
-And northward, in a turret on the wall
-Of alabaster white, and red corall
-An oratorie riche for to see,
-In worship of Diane of Chastitee.
-[These notes replaced some older ones in the editions or 1849 and 1855: see under
-1849.]</seg>
+          <seg type="gloss">[On the lines: "It may be perhaps permitted me to
+            assume that true architecture does not admit iron as a
+            constructive material," Ruskin says:]</seg>
+            
+          <seg><note place="margin">[p. 269]</note>—Except in Chaucer's noble temple of Mars.
+            <lb/>. . . . . . . . . .</seg>
+            
+          <seg>In the former editions, a note on the structural use of iron
+            quoted Chaucer's description of the temple of Mars; but only
+            in the Chaucer English, which few readers quite understand,
+            and which I certainly do not always myself. I re-write it now
+            in as familiar spelling as may be, with a little bit of needful
+            explanation.
+            <lg>
+              <l>"And downward from a hill under a bent</l>
+              <l>There stood the temple of Mars armipotent,</l>
+              <l>Wrought all of burnëd steel . . .</l>
+              <note place="margin">[p. 270]</note><l>Every pillar, the temple to sustene,</l>
+              <l>14. Was tun-great, of iron bright and sheene.</l>
+            </lg>
+            (<hi rend="italic">The Knight's Tale</hi>, l. 1983 of "<hi rend="italic">The Canterbury Tales</hi>.")</seg>
+            
+          <seg type="gloss">[Some verbal annotations follow, the last of which is:]</seg>
+            
+          <seg>Note, finally, the absolute carelessness of all great poets,
+            whether their images be common or not,—so only they be clear.
+            <lb/>There is, by-the-bye, an exquisite piece of architectural
+            colour just before:
+            <lg>
+              <l>And northward, in a turret on the wall</l>
+              <l>Of alabaster white, and red corall</l>
+              <l>An oratorie riche for to see,</l>
+              <l>In worship of Diane of Chastitee.</l>
+            </lg>
+          </seg>
+            
+          <seg type="editorialNote">[These notes replaced some older ones in the editions or 1849 and 1855: see under 1849.]</seg>
         </ab>
       </div>
     </body>
