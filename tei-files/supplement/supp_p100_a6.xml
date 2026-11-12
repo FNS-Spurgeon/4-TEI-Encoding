@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/22279835">Charles Knight</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/22279835">Knight, Charles</author>
             <date cert="high" when="1885">1885</date>
             <title level="a">Half-Hours with the Best Authors.</title>
           </analytic>
@@ -49,7 +49,7 @@
               <publisher>University Press</publisher>
               <date>1925</date>
             </imprint>
-            <biblScope unit="volume">p</biblScope>
+            <biblScope unit="volume">Supplement</biblScope>
             <biblScope unit="part"></biblScope>
             <biblScope unit="page">100</biblScope>
           </monogr>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="100"/>
-        <ab type="imprint">1885. Knight, Charles. Half-Hours with the Best Authors. Chandos edition, vol. iii, pp. 284-291 [Extract from Godwin's “Life of Geoffrey Chaucer” headed] London in the Time of Chaucer.</ab>
+        
+        <ab type="imprint">1885. Knight, Charles. <hi rend="italic">Half-Hours with the Best Authors</hi>. Chandos edition, vol. iii, pp. 284-291 [Extract from Godwin's “Life of Geoffrey Chaucer” headed] London in the Time of Chaucer.</ab>
       </div>
     </body>
   </text>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1884, Mary Eliza Haweis. Chaucer's Beads, A Birthday Book, Diary and Concordance of Chaucer's Poems or Sooth Saws. London.</title>
+        <title>1884, Mary Eliza Haweis. Chaucer's Beads, A Birthday Book, Diary and Concordance of Chaucer's Poems or Sooth Saws.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="medium" role="F" ref="http://viaf.org/viaf/59947497">Mary Eliza Haweis</author>
+            <author cert="medium" role="F" ref="http://viaf.org/viaf/59947497">Haweis, Mary Eliza</author>
             <date cert="high" when="1884">1884</date>
-            <title level="a">Chaucer's Beads, A Birthday Book, Diary and Concordance of Chaucer's Poems or Sooth Saws. London.</title>
+            <title level="a">Chaucer's Beads, A Birthday Book, Diary and Concordance of Chaucer's Poems or Sooth Saws.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,20 +83,22 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="97"/>
-        <ab type="imprint">1884. Haweis, Mrs. [M. E.] Chaucer's Beads, A Birthday Book, Diary and Concordance of Chaucer's Poems or Sooth Saws. London. </ab>
+        
+        <ab type="imprint">1884. Haweis, Mrs. [M. E.] <hi rend="italic">Chaucer's Beads, A Birthday Book, Diary and Concordance of Chaucer's Poems or Sooth Saws. London.</hi></ab>
+        
         <ab type="quotation">
-          <seg>[Contains Forewords, pp. v-xi; Proverbs in Troilus and
-Cressida, Legend of Good Women, Cuckoo and the Nightin¬
-gale, The House of Fame, The Parliament of Birds, The Book
-of the Duchess, Envoy à Scogan, The Ballad of Gentilesse,
-The Canterbury Tales, Anelida and False Arcite, Ballad of
-Good Counsel, The Complaint of Mars and Venus, Proverbs of
-Chaucer, Envoy de Chaucer à Bukton; Proverbs in Romance
-of the Rose (doubtful), Appendix and Index. Tyrwhitt's
-version is used because it "is the easiest in spelling, and best
-suited for what is merely a small popular book." Each day
-a Chaucer proverb, with literal meaning and equivalent is
-given.]</seg>
+          <seg type="gloss">[Contains <hi rend="italic">Forewords</hi>, pp. v-xi; Proverbs in <hi rend="italic">Troilus and
+            Cressida</hi>, <hi rend="italic">Legend of Good Women</hi>, <hi rend="italic">Cuckoo and the Nightingale</hi>,
+            <hi rend="italic">The House of Fame</hi>, <hi rend="italic">The Parliament of Birds</hi>, <hi rend="italic">The Book
+            of the Duchess</hi>, <hi rend="italic">Envoy à Scogan</hi>, <hi rend="italic">The Ballad of Gentilesse</hi>,
+            <hi rend="italic">The Canterbury Tales</hi>, <hi rend="italic">Anelida and False Arcite</hi>, <hi rend="italic">Ballad of
+            Good Counsel</hi>, <hi rend="italic">The Complaint of Mars and Venus</hi>, <hi rend="italic">Proverbs of
+            Chaucer</hi>, <hi rend="italic">Envoy de Chaucer à Bukton</hi>; Proverbs in <hi rend="italic">Romance
+            of the Rose</hi> (doubtful), Appendix and Index. Tyrwhitt's
+            version is used because it "is the easiest in spelling, and best
+            suited for what is merely a small popular book." Each day
+            a Chaucer proverb, with literal meaning and equivalent is
+            given.]</seg>
         </ab>
       </div>
     </body>

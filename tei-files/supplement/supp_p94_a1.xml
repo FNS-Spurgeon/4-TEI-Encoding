@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/159027951">John Koch</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/159027951">Koch, John</author>
             <date cert="high" when="1883">1883</date>
             <title level="a">A Critical Edition of some of Chaucer's 'Minor Poems.'</title>
           </analytic>
@@ -83,16 +83,17 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="94"/>
-        <ab type="imprint">1883. Koch, John. A Critical Edition of some of Chaucer's 'Minor Poems.' Berlin, 1883.</ab>
+        
+        <ab type="imprint">1883. Koch, John. <hi rend="italic">A Critical Edition of some of Chaucer's 'Minor Poems.'</hi> Berlin, 1883.</ab>
+        
         <ab type="quotation">
-          <seg>[An Introduction treating of the orthography, etc., of the
-early MSS of Chaucer's Works is followed by a collated text
-of I. An ABC. II. Chaucers Wordes vn-to Adam, his owen
-Scriveyn. III. The Former Age. IV. Fortune. V. Truth.
-VI. Gentilesse. VII. Lack of Stedfastnesse. VIII. Lenvoy
-de Chaucer a Bukton. IX. Lenvoy de Chaucer a Scogan.
-X. La Compleinte de Chaucer a sa Bourse Voide, with notes
-on each.]</seg>
+          <seg type="gloss">[An Introduction treating of the orthography, etc., of the
+            early MSS of Chaucer's Works is followed by a collated text
+            of I. <hi rend="italic">An ABC</hi>. II. <hi rend="italic">Chaucers Wordes vn-to Adam, his owen
+            Scriveyn</hi>. III. <hi rend="italic">The Former Age</hi>. IV. <hi rend="italic">Fortune</hi>. V. <hi rend="italic">Truth</hi>.
+            VI. <hi rend="italic">Gentilesse</hi>. VII. <hi rend="italic">Lack of Stedfastnesse</hi>. VIII. <hi rend="italic">Lenvoy
+            de Chaucer a Bukton</hi>. IX. <hi rend="italic">Lenvoy de Chaucer a Scogan</hi>.
+            X. <hi rend="italic">La Compleinte de Chaucer a sa Bourse Voide</hi>, with notes on each.]</seg>
         </ab>
       </div>
     </body>

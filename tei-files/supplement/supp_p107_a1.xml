@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1887, Marshall, J., Porter, L. and Skeat, W. W.. Index to the manuscript texts of Chaucer's Minor Poems.</title>
+        <title>1887, J. Marshall, Lela Porter and Walter William Skeat. Index to the manuscript texts of Chaucer's Minor Poems.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Marshall, J., Porter, L. and Skeat, W. W.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Marshall, J.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/394978">Porter, Lela</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
             <date cert="high" when="1887">1887</date>
             <title level="a">Index to the manuscript texts of Chaucer's Minor Poems.</title>
           </analytic>
@@ -49,7 +51,7 @@
               <publisher>University Press</publisher>
               <date>1925</date>
             </imprint>
-            <biblScope unit="volume">p</biblScope>
+            <biblScope unit="volume">Supplement</biblScope>
             <biblScope unit="part"></biblScope>
             <biblScope unit="page">107</biblScope>
           </monogr>
@@ -83,7 +85,12 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="107"/>
-        <ab type="imprint">1887. Marshall, J., Porter, L. and Skeat, W. W. Index to the manuscript texts of Chaucer's Minor Poems. By Miss I. Marshall and Miss L. Porter. With an introduction and an appendix of ryme-indexes to some spurious poems... by W. W. Skeat.</ab>
+        
+        <ab type="imprint">1887. Marshall, J., Porter, L. and Skeat, W. W. <hi rend="italic">Index to the manuscript texts of Chaucer's Minor Poems</hi>. By Miss I. Marshall and Miss L. Porter. With an introduction and an appendix of ryme-indexes to some spurious poems... by W. W. Skeat.</ab>
+        
+        <ab type="quotation">
+          <seg type="editorialNote">[For use with the Parallel-Text edition, Chaucer Society, and reissued in 1889 for use with the One-Text edition.]</seg>
+        </ab>
       </div>
     </body>
   </text>

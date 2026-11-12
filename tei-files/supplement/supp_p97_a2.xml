@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>a. 1884, William Carew Hazlitt. Offspring of Thought in Solitude, Modern Essays,</title>
+        <title>a. 1884, William Carew Hazlitt. Offspring of Thought in Solitude, Modern Essays.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/5007987">William Carew Hazlitt</author>
-            <date cert="high" when="a. 1884">a. 1884</date>
-            <title level="a">Offspring of Thought in Solitude, Modern Essays,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/5007987">Hazlitt, William Carew</author>
+            <date cert="high" notAfter="1884">a. 1884</date>
+            <title level="a">Offspring of Thought in Solitude, Modern Essays.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,26 +83,31 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="97"/>
-        <ab type="imprint">a. 1884. Hazlitt, W. Carew. Offspring of Thought in Solitude, Modern Essays, London, 1884, pp. 81, 92-93, 94, 168, 237, 272, 334.</ab>
+        
+        <ab type="imprint">a. 1884. Hazlitt, W. Carew. <hi rend="italic">Offspring of Thought in Solitude</hi>, <hi rend="italic">Modern Essays</hi>, London, 1884, pp. 81, 92-93, 94, 168, 237, 272, 334.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 92] So far as it is possible to form an opinion, Chaucer achieved,
-while living, a more than average share of social consideration
-and eminence. He married well, was a man of business and
-of the world, and had a keen enjoyment of existence. But
-let us not put ourselves in the situation of his contemporaries,
-and suppose that he was held by them in anything drawing
-near to the esteem in which we hold him, as the father of our
-poetry.
-[p. 93] The time is not so far distant when we were unable to
-distinguish the difference between Congreve and Shakespeare,
-or, if we did, awarded the palm to the more modern and
-legible poet. It was after Congreve's day that people set to
-thinking what authors lived before Pope, and whether the
-Canterbury Tales were worth perusing in any English but
-Dryden's. It is not so much to boast of that Chaucer's fame
-stands at last built on indestructible foundations, and that we
-have learned to dispense with the service of his candle¬
-holder! ...</seg>
+          <seg><note place="margin">[p. 92]</note>So far as it is possible to form an opinion, Chaucer achieved,
+            while living, a more than average share of social consideration
+            and eminence. He married well, was a man of business and
+            of the world, and had a keen enjoyment of existence. But
+            let us not put ourselves in the situation of his contemporaries,
+            and suppose that he was held by them in anything drawing
+            near to the esteem in which we hold him, as the father of our
+            poetry.</seg>
+          
+          <seg><note place="margin">[p. 93]</note>The time is not so far distant when we were unable to
+            distinguish the difference between Congreve and Shakespeare,
+            or, if we did, awarded the palm to the more modern and
+            legible poet. It was after Congreve's day that people set to
+            thinking what authors lived before Pope, and whether the
+            <hi rend="italic">Canterbury Tales</hi> were worth perusing in any English but
+            Dryden's. It is not so much to boast of that Chaucer's fame
+            
+            <milestone unit="page" n="98"/>
+            
+            stands at last built on indestructible foundations, and that we
+            have learned to dispense with the service of his candleholder! . . .</seg>
         </ab>
       </div>
     </body>

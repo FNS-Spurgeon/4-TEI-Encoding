@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1885, Maude Gillette Phillips. Popular Manual of English Literature...</title>
+        <title>1885, Maude Gillette Phillips. Popular Manual of English Literature.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/">Maude Gillette Phillips</author>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/">Phillips, Maude Gillette</author>
             <date cert="high" when="1885">1885</date>
-            <title level="a">Popular Manual of English Literature...</title>
+            <title level="a">Popular Manual of English Literature.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -49,7 +49,7 @@
               <publisher>University Press</publisher>
               <date>1925</date>
             </imprint>
-            <biblScope unit="volume">p</biblScope>
+            <biblScope unit="volume">Supplement</biblScope>
             <biblScope unit="part"></biblScope>
             <biblScope unit="page">101</biblScope>
           </monogr>
@@ -83,28 +83,30 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="101"/>
-        <ab type="imprint">1885. Phillips, Maude Gillette. Popular Manual of English Literature... with historical, scientific and art notes, 2 vols., New York, 1885, vol. i. pp. iii, v, ix, xiii, xvi, xix, 12, 14, 24, 25-7, 29, 31-84, 85, 86, 87, 108; vol. ii. p. 588.</ab>
+        
+        <ab type="imprint">1885. Phillips, Maude Gillette. <hi rend="italic">Popular Manual of English Literature</hi> . . . with historical, scientific and art notes, 2 vols., New York, 1885, vol. i. pp. iii, v, ix, xiii, xvi, xix, 12, 14, 24, 25-7, 29, 31-84, 85, 86, 87, 108; vol. ii. p. 588.</ab>
+        
         <ab type="quotation">
-          <seg>[Vol. i, p. 31, a portrait of Chaucer is printed; p. 31, Por¬
-traits of Chaucer; ascribing two portraits to Occleve; p. 32.
-Chaucer's Personal Appearance; p. 33, Comments on Chau-
-cer, — quotations from Lydgate and Occleve to Tennyson;
-p. 36, Tropical Study of Chaucer's Life; p. 37, Chaucer's
-Homes,— extract from Howitt’s Homes and Haunts of the
-British Poets, where the Testament of Love is accepted as
-Chaucer's; p. 38, Friends.— Strode, Gower, Scogan, Lydgate,
-Occleve, Petrarch and Froissart; p. 40, Urry's Characterization
-of Chaucer...:p. 41, Principal Sources from which Chaucer
-drew material in his Works ; p. 43, Study of the Canterbury
-Tales; p. 57, Study of "Troilus and Cressida"; pp. 59, 60,
-61, Studies of Parlement of Foules, House of Fame, and Legend
-of Good Women; p. 62, Modernizations of Chaucer's Poems;
-p. 63, Characteristics of Chaucer as a Poet,—mostly extracts
-from other writers; p. 71, Comparison of Chaucer and Dante,
-from Lowell; p. 72, The Language and Versification of Chaucer,
-—also mostly extracts; p. 76, Chaucer's Disciples and Admir¬
-ers; p. 77, Origin and Work of the Chaucer Society; p. 77,
-Famous Students of Chaucer.</seg>
+          <seg>[Vol. i, p. 31, a portrait of Chaucer is printed; p. 31,
+            <hi rend="italic">Portraits of Chaucer</hi>; ascribing two portraits to Occleve; p. 32.
+            <lb/>Chaucer's <hi rend="italic">Personal Appearance</hi>; p. 33, <hi rend="italic">Comments</hi> on
+            Chaucer,—quotations from Lydgate and Occleve to Tennyson;
+            p. 36, <hi rend="italic">Tropical Study of Chaucer's Life</hi>; p. 37, <hi rend="italic">Chaucer's
+            Homes</hi>,—extract from Howitt’s <hi rend="italic">Homes and Haunts of the
+            British Poets</hi>, where the Testament of Love is accepted as
+            Chaucer's; p. 38, <hi rend="italic">Friends</hi>.—Strode, Gower, Scogan, Lydgate,
+            Occleve, Petrarch and Froissart; p. 40, <hi rend="italic">Urry's Characterization
+            of Chaucer</hi> . . .: p. 41, <hi rend="italic">Principal Sources from which Chaucer
+            drew material in his Works</hi>; p. 43, <hi rend="italic">Study of the Canterbury
+            Tales</hi>; p. 57, Study of "<hi rend="italic">Troilus and Cressida</hi>"; pp. 59, 60,
+            61, Studies of <hi rend="italic">Parlement of Foules</hi>, <hi rend="italic">House of Fame</hi>, and <hi rend="italic">Legend
+            of Good Women</hi>; p. 62, <hi rend="italic">Modernizations of Chaucer's Poems</hi>;
+            p. 63, <hi rend="italic">Characteristics of Chaucer as a Poet</hi>,—mostly extracts
+            from other writers; p. 71, <hi rend="italic">Comparison of Chaucer and Dante</hi>,
+            from Lowell; p. 72, <hi rend="italic">The Language and Versification of Chaucer</hi>,—also
+            mostly extracts; p. 76, <hi rend="italic">Chaucer's Disciples and Admirers</hi>;
+            p. 77, <hi rend="italic">Origin and Work of the Chaucer Society</hi>; p. 77,
+            <hi rend="italic">Famous Students of Chaucer</hi>.</seg>
         </ab>
       </div>
     </body>

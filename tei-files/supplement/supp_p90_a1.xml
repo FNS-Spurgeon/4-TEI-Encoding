@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/61910432">Walter Rye</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/61910432">Rye, Walter</author>
             <date cert="high" when="1881">1881</date>
             <title level="a">A Tabular Statement of what has hitherto been found out as to the Family of Chaucer of London.</title>
           </analytic>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="90"/>
-        <ab type="imprint">1881. Rye, Walter. A Tabular Statement of what has hitherto been found out as to the Family of Chaucer of London. Selhurst. 2. 7. 1881 [i.e. July 2, 1881].</ab>
+        
+        <ab type="imprint">1881. Rye, Walter. <hi rend="italic">A Tabular Statement of what has hitherto been found out as to the Family of Chaucer of London</hi>. Selhurst. 2. 7. 1881 [i.e. July 2, 1881].</ab>
       </div>
     </body>
   </text>

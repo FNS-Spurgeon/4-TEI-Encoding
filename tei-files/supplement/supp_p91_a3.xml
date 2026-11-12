@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1882, Hubbard, William.. The Introspection and Outlook of Spenser,</title>
+        <title>1882, William Hubbard. The Introspection and Outlook of Spenser.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Hubbard, William.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Hubbard, William</author>
             <date cert="high" when="1882">1882</date>
-            <title level="a">The Introspection and Outlook of Spenser,</title>
+            <title level="a">The Introspection and Outlook of Spenser.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,16 +83,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="91"/>
-        <ab type="imprint">1882. Hubbard, William. The Introspection and Outlook of Spenser, [in] Grosart's Complete Works of Edmund Spenser, 10 vols, 1882-4, [Privately printed], vol. i, pp. 378, 379, 390, 394, 397-8.</ab>
+        
+        <ab type="imprint">1882. Hubbard, William. <hi rend="italic">The Introspection and Outlook of Spenser</hi>, [in] Grosart's <hi rend="italic">Complete Works of Edmund Spenser</hi>, 10 vols, 1882-4, [Privately printed], vol. i, pp. 378, 379, 390, 394, 397-8.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 397] Chaucer is more of this world. He took men much as he
-[p. 398] found them, without any very painful desire to refine or
-improve them. Moreover, he liked their fellowship. So it
-happened that the world did not much disappoint Chaucer,
-nor did he find it, on the whole, a bad world to live in; his
-complaints were therefore few. The pilgrimage was full
-of entertainment, and the fare along the road more than
-passable. Not so Spenser. ...</seg>
+          <seg><note place="margin">[p. 397]</note>Chaucer is more of this world. He took men much as he
+            <note place="margin">[p. 398]</note>found them, without any very painful desire to refine or
+            improve them. Moreover, he liked their fellowship. So it
+            happened that the world did not much disappoint Chaucer,
+            nor did he find it, on the whole, a bad world to live in; his
+            complaints were therefore few. The pilgrimage was full
+            of entertainment, and the fare along the road more than
+            passable. Not so Spenser. . . .</seg>
         </ab>
       </div>
     </body>

@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/61910432">Walter Rye</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/61910432">Rye, Walter</author>
             <date cert="high" when="1883">1883</date>
             <title level="a">Was Chaucer a Norfolk Man?</title>
           </analytic>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="95"/>
-        <ab type="imprint">1883. Rye, Walter. Was Chaucer a Norfolk Man? [in] The Norfolk Antiquarian Miscellany, edited by Walter Rye, vol. ii, pp. 550-552.</ab>
+        
+        <ab type="imprint">1883. Rye, Walter. <hi rend="italic">Was Chaucer a Norfolk Man?</hi> [in] <hi rend="italic">The Norfolk Antiquarian Miscellany</hi>, edited by Walter Rye, vol. ii, pp. 550-552.</ab>
       </div>
     </body>
   </text>

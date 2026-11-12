@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1884, Kate Sanborn. One view of the Chaucerian Mania</title>
+        <title>1884, Kate Sanborn. One view of the Chaucerian Mania.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/57552186">Kate Sanborn</author>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/57552186">Sanborn, Kate</author>
             <date cert="high" when="1884">1884</date>
-            <title level="a">One view of the Chaucerian Mania</title>
+            <title level="a">One view of the Chaucerian Mania.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,17 +83,21 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="99"/>
-        <ab type="imprint">1884. Sanborn, Kate. One view of the Chaucerian Mania [in] The Manhattan, March-June, p. 367.</ab>
+        
+        <ab type="imprint">1884. Sanborn, Kate. <hi rend="italic">One view of the Chaucerian Mania</hi> [in] <hi rend="italic">The Manhattan</hi>, March-June, p. 367.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 369] It would be idiotic to underrate Chaucer. He will ever be
-invaluable to the historian, antiquarian and philologist. My
-plea is for the young students who need to know so much
-besides.
-[A long and violent attack on the study of Chaucer by the
-general reader.]
-... What the young folk want of Chaucer is his descrip¬
-tions of English life and character, his humour, pathos, and
-satire, and they can be given them in a dozen pages.</seg>
+          <seg><note place="margin">[p. 369]</note>It would be idiotic to underrate Chaucer. He will ever be
+            invaluable to the historian, antiquarian and philologist. My
+            plea is for the young students who need to know so much
+            besides.</seg>
+            
+          <seg type="gloss">[A long and violent attack on the study of Chaucer by the
+            general reader.]</seg>
+            
+          <seg>. . . What the young folk want of Chaucer is his descriptions
+            of English life and character, his humour, pathos, and
+            satire, and they can be given them in a dozen pages.</seg>
         </ab>
       </div>
     </body>
