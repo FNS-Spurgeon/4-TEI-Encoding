@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1888, Paton, Frederick Noel.. Chaucer, Selected and Edited,</title>
+        <title>1888, Frederick Noel Paton. Chaucer, Selected and Edited.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/3698149235095676690006">Paton, Frederick Noel.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/3698149235095676690006">Paton, Frederick Noel</author>
             <date cert="high" when="1888">1888</date>
-            <title level="a">Chaucer, Selected and Edited,</title>
+            <title level="a">Chaucer, Selected and Edited.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,22 +83,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="110"/>
-        <ab type="imprint">1888. Paton, Frederick Noel. Chaucer, Selected and Edited, Canterbury Poets Series.</ab>
+        
+        <ab type="imprint">1888. Paton, Frederick Noel. <hi rend="italic">Chaucer, Selected and Edited</hi>, Canterbury Poets Series.</ab>
+        
         <ab type="quotation">
-          <seg>[In the Introduction (pp. ix-xxxvii) the Editor gives an
-estimate of Chaucer's Life and Works, and in the remainder
-of the book there are given–either entirely or abridged–
-The Complaint of Pitie. The Booke of the Dutchesse.
-The Assembly of Foules. Troilus and Creseide. Chaucer's
-Words unto his own Scrivener. The House of Fame. The
-Legend of Good Women. The Canterbury Tales : —The Pro¬
-logue; The Man of Lawes Tale; The Wif of Bathes Tale;
-The Doctoures Tale; The Nonnes Preestes Tale; The Second
-Nonnes Tale; The Chanones Yemannes Prologue. Good
-Counsail of Chaucer. L’Envoy de Chaucer. L’Envoy de
-Chaucer à Bukton. A Ballad. To His Empty Purse. Ballade
-sent to K. Richard. A Ballade of the Village without
-Painting.]</seg>
+          <seg type="gloss">[In the Introduction (pp. ix-xxxvii) the Editor gives an
+            estimate of Chaucer's Life and Works, and in the remainder
+            of the book there are given—either entirely or abridged—The
+            Complaint of Pitie. The Booke of the Dutchesse.
+            The Assembly of Foules. Troilus and Creseide. Chaucer's
+            Words unto his own Scrivener. The House of Fame. The
+            Legend of Good Women. The Canterbury Tales:—The
+            Prologue; The Man of Lawes Tale; The Wif of Bathes Tale;
+            The Doctoures Tale; The Nonnes Preestes Tale; The Second
+            Nonnes Tale; The Chanones Yemannes Prologue. Good
+            Counsail of Chaucer. L’Envoy de Chaucer. L’Envoy de
+            Chaucer à Bukton. A Ballad. To His Empty Purse. Ballade
+            sent to K. Richard. A Ballade of the Village without
+            Painting.]</seg>
         </ab>
       </div>
     </body>

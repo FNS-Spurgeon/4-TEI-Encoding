@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1893, Unknown.. Catalogue of Original and Early Editions of some of the Poetical and Prose Works of English Writers from Langland to Wither. . . .</title>
+        <title>1893, Unknown. Catalogue of Original and Early Editions of some of the Poetical and Prose Works of English Writers from Langland to Wither.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author>Unknown.</author>
             <date cert="high" when="1893">1893</date>
-            <title level="a">Catalogue of Original and Early Editions of some of the Poetical and Prose Works of English Writers from Langland to Wither. . . .</title>
+            <title level="a">Catalogue of Original and Early Editions of some of the Poetical and Prose Works of English Writers from Langland to Wither.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,10 +83,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="128"/>
-        <ab type="imprint">1893. Unknown. Catalogue of Original and Early Editions of some of the Poetical and Prose Works of English Writers from Langland to Wither. . . . Imprinted at New York for the Grolier Club, N°. 29 East 32nd Street... Anno Dⁿᶦ Mdcccxciij, pp. 28-37.</ab>
+        
+        <ab type="imprint">1893. Unknown. <hi rend="italic">Catalogue of Original and Early Editions of some of the Poetical and Prose Works of English Writers from Langland to Wither</hi>. . . . Imprinted at New York for the Grolier Club, N°. 29 East 32nd Street . . . Anno Dⁿᶦ Mdcccxciij, pp. 28-37.</ab>
+        
         <ab type="quotation">
-          <seg>[Collations and bibliographical details of the 1532, 1542,
-1545 [Toye], 1561, 1598 and 1602 editions.]</seg>
+          <seg type="gloss">[Collations and bibliographical details of the 1532, 1542, 1545 <add>[Toye]</add>, 1561, 1598 and 1602 editions.]</seg>
         </ab>
       </div>
     </body>

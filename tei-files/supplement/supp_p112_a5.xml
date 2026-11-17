@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1889, McClumpha, Charles Flint.. Chaucer's Dream [in] Modern Language Notes,</title>
+        <title>1889, Charles Flint McClumpha. Chaucer's Dream [in] Modern Language Notes.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/21698307">McClumpha, Charles Flint.</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/21698307">McClumpha, Charles Flint</author>
             <date cert="high" when="1889">1889</date>
-            <title level="a">Chaucer's Dream [in] Modern Language Notes,</title>
+            <title level="a">Chaucer's Dream [in] Modern Language Notes.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,17 +83,19 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="112"/>
-        <ab type="imprint">1889. McClumpha, Charles Flint. Chaucer's Dream [in] Modern Language Notes, Baltimore, 1889, vol. iv, pp. 65-67.</ab>
+        
+        <ab type="imprint">1889. McClumpha, Charles Flint. <hi rend="italic">Chaucer's Dream</hi> [in] <hi rend="italic">Modern Language Notes</hi>, Baltimore, 1889, vol. iv, pp. 65-67.</ab>
+        
         <ab type="quotation">
-          <seg>[The article notes Brandl’s  "Uber einige historische An¬
-spielungen in den Chaucer-Dichtungen" (Engl. Studien, Heft 2,
-Bd. xii); Herzberg (Lemcke’s Jahrb viii, 133); ten Brink
-(Ch. Studien, i, 165) ; Skeat (Prioresses T., p. lxxxi.) ; and
-gives data on the imperfections in ryme. From the evidence
-McChumpha would conclude that Chaucer was not the
-author, and that the original dialect of the Dream was not
-Northumbrian, but a Midland dialect exhibiting Northumbrian
-tendencies.]</seg>
+          <seg type="gloss">[The article notes Brandl’s "Uber einige historische
+            Anspielungen in den Chaucer-Dichtungen" (<hi rend="italic">Engl. Studien</hi>, Heft 2,
+            Bd. xii); Herzberg (Lemcke’s <hi rend="italic">Jahrb</hi> viii, 133); ten Brink
+            (<hi rend="italic">Ch. Studien</hi>, i, 165) ; Skeat (<hi rend="italic">Prioresses T.</hi>, p. lxxxi.) ; and
+            gives data on the imperfections in ryme. From the evidence
+            McChumpha would conclude that Chaucer was not the
+            author, and that the original dialect of the <hi rend="italic">Dream</hi> was not
+            Northumbrian, but a Midland dialect exhibiting Northumbrian
+            tendencies.]</seg>
         </ab>
       </div>
     </body>

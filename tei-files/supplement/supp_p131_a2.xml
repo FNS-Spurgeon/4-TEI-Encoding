@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1894, Mungo William MacCallum. Tennyson’s Idylls of the King and Arthurian Story from the XVIth Century,</title>
+        <title>1894, Mungo William MacCallum. Tennyson’s Idylls of the King and Arthurian Story from the XVIth Century.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/76492633">Mungo William MacCallum</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/76492633">MacCallum, Mungo William</author>
             <date cert="high" when="1894">1894</date>
-            <title level="a">Tennyson’s Idylls of the King and Arthurian Story from the XVIth Century,</title>
+            <title level="a">Tennyson’s Idylls of the King and Arthurian Story from the XVIth Century.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,19 +83,23 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="131"/>
-        <ab type="imprint">1894. Maccallum, M. W. Tennyson’s Idylls of the King and Arthurian Story from the XVIth Century, Glasgow, 1894, pp. 2, 87, 88, 89, 90, 165, 168.</ab>
+        
+        <ab type="imprint">1894. Maccallum, M. W. <hi rend="italic">Tennyson’s Idylls of the King and Arthurian Story from the XVIth Century</hi>, Glasgow, 1894, pp. 2, 87, 88, 89, 90, 165, 168.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 2] [Chaucer and Shakespeare, chief among our poets for broad
-and realistic humanity, pass by the Arthurian story, save for
-casual and mostly humorous allusions.]
-[p. 87] [It might have been expected that Chaucer would be at¬
-tracted to the romances of chivalry. But he] was a humorist,
-a man of affairs, a citizen of the world, a foe of falsetto
-extravagance.
-[p. 88] [His nearest approach to Arthurian story is in the Wife of
-Bath's Tale, but he gives it a somewhat cynical setting.] 'For
-the chivalrous romance proper he has nothing but ridicule.  ...
-To Arthurian fiction he is particularly supercilious'].</seg>
+          <seg type="gloss"><note place="margin">[p. 2]</note>[Chaucer and Shakespeare, chief among our poets for broad
+            and realistic humanity, pass by the Arthurian story, save for
+            casual and mostly humorous allusions.]</seg>
+            
+          <seg><note place="margin">[p. 87]</note><add>[It might have been expected that Chaucer would be
+            attracted to the romances of chivalry. But he]</add> was a humorist,
+            a man of affairs, a citizen of the world, a foe of falsetto
+            extravagance.</seg>
+            
+          <seg type="gloss"><note place="margin">[p. 88]</note>[His nearest approach to Arthurian story is in the <hi rend="italic">Wife of
+            Bath's Tale</hi>, but he gives it a somewhat cynical setting.] 'For
+            the chivalrous romance proper he has nothing but ridicule. . . .
+            To Arthurian fiction he is particularly supercilious'].</seg>
         </ab>
       </div>
     </body>

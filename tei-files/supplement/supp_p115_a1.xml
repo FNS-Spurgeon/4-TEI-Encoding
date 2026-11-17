@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1889, Waechter, Harriet.. The Chaucer Birthday Book,</title>
+        <title>1889, Harriet Waechter. The Chaucer Birthday Book.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="F" ref="http://viaf.org/viaf/">Waechter, Harriet.</author>
+            <author cert="high" role="F" ref="http://viaf.org/viaf/">Waechter, Harriet</author>
             <date cert="high" when="1889">1889</date>
-            <title level="a">The Chaucer Birthday Book,</title>
+            <title level="a">The Chaucer Birthday Book.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,9 +83,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="115"/>
-        <ab type="imprint">1889. Waechter, Harriet. The Chaucer Birthday Book, compiled by H. W.</ab>
+        
+        <ab type="imprint">1889. Waechter, Harriet. <hi rend="italic">The Chaucer Birthday Book</hi>, compiled by H. W.</ab>
+        
         <ab type="quotation">
-          <seg>[Quotations from Chaucer for every day in the year.]</seg>
+          <seg type="gloss">[Quotations from Chaucer for every day in the year.]</seg>
         </ab>
       </div>
     </body>

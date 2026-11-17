@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1893, George Lyman Kittredge. Chaucer's Pardoner</title>
+        <title>1893, George Lyman Kittredge. Chaucer's Pardoner.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/10578204">George Lyman Kittredge</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/10578204">Kittredge, George Lyman</author>
             <date cert="high" when="1893">1893</date>
-            <title level="a">Chaucer's Pardoner</title>
+            <title level="a">Chaucer's Pardoner.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="127"/>
-        <ab type="imprint">1893. Kittredge, George Lyman. Chaucer's Pardoner [in] The Atlantic Monthly, Dec. 1893, vol. lxxii, p. 829.</ab>
+        
+        <ab type="imprint">1893. Kittredge, George Lyman. <hi rend="italic">Chaucer's Pardoner</hi> [in] <hi rend="italic">The Atlantic Monthly</hi>, Dec. 1893, vol. lxxii, p. 829.</ab>
       </div>
     </body>
   </text>

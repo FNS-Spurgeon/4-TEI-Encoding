@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/74592971">Max Kaluza</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/74592971">Kaluza, Max</author>
             <date cert="high" when="1891">1891</date>
             <title level="a">The Romaunt of the Rose.</title>
           </analytic>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="117"/>
-        <ab type="imprint">1891. Kaluza, Max. The Romaunt of the Rose. From the unique Glasgow MS. Parallel with its original "Le Roman de la Rose." Edited by M. Kaluza, Chaucer Society, 1st series, lxxxiii.</ab>
+        
+        <ab type="imprint">1891. Kaluza, Max. <hi rend="italic">The Romaunt of the Rose</hi>. From the unique Glasgow MS. Parallel with its original "Le Roman de la Rose." Edited by M. Kaluza, Chaucer Society, 1st series, lxxxiii.</ab>
       </div>
     </body>
   </text>

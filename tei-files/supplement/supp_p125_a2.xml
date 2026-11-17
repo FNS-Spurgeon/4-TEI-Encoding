@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1892, Alfred William Pollard. Date of Chaucer's Italian Period</title>
+        <title>1892, Alfred William Pollard. Date of Chaucer's Italian Period.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/4951293">Alfred William Pollard</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4951293">Pollard, Alfred William</author>
             <date cert="high" when="1892">1892</date>
-            <title level="a">Date of Chaucer's Italian Period</title>
+            <title level="a">Date of Chaucer's Italian Period.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,10 +83,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="125"/>
-        <ab type="imprint">1892. Pollard, A. W. Date of Chaucer's Italian Period [in] The Academy, Sept. 3, 1892, no. 1061, p. 194.</ab>
+        
+        <ab type="imprint">1892. Pollard, A. W. <hi rend="italic">Date of Chaucer's Italian Period</hi> [in] <hi rend="italic">The Academy</hi>, Sept. 3, 1892, no. 1061, p. 194.</ab>
+        
         <ab type="quotation">
-          <seg>[Pollard dates the period of Italian influence as from 1379,
-to about 1387, instead of from 1373.]</seg>
+          <seg type="gloss">[Pollard dates the period of Italian influence as from 1379, to about 1387, instead of from 1373.]</seg>
         </ab>
       </div>
     </body>

@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Walter William Skeat</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
             <date cert="high" when="1892">1892</date>
             <title level="a">Rime Index to Chaucer's Troilus and Criseyde.</title>
           </analytic>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="125"/>
-        <ab type="imprint">1892. Skeat, Walter W. Rime Index to Chaucer's Troilus and Criseyde. Chaucer Soc., First Series, No. lxxxiv.</ab>
+        
+        <ab type="imprint">1892. Skeat, Walter W. <hi rend="italic">Rime Index to Chaucer's Troilus and Criseyde</hi>. Chaucer Soc., First Series, No. lxxxiv.</ab>
       </div>
     </body>
   </text>

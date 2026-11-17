@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Walter William Skeat</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
             <date cert="high" when="1894">1894</date>
-            <title level="a">A Complaint: Possibly by Chaucer</title>
+            <title level="a">A Complaint: Possibly by Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,21 +83,35 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="134"/>
-        <ab type="imprint">1894. Skeat, Walter W. A Complaint: Possibly by Chaucer [in] Athenæum, July 21 and August 4, 1894, pp. 98, 161.</ab>
+        
+        <ab type="imprint">1894. Skeat, Walter W. <hi rend="italic">A Complaint: Possibly by Chaucer</hi> [in] <hi rend="italic">Athenæum</hi>, July 21 and August 4, 1894, pp. 98, 161.</ab>
+        
         <ab type="quotation">
-          <seg>[p. 98] [From MS. Harl. 7578, fol. 15, headed 'Balade,' and
-beginning:
-'al holly youres, withouten others parte!
-wherfore? I wisse, that I ne can ne may,' etc.
-–four stanzas of eights, ababbcbc, ending
-'Sith I am youres, til deth my herte wol kerne,
-On me, youre man, now mercy haue and routh[e]
-[p. 162] [Also from Harl. 7578, fol. 15b, beginning:
-'of gretter cause may no wight him compleyne
-than y; for loue hath me sette in suich caas,' etc.
-—seven stanzas of sevens ababbcc, ending:
-'For yitte wiste I neuere none, of my lyfe,
-So litel honey in so fayre hiue.']</seg>
+          <seg type="gloss"><note place="margin">[p. 98]</note>[From MS. Harl. 7578, fol. 15, headed 'Balade,' and beginning:
+            <lg>
+              <l>'al holly youres, withouten others parte!</l>
+              <l>wherfore? I wisse, that I ne can ne may,' etc.</l>
+            </lg>
+            —four stanzas of eights, ababbcbc, ending
+            <lg>
+              <l>'Sith I am youres, til deth my herte wol kerne,</l>
+              <l>On me, youre man, now mercy haue and routh<add>[e]</add></l>
+            </lg>
+          </seg>
+            
+            <milestone unit="page" n="135"/>
+            
+          <seg type="gloss"><note place="margin">[p. 162]</note>[Also from Harl. 7578, fol. 15b, beginning:
+            <lg>
+              <l>'of gretter cause may no wight him compleyne</l>
+              <l>than y; for loue hath me sette in suich caas,' etc.</l>
+            </lg>
+            —seven stanzas of sevens ababbcc, ending:
+            <lg>
+              <l>'For yitte wiste I neuere none, of my lyfe,</l>
+              <l>So litel honey in so fayre hiue.']</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

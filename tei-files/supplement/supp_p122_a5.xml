@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1891, Walter William Skeat. The true source of Chaucer's 'Boethius,'</title>
+        <title>1891, Walter William Skeat. The true source of Chaucer's 'Boethius.'</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Walter William Skeat</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
             <date cert="high" when="1891">1891</date>
-            <title level="a">The true source of Chaucer's 'Boethius,'</title>
+            <title level="a">The true source of Chaucer's 'Boethius.'</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="122"/>
-        <ab type="imprint">1891. Skeat, Walter W. The true source of Chaucer's 'Boethius,' [in] The Athenæum, 1891, no. 3339, pp. 549-50.</ab>
+        
+        <ab type="imprint">1891. Skeat, Walter W. <hi rend="italic">The true source of Chaucer's 'Boethius,'</hi> [in] <hi rend="italic">The Athenæum</hi>, 1891, no. 3339, pp. 549-50.</ab>
       </div>
     </body>
   </text>

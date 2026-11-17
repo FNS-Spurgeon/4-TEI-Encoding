@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">John Ruskin</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
             <date cert="high" when="1889">1889</date>
             <title level="a">Præterita, Works of Ruskin.</title>
           </analytic>
@@ -83,10 +83,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="113"/>
-        <ab type="imprint">1889. Ruskin, John. Præterita, Works of Ruskin. Library edn. ed. E. T. Cook and A. Wedderburn, 1908, vol. xxxv, p. 546.</ab>
+        
+        <ab type="imprint">1889. Ruskin, John. <hi rend="italic">Præterita, Works of Ruskin</hi>. Library edn. ed. E. T. Cook and A. Wedderburn, 1908, vol. xxxv, p. 546.</ab>
+        
         <ab type="quotation">
-          <seg>[Scott] must now be read with the care which we give to
-Chaucer.</seg>
+          <seg><add>[Scott]</add> must now be read with the care which we give to Chaucer.</seg>
         </ab>
       </div>
     </body>

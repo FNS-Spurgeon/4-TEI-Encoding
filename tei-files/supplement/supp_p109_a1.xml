@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/714674">Frederick James Furnivall</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/714674">Furnivall, Frederick James</author>
             <date cert="high" when="1888">1888</date>
             <title level="a">A one-text print of Chaucer's Troilus and Criseyde. From the Campsall MS.</title>
           </analytic>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="109"/>
-        <ab type="imprint">1888. Furnivall, Fred. James. A one-text print of Chaucer's Troilus and Criseyde. From the Campsall MS. Chaucer Society.</ab>
+        
+        <ab type="imprint">1888. Furnivall, Fred. James. <hi rend="italic">A one-text print of Chaucer's Troilus and Criseyde. From the Campsall MS</hi>. Chaucer Society.</ab>
       </div>
     </body>
   </text>

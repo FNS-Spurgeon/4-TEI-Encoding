@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Walter William Skeat</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
             <date cert="high" when="1891">1891</date>
             <title level="a">A print in pamphlet form, of To Rosemunde.</title>
           </analytic>
@@ -83,15 +83,17 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="122"/>
-        <ab type="imprint">1891. Skeat, Walter W. A print in pamphlet form, of To Rosemunde. </ab>
+        
+        <ab type="imprint">1891. Skeat, Walter W. <hi rend="italic">A print in pamphlet form, of To Rosemunde</hi>.</ab>
+        
         <ab type="quotation">
-          <seg>[This poem, by Chaucer, was discovered in the Bodleian on
-April 2, 1891, by Prof. Skeat, on the last leaf of a fifteenth¬
-century copy of Chaucer’s Troilus, written out by a scribe
-named 'Tregentil,' according to Prof. Skeat’s interpretation
-of that word. That 'Tregentil' was a name is not now
-accepted. See Dr. McCracken’s article in Athenæum, Feb¬
-ruary 29, 1908, p. 258.]</seg>
+          <seg type="gloss">[This poem, by Chaucer, was discovered in the Bodleian on
+            April 2, 1891, by Prof. Skeat, on the last leaf of a fifteenth-century
+            copy of Chaucer’s <hi rend="italic">Troilus</hi>, written out by a scribe
+            named 'Tregentil,' according to Prof. Skeat’s interpretation
+            of that word. That 'Tregentil' was a name is not now
+            accepted. See Dr. McCracken’s article in <hi rend="italic">Athenæum</hi>,
+            February 29, 1908, p. 258.]</seg>
         </ab>
       </div>
     </body>
