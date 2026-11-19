@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1898-9, William Allan Neilson. The Origins and Sources of the Court of Love,</title>
+        <title>1898-9, William Allan Neilson. The Origins and Sources of the Court of Love.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/47749155">William Allan Neilson</author>
-            <date cert="high" when="1898-9">1898-9</date>
-            <title level="a">The Origins and Sources of the Court of Love,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/47749155">Neilson, William Allan</author>
+            <date cert="high" from="1898" to="1899">1898-9</date>
+            <title level="a">The Origins and Sources of the Court of Love.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,22 +83,27 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="155"/>
-        <ab type="imprint">1898-9. Neilson, William Allen. The Origins and Sources of the Court of Love, [in] Harvard Studies and Notes in Philology and Literature, 1898, vol. ii, pp. i-vi, 1-284, vol. vi, p. .</ab>
+        
+        <ab type="imprint">1898-9. Neilson, William Allen. <hi rend="italic">The Origins and Sources of the Court of Love</hi>, [in] Harvard <hi rend="italic">Studies and Notes in Philology and Literature</hi>, 1898, vol. ii, pp. i-vi, 1-284, vol. vi, p. .</ab>
+        
         <ab type="quotation">
-          <seg>[The vol. is substantially a dissertation presented to Harvard
-in 1898 for the degree of Doctor of Philosophy. An elaborate
-study of the theme, its influence, and sources.]
-[p. 289] To sum up. The author of the Court of Love was most
-influenced by Chaucer and Lydgate. The poems by the
-former which are most used by him are the Legend of Good
-Women, Parlement of Foules, Hous of Fame, and Compleynt
-to Pity. Troilus and Criseyde is frequently recalled by single
-lines, and by such episodes as the swooning of Philogenet.
-The Bok of the Duchesse may have suggested the painted
-windows near the beginning of the Court of Love, but the
-device is common. Occasional verses show a knowledge of
-at least some of the Canterbury Tales. The total result gives
-the impression of a very devoted disciple.</seg>
+          <seg type="gloss">[The vol. is substantially a dissertation presented to Harvard
+            in 1898 for the degree of Doctor of Philosophy. An elaborate
+            study of the theme, its influence, and sources.]</seg>
+          
+          <milestone unit="page" n="156"/>
+            
+          <seg><note place="margin">[p. 289]</note>To sum up. The author of the <hi rend="italic">Court of Love</hi> was most
+            influenced by Chaucer and Lydgate. The poems by the
+            former which are most used by him are the <hi rend="italic">Legend of Good
+            Women</hi>, <hi rend="italic">Parlement of Foules</hi>, <hi rend="italic">Hous of Fame</hi>, and <hi rend="italic">Compleynt
+            to Pity</hi>. <hi rend="italic">Troilus and Criseyde</hi> is frequently recalled by single
+            lines, and by such episodes as the swooning of Philogenet.
+            <hi rend="italic">The Bok of the Duchesse</hi> may have suggested the painted
+            windows near the beginning of the <hi rend="italic">Court of Love</hi>, but the
+            device is common. Occasional verses show a knowledge of
+            at least some of the <hi rend="italic">Canterbury Tales</hi>. The total result gives
+            the impression of a very devoted disciple.</seg>
         </ab>
       </div>
     </body>

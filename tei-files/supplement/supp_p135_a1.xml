@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1894-97, Walter William Skeat. The Complete Works of Geoffrey Chaucer,</title>
+        <title>1894-97, Walter William Skeat. The Complete Works of Geoffrey Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Walter William Skeat</author>
-            <date cert="high" when="1894-97">1894-97</date>
-            <title level="a">The Complete Works of Geoffrey Chaucer,</title>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
+            <date cert="high" from="1894" to="1897">1894-97</date>
+            <title level="a">The Complete Works of Geoffrey Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,138 +83,146 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="135"/>
+        
         <ab type="imprint">1894-97. Skeat, Walter W. The Complete Works of Geoffrey Chaucer, 7 vols.</ab>
+        
         <ab type="quotation">
-          <seg>[Vol. I contains:
-General Introduction; Life of Chaucer; List of his Works;
-Errata and Addenda; Introduction to the Romaunt of the
-Rose; Introduction to the Minor Poems. Text of The
-Romaunt. Text of the Minor Poems (23 pieces). Notes to
-the Romaunt and Minor Poems. pp. i-Ixiii, 1-568.
-(See also vol. iv below, for additions to Minor Poems).
-Vol. II contains:
-Introduction to Boethius; Introduction to Troilus. Text
-of Boethius. Text of Troilus. Notes to Boethius and
-Troilus. pp. i-lxxviii, 1-506.
-Vol. III contains:
-Introduction to House of Fame; Introduction to Legend;
-Introduction to Astrolabe: Plates illustrating the description
-of the Astrolabe. Texts of these Pieces. Critical Notes to
-the Astrolabe. Notes to the House of Fame, Legend and
-Astrolabe. An Account of the Sources of the Canterbury
-Tales. pp. i-lxxx, 6 plates, 1-504.
-Vol. IV contains:
-Introduction on the MSS. of the Canterbury Tales and
-their types, plan of the present edition, and a table of the
-ways of numbering the lines.
-The Introduction contains also Additions to 'The Minor
-Poems' in vol. i. These are
-XXIV. Womanly Noblesse.
-XXV. Complaint to my Mortal Foe.
-XXVI. Complaint to my Lode-sterre.
-'Notes to the Preceding Poems' follow.
-Text of the Canterbury Tales, groups A to I. Appendix to
-group A. The Tale of Gamelyn. pp. i-xxxii, 1-667.
-Vol. V contains:
-Notes to the Canterbury Tales, with an Introduction on the
-Chaucer Canon; the editions of Thynne, Stowe, Tyrwhitt,
-Chalmers, Moxon; Later Works; Some of the Minor Poems;
-the Text of the Canterbury Tales; the Harley and Ellesmere
-MSS.; Dryden’s remarks on Chaucer's verse; scansion,
-accentuation; pronunciation; sources of the notes; acknow¬
-ledgments. Notes on the tales (including Gamelyn) follow.
-Addenda. Index to the subjects, etc. explained in the notes.
-pp. i-xxviii, 1-515.
-Vol. VI contains:
-General Introduction, discussing the texts of the various
-pieces; obligations to others; æsthetic criticism; the dialect
-of Chaucer; Chaucer's Kenticisms; pronunciation, vowels,
-diphthongs, consonants, phonetically rendered; scansion and
-accents; open and close o and e, etc.; rime; assonances; final
-y and ye; stanzaic schemes; Chaucer as metrist; analysis of
-his language and grammar; versification. Glossarial Index.
-Glossary to fragments B and C of the Romaunt. Glossary to
-Gamelyn. Index of proper names. Index of authors quoted
-or referred to by Chaucer. Index of Books referred to in
-the Notes. List of MSS. General list of Errata. General
-Index, pp. i-ciii, 1-414.
-Vol. VII (Supplementary Volume), Chaucerian and other
-Pieces, contains:
-Introduction on the apocryphal pieces, generally and
-individually, and the texts as follows:
-I. Testament of Love (Usk).
-II. Plowman’s Tale.
-III. Jack Upland.
-IV. Gower's Praise of Peace.
-V. Horcleve’s Letter of Cupid.
-VI. To the Kinge's most noble Grace
-Horcleve.
-To the Lordes and Knightes of the
-Garter
-VII. Geogan's Moral Ballade.
-VIII. Lydgate’s Complaint of the Black Knight.
-IX. Lydgate’s Flour of Curtesye.
-X. Lydgate's Balade in Commendation of our Lady.
-XI. To my Soverain Lady (Lydgate).
-XII. Ballad of Good Counsel (Lydgate).¹
-XIII. Beware of Doubleness (Lydgate).
-XIV. Balade Warning Men to Beware of Deceitful
-Women (Lydgate).¹
-XV. Three Sayings (Lydgate).
-XVI. Ros's La Belle Dame sans Mercy.
-XVII. Henryson's Testament of Cressid.
-XVIII. Clanvowe’s Cuckoo and Nightingale.
-XIX. Envoy to Alison.
-XX. Flower and Leaf.
-XXI. Assembly of Ladies.
-XXII. Goodly Balade (Lydgate).¹
-XXIII. Go Forth, King (Lydgate
-¹ On the question of Lydgate's authorship of these pieces, see The
-Chaucer Canon, by H. N. MacCrachen, E. E. T. S., 1911, pp. xlviii-xlix
-XXIV: Court of Love.
-XXV. A Virelai.
-XXVI. Prosperity (John Walton).
-XXVII. Leaulte vault Richesse.
-XXVIII. Sayings printed by Caxton.
-XXIX. Balade in Praise of Chaucer.
-Notes. Glossarial Index. Index of Names. Index to
-some Subjects explained in the Notes. List of Subscribers.
-pp. i-lxxxiv, 1-628.]
-[vol. vi.    In the first place, my endeavour has been to produce a
-p. ix]
-thoroughly sound text, founded solely on the best MSS. and
-the earliest prints, which shall satisfy at once the requirements
-of the student of language and the reader who delights in
-poetry. In the interest of both, it is highly desirable that
-Chaucer's genuine works should be kept apart from those
-which were recklessly associated with them in the early
-editions, and even in modern editions have been but imper¬
-fectly suppressed. It was also desirable, or rather absolutely
-necessary, that the recent advances in our knowledge of middle-
-English grammar and phonetics should be rightly utilized,
-and that no verbal form should be allowed to appear which
-would have been unacceptable to a good scribe of the
-fourteenth century.
-I have also provided a large body of illustrative notes, many
-of them gathered from the works of my predecessors, but
-enlarged by illustrations due to my own reading during a long
-course of years, and by many others due to the labours of the
-[p. x] most recent critics. The number of allusions that have been
-traced to their origin during the past fifteen years is consider¬
-able; and much additional light has thus been thrown upon
-Chaucer's method of treating his originals.  ...
-The glossary has been compiled on a much larger scale
-than any hitherto attempted, wherein the part of speech of
-almost every word is duly marked, and every verbal form is
-sufficiently parsed.  ...
-[p. xviii] As regards the texts, my chief debt is to the Chaucer
-Society, which means, practically, Dr. Furnivall, through
-whose zeal and energy so many splendid and accurate prints of
-the MSS. have been produced, thus rendering the actual read-
-ings and spellings of the scribes accessible to students in all
-countries. It is obvious that, but for such work, no edition of
-Chaucer could have been attempted without an enormous
-increase of labour and a prodigal expenditure of time.</seg>
+          <seg type="gloss">[Vol. I contains:
+            <lb/>General Introduction; Life of Chaucer; List of his Works;
+            Errata and Addenda; Introduction to the Romaunt of the
+            Rose; Introduction to the Minor Poems. Text of The
+            Romaunt. Text of the Minor Poems (23 pieces). Notes to
+            the Romaunt and Minor Poems. pp. i-Ixiii, 1-568.
+            (See also vol. iv below, for additions to Minor Poems).
+            <lb/>Vol. II contains:
+            <lb/>Introduction to Boethius; Introduction to Troilus. Text
+            of Boethius. Text of Troilus. Notes to Boethius and
+            Troilus. pp. i-lxxviii, 1-506.
+            <lb/>Vol. III contains:
+            Introduction to House of Fame; Introduction to Legend;
+            Introduction to Astrolabe: Plates illustrating the description
+            of the Astrolabe. Texts of these Pieces. Critical Notes to
+            the Astrolabe. Notes to the House of Fame, Legend and
+            Astrolabe. An Account of the Sources of the Canterbury
+            Tales. pp. i-lxxx, 6 plates, 1-504.
+            <lb/>Vol. IV contains:
+            <lb/>Introduction on the MSS. of the Canterbury Tales and
+            their types, plan of the present edition, and a table of the
+            ways of numbering the lines.
+            <lb/>The Introduction contains also Additions to 'The Minor
+            Poems' in vol. i. These are
+            <list>
+              <item>XXIV. Womanly Noblesse.</item>
+              <item>XXV. Complaint to my Mortal Foe.</item>
+              <item>XXVI. Complaint to my Lode-sterre. 'Notes to the Preceding Poems' follow.</item>
+            </list>
+            <lb/>Text of the Canterbury Tales, groups A to I. Appendix to
+            group A. The Tale of Gamelyn. pp. i-xxxii, 1-667.
+            <lb/>Vol. V contains:
+            <lb/>Notes to the Canterbury Tales, with an Introduction on the
+            Chaucer Canon; the editions of Thynne, Stowe, Tyrwhitt,
+            Chalmers, Moxon; Later Works; Some of the Minor Poems;
+            the Text of the Canterbury Tales; the Harley and Ellesmere
+            MSS.; Dryden’s remarks on Chaucer's verse; scansion,
+            accentuation; pronunciation; sources of the notes;
+            acknowledgments. Notes on the tales (including Gamelyn) follow.
+            
+            <milestone unit="page" n="136"/>
+            
+            Addenda. Index to the subjects, etc. explained in the notes. pp. i-xxviii, 1-515.
+            <lb/>Vol. VI contains:
+            <lb/>General Introduction, discussing the texts of the various
+            pieces; obligations to others; æsthetic criticism; the dialect
+            of Chaucer; Chaucer's Kenticisms; pronunciation, vowels,
+            diphthongs, consonants, phonetically rendered; scansion and
+            accents; open and close o and e, etc.; rime; assonances; final
+            y and ye; stanzaic schemes; Chaucer as metrist; analysis of
+            his language and grammar; versification. Glossarial Index.
+            Glossary to fragments B and C of the Romaunt. Glossary to
+            Gamelyn. Index of proper names. Index of authors quoted
+            or referred to by Chaucer. Index of Books referred to in
+            the Notes. List of MSS. General list of Errata. General
+            Index, pp. i-ciii, 1-414.
+            <lb/>Vol. VII (Supplementary Volume), <hi rend="italic">Chaucerian and other
+            Pieces</hi>, contains:
+            <lb/>Introduction on the apocryphal pieces, generally and
+            individually, and the texts as follows:
+            <list>
+              <item>I. Testament of Love (Usk).</item>
+              <item>II. Plowman’s Tale.</item>
+              <item>III. Jack Upland.</item>
+              <item>IV. Gower's Praise of Peace.</item>
+              <item>V. Horcleve’s Letter of Cupid.</item>
+              <item>VI. To the Kinge's most noble Grace | To the Lordes and Knightes of the Garter. Horcleve.</item>
+              <item>VII. Geogan's Moral Ballade.</item>
+              <item>VIII. Lydgate’s Complaint of the Black Knight.</item>
+              <item>IX. Lydgate’s Flour of Curtesye.</item>
+              <item>X. Lydgate's Balade in Commendation of our Lady.</item>
+              <item>XI. To my Soverain Lady (Lydgate).</item>
+              <item>XII. Ballad of Good Counsel (Lydgate).¹</item>
+              <item>XIII. Beware of Doubleness (Lydgate).</item>
+              <item>XIV. Balade Warning Men to Beware of Deceitful Women (Lydgate).¹</item>
+              <item>XV. Three Sayings (Lydgate).</item>
+              <item>XVI. Ros's La Belle Dame sans Mercy.</item>
+              <item>XVII. Henryson's Testament of Cressid.</item>
+              <item>XVIII. Clanvowe’s Cuckoo and Nightingale.</item>
+              <item>XIX. Envoy to Alison.</item>
+              <item>XX. Flower and Leaf.</item>
+              <item>XXI. Assembly of Ladies.</item>
+              <item>XXII. Goodly Balade (Lydgate).<note type="footnote" n="[1]">[On the question of Lydgate's authorship of these pieces, see <hi rend="italic">The
+                Chaucer Canon</hi>, by H. N. MacCrachen, E. E. T. S., 1911, pp. xlviii-xlix]</note></item>
+              <item>XXIII. Go Forth, King (Lydgate).</item>
+              
+              <milestone unit="page" n="137"/>
+              
+              <item>XXIV: Court of Love.</item>
+              <item>XXV. A Virelai.</item>
+              <item>XXVI. Prosperity (John Walton).</item>
+              <item>XXVII. Leaulte vault Richesse.</item>
+              <item>XXVIII. Sayings printed by Caxton.</item>
+              <item>XXIX. Balade in Praise of Chaucer.</item>
+            </list>
+            <lb/>Notes. Glossarial Index. Index of Names. Index to
+            some Subjects explained in the Notes. List of Subscribers.
+            pp. i-lxxxiv, 1-628.]</seg>
+            
+          <seg><note place="margin">[vol. vi. p. ix]</note>In the first place, my endeavour has been to produce a
+            thoroughly sound text, founded solely on the best MSS. and
+            the earliest prints, which shall satisfy at once the requirements
+            of the student of language and the reader who delights in
+            poetry. In the interest of both, it is highly desirable that
+            Chaucer's genuine works should be kept apart from those
+            which were recklessly associated with them in the early
+            editions, and even in modern editions have been but
+            imperfectly suppressed. It was also desirable, or rather absolutely
+            necessary, that the recent advances in our knowledge of
+            middle-English grammar and phonetics should be rightly utilized,
+            and that no verbal form should be allowed to appear which
+            would have been unacceptable to a good scribe of the
+            fourteenth century.</seg>
+            
+          <seg>I have also provided a large body of illustrative notes, many
+            of them gathered from the works of my predecessors, but
+            enlarged by illustrations due to my own reading during a long
+            course of years, and by many others due to the labours of the
+            <note place="margin">[p. x]</note>most recent critics. The number of allusions that have been
+            traced to their origin during the past fifteen years is
+            considerable; and much additional light has thus been thrown upon
+            Chaucer's method of treating his originals. . . .</seg>
+            
+          <seg>The glossary has been compiled on a much larger scale
+            than any hitherto attempted, wherein the part of speech of
+            almost every word is duly marked, and every verbal form is
+            sufficiently parsed. . . .</seg>
+            
+          <seg><note place="margin">[p. xviii]</note>As regards the texts, my chief debt is to the Chaucer
+            Society, which means, practically, Dr. Furnivall, through
+            whose zeal and energy so many splendid and accurate prints of
+            the MSS. have been produced, thus rendering the actual readings
+            and spellings of the scribes accessible to students in all
+            countries. It is obvious that, but for such work, no edition of
+            Chaucer could have been attempted without an enormous
+            increase of labour and a prodigal expenditure of time.</seg>
         </ab>
       </div>
     </body>

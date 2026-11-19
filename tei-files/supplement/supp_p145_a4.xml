@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/394579">Oscar Lovell Triggs</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/394579">Triggs, Oscar Lovell</author>
             <date cert="high" when="1895">1895</date>
             <title level="a">English Studies.</title>
           </analytic>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="145"/>
-        <ab type="imprint">1895. Triggs, Oscar Lovell. English Studies. (No. 1) The Assembly of God... by J. Lydgate, Chicago, English Studies, No. 1, and E.E.T.S. Extra series, No. lxix (issued conjointly). Introduction, pp. xii, xiv-xxii, xxix-xxxi, xxxv, xxxvii, xli, xlii, xlvii-liv, lvi- lxi, lxiv, lxxi, lxxii.</ab>
+        
+        <ab type="imprint">1895. Triggs, Oscar Lovell. <hi rend="italic">English Studies</hi>. (No. 1) The Assembly of God . . . by J. Lydgate, Chicago, English Studies, No. 1, and E.E.T.S. Extra series, No. lxix (issued conjointly). Introduction, pp. xii, xiv-xxii, xxix-xxxi, xxxv, xxxvii, xli, xlii, xlvii-liv, lvi- lxi, lxiv, lxxi, lxxii.</ab>
       </div>
     </body>
   </text>

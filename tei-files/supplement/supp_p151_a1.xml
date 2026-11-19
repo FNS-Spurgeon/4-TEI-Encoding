@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/41846937">Algernon Charles Swinburne</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/41846937">Swinburne, Algernon Charles</author>
             <date cert="high" when="1896">1896</date>
             <title level="a">Robert Burns, a Poem.</title>
           </analytic>
@@ -83,12 +83,18 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="151"/>
-        <ab type="imprint">1896. Swinburne, Algernon Charles. Robert Burns, a Poem. Edinburgh: Printed for the Members of the Burns Centenary Club: 1896, p. 9. (Poems, 6 vols., London, 1904, vol. vi, p. 352.</ab>
+        
+        <ab type="imprint">1896. Swinburne, Algernon Charles. <hi rend="italic">Robert Burns</hi>, a Poem. Edinburgh: Printed for the Members of the Burns Centenary Club: 1896, p. 9. (Poems, 6 vols., London, 1904, vol. vi, p. 352.</ab>
+        
         <ab type="quotation">
-          <seg>The daisy by his ploughshare cleft.  ...
-He carved in rhyme.
-But Chaucer's daisy shines a star
-Above his ploughshare's reach to mar.</seg>
+          <seg>
+            <lg>
+              <l>The daisy by his ploughshare cleft. . . .</l>
+              <l>He carved in rhyme.</l>
+              <l>But Chaucer's daisy shines a star</l>
+              <l>Above his ploughshare's reach to mar.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

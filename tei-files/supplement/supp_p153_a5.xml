@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p153_a5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p153_a6">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1897, Francis March. The Enlargement of the English Dictionary</title>
+        <title>1897, Frank Jewett Mather. On the Asserted Meeting of Chaucer and Petrarch.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/54265976">Francis March</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/721929">Mather, Frank Jewett</author>
             <date cert="high" when="1897">1897</date>
-            <title level="a">The Enlargement of the English Dictionary</title>
+            <title level="a">On the Asserted Meeting of Chaucer and Petrarch.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,12 +83,24 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="153"/>
-        <ab type="imprint">1897. March, Francis A. The Enlargement of the English Dictionary [in] Transactions American Philological Association, 1897, Boston, vol. xxviii, pp. 89, 90.</ab>
+        
+        <ab type="imprint">1897. Mather, Frank Jewett. <hi rend="italic">On the Asserted Meeting of Chaucer and Petrarch</hi>, [in] <hi rend="italic">Modern Language Notes</hi>, January 1897, vol. xii. pp. 1-11.</ab>
+        
         <ab type="quotation">
-          <seg>Our students are no longer permitted to read Chaucer with
-the pronunciation of to-day. Study of the poets, especially
-of their meter and rimes, demands a thorough knowledge of
-their pronunciation.  ...</seg>
+          <seg><note place="margin">[p. 8.]</note>Finally, we are not in a position to assert dogmatically that
+            Chaucer did not meet Petrarch at Padua, we may only recapitulate
+            certain serious difficulties in the way of such a theory.
+            In the first place, it is doubtful if Petrarch had written the
+            <note place="margin">[p. 9.]</note>Latin <hi rend="italic">Tale of Griseldis</hi> before Chaucer left Italy; next it is
+            doubtful that the journey to Padua can reasonably be fitted
+            into the intervals of Chaucer's business in Italy; it is,
+            furthermore, probable that in the Clerk’s <hi rend="italic">Prologue</hi> Chaucer invented
+            the meeting for the Clerk, unlikely that he recorded thus
+            darkly a fact of his own life; finally, there is nothing in the
+            circumstances of the composition of the <hi rend="italic">Clerk's Tale</hi>, aside
+            from the <hi rend="italic">Prologue</hi>, that makes the meeting a necessary
+            presupposition. The meeting of the two poets is a bare, a
+            doubtful possibility, for which the positive evidence is nil.</seg>
         </ab>
       </div>
     </body>

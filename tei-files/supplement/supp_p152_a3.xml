@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1897, George Hempl. The Relation of the 'Knights Tale' to Palamon and Arcite,</title>
+        <title>1897, George Hempl. The Relation of the 'Knights Tale' to Palamon and Arcite.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/45060688">George Hempl</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/45060688">Hempl, George</author>
             <date cert="high" when="1897">1897</date>
-            <title level="a">The Relation of the 'Knights Tale' to Palamon and Arcite,</title>
+            <title level="a">The Relation of the 'Knights Tale' to Palamon and Arcite.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,12 +83,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="152"/>
-        <ab type="imprint">1897. Hempl, George. The Relation of the 'Knights Tale' to Palamon and Arcite, read at Third Annual Convention of the Central Division of the Modern Language Association of America, [in] Modern Language Notes, Baltimore, 1898, vol. xiii, p. 84.</ab>
+        
+        <ab type="imprint">1897. Hempl, George. <hi rend="italic">The Relation of the 'Knights Tale' to Palamon and Arcite</hi>, read at Third Annual Convention of the Central Division of the Modern Language Association of America, [in] <hi rend="italic">Modern Language Notes</hi>, Baltimore, 1898, vol. xiii, p. 84.</ab>
+        
         <ab type="quotation">
-          <seg>... Chaucer's Palamon and Arcite is no longer the
-mystical thing we have supposed it to be, inasmuch as the
-larger part of it is the larger part of the Knightes Tale as we
-have it.  ... [Report of Paper.]</seg>
+          <seg>. . . Chaucer's <hi rend="italic">Palamon and Arcite</hi> is no longer the
+            mystical thing we have supposed it to be, inasmuch as the
+            larger part of it is the larger part of the <hi rend="italic">Knightes Tale</hi> as we
+            have it. . . . <add>[Report of Paper.]</add></seg>
         </ab>
       </div>
     </body>

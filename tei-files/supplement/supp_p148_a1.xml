@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jean Jules Jusserand</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/19688131">Jusserand, Jean Jules</author>
             <date cert="high" when="1896">1896</date>
             <title level="a">Did Chaucer meet Petrarch?</title>
           </analytic>
@@ -83,7 +83,8 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="148"/>
-        <ab type="imprint">1896. Jusserand, J. J. Did Chaucer meet Petrarch? [in] Nineteenth Century, June 1896, vol. xxxix, p. 993.</ab>
+        
+        <ab type="imprint">1896. Jusserand, J. J. <hi rend="italic">Did Chaucer meet Petrarch?</hi> [in] <hi rend="italic">Nineteenth Century</hi>, June 1896, vol. xxxix, p. 993.</ab>
       </div>
     </body>
   </text>

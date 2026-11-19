@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/29578308">Frederic Ives Carpenter</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/29578308">Carpenter, Frederic Ives</author>
             <date cert="high" when="1897">1897</date>
             <title level="a">Spenser’s Cave of Despair.</title>
           </analytic>
@@ -83,9 +83,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="151"/>
-        <ab type="imprint">1897. Carpenter, Frederick Ives. Spenser’s Cave of Despair. An Essay in Literary Comparison, [in] Modern Language Notes, May 1897, vol. xii, p. 130.</ab>
+        
+        <ab type="imprint">1897. Carpenter, Frederick Ives. <hi rend="italic">Spenser’s Cave of Despair</hi>. An Essay in Literary Comparison, [in] <hi rend="italic">Modern Language Notes</hi>, May 1897, vol. xii, p. 130.</ab>
+        
         <ab type="quotation">
-          <seg>[Chaucer's Parson's Tale is a transition from Mediæval theology to English poetry.]</seg>
+          <seg type="gloss">[Chaucer's <hi rend="italic">Parson's Tale</hi> is a transition from Mediæval theology to English poetry.]</seg>
         </ab>
       </div>
     </body>

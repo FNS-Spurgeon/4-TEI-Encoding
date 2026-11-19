@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/5007987">William Carew Hazlitt</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/5007987">Hazlitt, William Carew</author>
             <date cert="high" when="1895">1895</date>
             <title level="a">Early Popular Poetry of Scotland and the Northern Border.</title>
           </analytic>
@@ -83,11 +83,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="140"/>
-        <ab type="imprint">1895. Hazlitt, W[illiam] Carew. Early Popular Poetry of Scotland and the Northern Border. Edited by David Laing, in 1822 and 1826. Re-arranged with additions... by W. Carew Hazlitt, London, 1895, vol. i, p. 1; vol. ii, p. 90.</ab>
+        
+        <ab type="imprint">1895. Hazlitt, W[illiam] Carew. <hi rend="italic">Early Popular Poetry of Scotland and the Northern Border</hi>. Edited by David Laing, in 1822 and 1826. Re-arranged with additions... by W. Carew Hazlitt, London, 1895, vol. i, p. 1; vol. ii, p. 90.</ab>
+        
         <ab type="quotation">
-          <seg>[Vol. ii, p. 90]
-[The story of Adam Bel may owe its rise perhaps to the
-Cook's Tale of Gamelyn, in Chaucer.]</seg>
+          <seg type="gloss"><note place="margin">[Vol. ii, p. 90]</note>[The story of <hi rend="italic">Adam Bel</hi> may owe its rise perhaps to the Cook's Tale of Gamelyn, in Chaucer.]</seg>
         </ab>
       </div>
     </body>

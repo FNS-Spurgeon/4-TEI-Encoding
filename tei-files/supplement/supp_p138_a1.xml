@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1894, C. Alphonso Smith. Letter headed Chaucer;</title>
+        <title>1894, Charles Alphonso Smith. Letter headed Chaucer.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/64789534">C. Alphonso Smith</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/64789534">Smith, Charles Alphonso</author>
             <date cert="high" when="1894">1894</date>
-            <title level="a">Letter headed Chaucer;</title>
+            <title level="a">Letter headed Chaucer.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,12 +83,14 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="138"/>
-        <ab type="imprint">1894. Smith, C. Alphonso. Letter headed Chaucer; [in] Modern Language Notes, Baltimore, 1894, vol. ix, April, p. 125.</ab>
+        
+        <ab type="imprint">1894. Smith, C. Alphonso. Letter headed <hi rend="italic">Chaucer</hi>; [in] <hi rend="italic">Modern Language Notes</hi>, Baltimore, 1894, vol. ix, April, p. 125.</ab>
+        
         <ab type="quotation">
-          <seg>[On Legende (Dido), ll. 1336-40, with a parallel in Æneid,
-iv, 651-3; and on Skeat’s note as to insertion of Swete after
-'0' in l. 1338 in two MSS.:
-"And seide, 'O Cloth, whyl Iupiter hit leste.' "]</seg>
+          <seg type="gloss">[On <hi rend="italic">Legende</hi> (Dido), ll. 1336-40, with a parallel in <hi rend="italic">Æneid</hi>,
+            iv, 651-3; and on Skeat’s note as to insertion of Swete after
+            '0' in l. 1338 in two MSS.:
+            <l>"And seide, 'O Cloth, whyl Iupiter hit leste.'"]</l></seg>
         </ab>
       </div>
     </body>
