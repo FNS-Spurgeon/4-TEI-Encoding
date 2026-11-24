@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p6_a1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p6_a2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1869, John Ruskin. The Queen of the Air. Works of Ruskin.</title>
+        <title>1869, John Ruskin. Letter to Charles Eliot Norton.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -38,7 +38,7 @@
           <analytic>
             <author cert="high" role="M" ref="http://viaf.org/viaf/73859585">Ruskin, John</author>
             <date cert="high" when="1869">1869</date>
-            <title level="a">The Queen of the Air. Works of Ruskin.</title>
+            <title level="a">Letter to Charles Eliot Norton.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -51,7 +51,7 @@
             </imprint>
             <biblScope unit="volume">Supplement</biblScope>
             <biblScope unit="part"></biblScope>
-            <biblScope unit="page">6</biblScope>
+            <biblScope unit="page">6-7</biblScope>
           </monogr>
         </biblStruct>
       </sourceDesc>
@@ -84,16 +84,17 @@
       <div type="allusion">
         <milestone unit="page" n="6"/>
         
-        <ab type="imprint">1869. Ruskin, John. <hi rend="italic">The Queen of the Air. Works of Ruskin</hi>, Library edn., ed. E. T. Cock and A. Wedderburn, 1905, vol. xix, pp. 335-6.</ab>
+        <ab type="imprint">1869. Ruskin, John. <hi rend="italic">Letter</hi> to Charles Eliot Norton, 17<hi rend="italic">th November</hi>, 1869. Letters of Ruskin, vol. i, [in] <hi rend="italic">Works of Ruskin</hi>, Library edn., ed. E. T. Cook and A. Wedderburn, vol. xxxvi, p. 597.</ab>
         
         <ab type="quotation">
-          <seg>The mother of Virgil bearing the name of Maia, Virgil
-            himself received his name from the seven stars; and he,
-            in forming, first, the mind of Dante, and through him that
-            of Chaucer (besides whatever special minor influence came
-            from the <hi rend="italic">Pastorals and Georgics</hi>), became the
-            fountain-head of all the best literary power connected with the love
-            of vegetative nature among civilized races of men.</seg>
+          <seg>2. I am translating or transferring "Chaucer's Dream"
+            into intelligible and simple English, and am going to print
+            
+            <milestone unit="page" n="7"/>
+            
+            it with the original, and a note on every difficult or pretty
+            word, for the first of my series of standard literature for
+            young people. I hope to get it out also about my birthday.</seg>
         </ab>
       </div>
     </body>

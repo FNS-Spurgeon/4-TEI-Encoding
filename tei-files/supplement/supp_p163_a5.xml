@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1899, Henry Cecil Kennedy Wyld. Contributions to the History of the Guttural Sounds in English,</title>
+        <title>1899, Henry Cecil Kennedy Wyld. Contributions to the History of the Guttural Sounds in English.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/35144782951738212722">Henry Cecil Kennedy Wyld</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/35144782951738212722">Wyld, Henry Cecil Kennedy</author>
             <date cert="high" when="1899">1899</date>
-            <title level="a">Contributions to the History of the Guttural Sounds in English,</title>
+            <title level="a">Contributions to the History of the Guttural Sounds in English.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -83,9 +83,11 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="163"/>
-        <ab type="imprint">1899. Wyld, Henry Cecil. Contributions to the History of the Guttural Sounds in English, [in] Transactions of the Philological Society, 1899-1902. London, 1902, pp. 131, 134, 145, 159, 167-8, 174, 180-1, 183, 185, 191, 196-7, 200, 202, 204.</ab>
+        
+        <ab type="imprint">1899. Wyld, Henry Cecil. <hi rend="italic">Contributions to the History of the Guttural Sounds in English</hi>, [in] <hi rend="italic">Transactions of the Philological Society</hi>, 1899-1902. London, 1902, pp. 131, 134, 145, 159, 167-8, 174, 180-1, 183, 185, 191, 196-7, 200, 202, 204.</ab>
+        
         <ab type="quotation">
-          <seg>[Many examples from Chaucer in the word-lists.]</seg>
+          <seg type="gloss">[Many examples from Chaucer in the word-lists.]</seg>
         </ab>
       </div>
     </body>

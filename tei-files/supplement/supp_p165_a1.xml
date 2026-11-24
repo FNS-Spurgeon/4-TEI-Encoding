@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/18142204">Francis Barton Gummere</author>
-            <date cert="high" when="19">1900</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/18142204">Gummere, Francis Barton</author>
+            <date cert="high" when="1900">1900</date>
             <title level="a">Is Chaucer to be reckoned as a Modern or Mediæval Poet?</title>
           </analytic>
           <monogr>
@@ -83,23 +83,25 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="165"/>
-        <ab type="imprint">1900. Gummere, F. B. Is Chaucer to be reckoned as a Modern or Mediæval Poet? [in] Publications of the Modern Language Assn. of America, Baltimore, 1901, vol. xvi (new series, ix), pp. xxxvii-xl.</ab>
+        
+        <ab type="imprint">1900. Gummere, F. B. <hi rend="italic">Is Chaucer to be reckoned as a Modern or Mediæval Poet?</hi> [in] <hi rend="italic">Publications of the Modern Language Assn. of America</hi>, Baltimore, 1901, vol. xvi (new series, ix), pp. xxxvii-xl.</ab>
+        
         <ab type="quotation">
-          <seg>[Judged by his genius, Chaucer belongs to no one period;
-judged by the conditions which governed the making of his
-poetry, he is mainly mediæval; it is otherwise in his
-sentiment and humour. "In the middle ages sentiment and
-humour were largely impersonal ; sentiment either lay in
-solution with the material of the poem, or else belonged to a
-a guild, as in the case of the hymn. Humour, too, was an
-affair of communities rather than persons.  ... On the other
-hand, both modern humour and modern sentiment are over-
-whelmingly individual.  ... Turning to Chaucer, and applying
-these two tests, the critic is fain to say that this great poet
-is tentatively modern in his sentiment, triumphantly modern
-in his humour, and distinctly modern in the attitude which
-he takes toward his own work, pp. xxxvii-viii. This is
-modified as the paper progresses.]</seg>
+          <seg type="gloss">[Judged by his genius, Chaucer belongs to no one period;
+            judged by the conditions which governed the making of his
+            poetry, he is mainly mediæval; it is otherwise in his
+            sentiment and humour. "In the middle ages sentiment and
+            humour were largely impersonal; sentiment either lay in
+            solution with the material of the poem, or else belonged to a
+            a guild, as in the case of the hymn. Humour, too, was an
+            affair of communities rather than persons. . . . On the other
+            hand, both modern humour and modern sentiment are overwhelmingly
+            individual. . . . Turning to Chaucer, and applying
+            these two tests, the critic is fain to say that this great poet
+            is tentatively modern in his sentiment, triumphantly modern
+            in his humour, and distinctly modern in the attitude which
+            he takes toward his own work, pp. xxxvii-viii. This is
+            modified as the paper progresses.]</seg>
         </ab>
       </div>
     </body>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p12_a2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p12_a1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1870, Henry Thomas Riley. Report, [in] First Report of the Royal Commission on Historical Manuscripts.</title>
+        <title>1870, David Laing Purves. The Canterbury Tales and Fairie Queene: with Other Poems of Chaucer and Spenser.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/34556234">Riley, Henry Thomas</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/58065850">Purves, David Laing</author>
             <date cert="high" when="1870">1870</date>
-            <title level="a">Report, [in] First Report of the Royal Commission on Historical Manuscripts.</title>
+            <title level="a">The Canterbury Tales and Fairie Queene: with Other Poems of Chaucer and Spenser.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,16 +84,14 @@
       <div type="allusion">
         <milestone unit="page" n="12"/>
         
-        <ab type="imprint">1870. Riley, Henry Thomas. Report, [in] <hi rend="italic">First Report of the Royal Commission on Historical Manuscripts</hi>, Appendix, London, 1870, p. 84.</ab>
+        <ab type="imprint">1870. Purves, D. Laing. <hi rend="italic">The Canterbury Tales and Fairie Queene</hi>: with <hi rend="italic">Other Poems of Chaucer and Spenser</hi>. Edited for Popular Perusal (Edinburgh, 1870).</ab>
         
         <ab type="quotation">
-          <seg>There can be little doubt that, from its singular multiplicity
-            of Sollars, Solers, or sun-chambers (fitted with bay-windows,
-            probably), King's Hall was commonly known in Cambridge,
-            at least during the 14th century, as "Sollars Hall"; and
-            that this is the long-sought college which Geoffrey Chaucer
-            mentions in the <hi rend="italic">Reves Tale</hi>, as "Soleres Hall," and of which
-            he himself is supposed to have been a member.</seg>
+          <seg type="gloss">[Preceded by a Preface, mentioning that the object of the
+            volume is to place before the general reader the Canterbury
+            Tales and Fairie Queene in a way that will render their
+            "popular perusal" easy. Followed by a Life of Chaucer and
+            some remarks on his poems.]</seg>
         </ab>
       </div>
     </body>

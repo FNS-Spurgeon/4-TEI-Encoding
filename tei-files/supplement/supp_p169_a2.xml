@@ -36,8 +36,8 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Walter William Skeat</author>
-            <date cert="high" when="19">1900</date>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/4939197">Skeat, Walter William</author>
+            <date cert="high" when="1900">1900</date>
             <title level="a">In Honorem F. J. F.</title>
           </analytic>
           <monogr>
@@ -83,23 +83,31 @@
     <body>
       <div type="allusion">
         <milestone unit="page" n="169"/>
-        <ab type="imprint">1900. Skeat, Walter W. In Honorem F. J. F. [dated 1900, in] An English Miscellany presented to Dr. Furnivall on his 75th birthday, Oxford, 1901, pp. ii, iii.</ab>
+        
+        <ab type="imprint">1900. Skeat, Walter W. <hi rend="italic">In Honorem F. J. F.</hi> [dated 1900, in] <hi rend="italic">An English Miscellany</hi> presented to Dr. Furnivall on his 75th birthday, Oxford, 1901, pp. ii, iii.</ab>
+        
         <ab type="quotation">
-          <seg>In Honorem F. J. F. (A. D. 1900).
-(From MS. Harl. 7334, fol. 999, back.)
-A Clerk ther was of Cauntebrigge also,
-That unto rowing haddè longe y-go.
-Of thinnè shidès wolde he shippès makè,
-And he was natright fat, I undertakè.
-And whan his ship he wrought had attè fullè,
-Right gladly up the river wolde he pullè,
-. . . . . . . . . . .
-Ne stinted he his cours for regn ne snowè;
-It was a joyè for to seen him rowè!
-Yit was him leuer, in his shelves newè,
-Six oldè textès, clad in greenish hewè,
-Of Chaucer and his oldè poesye
-Than ale, or wyn of Lepe, or Malvoisyè.</seg>
+          <seg>
+            <lg>
+              <head>In Honorem F. J. F. (A. D. 1900).
+                <lb/>(From MS. Harl. 7334, fol. 999, back.)</head>
+              <l>A Clerk ther was of Cauntebrigge also,</l>
+              <l>That unto rowing haddè longe y-go.</l>
+              <l>Of thinnè shidès wolde he shippès makè,</l>
+              <l>And he was natright fat, I undertakè.</l>
+              <l>And whan his ship he wrought had attè fullè,</l>
+              <l>Right gladly up the river wolde he pullè,</l>
+            </lg>
+            . . . . . . . . . . .
+            <lg>
+              <l>Ne stinted he his cours for regn ne snowè;</l>
+              <l>It was a joyè for to seen him rowè!</l>
+              <l>Yit was him leuer, in his shelves newè,</l>
+              <l>Six oldè textès, clad in greenish hewè,</l>
+              <l>Of Chaucer and his oldè poesye</l>
+              <l>Than ale, or wyn of Lepe, or Malvoisyè.</l>
+            </lg>
+          </seg>
         </ab>
       </div>
     </body>

@@ -2,8 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e408f03-e2ce-49f0-a340-5c758aec5f9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/csv2tei.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/csv2tei.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/authorsList.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/authorsList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/authors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/authors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p160_a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p161_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p161_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p161_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p161_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p161_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p161_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p161_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p161_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p162_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p162_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p162_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p162_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p162_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p162_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p163_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p164_a8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p165_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p166_a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p167_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p167_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p167_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p167_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p168_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p168_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p169_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p169_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p169_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p169_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p169_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p169_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p169_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p169_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p170_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p170_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p170_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p170_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p170_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p170_a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p170_a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p170_a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p171_a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p171_a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p171_a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p171_a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei-files/supplement/supp_p171_a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei-files/supplement/supp_p171_a3.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +146,7 @@
       <workItem from="1792417421916" duration="2305000" />
       <workItem from="1792503888859" duration="3858000" />
       <workItem from="1793283219970" duration="573000" />
+      <workItem from="1795511371969" duration="167000" />
     </task>
     <servers />
   </component>
@@ -108,6 +160,6 @@
     <SUITE FILE_PATH="coverage/4_TEI_Encoding$TEI_Additions.coverage" NAME="TEI_Additions Coverage Results" MODIFIED="1784107650790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/4_TEI_Encoding$tei2datatable.coverage" NAME="tei2datatable Coverage Results" MODIFIED="1790763520680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/4_TEI_Encoding$pageLink_additions.coverage" NAME="pageLink_additions Coverage Results" MODIFIED="1789458678261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/4_TEI_Encoding$authorsList.coverage" NAME="authorsList Coverage Results" MODIFIED="1790172088930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/4_TEI_Encoding$authorsList.coverage" NAME="authorsList Coverage Results" MODIFIED="1795511459650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
   </component>
 </project>

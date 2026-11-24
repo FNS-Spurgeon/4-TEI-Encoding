@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/FNS-Spurgeon/4-TEI-Encoding/refs/heads/main/odd/tei_chaucerAllusions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p91_a4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="supp_p91_a3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1882, James Mitchell. Letter to Dr. Furnivall.</title>
+        <title>1882, William Hubbard. The Introspection and Outlook of Spenser.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,9 +36,9 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/">Mitchell, James</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/">Hubbard, William</author>
             <date cert="high" when="1882">1882</date>
-            <title level="a">Letter to Dr. Furnivall.</title>
+            <title level="a">The Introspection and Outlook of Spenser.</title>
           </analytic>
           <monogr>
             <title level="m">Five Hundred Years of Chaucer Criticism and Allusion</title>
@@ -84,33 +84,17 @@
       <div type="allusion">
         <milestone unit="page" n="91"/>
         
-        <ab type="imprint">1882. Mitchell, James, <hi rend="italic">Letter to Dr. Furnivall</hi>, April 3rd.</ab>
+        <ab type="imprint">1882. Hubbard, William. <hi rend="italic">The Introspection and Outlook of Spenser</hi>, [in] Grosart's <hi rend="italic">Complete Works of Edmund Spenser</hi>, 10 vols, 1882-4, [Privately printed], vol. i, pp. 378, 379, 390, 394, 397-8.</ab>
         
         <ab type="quotation">
-          <seg>SIR,
-            <lb/>In answer to your query of yesterday morning:—The
-            walls of Blenheim Park are built of stone dug on the estate,—
-            a kind of light brown oolite, certainly not green stone. They
-            have in places grown green with age &amp; moss. Chaucer uses a
-            poet's licence in describing them as green. The Palace itself
-            is built of Taynton stone (oolite). Do not know of any green
-            stone to be found in this neighbourhood.</seg>
-            
-          <seg type="gloss">[The reference here is to the Parlement of Foules, l. 123:
-            <lg>
-              <l>This forseid African me hente anoon,</l>
-              <l>And forth with him unto a gate broghte</l>
-              <l>Right of a parke, walled with grene stoon.</l>
-            </lg>
-            Hales, in <hi rend="italic">Gentleman's Magazine</hi>, showed there was a park at
-            Woodstock surrounded by a stone wall, and it has been held
-            that Chaucer was thinking of this in the passage above.
-            Köppel, however, in <hi rend="italic">Anglia</hi>, xiv. 234, has shown that here the
-            poet partly follows Boccaccio's <hi rend="italic">Amorosa Visione</hi>, where there
-            is mention of un muro antico. (See Skeat's note to the P. of
-            Foules, Library edn., p. 510.) It was from this letter by J.
-            Mitchell that Dr. Furnivall quoted in his article, <hi rend="italic">Academy</hi>,
-            1882, vol. xxi. p. 269. See Furnivall above.]</seg>
+          <seg><note place="margin">[p. 397]</note>Chaucer is more of this world. He took men much as he
+            <note place="margin">[p. 398]</note>found them, without any very painful desire to refine or
+            improve them. Moreover, he liked their fellowship. So it
+            happened that the world did not much disappoint Chaucer,
+            nor did he find it, on the whole, a bad world to live in; his
+            complaints were therefore few. The pilgrimage was full
+            of entertainment, and the fare along the road more than
+            passable. Not so Spenser. . . .</seg>
         </ab>
       </div>
     </body>

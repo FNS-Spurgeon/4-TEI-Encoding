@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1878, Tom Arnold. Article [in] Academy.</title>
+        <title>1878, Thomas Arnold. Article [in] Academy.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/12415990">Arnold, Tom</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/12415990">Arnold, Thomas</author>
             <date cert="high" when="1878">1878</date>
             <title level="a">Article [in] Academy.</title>
           </analytic>

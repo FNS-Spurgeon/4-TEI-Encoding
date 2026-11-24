@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1895, Walter Alexander Raleigh. The Riddle.</title>
+        <title>1895, Walter Raleigh. The Riddle.</title>
         <respStmt>
           <name xml:id="DS">Devani Singh</name>
           <resp>Principal investigator of the project. Supervision of the workflow and control of data quality.</resp>
@@ -36,7 +36,7 @@
       <sourceDesc>
         <biblStruct>
           <analytic>
-            <author cert="high" role="M" ref="http://viaf.org/viaf/95299659">Raleigh, Walter Alexander</author>
+            <author cert="high" role="M" ref="http://viaf.org/viaf/95299659">Raleigh, Walter</author>
             <date cert="high" when="1895">1895</date>
             <title level="a">The Riddle.</title>
           </analytic>
